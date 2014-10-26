@@ -6,7 +6,7 @@ including settlement to the United States.
 
 ==HTML Search Interface==
 
-An HTML search interface for this data is available at [www.mhbeals.com] (http://www.mhbeals.com/cnd)
+An HTML search interface for this data is available at [www.mhbeals.com] (http://mhbeals.com/cnd)
 
 ==Contributors==  
 
