@@ -6366,7 +6366,7 @@
       </p>
       <p>
          <line>"The Indians were extremely civil to the</line>
-         <line>traders from <mention city="Detriot" country="United State" province="Michigan"
+         <line>traders from <mention city="Detriot" country="United States" province="Michigan"
                >Detriot</mention>, having assisted them, when</line>
          <line>they knew of the approach of the Americans, to</line>
          <line>remove their property to safety, except ammuni<sh/>
@@ -7363,17 +7363,18 @@
       </publication_information>
       <articletype>News</articletype>
       <p>
-         <pg/>
+         <pg n="5"/>
          <column/>
          <line>
             <center>
-               <i>Knoxville, May </i>11.</center>
+               <dateline year="1793" month="May" day="11" city="Knoxville" province="Tennessee"
+                  country="United States"><i>Knoxville, May </i>11.</dateline></center>
          </line>
       </p>
       <p>
          <line>
             <enlarged_capital>I</enlarged_capital>T is shocking to describe the bloody scenes that </line>
-         <line>have lately taken place in this district. The </line>
+         <line>have lately taken place in <mention city="Knoxville" province="Tennessee" country="United State">this district</mention>. The </line>
          <line>Indians have killed and scalped a great number of </line>
          <line>persons, among whom is Colonel Isaac Bledose, </line>
          <line>who was massacred within 150 yards of his own </line>
@@ -7390,85 +7391,24 @@
          <line>several others, and put them to flight. It is to be </line>
          <line> remembered, that Neely and Hall had each lost a </line>
          <line>father and two brothers, and Wilson a brother, by </line>
-         <line>the savages. Men are now in pursuit of the Indi<sh/>
-         </line>
+         <line>the savages. Men are now in pursuit of the Indi<sh/></line>
          <line>ans. </line>
       </p>
       <p>
-         <dateline year="1793" month="May" day="11" city="Knoxville" province="Tennessee"
-            country="United States"/>
-         <mention city="Knoxville" province="Tennessee" country="United States"/>
-         <mention keyword="Native Americans"/>
-      </p>
-      <transcription_information>
-         <collection_date>20130607</collection_date>
-         <transcription_date>20140827</transcription_date>
-         <type>Digitised Image</type>
-         <repository>Google News Archive</repository>
-         <url>http://news.google.com/newspapers?id=3lFEAAAAIBAJ&amp;sjid=zrEMAAAAIBAJ&amp;pg=7%2C6363415</url>
-         <method>Manual Transcription</method>
-         <transcriber>MHB</transcriber>
-      </transcription_information>
-   </item>
-   <item>
-      <id>97</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1793</year>
-         <month>October</month>
-         <day>7</day>
-         <section_name>American States</section_name>
-      </publication_information>
-      <articletype>News</articletype>
-      <p>
-         <pg/>
-         <column/>
          <line>
-            <center>
-               <i>June </i>15.</center>
+            <center>               
+               <dateline year="1793" month="June" day="15" country="United States"><i>June </i>15.</dateline></center>
          </line>
       </p>
       <p>
          <line>About the 5th instant, a company of seven men </line>
-         <line>were attacked on th trace from Cumberland to </line>
-         <line>Kentucky, near Big Barren, by a party of Indi<sh/>
+         <line>were attacked on the trace from Cumberland to </line>
+         <line><mention country="United States" province="Kentucky">Kentucky</mention>, near Big Barren, by a party of <mention keyword="Native Americans">Indi</mention><sh/>
          </line>
          <line>ans; three of the company were killed, and two </line>
          <line>wounded. </line>
       </p>
       <p>
-         <dateline year="1793" month="June" day="15" country="United States"/>
-         <mention province="Kentucky" country="United States"/>
-         <mention keyword="Native Americans"/>
-      </p>
-      <transcription_information>
-         <collection_date>20130607</collection_date>
-         <transcription_date>20140827</transcription_date>
-         <type>Digitised Image</type>
-         <repository>Google News Archive</repository>
-         <url>http://news.google.com/newspapers?id=3lFEAAAAIBAJ&amp;sjid=zrEMAAAAIBAJ&amp;pg=7%2C6363415</url>
-         <method>Manual Transcription</method>
-         <transcriber>MHB</transcriber>
-      </transcription_information>
-   </item>
-   <item>
-      <id>98</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1793</year>
-         <month>October</month>
-         <day>7</day>
-         <section_name>American States</section_name>
-      </publication_information>
-      <articletype>News</articletype>
-      <p>
-         <column/>
          <line>
             <center>
                <dateline city="Augusta" province="Georgia" country="United States" day="15"
@@ -35894,8 +35834,8 @@
       </p>
       <p>
          <line>Our humanity was deeply affected by the dread<sh/></line>
-         <line>ful <mention keyword="war">carnage</mention> made by the <mention keyword="Native Americans">Indians</mention>. You
-            may be </line>
+         <line>ful <mention keyword="war">carnage</mention> made by the <mention
+               keyword="Native Americans">Indians</mention>. You may be </line>
          <line>assured that the number of Indians did not exceed </line>
          <line>1000, and that nothing saved <mention name="St. Clair, Arthur"
                dates="23 March 1737-31 August 1818">General St. Clair</mention>, </line>
@@ -35924,7 +35864,8 @@
          <line>warriors of the different tribes so united are not </line>
          <line>less than 15 or 20,000; numbers of the chiefs of </line>
          <line>ten or twelve numerous nations were here last sum<sh/></line>
-         <line>mer. <mention name="Carleton, Guy" dates="3 September 1724-10 November 1808">Lord Dorchester</mention> advised them to make </line>
+         <line>mer. <mention name="Carleton, Guy" dates="3 September 1724-10 November 1808">Lord
+               Dorchester</mention> advised them to make </line>
          <line>peace, and offered his mediations; he told them he </line>
          <line>was at peace with the <mention country="United States">United States</mention>, and
             could </line>
@@ -37439,33 +37380,51 @@
          <line>objects beneath their attention."</line>
       </p>
       <p>
-         <line><center><dateline country="United States" day="27" month="September" year="1790" province="South Carolina" city="Charelston"><i>Extract of a letter from Charleston, Sept</i>. 27.</dateline></center></line>
+         <line>
+            <center>
+               <dateline country="United States" day="27" month="September" year="1790"
+                  province="South Carolina" city="Charelston"><i>Extract of a letter from
+                     Charleston, Sept</i>. 27.</dateline>
+            </center>
+         </line>
       </p>
       <p>
-         <line>"On Sunday last weas launched at Mr. Pri<missing type="copy blur">?</missing><sh/></line>
+         <line>"On Sunday last weas launched at Mr. Pri<missing type="copy blur"
+            >?</missing><sh/></line>
          <line>chard's ship yard, Hubcaw, a fine new brig, cal<sh/></line>
          <line>culated to carry 700 barrels of rice, the property </line>
          <line>of Mr. Hary Grant, and is to be called the Prin<sh/></line>
          <line>gle. A number of spectators collected from the </line>
          <line>city to view the pleasing sight, with which they </line>
          <line>were no less delighted, than with the liberal en<sh/></line>
-         <line>tertainment and polite attention of Mr. O<missing type="copy blur">???</missing>."</line>
+         <line>tertainment and polite attention of Mr. O<missing type="copy blur"
+            >???</missing>."</line>
       </p>
       <p>
-         <line><dateline city="Boston" country="United States" day="28" month="September" province="Massachusetts" year="1790"><i>Boston, Sept</i>. 28. </dateline>Yesterday <mention keyword="shipping news">sailed</mention> from this </line>
+         <line><dateline city="Boston" country="United States" day="28" month="September"
+               province="Massachusetts" year="1790"><i>Boston, Sept</i>. 28. </dateline>Yesterday
+               <mention keyword="shipping news">sailed</mention> from this </line>
          <line>port, the ship <i>Columbia</i>, Capt. Robert Gray, on </line>
          <line>a circum navigation voyage to the North-West </line>
          <line>coast of America.&#x2013;This is the second voyage </line>
          <line>the Columbia has made to our coast&#x2013;too much </line>
          <line>praise cannot be given to the gentlemen, owners </line>
          <line>of the ship, for their exertion in extending the </line>
-         <line><mention keyword="trade">commerce</mention> of America. The native of <missing type="copy blur">???</missing></line>
+         <line><mention keyword="trade">commerce</mention> of America. The native of <missing
+               type="copy blur">???</missing></line>
          <line>has returned to the place of its nativity.</line>
       </p>
       <p>
-         <line><center><i>Dr. FRANKLIN</i></center></line>
-         <line><i>Never declare yourself the author of a <missing type="copy blur">???</missing>,</i></line>
-         <line><i>without being, beyond doubt, certain of <missing type="copy blur">???</missing></i>, was </line>
+         <line>
+            <center>
+               <i>Dr. FRANKLIN</i>
+            </center>
+         </line>
+         <line>
+            <i>Never declare yourself the author of a <missing type="copy blur">???</missing>,</i>
+         </line>
+         <line><i>without being, beyond doubt, certain of <missing type="copy blur"
+               >???</missing></i>, was </line>
          <line>the Doctor's advice. He generally enforced his </line>
          <line>percepts by giving an example.</line>
       </p>
@@ -37523,10 +37482,15 @@
          <column/>
          <line>A letter from Philadelphia <missing type="copy blur">???</missing>, that the </line>
          <line>most active preparations were making <missing type="copy blur">??? ???</missing> of </line>
-         <line>the <mention country="United States">United States</mention> for recommencing the war with </line>
-         <line>the <mention keyword="Native Americans">Miami Indians</mention>. Upwards of 1000 volunteers </line>
-         <line>had been raised in the States of <mention country="United States" province="Pennsylvania">Pennsylvania</mention>, </line>
-         <line><mention country="United States" province="New Jersey">Jersey</mention>, and <mention country="United States" province="Delaware">Delaware</mention>, in the course of six weeks, </line>
+         <line>the <mention country="United States">United States</mention> for recommencing the war
+            with </line>
+         <line>the <mention keyword="Native Americans">Miami Indians</mention>. Upwards of 1000
+            volunteers </line>
+         <line>had been raised in the States of <mention country="United States"
+               province="Pennsylvania">Pennsylvania</mention>, </line>
+         <line><mention country="United States" province="New Jersey">Jersey</mention>, and <mention
+               country="United States" province="Delaware">Delaware</mention>, in the course of six
+            weeks, </line>
          <line>and rendezvoused at Fort Pitt, from whence they </line>
          <line>were to commence their warlike oeprations.</line>
       </p>
@@ -37556,9 +37520,12 @@
       <p>
          <pg n="4"/>
          <column/>
-         <line><mention name="McGillivray, Alexander">Col. Alexander MacGillivray</mention>, the celebrated </line>
-         <line>Chief of the <mention keyword="Native Americans">Creek</mention> Nations, and an Ally of the </line>
-         <line>United States, <mention keyword="obituary">died</mention> lately in the Creek territories. </line>
+         <line><mention name="McGillivray, Alexander">Col. Alexander MacGillivray</mention>, the
+            celebrated </line>
+         <line>Chief of the <mention keyword="Native Americans">Creek</mention> Nations, and an Ally
+            of the </line>
+         <line>United States, <mention keyword="obituary">died</mention> lately in the Creek
+            territories. </line>
          <line>He passed most of his life in the remote parts of </line>
          <line>America. By his regulations, the Indians have </line>
          <line>been very much civilized. His death has occasion<sh/></line>
@@ -37590,7 +37557,8 @@
       <p>
          <pg n="5"/>
          <column/>
-         <line>The <mention keyword="Native Americans">Indians</mention>, on the borders of Kentucky, </line>
+         <line>The <mention keyword="Native Americans">Indians</mention>, on the borders of
+            Kentucky, </line>
          <line>continue to commit the most horrible acts of cruel<sh/></line>
          <line>ty upon such unfortunate Americans as fall in </line>
          <line>their power. <mention keyword="war">The burning of the Miami villages</mention>, </line>
@@ -37627,22 +37595,43 @@
       <p>
          <pg n="3"/>
          <column/>
-         <line><center><dateline city="New York" country="United States" province="New York" newspaper="New York Journal"><i>From the</i> <small_caps>New York Journal</small_caps>.</dateline></center></line>
-         <line><center><dateline city="Winchester" country="United States" province="New York" year="1790" month="October" day="20"><i>Winchester, Oct</i>. 20.</dateline></center></line>
+         <line>
+            <center>
+               <dateline city="New York" country="United States" province="New York"
+                  newspaper="New York Journal"><i>From the</i>
+                  <small_caps>New York Journal</small_caps>.</dateline>
+            </center>
+         </line>
+         <line>
+            <center>
+               <dateline city="Winchester" country="United States" province="New York" year="1790"
+                  month="October" day="20"><i>Winchester, Oct</i>. 20.</dateline>
+            </center>
+         </line>
       </p>
       <p>
-         <line>By recent intelligence from <dateline country="United States" province="Kentucky">Kentucky</dateline> we learn </line>
-         <line>that a short time ago an American vessel was <mention keyword="shipping news">seiz</mention><sh/></line>
-         <line>ed at <dateline city="New Orleans" country="United States" province="Louisiana">New Orleans</dateline>, and her cargo disposed of </line>
+         <line>By recent intelligence from <dateline country="United States" province="Kentucky"
+               >Kentucky</dateline> we learn </line>
+         <line>that a short time ago an American vessel was <mention keyword="shipping news"
+               >seiz</mention><sh/></line>
+         <line>ed at <dateline city="New Orleans" country="United States" province="Louisiana">New
+               Orleans</dateline>, and her cargo disposed of </line>
          <line>by the Spaniards. Also, that the troop which </line>
-         <line>went out against the <mention keyword="Native Americans">Indians</mention> had, not far from </line>
-         <line>the banks of the Ohio, <mention keyword="war">fallen in</mention> with about for<sh/></line>
+         <line>went out against the <mention keyword="Native Americans">Indians</mention> had, not
+            far from </line>
+         <line>the banks of the Ohio, <mention keyword="war">fallen in</mention> with about
+            for<sh/></line>
          <line>ty of them, whom they made their prisoners, af<sh/></line>
          <line>ter a slight resistance; and that having washed </line>
          <line>them, 15 turned out to be white men.</line>
       </p>
       <p>
-         <line><center><dateline city="Philadelphia" country="United States" province="Pennsylvania" month="November" day="9" year="1790"><i>Philadelphia, Nov</i> 9.</dateline></center></line>
+         <line>
+            <center>
+               <dateline city="Philadelphia" country="United States" province="Pennsylvania"
+                  month="November" day="9" year="1790"><i>Philadelphia, Nov</i> 9.</dateline>
+            </center>
+         </line>
       </p>
       <p>
          <line>We hear from undoubted authority, that a con<sh/></line>
@@ -37650,11 +37639,18 @@
          <line>the service of these United States.</line>
       </p>
       <p>
-         <line><center><dateline city="Albany" country="United States" year="1790" province="New York" month="November" day="4"><i>Albany, Nov</i>. 4.</dateline></center></line>
+         <line>
+            <center>
+               <dateline city="Albany" country="United States" year="1790" province="New York"
+                  month="November" day="4"><i>Albany, Nov</i>. 4.</dateline>
+            </center>
+         </line>
       </p>
       <p>
-         <line>The <mention keyword="colonial government">Legislature of Vermont</mention> have resolved to </line>
-         <line>pay to the <mention country="United States" province="New York">State of New York</mention> 30,000 dollars, </line>
+         <line>The <mention keyword="colonial government">Legislature of Vermont</mention> have
+            resolved to </line>
+         <line>pay to the <mention country="United States" province="New York">State of New
+               York</mention> 30,000 dollars, </line>
          <line>agreeably to the first proposition contained in the </line>
          <line>declaration of the Commissioners of this State, ap<sh/></line>
          <line>pointed to declare the consent of the Legislature </line>
@@ -37662,13 +37658,16 @@
          <line>diction of the State of New York be erected into </line>
          <line>a new State on the 17th of October last; in con<sh/></line>
          <line>sequnece whereof, all rights and titles to lands </line>
-         <line>within the <mention keyword="" country="United States" province="Vermont">State of Vermont</mention>, under grants of the </line>
+         <line>within the <mention keyword="" country="United States" province="Vermont">State of
+               Vermont</mention>, under grants of the </line>
          <line>late colony of New York, or from the State of </line>
          <line>New York (except such grants as were intended </line>
-         <line>as confirmations of those from <mention country="United States" province="New Hampshire">New Hampshire</mention>) </line>
+         <line>as confirmations of those from <mention country="United States"
+               province="New Hampshire">New Hampshire</mention>) </line>
          <line>cease and determine. The Legislature have also </line>
          <line>resolved, that a Convention be called for taking </line>
-         <line>into <mention keyword="colonial politics">consideration the constitution</mention> of the United </line>
+         <line>into <mention keyword="colonial politics">consideration the constitution</mention> of
+            the United </line>
          <line>States; the members to be elected in December, </line>
          <line>and the Convention to Meet the first week in Ja<sh/></line>
          <line>uary. The Legislature have adjourned to meet </line>
@@ -37678,20 +37677,32 @@
          <line>sentatives for Congress.</line>
       </p>
       <p>
-         <line><center><dateline city="New York" country="United States" province="New York" year="1790" month="November" day="15"><i>New York, Nov</i>. 18.</dateline></center></line>
-      </p>
-      <p><line>The following resolution has passed the House </line>
-      <line>of Representatives of the <mention province="Virginia" country="United States">State of Virginia</mention> now in </line>
-      <line>session: Resolved, That so much of this act, en<sh/></line>
-      <line>titled, "An Act, making provision for the provision for the debt </line>
-      <line>of the United States in their redemption of the </line>
-      <line>public debt, is dangerous to the rights, and sub<sh/></line>
-      <line>versive of the interest of the people; and demands </line>
-      <line>the marked disapprobation of the General Assem<sh/></line>
-      <line>bly."</line>
+         <line>
+            <center>
+               <dateline city="New York" country="United States" province="New York" year="1790"
+                  month="November" day="15"><i>New York, Nov</i>. 18.</dateline>
+            </center>
+         </line>
       </p>
       <p>
-         <line><center><dateline city="Portland" country="United States" month="November" day="15" year="1790" province="Maine"><i>Portland, Nov</i>. 15.</dateline></center></line>
+         <line>The following resolution has passed the House </line>
+         <line>of Representatives of the <mention province="Virginia" country="United States">State
+               of Virginia</mention> now in </line>
+         <line>session: Resolved, That so much of this act, en<sh/></line>
+         <line>titled, "An Act, making provision for the provision for the debt </line>
+         <line>of the United States in their redemption of the </line>
+         <line>public debt, is dangerous to the rights, and sub<sh/></line>
+         <line>versive of the interest of the people; and demands </line>
+         <line>the marked disapprobation of the General Assem<sh/></line>
+         <line>bly."</line>
+      </p>
+      <p>
+         <line>
+            <center>
+               <dateline city="Portland" country="United States" month="November" day="15"
+                  year="1790" province="Maine"><i>Portland, Nov</i>. 15.</dateline>
+            </center>
+         </line>
       </p>
       <p>
          <line>The stone work of the light house, at the en<sh/></line>
@@ -37705,9 +37716,14 @@
          <line>now preparing, and will probably be raised and </line>
          <line>lighted by the first of next month.</line>
       </p>
-   <p>
-      <line><center><dateline city="Baltimore" country="United States" province="Maryland" month="November" day="23" year="1790"><i>Baltimore, Nov</i>. 23.</dateline></center></line>
-   </p>
+      <p>
+         <line>
+            <center>
+               <dateline city="Baltimore" country="United States" province="Maryland"
+                  month="November" day="23" year="1790"><i>Baltimore, Nov</i>. 23.</dateline>
+            </center>
+         </line>
+      </p>
       <p>
          <line>A society of respectable gentlemen of this place </line>
          <line>have raised an adequate fund for the establishment </line>
@@ -37719,11 +37735,18 @@
          <line>couraged, become a national benefit.</line>
       </p>
       <p>
-         <line><center><dateline city="York" country="United States" day="10" month="November" province="Pennsylvania" year="1790"><i>York (Pennsylvania), Nov</i> 10.</dateline></center></line>
-         <line>From <dateline country="United States" city="Wright's Ferry" province="Pennsylvania">Wright's Ferry</dateline> we learn, that about </line>
+         <line>
+            <center>
+               <dateline city="York" country="United States" day="10" month="November"
+                  province="Pennsylvania" year="1790"><i>York (Pennsylvania), Nov</i> 10.</dateline>
+            </center>
+         </line>
+         <line>From <dateline country="United States" city="Wright's Ferry" province="Pennsylvania"
+               >Wright's Ferry</dateline> we learn, that about </line>
          <line>four o'clock on Wednesday afternoon, as a boat </line>
          <line>was coming from the East side, a most tremen<sh/></line>
-         <line>dous <mention keyword="weather">storm</mention> arose when she was about half way o<sh/></line>
+         <line>dous <mention keyword="weather">storm</mention> arose when she was about half way
+            o<sh/></line>
          <line>ver, by which means she was soon filled </line>
          <ine>with water, and sunk. there was six passengers </ine>
          <line>and the <missing type="copy blur">???</missing> in her (besides a small light </line>
@@ -37759,18 +37782,28 @@
          <line>to have received the least injury.</line>
       </p>
       <p>
-         <line><center><i>Extract of a letter from <dateline city="Sunbury" country="United States" province="Pennsylvania" year="1790" month="November" day="15">Sunbury, Northumberland</dateline></i></center></line>
-         <line><center><i>County (Pennsylvania), dated Nov</i>. 13.</center></line>
+         <line>
+            <center>
+               <i>Extract of a letter from <dateline city="Sunbury" country="United States"
+                     province="Pennsylvania" year="1790" month="November" day="15">Sunbury,
+                     Northumberland</dateline></i>
+            </center>
+         </line>
+         <line>
+            <center><i>County (Pennsylvania), dated Nov</i>. 13.</center>
+         </line>
       </p>
       <p>
-         <line>"One of the men who <mention keyword="crime">murdered the Indians</mention> </line>
-         <line>at <mention city="Pine Creek" country="Untied States" province="Pennsylvania">Pine Creek</mention>, was tried on Saturday evening, </line>
+         <line>"One of the men who <mention keyword="crime">murdered the Indians</mention>
+         </line>
+         <line>at <mention city="Pine Creek" country="Untied States" province="Pennsylvania">Pine
+               Creek</mention>, was tried on Saturday evening, </line>
          <line>and though a number of witnesses clearly proved </line>
          <line>the hand he had in perpetrating the horrid deed, </line>
          <line>and the confession of his counsel at the bar that </line>
          <line>confirmed it, yet, notwithstanding an express </line>
          <line>charge from the judges to bring him in guilty, </line>
-         <line>the jury ina  few moments returned with a verdict </line>
+         <line>the jury ina few moments returned with a verdict </line>
          <line>in his favour, and a subscription to pay the costs </line>
          <line>of the suit, that he might be immediately set at </line>
          <line>liberty; and all this from a most absurd idea, </line>
@@ -37809,7 +37842,12 @@
       <p>
          <pg n="2"/>
          <column/>
-         <line><center><dateline city="Halifax" country="Canada" province="Nova Scotia" day="6" month="April" year="1791"><i>Halifax, April</i> 6.</dateline></center></line>
+         <line>
+            <center>
+               <dateline city="Halifax" country="Canada" province="Nova Scotia" day="6"
+                  month="April" year="1791"><i>Halifax, April</i> 6.</dateline>
+            </center>
+         </line>
       </p>
       <p>
          <line>The late violent <mention keyword="weather">rains</mention> have done much damage </line>
@@ -37822,19 +37860,26 @@
       </p>
       <p>
          <line>Since the retreat of the fœeral troops, under </line>
-         <line><mention name="Harmar, Josiah" dates="10 November 1753-20 August 1813">General Harmar</mention>, the Miami <mention keyword="Native Americans">Indians</mention> have com<sh/></line>
+         <line><mention name="Harmar, Josiah" dates="10 November 1753-20 August 1813">General
+               Harmar</mention>, the Miami <mention keyword="Native Americans">Indians</mention>
+            have com<sh/></line>
          <line>mitted unparalleled <mention keyword="war">cruelties</mention>. A large body of </line>
          <line>them, on the 2d of February, attacked the settle<sh/></line>
          <line>ments called Big Bottom, twenty miles from </line>
          <line>Harman, on the Muilsingam, which they entire<sh/></line>
          <line>ly destroyed. Eleven men and two children were </line>
          <pg n="3"/>
-         <column />
+         <column/>
          <line>massacred, two escaped and three were taken </line>
          <line>prisoners.</line>
       </p>
       <p>
-      <line><center><dateline city="Boston" country="United States" province="Massachusetts"><i>Boston</i>.</dateline></center></line>
+         <line>
+            <center>
+               <dateline city="Boston" country="United States" province="Massachusetts"
+                     ><i>Boston</i>.</dateline>
+            </center>
+         </line>
       </p>
       <p>
          <line>The amount of the value of the <mention keyword="trade">exports</mention> from </line>
@@ -37845,7 +37890,8 @@
       <p>
          <line>The greatest apprehensions are entertained of </line>
          <line>an invasion from our savage neighbours; as ac<sh/></line>
-         <line>counts <dateline city="Philadelphia" country="United States" province="Pennsylvania">from Philadelphia</dateline> state, that there has </line>
+         <line>counts <dateline city="Philadelphia" country="United States" province="Pennsylvania"
+               >from Philadelphia</dateline> state, that there has </line>
          <line>been a confederation of all the South West Indians </line>
          <line>to fall on our frontiers early in the spring.</line>
       </p>
@@ -37859,8 +37905,14 @@
          <line>inhabitants in this commonwealth is 470,000.</line>
       </p>
       <p>
-         <line><center><dateline city="Philadelphia" country="United States" province="Pennsylvania" day="7" month="April" year="1791"><i>Philadelphia, April</i> 7.</dateline></center></line>
-         <line><mention keyword="colonial government">Congress met</mention> here to-day and made a house, </line>
+         <line>
+            <center>
+               <dateline city="Philadelphia" country="United States" province="Pennsylvania" day="7"
+                  month="April" year="1791"><i>Philadelphia, April</i> 7.</dateline>
+            </center>
+         </line>
+         <line><mention keyword="colonial government">Congress met</mention> here to-day and made a
+            house, </line>
          <line>Articles of the Constitution, that were not liked </line>
          <line>by many of us, are altered much for the better&#x2013;</line>
          <line>among other things, we were dissatisfied that not </line>
@@ -37902,11 +37954,14 @@
       <p>
          <pg n="4"/>
          <column/>
-         <line>The <mention keyword="Native Americans">Indian</mention> <mention keyword="war">war</mention> in America is now become an </line>
+         <line>The <mention keyword="Native Americans">Indian</mention>
+            <mention keyword="war">war</mention> in America is now become an </line>
          <line>object of considerable importance, by the junc<sh/></line>
-         <line>tion of several tribes of Indians, hitherto <missing type="copy blur">???</missing> </line>
+         <line>tion of several tribes of Indians, hitherto <missing type="copy blur">???</missing>
+         </line>
          <line>with those already engaged in it. General Wash<sh/></line>
-         <line><mention name="Washington, George">ington</mention> is expected to take the command of the </line>
+         <line><mention name="Washington, George">ington</mention> is expected to take the command
+            of the </line>
          <line>army intended to serve against them in the pre<sh/></line>
          <line>sent summer.</line>
       </p>
@@ -37915,7 +37970,7 @@
          <transcription_date>20141019</transcription_date>
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
-         ;<url>http://news.google.com/newspapers?id=Bl4-AAAAIBAJ&amp;lsjid=xEsMAAAAIBAJ&amp;pg=6362%2C3254911</url>
+            ;<url>http://news.google.com/newspapers?id=Bl4-AAAAIBAJ&amp;lsjid=xEsMAAAAIBAJ&amp;pg=6362%2C3254911</url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
@@ -37936,9 +37991,12 @@
       <p>
          <pg n="6"/>
          <column/>
-         <line>Letters dated <dateline city="Halifax" country="Canada" day="7" month="February" year="1792" province="Nova Scotia" international_transport="Joseph">Halifax, Feb 7</dateline>, brought by the </line>
+         <line>Letters dated <dateline city="Halifax" country="Canada" day="7" month="February"
+               year="1792" province="Nova Scotia" international_transport="Joseph">Halifax, Feb
+               7</dateline>, brought by the </line>
          <line>Schooner Joseph, arrived at Glasgow, say, the In<sh/></line>
-         <line><mention keyword="Native Americans">dians</mention> have beat the Americans in a <mention keyword="war">second action</mention>, </line>
+         <line><mention keyword="Native Americans">dians</mention> have beat the Americans in a
+               <mention keyword="war">second action</mention>, </line>
          <line>in which 48 officers and 800 men were killed of </line>
          <line>the American army, besides the loss of all their </line>
          <line>field pieces, arms and stores. since this battle, </line>
@@ -37971,31 +38029,81 @@
       <p>
          <pg n="7"/>
          <column/>
-         <line>Abstract of <small_caps>American <mention keyword="government expenditure">Finances</mention></small_caps>, as laid before </line>
-         <line>Congress, January 23, by <mention name="Hamilton, Alexander" dates="11 January 1755-12 July 1804">Alexander Hamilton, Esq</mention>; </line>
+         <line>Abstract of <small_caps>American <mention keyword="government expenditure"
+                  >Finances</mention></small_caps>, as laid before </line>
+         <line>Congress, January 23, by <mention name="Hamilton, Alexander"
+               dates="11 January 1755-12 July 1804">Alexander Hamilton, Esq</mention>; </line>
          <line>Secretary to the Treasury of the United States.</line>
       </p>
       <p>
-         <line><center><small_caps>Revenue.</small_caps> <flush_right><i>Dollars.</i></flush_right></center></line><hlb/>
-         <line>Duties on <mention keyword="trade">Imports</mention> for the year 1792, estimated at 3,300,000</line><hlb/>
-         <line>Duties on home made <mention keyword="alcohol">spirits</mention> for 1792, estimated at 400,000</line><hlb/>
-         <line><right>___________</right></line><hlb/>
-         <line><right>Total, 3,700,000</right></line><hlb/>
+         <line>
+            <center>
+               <small_caps>Revenue.</small_caps>
+               <flush_right>
+                  <i>Dollars.</i>
+               </flush_right>
+            </center>
+         </line>
+         <hlb/>
+         <line>Duties on <mention keyword="trade">Imports</mention> for the year 1792, estimated at
+            3,300,000</line>
+         <hlb/>
+         <line>Duties on home made <mention keyword="alcohol">spirits</mention> for 1792, estimated
+            at 400,000</line>
+         <hlb/>
+         <line>
+            <right>___________</right>
+         </line>
+         <hlb/>
+         <line>
+            <right>Total, 3,700,000</right>
+         </line>
+         <hlb/>
       </p>
       <p>
-         <line><center><small_caps>Expences.</small_caps> <flush_right><i>Dollars. Cents.</i></flush_right></center></line><hlb/>
-         <line>For support of the Civil Establishment of } <flush_right>368,653 56</flush_right></line><hlb/>
-         <line>government, Ambassadors, &amp;c. &amp;c.</line><hlb/>
-         <line>Military Establishment, including the ex. } <flush_right>382,731 61</flush_right></line><hlb/>
-         <line>pences of the <mention keyword="war">Indian War</mention>, </line><hlb/>
-         <line>Pensions to Invalids who have not accept } <flush_right>87,462 60</flush_right></line><hlb/>
-         <line>ed of lands.</line><hlb/>
-         <line><right>___________</right></line><hlb/>
-         <line><right>Total, 388,848 77</right></line><hlb/>
-         <line>Interest on the foreign and domestic } <right_flush>2,849,194 77</right_flush> </line><hlb/>
-         <line>debts, including the state debts af<sh/> </line><hlb/>
-         <line>sumed, <right_flush>___________</right_flush></line><hlb/>
-         <line><right>3,683,043 50</right></line>
+         <line>
+            <center>
+               <small_caps>Expences.</small_caps>
+               <flush_right>
+                  <i>Dollars. Cents.</i>
+               </flush_right>
+            </center>
+         </line>
+         <hlb/>
+         <line>For support of the Civil Establishment of } <flush_right>368,653
+            56</flush_right></line>
+         <hlb/>
+         <line>government, Ambassadors, &amp;c. &amp;c.</line>
+         <hlb/>
+         <line>Military Establishment, including the ex. } <flush_right>382,731
+            61</flush_right></line>
+         <hlb/>
+         <line>pences of the <mention keyword="war">Indian War</mention>, </line>
+         <hlb/>
+         <line>Pensions to Invalids who have not accept } <flush_right>87,462
+            60</flush_right></line>
+         <hlb/>
+         <line>ed of lands.</line>
+         <hlb/>
+         <line>
+            <right>___________</right>
+         </line>
+         <hlb/>
+         <line>
+            <right>Total, 388,848 77</right>
+         </line>
+         <hlb/>
+         <line>Interest on the foreign and domestic } <right_flush>2,849,194 77</right_flush>
+         </line>
+         <hlb/>
+         <line>debts, including the state debts af<sh/>
+         </line>
+         <hlb/>
+         <line>sumed, <right_flush>___________</right_flush></line>
+         <hlb/>
+         <line>
+            <right>3,683,043 50</right>
+         </line>
       </p>
       <p>
          <line>Estimating the dollar at 4s. 6d. and each cent at a half </line>
@@ -38030,9 +38138,12 @@
       <p>
          <pg n="6"/>
          <column/>
-         <line>From <dateline city="Philadelphia" country="United States" province="Pennsylvania">Philadelphia</dateline> we learn, that since the late </line>
-         <line><mention keyword="war">defeat</mention> of the American forces by the <mention keyword="Native Americans">Indians</mention>, Con<sh/></line>
-         <line>gress have determined to maintain a standing <mention keyword="military">army</mention>; </line>
+         <line>From <dateline city="Philadelphia" country="United States" province="Pennsylvania"
+               >Philadelphia</dateline> we learn, that since the late </line>
+         <line><mention keyword="war">defeat</mention> of the American forces by the <mention
+               keyword="Native Americans">Indians</mention>, Con<sh/></line>
+         <line>gress have determined to maintain a standing <mention keyword="military"
+               >army</mention>; </line>
          <line>but the number of troops of which it was to consist </line>
          <line>had not been ultimately determined.</line>
       </p>
@@ -38062,28 +38173,35 @@
       <p>
          <pg n="2"/>
          <column/>
-         <line>The brig <dateline international_transport="Virginia Planter, James Merrifield">Virginia Planter, James Merrifield</dateline>, </line>
+         <line>The brig <dateline international_transport="Virginia Planter, James Merrifield"
+               >Virginia Planter, James Merrifield</dateline>, </line>
          <line>Master, arrived at Liverpool, brings information </line>
-         <line>that on the 5th of May, <mention name="Wayne, Anthony" dates="1 January 1745-15 December 1796">General Wayne</mention>, with </line>
-         <line>two thousand provincials, had <mention keyword="war">attacked</mention> to<sh/></line>
-         <line>tally destroyed most of the Indian towns at the </line>
+         <line>that on the 5th of May, <mention name="Wayne, Anthony"
+               dates="1 January 1745-15 December 1796">General Wayne</mention>, with </line>
+         <line>two thousand provincials, had <mention keyword="war">attacked</mention>
+            to<sh/></line>
+         <line>tally destroyed most of the <mention keyword="Native Americans">Indian</mention>
+            towns at the </line>
          <line>back of Georgia, for near two hundred miles a<sh/></line>
-         <line>round the river. That <mention name="McGillivray, Alexander">M'Gilvray</mention>, and his ar<sh/></line>
+         <line>round the river. That <mention name="McGillivray, Alexander"
+               dates="15 December 1750-17 February 1793">M'Gilvray</mention>, and his ar<sh/></line>
          <line>my of savages, after an unsuccessful and bloody</line>
          <line>engagement, had fled to the woods, where the </line>
-         <line>General left them, and returned to Savannah.&#x2013;</line>
+         <line>General left them, and returned to <mention city="Savannah" country="United States"
+               province="Georgia">Savannah</mention>.&#x2013;</line>
          <line>This expedition was undertaken about the begin<sh/></line>
          <line>ning of March, winch has been crowned with the </line>
          <line>expected catastrophe, and though the Cherokee, </line>
          <line>Miami, and Chiquesaw tribes, may mediate re<sh/></line>
          <line>venge at some future period; it is not likely they </line>
-         <line>will be in a condition to disturb the settlers for </line>
+         <line>will be in a <mention keyword="settlement description">condition to disturb the
+               settlers</mention> for </line>
          <line>some years to come.</line>
-         
+
       </p>
       <transcription_information>
-         <collection_date></collection_date>
-         <transcription_date></transcription_date>
+         <collection_date/>
+         <transcription_date/>
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
          <url>http://news.google.com/newspapers?id=qHVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=2132%2C3998104</url>
@@ -38092,4 +38210,3 @@
       </transcription_information>
    </item>
 </root>
-
