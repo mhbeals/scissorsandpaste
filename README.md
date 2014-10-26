@@ -4,11 +4,11 @@ Colonial-Newspaper-Database
 A collection of transcriptions from British newspapers (1789-1850) on migration and colonial settlement, 
 including settlement to the United States.
 
-==HTML Search Interface==
+####HTML Search Interface #### 
 
 An HTML search interface for this data is available at [www.mhbeals.com] (http://mhbeals.com/cnd)
 
-==Contributors==  
+#### Contributors #### 
 
 + Compiled by M. H. Beals (*Sheffield Hallam University*)
 + Contributions by Max Templer (*University of Sheffield*)
