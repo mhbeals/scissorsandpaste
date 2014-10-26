@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="metadata"/>
+        <xs:element maxOccurs="unbounded" ref="item"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="metadata">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="compiler"/>
+        <xs:element ref="license"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="compiler">
+    <xs:complexType>
+      <xs:attribute name="email" use="required"/>
+      <xs:attribute name="name" use="required"/>
+      <xs:attribute name="orcid" use="required" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="license">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+      <xs:attribute name="url" use="required" type="xs:anyURI"/>
+      <xs:attribute name="version" use="required" type="xs:decimal"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="item">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="publication_information"/>
+        <xs:element maxOccurs="unbounded" ref="articletype"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="p"/>
+        <xs:element ref="transcription_information"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="id" type="xs:integer"/>
+  <xs:element name="publication_information">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="newspaper_title"/>
+        <xs:element ref="newspaper_city"/>
+        <xs:element ref="newspaper_province"/>
+        <xs:element ref="newspaper_country"/>
+        <xs:element ref="year"/>
+        <xs:element ref="month"/>
+        <xs:element ref="day"/>
+        <xs:element ref="section_name"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="newspaper_title" type="xs:string"/>
+  <xs:element name="newspaper_city" type="xs:NCName"/>
+  <xs:element name="newspaper_province" type="xs:NCName"/>
+  <xs:element name="newspaper_country" type="xs:string"/>
+  <xs:element name="year" type="xs:string"/>
+  <xs:element name="month" type="xs:string"/>
+  <xs:element name="day" type="xs:string"/>
+  <xs:element name="section_name" type="xs:string"/>
+  <xs:element name="articletype" type="xs:string"/>
+  <xs:element name="p">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="dateline"/>
+        <xs:element ref="i"/>
+        <xs:element ref="line"/>
+        <xs:element ref="mention"/>
+        <xs:element ref="sh"/>
+        <xs:element ref="column"/>
+        <xs:element ref="hlb"/>
+        <xs:element ref="pg"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="column">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="hlb">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="pg">
+    <xs:complexType>
+      <xs:attribute name="n"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="transcription_information">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="collection_date"/>
+        <xs:element ref="method"/>
+        <xs:element ref="repository"/>
+        <xs:element ref="transcriber"/>
+        <xs:element ref="transcription_date"/>
+        <xs:element ref="type"/>
+        <xs:element ref="url"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="collection_date" type="xs:string"/>
+  <xs:element name="method" type="xs:string"/>
+  <xs:element name="repository" type="xs:string"/>
+  <xs:element name="transcriber" type="xs:string"/>
+  <xs:element name="transcription_date" type="xs:string"/>
+  <xs:element name="type" type="xs:string"/>
+  <xs:element name="url" type="xs:anyURI"/>
+  <xs:element name="line">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="author"/>
+        <xs:element ref="center"/>
+        <xs:element ref="dateline"/>
+        <xs:element ref="enlarged_capital"/>
+        <xs:element ref="flush_right"/>
+        <xs:element ref="i"/>
+        <xs:element ref="line"/>
+        <xs:element ref="mention"/>
+        <xs:element ref="missing"/>
+        <xs:element ref="recipient"/>
+        <xs:element ref="sh"/>
+        <xs:element ref="small_caps"/>
+        <xs:element ref="right"/>
+        <xs:element ref="right_flush"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="right">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="author"/>
+        <xs:element ref="i"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="right_flush" type="xs:string"/>
+  <xs:element name="mention">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="i"/>
+        <xs:element ref="line"/>
+        <xs:element ref="missing"/>
+        <xs:element ref="sh"/>
+      </xs:choice>
+      <xs:attribute name="city"/>
+      <xs:attribute name="country"/>
+      <xs:attribute name="dates"/>
+      <xs:attribute name="group"/>
+      <xs:attribute name="keyword"/>
+      <xs:attribute name="name"/>
+      <xs:attribute name="place"/>
+      <xs:attribute name="province"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dateline">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="center"/>
+        <xs:element ref="enlarged_capital"/>
+        <xs:element ref="i"/>
+        <xs:element ref="mention"/>
+        <xs:element ref="small_caps"/>
+      </xs:choice>
+      <xs:attribute name="city"/>
+      <xs:attribute name="country"/>
+      <xs:attribute name="day" type="xs:integer"/>
+      <xs:attribute name="international_transport"/>
+      <xs:attribute name="month" type="xs:NCName"/>
+      <xs:attribute name="newspaper"/>
+      <xs:attribute name="province"/>
+      <xs:attribute name="year" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sh">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="i">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="dateline"/>
+        <xs:element ref="missing"/>
+        <xs:element ref="recipient"/>
+        <xs:element ref="sh"/>
+        <xs:element ref="small_caps"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="small_caps">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="author"/>
+        <xs:element ref="i"/>
+        <xs:element ref="mention"/>
+        <xs:element ref="recipient"/>
+        <xs:element ref="sh"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="enlarged_capital" type="xs:NCName"/>
+  <xs:element name="recipient">
+    <xs:complexType mixed="true">
+      <xs:attribute name="city" type="xs:NCName"/>
+      <xs:attribute name="country"/>
+      <xs:attribute name="name"/>
+      <xs:attribute name="province" type="xs:NCName"/>
+      <xs:attribute name="type"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="center">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="dateline"/>
+        <xs:element ref="flush_right"/>
+        <xs:element ref="i"/>
+        <xs:element ref="mention"/>
+        <xs:element ref="missing"/>
+        <xs:element ref="sh"/>
+        <xs:element ref="small_caps"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="missing">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="author">
+    <xs:complexType mixed="true">
+      <xs:attribute name="name" use="required"/>
+      <xs:attribute name="status"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="flush_right">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="i"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

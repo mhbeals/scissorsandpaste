@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="CND.xsl"?>
 <root>
    <metadata>
-      <author orcid="0000-0002-2907-3313" email="mhbeals@mhbeals.com" name="M. H. Beals"> </author>
+      <compiler orcid="0000-0002-2907-3313" email="mhbeals@mhbeals.com" name="M. H. Beals"> </compiler>
       <license type="CCBY" version="4.0" url="https://creativecommons.org/licenses/by/4.0/legalcode"
          >This work is licensed under a Creative Commons Attribution 4.0 International
          License</license>
@@ -478,7 +478,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <recipient type="direct citation" city="Norfolk" province="Virginia" country="United States"/>
+      
       <p>
          <pg/>
          <column/>
@@ -489,7 +489,7 @@
          </line>
          <line>
             <center>
-               <i>his friend in Norfolk, Virginia, dated April</i> 2.</center>
+               <i>his <recipient type="friend" city="Norfolk" province="Virginia" country="United States">friend in Norfolk, Virginia</recipient>, dated April</i> 2.</center>
          </line>
       </p>
       <p>
@@ -712,7 +712,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <recipient name="William Jones"/>
+      
       <p>
          <pg n="4"/>
          <column/>
@@ -722,7 +722,7 @@
             </i>
          </line>
          <line>
-            <i>Indiaman, to Mr. William Jones</i>
+            <i>Indiaman, to <recipient name="William Jones">Mr. William Jones</recipient></i>
          </line>
       </p>
       <p>
@@ -1883,8 +1883,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <recipient type="friend" city="Baltimore" province="Maryland" country="United States"/>
-      <p>
+            <p>
          <pg/>
          <column/>
          <line>
@@ -1894,7 +1893,7 @@
          </line>
          <line>
             <center>
-               <i>(Kentucky) to his friend in Baltimore</i>
+               <i>(Kentucky) to <recipient type="friend" city="Baltimore" province="Maryland" country="United States">his friend in Baltimore</recipient></i>
             </center>
          </line>
          <line>"It is with great concern I communicate to </line>
@@ -1960,7 +1959,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <recipient type="friend" city="Philadelphia" province="Pennsylvania" country="United States"/>
+      
       <p>
          <pg/>
          <column/>
@@ -1971,7 +1970,7 @@
          </line>
          <line>
             <center>
-               <i>to his friend in Philadelphia, dated Sept.</i> 2.</center>
+               <i>to <recipient type="friend" city="Philadelphia" province="Pennsylvania" country="United States">his friend in Philadelphia</recipient>, dated Sept.</i> 2.</center>
          </line>
          <line>"The Indians have killed six soldiers at the </line>
          <line>mouth of Little Sandy Creek below the Great </line>
@@ -2175,12 +2174,12 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <recipient name="Ephraim Daniel" type="direct citation" city="London" province="England"
-         country="United Kingdom"/>
+      
       <p>
          <pg n="6"/>
          <column/>
-         <line>Mr. Ephraim Daniel, of Baker's-row, Mile<sh/>
+         <line><recipient name="Ephraim Daniel" type="direct citation" city="London" province="England"
+            country="United Kingdom">Mr. Ephraim Daniel</recipient>, of Baker's-row, Mile<sh/>
          </line>
          <line>end, received the following letter from a friend </line>
          <line>in Holland last week: </line>
@@ -2267,7 +2266,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <recipient type="direct citation" city="Greenock" province="Scotland" country="United Kingdom"/>
+      
       <p>
          <pg n="6"/>
          <column/>
@@ -2278,7 +2277,7 @@
          </line>
          <line>
             <center>
-               <i>his friend in Greenock</i>.</center>
+               <i><recipient type="friend" city="Greenock" province="Scotland" country="United Kingdom">his friend in Greenock</recipient></i>.</center>
          </line>
       </p>
       <p>
@@ -2680,8 +2679,7 @@
          <section_name/>
       </publication_information>
       <articletype>Miscellany</articletype>
-      <author name="Dick Desperate" status="Purported in text"/>
-      <p>
+            <p>
          <pg/>
          <column/>
          <line>
@@ -2760,7 +2758,7 @@
          <line>if I had been born again–<i>I hereby give notice</i>– </line>
          <line>"That if an <i>hottentot</i> friend of mine invites me, </line>
          <line>who does not take in your paper or some other– </line>
-         <line>I will not visit him."<small_caps>DICK DESPERATE</small_caps>. </line>
+         <line>I will not visit him."<small_caps><author name="Dick Desperate" status="Purported in text">DICK DESPERATE</author></small_caps>. </line>
       </p>
       <p>
          <mention city="London" province="England" country="United Kingdom"/>
@@ -3891,7 +3889,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <recipient city="Bristol" province="England" country="United Kingdom"/>
+      
       <p>
          <pg/>
          <column/>
@@ -3907,7 +3905,7 @@
          </line>
          <line>
             <right>
-               <i>a friend in Bristol.</i>
+               <i><recipient city="Bristol" province="England" country="United Kingdom" type="friend">a friend in Bristol.</recipient></i>
             </right>
          </line>
       </p>
@@ -5248,33 +5246,26 @@
          <day>19</day>
          <section_name>Law Intelligence</section_name>
       </publication_information>
-      <articletype>News</articletype>
+      <articletype>Miscellany</articletype>
       <p>
-         <pg/>
+         <pg n="2"/>
          <column/>
-         <line>
-            <center>COURT OF CHANCERY.</center>
-         </line>
-         <line>
-            <center>
-               <i>The </i>KING, <i>at the relation of the</i> BISHOP<i>of </i> LON-</center>
-         </line>
-         <line>
-            <center>DON, <i>versus </i>ANDERSON <i> and</i> GIPPS.</center>
-         </line>
+         <line><small_caps>Court of Chancery.</small_caps></line>
+         <line><center><i>The</i> <small_caps>King</small_caps>, <i>at the relation of the</i> <small_caps>Bishop</small_caps> <i>of</i> <small_caps>Lon</small_caps><sh/></center></line>
+         <line><center><small_caps>don</small_caps>, <i>versus</i> <small_caps>Anderson</small_caps> <i>and</i> <small_caps>Gipps</small_caps>.</center></line>
       </p>
       <p>
          <line>On the 18th of June, 1692, the Hon. Mr. </line>
-         <line>Boyle left by will the sum of 5400l. to be laid </line>
+         <line>Boyle <mention keyword="bequests">left by will</mention> the sum of 5400l. to be laid </line>
          <line>out in lands in Yorkshire, out of the rents of which </line>
-         <line>the sum of 90l. was to be paid annually to the </line>
-         <line>College of William and Mary, in New England, </line>
+         <line>the sum of 90l. was to be <mention keyword="charity">paid annually</mention> to the </line>
+         <line><mention place="College of William and Mary">College of William and Mary</mention>, in New England, </line>
          <line>to be applied for the purpose of propagating the </line>
-         <line>Christian religion amongst the Indians in the back </line>
+         <line>Christian <mention keyword="religion">religion</mention> amongst the <mention keyword="Native Americans">Indians</mention> in the back </line>
          <line>settlements in North America ; and likewise a </line>
          <line>further sum of 45l. to be paid to the same College, </line>
          <line>for the support of two missionaries to preach the </line>
-         <line>gospel. The city of London were left trustees, </line>
+         <line>gospel. The city of <mention city="London" province="England" country="United Kingdom">London</mention> were left trustees, </line>
          <line>and the management under the trust was, by the </line>
          <line>will, committed to the care of the Bishop of Lon<sh/>
          </line>
@@ -5295,26 +5286,20 @@
          <line>Revolution, the Lord Chancellor decided it with </line>
          <line>that superior dignity of sentiment that always at<sh/>
          </line>
-         <line>tends his decrees. Two phrases are suficient– </line>
+         <line>tends his decrees. Two phrases are sufficient– </line>
          <line>"all charitable devices are to be held sacred– </line>
          <line>we cannot rake up the ashes of the dead, in search </line>
          <line>of latent intentions. The annuities and arrears </line>
          <line>must be paid, and Messrs. Anderson and Gipps, </line>
          <line>and likewise the city of London, must be paid </line>
-         <line>their costs."/&gt;</line>
-      </p>
-      <p>
-         <mention city="London" province="England" country="United Kingdom"/>
-         <mention keyword="charity"/>
-         <mention keyword="bequests"/>
-         <mention keyword="law" place="College of William and Mary"/>
+         <line>their costs."</line>
       </p>
       <transcription_information>
-         <collection_date/>
+         <collection_date>20130513</collection_date>
          <transcription_date/>
          <type>Digitised Image</type>
-         <repository/>
-         <url/>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?id=znVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=6250%2C7665673</url>
          <method>Manual Transcription</method>
          <transcriber>Max Templer</transcriber>
       </transcription_information>
@@ -5332,12 +5317,11 @@
          <section_name/>
       </publication_information>
       <articletype>Miscellany</articletype>
-      <author name="Dennis O'Bryan"/>
-      <p>
+            <p>
          <pg/>
          <column/>
          <line>
-            <small_caps>Curious Avertisement</small_caps>
+            <small_caps>Curious Advertisement</small_caps>
          </line>
          <line>From the <small_caps>Pittsburgh Gazette</small_caps>
          </line>
@@ -5358,7 +5342,7 @@
          <line>For of her contracts from this day </line>
          <line>One farthing's worth I will not pay. </line>
          <line>
-            <small_caps>Dennis O'Bryan</small_caps>
+            <small_caps><author name="Dennis O'Bryan">Dennis O'Bryan</author></small_caps>
          </line>
       </p>
       <p>
@@ -5389,8 +5373,7 @@
       </publication_information>
       <articletype>poem</articletype>
       <articletype>advertisement</articletype>
-      <author name="Dennis O'Bryan" status="Purported in text"/>
-      <p>
+            <p>
          <pg/>
          <column/>
          <line>
@@ -5420,7 +5403,7 @@
          <line>For of her contracts from this day </line>
          <line>One farthing's worth I will not pay. </line>
          <line>
-            <right>DENNIS O'BRYAN.</right>
+            <right><author name="Dennis O'Bryan" status="Purported in text">DENNIS O'BRYAN.</author></right>
          </line>
       </p>
       <p>
@@ -6726,11 +6709,10 @@
          <section_name/>
       </publication_information>
       <articletype/>
-      <author name="George Washington" status="Purported in text"/>
       <p>
          <pg/>
          <column/>
-         <line>As the following Speech of Gen. Washington at </line>
+         <line>As the following Speech of <author name="George Washington" status="Purported in text">Gen. Washington</author> at </line>
          <line>the opening of the Congress of the United </line>
          <line>States at New York, Nov. 6 1792, gives an </line>
          <line>impartial account of the situation of tha coun<sh/>
@@ -8005,7 +7987,7 @@
          <section_name/>
       </publication_information>
       <articletype>News</articletype>
-      <author name="Isaac Brock"/>
+      
       <p>
          <pg/>
          <column/>
@@ -8016,7 +7998,7 @@
       </p>
       <p>
          <line>Yesterday, at an early hour, his Honour, Isaac </line>
-         <line>Brock, Esq. administering the Government of Up<sh/>
+         <line><author name="Isaac Brock">Brock, Esq.</author> administering the Government of Up<sh/>
          </line>
          <line>per Canada, and Major-General, commanding his </line>
          <line>Majesty's forces therein, arrived at this place from </line>
@@ -11255,8 +11237,7 @@
          <section_name/>
       </publication_information>
       <articletype>Miscellany</articletype>
-      <author name="Cobbett"/>
-      <p>
+            <p>
          <pg/>
          <column/>
          <line>
@@ -16396,13 +16377,13 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <author name="Morris Birkbeck"/>
-      <recipient name="W. Wilson" city="London" province="England" country="United Kingdom"/>
+      
+      
       <p>
          <pg/>
          <column/>
          <line>
-            <small_caps>Letter from Mr Morris Birkbeck</small_caps>
+            <small_caps>Letter from <author name="Morris Birkbeck">Mr Morris Birkbeck</author></small_caps>
          </line>
       </p>
       <p>
@@ -16540,7 +16521,7 @@
          <line>vant, <small_caps>M. Birkbeck</small_caps>."/&gt;</line>
       </p>
       <p>
-         <line>"Directed to W. Wilson, Esq. </line>
+         <line>"Directed to <recipient name="W. Wilson" city="London" province="England" country="United Kingdom">W. Wilson, Esq.</recipient> </line>
          <line>Batson's Coffeehouse, London."/&gt;</line>
       </p>
       <p>
@@ -16571,7 +16552,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <author name="Government"/>
+      
       <p>
          <pg/>
          <column/>
@@ -17815,7 +17796,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <author name="Henry Goulburn"/>
+      
       <p>
          <pg/>
          <column/>
@@ -17867,7 +17848,7 @@
          <line>I am, Sir, your most obedient servant, </line>
       </p>
       <p>
-         <line>(Signed)<small_caps>Henry Goulburn</small_caps>. </line>
+         <line>(Signed)<small_caps><author name="Henry Goulburn">Henry Goulburn</author></small_caps>. </line>
       </p>
       <p>
          <line>P.S. – If there be any Officers on the half pay of the army </line>
@@ -19320,7 +19301,7 @@
          <section_name/>
       </publication_information>
       <articletype/>
-      <author name="James Strachan"/>
+      
       <p>
          <pg/>
          <column/>
@@ -19330,7 +19311,7 @@
       </p>
       <p>
          <line>Extract from " A Visit to the Province of Upper Canada, </line>
-         <line>in 1819," By <small_caps>James Strachan.</small_caps>
+         <line>in 1819," By <small_caps><author name="James Strachan">James Strachan.</author></small_caps>
          </line>
       </p>
       <p>
@@ -20991,7 +20972,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <author name="P. Campbell"/>
+      
       <p>
          <pg/>
          <column/>
@@ -21077,7 +21058,7 @@
          <line>by the ties of mutual friendship–the one affording her </line>
          <line>parental arms, and the other mindful of her filial duty. </line>
          <line>
-            <small_caps>P. Campbell</small_caps>., Surgeon. </line>
+            <small_caps><author name="P. Campbell">P. Campbell</author></small_caps>., Surgeon. </line>
       </p>
       <p>
          <dateline year="1820" month="February" day="19" province="Madeira" country="Portugal"
@@ -27794,7 +27775,7 @@
          <section_name/>
       </publication_information>
       <articletype>Letter</articletype>
-      <author name="W. R. Hay"/>
+      
       <p>
          <pg/>
          <column/>
@@ -27924,7 +27905,7 @@
          <line>of date will form the rule of selection among applications </line>
          <line>in which there shall appear no other groun of distinc<sh/>
          </line>
-         <line>tion.<small_caps>W. R. Hay.</small_caps>
+         <line>tion.<small_caps><author name="W. R. Hay">W. R. Hay</author>.</small_caps>
          </line>
       </p>
       <p>
@@ -32123,7 +32104,7 @@
          <section_name/>
       </publication_information>
       <articletype>Miscellany</articletype>
-      <author name="T. Campbell"/>
+      
       <p>
          <pg/>
          <column/>
@@ -32246,7 +32227,7 @@
          <line>And when we've ploughed the stormy deep </line>
          <line>We'll plough a smiling land. </line>
          <line>
-            <small_caps>T. Campbell</small_caps>
+            <small_caps><author name="T. Campbell">T. Campbell</author></small_caps>
          </line>
          <line>London, 16th August, 1839. </line>
       </p>
@@ -33514,7 +33495,7 @@
          <section_name/>
       </publication_information>
       <articletype>News</articletype>
-      <author name="John Gliddon"/>
+      
       <p>
          <pg/>
          <column/>
@@ -33546,7 +33527,7 @@
          <line>and proved to be already under engagement for </line>
          <line>the purpose.–By order of the Board, </line>
          <line>
-            <small_caps>John Gliddon, Assis.-Sec.</small_caps>
+            <small_caps><author name="John Gliddon">John Gliddon</author>, Assis.-Sec.</small_caps>
          </line>
       </p>
       <p>
@@ -36965,7 +36946,7 @@
             have opened </line>
          <line>the doors of justice to all descriptions of person.</line>
          <line>Yu will consider in your wisdom, whether im<sh/></line>
-         <page n="3"/>
+         <pg n="3"/>
          <column/>
          <line>provements in that system may yet be made, and </line>
          <line>particularly whether <missing type="copy blur">??? ???</missing>process of
@@ -37748,7 +37729,7 @@
          <line>dous <mention keyword="weather">storm</mention> arose when she was about half way
             o<sh/></line>
          <line>ver, by which means she was soon filled </line>
-         <ine>with water, and sunk. there was six passengers </ine>
+         <line>with water, and sunk. there was six passengers </line>
          <line>and the <missing type="copy blur">???</missing> in her (besides a small light </line>
          <column/>
          <line>waggon and three horses, viz. a clergyman, the </line>
@@ -38197,11 +38178,10 @@
          <line>will be in a <mention keyword="settlement description">condition to disturb the
                settlers</mention> for </line>
          <line>some years to come.</line>
-
       </p>
       <transcription_information>
-         <collection_date/>
-         <transcription_date/>
+         <collection_date>20130531</collection_date>
+         <transcription_date>20141026</transcription_date>
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
          <url>http://news.google.com/newspapers?id=qHVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=2132%2C3998104</url>
@@ -38209,4 +38189,31 @@
          <transcriber>MHB</transcriber>
       </transcription_information>
    </item>
-</root>
+   <item>
+      <id>341</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year></year>
+         <month></month>
+         <day></day>
+         <section_name></section_name>
+      </publication_information>
+      <articletype></articletype>
+      <p>
+         <pg n=""/>
+         <column/>
+         <line></line>
+      </p>
+      <transcription_information>
+         <collection_date></collection_date>
+         <transcription_date></transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url></url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item></root>
