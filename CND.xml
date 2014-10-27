@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="CND.xsl"?>
-<root>
+<root xmlns="documentation/CNDNS.md">
    <metadata>
       <compiler orcid="0000-0002-2907-3313" email="mhbeals@mhbeals.com" name="M. H. Beals"/>
       <license type="CCBY" version="4.0" url="https://creativecommons.org/licenses/by/4.0/legalcode"
@@ -38105,13 +38105,13 @@
             <right>Total, 388,848 77</right>
          </line>
          <hlb/>
-         <line>Interest on the foreign and domestic } <right_flush>2,849,194 77</right_flush>
+         <line>Interest on the foreign and domestic } <flush_right>2,849,194 77</flush_right>
          </line>
          <hlb/>
          <line>debts, including the state debts af<sh/>
          </line>
          <hlb/>
-         <line>sumed, <right_flush>___________</right_flush></line>
+         <line>sumed, <flush_right>___________</flush_right></line>
          <hlb/>
          <line>
             <right>3,683,043 50</right>
