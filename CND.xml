@@ -7319,7 +7319,7 @@
       </publication_information>
       <articletype>News</articletype>
       <p>
-         <pg/>
+         <pg n="4"/>
          <column/>
          <line>A great number of white people and white </line>
          <line>families have been killed and scalped by the In<sh/>
@@ -38227,23 +38227,82 @@
          <newspaper_city>Glasgow</newspaper_city>
          <newspaper_province>Scotland</newspaper_province>
          <newspaper_country>United Kingdom</newspaper_country>
-         <year/>
-         <month/>
-         <day/>
-         <section_name/>
+         <year>1790</year>
+         <month>February</month>
+         <day>22</day>
+         <section_name>West Indies</section_name>
       </publication_information>
-      <articletype/>
+      <articletype>News</articletype>
       <p>
-         <pg n=""/>
+         <pg n="2"/>
          <column/>
-         <line/>
+         <line><center><i>From the</i> <small_caps><dateline newspaper="Jamaica Royal Gazette" day="28" month="November" year="1789" city="Kingston" country="Jamaica">Jamaica Royal Gazette</dateline></small_caps>.</center></line>
+         <line><center><i>Kingston, Nov</i>. 28.</center></line>
+      </p>
+      <p>
+         <line>By late arrivals from Hispaniola we learn, that </line>
+         <line><mention keyword="rebellion">the people are in quietness, but still armed</mention>; and </line>
+         <line>that the Governor, who had been suffered to re<sh/></line>
+         <line>main, but the Intendent only having fled, is per<sh/></line>
+         <line>fectly submissive to the will of the people.</line>
+      </p>
+      <p>
+         <line>For several days last week the <mention keyword="weather">weather</mention> at the </line>
+         <line>north side, and in some of the Liguanea Moun<sh/></line>
+         <line>tains blew in most alarming gusts, and the cold </line>
+         <line>is said to have been peculiarly sever; some plan<sh/></line>
+         <line>tain trees have been thrown down, but we have </line>
+         <line>yet heard of no material damage.</line>
+      </p>
+      <p>
+         <line>The sloop Resolution has <mention keyword="shipping news">brought into port</mention> a </line>
+         <line>part of his Majesty's 10th regiment of foot, con<sh/></line>
+         <line>sisting of a serjeant, and 29 privates, having re<sh/></line>
+         <line>ceived them from on board the ship Commerce, </line>
+         <line>Foot, from <mention city="London" country="United Kingdom" province="England">London</mention>, off the East End on Thurs<sh/></line>
+            <line>day last, the Commerce being destined for Savan<sh/></line>
+         <line><mention city="Savanna-la-Mar" country="Jamaica" province="Westmoreland">na la Mar</mention>.</line>
+      </p>
+      <p>
+         <line><dateline city="Kingston" country="Jamaica" year="1789" day="26" month="December" newspaper="Jamaica Royal Gazette"><i>Dec</i>. 26.</dateline> Late on THursday evening his Ma<sh/></line>
+         <line>jesty's ship Amphion, Captain Nichols, <mention keyword="shipping news">returned</mention> </line>
+         <line>to Port-Royal from the Spanish American coast.</line>
+         <line>The Amphion was bound to <mention city="Cartagena" country="Colombia" province="Bolívar">Carthagena</mention>, but was </line>
+         <line>prevented by the jealousy of the Spaniards from </line>
+         <line>entering that port. Accounts are said to be re<sh/></line>
+         <line>ceived by her that a revolt has taken place a<sh/></line>
+         <line>mongst the <mention keyword="Native Americans">Indians</mention> in that quarter, and that the </line>
+         <line>Spaniards are demolishing the fortifications </line>
+         <line>throughout the country, which it has cost them </line>
+         <line>so much labour and expence to raise; so appre<sh/></line>
+         <line>hensive are they of the numbers and force of the </line>
+         <line>malcontents, should they possess themselves of any </line>
+         <line>of those strong holds.</line>
+      </p>
+      <p>
+         <line>We learn from Georgia, that the treaty with </line>
+         <line>the Indians, to negotiate with Commissioners </line>
+         <line>were appointed by the <mention name="Washington, George" keyword="" dates="22 February 1731-14 December 1799">President of the United</mention> </line>
+         <line>States, has been broken off; and that <mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Mr. M'Gil</mention><sh/></line>
+         <line>livray and his warriors have declared, that nothing </line>
+         <line>short of a cession of the territory between the ri<sh/></line>
+         <line>vers St. Mary and Altamaha will satisfy them; </line>
+         <line>adding, that no equivalent can be given to the </line>
+         <line>Georgians for relinquishing their claim to the di<sh/></line>
+         <line>strict in question, as it is founded in usurpation. </line>
+         <line>The views of Mr. M'Gillivray in making this re<sh/></line>
+         <line>quisition are evident, as it is known that he wish<sh/></line>
+         <line>es to establish a sea-port at St Mary's, as well </line>
+         <line>for the <mention keyword="trade">commercial emolument</mention>, as for the civili<sh/></line>
+         <line>zation of his countrymen, by an <mention keyword="foreign relations">intercourse</mention> with </line>
+         <line>foreign States.</line>
       </p>
       <transcription_information>
-         <collection_date/>
-         <transcription_date/>
+         <collection_date>20130505</collection_date>
+         <transcription_date>20141027</transcription_date>
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
-         <url/>
+         <url>http://news.google.com/newspapers?id=knVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=4796%2C1098678</url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
