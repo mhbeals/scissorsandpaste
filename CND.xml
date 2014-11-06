@@ -38540,4 +38540,58 @@
          <transcriber>MHB</transcriber>
       </transcription_information>
    </item>
+   <item>
+      <id>343</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1790</year>
+         <month>June</month>
+         <day>18</day>
+         <section_name>London</section_name>
+      </publication_information>
+      <articletype>Commentary</articletype>
+      <p>
+         <pg n="3"/>
+         <column/>
+         <line/><mention country="Untied States">The American States</mention> having now gained their 
+         <line/>independence, have no cause of quarrel let with 
+         <line/><mention country="United Kingdom">this country</mention>; but matters are very different be<sh/>
+         <line/>tween them and <mention country="Spain">Spain</mention>. It is well known, that 
+         <line/><mention keyword="Native Americans">the Indians on the back settlements</mention> have been 
+         <line/>regularly supplied with arms and ammunition
+         <column/>
+         <line/>from the Spanish magazines in the West-Indies, 
+         <line/>to enable them to <mention keyword="war">distress the Americans</mention>, and 
+         <line/>prove at least a hindrance to their growing pro<sh/>
+         <line/>sperity. <mention keyword="trade">The free navigation of the Mississippi</mention> 
+         <line/>has been denied them&#2014;and the Spaniards, now 
+         <line/>in possession of the <mention country="United States" province="Florida">Floridas</mention>, have been continual<sh/>
+         <line/>ly <mention keyword="border dispute">quarrelling with them about their boundaries</mention>.
+      </p>
+      <p>
+         <line/>It may therefore be considered as almost cer<sh/>
+         <line/>tain, that <mention country="United States">the American states</mention> will <mention keyword="war">take an active 
+         <line/>part against</mention> <mention country="Spain">Spain</mention>. This will be a great acquisi<sh/>
+         <line/>tion to <mention country="United Kingdom">Britain</mention> in every point of view; for though 
+         <line/>American cannot furnish money, she can furnish 
+         <line/>men and provisions; and a <mention keyword="trade">free intercourse with 
+         <line/>her ports</mention> must prove of infinite advantage for the 
+         <line/>security of our West-India Islands. <mention keyword="privateering">Their pri<sh/>
+         <line/>vateers</mention>, too, will be able to take their runs so 
+         <line/>speedily, that the Spanish trade must be very 
+         <line/>materially injured thereby.
+      </p>
+      <transcription_information>
+         <collection_date>20130507</collection_date>
+         <transcription_date>20141106</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?id=qHVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=1876%2C3922264</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
 </root>
