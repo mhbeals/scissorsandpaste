@@ -36,7 +36,11 @@
         <xs:element ref="cndns.md:id"/>
         <xs:element ref="cndns.md:publication_information"/>
         <xs:element maxOccurs="unbounded" ref="cndns.md:articletype"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="cndns.md:p"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="cndns.md:column"/>
+          <xs:element ref="cndns.md:pg"/>
+          <xs:element ref="cndns.md:p"/>
+        </xs:choice>
         <xs:element ref="cndns.md:transcription_information"/>
       </xs:sequence>
     </xs:complexType>
@@ -68,26 +72,34 @@
   <xs:element name="p">
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="cndns.md:author"/>
+        <xs:element ref="cndns.md:center"/>
+        <xs:element ref="cndns.md:column"/>
         <xs:element ref="cndns.md:dateline"/>
+        <xs:element ref="cndns.md:enlarged_capital"/>
+        <xs:element ref="cndns.md:flush_right"/>
         <xs:element ref="cndns.md:i"/>
         <xs:element ref="cndns.md:line"/>
         <xs:element ref="cndns.md:mention"/>
-        <xs:element ref="cndns.md:sh"/>
-        <xs:element ref="cndns.md:column"/>
-        <xs:element ref="cndns.md:hlb"/>
+        <xs:element ref="cndns.md:missing"/>
         <xs:element ref="cndns.md:pg"/>
+        <xs:element ref="cndns.md:recipient"/>
+        <xs:element ref="cndns.md:sh"/>
+        <xs:element ref="cndns.md:small_caps"/>
+        <xs:element ref="cndns.md:hlb"/>
+        <xs:element ref="cndns.md:right"/>
       </xs:choice>
     </xs:complexType>
-  </xs:element>
-  <xs:element name="column">
-    <xs:complexType/>
   </xs:element>
   <xs:element name="hlb">
     <xs:complexType/>
   </xs:element>
-  <xs:element name="pg">
-    <xs:complexType>
-      <xs:attribute name="n"/>
+  <xs:element name="right">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="cndns.md:author"/>
+        <xs:element ref="cndns.md:i"/>
+      </xs:choice>
     </xs:complexType>
   </xs:element>
   <xs:element name="transcription_information">
@@ -110,32 +122,77 @@
   <xs:element name="transcription_date" type="xs:string"/>
   <xs:element name="type" type="xs:string"/>
   <xs:element name="url" type="xs:anyURI"/>
-  <xs:element name="line">
+  <xs:element name="flush_right">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="cndns.md:i"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="column">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="mention">
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="cndns.md:author"/>
         <xs:element ref="cndns.md:center"/>
-        <xs:element ref="cndns.md:dateline"/>
-        <xs:element ref="cndns.md:enlarged_capital"/>
-        <xs:element ref="cndns.md:flush_right"/>
         <xs:element ref="cndns.md:i"/>
         <xs:element ref="cndns.md:line"/>
-        <xs:element ref="cndns.md:mention"/>
+        <xs:element ref="cndns.md:missing"/>
+        <xs:element ref="cndns.md:sh"/>
+      </xs:choice>
+      <xs:attribute name="city"/>
+      <xs:attribute name="country"/>
+      <xs:attribute name="dates"/>
+      <xs:attribute name="group"/>
+      <xs:attribute name="keyword"/>
+      <xs:attribute name="name"/>
+      <xs:attribute name="place"/>
+      <xs:attribute name="province"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="i">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="cndns.md:dateline"/>
         <xs:element ref="cndns.md:missing"/>
         <xs:element ref="cndns.md:recipient"/>
         <xs:element ref="cndns.md:sh"/>
         <xs:element ref="cndns.md:small_caps"/>
-        <xs:element ref="cndns.md:right"/>
       </xs:choice>
     </xs:complexType>
   </xs:element>
-  <xs:element name="right">
+  <xs:element name="author">
+    <xs:complexType mixed="true">
+      <xs:attribute name="name" use="required"/>
+      <xs:attribute name="status"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="missing">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="center">
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="cndns.md:author"/>
+        <xs:element ref="cndns.md:dateline"/>
+        <xs:element ref="cndns.md:flush_right"/>
         <xs:element ref="cndns.md:i"/>
+        <xs:element ref="cndns.md:mention"/>
+        <xs:element ref="cndns.md:missing"/>
+        <xs:element ref="cndns.md:sh"/>
+        <xs:element ref="cndns.md:small_caps"/>
       </xs:choice>
     </xs:complexType>
+  </xs:element>
+  <xs:element name="pg">
+    <xs:complexType>
+      <xs:attribute name="n" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="line">
+    <xs:complexType/>
   </xs:element>
   <xs:element name="dateline">
     <xs:complexType mixed="true">
@@ -156,68 +213,8 @@
       <xs:attribute name="year" type="xs:NMTOKEN"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="mention">
-    <xs:complexType mixed="true">
-      <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="cndns.md:i"/>
-        <xs:element ref="cndns.md:line"/>
-        <xs:element ref="cndns.md:missing"/>
-        <xs:element ref="cndns.md:sh"/>
-      </xs:choice>
-      <xs:attribute name="city"/>
-      <xs:attribute name="country"/>
-      <xs:attribute name="dates"/>
-      <xs:attribute name="group"/>
-      <xs:attribute name="keyword"/>
-      <xs:attribute name="name"/>
-      <xs:attribute name="place"/>
-      <xs:attribute name="province"/>
-    </xs:complexType>
-  </xs:element>
   <xs:element name="sh">
     <xs:complexType/>
-  </xs:element>
-  <xs:element name="i">
-    <xs:complexType mixed="true">
-      <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="cndns.md:dateline"/>
-        <xs:element ref="cndns.md:missing"/>
-        <xs:element ref="cndns.md:recipient"/>
-        <xs:element ref="cndns.md:sh"/>
-        <xs:element ref="cndns.md:small_caps"/>
-      </xs:choice>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="flush_right">
-    <xs:complexType mixed="true">
-      <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="cndns.md:i"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="author">
-    <xs:complexType mixed="true">
-      <xs:attribute name="name" use="required"/>
-      <xs:attribute name="status"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="center">
-    <xs:complexType mixed="true">
-      <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="cndns.md:dateline"/>
-        <xs:element ref="cndns.md:flush_right"/>
-        <xs:element ref="cndns.md:i"/>
-        <xs:element ref="cndns.md:mention"/>
-        <xs:element ref="cndns.md:missing"/>
-        <xs:element ref="cndns.md:sh"/>
-        <xs:element ref="cndns.md:small_caps"/>
-      </xs:choice>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="missing">
-    <xs:complexType mixed="true">
-      <xs:attribute name="type"/>
-    </xs:complexType>
   </xs:element>
   <xs:element name="recipient">
     <xs:complexType mixed="true">
@@ -232,6 +229,7 @@
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="cndns.md:author"/>
+        <xs:element ref="cndns.md:dateline"/>
         <xs:element ref="cndns.md:i"/>
         <xs:element ref="cndns.md:mention"/>
         <xs:element ref="cndns.md:recipient"/>
