@@ -4438,7 +4438,7 @@
                month="October" day="31">
                <i>October</i> 31.</dateline> We are informed by very respec<sh/>
          
-         <line/>table authority, that <mention name="McGillivray, Alexander">Mr. M'Gillvry</mention>
+         <line/>table authority, that <mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Mr. M'Gillvry</mention>
             has written 
          <line/>to the <mention name="Washington, George">President of the United States</mention>, a
             full and 
@@ -4668,8 +4668,7 @@
                Miamis</mention>
          
          <line/>and Chickesau Indians, who have, for some time 
-         <line/>past, had, as their chief warrior, one <mention name="McGillivray, Alexander"
-               >Macgillivray</mention>, 
+         <line/>past, had, as their chief warrior, one <mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Macgillivray</mention>, 
          <line/>a Scotchman, who had long resided among these 
          <line/>Indians. General Wayne, at the head of two 
          <line/>thousand Provincials, had completely routed them 
@@ -37532,7 +37531,7 @@
       <p>
          <pg n="4"/>
          <column/>
-         <line/><mention name="McGillivray, Alexander">Col. Alexander MacGillivray</mention>, the
+         <line/><mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Col. Alexander MacGillivray</mention>, the
             celebrated 
          <line/>Chief of the <mention keyword="Native Americans">Creek</mention> Nations, and an Ally
             of the 
@@ -38302,7 +38301,7 @@
          <transcription_date>20141027</transcription_date>
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
-         <url>http://news.google.com/newspapers?id=knVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=4796%2C1098678</url>
+         <url>http://news.google.com/newspapers?nid=tzPJaSocouwC&amp;dat=17940912&amp;printsec=frontpage&amp;hl=en</url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
@@ -38489,6 +38488,54 @@
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
          <url>http://news.google.com/newspapers?nid=tzPJaSocouwC&amp;dat=17940912&amp;printsec=frontpage&amp;hl=en</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
+   <item>
+      <id>342</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1790</year>
+         <month>July</month>
+         <day>12</day>
+         <section_name>London</section_name>
+      </publication_information>
+      <articletype>News</articletype>
+      <p>
+         <pg n="6"/>
+         <column/>
+         <line/><dateline city="Alexandria" country="United States" day="9" month="May" province="Virginia" year="1790">Letters from Alexandria, in Virginia, dated 
+            <line/>the 9th May last</dateline>, mention, that <mention name="Wayne, Anthony"
+               dates="1 January 1745-15 December 1796">General Wayne</mention> 
+         <line/>had been dispatched, in the beginning of March, 
+         <line/>on <mention keyword="war">an expedition against</mention> the Cherokee Miamis 
+         <line/>and <mention keyword="Native Americans">Chickesau Indians</mention>, who have, for some time 
+         <line/>past, had as their chief warrior, one <mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Macgillivray</mention>, 
+         <line/>a Scotchman, who has long resided among these 
+         <line/>Indians. <mention name="Wayne, Anthony"
+            dates="1 January 1745-15 December 1796">General Wayne</mention>, at the head of two 
+         <line/>thousand Provincials, had completely routed them 
+         <line/>after a great slaughter. After the battle, <mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Mac<sh/>
+         <line/>gillivray</mention> and his savages took refuge in the woods. 
+         <line/><mention name="Wayne, Anthony"
+            dates="1 January 1745-15 December 1796">General Wayne</mention> has destroyed the most part of 
+         <line/>the habitation of these Indians in the extent of 
+         <line/>200 English miles along the river, which is the 
+         <line/>boundary of <mention country="United States" province="Georgia">Georgia</mention>, after which he returned to 
+         <line/>Savannah. This defeat is so total, that it will put 
+         <line/>it out of the power of these Indians to be again 
+         <line/>troublesome to the <mention country="United States" province="Virginia">State of Virginia</mention>.
+      </p>
+      <transcription_information>
+         <collection_date>20130512</collection_date>
+         <transcription_date>20141106</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?id=rHVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=3617%2C4550000</url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
