@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="CND.xsl"?>
-<root xmlns="documentation/CNDNS.md">
+<root>
    <metadata>
       <compiler orcid="0000-0002-2907-3313" email="mhbeals@mhbeals.com" name="M. H. Beals"/>
       <license type="CCBY" version="4.0" url="https://creativecommons.org/licenses/by/4.0/legalcode"
@@ -37144,9 +37144,8 @@
          <line/>"Our news from <mention city="New York" province="New York" country="United States"
                >New York</mention> is very disagree<sh/>
          <line/>able indeed. <mention name="Scott, Merritt" dates="?-1790">Gen. Scott</mention>,
-               <mention name="Fontaine, James" dates="1757-1790">Major Fountain</mention>,
-            Ma<sh/>
-         <line/><mention name="Wyllys, John P.">jor Willis</mention>, <mention dates="1748-1790"
+               <mention name="Fontaine, James" dates="1757-1790">Major Fountain</mention>, <mention name="Wyllys, John P.">Ma<sh/>
+         <line/>jor Willis</mention>, <mention dates="1748-1790"
                name="McMurtry,John">Capt. M'Murtry</mention>, and <mention
                name="Frothingham, Ebenezer" dates="1758=1790">Lieut. Forting</mention><sh/>
          <line/>ham, have all fallen sacrifices to the <mention keyword="Native Americans"
@@ -38883,7 +38882,7 @@
       </transcription_information>
    </item>
    <item>
-      <id></id>
+      <id>346</id>
       <publication_information>
          <newspaper_title>Glasgow Advertiser</newspaper_title>
          <newspaper_city>Glasgow</newspaper_city>
@@ -38931,6 +38930,102 @@
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
          <url>http://news.google.com/newspapers?id=wnVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=4612%2C6631534</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
+   <item>
+      <id>347</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1791</year>
+         <month>February</month>
+         <day>21</day>
+         <section_name>American News</section_name>
+      </publication_information>
+      <articletype>Letter</articletype>
+      <p>
+         <pg n="3"/>
+         <column/>
+         <line/><dateline city="Richmond" country="United States" province="Virginia" year="1790" month="December" day="1"><i>Richmond, Virginia, Dec</i>. 1, 1790.</dateline>
+      </p>
+      <p>
+         <line/><dateline province="Kentucky" year="1790" month="November" day="7" country="United States"><i>Extract of a letter from a Gentleman at Kentucky, 
+         <line/>to a Member of the General Assembly, dated, 
+         <line/>Nov</i>. 7, 1790.</dateline>
+      </p>
+      <p>
+         <line/>"I have been waiting with much impatience 
+         <line/>to obtain some certain account of our troops; 
+         <line/>many probably conjectures still fill the minds of the 
+         <line/>people. A hand-bill just come to <mention city="Bourbon" country="United States" province="Kentucky">Bourbon</mention>, con<sh/>
+         <line/>tains an extract of a letter from <mention name="St. Clair, Arthur"
+            dates="23 March 1737-31 August 1818">Governor St. 
+         <column/>
+         <line/>Clair</mention> to <mention name="Wilkinson, James" dates="24 March 1757–28 December 1825">General Wilkinson</mention>, which mentions that 
+         <line/>our army had met with but little opposition. The 
+         <line/><mention keyword="Native Americans">Miami</mention> villages were abandoned, from thence a 
+         <line/>detachment was sent up to St. Joseph's river, 
+         <line/>which fell in with a party of Indians, and had a
+         <line/>severe engagement.
+      </p>
+      <p>
+         <line/>"<mention name="Harmar, Josiah" dates="10 November 1753-20 August 1813">General Harmar</mention> made a shew of retreating, 
+         <line/>and marched about eight miles, when he detached 
+         <line/>a strong party to the field of action, in hopes of 
+         <line/>finding the Indians on the ground; as they ex<sh/>
+         <line/>pected, so they found them, and an action imme<sh/>
+         <line/>diately commenced, which was obstinate on both 
+         <line/>sides.
+      </p>
+      <p>
+         <line/>"A vast number of Indians were killed in 
+         <line/>crossing the St. Joseph's river. <mention name="Fontaine, James" dates="1757-1790">Major Fountain</mention>, 
+         <line/>of Fayette, and <mention name="Scott, Merritt" dates="?-1790">General Scott's son</mention> were killed 
+         <line/>the second fire;  <mention dates="1748-1790"
+            name="McMurtry,John">Capt. M'Murty</mention> and 73 militia<sh/>
+         <line/>men were killed; <mention name="Wyllys, John P.">Major Willis</mention>, <mention name="Frothingham, Ebenezer" dates="1758=1790">Lieut. Fother<sh/>
+         <line/>ingham</mention>, of the Fœderal troops, and 77 privates, 
+         <line/>also fell in the action.
+      </p>
+      <p>
+         <line/>"<mention name="Harmar, Josiah" dates="10 November 1753-20 August 1813">General Harmar</mention> did not send a single man 
+         <line/>to reinforce the detachment, consisting of 400 
+         <line/>men, (who had to sustain the fire of the whole 
+         <line/>Indian army) although he had with him in camp 
+         <line/>upwards of 1100 men. Our men at last lost 
+         <line/>ground, <mention name="Harding, John">Colonel Harding</mention>'s wing was beaten, and 
+         <line/>finally  broke. Lieutenant Colonel Hall, of Bour<sh/>
+         <line/>bon, and Majors M'Million and <mention name="Wyllys, John P.">Willis</mention> broke the 
+         <line/>other wing of the Indians, which occasioned the 
+         <line/>amazing slaughter in the river St. Joseph.
+      </p>
+      <p>
+         <line/>"<mention name="Harmar, Josiah" dates="10 November 1753-20 August 1813">General Harmar</mention> never sent to bring off the 
+         <line/>wounded, nor bury the dead. Captain David 
+         <line/>Thrope and Lieut. Clark fell in the field. The 
+         <line/>Bourbon militia has suffered very much, nearly 
+         <line/>one third of them having fallen on the spot.
+      </p>
+      <p>
+         <line/>"The army is now at Licking, and is ex<sh/>
+         <line/>pected home hourly.
+      </p>
+      <p>
+         <line/>"This is the best account that I have been 
+         <line/>able to collect; it will be delivered to you by 
+         <line/>Major Jones, who before he leaves the district, 
+         <line/>may be enabled to obtain further particulars."
+      </p>
+      <transcription_information>
+         <collection_date>20130523</collection_date>
+         <transcription_date>20141107</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?nid=tzPJaSocouwC&amp;dat=17910221&amp;printsec=frontpage&amp;hl=en</url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
