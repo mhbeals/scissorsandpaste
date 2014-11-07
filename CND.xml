@@ -38882,4 +38882,57 @@
          <transcriber>MHB</transcriber>
       </transcription_information>
    </item>
+   <item>
+      <id></id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1790</year>
+         <month>October</month>
+         <day>4</day>
+         <section_name></section_name>
+      </publication_information>
+      <articletype>Letter</articletype>
+      <p>
+         <pg n="6"/>
+         <column/>
+         <line/><dateline city="Philadelphia" country="United States" year="1790" province="Pennsylvania" day="22" month="July"><i>Extract of a letter from Philadelphia, July</i> 22.</dateline>
+      </p>
+      <p>
+         <line/>"<mention keyword="trade">Trade</mention> is brisk at present, from the high pri<sh/>
+         <line/>ces and great sales of grain to Europe. Our far<sh/>
+         <line/>mers and giving above 6 s. currency (about 3s. 
+         <line/>sterling) to workmen per day and their meat, to 
+         <line/>enable them to take in new grounds, which is a 
+         <line/>great discouragement to our rising <mention keyword="manufacturing">manufactories</mention>, 
+         <line/>which are obliged to give high <mention keyword="wages">wages</mention> to their 
+         <line/>journeymen on that account.
+      </p>
+      <p>
+         <line/>"A Mr. Doylden from Europe has lately <mention keyword="land speculation">pur<sh/>
+         <line/>chased two millions of acres of lands from Con<sh/>
+         <line/>gress</mention>, Mr. Scriba, merchant in New York, has pur<sh/>
+         <line/>chased four millions of acres, all from Congress, 
+         <line/>a society of gentlemen, with whom, it is said, 
+         <line/>some Dutch houses in Amsterdam are concerned, 
+         <line/>have purchased from the State of Georgia about 
+         <line/>fifteen millions of land on the frontiers of that 
+         <line/>State. The very highest price paid for any of 
+         <line/>these purchases has been twenty cents per acre, 
+         <line/>(about ten-pence British money) payable by in<sh/>
+         <line/>stallments at different periods, and that in Con<sh/>
+         <line/>gress money."
+      </p>
+      <transcription_information>
+         <collection_date>20130513</collection_date>
+         <transcription_date>20141107</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?id=wnVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=4612%2C6631534</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
 </root>
