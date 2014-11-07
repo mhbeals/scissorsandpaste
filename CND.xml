@@ -38595,7 +38595,7 @@
       </transcription_information>
    </item>
    <item>
-      <id>343</id>
+      <id>344</id>
       <publication_information>
          <newspaper_title>Glasgow Advertiser</newspaper_title>
          <newspaper_city>Glasgow</newspaper_city>
@@ -38752,6 +38752,132 @@
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
          <url>http://news.google.com/newspapers?id=q6w-AAAAIBAJ&amp;sjid=OkwMAAAAIBAJ&amp;pg=6460%2C3129871</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
+   <item>
+      <id>345</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1790</year>
+         <month>May</month>
+         <day>24</day>
+         <section_name>London</section_name>
+      </publication_information>
+      <articletype>Miscellany</articletype>
+      <p>
+         <pg n="4"/>
+         <column/>
+         <line/><i>NOOTKA SOUND.</i>
+      </p>
+      <p>
+         <line/>The circumstances of the <mention keyword="trade">trade</mention> and situation 
+         <line/>of <mention>this part of North America</mention> being a matter of 
+         <line/>such general conversation and great public mo<sh/>
+         <line/>ment, we are particularly happy in being enabled 
+         <line/>to give some further account of the transactions,
+         <line/>that have happened at <mention province="British Columbia" country="Canada">Nootka Sounds</mention>, as well as
+         <line/>to point out the advantages that were likely to 
+         <line/>be extended to other places by the means of this 
+         <line/>trade.
+      </p>
+      <p>
+         <line/>It is necessary to remark that <mention keyword="fashion">the skin of the 
+            <line/>sea otter is worn only in the</mention> Northern regions of 
+         <line/>China. Its fur, though beautiful and magnifi<sh/>
+         <line/>cent, is too heavy for the sultry atmosphere of 
+         <line/>the Southern Provinces.
+      </p>
+      <p>
+         <line/><mention city="Bejing" country="China">Pekin</mention> is, therefore, the proper mart for this 
+         <line/>valuable commodity, and in this immense city, 
+         <line/>the consumption is so great, that the produce of 
+         <line/>the voyage meets and immediate sale.
+      </p>
+      <p>
+         <line/>The Mandarins of the Court, and even the 
+         <line/>Emperor himself, are fond of wearing this costly 
+         <line/>fur. To a citizen of common rank, a sea otter's 
+         <line/>collar to his vestment is a luxury.
+      </p>
+      <p>
+         <line/><mention keyword="Native Americans">The natives of the North West Coast of Ame<sh/>
+         <line/>erica</mention> set so great a value on <mention keyword="textiles">woollens</mention> of all kinds, 
+         <line/>that all the blankets, cloths, hats, and stockings, 
+         <line/>that could be procured in China, if English ma<sh/>
+         <line/>nufacture, were <mention keyword="trade">sold</mention> to the Indians, with whose 
+         <line/>Chiefs <mention keyword="foreign relations">treaties of commerc</mention>e had been formed.
+      </p>
+      <p>
+         <line/>An act of cruelty committed by an officer of
+         <line/>the Spanish Admiral Martiney's ship deserves to 
+         <line/>be recorded.
+      </p>
+      <p>
+         <line/>The Spaniards discovering that Callicum, a
+         <line/>Chief, second in authority at Nootka Sound, was 
+         <line/><mention keyword="foreign relations">in alliance with the English</mention>, <mention keyword="crime">he was shot through
+         <line/>the heart</mention> in the month of June 1789.&#x2104;The wife 
+         <line/>of Callicum, with an infant child, escaped, but 
+         <line/>not till wounded.
+      </p>
+      <p>
+         <line/>Macquilla, the Chief, first in command, re<sh/>
+         <line/>tired at the head of the allies of England, from 
+         <line/>Nootka Sound, and to avoid the cruelty of the 
+         <line/>Spaniards, they fled to distant parts. Such of 
+         <line/>the natives as they could seize, the Spaniards 
+         <line/><mention keyword="slavery">condemned to work as slaves</mention> on their fortifica<sh/>
+         <line/>tions.
+      </p>
+      <p>
+         <line/>At this period it was in the contemplation of 
+         <line/><mention keyword="Spanish Empire">the Spaniards</mention> to seize the Sandwich Islands, with 
+         <line/>a view to deprive British ships of refreshments. 
+         <line/>And we further add, on authority that amounts 
+         <line/>nearly to demonstration, that on the very lands 
+         <line/>purchased from the Nootka Chief by <mention name="Meares, John" dates="c.1756–1809">Captain 
+         <line/>Mears</mention>, the Spaniards have already opened valuable 
+         <line/><mention keyword="mining">mines</mention>.
+      </p>
+      <p>
+         <line/>Another object of this enterprise was <mention keyword="trade">to sup<sh/>
+         <line/>ply the markets</mention> of <mention country="Russia" province="Kamchatka Krai">Kamschatka</mention>, and other ports 
+         <line/>belonging to the Russians, with the teas and other 
+         <line/>produce of China. This promised to be an in<sh/>
+         <line/>valuable channel of commerce, as the Chinese 
+         <line/>have <mention keyword="embargoes">shut their ports</mention> against the Russians, who 
+         <line/>
+      </p>
+      <p>
+         <line/>On this voyage of discovery and experiment, 
+         <line/>one of our ships sailed and disposed of her cargo, 
+         <line/>but <mention keyword="shipwreck">was unfortunately lost</mention> on her return to China.
+      </p>
+      <p>
+         <line/>To these curious particulars we add, with a 
+         <line/>patriot joy, that the consumption of the glorious 
+         <line/>staple of England, <mention keyword="textiles">her broad cloths</mention>, is astonish<sh/>
+         <line/>ingly great in <mention country="Japan">Japan</mention> and <mention country="China">China</mention>: British hard<sh/>
+         <line/>ware, &amp;c. is also in great request.
+      </p>
+      <p>
+         <line/>From the friendship of Tiara to <mention name="Meares, John" dates="c.1756–1809">Captain Mears</mention>, 
+         <line/>ships which touch at the Sandwich islands may 
+         <line/>depend on the utmost attention and civility. 
+         <line/>This Prince is six feet 4 1/2 inches high, of propor<sh/>
+         <line/>tionate bulk.
+      </p>
+      <transcription_information>
+         <collection_date>20130506</collection_date>
+         <transcription_date>20131106</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url></url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
