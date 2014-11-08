@@ -4065,7 +4065,7 @@
          <line/>three, arrived in <mention city="Boston" province="Massachusetts"
                country="United States">town</mention> from New-York, the 
          <line/>
-            <mention name="Washington, George">PRESIDENT</mention> of the United States. 
+         <mention name="Washington, George" dates="22 February 1731-14 December 1799">PRESIDENT</mention> of the United States. 
       </p>
       <p>
          <mention keyword="nationalism">
@@ -4440,7 +4440,7 @@
          
          <line/>table authority, that <mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Mr. M'Gillvry</mention>
             has written 
-         <line/>to the <mention name="Washington, George">President of the United States</mention>, a
+         <line/>to the <mention name="Washington, George" dates="22 February 1731-14 December 1799">President of the United States</mention>, a
             full and 
          <line/>sensible account of the rise and progress of the 
          <line/>disputes subsisting between the Georgians; from 
@@ -4869,7 +4869,7 @@
          <line/>nish fleet that had been at Nootka, and from thence 
          <line/>to the Spanish Charge des Affaires at <mention city="New York" province="New York"
                country="United States">New York</mention>.
-         <line/>They were covered to the <mention name="Washington, George">President of the United
+         <line/>They were covered to the <mention name="Washington, George" dates="22 February 1731-14 December 1799">President of the United
             </mention>
          <line/>States of America.
       </p>
@@ -36805,7 +36805,7 @@
             <center>
                <i>The SPEECH of</i>
                <small_caps>
-                  <mention name="Washington, George">George Washington</mention>
+                  <mention name="Washington, George" dates="22 February 1731-14 December 1799">George Washington</mention>
                </small_caps>
                <i>, Esq;</i>
             </center>
@@ -37969,8 +37969,8 @@
          <line/>object of considerable importance, by the junc<sh/>
          <line/>tion of several tribes of Indians, hitherto <missing type="copy blur">???</missing>
          
-         <line/>with those already engaged in it. General Wash<sh/>
-         <line/><mention name="Washington, George">ington</mention> is expected to take the command
+         <line/>with those already engaged in it. <mention name="Washington, George" dates="22 February 1731-14 December 1799">General Wash<sh/>
+         <line/>ington</mention> is expected to take the command
             of the 
          <line/>army intended to serve against them in the pre<sh/>
          <line/>sent summer.
@@ -38280,7 +38280,7 @@
       <p>
          <line/>We learn from Georgia, that the treaty with 
          <line/>the Indians, to negotiate with Commissioners 
-         <line/>were appointed by the <mention name="Washington, George" keyword="" dates="22 February 1731-14 December 1799">President of the United</mention> 
+         <line/>were appointed by the <mention name="Washington, George" dates="22 February 1731-14 December 1799">President of the United</mention> 
          <line/>States, has been broken off; and that <mention name="McGillivray, Alexander" dates="15 December 1750-17 February 1793">Mr. M'Gil</mention><sh/>
          <line/>livray and his warriors have declared, that nothing 
          <line/>short of a cession of the territory between the ri<sh/>
@@ -38464,7 +38464,7 @@
          <line/>the State of Vermont</mention>; and <mention city="Paterson" country="United States" province="New Jersey">Paterson, in the State of 
          <line/>New Jersey</mention>. All the towns burnt by the English in the 
          <line/>was, have been rebuilt, and the old cities of <mention city="Charlestown" country="United States" province="Massachusetts">Charlestown</mention>, 
-         <line/><mention city="Baltimore" country="United States" province="Maryland">Baltimore</mention>, <mention city="Philadelphia" country="United State" province="Pennsylvania">Philadelphia</mention>, <mention city="New York" country="United States" province="New York">New York</mention>, and <mention city="Boston" country="United States" province="Massachusetts">Boston</mention>, have 
+         <line/><mention city="Baltimore" country="United States" province="Maryland">Baltimore</mention>, <mention city="Philadelphia" country="United States" province="Pennsylvania">Philadelphia</mention>, <mention city="New York" country="United States" province="New York">New York</mention>, and <mention city="Boston" country="United States" province="Massachusetts">Boston</mention>, have 
          <line/>been extended to more than double the extent they had 
          <line/>before the peace.
       </p>
@@ -39042,11 +39042,11 @@
          <day>21</day>
          <section_name>American News</section_name>
       </publication_information>
-      <articletype></articletype>
+      <articletype>News</articletype>
       <p>
          <pg n="3"/>
          <column/>
-         <line/><center>Musquito Shore.</center>
+         <line/><center><mention country="Nicaragua">Musquito Shore</mention>.</center>
          <line/>Intelligence has been received, that in some 
          <line/>trivial dispute with <mention keyword="Native Americans">a native Indian</mention>, a Spaniard 
          <line/>has <mention keyword="crime">stabbed him to the heart with a stiletto</mention>, and 
@@ -39073,6 +39073,274 @@
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
          <url>http://news.google.com/newspapers?id=-UdEAAAAIBAJ&amp;sjid=yLEMAAAAIBAJ&amp;pg=4608%2C1244111</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
+   <item>
+      <id>349</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1791</year>
+         <month>July</month>
+         <day>25</day>
+         <section_name>America</section_name>
+      </publication_information>
+      <articletype>Miscellany</articletype>
+      <p>
+         <pg n="3"/>
+         <column/>
+         <line/><dateline city="Norfolk" country="United States" day="11" month="April" year="1791" province="Virginia"><i>Norfolk, April</i> 11.</dateline> This day <mention keyword="shipping news">arrived the ship 
+         <line/>Albion, John Simmons, master, in 47 days from 
+         <line/>Rotterdam</mention>; on the 8th lying to in <mention keyword="weather">a heavy gale 
+         <line/>of wind</mention>, the Albion shipped a sea, which carried 
+         <line/>away all her boats and every loose article from 
+         <line/>the deck; there were three men of the watch, 
+         <line/>one of whom is washed overboard and perished&#x2014;
+         <line/>his name is John M'Naught, and belonged to 
+         <line/><mention city="Greenock" country="United Kingdom" province="Scotland">Greenock</mention>.
+      </p>
+      <p>
+         <line/><dateline  country="United States" year="1791" day="13" month="April"><i>Extract of a letter from a gentleman at the falls of 
+            <line/>the Ohio, <recipient city="Winchester" country="United States" type="relation" province="Virginia">to his relation in <missing type="copy blur">Winchester</missing>, Virginia.</recipient>
+         <line/>dated April</i> 13, 1791.</dateline>
+      </p>
+      <p>
+         <line/>"I wrote to you from <mention country="United States" province="Pennsylvania">Fort Pitt</mention>, which place 
+         <line/>we left the 3d. inst. in company with two other 
+         <line/>boats, and proceeded to Limestone, without
+         <line/>meeting or apprehending danger&#x2014;at that place 
+         <line/>we were informed of several disasters which had 
+         <line/>befallen boats going down the river, and one to 
+         <line/>a boat going up to a French station, loaded with 
+         <line/>bacon, butter, &amp;c. The particulars relative to 
+         <line/>the latter are as follow&#x2014;The boat was <mention keyword="war">attacked</mention> 
+         <line/>by about 60 or 70 <mention keyword="Native Americans">Indians</mention>, and the flankets that 
+         <line/>were on shore as a guard were fired on by them. 
+         <line/>&#x2014;Immediately after firing, they gave the Indian 
+         <line/>whoop, and rushing on the flankets, scalped them 
+         <line/>every one (about 22)&#x2014; they then fired at the 
+         <line/>boat, but did no damage, as it required some 
+         <line/>time to make their way into the river. After 
+         <line/>the savages had executed this terrible act of bar<sh/>
+         <line/>barity, they continued on the river watching for 
+         <line/>other boats. In the course of about six days, five 
+         <line/>or six boats happened to come down the river&#x2014;the 
+         <line/>savages attacked the foremost of them, in which 
+         <line/>were two young ladies, of the name Macdonald, 
+         <line/>a young gentleman, and some others, passengers, 
+         <line/>and took it. Elevated with this easy capture, 
+         <line/>they imagined themselves capable of taking every 
+         <line/>boat they might fall in with&#x2014;In a little time a 
+         <line/>second boat hove in fight, which they attacked 
+         <line/>with great fury&#x2014;they were in three canoes, each 
+         <line/>canoe containing about twenty&#x2014;they moved to<sh/>
+         <line/>wards the boat, as it came down, and commenced 
+         <line/>firing; after discharging their guns, they retreat<sh/>
+         <line/>ed, loading and came on a second time, fired and 
+         <line/>repeated nine different times; as often as they 
+         <line/>come on, there was a brisk firing kept up from 
+         <line/>the boat, which contained nine fighting men;&#x2014;
+         <line/>during the conflict two were killed, and five 
+         <line/>wounded; two only remained to protect the boat, 
+         <line/>and prevent the Indians from boarding it, which 
+         <line/>every appearance of their conduct plainly indi<sh/>
+         <line/>cated&#x2014;These two brave fellows exerted themselves 
+         <line/>in a peculiar manner&#x2014;on a near approach of the 
+         <line/><missing type="copy blur">???</missing>, they threw billets of wood at them, and 
+         <line/>one of them took up an ax, as a weapon of de<sh/>
+         <line/>fence, should they persist in boarding, which the 
+         <line/>Indians perceiving, and, as is supposed, their 
+         <line/>ammunition being expended, they retreated, 
+         <line/>without accomplishing their object. 
+      </p>
+      <p>
+         <line/>"These inhuman monsters, previous to their 
+         <line/><mention keyword="textiles">attacking the last mentioned boat</mention>, placed the 
+         <line/>two young ladies in front of their canoes, 
+         <line/>in which situation they were both killed. A few 
+         <line/>days after this transaction, they fired at another 
+         <line/>boat, and killed one young man. In short, every 
+         <line/>boat tat has gone down the river lately, has 
+         <line/>been fired at, except our's. We saw no <mention keyword="Native Americans">Indians</mention>; 
+         <line/>the places where the above depredation happen<sh/>
+         <line/>ed we passed in the night."
+      </p>
+      <p>
+         <line/><dateline city="Boston" country="United States" year="1791" day="4" month="May"><i>Boston, May</i> 4.</dateline> It is supposed that the adven<sh/>
+         <line/>tures of    the town of Boston, lost 25,000 dollars in 
+         <line/>the late <mention keyword="gambling">lottery</mention>; besides 'wear and tear' of con<sh/>
+         <line/>science.
+      </p>
+      <p>
+         <line/><dateline city="Salem" country="United States" day="31" month="May" province="Massachusetts" year="1791"><i>Salem, May</i> 31.</dateline> His excellency our worthy 
+         <line/>overnor perceiving, with his usual discernment, 
+         <line/>that <mention keyword="gambling">Lotteries</mention> have a tendency to withdraw the 
+         <line/>people's attention from industry, the only certain 
+         <line/>source of wealth and prosperity; and also that 
+         <column/>
+         <line/>they operate as a <missing type="copy blur">??? ??? ???, ??? ???</missing> 
+         <line/>and embarrassed being <missing type="copy blur">??? the ??? a<sh/></missing> 
+         <line/>venturers; suggests, in <missing type="copy blur">??? ???</missing> the 
+         <line/>Legislature, the propriety of discontinuing this 
+         <line/>mode of raising money.
+      </p>
+      <p>
+         <line/>The states of Connecticut and New Hampshire 
+         <line/>have passed laws, prohibiting the sale of lottery 
+         <line/>tickets of other states, in their states.
+      </p>
+      <p>
+         <line/><dateline city="Bennington" country="United States" province="Vermont" month="May" day="30" year="1791"><i>Bennington, May</i> 30.</dateline> A gentleman from the 
+         <line/>northward informs, that the part at the British 
+         <line/>post lately holden in this state, has recently been 
+         <line/>recalled.
+      </p>
+      <p>
+         <line/><dateline city="Baltimore" country="United States" province="Maryland" month="May" day="27" year="1791"><i>Baltimore, May</i> 27.</dateline> Colonel Jacob Webb, and 
+         <line/>Captain Miller, formerly of Stamford, in Con<sh/>
+         <line/>cecticut, Mr. John Carmel, of Philadelphia, mer<sh/>
+         <line/>chant, and several other gentlemen, with a negro 
+         <line/>boy, were drowned, on the 9th of March last, in 
+         <line/><mention country="United States" province="Georgia">St. Mary's river (Georgia)</mention> occasioned by the o<sh/>
+         <line/>versetting of a boat, in <mention keyword="weather">a sudden flaw of wind</mention>.
+      </p>
+      <p>
+         <line/><dateline city="Boston" country="United States" day="25" month="May" province="Massachusetts" year="1791"><i>Boston, May</i> 25.</dateline> On Friday last, the vene<sh/>
+         <line/>rable Mr. John Simonds, of Salem, <mention keyword="longevity">entered the 
+         <line/><i>one hundredth year of his age</i></mention>. He is the only 
+         <line/>male person who has arrived at that great age 
+         <line/>from the first settlement of the town by the Eng<sh/>
+         <line/>lish, in 1629, to the present day.
+      </p>
+      <p>
+         <line/><center><dateline city="New York" country="United States" day="9" month="June" province="New York" year="1791"><i>New York, June</i> 9.</dateline></center>
+      </p>
+      <p>
+         <line/><mention name="Washington, George" dates="22 February 1731-14 December 1799">General Washington</mention>, on his tour to the South<sh/>
+         <line/>ern Sates, landed at <mention city="Charleston" country="United States" province="South Carolina">Charlestown, South Caro<sh/>
+         <line/>lina</mention>, in a barge decorated for the purpose, with 
+         <line/>colours and pendants, and rowed by twelve A<sh/>
+         <line/>merican Captains and a Cockswain, all dressed in 
+         <line/>blue silk jackets, black silk breeches, white stock<sh/>
+         <line/>ings, and blue roses to their shoes. They had like<sh/>
+         <line/>wife hold laced hats; with silk bandeaus, with the 
+         <line/>motto, <i>Long live the President</i>. An immense 
+         <line/>number of people assembled near the Quay, and 
+         <line/>on board the vessels in the river, which, as well 
+         <line/>as works, saluted him with several discharges of 
+         <line/>artillery. The day was afterwards devoted to
+         <line/>conviviality&#x2014;<mention keyword="Freemasons">The lodge of St. John</mention> addressed
+         <line/>his Excellency as follows:&#x2014;            
+      </p>
+      <p>
+         <line/>"<i>Right Worshipful Sir</i>,
+         <line/>"We the <small_caps>Master, Officers and Members </small_caps>
+         <line/>of <mention keyword="Freemasons">St. John's Lodge</mention>, No. 2 of Newbern, beg 
+         <line/>leave to hail you welcome with <small_caps>three times 
+         <line/>three</small_caps>! We approach you not with the language 
+         <line/>works have proved you to be the true and faith<sh/>
+         <line/>ful <i>Brother</i>, the skilful and expert <i>Craftsmen</i>, the 
+         <line/>just and upright <i>Man</i>.
+      </p>
+      <p>
+         <line/>But the powers of eloquence are too feeble to 
+         <line/>express with sufficient energy, the cordial warmth 
+         <line/>with which our bosoms glow towards you&#x2014;We 
+         <line/>therefore most frevently wish&#x2014;more ardently and 
+         <line/>devoutly pray, that the Providence of the Most 
+         <line/>High, may strengthen, establish and protect you 
+         <line/>in your walk through life&#x2014;and when you are 
+         <line/>called off from your terrestrial labours, by com<sh/>
+         <line/>mand of our <small_caps>divine grand master</small_caps>, and your 
+         <line/>operations sealed with the mark of his approba<sh/>
+         <line/>tion, may <small_caps>your soul</small_caps> be everlastingly refreshed 
+         <line/>with the streams of living water which flow from 
+         <line/>the right hand of <small_caps>God</small_caps>. And when the Supreme 
+         <line/>Architect of all world's shall collect his most pre<sh/>
+         <line/>cious jewels, as ornaments of the Celestial Jerusa<sh/>
+         <line/>lem&#x2014;may you eternally shine among those of the 
+         <line/>brightest lustre."
+      </p>
+      <p>
+         <line/>To which the <mention name="Washington, George" dates="22 February 1731-14 December 1799">President</mention> returned the following 
+         <line/>answer:&#x2014;
+         <line/>"<i>Gentlemen</i>,
+         <line/>"I receive the cordial welcome which you
+         <line/>are pleased to give me, with sincere gratitude.
+         <line/>My best ambition having aimed at the unbiassed 
+         <line/>approbation of my fellow citizens, it is peculiarly 
+         <line/>pleasing to find my conduct so affectionately ap<sh/>
+         <line/>proved,, by a fraternity whose association is found<sh/>
+         <line/>ed on justice and benevolence.
+      </p>
+      <p><line/>In reciprocating the kind wishes contained in 
+         <line/>your address, be persuaded, that I offer a 
+         <line/>sincere prayer for your present and future happi<sh/>
+         <line/>ness."
+      </p>
+      <p>
+         <page n="4"/>
+         <column/>
+         <line/><center><dateline city="Georgetown" country="United States" province="Virginia" day="30" month="April" year="1791"><i>George-Town. April</i> 30.</dateline></center>
+      </p>
+      <p>
+         <line/>Yesterday morning, about one or two o'clock,
+         <line/>the ship Termagant, belonging to the house of 
+         <line/>Messrs. Claggen, lying in the stream opposite 
+         <line/>this town, was <mention keyword="fire">discovered on fire</mention>. The inhabi<sh/>
+         <line/>tants of the town and the seamen in the harbour 
+         <line/>speedily collected, but on account of a quantity 
+         <line/>of powder that was on board, the efforts that o<sh/>
+         <line/>therwise would have been exerted to extinguish 
+         <line/>the flames were withholden. The first soon com<sh/>
+         <line/>municated itself to the powder; and the explosion 
+         <line/>was so severe as sensibly to shake mot of the 
+         <line/>houses in the town. The cinders and pieces of 
+         <line/>the ship were flying in every direction, and it 
+         <line/>and it was with the greatest difficulty that in counting, 
+         <line/>store and dwelling houses, on the water side, were
+         <line/>prevented from sharing a similar fate with the 
+         <line/>ship. The extensive tobacco trade warehouse, 
+         <line/>the property of Francis and Charles Loundes, si<sh/>
+         <line/>tuated at some distance from the water, wherein 
+         <line/>upwards of <mention keyword="trade">1000 hogsheads of tobacco</mention> were stor<sh/>
+         <line/>ed, was several times, in different places, on fire, 
+         <line/>ut happily extinguished without sustaining much 
+         <line/>damage. The loss, occasioned by this alarming 
+         <line/>element, must be great indeed, as the ship was 
+         <line/>large and nearly new; besides, there were goods 
+         <line/>to a considerable amount, and a pretty large sum 
+         <line/>of money on board of her: all of which (except<sh/>
+         <line/>ing a part of the money, which has since been 
+         <line/>found) was destroyed. We are informed that 
+         <line/>this accident proceeded from the steward's falling 
+         <line/>to sleep and leaving a candle burning in the cab<sh/>
+         <line/>bin, which by some means or other, set fire to 
+         <line/>the sails that were stowed there. It had got far 
+         <line/>advanced before it was discovered. Providenti<sh/>
+         <line/>ally no lives were lost.
+      </p>
+      <p>
+         <line/><dateline city="Pittsburgh" country="United States" year="1791" day="21" month="May" province="Pennsylvania"><i>Pittsburgh, May</i> 21.</dateline> A letter received in this 
+         <line/>town, on Sunday last, from Lieut. Jeffers, at 
+         <line/>Fort Franklin, mentions, that an <mention keyword="Native Americans">Indian</mention> had ar<sh/>
+         <line/>rived there, who brought him intelligence that 
+         <line/>300 warriors of the Chippawa and other nations 
+         <line/>had <mention keyword="war">set out for war</mention> and that they were determin<sh/>
+         <line/>ed to strike on the Allegheny or Ohio, near Pe<sh/>
+         <line/>tersburgh; that 1000 men were preparing, but 
+         <line/>their destination was not known.
+      </p>
+      <transcription_information>
+         <collection_date>20130528</collection_date>
+         <transcription_date>20131108</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?id=Fl4-AAAAIBAJ&amp;sjid=xEsMAAAAIBAJ&amp;pg=4345%2C5105978</url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
