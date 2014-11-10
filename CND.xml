@@ -39399,4 +39399,56 @@
          <transcriber>MHB</transcriber>
       </transcription_information>
    </item>
+   
+   <item>
+      <id>352</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1792</year>
+         <month>August</month>
+         <day>20</day>
+         <section_name>London</section_name>
+      </publication_information>
+      <articletype>News</articletype>
+      <p>
+         <pg n="6"/>
+         <column/>
+         <line/><center><i>Extract of a letter from New York, <missing type="copy blur">???</missing></i></center>
+      </p>
+      <p>
+         <line/><mention keyword="war">A complete overthrow</mention> has lately been given to 
+         <line/>a numerous body of <mention keyword="Native Americans">Indians</mention>, commanded by one 
+         <line/>of their greatest Warriors, who was left dead on 
+         <line/>the field, amongst many hundreds of his followers.
+      </p>
+      <p>
+         <line/><mention keyword="war">The attack was commenced</mention> on the morning of 
+         <line/>the 28th of June, by a company of Regulars un<sh/>
+         <line/>der the command of Lieutenant Morton of New 
+         <line/>York, aided by a number of the neighbouring in<sh/>
+         <line/>habitants; and after a contest of three hours, put 
+         <line/>them totally to the rout. The carnage was ge<sh/>
+         <line/>neral amongst the <mention keyword="Native Americans">Indians</mention>, and no quarter given, 
+         <line/>as it might operate as a terror in future to those 
+         <line/>savage Freebooters, whose depredations on the 
+         <line/>property of every description of individuals and 
+         <line/>oftentimes <missing type="copy blur">???</missing> with personal cruelty to those 
+         <line/>in their power, has exasperated the Com<sh/>
+         <line/>munities to the highest pitch of vengeance and 
+         <line/>retaliation when an opportunity offered.
+         
+      </p>
+      <transcription_information>
+         <collection_date>20130531</collection_date>
+         <transcription_date>20141108</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?id=d2ZEAAAAIBAJ&amp;sjid=LrIMAAAAIBAJ&amp;pg=6313%2C4485130</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
 </root>
