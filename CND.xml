@@ -39345,4 +39345,58 @@
          <transcriber>MHB</transcriber>
       </transcription_information>
    </item>
+   <item>
+      <id>351</id>
+      <publication_information>
+         <newspaper_title>Glasgow Advertiser</newspaper_title>
+         <newspaper_city>Glasgow</newspaper_city>
+         <newspaper_province>Scotland</newspaper_province>
+         <newspaper_country>United Kingdom</newspaper_country>
+         <year>1792</year>
+         <month>August</month>
+         <day>17</day>
+         <section_name>Glasgow</section_name>
+      </publication_information>
+      <articletype>News</articletype>
+      <p>
+         <pg n="6"/>
+         <column/>
+         <line/>By private letters and newspapers lately arrived 
+         <line/>from <dateline city="Philadelphia" country="United States" province="Pennsylvania">Philadelphia</dateline> and <dateline city="New York" country="United States" province="New York">New York</dateline> we have inform<sh/>
+         <line/>mation, that the <mention keyword="Native Americans">Indians</mention> are <mention keyword="war">carrying on their de<sh/>
+         <line/>predations on the back settlements of the United 
+         <line/>States</mention> with great vigour; that an enquiry as to 
+         <line/>the miscarriage of the war had been made by 
+         <line/>Congress, and an army was collected this year; 
+         <line/>that the Americans had <mention keyword="foreign relations">some expectations of get<sh/>
+         <line/>ting free of the Indian war by treaties</mention>.
+      </p>
+      <p>
+         <line/>We have advices of <mention name="Clinton, George" dates="26 July 1739-20 April 1812">Governor Clinton's</mention> being 
+         <line/><mention keyword="colonial government">re-elected Governor</mention> of <mention country="United States" province="New York">New York state</mention> by a ma<sh/>
+         <line/>jority of 180, but the friends of <mention name="Jay, John" dates="12 December 1745-17 May 1829">Mr. Tay</mention> were 
+         <line/>objecting to the return, as the canvassers had not 
+         <line/>opened the boxes which contained the returns 
+         <line/>from three counties, Otsego, Clinton, and Tioga, 
+         <line/>which if opened they say would have given the 
+         <line/>election to <mention name="Jay, John" dates="12 December 1745-17 May 1829">Mr. Tay</mention>, the county of Otsego alone 
+         <line/>being 300 majority in favours of <mention name="Jay, John" dates="12 December 1745-17 May 1829">Mr. Tay</mention>.
+      </p>
+      <p>
+         <line/>A <mention keyword="weather">dreadful storm</mention> happened at <mention city="New York" country="United States" province="New York">New York </mention>on 
+         <line/>the 1st of July, which continued with so much 
+         <line/>violence, that several vessels were driven from their 
+         <line/>moorings, and a <mention keyword="shipwreck">number of boats upset</mention> and many 
+         <line/>lives lost.
+      </p>
+      <transcription_information>
+         <collection_date>20130531</collection_date>
+         <transcription_date>20141108</transcription_date>
+         <type>Digitised Image</type>
+         <repository>Google News Archive</repository>
+         <url>http://news.google.com/newspapers?id=d2ZEAAAAIBAJ&amp;sjid=LrIMAAAAIBAJ&amp;pg=6069%2C4400714</url>
+         <method>Manual Transcription</method>
+         <transcriber>MHB</transcriber>
+      </transcription_information>
+   </item>
 </root>
