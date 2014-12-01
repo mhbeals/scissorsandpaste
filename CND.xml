@@ -1517,61 +1517,7 @@
          <transcriber>Max Templer</transcriber>
       </transcription_information>
    </item>
-   <item>
-      <id>30</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1789</year>
-         <month>November</month>
-         <day>27</day>
-         <section_name/>
-      </publication_information>
-      <articletype>Commentary</articletype>
-      <p>
-         <pg/>
-         <column/>
-         <line/>"<i>What mighty contests rise from trivial things </i>;"/&gt; </p>
-      <p>
-         <line/>That the present revolution in France is a con<sh/><line/>sequence of the Revolution
-         in America, cannot <line/>admit of a doubt. The American Revoltuion o<sh/><line/>riginated
-         in Adams, a very insignificant Bosto<sh/><line/>nian. Not that this Adams had the least
-         expec<sh/><line/>tation of American independence, when he fo<sh/><line/>mented the
-         opposition to the stamp act ; indeed <line/>no human wisdom could possible have foreseen
-         <line/>the subsequent folly, and imprudence of the Bri<sh/><line/>tish administration and
-         its obsequious Parliament. <line/>An administration to totally destitute common
-         <line/>sense, so totally ignorant of every principle of <line/>found policy, no nation ever
-         beheld. Adams <line/>the sagacity to avail himself of such despicable
-         <line/>policies.–Fortunately for the American cause, <line/>the Generals that were sent
-         from England were <line/>of congenial abilities with the Minister, and the <line/>Americans
-         themselves were surprised, at the faci<sh/><line/>lity with which they acquired their
-         independence. <line/>–Yet all the blunders of the British administra<sh/><line/>tion, nd
-         the miserable conduct of the British <line/>Generals, would hardly have been sufficient to
-         <line/>emancipate America, notwithstanding her ex<sh/><line/>treme weakness, without
-         assistance of France ; <line/>and this assistance depended entirely on Dr. <line/>Franklin
-         being driven to Paris by the fatal phi<sh/><line/>lippic of a certain great lawyer. Such,
-         therefore, <line/>is the chain of concurrent circumstances that hath <line/>overturned the
-         French monarchy. If the British <line/>minister had possess common sagacity–if he
-         <line/>could have distinguished a general from a corpo<sh/><line/>ral ; if Franklin had
-         been treated with common <line/>civility, America would have remained a British
-         <line/>colony, and France an absolute monarchy, for <line/>ages yet to come. </p>
-      <p>
-         <mention country="United States"/>
-         <mention country="France"/>
-      </p>
-      <transcription_information>
-         <collection_date/>
-         <transcription_date/>
-         <type>Digitised Image</type>
-         <repository/>
-         <url/>
-         <method>Manual Transcription</method>
-         <transcriber>Max Templer</transcriber>
-      </transcription_information>
-   </item>
-   <item>
+<item>
       <id>31</id>
       <publication_information>
          <newspaper_title>Glasgow Advertiser</newspaper_title>
@@ -1947,54 +1893,6 @@
       </transcription_information>
    </item>
    <item>
-      <id>39</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1789</year>
-         <month>December</month>
-         <day>14</day>
-         <section_name/>
-      </publication_information>
-      <articletype>Letter</articletype>
-      <p>
-         <pg n="4"/>
-         <column/>
-         <line/>
-         <i>Extract of a letter from Dominica, Sept. 6</i>
-      </p>
-      <p>
-         <line/>"This day week the most diabolical design that <line/>ever was formed, was
-         discovered in Martinico ; It <line/>insurrection of the negroes, who were that <line/>night
-         to have set fire to the large and beautiful <line/>town of St. Pierre ; while the white
-         people were <line/>all in confusion, and striving to escape the flames, <line/>they were to
-         be butchered indiscriminately, man, <line/>woman, and child.–The combustibles were laid
-         <line/>in upwards of 100 houses, consisting of hemp dip<sh/><line/>ped in turpentine. The
-         plot was not discovered <line/>till five o'clock in the evening, when a negro be<sh/>
-         <line/>longing to an old lady, slung with remorse on <line/>thinking that he must murder
-         the woman who <line/>brought him up from a child, disclosed it to her. <line/>The troops
-         being thereupon assembled, 40 of the <line/>negroes were taken, armed with a hanger and a
-         <line/>long knife, the instruments which were in a few <line/>hours to have put a period to
-         the existence of up<sh/><line/>wards of 5000 people. All the inhabitants have <line/>been
-         under arms ever since, as they are afraid the <line/>negroes will attempt to release the 40
-         who are in <line/>gaol."/&gt; </p>
-      <p>
-         <dateline year="1789" month="September" day="6" country="Dominica"/>
-         <mention country="Martinique"/>
-      </p>
-      <transcription_information>
-         <collection_date/>
-         <transcription_date/>
-         <type>Digitised Image</type>
-         <repository/>
-         <url/>
-         <method>Manual Transcription</method>
-         <transcriber>Max Templer</transcriber>
-      </transcription_information>
-   </item>
-   <item>
       <id>40</id>
       <publication_information>
          <newspaper_title>Glasgow Advertiser</newspaper_title>
@@ -2034,6 +1932,7 @@
          <mention city="Saint-Pierre" province="Martinique" country="France"/>
          <mention keyword="slavery"/>
          <mention keyword="slave rebellion"/>
+         <mention country="Martinique"/>
       </p>
       <transcription_information>
          <collection_date/>
@@ -3517,47 +3416,6 @@
       </transcription_information>
    </item>
    <item>
-      <id>66</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1790</year>
-         <month>July</month>
-         <day>12</day>
-         <section_name/>
-      </publication_information>
-      <articletype>News</articletype>
-      <p>
-         <column/>
-         <line/>Letters from <dateline city="Alexandria" province="Virginia" country="United States"
-            year="1790" month="May" day="9">Alexandria, in Virginia</dateline>, dated <line/>the 9th
-         May last, mention, that General Wayne <line/>had been dispatched, in the beginning of
-         March, <line/>on an expedition against the <mention keyword="Native Americans">Cherokee
-            Miamis</mention>
-         <line/>and Chickesau Indians, who have, for some time <line/>past, had, as their chief
-         warrior, one <mention name="McGillivray, Alexander"
-            dates="15 December 1750-17 February 1793">Macgillivray</mention>, <line/>a Scotchman,
-         who had long resided among these <line/>Indians. General Wayne, at the head of two
-         <line/>thousand Provincials, had completely routed them <line/>after a great slaughter.
-         After the battle, Mac<sh/><line/>gillivray and his savages took refuge in the woods.
-         <line/>General Wayne has destroyed the most part of <line/>the habitations of these Indians
-         in the extent of <line/>200 English miles along the river, which is the <line/>boundary of
-         Georgia, after which he returned to <line/>Savannah. This defeat is so total, that it will
-         put <line/>it out of the power of these Indians to be again <line/>troublesome to the state
-         of <mention province="Virginia" country="United States">Virginia</mention>. </p>
-      <transcription_information>
-         <collection_date>20130531</collection_date>
-         <transcription_date>20140910</transcription_date>
-         <type>Digitised Image</type>
-         <repository>Google News Archive</repository>
-         <url>http://news.google.com/newspapers?id=rHVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=3617%2C4550000</url>
-         <method>Manual Transcription</method>
-         <transcriber>MHB</transcriber>
-      </transcription_information>
-   </item>
-   <item>
       <id>67</id>
       <publication_information>
          <newspaper_title>Glasgow Advertiser</newspaper_title>
@@ -4173,46 +4031,6 @@
       </transcription_information>
    </item>
    <item>
-      <id>77</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1790</year>
-         <month>November</month>
-         <day>26</day>
-         <section_name/>
-      </publication_information>
-      <articletype>News</articletype>
-      <p>
-         <pg/>
-         <column/>
-         <line/>By letters from the New York Packet, dated <line/>October 6, from Philadelphia, we
-         learn that <line/>there has been a very fine harvest in the South<sh/><line/>ern States,
-         and that the wheat has been wonder<sh/><line/>fully productive. A very large quantity had
-         <line/>been bought up for the Spanish markets. The <line/>quantity of European goods,
-         imported the last <line/>season was immense, goods selling for consider<sh/><line/>able
-         loss ; and such will always be the case when <line/>the Merchants in England anticipate a
-         ray of <line/>fruitfulness of the American Soil.–The appear<sh/><line/>ance of a Spanish
-         war had given them great pro<sh/><line/>spects of a commercial advantages, and a seven
-         <line/>years war is what the Americans were all ear[?] <line/>ly wishing for. </p>
-      <p>
-         <dateline year="1790" month="October" day="6" city="Philadelphia" province="Pennsylvania"
-            country="United States"/>
-         <mention city="New York" province="New York" country="United States"/>
-      </p>
-      <transcription_information>
-         <collection_date/>
-         <transcription_date/>
-         <type>Digitised Image</type>
-         <repository/>
-         <url/>
-         <method>Manual Transcription</method>
-         <transcriber>Max Templer</transcriber>
-      </transcription_information>
-   </item>
-   <item>
       <id>78</id>
       <publication_information>
          <newspaper_title>Glasgow Advertiser</newspaper_title>
@@ -4243,48 +4061,7 @@
          <mention country="United States"/>
          <mention keyword="agriculture"/>
          <mention keyword="trade"/>
-      </p>
-      <transcription_information>
-         <collection_date/>
-         <transcription_date/>
-         <type>Digitised Image</type>
-         <repository/>
-         <url/>
-         <method>Manual Transcription</method>
-         <transcriber>Max Templer</transcriber>
-      </transcription_information>
-   </item>
-   <item>
-      <id>79</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1790</year>
-         <month>November</month>
-         <day>26</day>
-         <section_name/>
-      </publication_information>
-      <articletype>News</articletype>
-      <p>
-         <pg/>
-         <column/>
-         <line/>When the Cherokee Chiefs first visited Covent<sh/><line/> Garden Theatre, one of
-         them appeared much de<sh/><line/>lighted with the splendid appearance of an In<sh/>
-         <line/>dian cap worn by one of the pantomine actors ; <line/>this being observed, the
-         performer was directed <line/>to present it to him in the Green Room after <line/>the
-         performance ; the Chief, amazed at the offer <line/>of the magnificent present, said,
-         through his in<sh/><line/>terpreter, "that even in his own country he <line/>should be
-         unable to repay it ; however, at pre<sh/><line/>sent he would do the utmost in his power ;"
-         on <line/>this he ordered the actor to approach him, and <line/>then lighting his Cherokee
-         pipe stuffed with a <line/>variety of nauseous combustibles, he took three <line/>whiffs
-         himself, and presenting the tube, desired <line/>desired the actor to take three whiffs
-         also–the greatest <line/>favour a Cherokee could confer ; the actor, a<sh/><line/>stonished
-         at the singularity of this unexpected ho<sh/><line/>nour, reluctantly complief with the
-         request, to the <line/>great entertainment of the Dramatic circle. </p>
-      <p>
-         <mention city="London" province="England" country="United Kingdom"/>
+         <mention city="New York" province="New York" country="United States"/>
       </p>
       <transcription_information>
          <collection_date/>
@@ -4313,7 +4090,7 @@
       <p>
          <pg/>
          <column/>
-         <line/>When the Cherokee Chiefs first visited Covent<sh/><line/>garden Theatre, one of them
+         <line/>When the Cherokee Chiefs first visited Covent-/sh><line/>garden Theatre, one of them
          appeared much de<sh/><line/>lighted with the splendid appearance of an In<sh/><line/>dian
          cap worn by one of the pantomime actors; <line/>this being observed, the performer was
          directed <line/>the performance; the Chief, amazed at the offer <line/>of the magnificent
@@ -4323,7 +4100,7 @@
          lighting his Cherokee pipe stuffed with a <line/>variety of nauseous combustibles, he too
          three <line/>whiffs himself, and presenting the tube, desired <line/>the actor to take
          three whiffs also–the greatest <line/>favour a Cherokee could confer ; the actor, a<sh/>
-         <line/>astonished at the signularity of this unexpected ho<sh/><line/>nour, reluctantly
+         <line/>astonished at the singularity of this unexpected ho<sh/><line/>nour, reluctantly
          complied with the request,to the <line/>great entertainment of the Dramatic circle. </p>
       <p>
          <mention city="London" province="England" country="United Kingdom"/>
@@ -4459,65 +4236,6 @@
          <mention city="Cork" province="Munster" country="Ireland"/>
          <mention city="Seville" province="Andalusia" country="Spain"/>
          <mention city="Waterford" province="Munster" country="Ireland"/>
-         <mention city="Annapolis" province="Maryland" country="United States"/>
-      </p>
-      <transcription_information>
-         <collection_date/>
-         <transcription_date/>
-         <type>Digitised Image</type>
-         <repository/>
-         <url/>
-         <method>Manual Transcription</method>
-         <transcriber>Max Templer</transcriber>
-      </transcription_information>
-   </item>
-   <item>
-      <id>83</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1790</year>
-         <month>November</month>
-         <day>29</day>
-         <section_name/>
-      </publication_information>
-      <articletype>Letter</articletype>
-      <p>
-         <pg/>
-         <column/>
-         <line/>
-         <center>
-            <i>Extract of a letter from Dublin Nov. </i> 23.</center>
-      </p>
-      <p>
-         <line/>"The drafts at Cork yesterday received the a<sh/><line/>greeable orders to return to
-         their respective rei<sh/><line/>ments immediatly. </p>
-      <p>
-         <line/>"The officers appointed to raise independent <line/>companies in Ireland, have
-         received orders to re<sh/><line/>pair forthwith to England, with whatever com<sh/>
-         <line/>plement of men already entered, but not to <line/>proceed with the completion of
-         their number : <line/>in consequence of this order; they are preparing <line/>for their
-         immediate departure. </p>
-      <p>
-         <line/>"Last Tuesday two eminent merchants of <line/>this city received orders, by way of a
-         vessel ar<sh/><line/>rived at Cork, from Mess. de Fouseca Olivarez <line/>and Co. at
-         Seville,for the immediate exporation <line/>of cotton, white linen, and mixed foods, to a
-         <line/>very large amount. </p>
-      <p>
-         <line/>"Monday evening the Elizabeth and Mary, <line/>Mark Purcell, master, arrived at
-         Waterford from <line/>Annapolis, in Maryland, after a long and dan<sh/><line/>gerous
-         passage, of 52 days, in which they had <line/>nearly exhausted the whole of their
-         provisions, <line/>having been at very short allowance of half a <line/>ter, for
-         twenty-four hours. She is heavy laden, <line/>having on board six hundred hogshead of
-         tobac<sh/><line/>co, a large quantity of pipe staves, barrel hoops, <line/>&amp;c. and has
-         been expected more than two months. <line/>Eight per cent was offered as insurance on ship
-         <line/>and cargo, but refused, on account of the then <line/>probabily of a war. </p>
-      <p>
-         <dateline year="1789" month="January" day="23" city="Dublin" country="Ireland"/>
-         <mention city="Cork" country="Ireland"/>
-         <mention city="Seville" province="Andulacia" country="Spain"/>
          <mention city="Annapolis" province="Maryland" country="United States"/>
          <mention keyword="shipping news"/>
          <mention keyword="war"/>
@@ -23456,7 +23174,7 @@
          consequences which must ensue <line/>if vessels should continue to be engaged until too
          <line/>late to be dispatched by the required date, no <line/>ships can be permitted to sail
          with a claim to <line/>bounty from the Colonial Government beyond <line/>those which shall
-         be fortwith returned to the <line/>Commissioners of Colonial Lands and Emigration,
+         be forthwith returned to the <line/>Commissioners of Colonial Lands and Emigration,
          <line/>and proved to be already under engagement for <line/>the purpose.–By order of the
          Board, <line/>
          <small_caps><author name="John Gliddon">John Gliddon</author>, Assis.-Sec.</small_caps>
@@ -23475,55 +23193,7 @@
          <transcriber>Max Templer</transcriber>
       </transcription_information>
    </item>
-   <item>
-      <id>303</id>
-      <publication_information>
-         <newspaper_title>Scotsman</newspaper_title>
-         <newspaper_city>Edinburgh</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1841</year>
-         <month>October</month>
-         <day>9</day>
-         <section_name/>
-      </publication_information>
-      <articletype>News</articletype>
-      <p>
-         <pg/>
-         <column/>
-         <line/>
-         <small_caps>Emigration to South Australia.</small_caps>
-         <line/>(<i>From Tuesday's Gazette.</i>) </p>
-      <p>
-         <line/>Colonial Land and Emigration Office, 9 Park<sh/><line/> street, Westminster, Oct. 1,
-         1841–In reference <line/>to the notice published in the <i>Royal Gazette</i> of the
-         <line/>6th of August last, to the effect that all emigrants <line/>in respect of whom
-         bounty was to be claimed in <line/>New South Wales, must have left this country by
-         <line/>the 1st of November next, the Commisioners of <line/>Land and Emigration do hereby
-         give further no<sh/><line/>tice, in pursuance of directions from her Majesty's
-         <line/>Secretary of State for the Colonies, that in order <line/>to prevent the
-         consequences which must ensue <line/>if vessels should continue to be engaged until too
-         <line/>late to be dispatched by the required date, no <line/>ships can be permitted to sail
-         with a claim to <line/>bounty from the Colonial Government beyond <line/>those which shall
-         forthwith be returned to the <line/>Commissioners of Colonial Lands and Emigration,
-         <line/>and proved to be already under engagement for <line/>the purpose–By order of the
-         Board, <line/>
-         <small_caps>John Gliddon</small_caps>, Assis. Sec. </p>
-      <p>
-         <dateline newspaper="Royal Gazette"/>
-         <mention province="New South Wales" country="Australia"/>
-      </p>
-      <transcription_information>
-         <collection_date/>
-         <transcription_date/>
-         <type>Digitised Image</type>
-         <repository/>
-         <url/>
-         <method>Manual Transcription</method>
-         <transcriber>Max Templer</transcriber>
-      </transcription_information>
-   </item>
-   <item>
+<item>
       <id>304</id>
       <publication_information>
          <newspaper_title>Scotsman</newspaper_title>
@@ -25495,52 +25165,6 @@
          <type>Digitised Image</type>
          <repository>Google News Archive</repository>
          <url>http://news.google.com/newspapers?id=8EdEAAAAIBAJ&amp;sjid=yLEMAAAAIBAJ&amp;pg=2114%2C478516</url>
-         <method>Manual Transcription</method>
-         <transcriber>MHB</transcriber>
-      </transcription_information>
-   </item>
-   <item>
-      <id>325</id>
-      <publication_information>
-         <newspaper_title>Glasgow Advertiser</newspaper_title>
-         <newspaper_city>Glasgow</newspaper_city>
-         <newspaper_province>Scotland</newspaper_province>
-         <newspaper_country>United Kingdom</newspaper_country>
-         <year>1790</year>
-         <month>June</month>
-         <day>18</day>
-         <section_name>London</section_name>
-      </publication_information>
-      <articletype>News</articletype>
-      <p>
-         <pg n="3"/>
-         <column/>
-         <line/>The <mention country="United States">American States</mention> having now gained
-         their <line/>independence, have no cause to quarrel left with <line/><mention
-            country="United Kingdom">this country</mention>; but matters are very different be<sh/>
-         <line/>tween them and <mention country="Spain">Spain</mention>. It is well known, that
-         <line/>the <mention keyword="Native Americans">Indians</mention> on the back settlements
-         have been <line/>regularly supplied with arms and ammunition <line/>from the Spanish
-         magazines in the West-Indies, <line/>to enable them to distress the Americans, and
-         <line/>prove at least a hindrance to their growing pro<sh/><line/>sperity. The free
-         navigation of the Mississippi <line/>has been denied them&#x2013;and the Spaniards, now
-         <line/>in possession of the Floridas, have been continual<sh/><line/>ly quarrelling with
-         them about their boundaries. </p>
-      <p>
-         <line/>It may therefore be considered as almost cer<sh/><line/>tain, that the American
-         States will take an active <line/>part against Spain. This will be a great acquisi<sh/>
-         <line/>tion to Britain in every point of view; for though <line/>American cannot furnish
-         money, she can furnish <line/>men and provisions; and a <mention keyword="trade">free
-            intercourse</mention> with <line/>her ports must prove of infinite advantage for the
-         <line/>security of our West-India islands. Their pri<sh/><line/>vateers, too, will be able
-         to take their runs so <line/>so speedily, that the Spanish trade must be very
-         <line/>materially injured thereby. </p>
-      <transcription_information>
-         <collection_date>20130531</collection_date>
-         <transcription_date>20141010</transcription_date>
-         <type>Digitised Image</type>
-         <repository>Google News Archive</repository>
-         <url>http://news.google.com/newspapers?id=qHVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=1876%2C3922264</url>
          <method>Manual Transcription</method>
          <transcriber>MHB</transcriber>
       </transcription_information>
@@ -28526,8 +28150,8 @@
          peremptorily de<sh/><line/>manded his assent to the sacrifice; which he for a length
          <line/>of time opposed by the force of words, which not seem<sh/><line/>ing likely to
          prevail, he adopted a method which si<sh/><line/>lenced the whole in an instant, and saved
-         the lives of <line/>Captain Fowler and his crew. Finding that all his ex<sh/>
-         <line/>postulations were defeated upon the principle of unde<sh/><line/>viating custom, he
+         the lives of <line/>Captain Fowler and his crew. Finding that all his ex<sh/><line/>postulations 
+         were defeated upon the principle of unde<sh/><line/>viating custom, he
          deliberately took up two ropes that <line/>were near him, and fixing one round the neck of
          his <line/>son, and the other round his own, called to the Chief <line/>next in command,
          who immediately approached him. <line/>His conference was short and decisive; he first
@@ -28579,8 +28203,7 @@
          of which, extending from the forehead to <line/>the hollow of the neck, is kept shorn,
          which practice <line/>the Chiefs do not adopt. Captain Fowler supposes the <line/>worms to
          be more prevalent and destructive to the ships' <line/>bottoms there, than he has anywhere
-         else witnessed; and to <line/>this cause attributes the caution of the natives in draw<sh/>
-         <line/>ing up their largest canoes, some of which contain from <line/>80 to 100 warriors.
+         else witnessed; and to <line/>this cause attributes the caution of the natives in draw<sh/><line/>ing up their largest canoes, some of which contain from <line/>80 to 100 warriors.
          They are anxious after every <line/>kind of property carried among them for barter, and
          <line/>this is supposed their chief inducement for attacking <line/>vessels when they can
          do so with a probability of ac<sh/><line/>complishing their object. They have no knowledge
@@ -28590,10 +28213,9 @@
          employing their thoughts on plunder, <line/>and devising schemes for taking advantage of
          strangers. <line/>Their population is very numerous; which he remarked <line/>to some of
          them, to whom he gave a description of <line/>Otaheite, observing, at the same time, that
-         its inhabit<sh/><line/>ants were less numerous:&#x2013;"Can't we go and take <line/>them?
+         its inhabit<sh/><line/>ants were less numerous:&#x2013;"Cannot we go and take <line/>them?
          What is there to hinder us?"&#x2013;was immediately <line/>demanded. This anecdote we
-         notice as a specimen of <line/>their natural inclination to hostility, in which, all ac<sh/>
-         <line/>counts respecting them correspond. </p>
+         notice as a specimen of <line/>their natural inclination to hostility, in which, all ac<sh/><line/>counts respecting them correspond. </p>
       <transcription_information>
          <collection_date>20120309</collection_date>
          <transcription_date>20141201</transcription_date>
@@ -28694,8 +28316,7 @@
          natives, who have <line/>a thorough knowledge of the use of these materials. That
          <line/>they are cannibals is well ascertained. They form dis<sh/><line/>tinct factions, and
          make war upon the ruling Chief; the <line/>rebels are denominated the Typees; and the
-         opposing par<sh/><line/>ties are horribly sanguinary towards each. Six of the ad<sh/>
-         <line/>verse party were killed, and devoured by the rebels while <line/>Captain Fowler was
+         opposing par<sh/><line/>ties are horribly sanguinary towards each. Six of the ad<sh/><line/>verse party were killed, and devoured by the rebels while <line/>Captain Fowler was
          among them, and the following de<sh/><line/>testable circumstance occurred on the
          occasion:&#x2013;A native <line/>man belonging to Port Anna Maria, who was not tattooed,
          <line/>and in consequence prohibited from the eating of human <line/>flesh, on pain of
