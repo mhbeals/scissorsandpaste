@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>43</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1789-12-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>shipping news</item>
+                            <item>post</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>This morning arrives a mail from Jamaica, <lb/>which was brought over in his
+                    Majesty's packet <lb/>the Roebuck, after a passage of 54 days. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

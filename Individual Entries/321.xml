@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>321</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130514 by M. H. Beals.
+                        Transcribed on 20141005 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-11-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="5"/> The Indian Chiefs lately arrived in town are six <lb/>in number. They
+                    have been indiscriminately styl<lb break="no"/>ed Cherokees, but three of them
+                    only are of that <lb/>nation, and three are Creek Indians.–They are
+                    <lb/>all handsome men, not exceeding in age twenty- <lb/>five or twenty-six.
+                    These six Chiefs have 20,000 <lb/>warriors ready to take the field, and have the
+                    <lb/>strongest wish to act in conjunction with the Eng<lb break="no"/>lish. They
+                    travelled 3000 miles before the reach<lb break="no"/>ed Halifax, and were near
+                    12 months in perform<lb break="no"/>ing the journey. From Halifax they went in
+                    an <lb/>English frigate to Quebec to Lord Dorchester, <lb/>by whom they were
+                    sent over to England to con<lb break="no"/>cert their plans in person with the
+                    Ministry. </p>
+                <p> The object of their coming to this country may <lb/>be easily guessed at. They
+                    long to make an at<lb break="no"/>tack upon the Spanish settlements. One of them
+                    <lb/>was heard last night in the playhouse to say, he <lb/>hoped in six months
+                    from this time to be in the <lb/>heart of Mexico. </p>
+            </body>
+        </text>
+    </TEI>

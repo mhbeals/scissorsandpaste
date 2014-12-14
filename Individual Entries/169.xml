@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>169</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Aberdeen</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1820-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>Maritime Intelligence </p>
+                <p> The Jane, Drummond, of Liverpool arrived at <lb/>Savannah, was plundered on the
+                    22d April in [?], 34, <lb/>10. long. 41. 21. of all her specie, 20,500 dollars,
+                    <lb/>stores, provisions, &amp;c. by a Spanish ship, of 300 tons, <lb/>armed with
+                    14 guns and two stern chasers, and full of <lb/>men. She was supposed to have
+                    been out two or three <lb/>months from Cuba. She had a yellow waist, woman
+                    <lb/>head, painted black, and was coppered to light water <lb/>mark. </p>
+                <p> Intelligence from Marseilles, dated 22d inst. states <lb/>–' An English
+                    Captain, who left Oran on the 13th <lb/>inst. and arrived yesterday in this
+                    port, has declared <lb/>that a squadron of five armed ships, which he was as<lb break="no"/>sured were destined for the North Seas, sailed from <lb/>Algiers
+                    at the beginning of the present month."</p>
+                <p> A vessel, the Prompt sailed on Tuesday evening <lb/>from Greenock for Quebec,
+                    having on board emigrants <lb/>from Anderston, Rutherglen, Lesmahogow, and La<lb break="no"/>nark, to the number of about 350 persons. The Rev. <lb/>Mr
+                    Easton, of Montreal, goes out with the Prompt. </p>
+                <p> The Hibernia, M'Eachren, from the Clyde to Bue<lb break="no"/>nos Ayres, was
+                    totally lost the 15th April, near Mal<lb break="no"/>donado. Crew saved. </p>
+                <p>
+            <hi rend="smallcaps">Discovery of a New Island off Cape Horn</hi>
+         </p>
+                <p> A new island has been discovered off Cape Horn, <lb/>in inst. 61 deg. long. 55
+                    deg. by the ship William, on a <lb/>voyage from Monte Video for Valparaiso. The
+                    same <lb/>having been dispatched by Captain Sheriff, of the An<lb break="no"/>dromache frigate, to survey the coast, had explored it <lb/>for 200 miles. The
+                    captain went ashore found it <lb/>covered with snow, and uninhabited. Abundance
+                    <lb/>of seals an whales were found in its neighbourhood. <lb/>He has named the
+                    island New Shetland. </p>
+                <p> Accounts from Constantinople, dated May 26, an<lb break="no"/>nouce, that the
+                    armaments against Ali Pacha are upon <lb/>the most formidable scale, and are
+                    actively pursued.– <lb/>The latter has obtained hostages of his principal
+                        offi<lb break="no"/>cers, as pledges of their fidelity. On the 14th, two
+                    <lb/>new hips of the line were launched in the presence <lb/>of the Sultan and
+                    his Grand Dignitaries, at the hour <lb/>fixed by the chief astrologers. The
+                    navigation between <lb/>Bagdad[?] and Bassurah has been free since the defeat of
+                    <lb/>the Arabs by the English. The latter, it is stated, have <lb/>facilitated
+                    the intercourse between those two places by <lb/>the establishment of
+                    parket-boats. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

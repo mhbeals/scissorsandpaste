@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>194</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1824-01-21"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>William and James Nisbet, and William Kerr, prisoners in the <lb/>jail here,
+                    accused of housebreaking and theft, have been indicted <lb/>and are to be tried
+                    before the High Court of Justiciary, on the 26th <lb/>instant. The two Nisbets
+                    are brothers. </p>
+                <p> By the arrival of the brig <hi rend="italic">Minerva</hi>, from Sydney, New
+                    South <lb/>Wales, which place she left in February last, we learn, that the
+                        <lb/>
+            <hi rend="italic">Morley</hi> had arrived there on the 7th of that
+                    month, with a detach<lb break="no"/>ment of the Buffs regiment, under the
+                    command of Lieutenant and <lb/>Adjutant Mackay. She had previously touched at
+                    Hobart Town, <lb/>Van Dieman's Land, where she landed 170 male convicts, two
+                    <lb/>having died on the passage. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

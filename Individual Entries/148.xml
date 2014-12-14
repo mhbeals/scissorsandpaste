@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>148</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Aberdeen</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1819-07-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>Colonial Intelligence </p>
+                <p> A letter from Corfu, dated the 10th ult. states that <lb/>the Governor of the
+                    Ionian Islands, General Mait<lb break="no"/>land, embarked on the 8th inst. for
+                    Rome, in order to <lb/>negotitate a Concordat relative to the Romish Clergy
+                    <lb/>of the United Islands, as it appeared that Lord Guild<lb break="no"/>ford,
+                    who had been charged with the affair by the <lb/>Prince Regent, had failed in
+                    his negotiation to that <lb/>effect. </p>
+                <p> Previously to the departure of the Governor, a de<lb break="no"/>putation from
+                    the Parguinotes emigrants waited upon <lb/>him, to claim the sum to be paid by
+                    Ali Pacha, for <lb/>property left in Parga, agreeably to stipulation. Ge<lb break="no"/>neral Maitland assured them he would not depart with<lb break="no"/>out adopting measures in their favour, and immediate<lb break="no"/>ly issued a proclamation, appointing a commission of
+                    <lb/>payment. Sir Frederick Adam fills the office of High <lb/>Commissioner, <hi rend="italic">ad interim</hi>, during the absence of the <lb/>Governor. </p>
+                <p> Advices from Demerara are received to the 3d ult. <lb/>The following is from the
+                    Guiana Chronicle of the <lb/>24th May:–" We observe by St Vincent:
+                    papers, <lb/>which we have just received, that the Royal York Ran<lb break="no"/>gers, under the command of Colonel Smelt, had em<lb break="no"/>barked on
+                    board the Diadem and Elizabeth transports <lb/>for Canada, where the regiment is
+                    intended to be dis<lb break="no"/>banded. It is stated that each of the men will
+                    have a <lb/>certain portion of land allotted them in that province <lb/>for
+                    cultivation and their future support. </p>
+                <p> We have received Newfoundland Papers to the 23d <lb/>ult by which we learn that
+                    in the Court of Session, on <lb/>the 18th idem, Capt. Redman, of the brig San
+                        Do<lb break="no"/>mingo, from Ross, was ordered to pay a fine of 10l.
+                    <lb/>each, for 20 passengers brought in that vessel over and <lb/>above the
+                    number allowed by act of Parliament; and a <lb/>further sum of 10l. for not
+                    having the regulations re<lb break="no"/>specting passengers posted up in some
+                    conspicuous part <lb/>of the vessel ; making in all a fine of 210l. </p>
+                <p> We subjoin an extract from the Montreal Herald of <lb/>the 12th June, relative
+                    to Mr Gourlay, the celebrated <lb/>reformer: </p>
+                <p> From the Niagara Spectator, of the 27th May, <lb/>we find the far famed champion
+                    of civil liberty, Mr <lb/>Gourlay, has again made his debut in an address to
+                    <lb/>the resident landowners of Upper Canada. This pro<lb break="no"/>duction is
+                    of the same stamp as him other lucubrations, <lb/>abounding with strong and
+                    vigorous assertions in place <lb/>of facts–a well wove sophistry to
+                    beguile the super<lb break="no"/>ficial reader ; and some of the most egregious
+                    errors in <lb/>colonial policy recommended with a speciousness well
+                    <lb/>calculated to deceive. Having so often stated out dis<lb break="no"/>sent
+                    from the political proceeding of this reformer, it <lb/>would be deemed
+                    intrusive by many of our readers to <lb/>enter into a refutation of the tenets,
+                    or an exposure of <lb/>the absurdities, contained in his address. By others
+                    <lb/>we might be supposed as exalting over a prostrate foe. <lb/>Both
+                    imputations we utterly disclaim ; while, as men <lb/>we regret that the mad
+                    career pursued by Mr Gourlay has <lb/>deprived society of the benefits which
+                    might have been <lb/>reaped from his better talents (of which he doubtless
+                    <lb/>has a share), we must, as good subjects, feel happy <lb/>that his career
+                    has been checked without any bad con<lb break="no"/>sequences to society. </p>
+                <p> The following is the present distribution of the for<lb break="no"/>ces in the
+                    West Indies:– <lb/>2d Regiment (or Queen's) –Demerara. <lb/>4th
+                    Ditto–Head-quarters, Grenada, five companies; <lb/>Trinidad, three
+                    companies ; and Tobago, two com<lb break="no"/>panies. <lb/>5th
+                    Ditto–Head-quarters, Antigua, five companies ; <lb/>St. Christopher's,
+                    four companies ; Montserrat, one <lb/>company. <lb/>9th
+                    Ditto–Head-quarters, St Vincent's, five compa<lb break="no"/>nies ;
+                    Dominica, three companies ; St Lucia, two com<lb break="no"/>panies. <lb/>21st
+                    Ditto (Fusileers)–Barbadoes. <lb/>1st West India
+                    Regiment–Head-quarters, Barba<lb break="no"/>does, six companies ; St
+                    Lucia, one company ; Domi<lb break="no"/>nica, two companies ; Antigua, one
+                    company. <lb/>3rd Ditto–Head-quarters, Trinidad, five companies <lb/>till
+                    further orders. <lb/>In Jamaica are the 50th, 58th, 61st, and 92d regi<lb break="no"/>ment. <lb/>In Honduras, five companies of the 2d West India
+                    <lb/>regiment. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

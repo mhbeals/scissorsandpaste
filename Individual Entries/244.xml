@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>244</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1834-09-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>The <hi rend="italic">St Nicholas</hi>, Morgan, which has arrived off
+                    <lb/>Aberdeen from Bathurst, New South Wales, reports <lb/>that timber was very
+                    scarce ; that the woods between <lb/>that town and Miramichi were on fire ; that
+                    250 tons <lb/>of cut timber had been burnt, and the people in the <lb/>woods had
+                    been obliged to abandon their camps and <lb/>fly to save their lives. The
+                    thermometer at Bathurst <lb/>was from 85 to 90. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

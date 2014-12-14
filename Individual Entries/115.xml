@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>115</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1814-10-15"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Canada Papers</hi>
+         </p>
+                <p> Quebec, Sept. 3. <lb/>The army from this province has entered the United States
+                    <lb/>by the Champlain frontier. On the 1st inst. the advance was <lb/>at Chazy. </p>
+                <p> Quebec, Sept. 8. <lb/>From the north-western frontier of Upper Canada, Messrs
+                    <lb/>M'Gillivray and M'Leod, who arrived here on Thursday last, <lb/>have
+                    brought dispatches from Lieutenant Colonel M'Donal, <lb/>at Michillimackinac,
+                    written since the repulse of the Ameri<lb break="no"/>can forces sent there to
+                    recapture it. The following are <lb/>the particulars of that expedition
+                    :– </p>
+                <p> "On the forenoon of the 5th of August, the Americans <lb/>landed 900 men, or
+                    thereabouts, at the back of the island <lb/>(Dowsman's farm). There is a
+                    considerable space of ground <lb/>cleared, and a gentle slope, which enabled
+                    their vessels, at <lb/>anchor close to the beach, to keep clear, by a constant
+                    fire of <lb/>grape, &amp;c. and which by the situation of the ground, passed
+                    <lb/>directly over the men's heads, as they formed and advanced <lb/>towards the
+                    woods. </p>
+                <p> "Lieutenant-Colonel M'Doual[?] formed his small garrison <lb/>(150 at most) at
+                    the extremity of the woods, and the Indians <lb/>were stationed on each flank,
+                    to keep the enemy from out<lb break="no"/>flanking the troops. By a false
+                    account of the enemy's inten<lb break="no"/>tion to land on another part of the
+                    island, a certain number of <lb/>Indians were sent to watch their motions ; but
+                    more Indians <lb/>absenting themselves, exposed one flank of Lieutenant-Colon<lb break="no"/>nel M'Doual's party entirely ; and an apprehension was enter<lb break="no"/>tained that the enemy would outflank and cut off the garrison
+                    <lb/>from the forts ; it was therefore deemed expedient to fall back
+                    <lb/>between the two forts, and there await the advance of the <lb/>enemy. </p>
+                <p> "A party of between 40 and 50 Indians, placed on the left <lb/>flank, and
+                    ignorant of the movements in the centre and right <lb/>flank, fired on the
+                    Americans, and threw them into confusion, <lb/>which the Indians soon perceived,
+                    and encouraging each other <lb/>by whoops and yells, totally broke the little
+                    order still observed <lb/>by the enemy, who took instant flight, and were all
+                    out of <lb/>reach before Lieutenant-Colonel M'Doual was apprised of <lb/>their
+                    retreat. </p>
+                <p> "Thus was a body of at least from six to nine hundred <lb/>men defeated and put
+                    to instant flight by 40 or 50 Indians, <lb/>with a loss of 17 men and a Major
+                    (Holmes) killed and found <lb/>on the spot!–The Indians lost but one
+                    man."</p>
+                <p> Previous to and combined with this, the measures taken by <lb/>the enemy were
+                    these: </p>
+                <p> "On the [?] of July, a detachment of the expedition sent <lb/>against
+                    Michillimackinac by the enemy, proceeded to St Ma<lb break="no"/>ry's, where
+                    they met with no resistance, there being neither <lb/>troops nor Indians, and
+                    every person occupied about their <lb/>usual concerns ; such as bay making,
+                    fishing &amp;c. Major <lb/>Holmes commanded the party, who gave up to
+                    indiscriminate <lb/>plunder, and destroyed the whole of the property belonging
+                    <lb/>to the North West Company ; burning their houses, stores, <lb/>and vessels,
+                    killing their cattle, and taking off their engagees <lb/>prisoners ; tearing
+                    down the fences, destroying the gardens, <lb/>fields, &amp;c. Many wanton acts
+                    of cruelty might be detailed. <lb/>Let two suffice for the present. </p>
+                <p> "Mr Johnstone's property was plundered, even his furni<lb break="no"/>ture ; the
+                    very clothing of his wife and children was seized <lb/>upon by these ruthless
+                    plunderers, and carried away. Major <lb/>Holmes sent to the south side of the
+                    strait for Mr Johnstone's <lb/>son George, and, after threatening and reviling
+                    him with the <lb/>most oppobrious language, flourished his sword over his head,
+                    <lb/>and said he had a great mind to cut his head off, now he was <lb/>his
+                    slave, When they were in the act of burning the houses <lb/>and stores, Mr G.
+                    Johnstone was ordered to stand in a cer<lb break="no"/>tain spot, under pain of
+                    being shot ; but had he remained, suf<lb break="no"/>foration[?] must have been
+                    his fate, being so near the buildings <lb/>in flames : he therefore risked being
+                    shot, and came off, and <lb/>thereby effected a timely escape. </p>
+                <p> "Another instance of more than savage cruelty was exer<lb break="no"/>cised on a
+                    poor horse, which they made us of all day in cart<lb break="no"/>ing their
+                    plunder, and in the evening, whilst still tackled to <lb/>the cart, tied him to
+                    the end of the dwelling-house then in <lb/>flames, and amused themselves in
+                    looking at the poor animal <lb/>making vain efforts to get loose ; but there he
+                    was burnt, and <lb/>his bones seen there by the writer of this."</p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

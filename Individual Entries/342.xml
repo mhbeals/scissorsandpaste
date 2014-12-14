@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>342</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130512 by M. H. Beals.
+                        Transcribed on 20141106 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="6"/>Letters from Alexandria, in Virginia, dated <lb/>the 9th May last,
+                    mention, that General Wayne <lb/>had been dispatched, in the beginning of March,
+                    <lb/>on an expedition against the Cherokee Miamis <lb/>and Chickesau Indians,
+                    who have, for some time <lb/>past, had as their chief warrior, one Macgillivray,
+                    <lb/>a Scotchman, who has long resided among these <lb/>Indians. General Wayne,
+                    at the head of two <lb/>thousand Provincials, had completely routed them
+                    <lb/>after a great slaughter. After the battle, Mac<lb break="no"/>gillivray and
+                    his savages took refuge in the woods. <lb/>General Wayne has destroyed the most
+                    part of <lb/>the habitation of these Indians in the extent of <lb/>200 English
+                    miles along the river, which is the <lb/>boundary of Georgia, after which he
+                    returned to <lb/>Savannah. This defeat is so total, that it will put <lb/>it out
+                    of the power of these Indians to be again <lb/>troublesome to the State of
+                    Virginia. </p>
+            </body>
+        </text>
+    </TEI>

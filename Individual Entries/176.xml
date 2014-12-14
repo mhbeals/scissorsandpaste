@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>176</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Aberdeen</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1821-03-14"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>Colonial Intelligence </p>
+                <p> Sierra Leone Gazettes to the 16th of December have <lb/>been received. It is
+                    satisafactory to learn that some <lb/>more effectual measures, than any before
+                    adopted by <lb/>the French Government, to prevent slave trading are <lb/>now in
+                    a course of execution. The French brig of <lb/>war, Le Huron, of 22 guns,
+                    Commodore Du Pres<lb break="no"/>
+            <lb/>sit, is employed in cruizing for that
+                    purpose. </p>
+                <p>
+            <hi rend="smallcaps">Earthquake at Zante</hi>, Jan. 8.–The last week
+                    <lb/>has been a scene of horror and destruction at Zante.– <lb/>At four
+                    o'clock, on the morning of the 29th of Dec. <lb/>we had a violent shock of an
+                    earthquake, which lasted <lb/>nearly half a minute ; this was followed by eight
+                    other <lb/>shocks, between four and six o'clock, which threw <lb/>down one
+                    thousand three hundred houses. Providen<lb break="no"/>tially, the first shock
+                    did not throw down many, so <lb/>that the inhabitants had time to escape before
+                        succeed<lb break="no"/>ing shocks, otherwise theloss would have been
+                        dread<lb break="no"/>
+            <lb/>ful. Only ten lives have been lost, but not a
+                    house <lb/>in the town has escaped without some injury. The <lb/>town is still
+                    in a complete state of confusion ; one <lb/>thousand give hundred houses more,
+                    being so much in<lb break="no"/>jured as to be marked in order to be pulled down
+                    ; all <lb/>the steeples in the place must be taken down. The <lb/>streets are
+                    almost impassable from the fallen houses ; <lb/>and great caution is required,
+                    in walking, to avoid the <lb/>ruins that are still falling. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

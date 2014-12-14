@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>78</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-11-26"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>By letters from the New York Packet, dated <lb/>October 6, from
+                    Philadelphia, we learn that <lb/>there has been a very fine harvest in the
+                        South<lb break="no"/>ern States, and that the wheat has been wonder<lb break="no"/>fully productive. A very large quantity had <lb/>been bought up
+                    for the Spanish markets. The <lb/>quality of European goods, imported the last
+                    <lb/>season was immense, goods selling for consider<lb break="no"/>able loss ;
+                    and such will always be the case when <lb/>the Merchants in England anticipate a
+                    ray of <lb/>fruitfulness of the American Soil.–The appear<lb break="no"/>ance of a Spanish war had given them great pro<lb break="no"/>spects of
+                    commercial advantages, and a seven <lb/>years war is what the Americans were all
+                        earnest<lb break="no"/>ly wishing for. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

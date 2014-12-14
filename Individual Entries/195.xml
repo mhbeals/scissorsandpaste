@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>195</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1824-01-31"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Hunt.</hi>–It is understoodthat <hi rend="italic">Hunt</hi> will be taken, in a short <lb/>time, from Hertford
+                    gaol, and put on board one of the hulks lying <lb/>off Woolwich, preparatory to
+                    his being transported for his natural <lb/>life, by the first convict-ship,
+                    which will sail from this country to <lb/>New South Wales. </p>
+                <p> The augmentation of the army consists in the formation of two <lb/>regiments,
+                    the 94th and 95th infantry, and in the intended raising <lb/>of four others, but
+                    which will not be embodied for some time. If <lb/>we look at the previous
+                    strength of the army of this extended Em<lb break="no"/>pire, the small increase
+                    in question will not only excite no alarm, <lb/>but it will be considered
+                    absolutely necessary for ordinary purposes. <lb/>The total number of regulars
+                    voted for the last year (exclusive of <lb/>the East Indies) was only 71,000,
+                    including officers. These may <lb/>be said to be distributed in the following
+                    manner :– </p>
+                <p> Great Britain, 18,000 <lb/>Ireland, 24,000 <lb/>West Indies, 7,000 <lb/>North
+                    America and Africa, 6,500 <lb/>Gibraltar, Mediterranean, &amp;c. 8,000 <lb/>Cape
+                    of Good Hope, } <lb/>Ceylon, } <lb/>Mauritius, } <lb/>New South Wales, }7,500
+                    <lb/>71,000 </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

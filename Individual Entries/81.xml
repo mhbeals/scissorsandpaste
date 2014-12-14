@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>81</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-11-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>slave rebellion</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="2"/>
+            <hi rend="center">
+               <hi rend="italic">DOMINICA.</hi>
+            </hi>
+            <lb/>
+            <hi rend="center">
+               <hi rend="italic">St. Pierre, Martinico, Sept.</hi>
+                    11</hi>
+            <lb/>This Colony is in a perfect state of anarchy ; <lb/>is so much that
+                    we have had thoughts of quitting <lb/>the island, and going to Trinidad, taking
+                    the ne<lb break="no"/>groes with us. Unless some speedy and effectual
+                    <lb/>succours arrive, the colony is utterly ruined. The <lb/>greater part of the
+                    colonists, this day, assembled <lb/>at Gros-morne.–The grenadiers, who
+                    were in <lb/>the fort of Trinity, with twenty three officers of <lb/>the
+                    regiment, were glad to make their escape.– <lb/>There are 1500 men in the
+                    FOrt Bourbon, many <lb/>of whom are from Dominica, Guadaloupe, and <lb/>other
+                    colonies, an supposed to have been sent by <lb/>Martinico refugees.–The
+                    firing of cannon is heard <lb/>incessantly ; at this rate the magazine of powder
+                    <lb/>will soon be consumed. </p>
+                <p> The Municipality of Fort Royal, have been <lb/>obliged to promise and sign
+                    whatever the insur<lb break="no"/>gents have been please to dictate.–The
+                    soldiers <lb/>run about the streets and oblige the inhabitants to <lb/>give them
+                    money.–Imagine, in short, a scene of <lb/>confusion and terror, and you
+                    will then have some <cb/>
+            <lb/>idea of the persent [?] of Fort Bourbon and
+                    <lb/>Fort Royal. </p>
+                <p> The town of St. Pierre swarms with strangers, <lb/>who come here from all parts.
+                    M. Chabrol, Co<lb break="no"/>lonel of the regiment which has been sent here,
+                    <lb/>together with a company of Chaffeurs, has been <lb/>appointed comandant o
+                    the NAtional troops. </p>
+                <p> The women, confident that it is in his power <lb/>to re-establish tranquility,
+                    prostrate themselves be<lb break="no"/>fore him, strew the ground on which he
+                    walks <lb/>with flowers, and affectionately embrace him.– <lb/>He seems
+                    willing to comply with their wishes. </p>
+                <p> The Colonial Assembly sits at Gros-morne <lb/>guarded by an army of 4000 men,
+                    under the com<lb break="no"/>mand of M. Dumoise, appointed by the General. </p>
+                <p> We are assured, that the insurgents are arming <lb/>four privateers with which
+                    they mean to attack <lb/>Trinity. Some soldiers attempted to penetrate
+                    <lb/>among them, but were repulsed by the Mulattoes. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

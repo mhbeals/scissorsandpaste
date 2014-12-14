@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>120</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Aberdeen</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1816-12-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Canada</hi>
+            <lb/>
+            <hi rend="smallcaps">Lord
+                    Selkirk</hi>
+         </p>
+                <p> We have been favoured by a Gentleman in this city, with the <lb/>following
+                    interesting and authentic communication, on the sub<lb break="no"/>ject of the
+                    dispute between Lord Selkirk, and the Gentlemen of <lb/>the North West Company: </p>
+                <p>
+            <hi rend="italic">Extract of a Letter from Montreal, dated 6th
+                    October,</hi>
+            <lb/>1816. </p>
+                <p> "In the newspapers which I sent you, you will see some <lb/>accounts of the
+                    disturbances which have taken place in the North <lb/>West between the North
+                    West Company and Lord Selkirk's co<lb break="no"/>lonists. The latter have been
+                    obliged to leave the Red River, <lb/>after having had 22 of their men, including
+                    Governor Semple, <lb/>killed by a party of <hi rend="italic">half-breeds,</hi>
+                    the spurious offspring of the <lb/>North West Company. As yet have not had an
+                    accurate <lb/>statement of that melancholy transaction. Lord Selkirk's party
+                    <lb/>state that these half-breed with some of the North West Com<lb break="no"/>
+            <lb/>pany servants, came to destroy the settlement, and that Mr <lb/>Semple,
+                    with about 25 of the Colonists, went out to meet them, <lb/>to know what could
+                    be their intentions, when those rascals com<lb break="no"/>menced firing on
+                    them, and massacred all but three, who were for<lb break="no"/>tunate enough to
+                    make their escape. The North West people's <lb/>account is that these <hi rend="italic">half-breeds</hi> with some <hi rend="italic">Indians</hi> were
+                        bring<lb break="no"/>ing down provisions from the upper part of the Red
+                    River to the <lb/>entrance near Lake Winipie, and as the Colonists had the
+                        com<lb break="no"/>mand of a great part of the river, they were obliged to
+                    pass in the <lb/>rear of the settlement, which being observed by Governor Sem<lb break="no"/>ple, who was on the look-out for them, he settled out of his
+                    Fort <lb/>with 25 men and a [?]-piece to take from the Indians the pro<lb break="no"/>visions which were intended for the North West Company ; that
+                    <lb/>the result[?] was an engagement which terminated in the defeat of <lb/>the
+                    Colonists, of whom twenty-two were killed. Lord Selkirk <lb/>[?] from Montreal
+                    for the Red River about the latter end of <lb/>June, when[?] three or four
+                    officers and about 150 men of De Men<lb break="no"/>[?]'s regiment, which had
+                    been disbanded, and when he arrived <lb/>at Fort William on Lake Superior,
+                    hearing the fate of his Colon<lb break="no"/>ists, he[?] immediately issued a
+                    warrant against Mr M'Gillivray for <lb/>high treason, conspiracy and murder, and
+                    subsequently warrants a<lb break="no"/>gainst all the partners of the N. W.
+                    Company, who were at F Wil<lb break="no"/>liam, [?] formal possession of their
+                    establishment there, and sent <lb/>Mr M'Gillivray, with about ten others,
+                    prisoners to Montreal, with <lb/>all their papers [?] a number of packs of
+                    Beaver and other Furs, <lb/>and several bales[?] of Merchandise, which he found
+                    in possession of <lb/>the North West Company, belonging to the Hudson's Bay
+                        Com<lb break="no"/>pany. The Police Officers in Montreal were several days
+                        exa<lb break="no"/>mining the papers, and about four or five days after the
+                    arrival of <lb/>Mr M'Gillivray and the others, they were admitted to bail, to
+                        ap<lb break="no"/>pear to take their trial at the next criminal court, or
+                    any court of <lb/>Oyer and Terminer which may be appointed. Stuart (the ci-de<lb break="no"/> vant Solicitor-General, who was dismissed by Sir James Craig,
+                    <lb/>and at whose instance an ineffectual attempt was lately made by <lb/>some
+                    misguided members of our House of Assembly to impeach <lb/>Chief Justices Sewell
+                    and Monk) is one of Lord Selkirk's coun<lb break="no"/>sel and spoke at great
+                    length, and what his friends and admi<lb break="no"/>rers call very eloquently,
+                    strongly opposed their being admitted <lb/>to bail, but all would not do, and
+                    they were accordingly bailed ; <lb/>Mr M'Gillivray in sureties of t1000 and the
+                    others in t500, <lb/>sums inconsiderable enough, advering to the high crimes and
+                    <lb/>misdemeanours with which they were charged. </p>
+                <p> "In the <hi rend="italic">Montreal Herald</hi> you will see a very learned, and
+                    (as <lb/>our neighbour Jonathan would say) a <hi rend="italic">lengthy</hi>
+                    communication, <lb/>signed <hi rend="italic">Montius[?]</hi>, setting forth the
+                    rights which the Hudson's <lb/>Bay Company by their charter possess over the
+                    Countries which <lb/>they have granted to Lord Selkirk, and the power vested in
+                    him <lb/>of appointing Governors and other Officers to superintend and
+                    <lb/>regulate the Colony. Being a masterly production, it will no <lb/>doubt
+                    makes its appearance in a pamphlet, and when it does, I <lb/>shall send you one,
+                    in case the papers should miscarry. It is un<lb break="no"/>certain whether the
+                    Earl will remain in the North West during <lb/>the winter, or come down to
+                    Montreal ; if the latter, he must be <lb/>down[?] soon[?], as the season for
+                    water-travelling will shortly close. </p>
+                <p> "Montreal is now divided into two parties, one favouring the <lb/>Lord, and the
+                    other the North West Company ; and with the ex<lb break="no"/>ception of the
+                    friends of the latter, strongly in favour of his <lb/>Lordship."</p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

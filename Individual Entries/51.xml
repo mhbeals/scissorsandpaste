@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>51</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1789-12-25"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>By letters from America, dated the 5th ult. <lb/>we learn, that wheat is so
+                    great a crop all over the <lb/>Provinces, that it has fallen at Virginia to [?]
+                    a <lb/>bushel. At Philadelphia it is 7s. 6d. paper cur<lb break="no"/>rency,
+                    about 3s. 8d. Sterling per bushel;–which <lb/>has reduced the price in
+                    France in from 48s. to <lb/>42s. 2d. and it is 20s. per quarter lower in Hol<lb break="no"/>land than it was four months ago. </p>
+                <p> Two ships, laden with American wheat, have <lb/>already arrived at Bristol,
+                    where the cargoes were <lb/>immediately purchased by the dealers. Large
+                    <lb/>orders are sent to America for wheat, of which <lb/>there has been a
+                    prodigious crop. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

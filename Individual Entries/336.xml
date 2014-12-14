@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>336</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
+                        Transcribed on 20141019 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1791-05-13"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="4"/> The Indian war in America is now become an <lb/>object of
+                    considerable importance, by the junc<lb break="no"/>tion of several tribes of
+                    Indians, hitherto <supplied reason="copy blur">???</supplied>
+            <lb/>with those
+                    already engaged in it. General Wash<lb break="no"/>ington is expected to take
+                    the command of the <lb/>army intended to serve against them in the pre<lb break="no"/>sent summer. </p>
+            </body>
+        </text>
+    </TEI>

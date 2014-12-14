@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>103</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1810-06-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Canada</hi>
+            <lb/>
+            <hi rend="italic">Extract of a letter
+                        from a Gentleman, to his Friend</hi>
+            <lb/>
+            <hi rend="italic">in
+                    Glasgow</hi>
+         </p>
+                <p> "<hi rend="smallcaps">Quebec</hi>, March 23, 1810.–A number of
+                    <lb/>leading characters among the Canadians, who were <lb/>Members of the House
+                    of Assembly (twice dissol<lb break="no"/>ved for improper conduct) and the
+                    proprietor of a <lb/>French paper, called <hi rend="italic">La Canadien</hi>,
+                    have been arrest<lb break="no"/>ed and thrown into jail, upon a charge of
+                        treason<lb break="no"/>able and seditious practises ; the printing press,
+                    types, <lb/>&amp;c. also taken possession of. This vigorous mea<lb break="no"/>sure of Sir James Craig, has astonished the Cana<lb break="no"/>dians not a
+                    little, but the consequences will be no <lb/>doubt beneficial to the country, as
+                    it has crushed a <lb/>faction which has for some years been gaining
+                    <lb/>strength, and acquiring dangerous ingluence over the <lb/>minds of the
+                    inhabitants, who are without education, <lb/>and ignorant, of course, in the
+                    extreme ; therefore <lb/>easily misled by demagogues among their country<lb break="no"/>men, who seize every opportunity of stirring up all <lb/>those
+                    prejudices which the people of this country <lb/>naturally have against the
+                    British : for, having been <lb/>allowed to preserve their language, they are
+                    nearly <lb/>as much Frenchmen now as they were at the con<lb break="no"/>quest."</p>
+                <p>
+            <hi rend="smallcaps">Quebec</hi>, March 22.–On Sunday afternoon, the
+                    <lb/>printer of the <hi rend="italic">Canadien</hi>, Mr Charles Lafrancois
+                    <lb/>was arrested and committed to jail, under a warrant <lb/>from the Executive
+                    Council, on a charge of treason<lb break="no"/>able practises. On Monday
+                    evening, Dr Blanchet <lb/>and Mr Bedard, and last evening Mr T. Taschereau,
+                    <lb/>were also arrested, and committed by the same au<lb break="no"/>thority on
+                    the same charges. </p>
+                <p> The Commander in Chief in Scotland gave an e<lb break="no"/>legant dinner, at
+                    head-quarters, on the 4th curt. to <lb/>celebrate the King's
+                    birthday-day–at which several of <lb/>the Nobility and Gentry, Generals,
+                    and Field-Offi<lb break="no"/>cers of the army, were present. </p>
+                <p> Among the other accidents that occurred on the <lb/>King's birth-day, from the
+                    imprudent use of gun<lb break="no"/>powder, is the death of girl in Richmond
+                    Street.– <lb/>Her clothes were set fire by a squib, and, al<lb break="no"/>though immediately taken to the Infirmary, was so <lb/>severely burnt, that
+                    she died before morning. </p>
+                <p> A very melancholy accident happened at a place <lb/>called the Pease,
+                    Berwickshire. As one of the bag<lb break="no"/>gage carts of the Forfarshire
+                    militia was stopping <lb/>there, a fine boy about eight years of age, belonging
+                    <lb/>to Serjeant-Major Nicol, got out of the cart, and <lb/>was climbing on the
+                    wheel, when the horses sudden<lb break="no"/>going off, threw him on the ground,
+                    and the <lb/>wheel passing over his body, crushed him to death. <lb/>The
+                    unfortunate mother was upon the cart when this <lb/>unhappy accident happened. </p>
+                <p> On Thursday night, a spirit shop in Gibson-street, <lb/>Glasgow, was broken into
+                    and about five pounds <lb/>in silver, a seven shilling piece, about eight
+                    shillings <lb/>of copper, a counterfeit half-guinea, and a poc<lb break="no"/>ket-book containing some bills and papers carried ; <lb/>some partial payments
+                    are marked on the bills. The <lb/>villians appear to have entered the shop by
+                    forcing <lb/>up the window shutter with an iron bar, and then <lb/>breaking a
+                    pane of glass, by which they got the iron <lb/>bolts and the window opened. </p>
+                <p> On Sturday last, a porter was killed in the hold <lb/>of a vessel in Dundee
+                    harbour. He was engaged <lb/>unloading coals ; and the rope by which the iron
+                        pul<lb break="no"/>ly was supported, giving way, the measure fell down
+                    <lb/>upon him, and killed him instantly. </p>
+                <p> A few days ago, a mason, of the name of Steven<lb break="no"/>son, was killed by
+                    the blowing up of some stones, at <lb/>Templeton, in the parish of Auchterhouse.
+                    The <lb/>match unfortunately communicated too early to the <lb/>powder, and the
+                    explosion took place before he <lb/>could get out of the way. He has left a wife
+                    and <lb/>two children to lament his loss. </p>
+            </body>
+        </text>
+    </TEI>

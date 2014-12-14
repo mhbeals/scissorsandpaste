@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>254</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1836-03-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="1"/>
+            <hi rend="smallcaps">Free Emigration of Females</hi>
+            <lb/>
+            <hi rend="smallcaps">To Australia.</hi>
+         </p>
+                <p> The splendid Ship <lb/>
+            <hi rend="smallcaps">
+               <hi rend="italic">Amelia
+                            Thompson,</hi>
+            </hi>
+            <lb/>of 500 tons, </p>
+                <p> Is now fitting by the Emigration <lb/>Committee, (under the authority of the
+                    Secretary of <lb/>State for the Colonies), expressly for the free conveyance
+                    <lb/>of <hi rend="smallcaps">single females</hi>, of good character, between
+                    <lb/>the ages of 15 and 30, to sail from Gravesend for Van <lb/>Dieman's Land,
+                    on Thursday the 28th April. </p>
+                <p> A limited number of married Agricultural labour<lb break="no"/>ers, and
+                    Mechanics, will be admitted to a passage in <lb/>this ship upon payment of t10
+                    for a married couple, <lb/>upon being approved of. </p>
+                <p> Applications to be made in Scotland, to Lieutenant <lb/>
+            <hi rend="smallcaps">Forrest, R. N.,</hi> his Majesty's Agent for Emigration, <lb/>Custom-House,
+                    Leith. </p>
+                <p> Agricultural Labourers and Mechanics of every <lb/>description are in demand in
+                    the Colony. </p>
+                <p> H. M., Emigration Office, Leith, <lb/>8th March, 1836. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

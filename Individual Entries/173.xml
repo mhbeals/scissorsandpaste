@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>173</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Aberdeen</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1821-01-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>Colonial Intelligence </p>
+                <p> We have received letters and papers, from the Cape <lb/>of Good Hope, to the 22d
+                    October, and they are sa<lb break="no"/>tisfactory in all points of view, but
+                    especially with re<lb break="no"/>ference to the new settlement at Algoa Bay.
+                    His <lb/>Excellency, the Governor, Sir R. S. Donkin, was <lb/>taking some
+                    effectual measures to place the coinage <lb/>of the colony upon a better
+                    footing, and on the 13th <lb/>of October he issued a Proclamation for destroying
+                    a <lb/>very large quantity of base money. He has also taken <lb/>measure to
+                    communicate to the new settlers from <lb/>England the full benefit ofthe Courts
+                    of Justice es<lb break="no"/>blished in that quarter of the world. </p>
+                <p> We have received an account of the loss of the A<lb break="no"/>beona[?]
+                    transport, bound to the Cape of Good Hope, <lb/>with settlers. The following is
+                    an extract of a letter <lb/>from the Agent to Lloyd's, dated Lisbon, 20th Dec.
+                    <lb/>"The Condessa da Ponte, which arrived on the 20th <lb/>inst. from
+                    Marenham[?], has brought 49 persons, who <lb/>escaped from the Abeona transport,
+                    bound to the Cape <lb/>of Good Hope, which took fire and was burnt on the
+                    <lb/>25th ult. in lat. 5 N. long–and 113 lives were lost. <lb/>The Agent,
+                    Lieut. Madge, the Captain, Surgeon, 21 <lb/>men, 16 boys, 4 women, and 5 girls,
+                    got into three <lb/>boats, and fortunately fell in with the Condessa da
+                    <lb/>Ponte, the morning after the fatal event."</p>
+                <p> Demerara Gazettes to a late date have been received, <lb/>which give detailed
+                    accounts of the number and state <lb/>of the slaves in that part of the West
+                    Indies. The re<lb break="no"/>port is given by James Robertson, Esq. the new
+                    Slave <lb/>Registrat of the United Colony. It is a triennial <lb/>statement of
+                    the slave population, and the Reporter <lb/>makes some judicious comparative
+                    remarks. It ap<lb break="no"/>pears that there has been a large decrease of the
+                        num<lb break="no"/>ber by deaths, but the Creoles are greatly increased as
+                    <lb/>compared with the former year. Births have been in <lb/>the proportion of
+                    one to forty-six. The Report de<lb break="no"/>fends the [?] of the West India
+                    Planters, and ob<lb break="no"/>serves that the state of the Black population
+                    serves[?] <lb/>to evil for little or no [?] ; so great is the <lb/>kindness, the
+                    liberality, and induglent care of pro<lb break="no"/>
+            <lb/>piertors. It adds,
+                    that their own interests is a perpe<lb break="no"/>tual[?] evil[?] upon their
+                    humanity. In the colony there <lb/>[?] [?] [?] <lb/>[?] [?] [?] <lb/>[?] [?] [?]
+                    <lb/>slaves on the island, [?] Africans[?] and Creoles <lb/>and there are 38,910
+                    female slaves of the same dono<lb break="no"/>mination, making a total of
+                    76,929. The slave po<lb break="no"/>pulation in 1817, amounted in the whole to
+                    77,867.– <lb/>The number of births which have occurred since that
+                    <lb/>period is 5,317, and deaths 7,140. The Report con<lb break="no"/>cludes
+                    with some gratifying observations upon the <lb/>flourishing state of the colony. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

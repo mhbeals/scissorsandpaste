@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>13</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1789-08-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>national character</item>
+                            <item>settlement description</item>
+                            <item>wages</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="7"/>
+            <hi rend="italic">Extract of a letter form Philadelphia, dated
+                        25th</hi>
+            <lb/>
+            <hi rend="italic">May, 1789.</hi>
+         </p>
+                <p> "I have travelled through several of the States <lb/>and see no appearance of
+                    the poverty which you <lb/>hear so much boast of in Britain–every where I
+                    <lb/>meet rather with extravagance. Indeed they <lb/>procure too easily to be
+                    frugal in their out-givings. <lb/>All the manufactured goods imported from Eu<lb break="no"/>rope are from Britain, and they cannot have goods <lb/>equal in
+                    quality and price from any other place. </p>
+                <p> "I think I never say so many children as are in <lb/>this country, every town,
+                    village, and farm-house, <lb/>are full of them.–The people of this
+                    country in<lb break="no"/>crease like rabbits: It is supposed they double
+                    <lb/>their numbers every fifteen years; but I should <lb/>think they do it in a
+                    shorter period.–What a <lb/>grand prospect for the sale of British goods,
+                    for <lb/>when so many hundreds of millions of acres of <lb/>land lye [sic] idle
+                    to be granted or purchased at a <lb/>small price, the people of this country
+                    never will <lb/>manufacture ; At present wages are high, and <lb/>1000 acres of
+                    land in the back settlements may <lb/>be purchased for as many [pence?]."</p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

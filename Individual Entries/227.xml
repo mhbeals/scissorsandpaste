@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>227</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1833-05-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Trade</hi>
+         </p>
+                <p>
+            <hi rend="italic">Wool</hi>–The accounts received in Lond from New
+                    <lb/>South Wales to the 8th of January, state that the produce <lb/>of the last
+                    year's clip of wool in Australia will be greatest <lb/>than that of the
+                    preceding year, and the the quali<lb break="no"/>ty has also considerably
+                    improved. From Van Die<lb break="no"/>man's Land it is now ascertained that the
+                    supply this <lb/>year will be short, but the general quality is very supe<lb break="no"/>rior. In the course of about a week or ten days, large
+                    <lb/>arrivals of wool are looked for from New South Wales <lb/>and the private
+                    contract business is expected to be very <lb/>active. The public sales of wools
+                    went off on Friday <lb/>very well, and at full prices. The arrivals of this week
+                    <lb/>have consisted of about 708 bales, of which about 292 <lb/>bales were Van
+                    Dieman's Land wools, and the rest Ger<lb break="no"/>man. There is a steady
+                    demand, and as it is under<lb break="no"/>stood that the manufacturers are short
+                    of stock, the an<lb break="no"/>ticipations are that trade will son be greatly
+                    improved. </p>
+                <p>
+            <hi rend="italic">York Wool Market, May</hi> 23.–The market com<lb break="no"/>menced here for this season this day, with only a small
+                    <lb/>show of wool, and not many buyers. The holders ask<lb break="no"/>ing very
+                    high prices caused part to be left unsold. <lb/>The following are the prices ;
+                    Hogs from 18s to 19s ; <lb/>Hogs and Ewes 16s 6d to 17s 6d ; Locks 11s to
+                    <lb/>12s, 6d per stone of 16lbs. </p>
+                <p>
+            <hi rend="italic">Bradford Market</hi>–The supply of Merinos in the
+                    <lb/>markets on Thursday evening, was by no means equal <lb/>to the
+                    demand–all qualities in six quarter wide Me<lb break="no"/>
+            <lb/>rinoes
+                    were eagerly bought up, and in some instances <lb/>a farther advance was
+                    obtained ; three quarter wide <lb/>Merinoes run much in demand, but a very
+                    scanty sup<lb break="no"/>
+            <lb/>ply ; the advance on six quarter wide Merinoes is
+                    from <lb/>4s to 6s per piece, compared with what was given at <lb/>the beginning
+                    of the year, and three quarter wide are <lb/>proportionably higher. Unless a
+                    reduction takes place <lb/>in the price of wool, the manufacturers state they
+                    must <lb/>have a further advance. </p>
+                <p>
+            <hi rend="italic">Rochdale Flannel Market.</hi>–The market today was
+                    <lb/>very lively for this season of the yar ; low goods both <lb/>for white and
+                    for dyeing were of very ready sale, and <lb/>in some instances a little advance
+                    was obtained ; several <lb/>sales were effected in fine qualities, and if the
+                    demand <lb/>proves permanent, the prospect for the coming season is <lb/>very
+                    promising. </p>
+                <p>
+            <hi rend="italic">Liverpool Cotton Market.</hi>–There has been but a
+                    <lb/>limited inquiry for cotton during the week ; the sales <lb/>are only about
+                    10,000 bugs, at declining prices. </p>
+            </body>
+        </text>
+    </TEI>

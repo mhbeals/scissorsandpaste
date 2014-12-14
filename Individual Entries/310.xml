@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>310</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1841-02-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">New Zealand.</hi>
+         </p>
+                <p> (<hi rend="italic">From the Morning Chronicle.</hi>) </p>
+                <p> The dinner given on Saturday by the New Zea<lb break="no"/>land Company to Lord
+                    John Russell will serve to re<lb break="no"/>move all apprehensions, if any are
+                    yet entertained, <lb/>with regard to the relations between that colony and
+                    <lb/>the Government of the parent state. Many of the first <lb/>names in the
+                    country honoured this splendid banquet <lb/>by their presence ; and men of all
+                    parties, Tories, <lb/>Whigs, and Radicals, appeared to be actuated only <lb/>by
+                    one common feeling. </p>
+                <p> The public are now tolerably familiar with the <lb/>natural advantages of New
+                    Zealand, which appears <lb/>destined to be in the Souther Ocean what Great
+                    <lb/>Britain is in the Northern. Lord Ashburton, with <lb/>must felicity,
+                    observed, " that the position of the New <lb/>Zealand islands on the map, their
+                    climate, fertility, <lb/>abundant harbours surrounded with the seas most
+                    <lb/>suited to the whale fisheries, and, above all, the <lb/>character to the
+                    native population, led him to antici<lb break="no"/>pate that these islands were
+                    likely to become the <lb/>great seat of wealth and naval power." Lord John
+                    <lb/>Russell was justly complimented, on all hands, for <lb/>adding these
+                    important islands to the great colonial <lb/>empire of this country. </p>
+                <p> The speech of Lord John Russell was much and <lb/>deservedly applauded. </p>
+                <p> "I believe," said his lordship, "that the foundation <lb/>of this colony of New
+                    Zealand will tend to the honour <lb/>and dignity of the Crow, and will tend to
+                    the pros<lb break="no"/>perity and future greatness of the nation (cheers). It
+                    <lb/>was on this ground, and for these reasons, that I lent <lb/>my humble
+                    efforts in support of those exertions that <lb/>had been made, and were about to
+                    be made, by the <lb/>New Zealand Company. Gentlemen, in so doing, I <lb/>should
+                    be unworthy of your approbation if I took <lb/>any extraordinary merit to myself
+                    ; for, in the <lb/>first place, the principle of colonization, the value of
+                    <lb/>colonies to this country, the means they afford of aug<lb break="no"/>menting her strength, of adding to her power, of pro<lb break="no"/>moting her
+                    wealth, and of increasing her prosperity– <lb/>all this has been
+                    ascertained and demonstrated by the <lb/>enlightened discussions of past years
+                    (hear, hear). With <lb/>regard to the best mode of colonization, likewise, we
+                    <lb/>have had the advantage and assistance of the most en<lb break="no"/>lightened opinions, and the most adverse discussion <lb/>I, therefore, can
+                    only take to myself the merit of not <lb/>being blind to the importance and
+                    value of those opi<lb break="no"/>nions and discussions (hear, and cheers)" </p>
+                <p> But though his lordship speaks thus humbly of his <lb/>own merits, in
+                    recommending the adoption of these <lb/>islands by the Crown, it was perfectly
+                    well understood <lb/>by all present that, for his conduct with respect to
+                    <lb/>his colony, he has truly entitled himself to the grati<lb break="no"/>tude
+                    of his country. Lord Ashburton only paid him <lb/>a deserved tribute when he
+                    complimented him for the <lb/>sagacity with which he had appreciated the
+                        import<lb break="no"/>ance of these islands, so soon as he had entered on
+                    the <lb/>administration of colonial affairs, and for the judicious <lb/>measure
+                    of setting up the British flag in them. </p>
+                <p> We may observe that the health of her Majesty's <lb/>Ministers, proposed by Mr
+                    Hutt, M.P., was received <lb/>with loud and universal cheering, and that Mr
+                        La<lb break="no"/>bouchere's speech, which was a very good one, was
+                    <lb/>well received. Upon the whole, Lord John's visit to <lb/>the City on this
+                    occasion is calculated to gain the <lb/>Government favour among the commercial
+                    classes. <lb/>His lordship may well be proud, that though New <lb/>Zealand was
+                    formally taken possession of in the name <lb/>of the Sovereign of this country
+                    many years ago, it <lb/>was reserved for him to make it a British colony. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>87</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
+                        Transcribed on 20140923 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1791-05-23"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <cb/>
+            <lb/>
+            <hi rend="enlarged-capital">Q</hi>UEBEC, <hi rend="italic">December</hi> 2, 1790<lb/>Yesterday's post from Montreal, conveyed let<lb break="no"/>ters to several gentlemen in town, all corroborati<lb break="no"/>ing the following extract. </p>
+                <p> "S<hi rend="smallcaps">IR</hi>, <lb/>"I have to inform you by several letters
+                        re<lb break="no"/>ceived here on Saturday from Detroit, "we are
+                    <lb/>informed the Americans, under General Sinclair, <lb/>had been twice
+                    defeated, about the 19th ult. with <lb/>the loss of from 500 to 600 men, by the
+                    Indians <lb/>The Indians first attacked a body of 300 horse <lb/>which they had
+                    drawn into a snare, and cut the <lb/>whole of them off. In a second engagement,
+                    they <lb/>were likewise victorious, having nearly killed as <lb/>many. On
+                    account of which, Sinclair thought <lb/>proper to retreat; and the last accounts
+                    state the <lb/>Indians having divided themselves into small par<lb break="no"/>ties, had so harrassed him, that he was obliged to <lb/>leave the wounded in
+                    the field–Sinclair lost his <lb/>artillery, a cohorn, and grass-hopper.
+                    It is said <lb/>the Indians are very much elated at their success, <lb/>and that
+                    numbers were daily joining them, at <lb/>their head quarters, about the Maimis
+                    towns– <lb/>One Indian, it is said, killed 30 with his own <lb/>hand. </p>
+                <p> "The Indians were extremely civil to the <lb/>traders from Detriot, having
+                    assisted them, when <lb/>they knew of the approach of the Americans, to
+                    <lb/>remove their property to safety, except ammuni<lb break="no"/>tion and
+                    arms. These are facts so well ascertain<lb break="no"/>
+            <lb/>ed, that there does
+                    not remain the least doubt <lb/>of them: </p>
+                <p> They may be attended with very serious and <lb/>important consequences to the
+                    province, as I dare <lb/>say, all will be imputed to the British for supply<lb break="no"/>ing these Indians with arms and ammunition.– <lb/>In
+                    short, I would not be surprized to hear of an <lb/>American army raising, to
+                    attack this country. <lb/>* The loss is here specified, but other letters
+                    differing <lb/>in number, we shall only say, the estimate in general <lb/>does
+                    not appear considerable. </p>
+            </body>
+        </text>
+    </TEI>

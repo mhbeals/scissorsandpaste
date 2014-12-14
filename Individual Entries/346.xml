@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>346</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130513 by M. H. Beals.
+                        Transcribed on 20141107 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-10-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>manufacturing</item>
+                            <item>wages</item>
+                            <item>land speculation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="6"/>
+            <hi rend="italic">Extract of a letter from Philadelphia, July</hi> 22. </p>
+                <p> "Trade is brisk at present, from the high pri<lb break="no"/>
+            <lb/>ces and great
+                    sales of grain to Europe. Our far<lb break="no"/>mers and giving above 6 s.
+                    currency (about 3s. <lb/>sterling) to workmen per day and their meat, to
+                    <lb/>enable them to take in new grounds, which is a <lb/>great discouragement to
+                    our rising manufactories, <lb/>which are obliged to give high wages to their
+                    <lb/>journeymen on that account. </p>
+                <p> "A Mr. Doylden from Europe has lately pur<lb break="no"/>
+            <lb/>chased two
+                    millions of acres of lands from Con<lb break="no"/>gress, Mr. Scriba, merchant
+                    in New York, has pur<lb break="no"/>chased four millions of acres, all from
+                    Congress, <lb/>a society of gentlemen, with whom, it is said, <lb/>some Dutch
+                    houses in Amsterdam are concerned, <lb/>have purchased from the State of Georgia
+                    about <lb/>fifteen millions of land on the frontiers of that <lb/>State. The
+                    very highest price paid for any of <lb/>these purchases has been twenty cents
+                    per acre, <lb/>(about ten-pence British money) payable by in<lb break="no"/>stallments at different periods, and that in Con<lb break="no"/>gress money."
+                </p>
+            </body>
+        </text>
+    </TEI>

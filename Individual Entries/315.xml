@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>315</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130514 by M. H. Beals.
+                        Transcribed on 20140929 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-11-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="5"/> Yesterday forenoon arrived at Spithead, the <lb/>Lord Dorcester
+                    merchantman, Edward Howe, <lb/>master, bound from Halifax for London. </p>
+                <p> In this ship came six Cherokee Chiefs, of the <lb/>first rank, one of them born
+                    in England. </p>
+                <p> As soon as their arrival was announced in form, <lb/>Sir Andrew Douglas,
+                    Commander of the Alcide, <lb/>of 74 guns, sent his barge to bring them ashore
+                    <lb/>to Portsmouth; and, upon landing, they went to <lb/>Bradley's, the crown
+                    Inn. </p>
+                <p> The object of these Chiefs coming to this coun<lb break="no"/>try is, to
+                    endeavour to form a connection with the <lb/>English Government, in order to
+                    attempt the re<lb break="no"/>
+            <lb/>duction of Mexico, near which place they have
+                    <lb/>20,000 men in arms, and can raise 30,000 more <lb/>in a short time. </p>
+                <p> The Cherokees have menaced that country for <lb/>these last three years, and are
+                    favoured by great <lb/>number of the inhabitants in the Spanish settle<lb break="no"/>ments; should they, therefore, procure respectable
+                    <lb/>assistance from England, the New World will be <lb/>a certain conquest, and
+                    open a source of trade and <lb/>wealth to this nation, that will more than
+                        com<lb break="no"/>pensate for the loss of America, and the expence <lb/>of
+                    attaining that grand object. </p>
+                <p> These Indian Chiefs are dressed in the habit of <lb/>their country, with their
+                    faces painted in an ex<lb break="no"/>traordinary manner. They waited on Colonel
+                    <lb/>Trigge, of the 12th regiment of foot, and some <lb/>other officers of
+                    distinction. One of them, who <lb/>was born in England, named Bowles, speaks
+                        Eng<lb break="no"/>lish indifferently well, and is extremely communi<lb break="no"/>cative. He went over to America with his pa<lb break="no"/>rents, who were in the army, when a boy, and by <lb/>some means strayed to an
+                    Indian camp, where he <lb/>was most hospitably received, and afterwards rais<lb break="no"/>
+            <lb/>ed to the highest honours of their nation. </p>
+                <p> The Cherokee Chiefs are expected in town this <lb/>day, to deliver their
+                        <supplied reason="copy blur">???</supplied> to Mr. Secretary <lb/>Grenville.
+                </p>
+            </body>
+        </text>
+    </TEI>

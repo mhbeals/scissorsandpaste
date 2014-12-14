@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>86</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
+                        Transcribed on 20140902 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-02-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>Advice from Charlestown, South Carolina, <lb/>says that the Indians in
+                    Washington county com<lb break="no"/>mit the most horrid depredations and
+                    cruelties. <lb/>They have set fire to several houses; and a wo<lb break="no"/>man, who had a sick husband, telling them from <lb/>a window, of her calamity,
+                    they shot her dead on <lb/>the spot, and then set fire to the spot. The sick
+                    <lb/>man was consequently burnt. </p>
+                <p> A Colonel Harling has greatly exerted and <lb/>distinguished himself in opposing
+                    the Indians on <lb/>a part of the American frontiers. This gentle<lb break="no"/>man, with two hundred men, even went into the <lb/>very heart of an Indian
+                    settlement, and defeated <lb/>the savages. He then penetrated the country,
+                    <lb/>destroying all before him, and returned without <lb/>the loss of a man.
+                    Every possible acknowledge<lb break="no"/>ment was made of his services and
+                    bravery, and <lb/>a liberal subscription made for his gallant little <lb/>army. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

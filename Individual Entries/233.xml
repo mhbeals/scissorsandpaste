@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>233</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1833-10-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="2"/>
+            <hi rend="smallcaps">Emigration.</hi>
+         </p>
+                <p> The returns to the House of Commons, on the motion <lb/>of Mr Stewart Mackenzie,
+                    relative to emigration, con<lb break="no"/>tain some curious and important
+                    information. The re<lb break="no"/>turns are three in number. </p>
+                <p> 1. Return of the number of person who have emi<lb break="no"/>grated from Great
+                    Britain and Ireland to the British <lb/>colonies and to the United States of
+                    America, in each <lb/>year from 1827 to the 31st of December 1832 ; distin<lb break="no"/>guishing the ports from which they have sailed, and the
+                    <lb/>countries to which such emigration took place. </p>
+                <p> Of this return the following is the result:– </p>
+                <p> 1827. 1828. 1829. 1830. 1831. 1832. <lb/>To the British Co<lb break="no"/>lonies
+                    in Ame<lb break="no"/>rica,. 12,646 12,081 13,307 30,574 59,067 66,339 <lb/>To
+                    the Cape of <lb/>Good Hope,. 114 135 197 201 114 196 <lb/>To the Australian
+                    <lb/>Colonies, 715 1,056 2,010 1,242 1,561 3,733 <lb/>To the United <lb/>States,
+                    14,526 12,817 15,678 24,887 23,418 32,872 <lb/>Total, 28,003 26,092 31,198
+                    56,907 83,160 103,410 </p>
+                <p> 2. Return of the number of families who emi<lb break="no"/>grated to New South
+                    Wales and Van Dieman's Land <lb/>since the formation of the Board of Emigration
+                    up to <lb/>the present time, having received loans from Govern<lb break="no"/>ment to enable them to emigrate ; specifying, first, the <lb/>colony to which
+                    such emigration took place ; second, the <lb/>number of persons in each family ;
+                    third the amount of <lb/>assistance granted. To New South Wales, the number
+                    <lb/>of families is 397, of persons 1,538, amount of money <lb/>expended t7,831.
+                    To Van Dieman's Land–number <lb/>of families, 422 ; of persons 1,571 ;
+                    amount of money <lb/>expended, t8406. </p>
+                <p> 3. Return of the number of young unmarried fe<lb break="no"/>males, not forming
+                    part of the above return, who have <lb/>emigrated to New South Wales and Van
+                    Dieman's <lb/>Land, during the same time, having accepted assist<lb break="no"/>ance by way of loan from Government ; specifying, <lb/>first, the colony to
+                    which such emigration took place ; <lb/>second, the amount of assistance granted
+                    :–To New <lb/>South Wales–number of females, 761 ; amount of mo<lb break="no"/>ney granted to them, t9,812. To Van Dieman's Land
+                    <lb/>–number of females, 509 ; amount of money granted to <lb/>them,
+                    t7,114. </p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>126</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Aberdeen</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1818-01-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Canada</hi>
+         </p>
+                <p>
+            <hi rend="italic">Extract of a letter from a Mercantile House in Nova Scotia,
+                        to</hi>
+            <lb/>
+            <hi rend="italic">their Correspondents in this quarter.</hi>
+         </p>
+                <p> "We sincerely hope that the Duties Government had in con<lb break="no"/>templation (last year) to impose upon Timber imported into <lb/>Great Britain
+                    and Ireland, from the British North American <lb/>Provinces, equal to the
+                    additional duty imposed on Foreign <lb/>Timber in 1813 will be further
+                    suspended. </p>
+                <p> "Our[?] commercial system chiefly depends upon the encourage<lb break="no"/>ment
+                    of the Timber branch ; ships that carry away that article[?] <lb/>bring us [?]
+                    at a low freight, whereby we are enabled to furnish <lb/>the British West India
+                    Islands with an abundant supply of Fish[?], <lb/>and that on very moderate terms
+                    ; but, in the event of Govern<lb break="no"/>ment persisting in imposing the
+                    Duty on Timber from hence, <lb/>that branch of our trade will inevitably revert
+                    to the Americans, <lb/>besides being the ruin of many in this and in the
+                    neighbouring <lb/>Provinces. </p>
+                <p> "The supposed revenue that would accrue to the mother <lb/>country, upon trial,
+                    will be found delusive ; to prove this, many <lb/>obvious[?] reasons can be
+                    adduced : As the trade now exists, all the <lb/>Timber extracted from these
+                    Colonies to Great Britain and Ire<lb break="no"/>land is paid for in British
+                    Manufactures ; the export of so bulky <lb/>an article as Timber, and the import
+                    of so ponderous an article <lb/>as [?], employs[?] an immense number of British
+                    ships ; objects <lb/>certainly of more real value to the revenue of Britain than
+                    any <lb/>benefit they could possibly derive from direct Duties imposed on
+                    <lb/>the export of Timber from British North America. It cannot be <lb/>denied
+                    that previous to 1813, when the additional Duty was laid <lb/>on Foreign Timber,
+                    they (the Foreigners) were not only the <lb/>carriers, but would not accept an
+                    ounce of British Manufac<lb break="no"/>ture in payment for their
+                    TImber–no, nothing but you gold[?] <lb/>which was so much in demand, that
+                    28s. was given for a [?]. <lb/>Another very cogent reason [?] be advanced in
+                    favour of what <lb/>is commonly denominated the Timber Trade from these
+                        Provin<lb break="no"/>ces ; it facilitates emigration, and introduces many
+                    valuable set<lb break="no"/>tlers into this Province, and the Canadas, that
+                    would go to the <lb/>States of America ; and the day is perhaps not so far
+                    distant when <lb/>they would of accessity[?] become our enemies. </p>
+                <p> "When Great Britain was first involved in war with the eas<lb break="no"/>tern
+                    countries, from whence the principal supply of Timber was <lb/>derived, the
+                    merchants in that line[?], as well as the ship-masters <lb/>were not only
+                    alarmed, but convinced themselves ruined ! The <lb/>Baltic is shut[?], what
+                    shall we do for Timber, and with our ships? <lb/>They properly concluded that
+                    perhaps the British Provinces could <lb/>supply them ; they made the experiment,
+                    they were not disap<lb break="no"/>pointed–but succeeded far beyond their
+                    expectations. If there<lb break="no"/>fore, in time of war, Britain has took to
+                    her colonies for a sup<lb break="no"/>ply of such a necessary article as Wood ;
+                    it is not reasonable for <lb/>us to conclude that their interests will not be
+                    wholly neglected, <lb/>when blessed with peace." </p>
+                <p>
+            <hi rend="italic">Extract of a Letter, dated Savannah, 25th Nov.</hi> 1817 </p>
+                <p> "In the Southern States, this autumn has been the most fa<lb break="no"/>tal
+                    they have experienced since their colonization. Many thou<lb break="no"/>sands
+                    have been hurried off to that " narrow house" destined <lb/>for all that live. A
+                    most malignant fever has prevailed to an <lb/>alarming extent. In this city,
+                    during the last four months, the <lb/>deaths have been equal to one-eights of
+                    the inhabitants left in <lb/>it ; and in Beaufort (S. Carolina) and in some of
+                    the Southern <lb/>Counties, the morality has exceeded one-sixth!"</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>12</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1789-08-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>border dispute</item>
+                            <item>slavery</item>
+                            <item>timber trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="4"/> A letter from the Bay of Honduras, dated <lb/>May 26, says, "The
+                    Spaniards, who pay an <lb/>annual visit to this settlement, to prevent en<lb break="no"/>
+         </p>
+                <p>
+            <pb n="5"/> croachments, are destroying all the cultivated <lb/>spots on shore,
+                    alledging that the settlers are pro<lb break="no"/>hibited by the convention
+                    from cultivation of any <lb/>kind. This will prove a temporary misfortune
+                    <lb/>to the woodcutters, by depriving them of the <lb/>principal means of
+                    subsisting their negroes, and <lb/>might be productive of mischief, were it not
+                    that <lb/>the British Superintendant, Colonel Despar, with <lb/>the assistance
+                    of the Calypso sloop of war, keeps <lb/>the woodcutters in order. This may rise
+                    the <lb/>price of mahogany at home, and certainly will <lb/>raise provisions
+                    here. </p>
+                <p/>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>253</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1836-03-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Emigration.</hi>–It will be observed, from an
+                        adver<lb break="no"/>tisement in to-day's paper, that Government are fitting
+                    <lb/>another ship for the <hi rend="italic">free</hi> conveyance of single
+                    females <lb/>from London to Van Dieman's Land ; and from the <lb/>great demand
+                    for agricultural labourers, and mecha<lb break="no"/>nics of every description,
+                    in that colony, it has been <lb/>resolved to grant a passage to that class, at a
+                    cost not <lb/>above what is paid to America–Government paying <lb/>the
+                    remainder of the sum as a bounty, amounting to <lb/>t30, which may certainly be
+                    looked upon as a great <lb/>boon, both by individuals and the colony at large.
+                    In <lb/>all the colonies there appears to be a scarcity of work<lb break="no"/>ing people, as from an official document in our posses<lb break="no"/>sion, it
+                    is asserted, on authority, that in Upper Canada <lb/>agricultural labourers,
+                    domestic servants, and trades<lb break="no"/>men of every description, will be
+                    for some years in <lb/>great request. Farm labourers readily obtain from
+                    <lb/>t25 to t30 per annum, with board, lodging, and <lb/>washing, and
+                    day-labourers from 3s. to 4s. per day, <lb/>with provisions. The government
+                    agent for emigra<lb break="no"/>tion for the Canadas asserts he could find
+                        imme<lb break="no"/>diate employment for 20,000 working people, as pub<lb break="no"/>lic improvements are much retarded for want of hands. <lb/>As
+                    this is the best season, we would advise all those <lb/>intending to emigrate to
+                    apply to the government <lb/>agent for emigration at the Custom House, Leith,
+                    <lb/>who will give gratuitous information regarding the <lb/>colonies, and
+                    advise as to the best method of putting <lb/>their plans into execution. The
+                    rate of wages for <lb/>every description of mechanics may be likewise seen
+                    <lb/>there. </p>
+            </body>
+        </text>
+    </TEI>

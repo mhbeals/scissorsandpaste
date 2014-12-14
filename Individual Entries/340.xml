@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>340</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
+                        Transcribed on 20141026 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-06-21"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Native Americans</item>
+                            <item>settlement description</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="2"/> The brig Virginia Planter, James Merrifield, <lb/>Master, arrived at
+                    Liverpool, brings information <lb/>that on the 5th of May, General Wayne, with
+                    <lb/>two thousand provincials, had attacked to<lb break="no"/>tally destroyed
+                    most of the Indian towns at the <lb/>back of Georgia, for near two hundred miles
+                        a<lb break="no"/>round the river. That M'Gilvray, and his ar<lb break="no"/>my of savages, after an unsuccessful and bloody <lb/>engagement, had fled to
+                    the woods, where the <lb/>General left them, and returned to Savannah.–
+                    <lb/>This expedition was undertaken about the begin<lb break="no"/>
+            <lb/>ning of
+                    March, winch has been crowned with the <lb/>expected catastrophe, and though the
+                    Cherokee, <lb/>Miami, and Chiquesaw tribes, may mediate re<lb break="no"/>venge
+                    at some future period; it is not likely they <lb/>will be in a condition to
+                    disturb the settlers for <lb/>some years to come. </p>
+            </body>
+        </text>
+    </TEI>

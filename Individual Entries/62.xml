@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>62</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
+                        Transcribed on 20140908 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-01-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <cb/>
+            <lb/>
+            <hi rend="italic">October</hi> 31. We are informed by very respec<lb break="no"/>table authority, that Mr. M'Gillvry has written <lb/>to the
+                    President of the United States, a full and <lb/>sensible account of the rise and
+                    progress of the <lb/>disputes subsisting between the Georgians; from <lb/>which
+                    statement he expected to prove, to a de<lb break="no"/>monstration, that he has
+                    not acted the inconsistent <lb/>part which some have alleged, neither has there
+                    <lb/>been such cruelties committed by the Indians. </p>
+                <p> From Mr. M'Gillevry's abilities, and consi<lb break="no"/>dering he was educated
+                    in Europe, being the son <lb/>of a Scotchman and Indian women, we have no
+                    <lb/>reason to expect any savage cruelties from an of <lb/>his people; but, on
+                    the contrary, it is rather to <lb/>be presumed that his proposals, which are
+                        contain<lb break="no"/>ed in his letter to the President, are of a rational
+                    <lb/>nature, and many probably bring about a final and <lb/>an advantageous
+                    treaty with the United States. </p>
+            </body>
+        </text>
+    </TEI>

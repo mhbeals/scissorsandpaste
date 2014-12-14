@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>80</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-11-26"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>international visitors</item>
+                            <item>theatre</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>When the Cherokee Chiefs first visited Covent-/sh&gt;<lb/>garden Theatre,
+                    one of them appeared much de<lb break="no"/>lighted with the splendid appearance
+                    of an In<lb break="no"/>dian cap worn by one of the pantomime actors; <lb/>this
+                    being observed, the performer was directed <lb/>the performance; the Chief,
+                    amazed at the offer <lb/>of the magnificent present, said, through his in<lb break="no"/>terpreter, " that even in his won country he <lb/>should be
+                    unable to repay it ; however, at pre<lb break="no"/>sent he would do the utmost
+                    in his power ;" on <lb/>this he ordered the actor to approach him, and <lb/>then
+                    lighting his Cherokee pipe stuffed with a <lb/>variety of nauseous combustibles,
+                    he too three <lb/>whiffs himself, and presenting the tube, desired <lb/>the
+                    actor to take three whiffs also–the greatest <lb/>favour a Cherokee could
+                    confer ; the actor, a<lb break="no"/>astonished at the singularity of this
+                    unexpected ho<lb break="no"/>nour, reluctantly complied with the request,to the
+                    <lb/>great entertainment of the Dramatic circle. </p>
+            </body>
+        </text>
+    </TEI>

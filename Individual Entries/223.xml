@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>223</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1831-02-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="italic">The Machine Breakers.</hi>–A convict ship at
+                        Ports<lb break="no"/>mouth is on the point of sailing for Van Diemen's
+                    <lb/>Land, with between two and three hundred convicts on <lb/>board, who have
+                    been lately convicted for machine<lb break="no"/> breaking, extorting money, and
+                    other offences com<lb break="no"/>mitted in the disturbed counties. Another
+                    ship, with <lb/>convicts of the same description, will be dispatched for
+                    <lb/>New South Wales, in about a fortnight. These con<lb break="no"/>victs have
+                    been kept entirely separate from all other <lb/>prisoners, and an accurate
+                    report will be made to the <lb/>Governors of the Colonies, as to their former
+                    character, <lb/>their trades and employments, and the recommenda<lb break="no"/>tions which have been made in their favour subsequent<lb break="no"/>ly to
+                    their trials. The capital convicts whose lives <lb/>have been spared, are to be
+                    transported for life; and <lb/>the convicts, sentenced and recommended by the
+                    Judges <lb/>for transportation, are to be transported according to <lb/>their
+                    respective sentences. </p>
+            </body>
+        </text>
+    </TEI>

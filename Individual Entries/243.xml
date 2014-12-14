@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>243</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1834-08-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">House of Commons.–July 28</hi>
+            <lb/>
+            <hi rend="italic">(Continued from our last.)</hi>
+         </p>
+                <p> A message from the Lords announced that their Lordships <lb/>had agreed to the
+                    Amendments to the Ministers Appointment <lb/>(Scotland) bill ; to the Newspaper
+                    Postage bill ; and to the <lb/>Orkney Statute Labour bill. </p>
+                <p>
+            <hi rend="smallcaps">Affairs of Oude</hi>
+         </p>
+                <p> On the order of the day for the third reading of the Univer<lb break="no"/>sities' Admission bill being moved– </p>
+                <p> Mr <hi rend="smallcaps">Herriks[?]</hi> took the occasion of calling on
+                    Government to <lb/>explain the circumstances which had occurred in certain
+                    <lb/>transactions between the Board of Controul and the East India
+                    <lb/>directors. These transactions, the hon. gentleman stated, to <lb/>be the
+                    repeated peremptory commands of the Board of Con<lb break="no"/>
+            <lb/>troul to
+                    the Directors of the East India Company to prepare <lb/>a despatch for the
+                    purpose of directing the Indian Govern<lb break="no"/>ment to compel the King of
+                    Oude, to pay certain claims made <lb/>on him on behalf of Calcutta bankers,
+                    which commands the <lb/>Court of Directors refused to obey, on the ground that
+                    the in<lb break="no"/>terference which the Board of Controul required them to
+                        ex<lb break="no"/>ercise with the King of Oude, was inconsistent with the
+                        re<lb break="no"/>lations subsisting between the British Government and the
+                    <lb/>King of Oude, and would be most mischievous in effect. On <lb/>the 31st of
+                    January the right jon. gentleman had appliedfor, <lb/>and obtained a rule to
+                    show cause why, under the act of Par<lb break="no"/>liament, a <hi rend="italic">mandamus</hi> should not issue to compel the Court <lb/>of Directors to
+                    comply with the desire ofthe Board of Con<lb break="no"/>troul. On the 31st of
+                    January, 1834, the Court of King's <lb/>bench was prepared to give its decision
+                    upon the application <lb/>for the <hi rend="italic">mandamus</hi>, when, without
+                    any reason being assigned, <lb/>the right hon. President of the Board of
+                    Controul withdrew <lb/>his application. </p>
+                <p> Mr <hi rend="smallcaps">C. Grant</hi> said that in the regret which had been
+                        express<lb break="no"/>ed respecting the possible collision between the two
+                    authorities, <lb/>he fully concurred; bu, entertaining such a sentiment, he
+                    <lb/>confessed it surprised him not a little to find his Right Hon. <lb/>Friend
+                    endeavouring to open a dispute already composed. <lb/>The right honourable
+                    gentleman then proceeded to give <lb/>a brief outline of the case, and referred
+                    to the various high <lb/>authorities connected with India, who had declared in
+                    favour <lb/>of the demand. With regard to his having withdrawn the ap<lb break="no"/>plication for the <hi rend="italic">mandamus</hi> without
+                    explanation, he had to <lb/>say that he fully explain his opinions to the
+                    Directors, <lb/>he had re-stated them verbally to the chairman, and he did
+                    <lb/>not think himself required, under the circumstances, to re<lb break="no"/>
+                    enter into a long discussion upon the point. The effect of the
+                    <lb/>recommendation to the King of Oude was merely to urge the <lb/>claim upon
+                    his attention. </p>
+                <p> Sir <hi rend="smallcaps">R. Peel</hi> said it was a perfectly novel doctrine,
+                    and in the <lb/>present state of the world most inconvenient, that the non<lb break="no"/>payment of debts due to his subjects should give the King of
+                    <lb/>England a right forcibly to intervene with foreign states, ex<lb break="no"/>cept where sanctioned by positive treaty. </p>
+                <p> Mr <hi rend="smallcaps">Hume</hi> contended, that on the whole, the debt was a
+                    just <lb/>one, and ought to be paid. </p>
+                <p> The subject here dropped. </p>
+                <p>
+            <hi rend="smallcaps">Admission of Dissenters to the Universities.</hi>
+         </p>
+                <p> On the question that this bill be read a third time, </p>
+                <p> Mr T. <hi rend="smallcaps">Gladstone</hi> rose to oppose it. It would, he said,
+                    be <lb/>useless to pass the bill, for it would of necessity be inopera<lb break="no"/>tive. If he were asked why he opposed a bill which, if pass<lb break="no"/>ed, would be inoperative, his answer was that he objected
+                    <lb/>to its principle, the admission of which was equally destruc<lb break="no"/>tive, whether it effected the object of its promoters or not. <lb/>Further,
+                    they were bound to respect corporate rights as long <lb/>as the intentions of
+                    their founders were fulfilled ; and no one <lb/>could deny that the Universities
+                    did fulfilthe intentions of <lb/>their founders." (Hear, hear.) </p>
+                <p> Mr V. <hi rend="smallcaps">Smith</hi> supported the bill, as one calculated to
+                    take <lb/>away a reproach from the Establishment, and be felt as a
+                    <lb/>compliment by the Dissenters, whose only desire was to exer<lb break="no"/>cise their vigorous intellects in the promotion of science <lb/>and
+                    literature. </p>
+                <p> Mr <hi rend="smallcaps">Baines</hi> said, that the original statutes showed that
+                    there <lb/>were then no tests, nor did any exist at Oxford, in either the
+                    <lb/>time of the Lollards or of Wickliff. The term University had <lb/>in it an
+                    argument for thegeneral use of these seats of learn<lb break="no"/>ing, which
+                    were meant to be universal, both as to the sub<lb break="no"/>jects taught, and
+                    the persons to whom they were communi<lb break="no"/>
+            <lb/>cated. In this sense,
+                    the term was understood and applied in <lb/>other countries, and it was an
+                    extraordinary fact, deserving <lb/>of attention, that the Universities of Oxford
+                    and of Cambridge <lb/>were the only universities that were closed to a large
+                        pro<lb break="no"/>portion of the upper classes of the people in any country
+                    in <lb/>Europe. This the Dissenters of England felt as a grievous
+                    <lb/>indignity, and they thought it unjust that Englishmen should <lb/>attempt
+                    to degrade Englishmen by excluding them from the <lb/>best seats of literature
+                    and science. </p>
+                <p> Mr H. <hi rend="smallcaps">Hughes</hi> could not accede to the measure, and
+                        there<lb break="no"/>
+            <lb/>fore moved that it be read that day six months. </p>
+                <p> Mr <hi rend="smallcaps">Goulburn</hi> contended that the introduction of the
+                        Dis<lb break="no"/>
+            <lb/>senters, as proposed under the present bill, would
+                    be nothing <lb/>short of the destruction of the present system of education at
+                    <lb/>the Universities. It was indisputable that at a University, re<lb break="no"/>ligion could only be taught according to some set form :
+                    <lb/>abandon that mode of tuition, and you abandon the religion <lb/>itself.
+                    (Cries of "No, no.") If they let in Dissenters, it was <lb/>perfectly obvious
+                    the intentions of the founders of those es<lb break="no"/>tablishments would be
+                    completely defeated : he therefore de<lb break="no"/>precated the measures as
+                    injurious to religon and opposed to <lb/>the best interest of the country. </p>
+                <p> Lord <hi rend="smallcaps">Palmerstone</hi>, Sir R. <hi rend="smallcaps">Inglis</hi>, and Mr G. <hi rend="smallcaps">Wood</hi> then <lb/>addressed
+                    the house, but amidst such discordant noises as <lb/>prevented what they said
+                    being heard. The laughing, jeer<lb break="no"/>
+            <lb/>ing, shouting, were such as
+                    has seldom been heard. In par<lb break="no"/>ticular two hon. members who
+                    entered from the smoking <lb/>room into the opposite gallery during the address
+                    of Mr <lb/>Wood, and who stretched themselves at full length on the <lb/>seats
+                    secure from the observation of the Speaker, kept up a <lb/>row of the most
+                    discreditable character. The Speaker, with <lb/>much indignation in his tone and
+                    manner, called the parties <lb/>to order. </p>
+                <p> The motion for the third reading was carried, on a division, <lb/>by 164 to 25.
+                    <cb/>
+            <lb/>The Trading Companies Bill, the Arms Importation (Ire<lb break="no"/>land) Bill, and the Court of Chancery (Ireland) Bill, went <lb/>through
+                    committees. </p>
+                <p> The Four Courts (Dublin) Bill, the Weights and Measures <lb/>Bill, and the
+                    Turnpike Acts Amendment Bill, were read a <lb/>third time and passed. </p>
+                <p> The Almanack Stamps Repeal Bill, the Assessed Taxes <lb/>Repeal Bill, and the
+                    Militia Ballot Suspension Bill, were <lb/>brought in, and read a first time. </p>
+                <p> The house was counted out at three o'clock in the morning. </p>
+                <p>
+            <hi rend="italic">Tuesday, July 29.</hi>
+         </p>
+                <p> Sir <hi rend="smallcaps">John Cam Hobhouse</hi> and General Sir <hi rend="smallcaps">Edward Barnes</hi>, <lb/>took the oaths and their seats ;
+                    the former for Nottingham, in <lb/>the room of Lord Duncannon, raised to the
+                    Peerage ; the <lb/>latter for Sudbury, in the room of M. A. Taylor, Esq.
+                    deceased. </p>
+                <p> On the motion of Mr Alderman <hi rend="smallcaps">Thompson</hi> the Durham and
+                    <lb/>Sunderland Railway bill was read a third time and passed. </p>
+                <p>
+            <hi rend="smallcaps">Southern Australia</hi>
+         </p>
+                <p> Mr S. <hi rend="smallcaps">Rice</hi> moved the order of the day for the house
+                    <lb/>to resolve into Committee upon the Bill for the Colonization <lb/>of
+                    Southern Australia, </p>
+                <p> Mr A.<hi rend="smallcaps">Baring</hi> rose and stated various objections to the
+                        pro<lb break="no"/>ject. The hon. member contended that at this period of
+                    the <lb/>year there was not time to deliberate upon such an important
+                    <lb/>subject, and, independent of this preliminary objection, he <lb/>said he
+                    did not conceive that government ought to sanction <lb/>any such experiment
+                    without a full conviction that there was <lb/>a reasonable probability of its
+                    success. In his opinion the <lb/>experiment was founded upon bases more mistaken
+                    than any <lb/>similar one which had ever been tried. In fact, according to
+                    <lb/>the plan which had been laid down, the colony would be tied <lb/>up by
+                    mortgages in such a way, that it would not again re<lb break="no"/>vert to the
+                    Crown, so that the territory would be lost. The <lb/>result would be, that if
+                    the gentlemen who set the project on <lb/>foot were mistaken–as he was
+                    sure they had been–we would <lb/>be prevented from touching this large
+                    portion of Australia, <lb/>unless we could pay off the debt which had been
+                    contracted. <lb/>While he stated these objections to the plan, he was anxious
+                    <lb/>not to be understood to be inimical to colonization, for <lb/>he was very
+                    favourable to it. Every new opening to co<lb break="no"/>lonization he was
+                    convinced was a substantial benefit to the <lb/>poorer classes, (Hear, hear,
+                    hear.) It was not, therefore, <lb/>to the principle of colonization that he was
+                    opposed, <lb/>but he objected to this bill becaue the plan was a most
+                    <lb/>mistaken one, and would eventually shut up this large <lb/>portion of the
+                    world. One of his main objections was to the <lb/>extent to which it was
+                    proposed to carry the experiment. Let <lb/>the gentlemen take, if they like, 100
+                    square miles, but let <lb/>them not risk the whole of a great continent. People,
+                    like <lb/>fuel, he said, could not well be carried too far ; they might <lb/>get
+                    a few thousands to go out, but they would never get the <lb/>tens of thousands
+                    to go which were required for the success of <lb/>the project. The hon. member
+                    then objected to two of the <lb/>principles which were laid down by the
+                    projectors, that land <lb/>should not be sold lower than 12s. per acre, and that
+                    no credit <lb/>should be given. He was convinced that any man acquainted
+                    <lb/>with the practical workings of the system in other colonies, <lb/>would
+                    blow up the whole plan in a moment. No man who <lb/>went out to Australia would
+                    think of taking less than two <lb/>hundred acres. Now that would cost him t120;
+                    it would <lb/>cost him t120 more to get himself and his family over; which,
+                    <lb/>with stock and other expenses, would amount to t500 or t600. <lb/>He would,
+                    therefore, ask any gentlemen in that house, whe<lb break="no"/>ther they thought
+                    any man who had t500 or t600 in this <lb/>country, would go out and set himself
+                    down on two hundred <lb/>acres in Australia. (Hear, hear.) He therefore
+                    suggested to <lb/>his right hon. friend to consent that the committee be post<lb break="no"/>poned until another session, and then have it referred to a
+                    <lb/>select committee. He concluded by moving, as an amend<lb break="no"/>ment,
+                    that the bill be committed on that day six months. </p>
+                <p> Mr W. <hi rend="smallcaps">Whitmore</hi> was thakful for the very candid manner
+                    <lb/>in which the hon. member had stated his objections to the bill. <lb/>With
+                    respect to the large extent of territory, he (Mr W.) <lb/>thought that was
+                    necessary, as it was intended to introduce a <lb/>completely new system of
+                    colonization–one very different from <lb/>any thing ever before
+                    attempted. The extent of land it was <lb/>intended to take under this act was
+                    from 500,000 to 600,000 <lb/>square miles, and it was the leading principle of
+                    the bill that <lb/>all the money arising from the sale of lands should be
+                    applied <lb/>to the purpose of sending out labourers free of expense.–
+                    <lb/>(Hear, hear, hear.) If this plan succeeded, there would be a <lb/>constant
+                    stream of emigrants going out. The land sold by the <lb/>Canada Company had been
+                    at a higher price. He had san<lb break="no"/>guine hopes that all the money it
+                    would be necessary to <lb/>borrow would be easily repaid. He most conscientously
+                        con<lb break="no"/>sidered that this bill would prove a very great benefit
+                    to the <lb/>country. It would tend exceedingly towards facilitating and
+                    <lb/>amending the conditions of the people of England and Ireland, <lb/>and
+                    therefore he hoped it would pass. </p>
+                <p> Mr <hi rend="smallcaps">O'Dwyer</hi> contended that, before the house thought of
+                    <lb/>agreeing to such a bill as this, they ought to do something <lb/>towards
+                    the ameloriation of the condition of the people of <lb/>Ireland. The various
+                    reports which committees of that house <lb/>had made, showed that one-fourth of
+                    the land of that country <lb/>was untilled, but was at the same time what was
+                    called re<lb break="no"/>claimable land, and well calculated for the cultivation
+                    and <lb/>produce of grain. Let this country advance some of the sur<lb break="no"/>plus capital talked of by the hon. member towards the culti<lb break="no"/>vation of this bog land, and discontent would flee[?] from
+                        Ire<lb break="no"/>land entirely. The Irish people wanted employment, give
+                    <lb/>them that and the house would hear no more about murders, <lb/>fires, and
+                    other outrages. </p>
+                <p> Mr S. <hi rend="smallcaps">Rice</hi> in reference to the allusion made by the
+                    hon. <lb/>and learned member, begged to say that, although much of <lb/>the bog
+                    land in question belonged to private individuals, yet a <lb/>portion of it was
+                    the property of the Government, who had <lb/>been, and still were, making
+                    experiments, with a view to as<lb break="no"/>certain if the views of the
+                    Commissioners could be carried into <lb/>effect. With respect to the manner in
+                    which the hon. mem<lb break="no"/>ber for Essex had opened this question, he
+                    must confess that <lb/>he had brought with him much of usefulness and of
+                        experi<lb break="no"/>ence, and of such a character, too, as could not fail
+                    to carry <lb/>weight. The right hon. gentleman then proceeded to speak <lb/>in
+                    favour of the proposed colonization of South Australia </p>
+                <p> After some farther discussion, strangers were ordered to <lb/>withdraw, and the
+                    house divided, when there appeared–For <lb/>going into committee, 72;
+                    against it 7–Majority, 65. </p>
+                <p> The bill went through the committee. The report was re<lb break="no"/>ceived,
+                    and ordered to be taken into further consideration on <lb/>Thursday next. </p>
+                <p> Several petitions were presented, and, at three o'clock, the <lb/>Speaker left
+                    the chair. </p>
+            </body>
+        </text>
+    </TEI>

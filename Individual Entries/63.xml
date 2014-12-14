@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>63</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
+                        Transcribed on 20140910 by <persName>
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+               </persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from
+                                Google News Archive</authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1790-01-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>society</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <cb/>
+            <lb/>
+            <hi rend="italic">November</hi> 12. On Thursday last the Viscount de
+                    <lb/>Ponteves gave a surperb entertainment and ball to <lb/>a number of
+                    respectable ladies of gentleman of <lb/>this town on board l'Illustre, of
+                    seventy-four guns. <lb/>The boats of the fleet, the state yacht and barge,
+                    <lb/>received the company at Foster's wharf, before <lb/>12 o'clock–and
+                    on the appearance of the first <lb/>boat having ladies on board, a signal gun
+                    was fir<lb break="no"/>ed from l'Illustre, and in an instant the squadron
+                    <lb/>was beautifully arrayed with the flags of all na<lb break="no"/>
+            <lb/>tions.
+                    On arriving at the ship, the company <lb/>were very politely received by the
+                    Viscount, and <lb/>conducted to the state room–the marines saluting
+                    <lb/>as the company passed them. At one o'clock <lb/>the whole sat down to a
+                    table liberally spread with <lb/>a profusion of luxuries and delicacies, in a
+                    hall e<lb break="no"/>rected for the occasion, which was very fancifully
+                    <lb/>decorated. At the head of the table was a castle <lb/>of pastry, having
+                    thirteen metal guns, by which <lb/>from tubes that communicated through the
+                    table, <lb/>and the company were saluted with a f–deral dis<lb break="no"/>
+            <lb/>charge. On the top of the castle waved a small <lb/>white
+                    ensign–the device, <hi rend="italic">two hearts</hi>–the motto,
+                        <lb/>"<hi rend="italic">The United hearts of America and
+                    France</hi>."<lb/>The head of the hall was ornamented with a <hi rend="italic">heart</hi>
+            <lb/>pieced with arrows–and in the motton, "<hi rend="italic">Ho</hi>
+            <lb break="no"/>
+            <hi rend="italic">mage to the fair
+                        daughters of America</hi>," a fine com<lb break="no"/>pliment made by the
+                    noble Viscount to his fe<lb break="no"/>male guests. After dinner, the ball
+                    began, and <lb/>closed before nine o'clock, and on departure, his
+                    <lb/>Excellency was saluted with thirteen rockets let <lb/>off from a boat
+                    moored at some distance from the <lb/>ship. </p>
+                <p>Rhode Island and North Carolina yet remain a<lb break="no"/>verse to the new
+                    government; they refuse alle<lb break="no"/>giance to all acts of the States,
+                    and, of course, do <lb/>not participate in any privilee; they are treated
+                    <lb/>in respect to port entries, &amp;c. as foreign States. </p>
+            </body>
+        </text>
+    </TEI>

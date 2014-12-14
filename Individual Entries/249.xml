@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/1998/Math/MathML"
+     xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>249</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
+                            <persName>Max Templer</persName>. </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. </authority>
+                            <pubPlace>
+                     <address>
+                        <settlement>Edinburgh</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
+                  </pubPlace>
+                            <date when="1835-08-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>
+            <hi rend="smallcaps">Emigration</hi>–We observe from an advertisement
+                    <lb/>in our paper of to-day, that another ship is fitting out <lb/>by
+                    Government, for the free conveyance of females to <lb/>Van Dieman's Land ; and
+                    as we understand that many <lb/>applications were made too late for the last
+                    ship, we <lb/>would recommend those anxious to take advantage of <lb/>this
+                    opportunity, to lose no time in making the necces<lb break="no"/>sary
+                    application at Leith,–the number being strictly <lb/>limited, and being
+                    the last ship to sail this year. We <lb/>consider it of great advantage to
+                    females of respecta<lb break="no"/>
+            <lb/>bility, that none are admitted without a
+                    strict investi<lb break="no"/>gation into their moral character by the
+                    Emigration <lb/>Committee ; and that those of a superior class, as
+                    <lb/>governesses, &amp;c. are provided a small sum, to defray the ex<lb break="no"/>pense of the extra outfit. </p>
+            </body>
+        </text>
+    </TEI>
