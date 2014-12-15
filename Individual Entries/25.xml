@@ -9,8 +9,9 @@
                     <title>25</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-11-20"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,8 +61,8 @@
             <body>
                 <p>
             <pb n="2"/> We have been favoured by a friend with the <lb/>following extract of
-                    a letter from Grenada, by <lb/>the last West India Packet. </p>
-                <p> "A Mr. C– has just arrive here from <lb/>Martinico, where he left the
+                    a letter from Grenada, by <lb/>the last West India Packet.</p>
+                <p>"A Mr. C– has just arrive here from <lb/>Martinico, where he left the
                     white inhabitants in <lb/>arms. The negroes there had conceived an idea,
                     <lb/>that the Parliament of England had set the Eng<lb break="no"/>lish negroes
                     free ; where upon those on several of <lb/>the most considerable estates

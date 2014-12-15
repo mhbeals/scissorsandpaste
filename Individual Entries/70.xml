@@ -9,8 +9,9 @@
                     <title>70</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-09-17"/>
                         </publicationStmt>
                     </biblFull>
@@ -57,16 +58,15 @@
             <lb/>
             <hi rend="italic">a Bill of Exchange, in one of the English
                         West</hi>
-            <lb/>India Islands. </p>
+            <lb/>India Islands.</p>
                 <p>
             <hi rend="enlarged-capital">A</hi> Merchant, originally from London, having
                     <lb/>acquired a great fortune in this island, con<lb break="no"/>cluded with
                     himself he could not be happy in the <lb/>enjoyment of it, unless[?] he
-                    shared[?] it with a wo<lb break="no"/>
-            <lb/>man of merit ; and knowing none to
-                    his fancy <lb/>he resolved to write to a worthy correspondent of <lb/>his in
-                    London. He know no other [?] than <lb/>that he used in his trade ; therefore
-                    treating af<lb break="no"/>fairs of love as he did his business, after giving
+                    shared[?] it with a wo<lb break="no"/>man of merit ; and knowing none to his
+                    fancy <lb/>he resolved to write to a worthy correspondent of <lb/>his in London.
+                    He know no other [?] than <lb/>that he used in his trade ; therefore treating
+                        af<lb break="no"/>fairs of love as he did his business, after giving
                     <lb/>his friend in a letter several comissions, and re<lb break="no"/>serving
                     this for the last, he went on thus : "/&gt;<hi rend="italic">Item[?],</hi>
             <lb/>seeing that I have taken a resolution to marry, <lb/>and that
@@ -84,7 +84,7 @@
                     <lb/>or imposition, I hereby oblige and engage myself <lb/>satisfy the said
                     letter, by marrying the [?] <lb/>at 15 days [?]. In witness [?] [?] I [?]
                     <lb/>[?], [?]."</p>
-                <p> The London correspondent read over and <lb/>over the odd article, which put the
+                <p>The London correspondent read over and <lb/>over the odd article, which put the
                     future [?] <lb/>on the same footing with the bales of good he <lb/>was to send
                     to his friend ; and after adressing[?] the <lb/>prudent exactness of the
                     naturalized Creole, and <lb/>his laconic stile, in enumerating the
@@ -133,7 +133,7 @@
                         follow<lb break="no"/>ed by the nuptials, which were very magnificent.
                     <lb/>The new married couple are satisfied with their <lb/>happy union made by
                     [?] of exchange, which <lb/>was the most fortunate that had happened in that
-                    <lb/>island for many years. </p>
+                    <lb/>island for many years.</p>
             </body>
         </text>
     </TEI>

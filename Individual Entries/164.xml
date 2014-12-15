@@ -9,8 +9,9 @@
                     <title>164</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1820-05-20"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,14 +52,14 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Necessity of Legislative Measures for</hi>
-            <lb/>
-            <hi rend="smallcaps">Relieving the Distress of the Labour-</hi>
-            <lb/>
-            <hi rend="smallcaps">ing Classes.</hi>
-         </p>
-                <p> Salus populi suprema lex. </p>
+                    <pb/>
+                    <hi rend="smallcaps">Necessity of Legislative Measures for</hi>
+                    <lb/>
+                    <hi rend="smallcaps">Relieving the Distress of the Labour-</hi>
+                    <lb/>
+                    <hi rend="smallcaps">ing Classes.</hi>
+                </p>
+                <p>Salus populi suprema lex.</p>
                 <p>
             <hi rend="enlarged-capital">T</hi>
             <hi rend="smallcaps">here</hi> wasa time when
@@ -84,8 +85,8 @@
                     people, but that, when a period of public <lb/>calamity requiress exertions of a
                     more painful kind, it is start<lb break="no"/>led by the smallest difficulty,
                     and will not even make such <lb/>a slight effort as might evince its sympathy
-                    with the sufferers. </p>
-                <p> During the late war, the industry of the country was stimu<lb break="no"/>lated
+                    with the sufferers.</p>
+                <p>During the late war, the industry of the country was stimu<lb break="no"/>lated
                     into a state of unprecedented activity, by the monopoly <lb/>we obtained of the
                     commerce of the world–by thirty or forty <lb/>millions of the capital of
                     the country being annually melted <lb/>down and consumed–and by the
@@ -124,8 +125,8 @@
                     our eyes to truths whch were familiar to philosophers <lb/>half a century ago.
                     In our present circumstances, we may <lb/>perhaps almost be thankful, that a
                     systematic error, which has <lb/>impeded our career, has kept this one resource
-                    open to us. </p>
-                <p> Emigration suggests itself so naturally as a remedy for a re<lb break="no"/>dundant population, that we are rather surprised there should <lb/>be much
+                    open to us.</p>
+                <p>Emigration suggests itself so naturally as a remedy for a re<lb break="no"/>dundant population, that we are rather surprised there should <lb/>be much
                     reluctance to have recourse to it. We need not <lb/>be afraid that the practise
                     will continue longer than the ne<lb break="no"/>cessity which produces it. " The
                         <hi rend="italic">vis intertiae</hi> of people in ge<lb break="no"/>neral,
@@ -150,8 +151,7 @@
                     advantage to this <lb/>country will be nearly the same. Among so many countries
                     <lb/>of such extent, it would not be very difficult to dispose of half <lb/>a
                     million of persons (young and old) within the course perhaps <lb/>of two years.
-                    But upon whatever scale emigration is conduct<lb break="no"/>
-            <lb/>ed it must be
+                    But upon whatever scale emigration is conduct<lb break="no"/>ed it must be
                     gradual; and this renders it the more important <lb/>to fix upon a plan early.
                     Ministers have lately announced <lb/>that Canada cannot receive more emigrants
                     at present with<lb break="no"/>out inconvenience. But had the intention of
@@ -241,7 +241,7 @@
                     propose to leave things to what they call the course of <lb/>nature, are in
                     substance recommending that thousands of their <lb/>fellow-creatures should be
                     suffered to rot away from the effect <lb/>of absolute want. That such a thing
-                    should take place in the </p>
+                    should take place in the</p>
                 <p/>
             </body>
         </text>

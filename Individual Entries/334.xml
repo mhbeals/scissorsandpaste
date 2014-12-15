@@ -9,10 +9,11 @@
                     <title>334</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141018 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141018 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-01-10"/>
                         </publicationStmt>
                     </biblFull>
@@ -68,31 +69,32 @@
         <text>
             <body>
                 <p>
-            <pb n="3"/>
-            <hi rend="center">
+                    <pb n="3"/>
+                    <hi rend="center">
                <hi rend="italic">From the</hi>
-               <hi rend="smallcaps">New York Journal</hi>. </hi>
-            <lb/>
-            <hi rend="center">
+               <hi rend="smallcaps">New York
+                            Journal</hi>. </hi>
+                    <lb/>
+                    <hi rend="center">
                <hi rend="italic">Winchester, Oct</hi>. 20. </hi>
-         </p>
-                <p> By recent intelligence from Kentucky we learn <lb/>that a short time ago an
+                </p>
+                <p>By recent intelligence from Kentucky we learn <lb/>that a short time ago an
                     American vessel was seiz<lb break="no"/>ed at New Orleans, and her cargo
                     disposed of <lb/>by the Spaniards. Also, that the troop which <lb/>went out
                     against the Indians had, not far from <lb/>the banks of the Ohio, fallen in with
                     about for<lb break="no"/>ty of them, whom they made their prisoners, af<lb break="no"/>ter a slight resistance; and that having washed <lb/>them, 15
-                    turned out to be white men. </p>
+                    turned out to be white men.</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">Philadelphia, Nov</hi> 9. </hi>
-         </p>
-                <p> We hear from undoubted authority, that a con<lb break="no"/>siderable loan has
-                    been negotiated in Holland for <lb/>the service of these United States. </p>
+                </p>
+                <p>We hear from undoubted authority, that a con<lb break="no"/>siderable loan has
+                    been negotiated in Holland for <lb/>the service of these United States.</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">Albany, Nov</hi>. 4. </hi>
-         </p>
-                <p> The Legislature of Vermont have resolved to <lb/>pay to the State of New York
+                </p>
+                <p>The Legislature of Vermont have resolved to <lb/>pay to the State of New York
                     30,000 dollars, <lb/>agreeably to the first proposition contained in the
                     <lb/>declaration of the Commissioners of this State, ap<lb break="no"/>pointed
                     to declare the consent of the Legislature <lb/>thereof, that a certain territory
@@ -107,36 +109,36 @@
                     Convention to Meet the first week in Ja<lb break="no"/>uary. The Legislature
                     have adjourned to meet <lb/>again on the first Thursday in January, for the
                     <lb/>purpose (we suppose) of choosing Senators, and <lb/>affixing the time and
-                    manner of electing Repre<lb break="no"/>sentatives for Congress. </p>
+                    manner of electing Repre<lb break="no"/>sentatives for Congress.</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">New York, Nov</hi>. 18. </hi>
-         </p>
-                <p> The following resolution has passed the House <lb/>of Representatives of the
+                </p>
+                <p>The following resolution has passed the House <lb/>of Representatives of the
                     State of Virginia now in <lb/>session: Resolved, That so much of this act, en<lb break="no"/>titled, "An Act, making provision for the provision for the debt
                     <lb/>of the United States in their redemption of the <lb/>public debt, is
                     dangerous to the rights, and sub<lb break="no"/>versive of the interest of the
-                    people; and demands <lb/>the marked disapprobation of the General Assem<lb break="no"/>bly." </p>
+                    people; and demands <lb/>the marked disapprobation of the General Assem<lb break="no"/>bly."</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">Portland, Nov</hi>. 15. </hi>
-         </p>
-                <p> The stone work of the light house, at the en<lb break="no"/>trance of our
+                </p>
+                <p>The stone work of the light house, at the en<lb break="no"/>trance of our
                     harbour, is now completed. On <lb/>Tuesday the 9th instant, the last stone was
                     laid <lb/>by Mr. Nichols, of this town, master builder. <lb/>The work is
                     extremely well executed. The light<lb break="no"/>house is now 70 feet high. To
                     this the lanthorn, <lb/>which is to be six feet in diameter, will add about
                     <lb/>15 feet, 85 feet in whole. The lanthorn is <lb/>now preparing, and will
-                    probably be raised and <lb/>lighted by the first of next month. </p>
+                    probably be raised and <lb/>lighted by the first of next month.</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">Baltimore, Nov</hi>. 23. </hi>
-         </p>
-                <p> A society of respectable gentlemen of this place <lb/>have raised an adequate
+                </p>
+                <p>A society of respectable gentlemen of this place <lb/>have raised an adequate
                     fund for the establishment <lb/>of an extensive manufacture of gunpowder, and
                     <lb/>the necessary mill-works will be speedily erected <lb/>in the vicinity of
                     this town. This important in<lb break="no"/>situation will not only prove highly
-                    advantageous <lb/>to this State and town, but may, if properly en<lb break="no"/>couraged, become a national benefit. </p>
+                    advantageous <lb/>to this State and town, but may, if properly en<lb break="no"/>couraged, become a national benefit.</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">York (Pennsylvania), Nov</hi>
@@ -165,18 +167,17 @@
                     the boat was found in the falls, and one of <lb/>the waggon horses that had been
                     given up for <lb/>lost, was found next day some distance below the <lb/>falls,
                     with all his geers on, and does not appear <lb/>to have received the least
-                    injury. </p>
+                    injury.</p>
                 <p>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Sunbury,
-                            Northumberland</hi>
-            </hi>
-            <lb/>
-            <hi rend="center">
-               <hi rend="italic">County
-                            (Pennsylvania), dated Nov</hi>. 13.</hi>
-         </p>
-                <p> "One of the men who murdered the Indians <lb/>at Pine Creek, was tried on
+                    <hi rend="center">
+                        <hi rend="italic">Extract of a letter from Sunbury, Northumberland</hi>
+                    </hi>
+                    <lb/>
+                    <hi rend="center">
+               <hi rend="italic">County (Pennsylvania), dated Nov</hi>.
+                        13.</hi>
+                </p>
+                <p>"One of the men who murdered the Indians <lb/>at Pine Creek, was tried on
                     Saturday evening, <lb/>and though a number of witnesses clearly proved <lb/>the
                     hand he had in perpetrating the horrid deed, <lb/>and the confession of his
                     counsel at the bar that <lb/>confirmed it, yet, notwithstanding an express
@@ -188,7 +189,7 @@
                     <lb/>was not the same to kill an Indian as a white <lb/>man: for some minuets
                     the Chief Justice was mute <lb/>with astonishment. How the State can pacify
                     <lb/>the Indians now, Heaven knows, while at this <lb/>moment the other
-                    murderers are at large in this <lb/>country, and no one will arrest them." </p>
+                    murderers are at large in this <lb/>country, and no one will arrest them."</p>
             </body>
         </text>
     </TEI>

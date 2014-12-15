@@ -9,10 +9,11 @@
                     <title>348</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130523 by M. H. Beals.
-                        Transcribed on 20141108 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130523 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141108 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-02-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -70,14 +71,14 @@
                     nation to whom the Indian be<lb break="no"/>longed, being made acquainted with
                     the murder, <lb/>sent a deputation to the Governor, demanding <lb/>that five
                     Spaniards should be instantly delivered <lb/>up as an attonement. This was
-                    peremptorily re<lb break="no"/>
-            <lb/>fused, as being more than commensurate to
-                    the <lb/>offence, but the murderer was offered as a satis<lb break="no"/>faction; the Indians would not accept him singly, <lb/>and departed, vowing
-                    the severest revenge: a <lb/>few days afterwards intelligence was received that
-                    <lb/>they had surprised and massacred sixteen men, <lb/>who had been at work in
-                    the woods; and when <lb/>the vessel departed, the Spaniards were flying,
-                    <lb/>with the utmost precipitation and terror, from <lb/>all parts of the
-                    country, seeking shelter in the <lb/>forts. </p>
+                    peremptorily re<lb break="no"/>fused, as being more than commensurate to the
+                    <lb/>offence, but the murderer was offered as a satis<lb break="no"/>faction;
+                    the Indians would not accept him singly, <lb/>and departed, vowing the severest
+                    revenge: a <lb/>few days afterwards intelligence was received that <lb/>they had
+                    surprised and massacred sixteen men, <lb/>who had been at work in the woods; and
+                    when <lb/>the vessel departed, the Spaniards were flying, <lb/>with the utmost
+                    precipitation and terror, from <lb/>all parts of the country, seeking shelter in
+                    the <lb/>forts.</p>
             </body>
         </text>
     </TEI>

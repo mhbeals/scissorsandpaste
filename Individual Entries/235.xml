@@ -9,8 +9,9 @@
                     <title>235</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1833-02-02"/>
                         </publicationStmt>
                     </biblFull>
@@ -53,13 +54,12 @@
                 <p>
             <pb/>Another cargo of females is now shipping on board <lb/>the Ann, Captain
                     Herd, in the London Docks, for <lb/>Sydney. These ladies are going out in
-                    serarch of hus<lb break="no"/>
-            <lb/>bands, and to supply the lamentable scarcity
-                    of the fair <lb/>sex in our Australian dominions. There is a bounty of <lb/>t8
+                    serarch of hus<lb break="no"/>bands, and to supply the lamentable scarcity of
+                    the fair <lb/>sex in our Australian dominions. There is a bounty of <lb/>t8
                     given by government towards defraying the expen<lb break="no"/>ses of the voyage
                     ; and the ladies must be between 15 <lb/>and 30, with good characters and sound
                     constitutions. <lb/>Ass servants they are much wanting among the respec<lb break="no"/>table inhabitants of Sydney and the other towns in the
-                    <lb/>colony. </p>
+                    <lb/>colony.</p>
                 <p>
             <hi rend="italic">Emigration.</hi>–The governors of the Refuge for the
                     <lb/>Destitute, in the Hackney Road, have announced that <lb/>it is their
@@ -67,7 +67,7 @@
                     500 unmarried wo<lb break="no"/>men or widows, between the ages of 18 and 30
                     years, <lb/>as emigrants to New South Wales. It is intended to <lb/>place the
                     emigrants in divers situations, and leave them <lb/>free and not bound to an
-                    employer. </p>
+                    employer.</p>
                 <p/>
             </body>
         </text>

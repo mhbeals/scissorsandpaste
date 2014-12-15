@@ -9,8 +9,9 @@
                     <title>287</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1839-09-28"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,9 +52,9 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Leith</hi>
-         </p>
+                    <pb/>
+                    <hi rend="smallcaps">Leith</hi>
+                </p>
                 <p>
             <hi rend="smallcaps">Thursday</hi> afternoon the splendid ship Indus, <lb/>which
                     has been some time in the docks, sailed with a <lb/>full cargo and about sixty
@@ -62,11 +63,12 @@
                     Messrs Broadfoot and Son, are so <lb/>celebrated. The passengers consist of a
                     number of <lb/>respectable individuals of various professions, the <lb/>greater
                     bulk of whom are agricultural labourers, sent <lb/>out by Messrs Adamson and
-                    Co., agents for her Ma<lb break="no"/>jesty's Commissioners in South Australia. </p>
-                <p> On Wednesday forenoon a man fell from the deck <lb/>of the Royal William
+                    Co., agents for her Ma<lb break="no"/>jesty's Commissioners in South
+                    Australia.</p>
+                <p>On Wednesday forenoon a man fell from the deck <lb/>of the Royal William
                     steam-ship, and had his thigh<lb break="no"/>bone broken, and was otherwise
                     seriously bruised. <lb/>He was carried to the Dispensary Rooms, but upon
-                    <lb/>examining the nature of his injuries, the medical at<lb break="no"/>tendants recommended his removal to the Edinburgh <lb/>Royal Infirmary. </p>
+                    <lb/>examining the nature of his injuries, the medical at<lb break="no"/>tendants recommended his removal to the Edinburgh <lb/>Royal Infirmary.</p>
                 <p/>
             </body>
         </text>

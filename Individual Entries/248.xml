@@ -9,8 +9,9 @@
                     <title>248</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1835-07-08"/>
                         </publicationStmt>
                     </biblFull>
@@ -54,7 +55,7 @@
             <pb/>A new principle has been recognised in the regula<lb break="no"/>tions
                     attendant upon the transportation of convicts <lb/>from this country to New
                     South Wales. Boys of six <lb/>and girls of ten years will be allowed to
-                    accompany <lb/>their parents to that distant colony. </p>
+                    accompany <lb/>their parents to that distant colony.</p>
             </body>
         </text>
     </TEI>

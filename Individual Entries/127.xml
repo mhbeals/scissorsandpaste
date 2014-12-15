@@ -9,8 +9,9 @@
                     <title>127</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1818-07-16"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,23 +52,23 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Canada</hi>
-         </p>
-                <p> Papers from Upper Canada contain the draft <lb/>of a petition to the Prince
+                    <pb/>
+                    <hi rend="smallcaps">Canada</hi>
+                </p>
+                <p>Papers from Upper Canada contain the draft <lb/>of a petition to the Prince
                     Regent, founded on <lb/>the resolutions adopted in the province of Nia<lb break="no"/>gara, where some discontent has been manifested. <lb/>The first
-                    part is as follows:– </p>
-                <p> "To his Royal Highness George Prince of Wales, Regent <lb/>of the United Kingdom
+                    part is as follows:–</p>
+                <p>"To his Royal Highness George Prince of Wales, Regent <lb/>of the United Kingdom
                     of Great Britain and Ireland, <lb/>&amp;c. the humble Address of the Inhabitants
-                    of Upper <lb/>Canada </p>
+                    of Upper <lb/>Canada</p>
                 <p>
-            <hi rend="italic">May it please your Royal Highness,</hi>
-         </p>
-                <p> "The subjects of your Royal Father, dwelling in Upper <lb/>Canada, should need
-                    no words to give assurance of their <lb/>loyalty, if the whole truth had reached
+                    <hi rend="italic">May it please your Royal Highness,</hi>
+                </p>
+                <p>"The subjects of your Royal Father, dwelling in Upper <lb/>Canada, should need no
+                    words to give assurance of their <lb/>loyalty, if the whole truth had reached
                     the throne of their <lb/>Sovereign. His subjects have reason to believe that the
-                    truth <lb/>has not been told. </p>
-                <p> During three years of war, Upper Canada was exposed <lb/>to the ravages of a
+                    truth <lb/>has not been told.</p>
+                <p>During three years of war, Upper Canada was exposed <lb/>to the ravages of a
                     powerful and inveterate foe. The Go<lb break="no"/>vernment of the United States
                     had been long concerting the <lb/>invasion of this province. Hostile
                     preparations against it had <lb/>been long masked under other designs ; and at
@@ -89,24 +90,25 @@
                     from their <lb/>homes ; the face of the country was laid waste, and the fire of
                     <lb/>revenge was sent forth to consummate distress and misery ; <lb/>still was
                     the spirit of the people unextinguished, still did it <lb/>burn with patriotism
-                    and loyalty. </p>
-                <p> "By the third year every risk of conquest was at an end, for <lb/>now the
-                    British aid poured into the provinces, and peace <lb/>was proclaimed when war
-                    was no longer to be feared. </p>
-                <p> "It is now more than three years since there was an end <lb/>of war, but,
-                    strange to say, these years of peace have ma<lb break="no"/>nifested no
-                    appearance of affection or care from the mother <lb/>country to the Canadas.
-                    Commercial treaties have been <lb/>made, altogether neglectful of British
-                    interests here. Go<lb break="no"/>vernment transactions, which used to give
-                    spirit to trade and <lb/>are at a stand; troops are withdrawn ; fortifications
-                    <lb/>are suffered to go to ruin ; and rumours are abroad too <lb/>shocking to be
-                    repeated in the Royal ear. May it please <lb/>your Royal Highness to listen
-                    calmly to the complains and <lb/>grievances of the people of Upper Canada who
-                    are fully <lb/>assured that your Royal Highness has been kept ignorant of
-                    <lb/>most important truths ; who are well assured of the gene<lb break="no"/>rous disposition of your Royal heart, and of your desire that <lb/>British
-                    subjects should every where share equally you pater<lb break="no"/>nal regard an
-                    affection. </p>
-                <p> "It was a matter of much provocation to the people of <lb/>the province to see,
+                    and loyalty.</p>
+                <p>"By the third year every risk of conquest was at an end, for <lb/>now the British
+                    aid poured into the provinces, and peace <lb/>was proclaimed when war was no
+                    longer to be feared.</p>
+                <p>"It is now more than three years since there was an end <lb/>of war, but, strange
+                    to say, these years of peace have ma<lb break="no"/>nifested no appearance of
+                    affection or care from the mother <lb/>country to the Canadas. Commercial
+                    treaties have been <lb/>made, altogether neglectful of British interests here.
+                        Go<lb break="no"/>vernment transactions, which used to give spirit to trade
+                    and <lb/>are at a stand; troops are withdrawn ; fortifications <lb/>are suffered
+                    to go to ruin ; and rumours are abroad too <lb/>shocking to be repeated in the
+                    Royal ear. May it please <lb/>your Royal Highness to listen calmly to the
+                    complains and <lb/>grievances of the people of Upper Canada who are fully
+                    <lb/>assured that your Royal Highness has been kept ignorant of <lb/>most
+                    important truths ; who are well assured of the gene<lb break="no"/>rous
+                    disposition of your Royal heart, and of your desire that <lb/>British subjects
+                    should every where share equally you pater<lb break="no"/>nal regard an
+                    affection.</p>
+                <p>"It was a matter of much provocation to the people of <lb/>the province to see,
                     even during the war, which afforded <lb/>such striking proofs of their loyalty
                     and valour, reports <lb/>went home highly rating the merits of regular troops,
                     <lb/>while the tribute due to Canadian levies were unfairly set <lb/>down, may,
@@ -116,14 +118,14 @@
                     <lb/>with the immortal Brock. He justly appreciated Cana<lb break="no"/>dian
                     worth, and his memory will happily long cherish, in <lb/>the minds of the
                     Canadian people, a due regard for the <lb/>genuine spirit of a British solider,
-                    at once generous and <lb/>brave. </p>
-                <p> "The loyal inhabitants of Upper Canada would disdain <lb/>to notice the
+                    at once generous and <lb/>brave.</p>
+                <p>"The loyal inhabitants of Upper Canada would disdain <lb/>to notice the
                     misrepresentations of individuals, so contrary <lb/>to notorious truth, if these
                     had not obviously conspired with <lb/>other causes to lessen the regard which
                     should subsist be<lb break="no"/>tween British subjects here and at home, to
                     influence the <lb/>conduct of Ministers towards the general interests of the
-                        pro<lb break="no"/>vince. </p>
-                <p> "The loyal subjects of his Majesty in Upper Canada <lb/>suffered grievously
+                        pro<lb break="no"/>vince.</p>
+                <p>"The loyal subjects of his Majesty in Upper Canada <lb/>suffered grievously
                     during the war in their property, and <lb/>many were bereft of their all. A
                     solemn investigation on <lb/>this subject took place ; the claims of the
                     sufferers were au<lb break="no"/>thenticated, and there was every reason to
@@ -143,11 +145,11 @@
                     upon the credit <lb/>of which, under proper management, not only the fair claims
                     <lb/>of loyal sufferers could be instantly advanced, but vast sums <lb/>could be
                     raised for the improvement of the provinces, and <lb/>the increase of revenue to
-                    Britain. </p>
-                <p> "Another grievance, manifesting the neglect of Govern<lb break="no"/>ment to the
+                    Britain.</p>
+                <p>"Another grievance, manifesting the neglect of Govern<lb break="no"/>ment to the
                     concerns of Upper Canada, is equally notorious, <lb/>and must be still more
-                    abhorrent to the general feelings of <lb/>your Royal Highness. </p>
-                <p> "The young men of this province, who were armed in <lb/>its defence had, for
+                    abhorrent to the general feelings of <lb/>your Royal Highness.</p>
+                <p>"The young men of this province, who were armed in <lb/>its defence had, for
                     their spirited conduct, the promise of <lb/>their commanders, that land would be
                     granted them as a <lb/>reward for their services, as soon as war was terminated
                     ; <lb/>and after this promise was universaly confided in the Parlia<lb break="no"/>ment of Upper Canada passed an extraordinary law, in the face
@@ -156,7 +158,7 @@
                     passed beyond the frontier with <lb/>alacrity ; yet since the peace, the greater
                     part of them had <lb/>been denied the pledge of their extraordinary services,
                     and <lb/>the land is unjudtly withheld."</p>
-                <p> The petition further states that such ingratitude, <lb/>such dishonour, such
+                <p>The petition further states that such ingratitude, <lb/>such dishonour, such
                     errors in policy, could not <lb/>exist without extraordinary influences, and it
                     <lb/>recommends most important changes equally for <lb/>the glory of the throne,
                     and benefit of the <lb/>subject. It says that the scandalous abuses came
@@ -166,8 +168,8 @@
                     <lb/>insufficient, and that confusion on confusion has <lb/>grown out of this
                     unhappy system. Upper Ca<lb break="no"/>nada, it is now said, pines in
                     comparative de<lb break="no"/>cay, and that discontent and poverty are expe<lb break="no"/>rienced in a land supremely blessed with the <lb/>gifts of
-                    nature. </p>
-                <p> It is insisted that the immediate interfe<lb break="no"/>rence of his Royal
+                    nature.</p>
+                <p>It is insisted that the immediate interfe<lb break="no"/>rence of his Royal
                     Highness might do <lb/>much to remove the evils which spring from the
                     <lb/>system of patronage and favouritism, and it as<lb break="no"/>serts that
                     the interposition of the British Par<lb break="no"/>liament is more imperiously
@@ -178,11 +180,12 @@
                     Commissioners to bear this to the <lb/>throne, and humbly intreat your Royal
                         High<lb break="no"/>ness to give ear to the details which it will be in
                     <lb/>their power to relate: above all, that your Royal <lb/>Highness would
-                    immediately send out to this <lb/>province a commission, consisting of discreet </p>
+                    immediately send out to this <lb/>province a commission, consisting of
+                    discreet</p>
                 <p>
             <pb/>and wise men, men of business and talent, who <lb/>shall be above every
                     influence here, and who <lb/>may be instructed to make inquiry into all the
-                    <lb/>sources of evil. </p>
+                    <lb/>sources of evil.</p>
             </body>
         </text>
     </TEI>

@@ -9,10 +9,11 @@
                     <title>351</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141108 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141108 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1792-08-17"/>
                         </publicationStmt>
                     </biblFull>
@@ -71,16 +72,17 @@
                     are carrying on their de<lb break="no"/>predations on the back settlements of
                     the United <lb/>States with great vigour; that an enquiry as to <lb/>the
                     miscarriage of the war had been made by <lb/>Congress, and an army was collected
-                    this year; <lb/>that the Americans had some expectations of get<lb break="no"/>ting free of the Indian war by treaties. </p>
-                <p> We have advices of Governor Clinton's being <lb/>re-elected Governor of New York
+                    this year; <lb/>that the Americans had some expectations of get<lb break="no"/>ting free of the Indian war by treaties.</p>
+                <p>We have advices of Governor Clinton's being <lb/>re-elected Governor of New York
                     state by a ma<lb break="no"/>jority of 180, but the friends of Mr. Tay were
                     <lb/>objecting to the return, as the canvassers had not <lb/>opened the boxes
                     which contained the returns <lb/>from three counties, Otsego, Clinton, and
                     Tioga, <lb/>which if opened they say would have given the <lb/>election to Mr.
-                    Tay, the county of Otsego alone <lb/>being 300 majority in favours of Mr. Tay. </p>
-                <p> A dreadful storm happened at New York on <lb/>the 1st of July, which continued
+                    Tay, the county of Otsego alone <lb/>being 300 majority in favours of Mr.
+                    Tay.</p>
+                <p>A dreadful storm happened at New York on <lb/>the 1st of July, which continued
                     with so much <lb/>violence, that several vessels were driven from their
-                    <lb/>moorings, and a number of boats upset and many <lb/>lives lost. </p>
+                    <lb/>moorings, and a number of boats upset and many <lb/>lives lost.</p>
             </body>
         </text>
     </TEI>

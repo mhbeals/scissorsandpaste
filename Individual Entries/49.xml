@@ -9,8 +9,9 @@
                     <title>49</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -74,7 +75,7 @@
                     immediately quit the colony, and their <lb/>departure is hourly expected. The
                     press, hither<lb break="no"/>to under the severest restraint, triumphs in its
                         free<lb break="no"/>dom; and their weekly publications give an ac<lb break="no"/>count of the proceedings of the States General <lb/>without the
-                    smallest reserve. </p>
+                    smallest reserve.</p>
                 <p/>
             </body>
         </text>

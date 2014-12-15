@@ -9,8 +9,9 @@
                     <title>31</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-11-27"/>
                         </publicationStmt>
                     </biblFull>
@@ -58,13 +59,12 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="center">
-               <hi rend="italic">"What mighty contests rise from trivial
-                            things;"</hi>
-            </hi>
-         </p>
-                <p> That the present Revolution in France is a con<lb break="no"/>sequence of the
+                    <pb/>
+                    <hi rend="center">
+                        <hi rend="italic">"What mighty contests rise from trivial things;"</hi>
+                    </hi>
+                </p>
+                <p>That the present Revolution in France is a con<lb break="no"/>sequence of the
                     Revolution in America, cannot <lb/>admit of a doubt. The American Revolution
                         o<lb break="no"/>riginated in Adams, a very insignificant Bosto<lb break="no"/>nian. Not that this Adams had the least expec<lb break="no"/>tation of American independence, when he fo<lb break="no"/>mented the
                     opposition to the stamp-act; indeed <lb/>no human wisdom could possibly have
@@ -87,7 +87,7 @@
                     common sagacity–if he <lb/>could have distinguished a general from a
                         corpo<lb break="no"/>ral; if Franklin had been treated with common
                     <lb/>civility, America would have remained a British <lb/>colony, and France an
-                    absolute monarch, for <lb/>ages yet to come. </p>
+                    absolute monarch, for <lb/>ages yet to come.</p>
             </body>
         </text>
     </TEI>

@@ -9,8 +9,9 @@
                     <title>150</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1819-07-07"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,18 +52,18 @@
         <text>
             <body>
                 <p>
-            <pb/>Colonial Intelligence </p>
-                <p> The accounts received on Tuesday from the Cape of <lb/>Good Hope are to the 17th
+            <pb/>Colonial Intelligence</p>
+                <p>The accounts received on Tuesday from the Cape of <lb/>Good Hope are to the 17th
                     April, which are consi<lb break="no"/>derably later than those previously
-                    received. </p>
-                <p> Information has just reached Cape Town, that a <lb/>detachment of troops, joined
+                    received.</p>
+                <p>Information has just reached Cape Town, that a <lb/>detachment of troops, joined
                     by a number of the inha<lb break="no"/>bitants, who had been sent to suppress
                     the Caffres, had <lb/>succeeded in driving them back, and were compelled to
                     <lb/>cross the river. The corn districts were in a great <lb/>measure cleared of
                     the savages, and the country-people <lb/>were returning to their homes, where
                     they considered <lb/>themselves secure from any further attacks, at least for
-                    <lb/>some time to come. </p>
-                <p> Letters have just been received, via Calcutta, from <lb/>New South Walves, up to
+                    <lb/>some time to come.</p>
+                <p>Letters have just been received, via Calcutta, from <lb/>New South Walves, up to
                     the end of November. The <lb/>colony was then all well, and several
                     convict-ships (the <lb/>
             <hi rend="italic">Marley, Glory, Mario, Isabella,</hi>
@@ -70,13 +71,13 @@
                     the short <lb/>period of three months and twenty days, and landed <lb/>all their
                     convicts and passengers in good health. This <lb/>may be considered as another,
                     among many proofs, that <lb/>it is unnecessary to make any stay at any
-                    intermediate <lb/>port. </p>
+                    intermediate <lb/>port.</p>
                 <p>
-            <hi rend="smallcaps">Extract of a letter from Sierra Leone, dated</hi>
-            <lb/>
-            <hi rend="smallcaps">January 9</hi>
-         </p>
-                <p> "It is with the deepest regret I inform you, that <lb/>notwithstanding the
+                    <hi rend="smallcaps">Extract of a letter from Sierra Leone, dated</hi>
+                    <lb/>
+                    <hi rend="smallcaps">January 9</hi>
+                </p>
+                <p>"It is with the deepest regret I inform you, that <lb/>notwithstanding the
                     liberality of Great Britain, and the <lb/>faith of treaties solemnly entered
                     into, this coast swarms <lb/>with slave vessels, drugging thousands of its
                     miserable <lb/>inhabitants into endless captivity. A few days ago <lb/>arrived
@@ -84,9 +85,9 @@
                     in the River Calaba, not less <lb/>than eight vessels, averaging 500 slaves
                     each, had sail<lb break="no"/>ed for the Spanish Collective."</p>
                 <p>
-            <hi rend="smallcaps">" Montreal, May 11</hi>
-         </p>
-                <p> "We learn there are about 70 souls, mostly Cana<lb break="no"/>dians, preparing
+                    <hi rend="smallcaps">" Montreal, May 11</hi>
+                </p>
+                <p>"We learn there are about 70 souls, mostly Cana<lb break="no"/>dians, preparing
                     to set out from this place, the 25th <lb/>inst. for Lord Selkirk's settlement on
                     the River Rouge. <lb/>The number of settlers there at this time, it is said
                     <lb/>amount to about 590. An intelligent Canadian, in <lb/>easy circumstances

@@ -9,8 +9,9 @@
                     <title>259</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1836-07-16"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,15 +52,14 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Every thing is jobbed</hi>
-            <lb/>
-            <hi rend="smallcaps">Female Emigration to Australia, &amp;c.</hi>
-            <lb/>
-            <hi rend="italic">(From a
-                        Correspondent.)</hi>
-         </p>
-                <p> Our penal settlements appear to be very indifferent<lb break="no"/>ly managed;
+                    <pb/>
+                    <hi rend="smallcaps">Every thing is jobbed</hi>
+                    <lb/>
+                    <hi rend="smallcaps">Female Emigration to Australia, &amp;c.</hi>
+                    <lb/>
+                    <hi rend="italic">(From a Correspondent.)</hi>
+                </p>
+                <p>Our penal settlements appear to be very indifferent<lb break="no"/>ly managed;
                     and we are glad to find that such a man <lb/>as Sir John Franklin is appointed
                     to govern Van Die<lb break="no"/>men's Land; and the sooner an improved system
                     is <lb/>adopted for New South Wales, the better. Not only <lb/>are men sent out
@@ -72,8 +72,8 @@
                     trusts <lb/>individuals who desire to make the most of the con<lb break="no"/>cern ; and we are glad to have an opportunity of mak<lb break="no"/>ing the
                     public acquainted with the mode in which <lb/>the business is conducted, in the
                     hope that some hu<lb break="no"/>mane Member of Parliament will take the subject
-                    <lb/>up. The mode of managing female emigration is <lb/>this :– </p>
-                <p> A temptation, in the first place, is held out of a <lb/>free passage to
+                    <lb/>up. The mode of managing female emigration is <lb/>this :–</p>
+                <p>A temptation, in the first place, is held out of a <lb/>free passage to
                     Australia. A ship is hired, and this <lb/>ship must ave a <hi rend="italic">full</hi> cargo, to satisfy the <hi rend="italic">owners.</hi>
             <lb/>Advertisements are issued, and instead of hard work<lb break="no"/>ing females, a parcel of decayed governesses, dress<lb break="no"/> makers, &amp;c. &amp;c., with a small mixture of better
                     <lb/>articles, is made up. But if, as almost always hap<lb break="no"/>pens, a
@@ -84,8 +84,8 @@
                     <lb/>poor creatures they are crammed <hi rend="smallcaps">four into
                         one</hi>
             <lb/>
-            <hi rend="smallcaps">bed</hi> ! </p>
-                <p> Such is the power of jobbing, that we happen to <lb/>know the fact, that some
+            <hi rend="smallcaps">bed</hi> !</p>
+                <p>Such is the power of jobbing, that we happen to <lb/>know the fact, that some
                     young women of respectabi<lb break="no"/>lity who wished to go to New South
                     Wales <hi rend="italic">with their</hi>
             <lb/>
@@ -100,8 +100,8 @@
                     yet, only begun to clean <lb/>the outside of the platter ; and it may not reach
                     the <lb/>inside in our day. It is the duty, however, of all pa<lb break="no"/>triots, to sharpen the knife that is to cut out corruption <lb/>from the heart
                     of the commonwealth, by means of ex<lb break="no"/>posure of every abuse that
-                    comes to be known, and to <lb/>support those who are willing to apply it. </p>
-                <p> As in a matter of so much importance nothing <lb/>should be concealed, there is
+                    comes to be known, and to <lb/>support those who are willing to apply it.</p>
+                <p>As in a matter of so much importance nothing <lb/>should be concealed, there is
                     no hesitation in stating <lb/>that it consists with our knowledge that, after
                     the <lb/>Emigration Committee in Van Diemen's Land, detail<lb break="no"/>ing
                     the deplorable consequences of sending out young <lb/>women from workhouses, a
@@ -109,9 +109,9 @@
                     <lb/>representation is made to a public office, the matter is <lb/>said to
                     belong to another department ; and that other <lb/>department says it is not its
                     province to interfere ; and <lb/>thus humanity is made the shuttlecock to the
-                        battle<lb break="no"/>dore of jobbing and the blindness of office. </p>
-                <p> If our brethren of the press will take up this, the <lb/>inhuman job will be put
-                    an end to. </p>
+                        battle<lb break="no"/>dore of jobbing and the blindness of office.</p>
+                <p>If our brethren of the press will take up this, the <lb/>inhuman job will be put
+                    an end to.</p>
             </body>
         </text>
     </TEI>

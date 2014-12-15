@@ -9,8 +9,9 @@
                     <title>189</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1822-10-19"/>
                         </publicationStmt>
                     </biblFull>
@@ -54,7 +55,8 @@
             <pb/>On Monday, 14th instant, the ship Andromeda of London, <lb/>James Muddle,
                     master, sailed from Leith Roads for New <lb/>South Wales, with 67 passengers,
                     all of whom are very re<lb break="no"/>spectable people. The vessel has on board
-                    a full cargo of <lb/>merchandise, and a great number of agricultural implements. </p>
+                    a full cargo of <lb/>merchandise, and a great number of agricultural
+                    implements.</p>
                 <p/>
             </body>
         </text>

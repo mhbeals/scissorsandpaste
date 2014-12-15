@@ -9,8 +9,9 @@
                     <title>200</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1824-06-09"/>
                         </publicationStmt>
                     </biblFull>
@@ -53,9 +54,8 @@
                 <p>
             <pb/>
             <hi rend="smallcaps">Mr Secretary Peel</hi>, in moving the commitment of the
-                        Trans<lb break="no"/>
-            <lb/>portation Bill, stated, that the objects of the
-                    bill were, first, to <lb/>continue the laws on transportation, that would expire
+                        Trans<lb break="no"/>portation Bill, stated, that the objects of the bill
+                    were, first, to <lb/>continue the laws on transportation, that would expire
                     before the <lb/>next session ; and next, to cimplify the law. In the last
                     session <lb/>a bill had been passed to enable the Crown to make an experiment
                     <lb/>of the union of the hulk and transportation system, by sending
@@ -67,7 +67,7 @@
                     <lb/>would be made from the convicts, so as to make the punishment
                     <lb/>efficient against those to whom it had hitherto had no terror.–
                     <lb/>He gave this statement because it was right the public should <lb/>know
-                    that transportation would be henceforward a real punishment. </p>
+                    that transportation would be henceforward a real punishment.</p>
             </body>
         </text>
     </TEI>

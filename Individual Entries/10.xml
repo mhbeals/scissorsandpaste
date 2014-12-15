@@ -9,8 +9,9 @@
                     <title>10</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-08-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,13 +52,12 @@
         <text>
             <body>
                 <p>
-            <pb n="4"/>
-            <hi rend="italic">Extract of a letter from India, by the Dublin
-                        East</hi>
-            <lb/>
-            <hi rend="italic">Indiaman, to Mr. William Jones</hi>
-         </p>
-                <p> We left Patia Dec. 15, 1789, and went to <lb/>Decca, and arrived there after a
+                    <pb n="4"/>
+                    <hi rend="italic">Extract of a letter from India, by the Dublin East</hi>
+                    <lb/>
+                    <hi rend="italic">Indiaman, to Mr. William Jones</hi>
+                </p>
+                <p>We left Patia Dec. 15, 1789, and went to <lb/>Decca, and arrived there after a
                     passage of 16 <lb/>days. Just as we arrived there was a famine, <lb/>and it was
                     really a shocking sight to behold; <lb/>you could not move out of your house but
                     the <lb/>corpses lay in your way, and the wild dogs and <lb/>jackalls were
@@ -68,14 +68,14 @@
                     night, the corpse is eaten <lb/>by the morning. This I have been an eye wit<lb break="no"/>ness of ; for as I always rode out on horseback <lb/>every
                     morning, I had an opportunity of seeing <lb/>more than those that did not. In
                     the course of <lb/>six months I became so much used to it, that I <lb/>took no
-                    notice of it. </p>
-                <p> "I was there when a dreadful conflagration <lb/>took place, and burnt upwards of
+                    notice of it.</p>
+                <p>"I was there when a dreadful conflagration <lb/>took place, and burnt upwards of
                     seven miles with<lb break="no"/>out intermission, and many souls perished. Now
                     <lb/>consider, first, an inudation; second, a famine; <lb/>and third, a
                     conflagration. How much the place <lb/>must be distressed, I leave you to think.
                     I left <lb/>Decca the 1st of December last, and arrived at <lb/>Calcutta, after
                     a passage through the Sunderburns <lb/>(in 17 days), hearty and well, thank
-                    God." </p>
+                    God."</p>
             </body>
         </text>
     </TEI>

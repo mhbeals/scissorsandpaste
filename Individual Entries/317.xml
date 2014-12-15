@@ -9,10 +9,11 @@
                     <title>317</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141002 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141002 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1792-04-27"/>
                         </publicationStmt>
                     </biblFull>
@@ -64,20 +65,17 @@
         <text>
             <body>
                 <p>
-            <pb n="3"/>
-            <hi rend="center">
-               <hi rend="italic">Richmond, January</hi> 28.
-                        </hi>
-            <lb/>
-            <hi rend="italic">Extract of a letter from a Gentleman now
-                        residing at </hi>
-            <lb/>
-            <hi rend="italic">Quebec, to his Correspondent in this
-                        City, dated </hi>
-            <lb/>
-            <hi rend="italic"> Jan. 9, 1972 </hi>
-         </p>
-                <p> Our humanity was deeply affected by the dread<lb break="no"/>ful carnage made by
+                    <pb n="3"/>
+                    <hi rend="center">
+               <hi rend="italic">Richmond, January</hi> 28. </hi>
+                    <lb/>
+                    <hi rend="italic">Extract of a letter from a Gentleman now residing at </hi>
+                    <lb/>
+                    <hi rend="italic">Quebec, to his Correspondent in this City, dated </hi>
+                    <lb/>
+                    <hi rend="italic"> Jan. 9, 1972 </hi>
+                </p>
+                <p>Our humanity was deeply affected by the dread<lb break="no"/>ful carnage made by
                     the Indians. You may be <lb/>assured that the number of Indians did not exceed
                     <lb/>1000, and that nothing saved General St. Clair, <lb/>and the remainder of
                     his army, but the great quan<lb break="no"/>tity of plunder he left to the
@@ -101,43 +99,39 @@
                     country, and would not <lb/>make peace with them, but on term dishonourable,
                     <lb/>and at the expense of their country, and that they <lb/>had determined to
                     die before they would accept of <lb/>such terms. They felt much dissatisfied
-                    with the <lb/>answer they received, and departed with a full de<lb break="no"/>termination to defend their country with the last <lb/>of their blood. </p>
-                <p> You may depend on it, that many years will e<lb break="no"/>lapse, and many
+                    with the <lb/>answer they received, and departed with a full de<lb break="no"/>termination to defend their country with the last <lb/>of their blood.</p>
+                <p>You may depend on it, that many years will e<lb break="no"/>lapse, and many
                     thousand men be expended before <lb/>the United States will, by the present
                     measures, <lb/>be able to possess the country in contest; and I <lb/>may also
                     add, that I have great apprehensions, that <cb/>
             <lb/>desolation and destruction
                     will be the consequence <lb/>on the frontiers of the Ohio this winter and next
-                    <lb/>spring; I would to God some steps might be tak<lb break="no"/>
-            <lb/>en to
-                    prevent them. I have no doubt the coun<lb break="no"/>try might be purchased for
-                    one fiftieth part of the <lb/>expence already incurred by the different
-                        expedi<lb break="no"/>
-            <lb/>tions; the attempt to take the country from them
-                    <lb/>by force, is founded in unrighteousness, and ought <lb/>to be abandoned;
-                    besides, if the American mean <lb/>to have anytrade with them, they are taking
-                    steps <lb/>that will prevent it for many years to come. The <lb/> Indians do not
-                    easily forget or forgive injuries </p>
+                    <lb/>spring; I would to God some steps might be tak<lb break="no"/>en to prevent
+                    them. I have no doubt the coun<lb break="no"/>try might be purchased for one
+                    fiftieth part of the <lb/>expence already incurred by the different expedi<lb break="no"/>tions; the attempt to take the country from them <lb/>by force,
+                    is founded in unrighteousness, and ought <lb/>to be abandoned; besides, if the
+                    American mean <lb/>to have anytrade with them, they are taking steps <lb/>that
+                    will prevent it for many years to come. The <lb/> Indians do not easily forget
+                    or forgive injuries</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">Carlisle, Jan.</hi> 4. 1792. </hi>
-         </p>
-                <p> By the Pittsburgh post which arrived yesterday, <lb/>we are informed, that
+                </p>
+                <p>By the Pittsburgh post which arrived yesterday, <lb/>we are informed, that
                     previous to his leaving Pitts<lb break="no"/>burgh, an express had arrived there
                     with the me<lb break="no"/>lancholy news that Forts Jefferson and Franklin
                     <lb/>were taken by Indians, and that two large bo<lb break="no"/>dies of them
-                    were moving to the Allighany. </p>
+                    were moving to the Allighany.</p>
                 <p>
-            <hi rend="center">
-               <hi rend="italic">Extract of a Letter from Patowmack, North
-                                Amer<lb break="no"/>
+                    <hi rend="center">
+                        <hi rend="italic">Extract of a Letter from Patowmack, North Amer<lb break="no"/>
                </hi>
-            </hi>
-            <lb/>
-            <hi rend="center">
+                    </hi>
+                    <lb/>
+                    <hi rend="center">
                <hi rend="italic">ca, Feb.</hi> 7.</hi>
-         </p>
-                <p> "Last Sunday evening came to this town a <lb/>young man from Cat-fish, which he
+                </p>
+                <p>"Last Sunday evening came to this town a <lb/>young man from Cat-fish, which he
                     left about two <lb/>weeks ago, and who gave us the following pleasing
                     <lb/>interesting, and important intelligence, viz, that <lb/>two days before he
                     left Cat-fish, two men arrived <lb/>there from Licking, who informed, that they
@@ -160,10 +154,10 @@
                         num<lb break="no"/>ber was insufficient, was returning but met a body
                     <lb/>of 900 volunteers when, upon joining him, he im<lb break="no"/>mediately
                     proceeded in prosecution of his original <lb/>design which fortunately proved
-                    successful. </p>
-                <p> "Our informant further adds, that he saw a <lb/>Kentucky newspaper of the 8th of
+                    successful.</p>
+                <p>"Our informant further adds, that he saw a <lb/>Kentucky newspaper of the 8th of
                     January, at <lb/>Morgan Town, brought by Major Scott's expedi<lb break="no"/>tion, which corresponded with that given by the <lb/>two men at Cat Fish, and
-                    that Gen. Scott brought <lb/>in near 700 scalps." </p>
+                    that Gen. Scott brought <lb/>in near 700 scalps."</p>
             </body>
         </text>
     </TEI>

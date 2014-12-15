@@ -9,8 +9,9 @@
                     <title>181</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1821-06-09"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,31 +52,30 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Van Dieman's Land</hi>
-         </p>
-                <p> We have been favoured with the following ex<lb break="no"/>tract of a letter
-                    from Captain Dixon, of the ship <lb/>Skelton, dated Hobert Town, Van Dieman's
-                    <lb/>Land, 29th November 1820 :– </p>
-                <p> "We arrived here on the 27th inst. all in good health.– <lb/>This colony
+                    <pb/>
+                    <hi rend="smallcaps">Van Dieman's Land</hi>
+                </p>
+                <p>We have been favoured with the following ex<lb break="no"/>tract of a letter from
+                    Captain Dixon, of the ship <lb/>Skelton, dated Hobert Town, Van Dieman's
+                    <lb/>Land, 29th November 1820 :–</p>
+                <p>"We arrived here on the 27th inst. all in good health.– <lb/>This colony
                     surpasses my expectation–climate very simi<lb break="no"/>lar to England,
                     soil capable of any thing, where an industrious <lb/>manhas every thing to hope
-                    and nothing to fear ; the assist<lb break="no"/>
-            <lb/>ance given to settlers
-                    liberal, and grants of land to the a<lb break="no"/>mount of from 400 to 2000
-                    acres given them, generally of ex<lb break="no"/>cellent quality. This colony in
-                    fact is the only country that <lb/>an Englishman should come to, he neither
-                    changes climate <lb/>not habits, for here every thing hat occurs to him is the
-                    <lb/>same, except burning wood for coals. The country on the <lb/>sea coast is
-                    very woody, but much easier cleared than Ame<lb break="no"/>rica and about ten
-                    miles in the interior several miles of ex<lb break="no"/>tent have no wood at
-                    all. The ships behaves beautifully, sails <lb/>well, and is easy ; we have never
-                    close reefed and not above <lb/>twice double reefed, and not strained a rope
-                    yarn nor <lb/>split a sail."</p>
-                <p> Extract of a letter received by My Leyden, <lb/>R. N. Leith, from his Son, Mate
+                    and nothing to fear ; the assist<lb break="no"/>ance given to settlers liberal,
+                    and grants of land to the a<lb break="no"/>mount of from 400 to 2000 acres given
+                    them, generally of ex<lb break="no"/>cellent quality. This colony in fact is the
+                    only country that <lb/>an Englishman should come to, he neither changes climate
+                    <lb/>not habits, for here every thing hat occurs to him is the <lb/>same, except
+                    burning wood for coals. The country on the <lb/>sea coast is very woody, but
+                    much easier cleared than Ame<lb break="no"/>rica and about ten miles in the
+                    interior several miles of ex<lb break="no"/>tent have no wood at all. The ships
+                    behaves beautifully, sails <lb/>well, and is easy ; we have never close reefed
+                    and not above <lb/>twice double reefed, and not strained a rope yarn nor
+                    <lb/>split a sail."</p>
+                <p>Extract of a letter received by My Leyden, <lb/>R. N. Leith, from his Son, Mate
                     of the ship <lb/>Skelton, dated Sullivan's Cove, off Hobart Town, <lb/>29th
-                    November 1820 :– </p>
-                <p> "I take this opportunity of sending you a few lines by the <lb/>ship Guildford,
+                    November 1820 :–</p>
+                <p>"I take this opportunity of sending you a few lines by the <lb/>ship Guildford,
                     which is to sail tomorrow for Baravia, and <lb/>then homewards. We left the
                     Table Bay on 18th October, <lb/>and arrived here on 28th November, making a very
                     good <lb/>passage. Did not see any vessel on the passage–made the

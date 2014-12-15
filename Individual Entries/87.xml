@@ -9,10 +9,11 @@
                     <title>87</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20140923 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140923 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-05-23"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,8 +64,8 @@
                 <p>
             <cb/>
             <lb/>
-            <hi rend="enlarged-capital">Q</hi>UEBEC, <hi rend="italic">December</hi> 2, 1790<lb/>Yesterday's post from Montreal, conveyed let<lb break="no"/>ters to several gentlemen in town, all corroborati<lb break="no"/>ing the following extract. </p>
-                <p> "S<hi rend="smallcaps">IR</hi>, <lb/>"I have to inform you by several letters
+            <hi rend="enlarged-capital">Q</hi>UEBEC, <hi rend="italic">December</hi> 2, 1790<lb/>Yesterday's post from Montreal, conveyed let<lb break="no"/>ters to several gentlemen in town, all corroborati<lb break="no"/>ing the following extract.</p>
+                <p>"S<hi rend="smallcaps">IR</hi>, <lb/>"I have to inform you by several letters
                         re<lb break="no"/>ceived here on Saturday from Detroit, "we are
                     <lb/>informed the Americans, under General Sinclair, <lb/>had been twice
                     defeated, about the 19th ult. with <lb/>the loss of from 500 to 600 men, by the
@@ -76,19 +77,18 @@
                     the field–Sinclair lost his <lb/>artillery, a cohorn, and grass-hopper.
                     It is said <lb/>the Indians are very much elated at their success, <lb/>and that
                     numbers were daily joining them, at <lb/>their head quarters, about the Maimis
-                    towns– <lb/>One Indian, it is said, killed 30 with his own <lb/>hand. </p>
-                <p> "The Indians were extremely civil to the <lb/>traders from Detriot, having
+                    towns– <lb/>One Indian, it is said, killed 30 with his own <lb/>hand.</p>
+                <p>"The Indians were extremely civil to the <lb/>traders from Detriot, having
                     assisted them, when <lb/>they knew of the approach of the Americans, to
                     <lb/>remove their property to safety, except ammuni<lb break="no"/>tion and
-                    arms. These are facts so well ascertain<lb break="no"/>
-            <lb/>ed, that there does
-                    not remain the least doubt <lb/>of them: </p>
-                <p> They may be attended with very serious and <lb/>important consequences to the
+                    arms. These are facts so well ascertain<lb break="no"/>ed, that there does not
+                    remain the least doubt <lb/>of them:</p>
+                <p>They may be attended with very serious and <lb/>important consequences to the
                     province, as I dare <lb/>say, all will be imputed to the British for supply<lb break="no"/>ing these Indians with arms and ammunition.– <lb/>In
                     short, I would not be surprized to hear of an <lb/>American army raising, to
                     attack this country. <lb/>* The loss is here specified, but other letters
                     differing <lb/>in number, we shall only say, the estimate in general <lb/>does
-                    not appear considerable. </p>
+                    not appear considerable.</p>
             </body>
         </text>
     </TEI>

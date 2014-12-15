@@ -9,8 +9,9 @@
                     <title>23</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-10-09"/>
                         </publicationStmt>
                     </biblFull>
@@ -75,7 +76,7 @@
                     town <lb/>–That they were highly gratified with the treat<lb break="no"/>ment they received, and with the manner in which <lb/>they had disposed of
                     their lands.–The gentle<lb break="no"/>man further informs, that there is
                     now about <lb/>3000 inhabitants in the above county, and that <lb/>the land is
-                    of a good quality. </p>
+                    of a good quality.</p>
                 <p/>
             </body>
         </text>

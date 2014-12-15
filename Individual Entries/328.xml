@@ -9,10 +9,11 @@
                     <title>328</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141013 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-01-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -71,7 +72,7 @@
                     killed, <lb/>but the Americans lost the field; several Officers, <lb/>and 150
                     men were killed, and they were not able <lb/>even to bring off their wounded.
                     This success <lb/>will in all probability give the Indians new cou<lb break="no"/>rage, and induce them again to make head a<lb break="no"/>gainst the American
-                    army. </p>
+                    army.</p>
             </body>
         </text>
     </TEI>

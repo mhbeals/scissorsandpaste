@@ -9,8 +9,9 @@
                     <title>258</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1836-05-18"/>
                         </publicationStmt>
                     </biblFull>
@@ -61,7 +62,7 @@
                     of her voyage from New South <lb/>Wales to Madras, but no precise intelligence
                     of her <lb/>fate was previously known. The ironworks which <lb/>had been erected
                     at Porto Novo were proceeding with <lb/>activity, and some railing had been made
-                    there, quite <lb/>equal, it is stated to anything og the kind manufac<lb break="no"/>tured in England. </p>
+                    there, quite <lb/>equal, it is stated to anything og the kind manufac<lb break="no"/>tured in England.</p>
                 <p/>
             </body>
         </text>

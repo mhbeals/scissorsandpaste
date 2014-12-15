@@ -9,8 +9,9 @@
                     <title>35</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-14"/>
                         </publicationStmt>
                     </biblFull>
@@ -59,19 +60,17 @@
         <text>
             <body>
                 <p>
-            <pb n="7"/>
-            <hi rend="center">
-               <hi rend="italic">The MERCHANTS trading to North
-                            America,</hi>
-            </hi>
-            <lb/>
-            <hi rend="center">Prior to the year
-                    1776,</hi>
-         </p>
-                <p> ARE desired to meet in the Merchants Hall, on Fri<lb break="no"/>day the 18th
-                    December, at 12 o'clock noon, on <lb/>business of importance. </p>
+                    <pb n="7"/>
+                    <hi rend="center">
+                        <hi rend="italic">The MERCHANTS trading to North America,</hi>
+                    </hi>
+                    <lb/>
+                    <hi rend="center">Prior to the year 1776,</hi>
+                </p>
+                <p>ARE desired to meet in the Merchants Hall, on Fri<lb break="no"/>day the 18th
+                    December, at 12 o'clock noon, on <lb/>business of importance.</p>
                 <p>
-            <hi rend="italic">Glasgow</hi>, 12 <hi rend="italic">Dec</hi>. 1789. </p>
+            <hi rend="italic">Glasgow</hi>, 12 <hi rend="italic">Dec</hi>. 1789.</p>
                 <p/>
             </body>
         </text>

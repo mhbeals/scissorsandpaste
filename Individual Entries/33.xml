@@ -9,8 +9,9 @@
                     <title>33</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-11"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,17 +61,16 @@
         <text>
             <body>
                 <p>
-            <pb n="6"/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from a
-                            gentleman in America to</hi>
-            </hi>
-            <lb/>
-            <hi rend="center">
+                    <pb n="6"/>
+                    <hi rend="center">
+                        <hi rend="italic">Extract of a letter from a gentleman in America to</hi>
+                    </hi>
+                    <lb/>
+                    <hi rend="center">
                <hi rend="italic">his friend in Greenock</hi>.</hi>
-         </p>
-                <p> "No doubt, Sir, you have been expecting this <lb/>some time a remittance in
-                    money for your goods; <lb/>but as part of them is still on hand, I could not
+                </p>
+                <p>"No doubt, Sir, you have been expecting this <lb/>some time a remittance in money
+                    for your goods; <lb/>but as part of them is still on hand, I could not
                     <lb/>properly answer you in cash or bills ; however, if <lb/>you will accept of
                     wheat in return, it shall be im<lb break="no"/>mediately sent you ; for our
                     wheat crop has been <lb/>so plentiful that we can supply you with many

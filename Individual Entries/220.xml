@@ -9,8 +9,9 @@
                     <title>220</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1831-06-04"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,7 +61,7 @@
                     with their fami<lb break="no"/>lies, consisting chiefly of joiners, masons, and
                     others <lb/>required for the building of the College, and a good <lb/>many of
                     whom are fromthis town, making the num<lb break="no"/>ber of passengers in all
-                    about 140, of whom above 20 <lb/>and cabin passengers. </p>
+                    about 140, of whom above 20 <lb/>and cabin passengers.</p>
                 <p/>
             </body>
         </text>

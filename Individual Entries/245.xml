@@ -9,8 +9,9 @@
                     <title>245</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1834-11-11"/>
                         </publicationStmt>
                     </biblFull>
@@ -55,11 +56,10 @@
                     in South Australia, and we be<lb break="no"/>lieve that a fitter appointment
                     could not have been <lb/>made. We only regret that Colonel Napier has not
                     <lb/>been sent to superintend a colony founded on some<lb break="no"/>thing like
-                    sane principles. But if this Austra<lb break="no"/>
-            <lb/>lian project end, as we
-                    have little doubt it will do, <lb/>in the ruin of those who are weak and silly
-                    enough to <lb/>embark in it, no one will ascribe any part of the fail<lb break="no"/>ure to the incapacity or unfitness of the Governor. <lb/>The
-                    whole blame will fall on the contrivers of the <lb/>scheme. </p>
+                    sane principles. But if this Austra<lb break="no"/>lian project end, as we have
+                    little doubt it will do, <lb/>in the ruin of those who are weak and silly enough
+                    to <lb/>embark in it, no one will ascribe any part of the fail<lb break="no"/>ure to the incapacity or unfitness of the Governor. <lb/>The whole blame will
+                    fall on the contrivers of the <lb/>scheme.</p>
             </body>
         </text>
     </TEI>

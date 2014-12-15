@@ -9,8 +9,9 @@
                     <title>16</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-08-31"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,7 +64,7 @@
                     of free-villages, <lb/>on his extensive domains. By this plan, propos<lb break="no"/>ed to his Lordship by Mr. Fraser, the settlers are <lb/>to have
                     perpetual feus of the lands, subject to a <lb/>very moderate quit rent. His
                     Lordship will by <lb/>this means prevent the threatened emigrations to
-                    <lb/>America, and deserve the highest praises of his <lb/>country. </p>
+                    <lb/>America, and deserve the highest praises of his <lb/>country.</p>
             </body>
         </text>
     </TEI>

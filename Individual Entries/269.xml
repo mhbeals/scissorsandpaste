@@ -9,8 +9,9 @@
                     <title>269</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1837-07-09"/>
                         </publicationStmt>
                     </biblFull>
@@ -66,7 +67,7 @@
                     employment in New South Wales as <lb/>farm-servants, shepherds, overseers,
                     &amp;c. We had a <lb/>brief inspection of the " Midlothian" on Monday af<lb break="no"/>ternoon, and found it to be a very fine vessel, fitted <lb/>up
                     in a manner the most comfortable and convenient <lb/>that could well be
-                    effected. She sails this afternoon <lb/>from Leith to the Isle of Skye. </p>
+                    effected. She sails this afternoon <lb/>from Leith to the Isle of Skye.</p>
             </body>
         </text>
     </TEI>

@@ -9,10 +9,11 @@
                     <title>344</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130506 by M. H. Beals.
-                        Transcribed on 20141106 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130506 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141106 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-05-17"/>
                         </publicationStmt>
                     </biblFull>
@@ -70,30 +71,30 @@
         <text>
             <body>
                 <p>
-            <pb n="2"/>
-            <hi rend="center">
+                    <pb n="2"/>
+                    <hi rend="center">
                <hi rend="italic">Kingston, Feb</hi>. 6. </hi>
-         </p>
+                </p>
                 <p>By a St. Christopher's paper of the 25th ult.<lb/>we learn, that the small-pox
                     raged lately at &gt;Su<lb break="no"/>rinam, to such a degree that, within the
                     space of <lb/>two months, upwards of 2500 persons had perish<lb break="no"/>ed
-                    by that disorder. </p>
-                <p> A very severe shock of an earthquake was felt <lb/>between give and six on the
+                    by that disorder.</p>
+                <p>A very severe shock of an earthquake was felt <lb/>between give and six on the
                     evening of last Thurs<lb break="no"/>day se'ennight, at the settlements near the
-                    Blue <lb/>Mountains. </p>
-                <p> On Wednesday the 3d instant, arrived at Luc<lb break="no"/>
-            <lb/>ca, the ship
-                    Pitt, Captain Hunter, from Africa <lb/>with154 Gold-Coast Negroes. On the
-                    passage <lb/>from Africa, nine of the seamen mutined, whom <lb/>Captain Hunter
-                    has brought confined in irons, <lb/>and they are to be tried at a Court of
-                        Admiral<lb break="no"/>ty Sessions. </p>
+                    Blue <lb/>Mountains.</p>
+                <p>On Wednesday the 3d instant, arrived at Luc<lb break="no"/>ca, the ship Pitt,
+                    Captain Hunter, from Africa <lb/>with154 Gold-Coast Negroes. On the passage
+                    <lb/>from Africa, nine of the seamen mutined, whom <lb/>Captain Hunter has
+                    brought confined in irons, <lb/>and they are to be tried at a Court of
+                        Admiral<lb break="no"/>ty Sessions.</p>
                 <p>
             <hi rend="italic">Feb</hi>. 20. Very strong suspicions are entertain<lb break="no"/>ed by the Americans, that the Indian Chief M' <lb/>Gilveray, and
                     the nations under his immediate <lb/>controul, or in alliance with him, are
                     subsidied <lb/>by the King of Spain. It is a well known fact, <lb/>that they are
                     regularly supplied with cloathing, <lb/>arms and ammunition, from the Royal
                         Maga<lb break="no"/>zines at St. Augustine and Pensacola, and there<lb break="no"/>fore in all probability; the sword not the olive <lb/>branch,
-                    will be the most speedy and effectual <lb/>agent for terminating the disputes. </p>
+                    will be the most speedy and effectual <lb/>agent for terminating the
+                    disputes.</p>
                 <p>
             <hi rend="italic">March</hi> 6. Tuesday last arrived in the harbour <lb/>of Port
                     Royal, from Cork, his Majesty's ship <lb/>Chichester, of 44 guns, armed <hi rend="italic">en flute</hi>, Lieute<lb break="no"/>nant Craven, Commander,
@@ -102,22 +103,22 @@
                     are–Captains, Duncan, Fra<lb break="no"/>ner, Pemberton, and Mannoch;
                     Lieutenants, <lb/>Sir W. Jas. Cockburne, Bart. Nicholson, Pux<lb break="no"/>ley, Clunes, Browne, Clarke, Drummond, and <lb/>Graham; Adjutant, Sir. W. J.
                     Cockburne, Bart. <lb/>Quartermaster, Mr. Davidson, Surgeon, MR. <lb/>Young;
-                        Ma<supplied reason="copy blur">?</supplied>e, Mr. Bolton. </p>
-                <p> The troops in the Chicester amount to 500 <lb/>men, exch<supplied reason="copy blur">??</supplied>e of 100 women and children. </p>
+                        Ma<supplied reason="copy blur">?</supplied>e, Mr. Bolton.</p>
+                <p>The troops in the Chicester amount to 500 <lb/>men, exch<supplied reason="copy blur">??</supplied>e of 100 women and children.</p>
                 <p>Colonel Hunter is appointed superintendent of <lb/>the settlement at the Bay of
-                    Honduras, in the <lb/>room of Colonel Despard, recalled. </p>
-                <p> Col. Hunter came out with the earl of Effing<lb break="no"/>ham; it is therefore
+                    Honduras, in the <lb/>room of Colonel Despard, recalled.</p>
+                <p>Col. Hunter came out with the earl of Effing<lb break="no"/>ham; it is therefore
                     probable that the dis<lb break="no"/>putes which have so long subsisted between
                         Lieu<lb break="no"/>tenant Colonel Despard and the inhabitants of <lb/>the
-                    Bay of Honoduras, will be brought to a speedy <lb/>determination. </p>
-                <p> At the sale of the late Peter Heningson's e<lb break="no"/>state,a negro
+                    Bay of Honoduras, will be brought to a speedy <lb/>determination.</p>
+                <p>At the sale of the late Peter Heningson's e<lb break="no"/>state,a negro
                     blacksmith was sold for the extra<lb break="no"/>ordinary sum of two hundred and
-                    sixty pounds! </p>
-                <p> At two o'clock on Tuesday morning the 3d <lb/>regiment quitted the barracks in
+                    sixty pounds!</p>
+                <p>At two o'clock on Tuesday morning the 3d <lb/>regiment quitted the barracks in
                     this town and <lb/>at Up Park Camp, and embarked on board the <lb/>Chichester
                     for Great Britain; the 14th at the <lb/>same time taking possession of their
-                    quarters. </p>
-                <p> Advice is received from St. Mark's in Hispani<lb break="no"/>ola, that, on the
+                    quarters.</p>
+                <p>Advice is received from St. Mark's in Hispani<lb break="no"/>ola, that, on the
                     1st of this month, a number of <lb/>free people of colour, to the amount of 700
                     and <lb/>upwards, having possessed themselves of several <lb/>field pieces,
                     formed a camp in that districh, and <lb/>exhibited an appearance of hostility
@@ -131,23 +132,23 @@
                     with whom they <lb/>demanded an equal participation of all rights and <pb n="3"/> immunities whatsoever–the privilege of repre<lb break="no"/>sentation,
                     and of qualifying for all the learned <lb/>professions–and concluding
                     with the avowal of <lb/>a determination to proceed to extremities should
-                    <lb/>their demands be treat with neglect. </p>
-                <p> On the perusal of this paper, it was judged ad<lb break="no"/>viseable to
+                    <lb/>their demands be treat with neglect.</p>
+                <p>On the perusal of this paper, it was judged ad<lb break="no"/>viseable to
                     assemble a body of the militia, who <lb/>headed by the General, immediately went
                     against <lb/>the camp. On their arrival the insurgents fired <lb/>and fled to
                     the mountains; three or four of the <lb/>whites were killed, and one of the
-                    ringleaders was <lb/>taken and instantly beheaded. </p>
-                <p> A proclamation was then issued, offering a re<lb break="no"/>ward of 50 half
-                    joes for the head of any principal <lb/>offender, and in the course of a few
-                    days not less <lb/>than twenty seven were brought in. On Sunday <lb/>the 7th
-                    instant, a very great majority of those <lb/>who had formed the camp, finding
-                    all their at<lb break="no"/>tempts completely frustrated, came in and took
-                    <lb/>the oath of allegiance to the nation. One or two <lb/>of the principals,
-                    for whom high rewards are of<lb break="no"/>fered, are not yet taken. </p>
+                    ringleaders was <lb/>taken and instantly beheaded.</p>
+                <p>A proclamation was then issued, offering a re<lb break="no"/>ward of 50 half joes
+                    for the head of any principal <lb/>offender, and in the course of a few days not
+                    less <lb/>than twenty seven were brought in. On Sunday <lb/>the 7th instant, a
+                    very great majority of those <lb/>who had formed the camp, finding all their
+                        at<lb break="no"/>tempts completely frustrated, came in and took <lb/>the
+                    oath of allegiance to the nation. One or two <lb/>of the principals, for whom
+                    high rewards are of<lb break="no"/>fered, are not yet taken.</p>
                 <p>From Port Maria we have received the disagree<lb break="no"/>able account of the
                     loss of the ship Lion, Capt. <lb/>Smith, belonging to Liverpool: a violent
                     breeze <lb/>on the 5th instant drove her from her anchors, <lb/>and she now lies
-                    stranded on the beach. </p>
+                    stranded on the beach.</p>
             </body>
         </text>
     </TEI>

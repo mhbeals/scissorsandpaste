@@ -9,10 +9,11 @@
                     <title>347</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130523 by M. H. Beals.
-                        Transcribed on 20141107 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130523 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141107 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-02-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -62,11 +63,11 @@
             <body>
                 <p>
             <pb n="3"/>
-            <hi rend="italic">Richmond, Virginia, Dec</hi>. 1, 1790. </p>
+            <hi rend="italic">Richmond, Virginia, Dec</hi>. 1, 1790.</p>
                 <p>
             <hi rend="italic">Extract of a letter from a Gentleman at Kentucky, <lb/>to a
-                        Member of the General Assembly, dated, <lb/>Nov</hi>. 7, 1790. </p>
-                <p> "I have been waiting with much impatience <lb/>to obtain some certain account of
+                        Member of the General Assembly, dated, <lb/>Nov</hi>. 7, 1790.</p>
+                <p>"I have been waiting with much impatience <lb/>to obtain some certain account of
                     our troops; <lb/>many probably conjectures still fill the minds of the
                     <lb/>people. A hand-bill just come to Bourbon, con<lb break="no"/>tains an
                     extract of a letter from Governor St. <cb/>
@@ -74,32 +75,32 @@
                     which mentions that <lb/>our army had met with but little opposition. The
                     <lb/>Miami villages were abandoned, from thence a <lb/>detachment was sent up to
                     St. Joseph's river, <lb/>which fell in with a party of Indians, and had a
-                    <lb/>severe engagement. </p>
-                <p> "General Harmar made a shew of retreating, <lb/>and marched about eight miles,
+                    <lb/>severe engagement.</p>
+                <p>"General Harmar made a shew of retreating, <lb/>and marched about eight miles,
                     when he detached <lb/>a strong party to the field of action, in hopes of
                     <lb/>finding the Indians on the ground; as they ex<lb break="no"/>pected, so
                     they found them, and an action imme<lb break="no"/>diately commenced, which was
-                    obstinate on both <lb/>sides. </p>
-                <p> "A vast number of Indians were killed in <lb/>crossing the St. Joseph's river.
+                    obstinate on both <lb/>sides.</p>
+                <p>"A vast number of Indians were killed in <lb/>crossing the St. Joseph's river.
                     Major Fountain, <lb/>of Fayette, and General Scott's son were killed <lb/>the
                     second fire; Capt. M'Murty and 73 militia<lb break="no"/>men were killed; Major
                     Willis, Lieut. Fother<lb break="no"/>ingham, of the F–deral troops, and
-                    77 privates, <lb/>also fell in the action. </p>
-                <p> "General Harmar did not send a single man <lb/>to reinforce the detachment,
+                    77 privates, <lb/>also fell in the action.</p>
+                <p>"General Harmar did not send a single man <lb/>to reinforce the detachment,
                     consisting of 400 <lb/>men, (who had to sustain the fire of the whole
                     <lb/>Indian army) although he had with him in camp <lb/>upwards of 1100 men. Our
                     men at last lost <lb/>ground, Colonel Harding's wing was beaten, and
                     <lb/>finally broke. Lieutenant Colonel Hall, of Bour<lb break="no"/>bon, and
                     Majors M'Million and Willis broke the <lb/>other wing of the Indians, which
-                    occasioned the <lb/>amazing slaughter in the river St. Joseph. </p>
-                <p> "General Harmar never sent to bring off the <lb/>wounded, nor bury the dead.
+                    occasioned the <lb/>amazing slaughter in the river St. Joseph.</p>
+                <p>"General Harmar never sent to bring off the <lb/>wounded, nor bury the dead.
                     Captain David <lb/>Thrope and Lieut. Clark fell in the field. The <lb/>Bourbon
                     militia has suffered very much, nearly <lb/>one third of them having fallen on
-                    the spot. </p>
-                <p> "The army is now at Licking, and is ex<lb break="no"/>pected home hourly. </p>
-                <p> "This is the best account that I have been <lb/>able to collect; it will be
+                    the spot.</p>
+                <p>"The army is now at Licking, and is ex<lb break="no"/>pected home hourly.</p>
+                <p>"This is the best account that I have been <lb/>able to collect; it will be
                     delivered to you by <lb/>Major Jones, who before he leaves the district,
-                    <lb/>may be enabled to obtain further particulars." </p>
+                    <lb/>may be enabled to obtain further particulars."</p>
             </body>
         </text>
     </TEI>

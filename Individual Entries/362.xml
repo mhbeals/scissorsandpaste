@@ -9,10 +9,11 @@
                     <title>362</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20141201 by M. H. Beals.
-                        Transcribed on 20141201 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Newspaper Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>London</settlement>
                         <region>England</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1817-01-01"/>
                         </publicationStmt>
                     </biblFull>
@@ -54,15 +55,14 @@
         <text>
             <body>
                 <p>
-            <pb n="1"/>
-            <hi rend="center">ANOTHER DREADFUL MASSACRE BY THE NATIVES
-                        OF</hi>
-            <lb/>
-            <hi rend="center">THE MARQUESAS ISLANDS.</hi>
-            <lb/>
-            <hi rend="center">[From the Sydney Gazette, November 8, 1815]</hi>
-         </p>
-                <p> By the Governor Macquarie are arrived Captain <lb/>
+                    <pb n="1"/>
+                    <hi rend="center">ANOTHER DREADFUL MASSACRE BY THE NATIVES OF</hi>
+                    <lb/>
+                    <hi rend="center">THE MARQUESAS ISLANDS.</hi>
+                    <lb/>
+                    <hi rend="center">[From the Sydney Gazette, November 8, 1815]</hi>
+                </p>
+                <p>By the Governor Macquarie are arrived Captain <lb/>
             <hi rend="smallcaps">Fowler</hi>, and part of the crew of the India brig Matilda, which sailed
                     from this colony in August, <lb/>1813, bound on a voyage to the Derwent and
                     <lb/>Eastern Islands, and from thence to China; but was <lb/>cut off and
@@ -77,8 +77,8 @@
                     they concurred universally in the design of <lb/>putting the whole of her crew
                     to death; which appears <lb/>to have been a constant practise among the
                     different <lb/>natives towards one another, when their canoes hap<lb break="no"/>pen to fall upon a strange shore, through stress of <lb/>weather, or from any
-                    other accident. </p>
-                <p> Captain Fowler had formed an intimacy with <lb/>their Chief, or King, Nooahetu,
+                    other accident.</p>
+                <p>Captain Fowler had formed an intimacy with <lb/>their Chief, or King, Nooahetu,
                     who presided at the <lb/>horrible tribunal that had devoted the unfortunate
                     <lb/>mariners to instant slaughter. He withheld his assent <lb/>to the murder;
                     but had no hesitation in permitting <lb/>the plunder of the vessel. The crew
@@ -104,8 +104,8 @@
                     deed perpetrated. Let my <lb/>child and myself be strangled before it is
                     performed; <lb/>and then it never will be said that we sanctioned, <lb/>even
                     with our eye-sight, the destruction of these un<lb break="no"/>offending
-                    people." </p>
-                <p> The magnanimity of such a conduct could not do <lb/>less than produce, even in
+                    people."</p>
+                <p>The magnanimity of such a conduct could not do <lb/>less than produce, even in
                     the mind of the unen<lb break="no"/>lightened savage, a paroxysm of surprise,
                     mingled <lb/>with a sentiment of admiration in which the untaught <lb/>man may
                     possibly excel his fellow creature–whose <lb/>conceptions are moulded by
@@ -120,8 +120,8 @@
                     "The <lb/>King! the King!" from every lip burst forth– <lb/>"What! kill
                     the King! No, no, let all the strangers <lb/>live –no man shall kill the
                     King!" Thus were <lb/>their lives preserved–and the vessel plundered of
-                    <lb/>every thing on board her. </p>
-                <p> The floor of the Greenwich, which was burnt at <lb/>Nooaheva, still remains, and
+                    <lb/>every thing on board her.</p>
+                <p>The floor of the Greenwich, which was burnt at <lb/>Nooaheva, still remains, and
                     is dry at low water. All <lb/>her iron and copper have been taken out by the
                         na<lb break="no"/>tives, who have a thorough knowledge of the use of
                     <lb/>these materials. That they are cannibals is well as<lb break="no"/>certained. They form distinct factions, and make <lb/>war upon the ruling
@@ -134,8 +134,8 @@
                     prohibited from <lb/>the eating of human flesh, on pain of death, impa<lb break="no"/>tient of the restraint, fell upon one of the murdered
                     <lb/>bodies, and darting his teeth into it in all the mad<lb break="no"/>ness of
                     a voracious fury, exhaled the crimson mois<lb break="no"/>ture, which had not
-                    yet coagulated. </p>
-                <p> The Chief of Port Anna Maria, who is very <lb/>friendly to Europeans, is named
+                    yet coagulated.</p>
+                <p>The Chief of Port Anna Maria, who is very <lb/>friendly to Europeans, is named
                     Ke-atta-nooe, the <lb/>first part of the name implying the outrigger of a
                     <lb/>canoe, and the latter signifying great. The dress of <lb/>the men consists
                     merely of a wrapper about the <lb/>waist; the women are covered from the
@@ -163,7 +163,7 @@
                     that its inhabitants were <lb/>less numerous:–"Cannot we go and take
                     them?–<lb/>What is there to hinder us?"–was immediately de<lb break="no"/>manded. This anecdote we notice as a specimen of <lb/>their
                     natural inclination to hostility, in which, all ac<lb break="no"/>counts
-                    respecting them correspond. </p>
+                    respecting them correspond.</p>
             </body>
         </text>
     </TEI>

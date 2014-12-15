@@ -9,8 +9,9 @@
                     <title>41</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-14"/>
                         </publicationStmt>
                     </biblFull>
@@ -59,14 +60,14 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="center">" Living out of the World"</hi>
-         </p>
+                    <pb/>
+                    <hi rend="center">" Living out of the World"</hi>
+                </p>
                 <p>
-            <hi rend="smallcaps">To the PRINTER</hi>. </p>
+            <hi rend="smallcaps">To the PRINTER</hi>.</p>
                 <p>
-            <hi rend="smallcaps">Sir,</hi>
-         </p>
+                    <hi rend="smallcaps">Sir,</hi>
+                </p>
                 <p>
             <hi rend="enlarged-capital">A</hi>
             <hi rend="smallcaps">BOUT</hi> two month ago I
@@ -84,25 +85,24 @@
             <lb break="no"/>
             <hi rend="italic">women</hi> ; and
                     battles in Flanders, against the <lb/>Emperor, who I thought was fighting
-                    against <lb/>the Turks. </p>
-                <p> But even this was not the most distressing–for <lb/>one day meeting a
+                    against <lb/>the Turks.</p>
+                <p>But even this was not the most distressing–for <lb/>one day meeting a
                     friend, I inquired very cor<lb break="no"/>dially after his wife, who I found a
                     few days af<lb break="no"/>terwards, had eloped just before with another
                     <lb/>gentleman ; and meeting with a lady, I inquir<lb break="no"/>ed kindly for
                     her sister, who I found had depart<lb break="no"/>ed to the other world a
-                    fortnight before. </p>
-                <p> On this account I never will stir again "out of <lb/>the world" unless your
-                    paper goes along with me. I <lb/>hold a newspaper to be a kind of <hi rend="italic">viaticum</hi> with <lb/>which every man should be provided,
-                    and which be<lb break="no"/>come the more necessary the further we remove
-                    <lb/>from town It. is the only way to keep pace with <lb/>what is going on every
-                    day in the fashionable or <lb/>literary world–and to prevent talking
-                    about dead <lb/>friends, or wives that have absconded. </p>
-                <p> In short, Sir, a newspaper is my <hi rend="italic">creed</hi>–and ne<lb break="no"/>ver will I again travel without my faith along with <lb/>me :
+                    fortnight before.</p>
+                <p>On this account I never will stir again "out of <lb/>the world" unless your paper
+                    goes along with me. I <lb/>hold a newspaper to be a kind of <hi rend="italic">viaticum</hi> with <lb/>which every man should be provided, and which be<lb break="no"/>come the more necessary the further we remove <lb/>from town It.
+                    is the only way to keep pace with <lb/>what is going on every day in the
+                    fashionable or <lb/>literary world–and to prevent talking about dead
+                    <lb/>friends, or wives that have absconded.</p>
+                <p>In short, Sir, a newspaper is my <hi rend="italic">creed</hi>–and ne<lb break="no"/>ver will I again travel without my faith along with <lb/>me :
                     having fully experienced the unpleasantness <lb/>of being sent back into the
                     world as ignorant as <lb/>if I had been born again–<hi rend="italic">I
                         hereby give notice</hi>– <lb/>"That if an <hi rend="italic">hottentot</hi> friend of mine invites me, <lb/>who does not take in your
                     paper or some other– <lb/>I will not visit him."<hi rend="smallcaps">DICK
-                        DESPERATE</hi>. </p>
+                        DESPERATE</hi>.</p>
             </body>
         </text>
     </TEI>

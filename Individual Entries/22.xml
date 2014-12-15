@@ -9,8 +9,9 @@
                     <title>22</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-10-09"/>
                         </publicationStmt>
                     </biblFull>
@@ -68,7 +69,7 @@
                     full, and in large <lb/>quantities. The other grains are likewise plen<lb break="no"/>tiful, and of an excellent quality. Such distin<lb break="no"/>guished favours call for the gratitude of the in<lb break="no"/>habitants of
                     the United Sates, to the great Au<lb break="no"/>thor of Nature; especially when
                     these blessings of <lb/>nature are connected in the same year with deli<lb break="no"/>verance from anarchy, and with the establishment <lb/>of a wise,
-                    free, and just government. </p>
+                    free, and just government.</p>
                 <p/>
             </body>
         </text>

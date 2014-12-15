@@ -9,8 +9,9 @@
                     <title>3</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-01-05"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,7 +64,7 @@
                     brought over in the <lb/>Sally, Capt. Walker from Liverpool. They are <lb/>dated
                     the 16th November, and contain an ac<lb break="no"/>count of the arrival of
                     several ships from New<lb break="no"/>foundland, and some from Halifax; that
-                        pro<lb break="no"/>visions of all kinds were very plentiful and rea<lb break="no"/>sonable. </p>
+                        pro<lb break="no"/>visions of all kinds were very plentiful and rea<lb break="no"/>sonable.</p>
                 <p/>
             </body>
         </text>

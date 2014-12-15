@@ -9,8 +9,9 @@
                     <title>144</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1819-06-02"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,24 +52,23 @@
         <text>
             <body>
                 <p>
-            <pb/>Colonial Intelligence </p>
-                <p> Advices have been received again from the Cape of <lb/>Good Hope of 6th March,
+            <pb/>Colonial Intelligence</p>
+                <p>Advices have been received again from the Cape of <lb/>Good Hope of 6th March,
                     which are several days later <lb/>than those acquired formerly. Of the rising of
                     the <lb/>Caffres there remains no doubt, although it does <lb/>not appear that
                     Government have as yet received of<lb break="no"/>ficial information regarding
                     it. The private accounts <lb/>state that two valuable officers had lost their
                     lives, and <lb/>also a great number of men. The Governor himself <lb/>in order
                     by his presence the sooner to suppress the Caf<lb break="no"/>fres, had, with a
-                    competent force, proceeded to the in<lb break="no"/>
-            <lb/>terior. Great
-                    inconvenience was experienced for the <lb/>want of cavalry in so extensive a
-                    country ; had not this <lb/>been the case, it was believed that in a very few
-                    days <lb/>tranquility would have been restored. </p>
-                <p> We are sorry to state that another hurricane has ta<lb break="no"/>ken place in
+                    competent force, proceeded to the in<lb break="no"/>terior. Great inconvenience
+                    was experienced for the <lb/>want of cavalry in so extensive a country ; had not
+                    this <lb/>been the case, it was believed that in a very few days
+                    <lb/>tranquility would have been restored.</p>
+                <p>We are sorry to state that another hurricane has ta<lb break="no"/>ken place in
                     the Isle of France ; it commenced on the <lb/>25th January, and has done great
                     mischief to the ship<lb break="no"/>ping, and also to the plantations of that
-                    ill-fated Is<lb break="no"/>land. </p>
-                <p> A Dutch mail has arrived, with papers to the 19th <lb/>inst. At Batavia, two of
+                    ill-fated Is<lb break="no"/>land.</p>
+                <p>A Dutch mail has arrived, with papers to the 19th <lb/>inst. At Batavia, two of
                     the leaders of the late distur<lb break="no"/>bances have been tried and
                     execute, and that degree <lb/>of tranquility which terror produces has been
                     restored. <lb/>In the administration of their colonies in the east, the
@@ -81,16 +81,17 @@
                     modes of collecting the revenue <lb/>were adopted ; and a spirit of mildness and
                     of regard <lb/>for the interests of all the various classes of which the
                     <lb/>population is composed, was evinced, which made the <lb/>British Government
-                    highly popular. </p>
-                <p> Considerable anxiety prevails among the merchants <lb/>for the safety of the
+                    highly popular.</p>
+                <p>Considerable anxiety prevails among the merchants <lb/>for the safety of the
                     Queen Charlotte, Jamaica packet. <lb/>She sailed from Jamaica the 29th March,
                     and had a <lb/>great quantity of specie on board. No things have <lb/>since been
                     received of her. Several vessels sailed since <lb/>her departure, and have
                     arrived safe. The Ocean quit<lb break="no"/>ted Jamaica on the 6th of April, and
-                    arrived here se<lb break="no"/>veral days since. </p>
-                <p> Several passengers landed at Portsmouth on Thurs<lb break="no"/>day from
-                    Jamaica, bring Port Royal Papers to the <lb/>25th of March. The 50th Regiment
-                    had arrived at <lb/>Kingston, from Cork ; and the 2nd West India Regi<lb break="no"/>ment was about to embark for Sierra Leone to be dis<lb break="no"/>banded. </p>
+                    arrived here se<lb break="no"/>veral days since.</p>
+                <p>Several passengers landed at Portsmouth on Thurs<lb break="no"/>day from Jamaica,
+                    bring Port Royal Papers to the <lb/>25th of March. The 50th Regiment had arrived
+                    at <lb/>Kingston, from Cork ; and the 2nd West India Regi<lb break="no"/>ment
+                    was about to embark for Sierra Leone to be dis<lb break="no"/>banded.</p>
             </body>
         </text>
     </TEI>

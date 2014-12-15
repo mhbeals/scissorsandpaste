@@ -9,8 +9,9 @@
                     <title>4</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-07-13"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,14 +68,14 @@
                     extended to <cb/>
             <lb/>our own Colonies ; and we cannot be surprised,
                     <lb/>particularly when we consider the present price of <lb/>bread at home, that
-                    no assistance can be given at <lb/>present, either to the French or Dutch. </p>
-                <p> The crops in the island of Jamaica promise a <lb/>most plentiful harvest, except
+                    no assistance can be given at <lb/>present, either to the French or Dutch.</p>
+                <p>The crops in the island of Jamaica promise a <lb/>most plentiful harvest, except
                     to the eastward, <lb/>which ahs generally been considered as the most
-                    <lb/>productive part. </p>
-                <p> By the Westmoreland, just arrived from Ja<lb break="no"/>maica, we learn that
-                    the slaves have become mu<lb break="no"/>tinous to an alarming degree, ever
-                    since they were <lb/>made acquainted with the intended abolition of <lb/>the
-                    Slave Trade. </p>
+                    <lb/>productive part.</p>
+                <p>By the Westmoreland, just arrived from Ja<lb break="no"/>maica, we learn that the
+                    slaves have become mu<lb break="no"/>tinous to an alarming degree, ever since
+                    they were <lb/>made acquainted with the intended abolition of <lb/>the Slave
+                    Trade.</p>
                 <p/>
             </body>
         </text>

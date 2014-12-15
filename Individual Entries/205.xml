@@ -9,8 +9,9 @@
                     <title>205</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1827-03-03"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,18 +52,18 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Commercial Intercourse Between</hi>
-            <lb/>
-            <hi rend="smallcaps">The United States and the Bri-</hi>
-            <lb/>
-            <hi rend="smallcaps">tish Colonies.</hi>
-         </p>
-                <p> The following is a copy of an important document, <lb/>received this morning at
+                    <pb/>
+                    <hi rend="smallcaps">Commercial Intercourse Between</hi>
+                    <lb/>
+                    <hi rend="smallcaps">The United States and the Bri-</hi>
+                    <lb/>
+                    <hi rend="smallcaps">tish Colonies.</hi>
+                </p>
+                <p>The following is a copy of an important document, <lb/>received this morning at
                     the North and South Ameri<lb break="no"/>can Coffeehouse, dated Washington, 23d
                     January viz. <lb/>–" A bill to regulate the Commercial Intercourse
                     <lb/>between the United States and the Colonies of Great <lb/>Britain."</p>
-                <p> Be it enacted, by the Senate the House of Represen<lb break="no"/>tatives of the
+                <p>Be it enacted, by the Senate the House of Represen<lb break="no"/>tatives of the
                     United States of America, in Congress <lb/>assembled, that from and after the
                     30th day of Septem<lb break="no"/>ber next, the Ports of the United States shall
                     be, and <lb/>remain, closed against any and every vessel coming or <lb/>arriving
@@ -72,8 +73,7 @@
                     <lb/>Buicos, the Bermuda or Summer Islands, the British <lb/>possessions on the
                     coast of Africa, the colony of the <lb/>Cape of Good Hope, and the islands,
                     settlements, and <lb/>territories, belonging thereto, and dependent thereupon,
-                    <lb/>the islands of Mauritius and Ceylon, and the seve<lb break="no"/>
-            <lb/>ral
+                    <lb/>the islands of Mauritius and Ceylon, and the seve<lb break="no"/>ral
                     islands and territories belonging thereto, and depen<lb break="no"/>dent on each
                     respectively–the British Settlements in <lb/>New Holland, and the several
                     islands and territories <lb/>belonging thereto, and dependent
@@ -93,8 +93,8 @@
                     every vessel so exclud<lb break="no"/>ed, as aforesaid, from the ports of the
                     United States, <lb/>that shall enter, or attempt to enter, the same, in vio<lb break="no"/>lation of this Act, shall, with her tackle, apparel, and
                     <lb/>furniture, together with her carg on board, be forefeited <lb/>to the
-                    United States. </p>
-                <p> Sec. 2d. And be it further enacted, that, from and <lb/>after the 30th day of
+                    United States.</p>
+                <p>Sec. 2d. And be it further enacted, that, from and <lb/>after the 30th day of
                     September next, the owner, con<lb break="no"/>signee, or agent, of every vessel
                     owned wholly, or in <lb/>part, by a subject or subjects of his Britannic
                     Majesty, <lb/>which shall have been duly entered in any port of the <lb/>United
@@ -117,22 +117,24 @@
                     of the Conven<lb break="no"/>tions, to regulate the commerce the territories
                     <lb/>of the United States, and of his Brittanic Majesty, <lb/>which were
                     concluded respectively, on the third of July, <lb/>1815, and on the twentieth
-                    day of October, 1818. </p>
-                <p> Sec. 3. And be it farther enacted, that the form of the <lb/>bond aforesaid
-                    shall be prescribed by the Secretary of <lb/>the Department of the Treasury, and
-                    the same shall <lb/>and may be discharged, and otherwise, by produc<lb break="no"/>ing, within one year after the date thereof, a like certi<lb break="no"/>ficate to that required by, and under, the regulations
-                    <lb/>contained in the eighty-first section of the act, to regu<lb break="no"/>
-            <lb/>late the collection of duties on imports, passed the 2d <lb/>day or March
-                    1799,–that the articles of the growth, <lb/>produce, and manufacture, of
-                    the United States, laden, <lb/>as aforesaid, were unladen and landed,
-                    comfortably to <lb/>the provisions of this act ; or, in the case of loss by sea,
-                    by <lb/>capture, or other unavaoidable accident, by the produc<lb break="no"/>tion of such other proofs as the nature of the case will <lb/>admit, according
-                    to the provisions of the eighty-first <lb/>section of the act aforesaid. </p>
-                <p> Sec. 4. And be it farther enacted that all penalties <lb/>and forfeitures
+                    day of October, 1818.</p>
+                <p>Sec. 3. And be it farther enacted, that the form of the <lb/>bond aforesaid shall
+                    be prescribed by the Secretary of <lb/>the Department of the Treasury, and the
+                    same shall <lb/>and may be discharged, and otherwise, by produc<lb break="no"/>ing, within one year after the date thereof, a like certi<lb break="no"/>ficate to that required by, and under, the regulations <lb/>contained in the
+                    eighty-first section of the act, to regu<lb break="no"/>
+            <lb/>late the collection
+                    of duties on imports, passed the 2d <lb/>day or March 1799,–that the
+                    articles of the growth, <lb/>produce, and manufacture, of the United States,
+                    laden, <lb/>as aforesaid, were unladen and landed, comfortably to <lb/>the
+                    provisions of this act ; or, in the case of loss by sea, by <lb/>capture, or
+                    other unavaoidable accident, by the produc<lb break="no"/>tion of such other
+                    proofs as the nature of the case will <lb/>admit, according to the provisions of
+                    the eighty-first <lb/>section of the act aforesaid.</p>
+                <p>Sec. 4. And be it farther enacted that all penalties <lb/>and forfeitures
                     incurred by force of this act shall be <lb/>sued for, recovered, distributed and
                     accounted for, and <lb/>may be mitigated or remitted in the manner and accor<lb break="no"/>ding to the provisions of the revenue laws of the United
-                    <lb/>States. </p>
-                <p> Sec. 5. Provided nevertheless, and be it farther enact<lb break="no"/>ed, that
+                    <lb/>States.</p>
+                <p>Sec. 5. Provided nevertheless, and be it farther enact<lb break="no"/>ed, that
                     this act shall not take effect, nor go into opera<lb break="no"/>tion, if,
                     before the said 13th day of September next, the <lb/>President of the United
                     States shall receive satisfactory <lb/>evidence that the said Colonies and
@@ -187,9 +189,9 @@
                     their cargoes, to any other or higher <lb/>duties or charges of any kind than
                     are levied on vessels <lb/>of the United States and their cargoes of similar
                         mer<lb break="no"/>chandize imported from the same colonies and posses<lb break="no"/>sions ; and from and after the date of such proclama<lb break="no"/>tion, the first and second reactions of this act shall be
-                    <lb/>suspended. </p>
-                <p> This Bill was wtice read, and commited to the com<lb break="no"/>mittee of the
-                    whole on the State of the Union. </p>
+                    <lb/>suspended.</p>
+                <p>This Bill was wtice read, and commited to the com<lb break="no"/>mittee of the
+                    whole on the State of the Union.</p>
             </body>
         </text>
     </TEI>

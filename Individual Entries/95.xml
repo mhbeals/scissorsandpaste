@@ -9,10 +9,11 @@
                     <title>95</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130607 by M. H. Beals.
-                        Transcribed on 20140828 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130607 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140828 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1793-07-29"/>
                         </publicationStmt>
                     </biblFull>
@@ -64,9 +65,9 @@
             <pb n="4"/> A great number of white people and white <lb/>families have been
                     killed and scalped by the In<lb break="no"/>dians in the back settlements of
                     America. A<lb break="no"/>mong the killed and scalped is Mr. Pugh, son of
-                    <lb/>Colonel Pugh. </p>
-                <p> The Indians are determinded on war with the <lb/>Americans. They are headed by
-                    Gilpin, the <lb/>successor of M'Gillivray, and have already com<lb break="no"/>menced hostilities on the back settlements of Ca<lb break="no"/>rolina. </p>
+                    <lb/>Colonel Pugh.</p>
+                <p>The Indians are determinded on war with the <lb/>Americans. They are headed by
+                    Gilpin, the <lb/>successor of M'Gillivray, and have already com<lb break="no"/>menced hostilities on the back settlements of Ca<lb break="no"/>rolina.</p>
             </body>
         </text>
     </TEI>

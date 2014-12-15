@@ -9,8 +9,9 @@
                     <title>215</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1829-11-04"/>
                         </publicationStmt>
                     </biblFull>
@@ -72,7 +73,7 @@
                         advan<lb break="no"/>tageous arrangements entered into by the commander
                     <lb/>and a gentleman named Semple, who has chartered the <lb/>Warrior, and gone
                     out in her, they will clear the enor<lb break="no"/>mous sum of L10,000 by the
-                    voyage. </p>
+                    voyage.</p>
                 <p/>
             </body>
         </text>

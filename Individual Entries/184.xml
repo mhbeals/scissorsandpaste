@@ -9,8 +9,9 @@
                     <title>184</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1821-10-17"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,7 +52,7 @@
         <text>
             <body>
                 <p>
-            <pb/>Colonial Intelligence </p>
+            <pb/>Colonial Intelligence</p>
                 <p>
             <hi rend="smallcaps">Alarming Fires in the Woods of Main and</hi>
             <lb/>
@@ -65,35 +66,34 @@
                         infor<lb break="no"/>mant took passage was entirely enveloped in
                     smoke.– <lb/>In various places, the fires have been burning for six
                     <lb/>weeks ; there had been no rain for eight weeks to wet <lb/>the
-                        ground.–<hi rend="italic">Boston Paper</hi>. </p>
-                <p> Extract of a letter to a Lady in the vicinity of <lb/>Chelmsford, dated New
-                    Essex, Graham's Town, on <lb/>the frontiers of Africa, June 21, 1821:– </p>
-                <p> "I am seven hundred miles from the Cape <lb/>of Good Hope, and should not
-                    receive intelligence of <lb/>an arrival there for at least three weeks ; but my
-                        cor<lb break="no"/>
-            <lb/>respondent at Cape Town will procure comfortable
-                    <lb/>lodgings, &amp;c. until a ship sails for Algoa Bay, which <lb/>is distant
-                    from me one hundred and thirty miles.– <lb/>Few ships from England
-                    proceed farther than the <lb/>Cape. Good ploughmen are wanted, and good foot<lb break="no"/>ploughs, with spare wrought-iron shares and coulters, <lb/>which
-                    are very expensive here ; iron-work nothing <lb/>under 1s. per lb. Ransome's
-                    ploughs sell for 14l. <lb/>each. Ploughmen will find plenty of employers, at
-                    <lb/>from 2l. to 8l. per month and their board. Meat <lb/>sells at 2d. per lb ;
-                    wheat 12s. bushel ; and bar<lb break="no"/>ley 6s. Other articles of
-                    housekeeping are about the <lb/>same price as in England ; but, on the other
-                    hand, we <lb/>are in one of the healthiest climates in the world, and <lb/>free
-                    from rent, tithes, and taxes of every descrip<lb break="no"/>tion. Any one may
-                    live here as well with 500l. as in <lb/>his native land with 5000l. The farming
-                    work is still[?] <lb/>done with oxen, which are very fine, and bought at
-                    <lb/>3l. each ; cows are 30s. ; and sheep, 6s. a-head (hav<lb break="no"/>ing
-                    tails that weight 8lb., a complete lump of fat) ; <lb/>clothes, linen, and all
-                    English goods, very dear.– <lb/>Good mechanics, of any description, have
-                    very high <lb/>wages. A cargo of Ladies would make a good specu<lb break="no"/>lation, in proceeding to the New Settlement ; for all <lb/>that came out with
-                    the settlers have got husbands."</p>
-                <p> By letters received from the Cape of Good Hope, <lb/>we understand that the
-                    Royal African corps was dis<lb break="no"/>banded there on the 26th of June
-                    last. </p>
-                <p> By letters from Bombay, dated the 24 of May, <lb/>we learn that the Governor,
-                    the Honourable Mr. El<lb break="no"/>phinstone, has returned to the Presidency,
+                        ground.–<hi rend="italic">Boston Paper</hi>.</p>
+                <p>Extract of a letter to a Lady in the vicinity of <lb/>Chelmsford, dated New
+                    Essex, Graham's Town, on <lb/>the frontiers of Africa, June 21,
+                    1821:–</p>
+                <p>"I am seven hundred miles from the Cape <lb/>of Good Hope, and should not receive
+                    intelligence of <lb/>an arrival there for at least three weeks ; but my cor<lb break="no"/>respondent at Cape Town will procure comfortable <lb/>lodgings,
+                    &amp;c. until a ship sails for Algoa Bay, which <lb/>is distant from me one
+                    hundred and thirty miles.– <lb/>Few ships from England proceed farther
+                    than the <lb/>Cape. Good ploughmen are wanted, and good foot<lb break="no"/>ploughs, with spare wrought-iron shares and coulters, <lb/>which are very
+                    expensive here ; iron-work nothing <lb/>under 1s. per lb. Ransome's ploughs sell
+                    for 14l. <lb/>each. Ploughmen will find plenty of employers, at <lb/>from 2l. to
+                    8l. per month and their board. Meat <lb/>sells at 2d. per lb ; wheat 12s. bushel
+                    ; and bar<lb break="no"/>ley 6s. Other articles of housekeeping are about the
+                    <lb/>same price as in England ; but, on the other hand, we <lb/>are in one of
+                    the healthiest climates in the world, and <lb/>free from rent, tithes, and taxes
+                    of every descrip<lb break="no"/>tion. Any one may live here as well with 500l.
+                    as in <lb/>his native land with 5000l. The farming work is still[?] <lb/>done
+                    with oxen, which are very fine, and bought at <lb/>3l. each ; cows are 30s. ;
+                    and sheep, 6s. a-head (hav<lb break="no"/>ing tails that weight 8lb., a complete
+                    lump of fat) ; <lb/>clothes, linen, and all English goods, very dear.–
+                    <lb/>Good mechanics, of any description, have very high <lb/>wages. A cargo of
+                    Ladies would make a good specu<lb break="no"/>lation, in proceeding to the New
+                    Settlement ; for all <lb/>that came out with the settlers have got
+                    husbands."</p>
+                <p>By letters received from the Cape of Good Hope, <lb/>we understand that the Royal
+                    African corps was dis<lb break="no"/>banded there on the 26th of June last.</p>
+                <p>By letters from Bombay, dated the 24 of May, <lb/>we learn that the Governor, the
+                    Honourable Mr. El<lb break="no"/>phinstone, has returned to the Presidency,
                     after a five <lb/>months' tour to the northward. He must minutely <lb/>examined
                     all the judicial and revenue systems–furnish<lb break="no"/>ing the
                     Collectors and Agents of Government with par<lb break="no"/>ticular instructions
@@ -106,8 +106,8 @@
                     no youth has a chance of <lb/>success who is ignorant of the Hindoustanee[?].
                     The <lb/>highest respect is entertained for the able manner in <lb/>which the
                     disinterested Dr. Gilchrist prepares young <lb/>men for the services. We rejoice
-                    to learn that the <lb/>Cholera Morbus has abated its rigour in the Deccan. </p>
-                <p> Batavia journals of the 28th April give an account <lb/>of a terrible earthquake
+                    to learn that the <lb/>Cholera Morbus has abated its rigour in the Deccan.</p>
+                <p>Batavia journals of the 28th April give an account <lb/>of a terrible earthquake
                     which took place on the 29th <lb/>December last, on the south coast of Celebes.
                     It did <lb/>immense damage, especially at Budekomba[?], where <lb/>the sea rose
                     several times to a prodigious height, and <lb/>then falling in with the
@@ -119,8 +119,8 @@
                     <cb/>
             <lb/>It is with much regret we lay before our readers the <lb/>following
                     details of a most calamitous fire which broke <lb/>out at Halifax, Nova Scotia,
-                    on the 17th ult. : </p>
-                <p> "<hi rend="smallcaps">Halifax</hi>, Sept. 17. <lb/>"The conflagration this
+                    on the 17th ult. :</p>
+                <p>"<hi rend="smallcaps">Halifax</hi>, Sept. 17. <lb/>"The conflagration this
                     morning was one of the <lb/>most awful and destructive every witness in Halifax.
                     <lb/>It originated in Sackville-street, in the Bakery occu<lb break="no"/>pied
                     by Shay and Milany, and before it was discover<lb break="no"/>ed, had gained an
@@ -132,30 +132,29 @@
                     could be given to it, the whole <lb/>block of buildings, with the exception of a
                     house situ<lb break="no"/>ated at the corner of Sackville and Blowers'-streets,
                     <lb/>occupied by Mr H. Croskill, the houses occupied by <lb/>Mrs. Neilson and Mr
-                    T. Muirhead, on Barrington<lb break="no"/>
-            <lb/> street, and a stable belonging
-                    to J. W. Johnston, Esq. <lb/>in Granville-street, were consumed. </p>
-                <p> "For some time great apprehensions were entertain<lb break="no"/>tained that the
+                    T. Muirhead, on Barrington<lb break="no"/> street, and a stable belonging to J.
+                    W. Johnston, Esq. <lb/>in Granville-street, were consumed.</p>
+                <p>"For some time great apprehensions were entertain<lb break="no"/>tained that the
                     fire would extend to the houses on the op<lb break="no"/>posite side of the
                     streets, but fortunately it did not. <lb/>Of the property burnt only about t1500
                     were insured, <lb/>and the calamity has mostly fallen where it will long <lb/>be
                     severely felt–upon windows and orphan children– <lb/>upon
                     industrious tradesmen, whose whole stock of <lb/>worldly wealth was invested in
-                    the tenements they oc<lb break="no"/>cupied. </p>
-                <p> "To the troops, and the seamen of the ships of war, <lb/>the town is, as usual,
+                    the tenements they oc<lb break="no"/>cupied.</p>
+                <p>"To the troops, and the seamen of the ships of war, <lb/>the town is, as usual,
                     greatly indebted for the exertions <lb/>made by them. Twenty-one houses were
                     consumed, <lb/>with other valuable property."</p>
-                <p> America appears to be very unhealthy just now– <lb/>The accounts from
-                    Long Island, Baltimore, Amelia <lb/>Island, and Norfolk, are extremely
-                    calamitous. The <lb/>whole of Amelia Island is a perfect hospital, not one
-                    <lb/>family being well, and in many instances not one to <lb/>assist another. So
-                    dreadful, indeed, is the disease, <lb/>that there is not one sentinel to do
-                    duty. A New <lb/>York Paper of the 30th ult. says– </p>
-                <p> We are sorry to perceive from the <hi rend="italic">Franklin Gazette</hi>,
+                <p>America appears to be very unhealthy just now– <lb/>The accounts from Long
+                    Island, Baltimore, Amelia <lb/>Island, and Norfolk, are extremely calamitous.
+                    The <lb/>whole of Amelia Island is a perfect hospital, not one <lb/>family being
+                    well, and in many instances not one to <lb/>assist another. So dreadful, indeed,
+                    is the disease, <lb/>that there is not one sentinel to do duty. A New <lb/>York
+                    Paper of the 30th ult. says–</p>
+                <p>We are sorry to perceive from the <hi rend="italic">Franklin Gazette</hi>,
                     <lb/>that the malignant fever continues to make serious ra<lb break="no"/>vages
                     among our fellow citizens at Baltimore. Four <lb/>full victims to it in the 24
                     hours ending on Sunday <lb/>morning ; and six during the 24 hours ending Monday
-                    <lb/>morning. </p>
+                    <lb/>morning.</p>
                 <p/>
             </body>
         </text>

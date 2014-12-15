@@ -9,10 +9,11 @@
                     <title>359</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20120309 by M. H. Beals.
-                        Transcribed on 20141128 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141128 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Trove</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Sydney</settlement>
                         <region>New South Wales</region>
                         <country>Australia</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1815-11-08"/>
                         </publicationStmt>
                     </biblFull>
@@ -116,8 +117,8 @@
                     forbearance. "The King! The King!" from <lb/>every lip burst
                     forth:–'What! kill the King! No, <lb/>no, let all the strangers live: no
                     man shall kill the <lb/>King!"–Thus were their lives preserved–and
-                    the <lb/>vessel plundered of everything on board her. </p>
-                <p> The floor of the Greenwich, which was burnt at <lb/>Nooaheva, still remains, and
+                    the <lb/>vessel plundered of everything on board her.</p>
+                <p>The floor of the Greenwich, which was burnt at <lb/>Nooaheva, still remains, and
                     is dry at low water. <lb/>All her iron and copper have been taken out by the
                     <lb/>natives, who have a thorough knowledge of the <lb/>use of these metals.
                     That they are cannibals is well <lb/>ascertained. They form distinct factions,
@@ -129,8 +130,8 @@
                     <lb/>prohibited from the eating of human flesh, on pain <lb/>of death, impatient
                     of the restraint, fell upon one <lb/>of the murdered bodies, and darting his
                     teeth into <lb/>it in all the madness of a voracious fury, exhaled <lb/>the
-                    crimson moisture, which had not yet coagulated. </p>
-                <p> The chief of Port Anna Maria, who is very <lb/>friendly to Europeans, is named
+                    crimson moisture, which had not yet coagulated.</p>
+                <p>The chief of Port Anna Maria, who is very <lb/>friendly to Europeans, is named
                     Ke-atta-nooe, <lb/>the first part of the name implying the outrigger <lb/>of a
                     canoe, and the latter signifying <hi rend="italic">Great</hi>.– <lb/>The
                     dress, of the men consists merely of a wrapper <lb/>about the waist; the women
@@ -157,7 +158,7 @@
                     that its inhabitants were less nu<lb break="no"/>merous:–"<hi rend="italic">Can't we go and take them?–what is <lb/>there to hinder
                         us</hi>?"–was immediately demanded. <lb/>This anecdote we notice as a
                     specimen of their na<lb break="no"/>tural inclination to hostility, in which,
-                    all accounts <lb/>respecting them correspond. </p>
+                    all accounts <lb/>respecting them correspond.</p>
             </body>
         </text>
     </TEI>

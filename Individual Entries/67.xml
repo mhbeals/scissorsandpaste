@@ -9,8 +9,9 @@
                     <title>67</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-07-12"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,14 +61,14 @@
             <hi rend="smallcaps">Ledyard</hi>, <hi rend="italic">a celebrated
                         traveller.</hi>
          </p>
-                <p> I have always remarked that women, in all <lb/>countries, are civil, obliging,
+                <p>I have always remarked that women, in all <lb/>countries, are civil, obliging,
                     tender, and humane; <lb/>that they are ever inclined to be gay and cheer<lb break="no"/>ful, timorous and modest : and that they do not <lb/>hesitate,
                     like men, to perform a generous action. <lb/>Not haughty, not arrogant, not
                     supercilious, they <lb/>are full of courtesy, and fond of society ; more
                     <lb/>liable in general to err than man, but in general <lb/>also more virtuous,
                     and performing more good <lb/>actions than he. To a woman, whether civiliz<lb break="no"/>ed or savage, I never addressed myself in the lan<lb break="no"/>guage of decency and friendship, without receiv<lb break="no"/>ing a decent
-                    and friendly answer. With men it <lb/>has been otherwise. </p>
-                <p> In wandering over the <hi rend="italic">barren</hi> plains of <hi rend="italic">inhos-</hi>
+                    and friendly answer. With men it <lb/>has been otherwise.</p>
+                <p>In wandering over the <hi rend="italic">barren</hi> plains of <hi rend="italic">inhos-</hi>
             <lb/>
             <hi rend="italic">pitable Denmark,</hi> through <hi rend="italic">honest Sweden</hi> and <hi rend="italic">fro-</hi>
             <lb/>
@@ -80,7 +81,7 @@
                     <lb/>me, and uniformly so ; and to add to this virtue <lb/>(so worthy the
                     appellation of benevolence) these <lb/>actions have been performed in so free
                     and so <lb/>kind a manner, that if I was dry I drank the <lb/>sweetest draught,
-                    and if hungry I eat the coarse <lb/>morsel with a double relish. </p>
+                    and if hungry I eat the coarse <lb/>morsel with a double relish.</p>
             </body>
         </text>
     </TEI>

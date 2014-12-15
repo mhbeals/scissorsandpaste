@@ -9,10 +9,11 @@
                     <title>92</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130601 by M. H. Beals.
-                        Transcribed on 20140831 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130601 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140831 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1793-01-14"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,19 +68,20 @@
             <pb/>As the following Speech of Gen. Washington at <lb/>the opening of the
                     Congress of the United <lb/>States at New York, Nov. 6 1792, gives an
                     <lb/>impartial account of the situation of tha coun<lb break="no"/>try, we are
-                    persuaded it will be found not un<lb break="no"/>entertaining to our readers. </p>
+                    persuaded it will be found not un<lb break="no"/>entertaining to our
+                    readers.</p>
                 <p>
-            <hi rend="italic">Fellow Citizens of the Senate, and of the</hi>
-            <lb/>
-            <hi rend="italic">House of Representatives,</hi>
-         </p>
+                    <hi rend="italic">Fellow Citizens of the Senate, and of the</hi>
+                    <lb/>
+                    <hi rend="italic">House of Representatives,</hi>
+                </p>
                 <p>
             <hi rend="enlarged-capital">I</hi>T is some abatement of the statisfaction, with
                     <lb/>which I meet you on the present occasion, <lb/>that in felicitating you on
                     a continuance of the <lb/>national prosperity, generally, I am not able to
                     <lb/>add to it information that the Indian hostitilites, <lb/>which have for
-                    some time past, distressed our <lb/>western frontier, have terminiated: </p>
-                <p> You will, I am persuaded, loearn, with no less <lb/>concern, than I communicate
+                    some time past, distressed our <lb/>western frontier, have terminiated:</p>
+                <p>You will, I am persuaded, loearn, with no less <lb/>concern, than I communicate
                     it, that reiterated <lb/>endeavours, towards effecting a pacification, have
                     <lb/>hitherto issued only in new and outrageous proofs <lb/>of persevering
                     hostility on the part of the tribes <lb/>with whom we are in contest. An earnest
@@ -91,38 +93,39 @@
                     <lb/>consulted less my own anticipations of the event, <lb/>or the scruples
                     which some considerations were <lb/>calculated to inspire, than the wish to find
                     the ob<lb break="no"/>ject attainable; to ascertain, unequivocally, that
-                    <lb/>such is the case. </p>
-                <p> A detail of the measures which have been pur<lb break="no"/>sued, and of their
+                    <lb/>such is the case.</p>
+                <p>A detail of the measures which have been pur<lb break="no"/>sued, and of their
                     consequences, which will be <lb/>laid before you, while it will confirm to you
                     the <lb/>want of success, thus far, will, I trust, evince <lb/>that means, as
                     proper and as efficacious, as could <lb/>have been devised have been employed.
                     The <lb/>issue of some of them, indeed, is still depending; <lb/>but a favorable
                     one, though not to be despaired <lb/>of, is not promised by anything that has
-                    yet hap<lb break="no"/>pened. </p>
-                <p> In the course of the attempts, which have been <lb/>made some valuable citizens
+                    yet hap<lb break="no"/>pened.</p>
+                <p>In the course of the attempts, which have been <lb/>made some valuable citizens
                     have fallen victims <lb/>to their zeal for the public service. A sanction
                     <lb/>commonly respected, even among savages, has been <lb/>found, in this
                     instance, insufficient to protect <lb/>from massacre the emissaries of peace; it
                     will, I <cb/>
             <lb/>presume, be duly considered whether the occasion <lb/>does not
-                    call for an exercise of liberality towards <lb/>the families of the deceased. </p>
-                <p> It must add to your concern, to be informed <lb/>that besides the continuation
-                    of hostile appearances <lb/>among the tribes north of the Ohio, some threat<lb break="no"/>ening symptoms have of late been revived among <lb/>some of
-                    those south of it. </p>
-                <p> A part of the Cherokees, known by the name <lb/>of Chickamagas, inhabiting five
+                    call for an exercise of liberality towards <lb/>the families of the
+                    deceased.</p>
+                <p>It must add to your concern, to be informed <lb/>that besides the continuation of
+                    hostile appearances <lb/>among the tribes north of the Ohio, some threat<lb break="no"/>ening symptoms have of late been revived among <lb/>some of
+                    those south of it.</p>
+                <p>A part of the Cherokees, known by the name <lb/>of Chickamagas, inhabiting five
                     villages on the <lb/>Tennessee River, have long been in the practice of
-                    <lb/>committing depredations on the neighbouring <lb/>settlements. </p>
-                <p> It was hoped that the treaty of Holston, made <lb/>with the Cherokee Nation in
+                    <lb/>committing depredations on the neighbouring <lb/>settlements.</p>
+                <p>It was hoped that the treaty of Holston, made <lb/>with the Cherokee Nation in
                     July 1791, would <lb/>have prevented a repetition of such depredations. <lb/>But
                     the event has not answered this hope. The <lb/>Chickamagas, aided by some
                     banditti of another <lb/>tribe in their vicinity, have recently perpetrated
                     <lb/>wanton and unprovoked hostilities, upon the ci<lb break="no"/>tizens of the
                     United States in that quarter. The <lb/>information which has been received on
-                    this sub<lb break="no"/>ject will be laid before you. Hitherto defensive pre<lb break="no"/>cautions only have been enjoined and observed. </p>
-                <p> It is not understood that any breach of treaty <lb/>or aggression whatsoever, on
+                    this sub<lb break="no"/>ject will be laid before you. Hitherto defensive pre<lb break="no"/>cautions only have been enjoined and observed.</p>
+                <p>It is not understood that any breach of treaty <lb/>or aggression whatsoever, on
                     the part of the Uni<lb break="no"/>ted States or their citizens, is even
-                    alleged, as <lb/>a pretext for the spirit of hostility in this quarter. </p>
-                <p> I have reason to believe, that every practicable <lb/>exertion has been made
+                    alleged, as <lb/>a pretext for the spirit of hostility in this quarter.</p>
+                <p>I have reason to believe, that every practicable <lb/>exertion has been made
                     (pursuant to the provision <lb/>by law for that purpose) to be prepared for
                     <lb/>the alternative of a prosecution of the war, in the <lb/>event of a failure
                     of pacific overtures. A large <lb/>proportion of the troops authorized to be
@@ -135,17 +138,16 @@
                     <lb/>proper department, with regard to the number <lb/> of troops raised, and
                     some other points which <lb/>have been suggested, will afford more precise in<lb break="no"/>formation as a guide to the legislative consultations <lb/>and
                     among other things, will enable Congress to <lb/>judge whether some additional
-                    stimulus to the re<lb break="no"/>
-            <lb/>cruiting service may not be advisable. </p>
-                <p> In looking forward to the future expense of <lb/>the operations which may be
+                    stimulus to the re<lb break="no"/>cruiting service may not be advisable.</p>
+                <p>In looking forward to the future expense of <lb/>the operations which may be
                     found inevitable, I <lb/>derive consolation from the information I receive
                     <lb/>that the product of the revenues for the present <lb/>year, is likely to
                     supersede the necessity of addi<lb break="no"/>tional burthens on the community,
                     for the service <lb/>of the ensuing year. This however, will be bet<lb break="no"/>ter ascertained in the course of the session; and it <lb/>is
                     proper to add, that the information alluded to <lb/>proceeds upon the
                     supposition of no material ex<lb break="no"/>tension of the spirit of
-                    hostilities. </p>
-                <p> I can not dismiss the subject of Indian affairs, <lb/>without again recommending
+                    hostilities.</p>
+                <p>I can not dismiss the subject of Indian affairs, <lb/>without again recommending
                     to your considera<lb break="no"/>tion the expediency of more adequate provision
                     <lb/>for giving energy to the laws throughout our in<lb break="no"/>terior
                     frontier; and for restraining the commission <lb/>of outrages upon the Indians;
@@ -157,29 +159,29 @@
                     friendly tribes, <lb/>and for carrying on trade with them upon a scale
                     <lb/>equal to their wants, and under regulations calcu<lb break="no"/>lated to
                     protect them from imposition and extor<lb break="no"/>tion, its influence in
-                    cementing their interest <lb/>with ours could not but be considerable. </p>
-                <p> The prosperous state of our revenue has been <lb/>intimated–This would be
+                    cementing their interest <lb/>with ours could not but be considerable.</p>
+                <p>The prosperous state of our revenue has been <lb/>intimated–This would be
                     still more the case, <lb/>were it not for the impediments which in some
                     <cb/>
             <lb/>places continue to embarrass the collection of the <lb/>duties on
                     spirits, distilled within the United States. <lb/>These impediments have
                     lessened, and are lessened <lb/>in local extent; and as applied to the community
-                    <lb/>at large, the contentment with the law appears <lb/>to be progressive. </p>
-                <p> But symptoms of increased opposition having <lb/>lately manifested themselves in
+                    <lb/>at large, the contentment with the law appears <lb/>to be progressive.</p>
+                <p>But symptoms of increased opposition having <lb/>lately manifested themselves in
                     certain quarters, <lb/>I judged a special interposition on my part, proper
                     <lb/>and advisable, and under this impression have <lb/>issued a proclamation
                     warning against all unlaw<lb break="no"/>ful combinations and proceedings,
                     having for their <lb/>object or tending to obstruct the operation of <lb/>the
                     law in question, and announcing that all law<lb break="no"/>ful ways and means
                     would be strictly put in exe<lb break="no"/>cution for bringing to justice the
-                    infractors there<lb break="no"/>of and securing obedience thereto. </p>
-                <p> Measures have also been taken for the prosecu<lb break="no"/>tion of offenders.
+                    infractors there<lb break="no"/>of and securing obedience thereto.</p>
+                <p>Measures have also been taken for the prosecu<lb break="no"/>tion of offenders.
                     And Congress may be assured <lb/>that nothing within constitutional and legal
                     limits <lb/>which may depend upon me, shall be wanting to as<lb break="no"/>sert
                     and maintain the just authority of the laws. <lb/>In fulfilling this trust, I
                     shall count entirely upon <lb/>the full cooperation of the other departments of
-                    <lb/>the Government and upon the zealous support of <lb/>all good citizens. </p>
-                <p> I can not forbear to bring again into the view <lb/>of the Legislature the
+                    <lb/>the Government and upon the zealous support of <lb/>all good citizens.</p>
+                <p>I can not forbear to bring again into the view <lb/>of the Legislature the
                     subject of a revision of the <lb/>judiciary system. A representation from the
                         jud<lb break="no"/>ges of the supreme court, which will be laid be<lb break="no"/>fore you, points out some of the inconveniences <lb/>that are
                     experienced. In the course of the execu<lb break="no"/>tion of the laws
@@ -189,8 +191,8 @@
                     courts of the United <lb/>States, and a supplementary definition of offenses
                     <lb/>against the constitution and laws of the union, and <lb/>of the punishment
                     for such offenses will, it is pre<lb break="no"/>sumed, be found worthy of
-                    particular attention. </p>
-                <p> Observations on the value of peace with other <lb/>nations are unnecessary. It
+                    particular attention.</p>
+                <p>Observations on the value of peace with other <lb/>nations are unnecessary. It
                     would be wise, how<lb break="no"/>ever, by timely provisions to guard against
                     those <lb/>acts of our own citizens which might tend to dis<lb break="no"/>turb
                     it, and to put ourselves in a condition to <lb/>give that satisfaction to
@@ -202,79 +204,77 @@
                     And, in general, the <lb/>maintenance of a friendly intercourse with foreign
                     <lb/>powers will be presented to your attention by the <lb/>expiration of the
                     law for that purpose, which takes <lb/>place, if not renewed, at the close of
-                    the present <lb/>session. </p>
-                <p> In execution of the authority given by the le<lb break="no"/>gislature, measures
+                    the present <lb/>session.</p>
+                <p>In execution of the authority given by the le<lb break="no"/>gislature, measures
                     have been taken for engaging <lb/>some artists from abroad to aid in the
-                        establish<lb break="no"/>
-            <lb/>ment of our mint; others have been employed at
+                        establish<lb break="no"/>ment of our mint; others have been employed at
                     <lb/>home. Provision has been made of the requisite <lb/>buildings, and these
                     are now putting into proper <lb/>condition for the purposes of the
-                    establishment. <lb/>There has also been a small beginning in the coin<lb break="no"/>age of half dimes, the want of small coins in cir<lb break="no"/>culation calling the first attention to them. </p>
-                <p> The regulation of foreign coins in correspon<lb break="no"/>dency with the
+                    establishment. <lb/>There has also been a small beginning in the coin<lb break="no"/>age of half dimes, the want of small coins in cir<lb break="no"/>culation calling the first attention to them.</p>
+                <p>The regulation of foreign coins in correspon<lb break="no"/>dency with the
                     principles of our national coinage, <lb/>as being essential to their due
                     operation, and to <lb/>order in our money concerns, will, I doubt not, be
-                    <lb/>resumed and completed. </p>
-                <p> It is represented that some provisions in the <lb/>law, which establishes the
+                    <lb/>resumed and completed.</p>
+                <p>It is represented that some provisions in the <lb/>law, which establishes the
                     Post-Office, operate, <lb/>in experiment, against the transmission of news<lb break="no"/>papers to distant parts of the country.–Should <lb/>this,
                     upon due enquiry, be found to be the fact, <lb/>a full conviction of the
                     importance of facilitating <lb/>the circulation of political intelligence and
                         infor<lb break="no"/>
          </p>
                 <p>
-            <pb/>mation, will, I doubt not, lead to the application <lb/>of a remedy. </p>
-                <p> The adoption of a constitution for the state of <lb/>Kentucky, has been notified
+            <pb/>mation, will, I doubt not, lead to the application <lb/>of a remedy.</p>
+                <p>The adoption of a constitution for the state of <lb/>Kentucky, has been notified
                     to me. The legis<lb break="no"/>lature will share with me in the satisfaction
                     which <lb/>arises from an event interesting to the happiness <lb/>of the part of
-                    the nation to which it relates, and <lb/>conducive to the general order. </p>
-                <p> It is proper likewise to inform you, that since <lb/>my last communication on
-                    the subject, and in <lb/>further execution of the acts, severally making
+                    the nation to which it relates, and <lb/>conducive to the general order.</p>
+                <p>It is proper likewise to inform you, that since <lb/>my last communication on the
+                    subject, and in <lb/>further execution of the acts, severally making
                     <lb/>provision for the public debt, and for the reduc<lb break="no"/>tion
                     thereof, three new loans have been effected, <lb/>each for three millions of
                     florins,–one at Ant<lb break="no"/>werp, at the annual interest of four
                     and one-half <lb/>per cent. with an allowance of four per cent. in <lb/>lieu of
                     all charges.–The rates of these loans, and <lb/>the circumstances under
                     which they have been <lb/>made are confirmations of the high state of our
-                    <lb/>credit abroad. </p>
-                <p> Among the objects to which these funds have <lb/>been directed to be applied,
-                    the payment of the <lb/>debts due to certain foreign officers, according to
-                    <lb/>the provision made during the last session, has <lb/>been embraced. </p>
+                    <lb/>credit abroad.</p>
+                <p>Among the objects to which these funds have <lb/>been directed to be applied, the
+                    payment of the <lb/>debts due to certain foreign officers, according to <lb/>the
+                    provision made during the last session, has <lb/>been embraced.</p>
                 <p>
-            <hi rend="italic">Gentlemen of the House of Representatives</hi>, </p>
-                <p> I entertain a strong hope, that the state of the <lb/>national finances is now
+            <hi rend="italic">Gentlemen of the House of Representatives</hi>,</p>
+                <p>I entertain a strong hope, that the state of the <lb/>national finances is now
                     sufficiently matured to <lb/>enable you to enter upon a systematic and effec<lb break="no"/>
             <lb/>tual arrangement for the regular redemption and
                     <lb/>discharge of the public debt, according to the <lb/>right which has been
                     reserved to the government <lb/>–no measure can be more desirable,
                     whether view<lb break="no"/>ed with an eye to its intrinsic importance, or to
-                    <lb/>the general sentiment and wish of the nation. </p>
-                <p> Provision is likewise requisite for the reimburse<lb break="no"/>ment of the
-                    loan which has been made of the <lb/>Bank of the United States, pursuant to the
+                    <lb/>the general sentiment and wish of the nation.</p>
+                <p>Provision is likewise requisite for the reimburse<lb break="no"/>ment of the loan
+                    which has been made of the <lb/>Bank of the United States, pursuant to the
                         sec<lb break="no"/>tion of the act by which it is incorporated. <lb/>In
                     fulfilling the public stipulations, in this particular, <lb/>it is expected a
-                    valuable saving will be made. </p>
-                <p> Appropriations for the current service of the en<lb break="no"/>suing year and
+                    valuable saving will be made.</p>
+                <p>Appropriations for the current service of the en<lb break="no"/>suing year and
                     for such extraordinaries as may <lb/>require provision, will demand, and I doubt
-                    not <lb/>will engage, your early attention. </p>
+                    not <lb/>will engage, your early attention.</p>
                 <p>
             <hi rend="italic">Gentlemen of the Senate and of the House of
-                        Representatives</hi>, </p>
-                <p> I content myself with recalling your attention, <lb/>generally to such objects,
+                        Representatives</hi>,</p>
+                <p>I content myself with recalling your attention, <lb/>generally to such objects,
                     not particularized in <lb/>my present, as have been suggested in my former
-                    <lb/>communications to you. </p>
-                <p> Various temporary laws will expire during the <lb/>present session. Among these,
+                    <lb/>communications to you.</p>
+                <p>Various temporary laws will expire during the <lb/>present session. Among these,
                     that which regu<lb break="no"/>lates trade and intercourse with the Indian
-                    tribes, <lb/>will merit particular notice. </p>
-                <p> The results of your common deliberations hi<lb break="no"/>therto will, I trust,
+                    tribes, <lb/>will merit particular notice.</p>
+                <p>The results of your common deliberations hi<lb break="no"/>therto will, I trust,
                     be productive of solid and <lb/>durable advantages to our constituents; such as,
                     <lb/>by conciliating more and more their ultimate suf<lb break="no"/>frage, will
                     tend to strengthen and confirm their <lb/>attachment, upon which, under Divine
                     Providence, <lb/>materially depend their union, their safety, and <lb/>their
-                    happiness. </p>
-                <p> Still further to promote and secure these inesti<lb break="no"/>mable ends there
+                    happiness.</p>
+                <p>Still further to promote and secure these inesti<lb break="no"/>mable ends there
                     is nothing which can have a <lb/>more powerful tendency, than the careful
-                        culti<lb break="no"/>
-            <lb/>vation of harmony, combined with a due regard
-                    <lb/>to stability, in the public councils. </p>
+                        culti<lb break="no"/>vation of harmony, combined with a due regard <lb/>to
+                    stability, in the public councils.</p>
                 <p/>
             </body>
         </text>

@@ -9,10 +9,11 @@
                     <title>335</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141019 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141019 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-05-09"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,36 +68,36 @@
         <text>
             <body>
                 <p>
-            <pb n="2"/>
-            <hi rend="center">
+                    <pb n="2"/>
+                    <hi rend="center">
                <hi rend="italic">Halifax, April</hi> 6. </hi>
-         </p>
-                <p> The late violent rains have done much damage <lb/>in the country:–The
+                </p>
+                <p>The late violent rains have done much damage <lb/>in the country:–The
                     bridge at Sackville is near<lb break="no"/>ly torn down, and the Mill there is
                     much injured: <lb/>the Bridge at Nine Mills River is partly carried <lb/>away;
                     and the different roads and causeways are <lb/>supposed to have suffered more
-                    than 2000l. will <lb/>repair. </p>
-                <p> Since the retreat of the f–eral troops, under <lb/>General Harmar, the
+                    than 2000l. will <lb/>repair.</p>
+                <p>Since the retreat of the f–eral troops, under <lb/>General Harmar, the
                     Miami Indians have com<lb break="no"/>mitted unparalleled cruelties. A large
                     body of <lb/>them, on the 2d of February, attacked the settle<lb break="no"/>ments called Big Bottom, twenty miles from <lb/>Harman, on the Muilsingam,
                     which they entire<lb break="no"/>ly destroyed. Eleven men and two children were
-                        <pb n="3"/> massacred, two escaped and three were taken <lb/>prisoners. </p>
+                        <pb n="3"/> massacred, two escaped and three were taken <lb/>prisoners.</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">Boston</hi>. </hi>
-         </p>
-                <p> The amount of the value of theexports from <lb/>the United States, for thirteen
+                </p>
+                <p>The amount of the value of theexports from <lb/>the United States, for thirteen
                     months, agreeable <lb/>to an estimate made at the Office of the Treasury,
-                    <lb/>in 20,000,000 dollars. </p>
-                <p> The greatest apprehensions are entertained of <lb/>an invasion from our savage
+                    <lb/>in 20,000,000 dollars.</p>
+                <p>The greatest apprehensions are entertained of <lb/>an invasion from our savage
                     neighbours; as ac<lb break="no"/>counts from Philadelphia state, that there has
                     <lb/>been a confederation of all the South West Indians <lb/>to fall on our
-                    frontiers early in the spring. </p>
-                <p> Similiar apprehensions have driven the inhabi<lb break="no"/>tants in the
-                    country of Marcetta, from their plan<lb break="no"/>tations into the city, where
-                    they do military duty. </p>
-                <p> According to the late Census, the number of <lb/>inhabitants in this
-                    commonwealth is 470,000. </p>
+                    frontiers early in the spring.</p>
+                <p>Similiar apprehensions have driven the inhabi<lb break="no"/>tants in the country
+                    of Marcetta, from their plan<lb break="no"/>tations into the city, where they do
+                    military duty.</p>
+                <p>According to the late Census, the number of <lb/>inhabitants in this commonwealth
+                    is 470,000.</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">Philadelphia, April</hi> 7.</hi>
@@ -106,10 +107,10 @@
                     other things, we were dissatisfied that not <lb/>any notice was taken of
                     Religion, as we wanted <lb/>it expressly declared, that not any sect should e<lb break="no"/>ver be established in preference to another.–This <lb/>is
                     now done. In this part of the world we know <lb/>not any thing of
-                    Toleration–all are equally free. </p>
-                <p> It is said we have land for upwards of an hun<lb break="no"/>dred millions of
+                    Toleration–all are equally free.</p>
+                <p>It is said we have land for upwards of an hun<lb break="no"/>dred millions of
                     people; we are yet about three, <lb/>so that,for sometime we have have not any
-                    great <lb/>cause to fight for territory. </p>
+                    great <lb/>cause to fight for territory.</p>
             </body>
         </text>
     </TEI>

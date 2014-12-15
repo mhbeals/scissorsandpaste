@@ -9,8 +9,9 @@
                     <title>76</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-11-22"/>
                         </publicationStmt>
                     </biblFull>
@@ -52,24 +53,25 @@
             <body>
                 <p>
             <pb/>On Tuesday afternoon the six Cherokee Chiefs <lb/>visited the Cathedreal of
-                    St. Paul's, which they <lb/>explain[?] with an equal degree of curiosity and </p>
+                    St. Paul's, which they <lb/>explain[?] with an equal degree of curiosity and</p>
                 <p>
             <pb/>amazement. They were asked whether they <lb/>would not attend the evening
-                    service, which they <lb/>readily complied, and seemed particularly de<lb break="no"/>lighted with the organ. </p>
-                <p> The Cherokee Chiefs having made us an offer <lb/>of 20,000 men, gratitude
-                    obliges us to make <lb/>them some acknowledgement, whether we accept <lb/>their
-                    offer or not.–We can very well spare them <lb/>the members of the <hi rend="italic">Halter Club</hi>,–all our house<lb break="no"/>breakers, highwaymen, pick pockets, swindlers, <lb/>Faro and E O Table
-                    keepers,–and all their ac<lb break="no"/>complices to an amazing number. </p>
-                <p> Such a collection would be a truly valuable <lb/>present.–Among them are
+                    service, which they <lb/>readily complied, and seemed particularly de<lb break="no"/>lighted with the organ.</p>
+                <p>The Cherokee Chiefs having made us an offer <lb/>of 20,000 men, gratitude obliges
+                    us to make <lb/>them some acknowledgement, whether we accept <lb/>their offer or
+                    not.–We can very well spare them <lb/>the members of the <hi rend="italic">Halter Club</hi>,–all our house<lb break="no"/>breakers, highwaymen, pick pockets, swindlers, <lb/>Faro and E O Table
+                    keepers,–and all their ac<lb break="no"/>complices to an amazing
+                    number.</p>
+                <p>Such a collection would be a truly valuable <lb/>present.–Among them are
                     found dispersedly all <lb/>the qualitities of able Generals,–skilful
                     Financiers, <lb/>–able Negotiators, active Citizens,–and men
-                    <lb/>highly expert at a <hi rend="italic">Coup de Main</hi>. </p>
-                <p> Were we to add the Pugilistic tribe,–the <lb/>Cherokee Chiefs might on
+                    <lb/>highly expert at a <hi rend="italic">Coup de Main</hi>.</p>
+                <p>Were we to add the Pugilistic tribe,–the <lb/>Cherokee Chiefs might on
                     their return to their <lb/>own country enter into a boxing war against their
-                    <lb/>enemies–with a certainty of the most brilliant <lb/>success. </p>
-                <p> Trading Justices and Lawyers they would per<lb break="no"/>haps be glad to have
-                    ; and it is the opinion of <lb/>most people, that a few thousands of the latter
-                    <lb/>description of men might be spared. </p>
+                    <lb/>enemies–with a certainty of the most brilliant <lb/>success.</p>
+                <p>Trading Justices and Lawyers they would per<lb break="no"/>haps be glad to have ;
+                    and it is the opinion of <lb/>most people, that a few thousands of the latter
+                    <lb/>description of men might be spared.</p>
             </body>
         </text>
     </TEI>

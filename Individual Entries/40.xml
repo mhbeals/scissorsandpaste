@@ -9,8 +9,9 @@
                     <title>40</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-14"/>
                         </publicationStmt>
                     </biblFull>
@@ -59,12 +60,12 @@
         <text>
             <body>
                 <p>
-            <pb n="4"/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Dominica,
-                            Sept. </hi> 6.</hi>
-         </p>
-                <p> "This day week the most diabolical design that <lb/>that ever was formed, was
+                    <pb n="4"/>
+                    <hi rend="center">
+               <hi rend="italic">Extract of a letter from Dominica, Sept.
+                        </hi> 6.</hi>
+                </p>
+                <p>"This day week the most diabolical design that <lb/>that ever was formed, was
                     discovered in Martinico : It <lb/>was an insurrection of the negroes, who were
                     that <lb/>night to have set fire to the large and beautiful <lb/>town of St.
                     Pierre ; while the white people were <lb/>all in confusion, and striving to

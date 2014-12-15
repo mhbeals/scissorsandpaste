@@ -9,8 +9,9 @@
                     <title>294</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1840-08-15"/>
                         </publicationStmt>
                     </biblFull>
@@ -58,7 +59,7 @@
                     Hobart Town and Lan[?]<lb break="no"/>ceston ; four for Port-Philip, and give
                     for South Aus<lb break="no"/>tralia ; being a greater number of emigrant ships
                     for <lb/>the southern hemisphere on the berth at one time than <lb/>was every
-                    previously known. </p>
+                    previously known.</p>
             </body>
         </text>
     </TEI>

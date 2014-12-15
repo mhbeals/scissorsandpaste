@@ -9,8 +9,9 @@
                     <title>194</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1824-01-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -54,15 +55,14 @@
             <pb/>William and James Nisbet, and William Kerr, prisoners in the <lb/>jail here,
                     accused of housebreaking and theft, have been indicted <lb/>and are to be tried
                     before the High Court of Justiciary, on the 26th <lb/>instant. The two Nisbets
-                    are brothers. </p>
-                <p> By the arrival of the brig <hi rend="italic">Minerva</hi>, from Sydney, New
-                    South <lb/>Wales, which place she left in February last, we learn, that the
-                        <lb/>
-            <hi rend="italic">Morley</hi> had arrived there on the 7th of that
-                    month, with a detach<lb break="no"/>ment of the Buffs regiment, under the
-                    command of Lieutenant and <lb/>Adjutant Mackay. She had previously touched at
-                    Hobart Town, <lb/>Van Dieman's Land, where she landed 170 male convicts, two
-                    <lb/>having died on the passage. </p>
+                    are brothers.</p>
+                <p>By the arrival of the brig <hi rend="italic">Minerva</hi>, from Sydney, New South
+                    <lb/>Wales, which place she left in February last, we learn, that the <lb/>
+            <hi rend="italic">Morley</hi> had arrived there on the 7th of that month, with a
+                        detach<lb break="no"/>ment of the Buffs regiment, under the command of
+                    Lieutenant and <lb/>Adjutant Mackay. She had previously touched at Hobart Town,
+                    <lb/>Van Dieman's Land, where she landed 170 male convicts, two <lb/>having died
+                    on the passage.</p>
                 <p/>
             </body>
         </text>

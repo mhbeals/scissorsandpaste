@@ -9,8 +9,9 @@
                     <title>278</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1839-06-05"/>
                         </publicationStmt>
                     </biblFull>
@@ -69,11 +70,11 @@
             <lb/>
             <hi rend="italic">Gardens, 24th May.</hi>
          </p>
-                <p> By the death of Sir James Montgomery, the office <lb/>of Presenter of Signatures
+                <p>By the death of Sir James Montgomery, the office <lb/>of Presenter of Signatures
                     in Scotland has become va<lb break="no"/>cant. We understand that this office is
-                    no longer to <lb/>be conducted by deputy. </p>
-                <p> On Thursday the 23d ult. the United Associate <lb/>Congregation, Kendal, gave a
-                    unanimous call to Mr <lb/>William Ritchie, preacher, to be their pastor. </p>
+                    no longer to <lb/>be conducted by deputy.</p>
+                <p>On Thursday the 23d ult. the United Associate <lb/>Congregation, Kendal, gave a
+                    unanimous call to Mr <lb/>William Ritchie, preacher, to be their pastor.</p>
             </body>
         </text>
     </TEI>

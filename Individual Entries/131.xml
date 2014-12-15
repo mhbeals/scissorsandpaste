@@ -9,8 +9,9 @@
                     <title>131</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1818-02-26"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,13 +52,13 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Interesting Communication from Canada</hi>
-         </p>
+                    <pb/>
+                    <hi rend="smallcaps">Interesting Communication from Canada</hi>
+                </p>
                 <p>
-            <hi rend="smallcaps">To the Editor of the Edinburgh Weekly Journal</hi>
-         </p>
-                <p> SIR–It will be remember by many of your Readers, that, in the spring of
+                    <hi rend="smallcaps">To the Editor of the Edinburgh Weekly Journal</hi>
+                </p>
+                <p>SIR–It will be remember by many of your Readers, that, in the spring of
                     1815, proclamations were widely circulated, inviting settlers to
                     Canada.–Having myself occasion <lb/>to visit this country, I was curious
                     to know what had been the result, especially as I found at Quebec and Montreal
@@ -185,12 +186,12 @@
                     jun. <lb/>Ditto. 0. 0. 0. Ditto. Ditto. Ditto. Ditto. Ditto. Ditto. and another
                     smaller house. Shares in the above. James Donaldson. <lb/>Ditto. 0. 0. 0. Ditto.
                     Ditto. Ditto. Ditto. Ditto. Ditto. and another smaller house. Shares in the
-                    above. John Donaldson </p>
-                <p> N. B. –Out of the whole number settled in this quarter only two have
+                    above. John Donaldson</p>
+                <p>N. B. –Out of the whole number settled in this quarter only two have
                     quitted their land. Five or six I did not see, being from home, or out of my
                     route ; and one man only refused <lb/>giving an account. Each settled has 100
                     acres of land. D. G. <lb/>Those wives and sons to whom an asterisk (*) is
-                    prefixed, have been left at home. </p>
+                    prefixed, have been left at home.</p>
             </body>
         </text>
     </TEI>

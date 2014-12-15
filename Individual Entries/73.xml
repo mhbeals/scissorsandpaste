@@ -9,8 +9,7 @@
                     <title>73</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130513 by M. H. Beals.
-                        Transcribed by <persName>Max Templer</persName>. </authority>
+                    <authority> Collected from a digital image on 20130513 by <persName role="collection">M. H. Beals.</persName> Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -25,12 +24,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-11-19"/>
                         </publicationStmt>
                     </biblFull>
@@ -62,10 +61,10 @@
         <text>
             <body>
                 <p>
-            <pb n="2"/>
-            <hi rend="smallcaps">Court of Chancery.</hi>
-            <lb/>
-            <hi rend="center">
+                    <pb n="2"/>
+                    <hi rend="smallcaps">Court of Chancery.</hi>
+                    <lb/>
+                    <hi rend="center">
                <hi rend="italic">The</hi>
                <hi rend="smallcaps">King</hi>, <hi rend="italic">at the relation of the</hi>
                <hi rend="smallcaps">Bishop</hi>
@@ -73,17 +72,17 @@
                <hi rend="smallcaps">Lon</hi>
                <lb break="no"/>
             </hi>
-            <lb/>
-            <hi rend="center">
+                    <lb/>
+                    <hi rend="center">
                <hi rend="smallcaps">don</hi>, <hi rend="italic">versus</hi>
                <hi rend="smallcaps">Anderson</hi>
                <hi rend="italic">and</hi>
                <hi rend="smallcaps">Gipps</hi>.</hi>
-         </p>
-                <p> On the 18th of June, 1692, the Hon. Mr. <lb/>Boyle left by will the sum of
-                    5400l. to be laid <lb/>out in lands in Yorkshire, out of the rents of which
-                    <lb/>the sum of 90l. was to be paid annually to the <lb/>College of William and
-                    Mary, in New England, <lb/>to be applied for the purpose of propagating the
+                </p>
+                <p>On the 18th of June, 1692, the Hon. Mr. <lb/>Boyle left by will the sum of 5400l.
+                    to be laid <lb/>out in lands in Yorkshire, out of the rents of which <lb/>the
+                    sum of 90l. was to be paid annually to the <lb/>College of William and Mary, in
+                    New England, <lb/>to be applied for the purpose of propagating the
                     <lb/>Christian religion amongst the Indians in the back <lb/>settlements in
                     North America ; and likewise a <lb/>further sum of 45l. to be paid to the same
                     College, <lb/>for the support of two missionaries to preach the <lb/>gospel. The

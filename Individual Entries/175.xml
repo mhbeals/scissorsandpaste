@@ -9,8 +9,9 @@
                     <title>175</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1821-01-31"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,16 +52,15 @@
         <text>
             <body>
                 <p>
-            <pb/>Colonial Intelligence </p>
+            <pb/>Colonial Intelligence</p>
                 <p>
             <hi rend="italic">Success of the Cutch Expedition against the
                     Sindeans</hi>
             <lb/>–The following extract of a letter from Bombay
                     <lb/>bringing this intelligence, we copy from Carrick's <lb/>Post, which appears
-                    to have exclusive means of obtain<lb break="no"/>
-            <lb/>ing information on India
-                    affairs:– </p>
-                <p> "Bombay, Sept. 12, 1820. <lb/>"While I was seeing the last of your goods on
+                    to have exclusive means of obtain<lb break="no"/>ing information on India
+                    affairs:–</p>
+                <p>"Bombay, Sept. 12, 1820. <lb/>"While I was seeing the last of your goods on
                     <lb/>board, last night, a vessel arrived in the harbour hav<lb break="no"/>ing
                     on board an officer from Cutch, who was the hear<lb break="no"/>er of the
                     official intelligence of the complete success <lb/>of Sir Charles Culville's
@@ -84,7 +84,7 @@
                     are a drug hee, paricularly fine goods ; and <lb/>rum, brandy, and geneva, are
                     for a song. The cho<lb break="no"/>lera has rather abated, but still rages in a
                     frightful <lb/>manner."</p>
-                <p> The Rio Janeiro packet arrived on Tuesday with let<lb break="no"/>ters to the
+                <p>The Rio Janeiro packet arrived on Tuesday with let<lb break="no"/>ters to the
                     21st of November. Advices had been re<lb break="no"/>ceived from Rio Grande,
                     stating that Artigas had been <lb/>taken prisoner. The Portuguese frigate,
                     Union, had <lb/>captured two insurgent privateers which had been com<lb break="no"/>mitting depredations on the coast. The events in Por<lb break="no"/>tugal, owing to which, as well as to the idea that the <lb/>King
@@ -92,8 +92,8 @@
                     prices of produce had ex<lb break="no"/>perienced very trifling alteration,
                     though, if the con<lb break="no"/>trary should be the case, a considerable rise
                     was anti<lb break="no"/>cipated. The following relates to what is passing in
-                    <lb/>Peru :– </p>
-                <p> Extract of a letter from Rio Janeiro, dated Novem<lb break="no"/>ber 20
+                    <lb/>Peru :–</p>
+                <p>Extract of a letter from Rio Janeiro, dated Novem<lb break="no"/>ber 20
                     :–" The Chilians have at length carried into <lb/>effect their boasted
                     expedition, which left Valparaiso <lb/>on the 21st August, and arrived at Pisco
                     at the begin<lb break="no"/>ning of September. San Martin landed 4,500 men,
@@ -120,8 +120,8 @@
                     <lb/>orders had been received from Madrid. This of itself <lb/>is sufficient to
                     defeat all views Cochrane and San Mar<lb break="no"/>tin may have on the
                     country, except, as before, a lit<lb break="no"/>tle plunder on the open and
-                    defenceless parts of the <lb/>coast. </p>
-                <p> Letters from Sierra Leone, dated the 24th of Nov. <lb/>mention that the whole
+                    defenceless parts of the <lb/>coast.</p>
+                <p>Letters from Sierra Leone, dated the 24th of Nov. <lb/>mention that the whole
                     squadron was lying there.– <lb/>The Pheasant, Myrmidon, Snapper, and
                     Thistle, were <lb/>lying off the Cape, waiting for the Morgiana to com<lb break="no"/>plete her water, provisions, &amp;c. which ship was oblig<lb break="no"/>ed to be assisted by the squadron, in consequence of <lb/>her
                     very sickly state. She had recently arrived from <lb/>the River Gambia, whither
@@ -134,7 +134,7 @@
                     under Major Gray, for exploring <lb/>Africa. Dr D. had been at Sago ; but, in
                         conse<lb break="no"/>quence of internal wars, he was unable to proceed
                     <lb/>further. Major Gray was there with very few men ; <lb/>he will not proceed
-                    further for some time. </p>
+                    further for some time.</p>
                 <p/>
             </body>
         </text>

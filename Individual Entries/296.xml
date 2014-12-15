@@ -9,8 +9,9 @@
                     <title>296</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1840-12-05"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,15 +52,15 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration to New Zealand–</hi>
-            <lb/>
-            <hi rend="smallcaps">The Chartists Again.</hi>
-         </p>
-                <p> (<hi rend="italic">From the Glasgow Argus.</hi>) </p>
-                <p> On Monday night a public meeting, chiefly com<lb break="no"/>posed of the
-                    working classes, was held in the Justi<lb break="no"/>ciary Court Hall, Glasgow,
-                    for the purpose of memo<lb break="no"/>rializing Lord John Russell in favour of
+                    <pb/>
+                    <hi rend="smallcaps">Emigration to New Zealand–</hi>
+                    <lb/>
+                    <hi rend="smallcaps">The Chartists Again.</hi>
+                </p>
+                <p>(<hi rend="italic">From the Glasgow Argus.</hi>)</p>
+                <p>On Monday night a public meeting, chiefly com<lb break="no"/>posed of the working
+                    classes, was held in the Justi<lb break="no"/>ciary Court Hall, Glasgow, for the
+                    purpose of memo<lb break="no"/>rializing Lord John Russell in favour of
                     obtaining <lb/>the Lord Provost in the chair. The hall was crowded <lb/>to
                     excess, and it was perfectly evident from the first that <lb/>the Chartists had
                     mustered in great strength to carry <lb/>out their usual course of obstruction
@@ -124,7 +125,7 @@
                     till the Chartists were called upon to be at <lb/>their posts at the meeting to
                     be held to-day to address <lb/>the Queen–to render themselves, of course,
                     a little <lb/>more odious by another stretch of their obstructive
-                    <lb/>power–if they can. </p>
+                    <lb/>power–if they can.</p>
                 <p/>
             </body>
         </text>

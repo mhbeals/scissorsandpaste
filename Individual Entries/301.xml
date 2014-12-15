@@ -9,8 +9,9 @@
                     <title>301</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1841-09-22"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,10 +52,10 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">New Zealand Company</hi>
-         </p>
-                <p> A very lively and interesting scene occurred on Fri<lb break="no"/>day, off the
+                    <pb/>
+                    <hi rend="smallcaps">New Zealand Company</hi>
+                </p>
+                <p>A very lively and interesting scene occurred on Fri<lb break="no"/>day, off the
                     West India Dock entrance, at Blackwall, <lb/>by the preparation for departure of
                     three fine vessels <lb/>with "improvers" for "Nelson," the second colony of
                     <lb/>New Zealand. The Directors of the Company and <lb/>several hundred persons
@@ -79,7 +80,7 @@
                     other distinguished speakers on both <lb/>sides of politics, and its many
                     advantages were dwelt <lb/>upon with much sincerity of feeling. Several
                         gentle<lb break="no"/>men of the first families go out with this expedition,
-                    <lb/>which will be closely followed by several first-rate <lb/>ships. </p>
+                    <lb/>which will be closely followed by several first-rate <lb/>ships.</p>
                 <p/>
             </body>
         </text>

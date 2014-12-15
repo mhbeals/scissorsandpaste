@@ -9,8 +9,9 @@
                     <title>286</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1839-09-11"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,16 +52,15 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Selected Poetry</hi>
-         </p>
+                    <pb/>
+                    <hi rend="smallcaps">Selected Poetry</hi>
+                </p>
                 <p>
-            <hi rend="smallcaps">The Woodland,</hi>
-            <lb/>
-            <hi rend="smallcaps">By the Late
-                        Robert Nicoll.</hi>
-         </p>
-                <p> The woodland wild ! – wilt thou go with me, <lb/>Where the squirrel is
+                    <hi rend="smallcaps">The Woodland,</hi>
+                    <lb/>
+                    <hi rend="smallcaps">By the Late Robert Nicoll.</hi>
+                </p>
+                <p>The woodland wild ! – wilt thou go with me, <lb/>Where the squirrel is
                     perchen on his oaken tree,– <lb/>where the yellow fern doth wave its
                     head,– <lb/>Where the hands of night the dew hath laid,– <lb/>And
                     the winds, that wander to and fro, <lb/>Kiss the brown leaflets as they
@@ -127,7 +127,7 @@
                     stormy deep <lb/>We'll plough a smiling land. <lb/>
             <hi rend="smallcaps">T.
                         Campbell</hi>
-            <lb/>London, 16th August, 1839. </p>
+            <lb/>London, 16th August, 1839.</p>
                 <p/>
             </body>
         </text>

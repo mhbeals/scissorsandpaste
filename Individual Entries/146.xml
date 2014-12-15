@@ -9,8 +9,9 @@
                     <title>146</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1819-06-28"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,11 +52,11 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Letter from Mr Morris Birkbeck</hi>
-         </p>
-                <p> "English Prairie, (Illinoia,) Nov.25. 1818. </p>
-                <p> "<hi rend="smallcaps">Sir</hi> – Your favour of 15th June is before me.
+                    <pb/>
+                    <hi rend="smallcaps">Letter from Mr Morris Birkbeck</hi>
+                </p>
+                <p>"English Prairie, (Illinoia,) Nov.25. 1818.</p>
+                <p>"<hi rend="smallcaps">Sir</hi> – Your favour of 15th June is before me.
                     <lb/>Presuming you retain a copy of the queries, I <lb/>proceed to answer then
                     in order: – Respecting <lb/>domestic servants ; what may be the condition
                     of <lb/>our colony in two years it is impossible to foresee, <lb/>but should it
@@ -117,7 +118,7 @@
                     rapid and soon <lb/>dry ; the larger sluggish in the extreme – cat<lb break="no"/>fish, perch, sturgeons abound, and many others <lb/>I believe. I
                     think 1000 dollars would build a <lb/>comfortable plain dwelling. – Your
                     obedient ser<lb break="no"/>vant, <hi rend="smallcaps">M. Birkbeck</hi>."</p>
-                <p> "Directed to W. Wilson, Esq.<lb/>Batson's Coffeehouse, London."</p>
+                <p>"Directed to W. Wilson, Esq.<lb/>Batson's Coffeehouse, London."</p>
                 <p/>
             </body>
         </text>

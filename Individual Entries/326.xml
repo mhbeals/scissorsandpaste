@@ -9,10 +9,11 @@
                     <title>326</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141010 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-09-20"/>
                         </publicationStmt>
                     </biblFull>
@@ -77,9 +78,9 @@
                     <lb/>house, and the fences renewed such impressions, <lb/>as to be discovered at
                     90 yards distance. Many <lb/>of the hailstones were as large as hens
                     eggs–the <lb/>common size was a little more than an inch in di<lb break="no"/>ameter. Twenty-give hours after it fell, banks <lb/>of it were
-                    measured at the foot of a hill, and <lb/>found to be 20 inches deep. </p>
-                <p> The Saturday following great damage was <lb/>
-            <supplied reason="copy blur">???</supplied> by hail at Shrewsbury, country of Worces<lb break="no"/>ster. </p>
+                    measured at the foot of a hill, and <lb/>found to be 20 inches deep.</p>
+                <p>The Saturday following great damage was <lb/>
+            <supplied reason="copy blur">???</supplied> by hail at Shrewsbury, country of Worces<lb break="no"/>ster.</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">August</hi> 15.</hi>
@@ -88,13 +89,13 @@
                     grain, and blew down, in many <lb/>places, an immense quantity of timber. The
                     <lb/>hail in this storm was of an extraordinary appear<lb break="no"/>ance; part
                     of it being about two inches long, <lb/>and of a very considerable
-                    circumference. </p>
-                <p> On Saturday, the 1st inst. arrived at Wilming<lb break="no"/>ton, Delaware, the
-                    brig Maria, Capt. fort, from <lb/>Londonderry, with 200 passengers. </p>
-                <p> On the 4th inst. arrived at Philadelphia, the <lb/>Happy Return, Capt. Ewing, in
+                    circumference.</p>
+                <p>On Saturday, the 1st inst. arrived at Wilming<lb break="no"/>ton, Delaware, the
+                    brig Maria, Capt. fort, from <lb/>Londonderry, with 200 passengers.</p>
+                <p>On the 4th inst. arrived at Philadelphia, the <lb/>Happy Return, Capt. Ewing, in
                     8 weeks <lb/>from Londonderry, brought 340 passengers in <lb/>good health: Capt.
                     Ewing parted, near the <lb/>Capes of Delaware, with the ship Sally, Capt.
-                    <lb/>Miller, with passengers from Londonderry for <lb/>that port also. </p>
+                    <lb/>Miller, with passengers from Londonderry for <lb/>that port also.</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">Pennsylvania, July</hi> 21.</hi>
@@ -104,15 +105,15 @@
                     The lightning struck in at the gable and <lb/>just at the instant that Mr.
                     Garrison was in the <lb/>centre of the floor, walking towards the window;
                     <lb/>his brother was standing within two yards of him <lb/>when he fell, but
-                    providentially received not the <lb/>smallest hurt. </p>
-                <p> We also learn, that Patrick M'Sherry, of Lit<lb break="no"/>tle's-town, in this
-                    county, had two cows killed <lb/>by lightning, the same evening. </p>
+                    providentially received not the <lb/>smallest hurt.</p>
+                <p>We also learn, that Patrick M'Sherry, of Lit<lb break="no"/>tle's-town, in this
+                    county, had two cows killed <lb/>by lightning, the same evening.</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">New London, July</hi> 30.</hi>
             <lb/>A slight
                     shock of an earthquake was fel tin this <lb/>and the neighhbouring towns, on
-                    Sunday morning <lb/>last, about thirty minutes past five o'clock. </p>
+                    Sunday morning <lb/>last, about thirty minutes past five o'clock.</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">Middletown, July</hi> 25.</hi>
@@ -123,17 +124,16 @@
                     <lb/>shaking of houses, but no damage was done.– <lb/>The Tuesday
                     preceding, about six or seven miles <lb/>to the southward of this place, a
                     similar but hea<lb break="no"/>vier noise was heard, attended with the like
-                        com<lb break="no"/>motion. </p>
+                        com<lb break="no"/>motion.</p>
                 <p>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Dartmouth,
-                            (Connecticut)</hi>
-            </hi>
-            <lb/>
-            <hi rend="center">
+                    <hi rend="center">
+                        <hi rend="italic">Extract of a letter from Dartmouth, (Connecticut)</hi>
+                    </hi>
+                    <lb/>
+                    <hi rend="center">
                <hi rend="italic">July</hi> 26.</hi>
-         </p>
-                <p> "Some days ago a house near the college, <lb/>was struck by lightning, and a
+                </p>
+                <p>"Some days ago a house near the college, <lb/>was struck by lightning, and a
                     child therein kill<lb break="no"/>ed. Since that a woman was killed by the same
                     <lb/>means in Cornish, a town adjoining Dartmouth, <lb/>as she sat in her house
                     at work. Later still at <lb/>Hampton, in New York state, a yoke of oxen
@@ -146,15 +146,15 @@
                     losses; accounts having just come to hand, <lb/>that on last Monday morning a
                     woman in FPlain<lb break="no"/>field was safely delivered of four girls at a
                         <supplied reason="copy blur">???</supplied>; <lb/>one of whom died the night
-                    following, the rest <lb/>likely to do well." </p>
-                <p> Saturday, at a tavern near the market, the <lb/>following specimen of
+                    following, the rest <lb/>likely to do well."</p>
+                <p>Saturday, at a tavern near the market, the <lb/>following specimen of
                     gormandising was <supplied reason="copy blur">???</supplied>
             <lb/>ed :–A
                     person, not for any bet, or without <lb/>any other inducement, than the craving
                     of the <lb/>stomach,eat, at one meal, a shoulder of roast lamb, <lb/>3 slices of
                     bacon, three quarters of a pound of <lb/>cheese, 15 large cucumbers, one half of
                     an 8d <lb/>wheat loaf, a plate of cold potatoes, and drank <lb/>a quarter of
-                    cider. </p>
+                    cider.</p>
             </body>
         </text>
     </TEI>

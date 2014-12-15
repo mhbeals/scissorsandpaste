@@ -9,8 +9,9 @@
                     <title>75</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-11-19"/>
                         </publicationStmt>
                     </biblFull>
@@ -59,13 +60,13 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="center">
-               <hi rend="italic">CURIOUS ADVERTISEMENT</hi>
-            </hi>
-            <lb/>
-            <hi rend="center">From the PITTSBURGH GAZETTE</hi>
-         </p>
+                    <pb/>
+                    <hi rend="center">
+                        <hi rend="italic">CURIOUS ADVERTISEMENT</hi>
+                    </hi>
+                    <lb/>
+                    <hi rend="center">From the PITTSBURGH GAZETTE</hi>
+                </p>
                 <p>
             <hi rend="right">
                <hi rend="italic">Pittsburgh, Dec.</hi> 23, 1789.</hi>

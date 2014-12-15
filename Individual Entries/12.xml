@@ -9,8 +9,9 @@
                     <title>12</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-08-24"/>
                         </publicationStmt>
                     </biblFull>
@@ -72,7 +73,7 @@
                     that <lb/>the British Superintendant, Colonel Despar, with <lb/>the assistance
                     of the Calypso sloop of war, keeps <lb/>the woodcutters in order. This may rise
                     the <lb/>price of mahogany at home, and certainly will <lb/>raise provisions
-                    here. </p>
+                    here.</p>
                 <p/>
             </body>
         </text>

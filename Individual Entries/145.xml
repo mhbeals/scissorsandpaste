@@ -9,8 +9,9 @@
                     <title>145</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1819-06-28"/>
                         </publicationStmt>
                     </biblFull>
@@ -52,8 +53,8 @@
             <body>
                 <p>
             <pb/>
-            <hi rend="smallcaps">Emigration</hi>. </p>
-                <p> The increased population of this country, as <lb/>well as the great difficult to
+            <hi rend="smallcaps">Emigration</hi>.</p>
+                <p>The increased population of this country, as <lb/>well as the great difficult to
                     which the mid<lb break="no"/>dling classes of society are exposed in their ef<lb break="no"/>forts to procure the ordinary means of suste<lb break="no"/>nance, has given rise to the formation of little <lb/>copartnerships, or joint
                     stock companies of in<lb break="no"/>dividuals, who, being unable to command
                         capi<lb break="no"/>tal enough singly, to encounter the expences of <lb/>a
@@ -74,7 +75,7 @@
                     workhouses would <lb/>gladly accept of such an alternative, and who,
                     <lb/>instead of being, as at present, a burthen to them<lb break="no"/>selves
                     and to society, would, by their exertions, <lb/>be adding to the importance and
-                    stability of our <lb/>possessions in that quarter, as well as open<lb break="no"/>ing a new source for the consumption of our ma<lb break="no"/>nufactures. </p>
+                    stability of our <lb/>possessions in that quarter, as well as open<lb break="no"/>ing a new source for the consumption of our ma<lb break="no"/>nufactures.</p>
             </body>
         </text>
     </TEI>

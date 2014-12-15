@@ -9,10 +9,11 @@
                     <title>323</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141005 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141005 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-11-08"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,8 +68,8 @@
                         Muskingum</hi>
             <lb/>
             <hi rend="italic">to his Friend in the City of Norwich,
-                            (Connecti<lb break="no"/>cut,) dated Nov</hi>. 24, 1790. </p>
-                <p> "The prospect of peace from our frontiers, <lb/>seems to me to be vanished for
+                            (Connecti<lb break="no"/>cut,) dated Nov</hi>. 24, 1790.</p>
+                <p>"The prospect of peace from our frontiers, <lb/>seems to me to be vanished for
                     the present; the <lb/>troops from this garrison have this morning re<lb break="no"/>turned, and the best account I can collect of the
                     <lb/>expedition is as follows: viz. the troops amount<lb break="no"/>ing to
                     about 1200 militia, and about 300 regulars, <lb/>after seventeen days march from
@@ -90,12 +91,11 @@
                     single fire, made a most precipitate <lb/>retreat, and left the regular troops
                     to stand the <lb/>whole charge of the Indians; the conflict was <lb/>short and
                     bloody; the troops were soon overpower<lb break="no"/>ed by numbers, and all
-                    fell, except the two offi<lb break="no"/>
-            <lb/>ers and two or three privates,
-                    after defending <lb/>themselves at their bayonet points with the great<lb break="no"/>est possible obstinacy. Ensign Hartshorn, of <lb/>Franklin, was
-                    one of the four that escaped, and <lb/>his escape appeared to depend on a more
-                    luckly <lb/>circumstance of falling over a log in his retreat, <lb/>and by that
-                    means screening himself from the eye <lb/>of his pursuers, that from any other
+                    fell, except the two offi<lb break="no"/>ers and two or three privates, after
+                    defending <lb/>themselves at their bayonet points with the great<lb break="no"/>est possible obstinacy. Ensign Hartshorn, of <lb/>Franklin, was one of the
+                    four that escaped, and <lb/>his escape appeared to depend on a more luckly
+                    <lb/>circumstance of falling over a log in his retreat, <lb/>and by that means
+                    screening himself from the eye <lb/>of his pursuers, that from any other
                     circumstance. <lb/>Captain Armstrong, who commanded the party, <lb/>likewise
                     made his escape, by plunging himself in<lb break="no"/>to a pond or swamp, up to
                     his neck, within two <lb/>hundred yards of the field of action, where he re<lb break="no"/>mained the whole night, as a spectator of the hor<lb break="no"/>rid scene of the War Dance, performed over the <lb/>dead and wounded bodies of
@@ -127,20 +127,20 @@
                     some cause, did not think it pru<lb break="no"/>dent to pursue their successes
                     from the field of ac<lb break="no"/>tion, for most of the troops that were not
                     killed, <lb/>or sorely wounded, made their escape, which they <lb/>never could
-                    have done had the Indians pursued <lb/>with their usual fury. </p>
-                <p> "Nothing can exceed the intrepidity of the <lb/>Indians on this occasion; the
+                    have done had the Indians pursued <lb/>with their usual fury.</p>
+                <p>"Nothing can exceed the intrepidity of the <lb/>Indians on this occasion; the
                     militia they appear<lb break="no"/>ed to despise, and with all the undautedness
                     <lb/>conceivable, threw down their guns, and rushed <lb/>upon the bayonets of
                     the regular soldiers; a great <lb/>number of them fell; but being so far
                     superior in <lb/>numbers soon overpowered them, for while the <lb/>poor soldier
                     had his bayonet in one Indiaman, <lb/>two more would sink their tomahawks in his
                     head. <lb/>The defeat of our troops was complete, the dead <lb/>and wounded were
-                    left on the field in possession <lb/>of the savages. </p>
-                <p> "No damage, of any consequence, has been <lb/>sustained in this part of the
+                    left on the field in possession <lb/>of the savages.</p>
+                <p>"No damage, of any consequence, has been <lb/>sustained in this part of the
                     country from the In<lb break="no"/>dians; but what effect the expedition may
                     have <lb/>on us, as relates to our frontier, it uncertain.– <lb/>If the
                     Western Indians have any idea of treating <lb/>for peace, we shall be safe; if
-                    not, we are much <lb/>exposed." </p>
+                    not, we are much <lb/>exposed."</p>
             </body>
         </text>
     </TEI>

@@ -9,8 +9,9 @@
                     <title>277</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1839-05-11"/>
                         </publicationStmt>
                     </biblFull>
@@ -59,7 +60,7 @@
                     Sinclair <lb/>and several other distinguished persons were present. <lb/>She is
                     a fine vessel, well armed, and ample prepara<lb break="no"/>tions have been made
                     for the voyage. The company <lb/>have purchased 600,000 acres of land from the
-                    native <lb/>chiefs. </p>
+                    native <lb/>chiefs.</p>
                 <p/>
             </body>
         </text>

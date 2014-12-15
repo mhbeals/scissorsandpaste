@@ -9,8 +9,9 @@
                     <title>32</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-11"/>
                         </publicationStmt>
                     </biblFull>
@@ -61,8 +62,8 @@
             <body>
                 <p>
             <pb n="6"/>Mr. Ephraim Daniel, of Baker's-row, Mile<lb break="no"/>end, received
-                    the following letter from a friend <lb/>in Holland last week: </p>
-                <p> "Sir, your friend L–y, who is just come here <lb/>from the East Indies,
+                    the following letter from a friend <lb/>in Holland last week:</p>
+                <p>"Sir, your friend L–y, who is just come here <lb/>from the East Indies,
                     desires me to inform you, <lb/>that your unfortunate relation who left you with
                     <lb/>the transports for Botany Bay, was well in Fe<lb break="no"/>bruary last.
                     He has settled at Port Jackson, and <lb/>has leave to teach the children of some
@@ -92,7 +93,7 @@
                     Batavia <lb/>to settle there very soon ; and wonders a way <lb/>for sending old
                     clothes is not yet found out. <lb/>Norfolk Island is os thinly inhabited, that
                     it is not <lb/>worth a stranger's while to land there ; and as lit<lb break="no"/>tle is said about it there, as if it was as far off as <lb/>Europe, &amp;c.
-                    &amp;c. </p>
+                    &amp;c.</p>
                 <p/>
             </body>
         </text>

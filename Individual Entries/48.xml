@@ -9,8 +9,9 @@
                     <title>48</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-18"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,24 +68,24 @@
                     <lb/>encounter religious principles. The British <lb/>settlers in Canada are
                     comparatively few in num<lb break="no"/>ber. The great bulk of the Canadians are
                     the <lb/>descendants of French, and are Roman Catho<lb break="no"/>lics. The
-                    former are Protestants. </p>
-                <p> Fleaury in france, and Walpole in England, <lb/>were not fonder of peace than
-                    Mr. Pitt. Con<lb break="no"/>quests may be made by war, but consequence and
+                    former are Protestants.</p>
+                <p>Fleaury in france, and Walpole in England, <lb/>were not fonder of peace than Mr.
+                    Pitt. Con<lb break="no"/>quests may be made by war, but consequence and
                     <lb/>wealth can only be obtained by a pacific system, <lb/>if the first
-                    commercial nation in the world. </p>
-                <p> Besides these considerations, the grand secret <lb/>has been discovered since
-                    the present Minister <lb/>came into power, that the best riddance England
-                    <lb/>ever had, was of her American Colonies ; because <lb/>by this means, she
-                    becomes thoroughly collected <lb/>at home, to oppose every foreign power,
-                    without <lb/>the expence and blood of supporting the Ameri<lb break="no"/>cans,
-                    at the same time that they cannot do with<lb break="no"/>out BRitish
-                    manufactures in one line or another. </p>
-                <p> Thus, they are under the necessity of protect<lb break="no"/>ing themselves, at
+                    commercial nation in the world.</p>
+                <p>Besides these considerations, the grand secret <lb/>has been discovered since the
+                    present Minister <lb/>came into power, that the best riddance England <lb/>ever
+                    had, was of her American Colonies ; because <lb/>by this means, she becomes
+                    thoroughly collected <lb/>at home, to oppose every foreign power, without
+                    <lb/>the expence and blood of supporting the Ameri<lb break="no"/>cans, at the
+                    same time that they cannot do with<lb break="no"/>out BRitish manufactures in
+                    one line or another.</p>
+                <p>Thus, they are under the necessity of protect<lb break="no"/>ing themselves, at
                     the same time, that, like the <lb/>rest of Europe, they are obliged to resort to
-                    our <lb/>superior mercantile market. </p>
-                <p> Application has been lately made to the Lords <lb/>of the Treasury for an order
+                    our <lb/>superior mercantile market.</p>
+                <p>Application has been lately made to the Lords <lb/>of the Treasury for an order
                     on the Bank to issue <lb/>some of the new silver coin, in aid of the pre<lb break="no"/>sent want of silver for circulation, the scarcity <lb/>of which
-                    is much felt by retail traders in par<lb break="no"/>ticular. </p>
+                    is much felt by retail traders in par<lb break="no"/>ticular.</p>
             </body>
         </text>
     </TEI>

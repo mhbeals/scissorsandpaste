@@ -9,8 +9,9 @@
                     <title>101</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1794-02-07"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,7 +64,7 @@
                     Legislative Body of <lb/>that country, praying that exhibitions, Preludes,
                     <lb/>Interludes, yea, all <hi rend="italic">lewds</hi> and stage-plays may be
                     <lb/>discountenanced, pointing out their pernicious ten<lb break="no"/>dency in
-                    corrupting the morals of the People. </p>
+                    corrupting the morals of the People.</p>
             </body>
         </text>
     </TEI>

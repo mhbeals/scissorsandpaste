@@ -9,8 +9,9 @@
                     <title>158</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1820-01-13"/>
                         </publicationStmt>
                     </biblFull>
@@ -52,8 +53,8 @@
             <body>
                 <p>
             <pb/>
-            <hi rend="smallcaps">Emigration to Canada</hi>. </p>
-                <p> About ten days ago an emigrant arrived from <lb/>Canada, to Paisley, and brings
+            <hi rend="smallcaps">Emigration to Canada</hi>.</p>
+                <p>About ten days ago an emigrant arrived from <lb/>Canada, to Paisley, and brings
                     very favourable <lb/>intelligence from that country. He is a native <lb/>of
                     Scotland ; was some time in the army ; and <lb/>is going home again, as he calls
                     it, early in the <lb/>spring. This person gives the most satisfactory <lb/>and
@@ -99,7 +100,7 @@
                     <lb/>when people have plenty of provisions, fuel and <lb/>warm clothing to
                     resist the effects of heavy snows <lb/>and intense frosts, the objection of cold
                     is less <lb/>worthy of consideration. – <hi rend="italic">Glasgow
-                        Chronicle</hi>. </p>
+                        Chronicle</hi>.</p>
                 <p/>
             </body>
         </text>

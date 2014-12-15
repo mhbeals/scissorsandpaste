@@ -9,10 +9,11 @@
                     <title>322</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130514 by M. H. Beals.
-                        Transcribed on 21041005 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130514 by <persName role="collection">M. H. Beals.</persName> Transcribed on 21041005 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-11-08"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,16 +68,14 @@
                     Spanish South American colonies. Of <lb/>its success there cannot be a doubt,
                     when we shall <lb/>be aided by an army of 20,000 Indian warriors, <lb/>beside
                     the active support of those Mexicans now <lb/>
-            <supplied reason="copy blur">???</supplied> under the tyranous yoke of Spain. </p>
+            <supplied reason="copy blur">???</supplied> under the tyranous yoke of Spain.</p>
                 <p>
             <pb n="3"/> So determined are the Cherokees, the Creeks, <lb/>and other nations
                     of Indians in the Southern parts <lb/>of America, to strip the Spaniards of
-                    their pos<lb break="no"/>
-            <lb/>sessions on that Continent, that they will
-                        unque<lb break="no"/>stionably attempt the glorious achievement, even
-                    <lb/>though the policy of this country should prevent <lb/>us from lending them
-                    effectual assistance. </p>
-                <p> The rich silver mines at Potosi, in Peru, were <lb/>accidentally discovered in
+                    their pos<lb break="no"/>sessions on that Continent, that they will unque<lb break="no"/>stionably attempt the glorious achievement, even <lb/>though the
+                    policy of this country should prevent <lb/>us from lending them effectual
+                    assistance.</p>
+                <p>The rich silver mines at Potosi, in Peru, were <lb/>accidentally discovered in
                     1545, by an Indian, as <lb/>he was clambering up the mountain, in pursuit
                     <lb/>of a Lama, which had strayed from his flock. <lb/>Soon after, the mines, of
                     Sacotecas, in New <lb/>Spain, little inferior to the other in value, were
@@ -85,7 +84,7 @@
                     <lb/>and of some few mines of gold in the provinces <lb/>of Terra Firm, and the
                     new Kingdom of Gre<lb break="no"/>nada, has become the capital occupation of the
                     <lb/>Spaniards, and is reduced into the system no less <lb/>complicated than
-                    interesting. </p>
+                    interesting.</p>
             </body>
         </text>
     </TEI>

@@ -9,10 +9,11 @@
                     <title>60</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20140908 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140908 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-01-04"/>
                         </publicationStmt>
                     </biblFull>
@@ -62,15 +63,15 @@
         <text>
             <body>
                 <p>
-            <cb/>
-            <lb/>
-            <hi rend="center">
+                    <cb/>
+                    <lb/>
+                    <hi rend="center">
                <hi rend="italic">Boston, October </hi> 26. </hi>
-         </p>
+                </p>
                 <p>
             <hi rend="enlarged-capital">S</hi>aturday, between the hours of two and
                     <lb/>three, arrived in town from New-York, the <lb/> PRESIDENT of the United
-                    States. </p>
+                    States.</p>
                 <p>
             <lb/>The inhabitants of this metropolis have now <lb/>the happiness to felicitate
                     themselves on having <lb/>among them the virtuous General, who delivered
@@ -81,7 +82,8 @@
                     two private secretaries and servants– <lb/>Actuated by the principles of
                     a true republican Pa<lb break="no"/>triot, and considing in the ardent
                     affections of <lb/>the citizens in the States through which he had <lb/>to pass,
-                    he had it in vic<supplied reason="copy blur">???</supplied> travel without the </p>
+                    he had it in vic<supplied reason="copy blur">???</supplied> travel without
+                    the</p>
                 <p>
             <cb/>
             <lb/>temporary parade which his dignified station might <lb/>justly clam but
@@ -101,9 +103,9 @@
                     hand <lb/>his health permitted) whither they were escorted <lb/>by col. Tyler's
                     corps of the horse. The Lieu<lb break="no"/>tenant governor and Council met him
                     there, and <lb/>preceded the President under the escort of horse, <lb/>and
-                    introduced him to the capital of the common<lb break="no"/>wealth. </p>
-                <p> From the best accounts we are able to collect, <lb/>we present the following as
-                    the </p>
+                    introduced him to the capital of the common<lb break="no"/>wealth.</p>
+                <p>From the best accounts we are able to collect, <lb/>we present the following as
+                    the</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">Order of Procession.</hi>
@@ -179,10 +181,10 @@
             <hi rend="center">Merchants, shopkeepers,
                         and Traders.</hi>
             <lb/>Then followed the Artizans, Tradesmen,
-                    <lb/>nufacturers, &amp;c. of the town, in order, with flags, <lb/>&amp;c. </p>
-                <p> On the President's arrival at the State-house, <lb/>he ascended a temporary
+                    <lb/>nufacturers, &amp;c. of the town, in order, with flags, <lb/>&amp;c.</p>
+                <p>On the President's arrival at the State-house, <lb/>he ascended a temporary
                     balcony, adjoining the <lb/>gallery, where were a select choir of singers, who,
-                    <lb/>upon the President's appearance, sang the follow<lb break="no"/>ing </p>
+                    <lb/>upon the President's appearance, sang the follow<lb break="no"/>ing</p>
                 <p>
             <lb/>
             <hi rend="center">
@@ -195,7 +197,7 @@
             <hi rend="smallcaps">Great
                         Washington</hi>, The Hero's come, <lb/>Each heart exulting hearts the sound,
                     <lb/>Thousands to their Deliverer throng, <lb/>And shout him welcome all around!
-                    <lb/>Now its full chorus join the songs, <lb/>And shout aloud great <hi rend="smallcaps">Washington</hi>! </p>
+                    <lb/>Now its full chorus join the songs, <lb/>And shout aloud great <hi rend="smallcaps">Washington</hi>!</p>
                 <p>
             <hi rend="center">2.</hi>
             <lb/>There view columbia's favourie Son, <lb/>Her
@@ -206,53 +208,53 @@
             <lb/>When
                     the impending storm of War, <lb/>Think clouds and darkness hid our way,
                     <lb/>Great <hi rend="smallcaps">Washington</hi>, our Polar Star, <lb/>Arose; and
-                    all was light as day. <lb/>Now in full chorus, &amp;c. </p>
+                    all was light as day. <lb/>Now in full chorus, &amp;c.</p>
                 <p>
             <hi rend="center">4.</hi>
             <lb/>'Twas on your plains they valour rose, <lb/>And ran
                     like fire from man to man; <lb/>'Twas here thou humbled Paria's foes, <lb/>And
-                    chac'd whole legions to the main! <lb/>Now in full corus, &amp;c. </p>
+                    chac'd whole legions to the main! <lb/>Now in full corus, &amp;c.</p>
                 <p>
             <hi rend="center">5.</hi>
             <lb/>Thro' countless dangers, toils and <supplied reason="copy blur">???</supplied>
             <lb/>Our Hero led us safely on–
                     <lb/>With matchless skill directs the wars, <lb/>'Till Vict'ry cried–The
-                    day's his own! <lb/>Now in full chorus,&amp;c. </p>
+                    day's his own! <lb/>Now in full chorus,&amp;c.</p>
                 <p>
             <hi rend="center">5.</hi>
             <lb/>His country sav'd, the contest o'er, <lb/>Sweet
                     peace restor'd his toils to crown, <lb/>The Warrior to his native shore
-                    <lb/>Returns, and this his fertile ground. <lb/>Now in full chorus, &amp;c. </p>
+                    <lb/>Returns, and this his fertile ground. <lb/>Now in full chorus, &amp;c.</p>
                 <p>
             <hi rend="center">7.</hi>
             <lb/>But soon Columbia call'd him forth <lb/>Again to
                     save her sinking fame, <lb/>To take the helm, and by his worth <lb/>To make her
-                    an immortal name! <lb/>Now in full chorus, &amp;c. </p>
+                    an immortal name! <lb/>Now in full chorus, &amp;c.</p>
                 <p>
             <hi rend="center">8.</hi>
             <lb/>Nor yet alone thro' Paria's shores <lb/>Her fame,
                     her might trumpt blown; <lb/>E'en Europe, Afric, Asia, hears, <lb/>And emulate
-                    the deed he's done! <lb/>Now in full chorus, &amp;c. </p>
-                <p> After which, the procession passed by the Pre<lb break="no"/>sident, under the
+                    the deed he's done! <lb/>Now in full chorus, &amp;c.</p>
+                <p>After which, the procession passed by the Pre<lb break="no"/>sident, under the
                     gallery, and then dispersed, high<lb break="no"/>ly satisfied with the occasion
-                    of their assembling, <lb/>and fully participating in the joy of the day. </p>
-                <p> The Independent Companies then escorted the <lb/>President to his residence in
-                    Court-street–fired <lb/>three vollies, and then dismissed. </p>
-                <p> In the evening the several public houses in <lb/>State-street were illuminated,
+                    of their assembling, <lb/>and fully participating in the joy of the day.</p>
+                <p>The Independent Companies then escorted the <lb/>President to his residence in
+                    Court-street–fired <lb/>three vollies, and then dismissed.</p>
+                <p>In the evening the several public houses in <lb/>State-street were illuminated,
                     the Coffee House, <lb/>Bunch of Grapes, Eastern Coffee House, &amp;c.
-                    <lb/>together, which mad a beautiful appearance. </p>
-                <p> Fire works were also displayed in the said street. </p>
-                <p> Rockets were likewise thrown from the French <lb/>ships in the harbour, and from
-                    Castle William. </p>
-                <p> Two French frigates, L'Active and Le Sensi<lb break="no"/>ble, were delightfully
+                    <lb/>together, which mad a beautiful appearance.</p>
+                <p>Fire works were also displayed in the said street.</p>
+                <p>Rockets were likewise thrown from the French <lb/>ships in the harbour, and from
+                    Castle William.</p>
+                <p>Two French frigates, L'Active and Le Sensi<lb break="no"/>ble, were delightfully
                     illuminated, the former <lb/>with several hundred lamps, judiciously arraign<lb break="no"/>
-            <lb/>ed. </p>
-                <p> It is supposed the number assembled upon the <lb/>above occasion, amounted to
+            <lb/>ed.</p>
+                <p>It is supposed the number assembled upon the <lb/>above occasion, amounted to
                     24,000 persons. <lb/>No unfavourable accident happened during the <lb/>whole
-                    scene–that we have heard of. </p>
-                <p> The regularity and good order in the proces<lb break="no"/>sion afforded to the
+                    scene–that we have heard of.</p>
+                <p>The regularity and good order in the proces<lb break="no"/>sion afforded to the
                     marhals the highest satisfac<lb break="no"/>tion, as well as to the numerous
-                    spectators. </p>
+                    spectators.</p>
             </body>
         </text>
     </TEI>

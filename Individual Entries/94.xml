@@ -9,10 +9,11 @@
                     <title>94</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130606 by M. H. Beals.
-                        Transcribed on 20140828 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130606 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140828 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1793-07-22"/>
                         </publicationStmt>
                     </biblFull>
@@ -77,14 +78,14 @@
                     of his Britannic Maje<lb break="no"/>sty, and otherwise annoying the trade and
                         com<lb break="no"/>merce of the said subjects, contrary to the Laws of
                     <lb/>Nations, and the Treaty of Peace subsisting between <lb/>the United States
-                    and his said Britannic Ma<lb break="no"/>jesty. </p>
-                <p> The above named persons have been committed <lb/>to the goal of the County of
+                    and his said Britannic Ma<lb break="no"/>jesty.</p>
+                <p>The above named persons have been committed <lb/>to the goal of the County of
                     Philadelphia, to take <lb/>their trial at the next Circuit Court of the United
-                    <lb/>States. </p>
-                <p> "A letter from CHarleston, dated May 10, says <lb/>"Yesterday evening a
-                    gentleman arrived here from <lb/>Augusta, in Georgia, who informs, that six of
-                    the <lb/>Creek Towns, with a number of Cherokees, had <lb/>declared war against
-                    the United States, and were <lb/>actually marching under the command of Bowles
+                    <lb/>States.</p>
+                <p>"A letter from CHarleston, dated May 10, says <lb/>"Yesterday evening a gentleman
+                    arrived here from <lb/>Augusta, in Georgia, who informs, that six of the
+                    <lb/>Creek Towns, with a number of Cherokees, had <lb/>declared war against the
+                    United States, and were <lb/>actually marching under the command of Bowles
                     <lb/>and Gilpin, at attack the frontiers."</p>
                 <p/>
             </body>

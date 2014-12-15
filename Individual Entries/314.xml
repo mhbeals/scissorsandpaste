@@ -9,10 +9,11 @@
                     <title>314</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20140928 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140928 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-11-01"/>
                         </publicationStmt>
                     </biblFull>
@@ -62,11 +63,11 @@
         <text>
             <body>
                 <p>
-            <pb n="3"/>
-            <hi rend="center">
+                    <pb n="3"/>
+                    <hi rend="center">
                <hi rend="italic">Kentucky, May,</hi> 19. <supplied reason="copy folded">17</supplied>90.</hi>
-         </p>
-                <p> We arrived safe at this place <supplied reason="copy folded">???</supplied>
+                </p>
+                <p>We arrived safe at this place <supplied reason="copy folded">???</supplied>
                     beginning of <lb/>April from Pittsburgh, and a <supplied reason="copy folded">dre</supplied>adful passage <lb/>we had of it. The waters of <supplied reason="copy folded">???</supplied> river Ohio, <lb/>which had risen rapidly
                     since M<supplied reason="copy folded">arc</supplied>h, now pour<lb break="no"/>ed down in a perfect torrent; <supplied reason="copy folded">???</supplied> we
                     were in as <lb/>much danger of foundering at <supplied reason="copy folded">???</supplied> rapids, as we <lb/>would have been in the middle <supplied reason="copy folded">t</supplied>he Atlantic in <lb/>a severe gale. We were
@@ -79,8 +80,8 @@
                     the river), they <supplied reason="copy blur">???</supplied> inevitably have
                     <lb/>been overturned, and <supplied reason="copy blur">???</supplied>
             <supplied reason="copy folded">???</supplied> buried in the <lb/>
-            <supplied reason="copy blur">???</supplied> of the Ohio; fortunately <supplied reason="copy blur">???</supplied> accident <lb/>happened to us. </p>
-                <p> Our apprehensions of drowning were equalled <lb/>by those of an attack from the
+            <supplied reason="copy blur">???</supplied> of the Ohio; fortunately <supplied reason="copy blur">???</supplied> accident <lb/>happened to us.</p>
+                <p>Our apprehensions of drowning were equalled <lb/>by those of an attack from the
                         <supplied reason="copy folded">In</supplied>dians, who in<lb break="no"/>fest the river, and who inhabit <supplied reason="copy folded">???</supplied>
                     banks: Some <lb/>time ago they killed a Mr. W<supplied reason="copy folded">???</supplied> Browne, and a <lb/>Mr. Allison, who were return<supplied reason="copy folded">ing</supplied> to Lexington <lb/>from Miami. The
                         barbaritie<supplied reason="copy folded">s th</supplied>ey commit are

@@ -9,8 +9,9 @@
                     <title>270</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1837-11-22"/>
                         </publicationStmt>
                     </biblFull>
@@ -62,8 +63,8 @@
                     between the lati<lb break="no"/>tudes of 30 and 38, and will have nearly the
                     <lb/>same climate. We had one at Melville Island, <lb/>on the north coast,
                     within the torried zone, in latitude <lb/>12 ; but it was found to be very
-                    unhealthy, and was <lb/>abandoned, after a short trial, ten years ago. </p>
-                <p> Though the interior of New Holland, so far as <lb/>hitherto explored, is one of
+                    unhealthy, and was <lb/>abandoned, after a short trial, ten years ago.</p>
+                <p>Though the interior of New Holland, so far as <lb/>hitherto explored, is one of
                     the most barren and un<lb break="no"/>promising lands in the world, there is a
                     margin of <lb/>good soil round the greater part of its coasts, capabale <lb/>[?]
                     of supporting twenty or thirty or fifty mil<lb break="no"/>
@@ -72,7 +73,7 @@
                     inhabitants; and there is little doubt that, in <lb/>the course of three
                     centuries, it will be the seat of a <lb/>great and powerful nation, cultivating
                     the arts, and <lb/>speaking the language of Britain, and contributing
-                    <lb/>powerfully to spread civilisation over the Southern <lb/>Hemisphere. </p>
+                    <lb/>powerfully to spread civilisation over the Southern <lb/>Hemisphere.</p>
             </body>
         </text>
     </TEI>

@@ -9,8 +9,9 @@
                     <title>268</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1837-07-01"/>
                         </publicationStmt>
                     </biblFull>
@@ -54,7 +55,7 @@
             <pb/>The <hi rend="italic">Mid-Lothian</hi>, which lately came home from
                     <lb/>China, is at present being fitted up to convey settlers <lb/>from the Isle
                     of Skye to Australia. She has been char<lb break="no"/>tered by Government; and
-                    will acommodate upwards <lb/>of three hundred emigrants. </p>
+                    will acommodate upwards <lb/>of three hundred emigrants.</p>
                 <p/>
             </body>
         </text>

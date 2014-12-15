@@ -9,8 +9,9 @@
                     <title>120</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1816-12-16"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,20 +52,20 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Canada</hi>
-            <lb/>
-            <hi rend="smallcaps">Lord
-                    Selkirk</hi>
-         </p>
-                <p> We have been favoured by a Gentleman in this city, with the <lb/>following
+                    <pb/>
+                    <hi rend="smallcaps">Canada</hi>
+                    <lb/>
+                    <hi rend="smallcaps">Lord Selkirk</hi>
+                </p>
+                <p>We have been favoured by a Gentleman in this city, with the <lb/>following
                     interesting and authentic communication, on the sub<lb break="no"/>ject of the
-                    dispute between Lord Selkirk, and the Gentlemen of <lb/>the North West Company: </p>
+                    dispute between Lord Selkirk, and the Gentlemen of <lb/>the North West
+                    Company:</p>
                 <p>
             <hi rend="italic">Extract of a Letter from Montreal, dated 6th
                     October,</hi>
-            <lb/>1816. </p>
-                <p> "In the newspapers which I sent you, you will see some <lb/>accounts of the
+            <lb/>1816.</p>
+                <p>"In the newspapers which I sent you, you will see some <lb/>accounts of the
                     disturbances which have taken place in the North <lb/>West between the North
                     West Company and Lord Selkirk's co<lb break="no"/>lonists. The latter have been
                     obliged to leave the Red River, <lb/>after having had 22 of their men, including
@@ -107,8 +108,8 @@
                     strongly opposed their being admitted <lb/>to bail, but all would not do, and
                     they were accordingly bailed ; <lb/>Mr M'Gillivray in sureties of t1000 and the
                     others in t500, <lb/>sums inconsiderable enough, advering to the high crimes and
-                    <lb/>misdemeanours with which they were charged. </p>
-                <p> "In the <hi rend="italic">Montreal Herald</hi> you will see a very learned, and
+                    <lb/>misdemeanours with which they were charged.</p>
+                <p>"In the <hi rend="italic">Montreal Herald</hi> you will see a very learned, and
                     (as <lb/>our neighbour Jonathan would say) a <hi rend="italic">lengthy</hi>
                     communication, <lb/>signed <hi rend="italic">Montius[?]</hi>, setting forth the
                     rights which the Hudson's <lb/>Bay Company by their charter possess over the
@@ -119,8 +120,8 @@
                     in case the papers should miscarry. It is un<lb break="no"/>certain whether the
                     Earl will remain in the North West during <lb/>the winter, or come down to
                     Montreal ; if the latter, he must be <lb/>down[?] soon[?], as the season for
-                    water-travelling will shortly close. </p>
-                <p> "Montreal is now divided into two parties, one favouring the <lb/>Lord, and the
+                    water-travelling will shortly close.</p>
+                <p>"Montreal is now divided into two parties, one favouring the <lb/>Lord, and the
                     other the North West Company ; and with the ex<lb break="no"/>ception of the
                     friends of the latter, strongly in favour of his <lb/>Lordship."</p>
                 <p/>

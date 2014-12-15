@@ -9,8 +9,9 @@
                     <title>18</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-09-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -69,7 +70,7 @@
                         called</hi> THE WESTERN TERRITORY, <lb/>
             <hi rend="italic">being one of four
                         settled by the Americans since</hi>
-            <lb/>1774. </p>
+            <lb/>1774.</p>
                 <p>
             <hi rend="enlarged-capital">T</hi>HAT no nation can serve the Americans <lb/>with
                     goods equal in quality and price to <lb/>Britain, is wha the whole world knows,
@@ -79,8 +80,8 @@
                     since the beginning of their rebellion, viz. <lb/>
             <hi rend="italic">Vermont,
                         Kentucky, Indiana, </hi> and <hi rend="italic">The Western Ter</hi>
-            <lb break="no"/>ritory. </p>
-                <p> About seventeen years ago Vermont was a wil<lb break="no"/>derness; they only
+            <lb break="no"/>ritory.</p>
+                <p>About seventeen years ago Vermont was a wil<lb break="no"/>derness; they only
                     began to settle it about the <lb/>year 1774. Kentucky, ten years ago lay in
                         fo<lb break="no"/>rest wild; it was settled in 1780. Yet so rapid <lb/>has
                     been the population, that there are not less <lb/>than one hundred thousand
@@ -103,7 +104,7 @@
                     prospect, that new <lb/>channels of commerce will be opened, and the in<lb break="no"/>land parts of the Continent will require an increas<lb break="no"/>ing supply.–British manufactures will for ages
                     <lb/>ascend the great rivers of that Continent, and by <lb/>means of a most
                     extraordinary inland navigation, <lb/>will be diffused through a country more
-                    fertile, <lb/>more extensive, than all the Thirteen United <lb/>States. </p>
+                    fertile, <lb/>more extensive, than all the Thirteen United <lb/>States.</p>
                 <p>
             <hi rend="center">
                <hi rend="italic">The Western Territory</hi>
@@ -120,11 +121,11 @@
                     debt owing to the United <lb/>States. But a very small proportion of these
                     <cb/>
             <lb/>lands is yet purchased of the native Indians and <lb/>disposed of by
-                    Congress*. </p>
-                <p> On the lands which have been purchased by <lb/>Congress from the Indians two
+                    Congress*.</p>
+                <p>On the lands which have been purchased by <lb/>Congress from the Indians two
                     settlements are <lb/>already commenced–one at Marietta, the other <lb/>at
-                    Miami. </p>
-                <p> This State was only laid out by Congress in <lb/>the end of the year 1787, and
+                    Miami.</p>
+                <p>This State was only laid out by Congress in <lb/>the end of the year 1787, and
                     already contains <lb/>above 8000 inhabitants. The principal rivers are <lb/>the
                     Mississippi, Ohio, Muskingham, Hockhock<lb break="no"/>ing, Sioto, Miami,
                     Wobash,&amp;c–Coal and iron <lb/>mines, and salt pits, abound in this
@@ -143,18 +144,18 @@
                     themselves at. No country is <lb/>better stocked with wild game of every kind;
                     <lb/>herds of deers, elks, bears, &amp;c fill the extensive <lb/>meadows of thie
                     country?turkies, geese, swans, <lb/>and partridges, &amp;c. are innumerable. The
-                    rivers <lb/>are excellently stored with fish, and almost all na<lb break="no"/>vigable for small sloops. </p>
-                <p> In the ordinance published by Congress for <lb/>the government of this
-                    territory, they are to <lb/>be allowed an Assembly when their number a<lb break="no"/>mounts to 30,000 persons; and when they ac<lb break="no"/>quire
-                    a certain degree of population they are to <lb/>have representatives in
-                    Congress; and when fifty <lb/>millions of acres are settled they are to be
-                    divided <lb/>into States. </p>
-                <p> Rejoice, O Britons! that they must all be sup<lb break="no"/>plied with
+                    rivers <lb/>are excellently stored with fish, and almost all na<lb break="no"/>vigable for small sloops.</p>
+                <p>In the ordinance published by Congress for <lb/>the government of this territory,
+                    they are to <lb/>be allowed an Assembly when their number a<lb break="no"/>mounts to 30,000 persons; and when they ac<lb break="no"/>quire a certain
+                    degree of population they are to <lb/>have representatives in Congress; and when
+                    fifty <lb/>millions of acres are settled they are to be divided <lb/>into
+                    States.</p>
+                <p>Rejoice, O Britons! that they must all be sup<lb break="no"/>plied with
                     manufactures by you, and you <hi rend="italic">only!</hi>
          </p>
-                <p> * No more than about twelve millions of acres have <lb/>yet been purchased of
-                    the poor natives, for which Con<lb break="no"/>gress gave them only eight
-                    thousand dollars value in goods <lb/>and rum. </p>
+                <p>* No more than about twelve millions of acres have <lb/>yet been purchased of the
+                    poor natives, for which Con<lb break="no"/>gress gave them only eight thousand
+                    dollars value in goods <lb/>and rum.</p>
             </body>
         </text>
     </TEI>

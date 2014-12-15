@@ -9,8 +9,9 @@
                     <title>209</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1828-08-09"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,7 +64,7 @@
                     cattle, and for <lb/>producing mik from cows, of the best and richest qua<lb break="no"/>lity. Were the propiertors and tenants of the Highland
                     <lb/>country to follow the enterprising conduct of Mr Blair, <lb/>we would soon
                     see their hills covering with a truly useful <lb/>plant, instead of the useless
-                    heath, with at present, even <lb/>at best, only adorns them. </p>
+                    heath, with at present, even <lb/>at best, only adorns them.</p>
             </body>
         </text>
     </TEI>

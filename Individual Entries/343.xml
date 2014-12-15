@@ -9,10 +9,11 @@
                     <title>343</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130507 by M. H. Beals.
-                        Transcribed on 20141106 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130507 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141106 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-06-18"/>
                         </publicationStmt>
                     </biblFull>
@@ -77,15 +78,15 @@
                     their growing pro<lb break="no"/>sperity.The free navigation of the Mississippi
                     <lb/>has been denied them?and the Spaniards, now <lb/>in possession of the
                     Floridas, have been continual<lb break="no"/>ly quarrelling with them about
-                    their boundaries. </p>
-                <p> It may therefore be considered as almost cer<lb break="no"/>tain, that the
+                    their boundaries.</p>
+                <p>It may therefore be considered as almost cer<lb break="no"/>tain, that the
                     American states will take an active <lb/>part against Spain. This will be a
                     great acquisi<lb break="no"/>tion to Britain in every point of view; for though
                     <lb/>American cannot furnish money, she can furnish <lb/>men and provisions; and
                     afree intercourse with <lb/>her ports must prove of infinite advantage for the
                     <lb/>security of our West-India Islands. Their pri<lb break="no"/>vateers, too,
                     will be able to take their runs so <lb/>speedily, that the Spanish trade must be
-                    very <lb/>materially injured thereby. </p>
+                    very <lb/>materially injured thereby.</p>
             </body>
         </text>
     </TEI>

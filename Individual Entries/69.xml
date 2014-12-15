@@ -9,8 +9,9 @@
                     <title>69</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-08-16"/>
                         </publicationStmt>
                     </biblFull>
@@ -64,8 +65,8 @@
             <pb/>By recent letters from America we learn, that <lb/>the Congress of the nited
                     States, after warm de<lb break="no"/>bates in both Houes, particularly in that
                     of the <lb/>Representatives, passed an act for the purpose of <lb/>fixing
-                    permanently their seat of Government at <lb/>German Town in Pennsylvania. </p>
-                <p> The two new provinces in North America, <lb/>Kentucky and Vermont, whose
+                    permanently their seat of Government at <lb/>German Town in Pennsylvania.</p>
+                <p>The two new provinces in North America, <lb/>Kentucky and Vermont, whose
                     population already <lb/>is so very considerable, were formed by the vast
                     <lb/>numbers of inhabitants who fled from the destruc<lb break="no"/>tion and
                     ravages of the unhappy contest between <lb/>Great Britain and her colonies, and
@@ -82,11 +83,10 @@
                     as their views <supplied>???</supplied>
             <lb break="no"/>tend, to every country in
                     Europe. Thus, from <lb/>the most distressed situation, to rise to opulence
-                    <lb/>and independence ina few years, must excite ad<lb break="no"/>miration. </p>
-                <p> Agriculture, at present, seems to be the pecu<lb break="no"/>liar province of
+                    <lb/>and independence ina few years, must excite ad<lb break="no"/>miration.</p>
+                <p>Agriculture, at present, seems to be the pecu<lb break="no"/>liar province of
                     American industry, from whence <lb/>wealth will flow into every part of that
-                    vast coun<lb break="no"/>
-            <lb/>try, as it abounds in large tracts of rich land,
+                    vast coun<lb break="no"/>try, as it abounds in large tracts of rich land,
                     <lb/>level grounds, with a deep soil, and extended sa<lb break="no"/>vannahs;
                     while to the northward the fisheries and <lb/>shipbuilding amply compensate for
                     the want of <lb/>an equal fertility; and though not so abundant <lb/>in coin,
@@ -96,7 +96,7 @@
                     support of their inhabitants, on account of <lb/>the remarkable encrease of
                     population, and which <lb/>is still augmenting, as arts and manufacturers are
                     <lb/>every where extended: America may, therefore, <lb/>be deemed, in future,
-                    the granary of this quarter <lb/>of the globe. </p>
+                    the granary of this quarter <lb/>of the globe.</p>
             </body>
         </text>
     </TEI>

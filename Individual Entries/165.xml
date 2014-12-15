@@ -9,8 +9,9 @@
                     <title>165</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1820-05-22"/>
                         </publicationStmt>
                     </biblFull>
@@ -77,19 +78,17 @@
                     <lb/>the vessel, on her arrival at Liverpool, or any other <lb/>part, to undergo
                         quarantine.–<hi rend="italic">London Paper.</hi>
          </p>
-                <p> All apprehension on the above subject is complete<lb break="no"/>ly done away by
-                    the following letter from Liverpool, <lb/>May 14:– </p>
-                <p> "I noticed a paragraph in the London papers, <lb/>respecting the Bengal, of this
+                <p>All apprehension on the above subject is complete<lb break="no"/>ly done away by
+                    the following letter from Liverpool, <lb/>May 14:–</p>
+                <p>"I noticed a paragraph in the London papers, <lb/>respecting the Bengal, of this
                     port, at Calcutta, stat<lb break="no"/>ing that a number of deaths had taken
-                    place, sup<lb break="no"/>
-            <lb/>posed in consequence of the Infectious vapours
-                    arising <lb/>from some buffalo horns.–The Bengal arrived here <lb/>April
-                    5, and has been discharged without any of <lb/>those dreadful consequences which
-                    the medical gen<lb break="no"/>tlemen of Calcutta prognosticated.–I
-                    should rather <lb/>suppose that the fatal consequences which ensued <lb/>to
-                    those individuals who attended the ball given on <lb/>board this vessel at
-                    Calcutta, would be none justly <lb/>attributed to the exposure to night
-                    air."</p>
+                    place, sup<lb break="no"/>posed in consequence of the Infectious vapours arising
+                    <lb/>from some buffalo horns.–The Bengal arrived here <lb/>April 5, and
+                    has been discharged without any of <lb/>those dreadful consequences which the
+                    medical gen<lb break="no"/>tlemen of Calcutta prognosticated.–I should
+                    rather <lb/>suppose that the fatal consequences which ensued <lb/>to those
+                    individuals who attended the ball given on <lb/>board this vessel at Calcutta,
+                    would be none justly <lb/>attributed to the exposure to night air."</p>
                 <p/>
             </body>
         </text>

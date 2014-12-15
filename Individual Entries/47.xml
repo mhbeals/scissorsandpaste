@@ -9,8 +9,9 @@
                     <title>47</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-18"/>
                         </publicationStmt>
                     </biblFull>
@@ -70,7 +71,7 @@
                     largest <lb/>vessels may constantly unload. His meeting with <lb/>the natives
                     here was friendly and uninterrupted. <lb/>The appearance of the place was
                     picturesque and <lb/>pleasing, and it afforded an ample harvest for
-                    <lb/>botanical acquisitions. </p>
+                    <lb/>botanical acquisitions.</p>
             </body>
         </text>
     </TEI>

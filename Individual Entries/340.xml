@@ -9,10 +9,11 @@
                     <title>340</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141026 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141026 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-06-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -69,12 +70,11 @@
                     most of the Indian towns at the <lb/>back of Georgia, for near two hundred miles
                         a<lb break="no"/>round the river. That M'Gilvray, and his ar<lb break="no"/>my of savages, after an unsuccessful and bloody <lb/>engagement, had fled to
                     the woods, where the <lb/>General left them, and returned to Savannah.–
-                    <lb/>This expedition was undertaken about the begin<lb break="no"/>
-            <lb/>ning of
+                    <lb/>This expedition was undertaken about the begin<lb break="no"/>ning of
                     March, winch has been crowned with the <lb/>expected catastrophe, and though the
                     Cherokee, <lb/>Miami, and Chiquesaw tribes, may mediate re<lb break="no"/>venge
                     at some future period; it is not likely they <lb/>will be in a condition to
-                    disturb the settlers for <lb/>some years to come. </p>
+                    disturb the settlers for <lb/>some years to come.</p>
             </body>
         </text>
     </TEI>

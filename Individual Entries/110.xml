@@ -9,8 +9,9 @@
                     <title>110</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1813-12-30"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,10 +52,10 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Victory in Canada</hi>
-         </p>
-                <p> By the Dunlop, Captain Abrams, arrived on Sun<lb break="no"/>day last, at
+                    <pb/>
+                    <hi rend="smallcaps">Victory in Canada</hi>
+                </p>
+                <p>By the Dunlop, Captain Abrams, arrived on Sun<lb break="no"/>day last, at
                     Greenock, from Quebec, after a passage <lb/>of 36 days, papers and letters have
                     been received from <lb/>Canada, to the 19th, which contain an amount of an
                     <lb/>engagement between a detachment of the British <lb/>force under Lieut.-Col.
@@ -62,27 +63,26 @@
                     of <lb/>the Canadian militia, and a body of American troops, <lb/>amounting to
                     4000 men, which ended in the defeat <lb/>of the latter, with great loss. This
                     action was pro<lb break="no"/>duced by the attempt of the American General to
-                    <lb/>advance to Montreal, from which it appears, how<lb break="no"/>
-            <lb/>ever,
-                    he has now begun to measure back his steps, <lb/>having crossed to the American
-                    side of the river <lb/>where the action was fought, and being actively pur<lb break="no"/>
-            <lb/>sued in his retreat by the British troops. </p>
-                <p> The following information has been received by <lb/>the Alexander, Captain
-                    Henry, which arrived at Li<lb break="no"/>verpool on Tuesday:– </p>
-                <p> "Quebec, Nov. 26. 1813 <lb/>"The enemy's whole force was about 8000 men,
+                    <lb/>advance to Montreal, from which it appears, how<lb break="no"/>ever, he has
+                    now begun to measure back his steps, <lb/>having crossed to the American side of
+                    the river <lb/>where the action was fought, and being actively pur<lb break="no"/>
+            <lb/>sued in his retreat by the British troops.</p>
+                <p>The following information has been received by <lb/>the Alexander, Captain Henry,
+                    which arrived at Li<lb break="no"/>verpool on Tuesday:–</p>
+                <p>"Quebec, Nov. 26. 1813 <lb/>"The enemy's whole force was about 8000 men,
                     <lb/>under the command of General Wilkinson. The <lb/>division commanded by
                     General Boyd, consisting of <lb/>about 3000 to 4000 infantry, cavalry &amp;c.
-                    was alone <lb/>engaged upon the 11th instant. </p>
-                <p> "The enemy lost in the action, Brigadier Gen. </p>
+                    was alone <lb/>engaged upon the 11th instant.</p>
+                <p>"The enemy lost in the action, Brigadier Gen.</p>
                 <p>
             <pb/>Conington and Colonel Preston, killed–probably <lb/>600 men killed,
-                    wounded, and taken. </p>
-                <p> "The consequence was a precipitate retreat across <lb/>the St Lawrence at
+                    wounded, and taken.</p>
+                <p>"The consequence was a precipitate retreat across <lb/>the St Lawrence at
                     Cornwall on the 13th, and eva<lb break="no"/>cuating the province. General
                     Wilkinson marched <lb/>his troops into the Straits, the route of Plattsburgh,
                     <lb/>leaving all his boats, upwards of 300, in the Salmon <lb/>river, where they
                     were frozen in on the 16th, and <lb/>2000 men to protect them."</p>
-                <p> Colonel Plenderleath came home in the Alexander, <lb/>with dispatches. </p>
+                <p>Colonel Plenderleath came home in the Alexander, <lb/>with dispatches.</p>
                 <p/>
             </body>
         </text>

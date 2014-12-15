@@ -9,8 +9,9 @@
                     <title>44</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-18"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,7 +64,7 @@
                     that could be pur<lb break="no"/>chased was actually contracted for throughout
                     <lb/>that fertile province, on the 10th of October <lb/>last, for the French
                     market, and it was thought <lb/>the same man–uvre had taken place at New
-                    York, <lb/>Philadelphia, and Rhode Island. </p>
+                    York, <lb/>Philadelphia, and Rhode Island.</p>
                 <p/>
             </body>
         </text>

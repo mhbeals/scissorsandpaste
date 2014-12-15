@@ -9,10 +9,11 @@
                     <title>318</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141003 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141003 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-06-27"/>
                         </publicationStmt>
                     </biblFull>
@@ -70,12 +71,10 @@
                     and <lb/>productive. The ineffectual attempts of last sum<lb break="no"/>mer to
                     prevent the future depredations of the Mi<lb break="no"/>amis, and some other
                     tribes of Indians, and the <lb/>barbarities before and since committed on the
-                        set<lb break="no"/>
-            <lb/>lers, must occasion other people to be very cau<lb break="no"/>tious of removing to places where they would hold <lb/>their
-                    lives and property on a very precarious te<lb break="no"/>
-            <lb/>ure, unless the
-                    arms of the State prove remark<lb break="no"/>ably successful in their future
-                    attacks. </p>
+                        set<lb break="no"/>lers, must occasion other people to be very cau<lb break="no"/>tious of removing to places where they would hold <lb/>their
+                    lives and property on a very precarious te<lb break="no"/>ure, unless the arms
+                    of the State prove remark<lb break="no"/>ably successful in their future
+                    attacks.</p>
             </body>
         </text>
     </TEI>

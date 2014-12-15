@@ -9,10 +9,11 @@
                     <title>342</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130512 by M. H. Beals.
-                        Transcribed on 20141106 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130512 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141106 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-07-12"/>
                         </publicationStmt>
                     </biblFull>
@@ -74,7 +75,7 @@
                     miles along the river, which is the <lb/>boundary of Georgia, after which he
                     returned to <lb/>Savannah. This defeat is so total, that it will put <lb/>it out
                     of the power of these Indians to be again <lb/>troublesome to the State of
-                    Virginia. </p>
+                    Virginia.</p>
             </body>
         </text>
     </TEI>

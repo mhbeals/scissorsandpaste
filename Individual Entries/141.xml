@@ -9,8 +9,9 @@
                     <title>141</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1819-05-27"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,14 +64,13 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Extract of a letter from William Hunt,
-                        esq."</hi>
-            <lb/>
-            <hi rend="smallcaps">To H. Hunt, esq."/&gt;</hi>
-         </p>
-                <p> "Washington Hotel, New Orleans, Dec. 25. 1818.</p>
-                <p> "<hi rend="smallcaps">My Dear Brother</hi> – We arrived safe in the mouth
+                    <pb/>
+                    <hi rend="smallcaps">Extract of a letter from William Hunt, esq."</hi>
+                    <lb/>
+                    <hi rend="smallcaps">To H. Hunt, esq."/&gt;</hi>
+                </p>
+                <p>"Washington Hotel, New Orleans, Dec. 25. 1818.</p>
+                <p>"<hi rend="smallcaps">My Dear Brother</hi> – We arrived safe in the mouth
                     of <lb/>the Mississippi on the 10th of this month, after a voyage <lb/>of 82
                     days from Gravesend. Your son and myself are in <lb/>excellent health, and very
                     happy. There are 35 English <lb/>vessels from Liverpool now here, and a great
@@ -137,7 +137,7 @@
                     cravats, pocket handker<lb break="no"/>chiefs, &amp; c. &amp; c. The price of a
                     gallon of best rum is one <lb/>and a half dollar. The custom-house duty on my
                     things <lb/>shipped from England, I have paid 92 dollars for. Al<lb break="no"/>though I should like England very well if it was not for <lb/>the taxes, yet,
-                    from what I have seen hitherto, I like <lb/>America ten times better </p>
+                    from what I have seen hitherto, I like <lb/>America ten times better</p>
             </body>
         </text>
     </TEI>

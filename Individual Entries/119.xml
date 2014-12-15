@@ -9,8 +9,9 @@
                     <title>119</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1816-11-21"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,13 +52,13 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Canada Papers.</hi>
-         </p>
-                <p> Montreal, Oct. 5. <lb/>On the afternoon of Saturday last, the specie <lb/>seized
+                    <pb/>
+                    <hi rend="smallcaps">Canada Papers.</hi>
+                </p>
+                <p>Montreal, Oct. 5. <lb/>On the afternoon of Saturday last, the specie <lb/>seized
                     on board the Lake Champlain steam-boat, <lb/>amounting to upward of 12,000
-                    dollars, arrived <lb/>at his Majesty's cash-office here, under the es<lb break="no"/>cort of the 19th light dragoons from St John's. </p>
-                <p> At length we have authentic accounts relating <lb/>to the expedition of Lord
+                    dollars, arrived <lb/>at his Majesty's cash-office here, under the es<lb break="no"/>cort of the 19th light dragoons from St John's.</p>
+                <p>At length we have authentic accounts relating <lb/>to the expedition of Lord
                     Selkirk ; they are very <lb/>important, as many <hi rend="italic">ex parte</hi>
                     details have been <lb/>published - his taking Fort William by storm, <lb/>making
                     all the partners of the North West Com<lb break="no"/>pany prisoners, &amp;c. ;
@@ -84,7 +85,7 @@
                     on the subject <lb/>without further authentic details ; it is, however, <lb/>but
                     justice to say, that the Hudson's Bay Com<lb break="no"/>pany have rights, and
                     are a chartered Company ; <lb/>the North West Traders, though we believe a
-                    <lb/>most respectable body, are only an Association <lb/>of Merchants. </p>
+                    <lb/>most respectable body, are only an Association <lb/>of Merchants.</p>
             </body>
         </text>
     </TEI>

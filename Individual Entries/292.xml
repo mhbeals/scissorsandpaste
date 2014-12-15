@@ -9,8 +9,9 @@
                     <title>292</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1840-07-29"/>
                         </publicationStmt>
                     </biblFull>
@@ -59,7 +60,7 @@
                     has been enriched by their toils, and, in return, <lb/>refuses them the means of
                     subsistence. Their prayer <lb/>was to be sent to New Zealand. The answer was,
                     <lb/>that Government will, next session, bring forward <lb/>some general measure
-                    on the subject, but in the mean <lb/>time cannot help them. </p>
+                    on the subject, but in the mean <lb/>time cannot help them.</p>
             </body>
         </text>
     </TEI>

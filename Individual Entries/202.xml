@@ -9,8 +9,9 @@
                     <title>202</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1824-02-11"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,7 +61,7 @@
                     work, along with the rest of the <lb/>convicts, in Woolwich Warren. He will be
                     conveyed on board <lb/>the <hi rend="italic">Countess of Harcourt</hi>,
                     convict-ship, from Woolwich, about <lb/>three weeks hence, to New South Wales,
-                    his future destination. </p>
+                    his future destination.</p>
                 <p>
             <hi rend="smallcaps">Petersburgh</hi>.–On the 6th of January the
                     anniversary of <lb/>the deliverance of Russia, from the invasion of the French,

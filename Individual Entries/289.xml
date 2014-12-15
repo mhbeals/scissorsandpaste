@@ -9,8 +9,9 @@
                     <title>289</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1839-11-24"/>
                         </publicationStmt>
                     </biblFull>
@@ -74,7 +75,7 @@
                     <lb/>characters, left their native home with the good wishes <lb/>of all their
                     friends. Any donations, either in money <lb/>or clothes, will be thankfully
                     received by Mr Andrew <lb/>Spence, of the firm of Messrs Cunninham &amp; Spence,
-                    <lb/>No. 62, Tolbooth-wynd, Leith. </p>
+                    <lb/>No. 62, Tolbooth-wynd, Leith.</p>
             </body>
         </text>
     </TEI>

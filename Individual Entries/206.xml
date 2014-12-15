@@ -9,8 +9,9 @@
                     <title>206</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1828-04-02"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,7 +61,7 @@
                     <lb/>three o'clock for that colony, with a full general cargo, <lb/>and a number
                     of passengers. Another vessel, the <lb/>Margaret, a brig, also about 300 tons,
                     is now load<lb break="no"/>ing for the same place, chartered by a merchant in
-                    <lb/>Leith. </p>
+                    <lb/>Leith.</p>
                 <p/>
             </body>
         </text>

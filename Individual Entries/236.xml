@@ -9,8 +9,9 @@
                     <title>236</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1833-02-02"/>
                         </publicationStmt>
                     </biblFull>
@@ -58,7 +59,7 @@
                     500 unmarried wo<lb break="no"/>men or widows between the age of 18 and 30
                     years, <lb/>as emigrants to New South Wales. It is intended to <lb/>place the
                     emigrants in divers situations, and leave them <lb/>free and not bound to an
-                    employer. </p>
+                    employer.</p>
             </body>
         </text>
     </TEI>

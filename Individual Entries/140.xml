@@ -9,8 +9,9 @@
                     <title>140</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1819-05-26"/>
                         </publicationStmt>
                     </biblFull>
@@ -61,13 +62,13 @@
         <text>
             <body>
                 <p>
-            <pb/>Colonial Intelligence </p>
-                <p> Some Canada papers to the 11th let. have arrived in <lb/>town. Sir Peregrine
+            <pb/>Colonial Intelligence</p>
+                <p>Some Canada papers to the 11th let. have arrived in <lb/>town. Sir Peregrine
                     Maitland had summoned the <lb/>Parliament of Upper Canada to meet him at York,
                     on <lb/>the 22d of April. He had appointed Port Talbot in <lb/>the town of
                     Dunwich, a port of entry, in the same <lb/>manner as those established between
-                    Canada and the <lb/> United Statess. </p>
-                <p> Extract of a letter to a Gentleman in George-town, <lb/>dated Tobago, Feb. 9.
+                    Canada and the <lb/> United Statess.</p>
+                <p>Extract of a letter to a Gentleman in George-town, <lb/>dated Tobago, Feb. 9.
                     1819.–' The heavy rains <lb/>which continued during the months of
                     December and <lb/>January, almost inundated the country, which brought <lb/>on a
                     most rapid and fatal disease, which made its first <lb/>appearance in the frost,
@@ -82,21 +83,20 @@
                     William's crew, from their mutinous dis<lb break="no"/>position, deserted
                     her–some have since died ; and <lb/>some remain sick. The weather has
                     become good <lb/>within these fifteen days, and the health of the island
-                    <lb/>improving fast.' </p>
-                <p> A series of Sierra Leone Gazettes, to the 20th of <lb/>February, have reached
-                    us. They contain no intelli<lb break="no"/>gence of particular interest, expect
-                    that the colony ap<lb break="no"/>pears to have been healthy at that period. In
-                    one of <lb/>them we find a contradiction of the reports which <lb/>found their
-                    way into the English papers some months <lb/>since of the dreadful mortality
-                    that prevailed in that <lb/>settlement. It states that the "total number of
-                        Euro<lb break="no"/>peans who died in the Peninsula in 1818, was eight
-                    <lb/>men, three women, and two children. We lost no ci<lb break="no"/>vil,
-                    military or colonial officer, excepting one young <lb/>Gentleman who died a
-                    month after his arrival, and is <lb/>included in the number."</p>
-                <p> A letter from the Havannah, dated 27th February, <lb/>mentions that the article
+                    <lb/>improving fast.'</p>
+                <p>A series of Sierra Leone Gazettes, to the 20th of <lb/>February, have reached us.
+                    They contain no intelli<lb break="no"/>gence of particular interest, expect that
+                    the colony ap<lb break="no"/>pears to have been healthy at that period. In one
+                    of <lb/>them we find a contradiction of the reports which <lb/>found their way
+                    into the English papers some months <lb/>since of the dreadful mortality that
+                    prevailed in that <lb/>settlement. It states that the "total number of Euro<lb break="no"/>peans who died in the Peninsula in 1818, was eight <lb/>men,
+                    three women, and two children. We lost no ci<lb break="no"/>vil, military or
+                    colonial officer, excepting one young <lb/>Gentleman who died a month after his
+                    arrival, and is <lb/>included in the number."</p>
+                <p>A letter from the Havannah, dated 27th February, <lb/>mentions that the article
                     of coffee is gradually rising <lb/>in value, and that an agent from Messrs
                     Baring is <lb/>making purchases there to the amount of 1/3 a million
-                    <lb/>sterling, in that single commodity. </p>
+                    <lb/>sterling, in that single commodity.</p>
             </body>
         </text>
     </TEI>

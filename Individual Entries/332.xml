@@ -9,10 +9,11 @@
                     <title>332</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20141017 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1792-06-25"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,7 +68,7 @@
                     <lb/>United States, died lately in the Creek territories. <lb/>He passed most of
                     his life in the remote parts of <lb/>America. By his regulations, the Indians
                     have <lb/>been very much civilized. His death has occasion<lb break="no"/>ed
-                    universal regret among his people. </p>
+                    universal regret among his people.</p>
             </body>
         </text>
     </TEI>

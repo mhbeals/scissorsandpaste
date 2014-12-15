@@ -9,8 +9,9 @@
                     <title>300</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1841-04-07"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,7 +68,7 @@
                     <lb/>Emigration Depot–many of the families consisting of <lb/>from eight
                     to twelve individuals. The Prince Rupert, <lb/>which now lies in the London
                     Dock, will clear out on <lb/>the 10th inst ; and it is supposed she will pretty
-                    well <lb/>clear the depot of its present inmates. </p>
+                    well <lb/>clear the depot of its present inmates.</p>
             </body>
         </text>
     </TEI>

@@ -9,8 +9,9 @@
                     <title>218</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1830-11-10"/>
                         </publicationStmt>
                     </biblFull>
@@ -55,7 +56,7 @@
                     their beautiful Panorama of Botany Bay, Al<lb break="no"/>giers, &amp;c. of
                     several Views illustrative of the principal <lb/>events of the late Revolution
                     in Paris, and from the <lb/>brilliant and effective style in which they are got
-                    up, <lb/>must draw the attention of the Public in no ordinary <lb/>manner. </p>
+                    up, <lb/>must draw the attention of the Public in no ordinary <lb/>manner.</p>
             </body>
         </text>
     </TEI>

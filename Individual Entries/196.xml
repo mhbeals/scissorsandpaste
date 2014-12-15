@@ -9,8 +9,9 @@
                     <title>196</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1824-03-27"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,12 +52,12 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Prison Discipline.</hi>
-         </p>
+                    <pb/>
+                    <hi rend="smallcaps">Prison Discipline.</hi>
+                </p>
                 <p>
             <hi rend="smallcaps">The Fifth Report</hi> of the Committee of the Society for
-                    the <lb/>Improvement of Prison Discipline, &amp;c.–1823. With an Ap<lb break="no"/>pendix, &amp;c. </p>
+                    the <lb/>Improvement of Prison Discipline, &amp;c.–1823. With an Ap<lb break="no"/>pendix, &amp;c.</p>
                 <p>
             <hi rend="enlarged-capital">T</hi>
             <hi rend="smallcaps">his Report</hi> only
@@ -202,14 +203,14 @@
                         pro<lb break="no"/>vided with " a regulator," by which its rate of
                     revolution <lb/>may at all times be restrained within safe limits, and a
                     <lb/>dial-register, (lately invented by Mr <hi rend="smallcaps">Bate</hi>,
-                        instrument<lb break="no"/>
-            <lb/> maker to the Board of Excise) by which the
-                    rate of labour <lb/>may be, at any time, accurately ascertained, and which
-                    <lb/>( they think ) should in no case exceed 12,000 feet in ascent <lb/>for one
-                    day. There is an able argument in the report against <lb/>compelling persons to
+                        instrument<lb break="no"/> maker to the Board of Excise) by which the rate
+                    of labour <lb/>may be, at any time, accurately ascertained, and which <lb/>(
+                    they think ) should in no case exceed 12,000 feet in ascent <lb/>for one day.
+                    There is an able argument in the report against <lb/>compelling persons to
                     labour who are merely imrpisoned <lb/>
             <hi rend="italic">for trial</hi> : and
-                    there is a great mass of curious and useful <lb/>information in the Appendix. </p>
+                    there is a great mass of curious and useful <lb/>information in the
+                    Appendix.</p>
                 <p/>
             </body>
         </text>

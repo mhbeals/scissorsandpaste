@@ -9,8 +9,9 @@
                     <title>280</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1839-07-24"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,7 +61,7 @@
                     <lb/>vessel, and had her bulwark driven in and some of <lb/>the masts
                     dismantled, but providentially no lives were <lb/>lost. She was towed back to
                     Greenock on Wednes<lb break="no"/>day morning, and the utmost exertions are
-                    making <lb/>for her re-sailing from Greenock early next week. </p>
+                    making <lb/>for her re-sailing from Greenock early next week.</p>
                 <p/>
             </body>
         </text>

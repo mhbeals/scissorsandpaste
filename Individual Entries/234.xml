@@ -9,8 +9,9 @@
                     <title>234</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1833-12-07"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,9 +52,9 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration</hi>
-         </p>
+                    <pb/>
+                    <hi rend="smallcaps">Emigration</hi>
+                </p>
                 <p>
             <hi rend="enlarged-capital">T</hi>he subject of emigration is rising in
                     importance <lb/>from year to year, and cannot lose its interest as long <lb/>as
@@ -73,19 +74,19 @@
                     woman on the voyage ; and thus a human be<lb break="no"/>ing can be conveyed
                     over a distance equal to one-sixth <lb/>part of the circumference of the globe,
                     and six times <lb/>longer, we dare say, than the wanderings of Ulysses, at
-                    <lb/>the small coast of 45s ! </p>
-                <p> In an article in May 1832, we pointed out the rapid <lb/>strides with which
+                    <lb/>the small coast of 45s !</p>
+                <p>In an article in May 1832, we pointed out the rapid <lb/>strides with which
                     emigration was advancing ; and <lb/>some Parliamentary papers we have received
                     since, ex<lb break="no"/>hibit new proofs of its extraordinary progress. It
-                    <lb/>has, in fact, outstripped the expectations of the most <lb/>sanguine. </p>
-                <p> The following table shows the number of person who <lb/>have emigrated in the
-                    last eight years to North America, <lb/>the Cape, and Australia :– </p>
-                <p> British America. United States. Cape of G. Hope. Australia. Total. <lb/>1825
+                    <lb/>has, in fact, outstripped the expectations of the most <lb/>sanguine.</p>
+                <p>The following table shows the number of person who <lb/>have emigrated in the
+                    last eight years to North America, <lb/>the Cape, and Australia :–</p>
+                <p>British America. United States. Cape of G. Hope. Australia. Total. <lb/>1825
                     8,714 5,551 114 485 14,891 <lb/>1826 12,818 7,063 116 903 20,900 <lb/>1827 12,
                     14,526 114 715 28,003 <lb/>1828 12,084 12,817 135 1,056 26,092 <lb/>1829 13,307
                     15,678 197 2,916 31,198 <lb/>1830 30,574 24,887 204 1,242 56,907 <lb/>1831
-                    58,067 23,418 11 1,561 83,160 <lb/>1832 66,339 32,872 196 3,733 103,140 </p>
-                <p> It will be seen from this table how steady the in<lb break="no"/>crease of
+                    58,067 23,418 11 1,561 83,160 <lb/>1832 66,339 32,872 196 3,733 103,140</p>
+                <p>It will be seen from this table how steady the in<lb break="no"/>crease of
                     emigration has been, especially to Canada. <lb/>It must be observed, that a
                     great proportion, probably <lb/>more than a half of those who sailed for the
                     United <lb/>States, were destined for the British colonies, and only <lb/>chose
@@ -102,13 +103,14 @@
                     shores of Britain in one summer, will appreciate <lb/>the extremely dissimilar
                     condition of a colony which, <lb/>with less than a million inhabitants, can take
                     in <lb/>eighty-thousand new settlers in the same period without
-                    <lb/>embarassment or confusion. </p>
-                <p> The general result is, that Britain sent off 103,000 <lb/>souls from her
+                    <lb/>embarassment or confusion.</p>
+                <p>The general result is, that Britain sent off 103,000 <lb/>souls from her
                     population last year, of whom a[?] number <lb/>sailed 7000 miles, a number
                     14,000, and those who <lb/>made the shortest voyage, 4000 miles. The annals of
                     <lb/>emigration afford nothing approaching to this in any <lb/>part of the world
-                    ; and yet we may reasonably expect to <lb/>see still greater things atcheived. </p>
-                <p> It appears from the various census since 1801, that <lb/>the annual increase in
+                    ; and yet we may reasonably expect to <lb/>see still greater things
+                    atcheived.</p>
+                <p>It appears from the various census since 1801, that <lb/>the annual increase in
                     Britain, if no persons left it, <lb/>would be about 350,000; or we may place the
                     fact in <lb/>a more striking light by stating, that <hi rend="italic">there are
                         about a</hi>
@@ -125,33 +127,35 @@
                     population. Now <lb/>from what has been stated it appears that the emigrants
                     <lb/>who leave our shores annually amount to nearly one<lb break="no"/> third of
                     the annual excess already ; and in a year or <lb/>two there is every probability
-                    that it will amount to <lb/>one-half. </p>
-                <p> Of 51,200 emigrants who landed at Quebec and <lb/>Montreal last year, 17,500
-                    went from England, <lb/>28,200 from Ireland, and 5,500 from Scotland. In
-                    <lb/>the year 1831, the numbers were, from England 10,300, <lb/>Ireland 34,100,
-                    Scotland 5,300. </p>
-                <p> Of the emigrants from Scotland last year, 1716 sail<lb break="no"/>ed from
+                    that it will amount to <lb/>one-half.</p>
+                <p>Of 51,200 emigrants who landed at Quebec and <lb/>Montreal last year, 17,500 went
+                    from England, <lb/>28,200 from Ireland, and 5,500 from Scotland. In <lb/>the
+                    year 1831, the numbers were, from England 10,300, <lb/>Ireland 34,100, Scotland
+                    5,300.</p>
+                <p>Of the emigrants from Scotland last year, 1716 sail<lb break="no"/>ed from
                     Greenock, 1145 from Leith, 638 from Cro<lb break="no"/>marty, 478 from Aberdeen,
                     439 from Dundee, 231 <lb/>from Alloa, 181 from Islay, 175 from Anna, 160 from
                     <lb/>Glasgow, 112 from Leven, 110 from Campbeltown, <lb/>and numbers under 100
-                    from Stanraer, Peterhead, and <lb/>Irvine. </p>
-                <p> Of the emigrants to the United States last year <lb/>15,754 sailed from
+                    from Stanraer, Peterhead, and <lb/>Irvine.</p>
+                <p>Of the emigrants to the United States last year <lb/>15,754 sailed from
                     Liverpool, 5,546 from London <lb/>2,742 from Bristol, 2,613 from Londonderry,
-                    and <lb/>1,711 from Greenock. </p>
-                <p> Mr Buchanan, the Government agent at Quebec, <lb/>states in his Report, that
-                    "the general description of <lb/>emigrants who arrived last year ; many
-                    respectable and wealthy fa<lb break="no"/>milies came from all part of the
-                    united kingdom ; and <lb/>the extent of property and specie brought into the
-                    <lb/>country by them is exceedingly great, fully amounting <lb/>to from t600,000
-                    to t700,000 sterling." About 5000 <lb/>persons were sent out by pecuniary aid
-                    from parishes <lb/>or landlords ; and there were 1700 "commuted pen<lb break="no"/>sioners" (military, we believe), many of them men of
-                    <lb/>irregular habits, and ill fitted for the situation of set<lb break="no"/>tlers. Of these, about 100 returned to Britain. The <lb/>fear of cholera was a
-                    considerable check to emigration. <lb/>It appeared in Quebec on the 8th of June,
-                    and the <lb/>persons who arrived after that, suffered much from <lb/>the
-                    difficulty of procuring lodgings even for a day ; <lb/>but Mr Buchanan estimates
-                    the whole number of emi<lb break="no"/>grants who fell victims to the disease,
-                    at no more than </p>
-                <p> "The demand for all classes of working people <lb/>(says the Report,) has never
+                    and <lb/>1,711 from Greenock.</p>
+                <p>Mr Buchanan, the Government agent at Quebec, <lb/>states in his Report, that "the
+                    general description of <lb/>emigrants who arrived last year ; many respectable
+                    and wealthy fa<lb break="no"/>milies came from all part of the united kingdom ;
+                    and <lb/>the extent of property and specie brought into the <lb/>country by them
+                    is exceedingly great, fully amounting <lb/>to from t600,000 to t700,000
+                    sterling." About 5000 <lb/>persons were sent out by pecuniary aid from parishes
+                    <lb/>or landlords ; and there were 1700 "commuted pen<lb break="no"/>sioners"
+                    (military, we believe), many of them men of <lb/>irregular habits, and ill
+                    fitted for the situation of set<lb break="no"/>tlers. Of these, about 100
+                    returned to Britain. The <lb/>fear of cholera was a considerable check to
+                    emigration. <lb/>It appeared in Quebec on the 8th of June, and the <lb/>persons
+                    who arrived after that, suffered much from <lb/>the difficulty of procuring
+                    lodgings even for a day ; <lb/>but Mr Buchanan estimates the whole number of
+                        emi<lb break="no"/>grants who fell victims to the disease, at no more
+                    than</p>
+                <p>"The demand for all classes of working people <lb/>(says the Report,) has never
                     been exceeded in the Ca<lb break="no"/>nadas, particularly since the abatement
                     of the cholera, <lb/>and I can assure your Lordship that, during my late
                     <lb/>tour through the districts and settlements of Upper <lb/>Canada, I did not
@@ -159,7 +163,7 @@
                     of <lb/>that class arrived this year is not adequate to supply <lb/>the demand
                     created by the more wealthy emigrants. <lb/>This was particularly felt in the
                     Western and London <lb/>districts of the upper province, where the want of la<lb break="no"/>bourers was so great that it was found necessary to en<lb break="no"/>courage a number to come over from Ohio and Pen<lb break="no"/>nsylvania." This was written on the 12th Dec. 1832, <lb/>and the arrival of
-                    emigrants closed in October. </p>
+                    emigrants closed in October.</p>
             </body>
         </text>
     </TEI>

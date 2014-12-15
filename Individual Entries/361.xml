@@ -9,10 +9,11 @@
                     <title>361</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20141201 by M. H. Beals.
-                        Transcribed on 20141201 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Newspaper Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>London</settlement>
                         <region>England</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1817-01-02"/>
                         </publicationStmt>
                     </biblFull>
@@ -54,16 +55,15 @@
         <text>
             <body>
                 <p>
-            <pb n="3"/>
-            <hi rend="center">ANOTHER DREADFUL MASSACRE BY THE NATIVES OF THE
-                            MAR<lb break="no"/>
+                    <pb n="3"/>
+                    <hi rend="center">ANOTHER DREADFUL MASSACRE BY THE NATIVES OF THE MAR<lb break="no"/>
             </hi>
-            <lb/>
-            <hi rend="center">QUESAS ISLANDS.<lb/>[From
-                        the <hi rend="italic">Sydney Gazette</hi>, November 8, 1815.]</hi>
-            <lb/>
-         </p>
-                <p> By the <hi rend="italic">Governor Macquarrie</hi> are arrived Captain Fow<lb break="no"/>ler, and part of the crew of the India brig <hi rend="italic">Matilda</hi>, which <lb/>sailed from this colony in August, 1813, bound on
+                    <lb/>
+                    <hi rend="center">QUESAS ISLANDS.<lb/>[From the <hi rend="italic">Sydney
+                            Gazette</hi>, November 8, 1815.]</hi>
+                    <lb/>
+                </p>
+                <p>By the <hi rend="italic">Governor Macquarrie</hi> are arrived Captain Fow<lb break="no"/>ler, and part of the crew of the India brig <hi rend="italic">Matilda</hi>, which <lb/>sailed from this colony in August, 1813, bound on
                     a voy<lb break="no"/>age to the Derwent and Eastern Islands, and from thence
                     <lb/>to China; but was cut off and plundered on the night of <lb/>the 10th of
                     April last, while lying at anchor in Duff's <lb/>Bay, at the Island of Rooapoah,
@@ -74,8 +74,8 @@
                     <lb/>water. When the cannibal natives saw that it was im<lb break="no"/>practicable to get the vessel afloat, they concurred univer<lb break="no"/>sally in the design of putting the whole of her crew to <lb/>death; which
                     appears to have been a constant practise <lb/>among the different natives
                     towards one another, when <lb/>their canoes happen to fall upon a strange shore,
-                    through <lb/>stress of weather, or from any other accident. </p>
-                <p> Captain Fowler had formed an intimacy with their <lb/>Chief, or King, Nooahetu,
+                    through <lb/>stress of weather, or from any other accident.</p>
+                <p>Captain Fowler had formed an intimacy with their <lb/>Chief, or King, Nooahetu,
                     who presided at the horrible tri<lb break="no"/>bunal that had devoted the
                     unfortunate mariners to in<lb break="no"/>stant slaughter. He withheld his
                     assent to the murder; <lb/>but had no hesitation in permitting the plunder of
@@ -103,8 +103,8 @@
                     King, should <lb/>live to see so vile a deed perpetrated. Let my child and
                     <lb/>myself be strangled before it is performed; and then it <lb/>never will be
                     said that we sanctioned, even with our eye- <lb/>sight, the destruction of these
-                    unoffending people." </p>
-                <p> The magnanimity of such a conduct could not do less <lb/>than produce, even in
+                    unoffending people."</p>
+                <p>The magnanimity of such a conduct could not do less <lb/>than produce, even in
                     the mind of the unenlightened savage, <lb/>a paroxysm of surprise, mingled with
                     a sentiment of ad<lb break="no"/>miration in which the untaught man may possibly
                     excel <lb/>his fellow creature, whose conceptions are moulded by <lb/>tenets
@@ -119,8 +119,8 @@
                     multitude awed him to forbearance. <lb/>"The King! the King!" from every lip
                     burst forth:– <lb/>"What! kill the King! No, no, let all the strangers
                     live <lb/>–no man shall kill the King!" Thus were their lives
-                    <lb/>preserved and the vessel plundered of every thing on <lb/>board her. </p>
-                <p> The floor of the <hi rend="italic">Greenwich</hi>, which was burnt at Nooa<lb break="no"/>heva, still remains, and is dry at low water. All her iron
+                    <lb/>preserved and the vessel plundered of every thing on <lb/>board her.</p>
+                <p>The floor of the <hi rend="italic">Greenwich</hi>, which was burnt at Nooa<lb break="no"/>heva, still remains, and is dry at low water. All her iron
                     <lb/>and copper have been taken out by the natives, who have <lb/>a thorough
                     knowledge of the use of these materials. That <lb/>they are cannibals is well
                     ascertained. They form dis<lb break="no"/>tinct factions, and make war upon the
@@ -133,8 +133,8 @@
                     the eating of human <lb/>flesh, on pain of death, impatient of the restraint,
                     fell upon <lb/>one of the murdered bodies, and darting his teeth into it in
                     <lb/>all the madness of a voracious fury, exhaled the crimson <lb/>moisture,
-                    which had not yet coagulated. </p>
-                <p> The Chief of Port Anna Maria, who is very friendly to <lb/>Europeans, is named
+                    which had not yet coagulated.</p>
+                <p>The Chief of Port Anna Maria, who is very friendly to <lb/>Europeans, is named
                     Ke-atta-nooe, the first part of the <lb/>name implying the outrigger of a canoe,
                     and the latter <lb/>signifying great. The dress, of the men consists merely
                     <lb/>of a wrapper about the waist; the women are covered <lb/>from the shoulders
@@ -161,7 +161,7 @@
                     less numerous:–"Cannot we go and take <lb/>them? What is there to hinder
                     us?"–was immediately de<lb break="no"/>manded. This anecdote we notice as
                     a specimen of their <lb/>natural inclination to hostility, in which, all
-                    accounts re<lb break="no"/>specting them correspond. </p>
+                    accounts re<lb break="no"/>specting them correspond.</p>
             </body>
         </text>
     </TEI>

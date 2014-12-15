@@ -9,8 +9,9 @@
                     <title>179</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1821-06-02"/>
                         </publicationStmt>
                     </biblFull>
@@ -54,7 +55,7 @@
             <pb/>We have received letters this morning from New South <lb/>Wales, which
                     announce that the <hi rend="italic">Skelton</hi> from Leith arrived <lb/>at
                     Hobart Town, Van Dieman's Land, on the 27th of Nov. <lb/>last, with her numerous
-                    settlers, all well, and in good spirits. </p>
+                    settlers, all well, and in good spirits.</p>
                 <p/>
             </body>
         </text>

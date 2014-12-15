@@ -9,8 +9,9 @@
                     <title>226</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1832-10-13"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,10 +52,10 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">The Penal Colonies.</hi>
-         </p>
-                <p> Botany Bay serves as a recipient for criminals whose <lb/>reformation is
+                    <pb/>
+                    <hi rend="smallcaps">The Penal Colonies.</hi>
+                </p>
+                <p>Botany Bay serves as a recipient for criminals whose <lb/>reformation is
                     hopeless, and whom it is therefore desir<lb break="no"/>able to remove from the
                     Society to whose peace and se<lb break="no"/>curity they are sworn enemies. This
                     is the sole value <lb/>of the colony. If it did not exist, recourse would be
@@ -80,8 +81,8 @@
                     great expense attending transportation, <lb/>that no convict be assigned to a
                     settler until he shall <lb/>have paid, or given security for the payment by
                         instal<lb break="no"/>ments, of the expense incurred in the conveyance of
-                    <lb/>the convict from the mother country. </p>
-                <p> We are satisfied that the true check to the increase <lb/>of crime is to be
+                    <lb/>the convict from the mother country.</p>
+                <p>We are satisfied that the true check to the increase <lb/>of crime is to be
                     found, first, in the diffusion of educa<lb break="no"/>tion and sound knowledge
                     ; and, second, in the improve<lb break="no"/>ment of our judicial and municipal
                     institutions. Law, <lb/>in all its important branches, should be dispensed by
@@ -99,7 +100,7 @@
                     situation <lb/>they had scarcely any knowledge, and with whose feel<lb break="no"/>ings, wants, and moral condition, they had of course no
                     <lb/>sympathy. The unpaid Magistracy of Britain is a bar<lb break="no"/>barism
                     belonging to the tenth century. Thirty years <lb/>hence men will wonder how
-                    their forefathers tolerated <lb/>so monstrous a system. </p>
+                    their forefathers tolerated <lb/>so monstrous a system.</p>
                 <p/>
             </body>
         </text>

@@ -9,8 +9,9 @@
                     <title>174</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1821-01-26"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,10 +52,10 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration.–Official</hi>
-         </p>
-                <p> Enquiries and applications having been addressed to the Colonial <lb/>Department
+                    <pb/>
+                    <hi rend="smallcaps">Emigration.–Official</hi>
+                </p>
+                <p>Enquiries and applications having been addressed to the Colonial <lb/>Department
                     respecting emigration to His Majesty's foreign posses<lb break="no"/>sions, it
                     has been deemed convenient, with a view to the information <lb/>and guidance of
                     individuals interest in this subject, to state, that, <lb/>1<hi rend="italic">stly</hi>, Persons are not provided with passages, at the public expense
@@ -70,11 +71,11 @@
                     Van <lb/>Diemen's Land must be provided with the sanction of his Majesty's
                     <lb/>Secretary of State ; and this can only be obtained upon written appli<lb break="no"/>cation, accompanied by references to two or more respectable
                     persons, <lb/>as to the character of the applicant, and the extent of his
-                    capital, which <lb/>must amount to Five Hundred Pounds, at the least. </p>
+                    capital, which <lb/>must amount to Five Hundred Pounds, at the least.</p>
                 <p>
             <hi rend="smallcaps">Colonial Department, London.</hi>
             <lb/>
-            <hi rend="italic">January</hi>, 1822. </p>
+            <hi rend="italic">January</hi>, 1822.</p>
                 <p/>
             </body>
         </text>

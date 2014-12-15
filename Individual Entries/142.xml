@@ -9,8 +9,9 @@
                     <title>142</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1819-05-27"/>
                         </publicationStmt>
                     </biblFull>
@@ -51,11 +52,11 @@
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration to America</hi>
-         </p>
-                <p> Important Extracts of a Letter from a very Intelligent and re<lb break="no"/>spectable Engineer in Louisville, dated January 20. 1819. </p>
-                <p> "The best time for coming to America I <lb/>should judge to be in the summer, to
+                    <pb/>
+                    <hi rend="smallcaps">Emigration to America</hi>
+                </p>
+                <p>Important Extracts of a Letter from a very Intelligent and re<lb break="no"/>spectable Engineer in Louisville, dated January 20. 1819.</p>
+                <p>"The best time for coming to America I <lb/>should judge to be in the summer, to
                     land in <lb/>September, so as to be able to get here before <lb/>the weather was
                     too cold. It is safe to <lb/>settle in the beginning of winter or spring, so as
                     <lb/>to inure to the climate by degrees. The best <lb/>plan for coming is to
@@ -95,7 +96,8 @@
                     <lb/>one to three bushels of corn to fatten for killing, <lb/>when they sell for
                     five cents a lb. In the less <lb/>settled parts of the country, it is the
                     practise to <lb/>give all the corn to swine and then send them to <lb/>market. A
-                    bushel of corn is equal in nutriment <lb/>to a bushel of wheat for man or beast. </p>
+                    bushel of corn is equal in nutriment <lb/>to a bushel of wheat for man or
+                    beast.</p>
                 <p/>
             </body>
         </text>

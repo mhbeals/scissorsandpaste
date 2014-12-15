@@ -9,8 +9,9 @@
                     <title>36</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-12-14"/>
                         </publicationStmt>
                     </biblFull>
@@ -62,11 +63,10 @@
             <pb n="6"/> Orders are sent to Plymouth for the Echo <lb/>sloop of war, Capt.
                     Drew, lately arrived from <lb/>Newfoundland, and now lying in the Sound, to
                     <lb/>get ready for sea, and proceed with all possible <lb/>dispatch to New
-                    York–to acquaint the Ameri<lb break="no"/>
-            <lb/>can Merchants, that the
-                    British ports are open <lb/>for the importation of American wheat :–It is
-                    <lb/>to be hoped this salutary measure will reduce the <lb/>present high price
-                    of wheat and flour. </p>
+                    York–to acquaint the Ameri<lb break="no"/>can Merchants, that the British
+                    ports are open <lb/>for the importation of American wheat :–It is <lb/>to
+                    be hoped this salutary measure will reduce the <lb/>present high price of wheat
+                    and flour.</p>
             </body>
         </text>
     </TEI>

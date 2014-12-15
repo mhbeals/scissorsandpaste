@@ -9,8 +9,9 @@
                     <title>295</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1840-10-28"/>
                         </publicationStmt>
                     </biblFull>
@@ -55,7 +56,7 @@
             <hi rend="smallcaps">William, The Missionary.</hi>–The sum already
                     <lb/>subscribed for the widow and family of this deeply <lb/>lamented individual
                     amounts to t1658, 18s. 10d. <lb/>Amongst the subscriptions we notice t32 from
-                    the <lb/>Wesleyan Chapel at Adelaide, South Australia. </p>
+                    the <lb/>Wesleyan Chapel at Adelaide, South Australia.</p>
                 <p/>
             </body>
         </text>

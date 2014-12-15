@@ -9,8 +9,9 @@
                     <title>288</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1839-11-23"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,7 +61,7 @@
                     to hand, which, in justice to Dr Lang, ought <lb/>to be considered. He therefore
                     asked leave to delay <lb/>the report, and to have the matter, with these docu<lb break="no"/>ments, recomitted to the committee.–This motion <lb/>was
                     agreed to, on the understanding that the question <lb/>would be again taken up
-                    at the meeting of the Commis<lb break="no"/>sion on the 11th December. </p>
+                    at the meeting of the Commis<lb break="no"/>sion on the 11th December.</p>
             </body>
         </text>
     </TEI>

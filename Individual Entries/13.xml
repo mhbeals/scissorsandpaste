@@ -9,8 +9,9 @@
                     <title>13</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1789-08-28"/>
                         </publicationStmt>
                     </biblFull>
@@ -60,18 +61,17 @@
         <text>
             <body>
                 <p>
-            <pb n="7"/>
-            <hi rend="italic">Extract of a letter form Philadelphia, dated
-                        25th</hi>
-            <lb/>
-            <hi rend="italic">May, 1789.</hi>
-         </p>
-                <p> "I have travelled through several of the States <lb/>and see no appearance of
-                    the poverty which you <lb/>hear so much boast of in Britain–every where I
+                    <pb n="7"/>
+                    <hi rend="italic">Extract of a letter form Philadelphia, dated 25th</hi>
+                    <lb/>
+                    <hi rend="italic">May, 1789.</hi>
+                </p>
+                <p>"I have travelled through several of the States <lb/>and see no appearance of the
+                    poverty which you <lb/>hear so much boast of in Britain–every where I
                     <lb/>meet rather with extravagance. Indeed they <lb/>procure too easily to be
                     frugal in their out-givings. <lb/>All the manufactured goods imported from Eu<lb break="no"/>rope are from Britain, and they cannot have goods <lb/>equal in
-                    quality and price from any other place. </p>
-                <p> "I think I never say so many children as are in <lb/>this country, every town,
+                    quality and price from any other place.</p>
+                <p>"I think I never say so many children as are in <lb/>this country, every town,
                     village, and farm-house, <lb/>are full of them.–The people of this
                     country in<lb break="no"/>crease like rabbits: It is supposed they double
                     <lb/>their numbers every fifteen years; but I should <lb/>think they do it in a

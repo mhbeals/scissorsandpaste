@@ -9,8 +9,9 @@
                     <title>246</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1834-11-08"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,7 +64,7 @@
                     <lb/>to the colonies, 1,289 went to Australia, and 1,227 <lb/>to Quebec. The
                     emigration to the West Indies dur<lb break="no"/>ing the above period, only
                     amounted to 12 to the <lb/>smaller islands, 3 to Antigua, 32 to Jamaica, and 26
-                    <lb/>to Demerara. The emigrants to Van Diemen's Land <lb/>were 135. </p>
+                    <lb/>to Demerara. The emigrants to Van Diemen's Land <lb/>were 135.</p>
             </body>
         </text>
     </TEI>

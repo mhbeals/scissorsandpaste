@@ -9,8 +9,9 @@
                     <title>290</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1840-04-18"/>
                         </publicationStmt>
                     </biblFull>
@@ -74,7 +75,7 @@
                     Hawes, M.P., Mr G. F. <lb/>Young, Mr Ward, M.P., and others. On the mo<lb break="no"/>tion of Mr G. Robinson, seconded by Mr Donaldson, <lb/>a
                     petition was adopted by the meeting, to be presented <lb/>to the Queen by the
                     Earl of Devon, to the House of <lb/>Peers by Lord Ashburton, and to the Commons
-                    by <lb/>Lord Eliot. </p>
+                    by <lb/>Lord Eliot.</p>
             </body>
         </text>
     </TEI>

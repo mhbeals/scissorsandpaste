@@ -9,8 +9,9 @@
                     <title>219</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1831-06-29"/>
                         </publicationStmt>
                     </biblFull>
@@ -65,7 +66,7 @@
                     arrivals from the Company's flocks. <lb/>They met a very ready sale, and the
                     average prices ob<lb break="no"/>tained were from 1s 5d to 2s 1d per lb. The
                     arrivals <lb/>from Germany and other places this year are expected <lb/>to be
-                    very great. </p>
+                    very great.</p>
             </body>
         </text>
     </TEI>

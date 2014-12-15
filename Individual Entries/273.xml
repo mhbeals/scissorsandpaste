@@ -9,8 +9,9 @@
                     <title>273</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1838-09-22"/>
                         </publicationStmt>
                     </biblFull>
@@ -65,7 +66,7 @@
                     emigrate from Austria <lb/>to Australia, because of the interference of
                         Govern<lb break="no"/>ment with their religious belief, amounted to 40,000
                     <lb/>souls. It was said they would be joined by a great <lb/>number of the
-                    inhabitants of Pomerania. </p>
+                    inhabitants of Pomerania.</p>
                 <p/>
             </body>
         </text>

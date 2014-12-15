@@ -9,11 +9,11 @@
                     <title>319</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                                <persName>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">
                   <ref target="http://www.mhbeals.com/about">M. H.
-                                Beals</ref>
-               </persName>. </authority>
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -28,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1791-05-02"/>
                         </publicationStmt>
                     </biblFull>
@@ -63,15 +63,14 @@
         <text>
             <body>
                 <p>
-            <pb n="2"/>
-            <hi rend="center">
-               <hi rend="italic">Nassau, New England, March</hi>
-                        12. </hi>
-         </p>
-                <p> The red bugs, which did so much injury to the <lb/>cotton last year, have again
+                    <pb n="2"/>
+                    <hi rend="center">
+               <hi rend="italic">Nassau, New England, March</hi> 12. </hi>
+                </p>
+                <p>The red bugs, which did so much injury to the <lb/>cotton last year, have again
                     made their appear<lb break="no"/>ance, but not in such numbers as was first
-                        ex<lb break="no"/>pected. </p>
-                <p> The hops in many States of America have been <lb/>particularly productive. </p>
+                        ex<lb break="no"/>pected.</p>
+                <p>The hops in many States of America have been <lb/>particularly productive.</p>
                 <p>A letter from Great-Ogreechee, in Georgia, <lb/>dated December 9th, says, "since
                     the comple<lb break="no"/>tion of the treaty with the Creeks, all has been
                     <lb/>very quiet, unless we except some ill-natured state- <lb/>bickerings and
@@ -81,7 +80,7 @@
                     degrees; not<lb break="no"/>withstanding the formidable combination in a cer<lb break="no"/>tain part of the State. As to the Creeks, Simi<lb break="no"/>noles, and other nations adjoining our Western <lb/>frontier, nothing is
                     clearer than that, so far from <lb/>being injurious to us, they may henceforward
                     be <lb/>made useful to the real interests of this State, pro<lb break="no"/>vided the faith of treaties be observed. They now <lb/>show every disposition
-                    to copy our manners, arts, <lb/>agriculture, and mode of living. </p>
+                    to copy our manners, arts, <lb/>agriculture, and mode of living.</p>
             </body>
         </text>
     </TEI>

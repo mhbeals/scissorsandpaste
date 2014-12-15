@@ -9,10 +9,11 @@
                     <title>85</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by M. H. Beals.
-                        Transcribed on 20142708 by <persName>
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>. </authority>
+                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20142708 by
+                            <persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H.
+                        Beals</ref>
+               </persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -27,12 +28,12 @@
                             <authority>Text within the public domain. Digitsed image available from
                                 Google News Archive</authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1790-12-13"/>
                         </publicationStmt>
                     </biblFull>
@@ -67,8 +68,7 @@
                <hi rend="italic">THE INDIANS</hi>.</hi>
             <lb/>
             <hi rend="enlarged-capital">I</hi>T is our wish, in imitation of other
-                        newswrit<lb break="no"/>
-            <lb/>ters, to give now and then an account of such
+                        newswrit<lb break="no"/>ters, to give now and then an account of such
                     <lb/>new publications as deserve the attention of the <lb/>public; but in a
                     paper, pubished only twice a <lb/>week, where so much naturally occurs under the
                     <lb/>article of temporary news, it is but seldom we can <lb/>find room for this
@@ -79,18 +79,17 @@
                     announce the pu<lb break="no"/>blication of a tragedy, intitled THE INDIANS, the
                     <lb/>reputed offspring of a learned Professor in this U<lb break="no"/>niversity. The great applause with which this <lb/>play was received, when
                     performed at Richmond <lb/>Theatre, has raised the expectations of those who
-                    <lb/>were not present at the performance to the high<lb break="no"/>
-            <lb/>est
-                    pitch; and we think we may take upon our<lb break="no"/>selves to assert, that
-                    upon perusing it, even their <lb/>highest expetations will not be
+                    <lb/>were not present at the performance to the high<lb break="no"/>est pitch;
+                    and we think we may take upon our<lb break="no"/>selves to assert, that upon
+                    perusing it, even their <lb/>highest expetations will not be
                     disappointed.– <lb/>The plot of the piece is taken from a well known
                     <lb/>story published at the end of a volum of poems, <lb/>written by the same
-                    gentleman. In the choice <lb/>of a plot, where so many dramatic writers of re<lb break="no"/>spectable talents have erred, our author is peculiar<lb break="no"/>ly happy. He ha strictly observed the advice of <lb/>Horace: </p>
+                    gentleman. In the choice <lb/>of a plot, where so many dramatic writers of re<lb break="no"/>spectable talents have erred, our author is peculiar<lb break="no"/>ly happy. He ha strictly observed the advice of <lb/>Horace:</p>
                 <p>
-            <hi rend="center">
+                    <hi rend="center">
                <hi rend="italic">Denique sit quid vis, simplex dumtaxat et
                             unum</hi>.</hi>
-         </p>
+                </p>
                 <p>
             <pb/>It is simple, and yet it does not disgust by an <lb/>appearance of
                     nakedness.–It is one, for the com<lb break="no"/>plaints of Maraino, and
@@ -156,11 +155,11 @@
                             locus.–</hi>
             </hi>
          </p>
-                <p> Upon the whole, the tragedy, upon which we <lb/>have, guided by impartiality,
+                <p>Upon the whole, the tragedy, upon which we <lb/>have, guided by impartiality,
                     spoken so freely, is <lb/>in our opinion far superior to most of those plays
                     <lb/>which have appeared of late years:–it is devoid <lb/>of
                     bombast:–it is nature–and she must inevita<lb break="no"/>bly
-                    please. </p>
+                    please.</p>
             </body>
         </text>
     </TEI>

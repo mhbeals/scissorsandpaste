@@ -9,8 +9,9 @@
                     <title>186</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on by M. H. Beals. Transcribed by
-                            <persName>Max Templer</persName>. </authority>
+                    <authority>Collected from a digital image by <persName role="transcription">M.
+                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                            Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
@@ -24,12 +25,12 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                     <address>
+                                <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                  </pubPlace>
+                            </pubPlace>
                             <date when="1821-02-05"/>
                         </publicationStmt>
                     </biblFull>
@@ -52,18 +53,16 @@
             <body>
                 <p>
             <pb/>
-            <hi rend="smallcaps">Emigration</hi>. </p>
-                <p> The following is an extract of a letter dated <lb/>Louisville, August 12th,
-                    1820, from a Scotchman <lb/>who has been ong settled in America, to his friend,
-                    <lb/>a Scotch Farmer, who rents 500 acres of land in the <lb/>County of
-                    Middlesex. </p>
-                <p> "The circumstances in which this country is <lb/>placed at present are truly
+            <hi rend="smallcaps">Emigration</hi>.</p>
+                <p>The following is an extract of a letter dated <lb/>Louisville, August 12th, 1820,
+                    from a Scotchman <lb/>who has been ong settled in America, to his friend, <lb/>a
+                    Scotch Farmer, who rents 500 acres of land in the <lb/>County of Middlesex.</p>
+                <p>"The circumstances in which this country is <lb/>placed at present are truly
                     melancholy, when com<lb break="no"/>pared to what they have been ; yet still it
                     is a better <lb/>country to live in than Britain. It is not easy to <lb/>make
                     money by farming, at present, in the United <lb/>States, for the want of a
-                    market; and I am of opi<lb break="no"/>
-            <lb/>nion that things will not mend, in
-                    this respect, for <lb/>some years, for all are sellers and none buyers. All
+                    market; and I am of opi<lb break="no"/>nion that things will not mend, in this
+                    respect, for <lb/>some years, for all are sellers and none buyers. All
                     <lb/>kinds of produce are selling, or rather offered for <lb/>sale, at one-third
                     of what prices were two years ago. <lb/>Land, of course, has fallen in the same
                     ratio. The <lb/>best of cleared land, within from 5 to 10 miles of <lb/>this
