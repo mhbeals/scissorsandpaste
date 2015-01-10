@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
-<teiCorpus>
+<teiCorpus version="5.2" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -1561,8 +1561,8 @@
             </profileDesc>
         </teiHeader>
         <text>
-            <head>AMERICAN NEWS</head>
             <body>
+                <head>AMERICAN NEWS</head>
                 <p>
                     <pb/>
                     <hi rend="center">[<hi rend="italic">Continued from our last</hi>.]</hi>
@@ -8209,22 +8209,22 @@
                     <lb/>half of them to be without shoes or stockings, <lb/>which will never do for
                     a winter campaign in this <lb/>country. To repel the threatened attack, we are
                     <lb/>making every preparation in our power, and the Ca<lb break="no"/>nadians
-                    seem well disposed to secondthe Govern<lb break="no"/>ment. Sir George Prevost
+                    seem well disposed to second the Govern<lb break="no"/>ment. Sir George Prevost
                     has established a cordon, <lb/>the left of which is at Chambly, and extending to
-                    <lb/>Chaneguny[?] ; the main encampment is half way be<lb break="no"/>tween St
+                    <lb/>Chateaguny ; the main encampment is half way be<lb break="no"/>tween St
                     John's and La Prairie. Colonel Murray <lb/>is at St John's with a battalion ;
                     and the Isle-au<lb break="no"/> Noix is strongly fortified, with a boom and a
                     chain <lb/>secured across the river. This line of defence is <lb/>composed of
-                    four regiments of the line, and 2000 <lb/>chained[?] militia, with a corps of
-                    about 400 Canadian <lb/>voyageurs[?], raised last spring. The Royals, a very
-                    <lb/>[?] battalion, lately arrived from the West Indies, <lb/>are now marching
-                    to join the camp. The citizens, <lb/>[?] here and at Quebec, mount guard, and do
+                    four regiments of the line, and 2000 <lb/>drafted militia, with a corps of about
+                    400 Canadian <lb/>voltigeurs, raised last spring. The Royals, a very <lb/>strong
+                    battalion, lately arrived from the West Indies, <lb/>are now marching to join
+                    the camp. The citizens, <lb/>both here and at Quebec, mount guard, and do
                     <lb/>garrison : indeed there are in this island <lb/>(Montreal) five battalions
                     of militia, say 3 to <lb/>4000 men, pretty well disciplined, and who on an
                     <lb/>alarm could march to this cordon in half a day.&#x2013; <lb/>A new regiment
                     of embodied militia has late<lb break="no"/>ly been formed by drafts from the
                     different regi<lb break="no"/>ments of inrolled militia in this island, and old
-                    Major <lb/>Murray is appointed Liuetenant-Colonel. The gen<lb break="no"/>tlemen
+                    Major <lb/>Murray is appointed Lieutenant-Colonel. The gen<lb break="no"/>tlemen
                     of the North-west Company army are forming <lb/>a corps of their voyageurs, who
                     will be most useful <lb/>troops to act in advance with the Indians. The
                     <lb/>number originally proposed was 200, but the men <lb/>have come forward so
@@ -8242,7 +8242,7 @@
                     expectation of an attack&#x2013;to <lb/>prevent which, they cut down their best
                     bridge, and <lb/>destroyed all the roads by which I suppose they mean <lb/>to
                     invade us. Mr &#x2013;, who was several days at <lb/>their headquarters, and who
-                    was offered the rank of <lb/>Liutenant-Colonel in the army, has, it is said,
+                    was offered the rank of <lb/>Lieutenant-Colonel in the army, has, it is said,
                         pro<lb break="no"/>posed to Sir George to destroy their camp with 500
                     <lb/>men ; and Sir George is said to have replied, that his <lb/>plan was fixed,
                     not to make any attack nor to send a <lb/>man across the line.</p>
@@ -8483,11 +8483,11 @@
                     force to op<lb break="no"/>pose them except the militia of the town and
                     vicinity, <lb/>who being only 400 in number, retreated as the ene<lb break="no"
                     />my advanced. The arsenal belonging to the State, <lb/>Pike's encampment,
-                    barracks at Serenac cantonment[?], <lb/>and every building belonging to the
-                    United States, <lb/>were immediately burnt. The enemy obtained both
-                    <lb/>provisions and stores. The loss cannot be less than <lb/>50,000 dollars.
-                    The enemy left Plattsburgh on the <lb/>1st, and are understood to be proceeding
-                    this way <lb/>[?] [?] [?] [?] [?] [?] [?] [?] [?] <cb/>
+                    barracks at Serenac cantonment, <lb/>and every building belonging to the United
+                    States, <lb/>were immediately burnt. The enemy obtained both <lb/>provisions and
+                    stores. The loss cannot be less than <lb/>50,000 dollars. The enemy left
+                    Plattsburgh on the <lb/>1st, and are understood to be proceeding this way
+                    <lb/>[?] [?] [?] [?] [?] [?] [?] [?] [?] <cb/>
                     <lb/>On General Dearborn invading Canada, and tak<lb break="no"/>ing possession
                     of Fort George, he sent off to Green<lb break="no"/>bush, as prisoners of war,
                     the following respectable <lb/>inhabitants : Messrs Edwards, Murehead, Dickson
@@ -36112,8 +36112,8 @@
             </profileDesc>
         </teiHeader>
         <text>
-            <head place="London, England, United Kingdom">LONDON.</head>
             <body>
+                <head n="London, England, United Kingdom">LONDON.</head>
                 <p>
                     <pb n="2"/>Each day brings additional strength to the re<lb break="no"/>port of
                     a rupture with America. The represent<lb break="no"/>tations which have been
@@ -36202,8 +36202,9 @@
             </profileDesc>
         </teiHeader>
         <text>
-            <head place="London, England, United Kingdom"/>
+
             <body>
+                <head n="London, England, United Kingdom"/>
                 <p>
                     <pb n="5"/>Letters from Quebec, dated Nov. 17, say, that <lb/> every thing was
                     quiet in that province.</p>
@@ -36239,7 +36240,9 @@
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitised image available from
-                                <ref target="http://news.google.com/newspapers?id=UJREAAAAIBAJ&amp;sjid=qrUMAAAAIBAJ&amp;pg=5088%2C256889"/>Google News Archive</authority>
+                                    <ref
+                                    target="http://news.google.com/newspapers?id=UJREAAAAIBAJ&amp;sjid=qrUMAAAAIBAJ&amp;pg=5088%2C256889"
+                                />Google News Archive</authority>
                             <pubPlace>
                                 <address>
                                 <settlement>Glasgow</settlement>
@@ -36277,8 +36280,9 @@
             </profileDesc>
         </teiHeader>
         <text>
-            <head>SOUTH AMERICA</head>
+
             <body>
+                <head>SOUTH AMERICA</head>
                 <p>
                     <pb n="1"/>
                     <hi rend="center">Extract of a letter from an Englishman, dated Lima, Sep<lb
@@ -36329,8 +36333,8 @@
                     in<lb/>produce. Mininng may be carried to any extent, it is true; <lb/>but this
                     requires tranquillity and good government. Peo<lb break="no"/>ple in Europe have
                     the most erroneous ideas or Peru; <lb/>every traveller and historian who has
-                    written or talked a<lb break="no">bout it ought to be made to stand in the
-                        pillory for a liar.</lb>" </p>
+                    written or talked a<lb break="no"/>bout it ought to be made to stand in the
+                    pillory for a liar." </p>
                 <p> "Arica, the second port of Peru, and the great outlet to <lb/>Upper Peru, is a
                     wretched village of hovels covered with <lb/>mud&#x2013;about 400 Mulattoes and
                     Indians&#x2013;placed on a sand <lb/>bank&#x2013;the people all in the
