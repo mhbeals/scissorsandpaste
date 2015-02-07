@@ -4,9 +4,8 @@
 
  <xsl:output method="text" version="4.0" encoding="UTF-8"/>
 
- <xsl:template match="/teiCorpus">Article ID,Newspaper Title,Newspaper City,Newspaper Province,Newspaper Country,Year,Month,Day,Article Type,Text,Keywords
-   <xsl:for-each select="TEI">
-     ID<xsl:value-of select="teiHeader/fileDesc/titleStmt/title"/>,<xsl:value-of
+ <xsl:template match="/teiCorpus">Article ID,Newspaper Title,Newspaper City,Newspaper Province,Newspaper Country,Year,Month,Day,Article Type,Text,Keywords<xsl:for-each select="TEI">
+ID<xsl:value-of select="teiHeader/fileDesc/titleStmt/title"/>,<xsl:value-of
     select="teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title"/>,<xsl:value-of
      select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/pubPlace/address/settlement"/>,<xsl:value-of
       select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/pubPlace/address/region"/>,<xsl:value-of
