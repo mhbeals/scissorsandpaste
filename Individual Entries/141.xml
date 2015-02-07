@@ -9,8 +9,8 @@
                     <title>141</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="transcription">M.
-                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                    <authority>Collected from a digital image by <persName role="collection">M. H.
+                            Beals</persName> Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -65,9 +65,8 @@
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Extract of a letter from William Hunt, esq."</hi>
-                    <lb/>
-                    <hi rend="smallcaps">To H. Hunt, esq."/&gt;</hi>
+                    <hi rend="smallcaps">Extract of a letter from William Hunt, esq." <lb/> To H.
+                        Hunt, esq.</hi>
                 </p>
                 <p>"Washington Hotel, New Orleans, Dec. 25. 1818.</p>
                 <p>"<hi rend="smallcaps">My Dear Brother</hi> – We arrived safe in the mouth

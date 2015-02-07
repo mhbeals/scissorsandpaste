@@ -9,8 +9,8 @@
                     <title>187</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="transcription">M.
-                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                    <authority>Collected from a digital image by <persName role="collection">M. H.
+                            Beals</persName> Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -59,12 +59,11 @@
         <text>
             <body>
                 <p>
-            <pb n="1"/>
-            <hi rend="center">SOUTH AMERICA.</hi>
-            <lb/>
-            <hi rend="center">Extract of
-                        a letter from an Englishman, dated Lima, Sep-</hi>
-            <lb/>tember 10, 1821.</p>
+                    <pb n="1"/>
+                    <hi rend="center">SOUTH AMERICA.</hi>
+                    <lb/>
+                    <hi rend="center">Extract of a letter from an Englishman, dated Lima, Sep<lb break="no"/>tember 10, 1821.</hi>
+                </p>
                 <p>"Lima is what an Englishman would call a dirty colo<lb break="no"/>nial town;
                     6000 inhabitants is the outside of its population; <lb/>the whites are about
                     1200 Europeans, and not as many <lb/>born in the country; the rest are blacks

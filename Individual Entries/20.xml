@@ -9,8 +9,8 @@
                     <title>20</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="transcription">M.
-                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                    <authority>Collected from a digital image by <persName role="collection">M. H.
+                            Beals</persName> Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -58,16 +58,16 @@
         </teiHeader>
         <text>
             <body>
+                <head>AMERICAN NEWS</head>
                 <p>
-            <pb/>
-            <hi rend="center">
-               <hi rend="italic">AMERICAN NEWS</hi>.</hi>
-            <lb/>
-            <hi rend="center">[<hi rend="italic">Continued from our last</hi>.]</hi>
-            <lb/>
-            <hi rend="center">
+                    <pb/>
+                    <hi rend="center">[<hi rend="italic">Continued from our last</hi>.]</hi>
+                    <lb/>
+                    <hi rend="center">
                <hi rend="italic">Carlisle, July</hi> 29.</hi>
-            <lb/>
+                </p>
+                <p>
+                    <lb/>
             <hi rend="enlarged-capital">O</hi>N Saturday last between three and four
                     <lb/>o'clock, P. M. happened the most violent <lb/>hurricane pest, or thunder
                     storm (for we are at <lb/>a lost to determine its proper name) that was
@@ -111,8 +111,8 @@
                         forgot<lb break="no"/>ten, that dreadful as the scene was, through the
                     <lb/>good providence of God, not a single life was <lb/>lost or any personal
                     injury, worth mentioning, <cb/>
-            <lb/>received, and the buildings, it is hoped,
-                    will soon <lb/>be restored to as good a state as they were in be<lb break="no"/>fore.</p>
+                    <lb/>received, and the buildings, it is hoped, will soon <lb/>be restored to as
+                    good a state as they were in be<lb break="no"/>fore.</p>
                 <p/>
             </body>
         </text>

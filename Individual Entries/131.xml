@@ -9,8 +9,8 @@
                     <title>131</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="transcription">M.
-                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                    <authority>Collected from a digital image by <persName role="collection">M. H.
+                            Beals</persName> Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -40,7 +40,7 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
@@ -98,38 +98,37 @@
                 <p>
             <hi rend="smallcaps">Statistical Table of the Scotch Settlement near Perth, Upper
                         Canada, of the 1st Week of July 1817</hi>
-            <lb/>Original Profession of
-                    Settlers. Wife. Sons. Daughters. From what County. From what Parish. Date of
-                    leaving home, 1815. Date of Embarkation, 1815. Date of Disembarkation, 1815.
-                    Date of taking possesion, 1816. Dimensions in feet of House erected. No. of
-                    Acres of Land chopped. No. of acres of Land cleared. Number of Acres in Whea.
-                    Number of Acres in other crops. No. of [?]s of Map Sugar made. No. of Cows. No.
-                    of Oxen. The undernamed Settlers have respectively signed a Declaration of "
-                    Well satisfied."<lb/>Farm Bailiff. 1. 3. 3. Perth. Callendar. May 15. June 24.
-                    Sept 12. May 22. 18 by 20. 9. 4 1/2. 2. 2 1/3. 100. 2. 0. Peter M'Pherson.
-                    <lb/>Son of the above. 0. 0. 0. Ditto. Ditto. Ditto. Ditto. Aug. 10. .... . 4.
-                    3. 2. 1. 0. 0. 1. William M'Pherson. <lb/>Weaver. 1. 2. 4. Ditto. Ditto. June
-                    21. Ditto. Ditto. May 22. 12 by 18 1/2. 10. 7. 4. 3. 102. 3. 1. James M'Laren.
-                    <lb/>Dyer and Clothier. 1. 1. 4. Lanark. Carnwath. May 31. Ditto. Sept. 15. May
-                    15. 26 by 21. 9. 8. 3 1/4. 4 1/2. 15. 2. 0. James Taylor. <lb/>Shoemaker. 1. 3.
-                    2. Moray. Rothes. April 20. Ditto. Sept. 12. May 1. 20 by 18. 13. 8. 4 1/2. 3
-                    1/4. 25. 3. 0. John Simpson. <lb/>Shipmaster. 1. 2. 1. Ayr. Kilbride. APril 27.
-                    Ditto. Ditto. Ditto. 1 by 17. 7 1/2. 5. 4. 1. 0. 1. 0. James Miller.
-                    <lb/>Weaver. 1. 3. 2. Lanark. Glasgow. June 24. Ditto. Sept. 15. May 12. 25 by
-                    20. 6. 4 1/2. 2 1/2. 2. 35. 1. 0. Hugh M'Kay. <lb/>Mason. 1. 1. 0. Forfar.
-                    Dundee. June 1. Ditto. Sept. 12. Ditto. 26 by 19. 9. 8 1/2. 4. 4 1/2. 20. 1. 1.
-                    William Spalding. <lb/>Millwright. 0. 0. 0. Dittio. Ditto. Ditto. Ditto. Ditto.
-                    12 by 10. 6. 6. 4. 2. 0. 0. 1. William Rutherford. <lb/>Labourer. 0. 0. 0.
-                    Moray. Longbride. April 15. June 28. Sept. 15. May 15. Shed. 5 1/2. 5. 2 1/2. 2
-                    1/3. 0. 0. 0. Alexander Simpson. <lb/>Labourer. 0. 0. 0. Forfar. St Vigean's.
-                    Ditto. Ditto. Ditto. April 12. 10 by 15. 6. 5 1/2. 3. 2 1/2. 0. 0. 0. John Hay.
-                    <lb/>Ship Carpenter. 0. 0. 0. Lanark. Glasgow. June 24. June 24. Ditto. Aug. 19.
-                    29 by 22. 7. 6. 2. 3. 20. 0. 0. Archibald Morrison. <lb/>Mason. 0. 0. 0.
-                    Dumfries. Dunscore. Ditto. June 27. Ditto. .... . . . . . . Thomas M'Lean.
-                    <lb/>Schoolmaster. 1. 5. 3. Ditto. Hutton. May 26. Ditto. Ditto. June 7. 33 by
-                    19. 7 1/2. 6 1/3. 3. 3. 50. 0. 0. John Holliday. <lb/>Farmer. 1. 1. 4. Ayr.
-                    Kilbride. June 30. June 30. Ditto. April 17. 23 by 16. 9 1/2. 6 1/2. 2 1/2. 3.
-                    25. 3. 1. Alexander M'Farlane. <lb/>Whitesmith. 1. 1. 2. Edinburgh. New Grey
+                    <lb/>Original Profession of Settlers. Wife. Sons. Daughters. From what County.
+                    From what Parish. Date of leaving home, 1815. Date of Embarkation, 1815. Date of
+                    Disembarkation, 1815. Date of taking possesion, 1816. Dimensions in feet of
+                    House erected. No. of Acres of Land chopped. No. of acres of Land cleared.
+                    Number of Acres in Whea. Number of Acres in other crops. No. of [?]s of Map
+                    Sugar made. No. of Cows. No. of Oxen. The undernamed Settlers have respectively
+                    signed a Declaration of " Well satisfied." <lb/>Farm Bailiff. 1. 3. 3. Perth.
+                    Callendar. May 15. June 24. Sept 12. May 22. 18 by 20. 9. 4 1/2. 2. 2 1/3. 100.
+                    2. 0. Peter M'Pherson. <lb/>Son of the above. 0. 0. 0. Ditto. Ditto. Ditto.
+                    Ditto. Aug. 10. .... . 4. 3. 2. 1. 0. 0. 1. William M'Pherson. <lb/>Weaver. 1.
+                    2. 4. Ditto. Ditto. June 21. Ditto. Ditto. May 22. 12 by 18 1/2. 10. 7. 4. 3.
+                    102. 3. 1. James M'Laren. <lb/>Dyer and Clothier. 1. 1. 4. Lanark. Carnwath. May
+                    31. Ditto. Sept. 15. May 15. 26 by 21. 9. 8. 3 1/4. 4 1/2. 15. 2. 0. James
+                    Taylor. <lb/>Shoemaker. 1. 3. 2. Moray. Rothes. April 20. Ditto. Sept. 12. May
+                    1. 20 by 18. 13. 8. 4 1/2. 3 1/4. 25. 3. 0. John Simpson. <lb/>Shipmaster. 1. 2.
+                    1. Ayr. Kilbride. APril 27. Ditto. Ditto. Ditto. 1 by 17. 7 1/2. 5. 4. 1. 0. 1.
+                    0. James Miller. <lb/>Weaver. 1. 3. 2. Lanark. Glasgow. June 24. Ditto. Sept.
+                    15. May 12. 25 by 20. 6. 4 1/2. 2 1/2. 2. 35. 1. 0. Hugh M'Kay. <lb/>Mason. 1.
+                    1. 0. Forfar. Dundee. June 1. Ditto. Sept. 12. Ditto. 26 by 19. 9. 8 1/2. 4. 4
+                    1/2. 20. 1. 1. William Spalding. <lb/>Millwright. 0. 0. 0. Dittio. Ditto. Ditto.
+                    Ditto. Ditto. 12 by 10. 6. 6. 4. 2. 0. 0. 1. William Rutherford. <lb/>Labourer.
+                    0. 0. 0. Moray. Longbride. April 15. June 28. Sept. 15. May 15. Shed. 5 1/2. 5.
+                    2 1/2. 2 1/3. 0. 0. 0. Alexander Simpson. <lb/>Labourer. 0. 0. 0. Forfar. St
+                    Vigean's. Ditto. Ditto. Ditto. April 12. 10 by 15. 6. 5 1/2. 3. 2 1/2. 0. 0. 0.
+                    John Hay. <lb/>Ship Carpenter. 0. 0. 0. Lanark. Glasgow. June 24. June 24.
+                    Ditto. Aug. 19. 29 by 22. 7. 6. 2. 3. 20. 0. 0. Archibald Morrison. <lb/>Mason.
+                    0. 0. 0. Dumfries. Dunscore. Ditto. June 27. Ditto. .... . . . . . . Thomas
+                    M'Lean. <lb/>Schoolmaster. 1. 5. 3. Ditto. Hutton. May 26. Ditto. Ditto. June 7.
+                    33 by 19. 7 1/2. 6 1/3. 3. 3. 50. 0. 0. John Holliday. <lb/>Farmer. 1. 1. 4.
+                    Ayr. Kilbride. June 30. June 30. Ditto. April 17. 23 by 16. 9 1/2. 6 1/2. 2 1/2.
+                    3. 25. 3. 1. Alexander M'Farlane. <lb/>Whitesmith. 1. 1. 2. Edinburgh. New Grey
                     Friars. May 19. June 24. Ditto. April 22. 22 by 14. 5. 4. 1 1/2. 1. 20. 1. 0.
                     Ian M'Donald's mark. <lb/>Farmer. 0. 1. 6. Perth. Callendar. May 15. Ditto.
                     Sept. 12. June 1. 24 by 21. 6. 5. 2 1/2. 2 1/2. 30. 1. 0. John Ferguson.

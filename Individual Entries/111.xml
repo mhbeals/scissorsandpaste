@@ -9,8 +9,8 @@
                     <title>111</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="transcription">M.
-                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                    <authority>Collected from a digital image by <persName role="collection">M. H.
+                            Beals</persName> Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -53,9 +53,7 @@
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Destruction of a Moravian Settlement</hi>
-                    <lb/>
-                    <hi rend="smallcaps">in Canada</hi>
+                    <hi rend="smallcaps">Destruction of a Moravian Settlement <lb/>in Canada</hi>
                 </p>
                 <p>The following letter received in town, gives a de<lb break="no"/>scription of the
                     wanton and barbarous conduct of the <lb/>American army, in destroying a

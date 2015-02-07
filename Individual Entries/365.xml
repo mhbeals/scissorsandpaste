@@ -27,10 +27,10 @@
                   </authority>
                             <pubPlace>
                                 <address>
-                                <settlement>Glasgow</settlement>
-                                <region>Scotland</region>
-                                <country>United Kingdom</country>
-                            </address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
                             </pubPlace>
                             <date when="1793-08-30"/>
                         </publicationStmt>
@@ -59,8 +59,8 @@
             </profileDesc>
         </teiHeader>
         <text>
-            <head place="London, England, United Kingdom">LONDON.</head>
             <body>
+                <head n="London, England, United Kingdom">LONDON.</head>
                 <p>
                     <pb n="2"/>Each day brings additional strength to the re<lb break="no"/>port of
                     a rupture with America. The represent<lb break="no"/>tations which have been
@@ -68,9 +68,9 @@
                     <lb/>topics of complaint. Amongst these are, the with<lb break="no"/>holding of
                     the poste of Niagara, Detroit, &amp;c. in <lb/> violation of the treat of 1783;
                     the exciting of <lb/>of the Creek and other Indians to make compen<lb break="no"/>sation for the property seized by the armies under <lb/>Lord Cornwalis, &amp;
-                    in the Southern sTates, ac<lb break="no"/>cording to stipulation; the seizure of
+                    in the Southern States, ac<lb break="no"/>cording to stipulation; the seizure of
                     American <lb/>ships bound to France; the impressing of Ameri<lb break="no"/>can
-                    citizens to man our fleets; and finally, the <lb/>sullen silnece which the
+                    citizens to man our fleets; and finally, the <lb/>sullen silence which the
                     British Minister is alledg<lb break="no"/>ed to have uniformly maintained on the
                     subject of <lb/>the claims made by the Republic. </p>
                 <p>The American Minister has, however, so little <lb/>hope of efficacy from these
@@ -82,7 +82,7 @@
                     that Briton be (whatever his <lb/>rank) who would advise another American war
                     <lb/>–a war which, reasoning of the future by the <lb/> sorrowful
                     experience of the past, can only serve to <lb/>increase the sum, and to swell
-                    the catalogue of <lb/>human woes. </p>
+                    the catalogue of <lb/>human woes.</p>
             </body>
         </text>
     </TEI>

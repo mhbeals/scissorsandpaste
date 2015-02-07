@@ -9,8 +9,8 @@
                     <title>193</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="transcription">M.
-                            H. Beals</persName> Transcribed by <persName role="transcription">Max
+                    <authority>Collected from a digital image by <persName role="collection">M. H.
+                            Beals</persName> Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -23,7 +23,7 @@
                             <title>Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. </authority>
+                            <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
                         <settlement>Edinburgh</settlement>
@@ -31,7 +31,7 @@
                         <country>United Kingdom</country>
                      </address>
                             </pubPlace>
-                            <date when="1824"/>
+                            <date when="1824-05-05"/>
                         </publicationStmt>
                     </biblFull>
                 </sourceDesc>
@@ -53,7 +53,7 @@
             <body>
                 <p>
             <pb/>The Mariner, Douglas, from New South Wales, was totally <lb/>lost 1st July,
-                    on the Island of Chiloc[?], and three of the crew drown<lb break="no"/>ed.</p>
+                    on the Island of Chiloe, and three of the crew drown<lb break="no"/>ed.</p>
                 <p/>
             </body>
         </text>
