@@ -26,7 +26,7 @@
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from
-                                Google News Archive</authority>
+                                    <ref targer="http://news.google.com/newspapers?id=Fl4-AAAAIBAJ&amp;sjid=xEsMAAAAIBAJ&amp;pg=4345%2C5105978">Google News Archive</ref>.</authority>
                             <pubPlace>
                                 <address>
                         <settlement>Glasgow</settlement>
@@ -43,7 +43,7 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
@@ -58,17 +58,11 @@
                             <item>war</item>
                             <item>Native Americans</item>
                             <item>textiles</item>
-                            <item>Native Americans</item>
                             <item>gambling</item>
-                            <item>gambling</item>
-                            <item>weather</item>
                             <item>longevity</item>
-                            <item>Freemasons</item>
                             <item>Freemasons</item>
                             <item>fire</item>
                             <item>trade</item>
-                            <item>Native Americans</item>
-                            <item>war</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -76,6 +70,8 @@
         </teiHeader>
         <text>
             <body>
+                <head>
+            <hi rend="italic">America</hi>.</head>
                 <p>
             <pb n="3"/>
             <hi rend="italic">Norfolk, April</hi> 11. This day arrived the ship
