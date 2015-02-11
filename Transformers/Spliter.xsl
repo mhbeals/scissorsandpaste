@@ -4,7 +4,7 @@
     
     <xsl:template match="teiCorpus">
         <xsl:for-each select="TEI">
-        <xsl:result-document method="xml" href="{teiHeader/fileDesc/titleStmt/title}.xml">
+            <xsl:result-document method="xml" href="Individual XML Entries\{teiHeader/fileDesc/titleStmt/title}.xml">
             
             <xsl:copy-of select="." />
             
