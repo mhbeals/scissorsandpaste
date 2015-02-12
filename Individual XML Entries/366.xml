@@ -28,10 +28,10 @@
                                     <ref target="http://news.google.com/newspapers?id=ikpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6341%2C555484"> Google News Archive</ref>
                   </authority>
                             <pubPlace>
-                                <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
+                                <address> 
+                        <settlement>Glasgow</settlement> 
+                        <region>Scotland</region> 
+                        <country>United Kingdom</country> 
                      </address>
                             </pubPlace>
                             <date when="1794-01-24"/>
@@ -61,7 +61,6 @@
             </profileDesc>
         </teiHeader>
         <text>
-
             <body>
                 <head n="London, England, United Kingdom"/>
                 <p>

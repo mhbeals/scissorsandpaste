@@ -1,1 +1,2 @@
-  This day arrived a mail from New-York, brought to Falmouth, by the Sandwich packet, in thirty-three days.  
+ This day arrived a mail from New-York, brought to Falmouth, by
+                    the Sandwich packet, in thirty-three days.

@@ -1,1 +1,27 @@
-  Richmond, Virginia, Dec. 1, 1790.  Extract of a letter from a Gentleman at Kentucky, to a Member of the General Assembly, dated, Nov. 7, 1790.  "I have been waiting with much impatience to obtain some certain account of our troops; many probably conjectures still fill the minds of the people. A hand-bill just come to Bourbon, contains an extract of a letter from Governor St. Clair to General Wilkinson, which mentions that our army had met with but little opposition. The Miami villages were abandoned, from thence a detachment was sent up to St. Joseph's river, which fell in with a party of Indians, and had a severe engagement.  "General Harmar made a shew of retreating, and marched about eight miles, when he detached a strong party to the field of action, in hopes of finding the Indians on the ground; as they expected, so they found them, and an action immediately commenced, which was obstinate on both sides.  "A vast number of Indians were killed in crossing the St. Joseph's river. Major Fountain, of Fayette, and General Scott's son were killed the second fire; Capt. M'Murty and 73 militiamen were killed; Major Willis, Lieut. Fotheringham, of the F–deral troops, and 77 privates, also fell in the action.  "General Harmar did not send a single man to reinforce the detachment, consisting of 400 men, (who had to sustain the fire of the whole Indian army) although he had with him in camp upwards of 1100 men. Our men at last lost ground, Colonel Harding's wing was beaten, and finally broke. Lieutenant Colonel Hall, of Bourbon, and Majors M'Million and Willis broke the other wing of the Indians, which occasioned the amazing slaughter in the river St. Joseph.  "General Harmar never sent to bring off the wounded, nor bury the dead. Captain David Thrope and Lieut. Clark fell in the field. The Bourbon militia has suffered very much, nearly one third of them having fallen on the spot.  "The army is now at Licking, and is expected home hourly.  "This is the best account that I have been able to collect; it will be delivered to you by Major Jones, who before he leaves the district, may be enabled to obtain further particulars."
+*Richmond, Virginia, Dec*. 1, 1790.*Extract of a letter from a Gentleman at Kentucky, to a
+                        Member of the General Assembly, dated, Nov*. 7, 1790."I have been waiting with much impatience to obtain some certain account of
+                    our troops; many probably conjectures still fill the minds of the
+                    people. A hand-bill just come to Bourbon, contains an
+                    extract of a letter from Governor St. Clair to General Wilkinson, which mentions that our army had met with
+                    but little opposition. The Miami villages were abandoned, from thence a
+                    detachment was sent up to St. Joseph's river, which fell in with a
+                    party of Indians, and had a severe engagement."General Harmar made a shew of retreating, and marched about eight miles,
+                    when he detached a strong party to the field of action, in hopes of
+                    finding the Indians on the ground; as they expected, so
+                    they found them, and an action immediately commenced, which was
+                    obstinate on both sides."A vast number of Indians were killed in crossing the St. Joseph's river.
+                    Major Fountain, of Fayette, and General Scott's son were killed the
+                    second fire; Capt. M'Murty and 73 militiamen were killed; Major
+                    Willis, Lieut. Fotheringham, of the F–deral troops, and
+                    77 privates, also fell in the action."General Harmar did not send a single man to reinforce the detachment,
+                    consisting of 400 men, (who had to sustain the fire of the whole
+                    Indian army) although he had with him in camp upwards of 1100 men. Our
+                    men at last lost ground, Colonel Harding's wing was beaten, and
+                    finally broke. Lieutenant Colonel Hall, of Bourbon, and
+                    Majors M'Million and Willis broke the other wing of the Indians, which
+                    occasioned the amazing slaughter in the river St. Joseph."General Harmar never sent to bring off the wounded, nor bury the dead.
+                    Captain David Thrope and Lieut. Clark fell in the field. The Bourbon
+                    militia has suffered very much, nearly one third of them having fallen on
+                    the spot."The army is now at Licking, and is expected home hourly."This is the best account that I have been able to collect; it will be
+                    delivered to you by Major Jones, who before he leaves the district,
+                    may be enabled to obtain further particulars."

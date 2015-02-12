@@ -80,15 +80,17 @@
                     <pb n="4"/>
                     <hi rend="smallcaps">Commerce of Canada.</hi>
                 </p>
-                <p><hi rend="smallcaps">Extract of a letter.</hi>
-                    <lb/>The population of Canada, in 1760, was reckoned <lb/>at 62,000 souls,
-                    whilst her exports had never ex<lb break="no"/>ceeded two millions of <hi
-                        rend="italic">livres tournois</hi> (about <lb/>90,000l) The imports must
-                    have greatly ex<lb break="no"/>ceeded the exports ; but not even a conjecture of
-                    <lb/>the differences can be formed. The present popula<lb break="no"/>tion of
-                    the Canadas may be rated at 320,000 souls ; <lb/>but great as this augmentation
-                    may appear, commerce <lb/>will be found to have greatly surpassed the propor<lb
-                        break="no"/>tional ratio of the population.</p>
+                <p>
+                    <hi rend="smallcaps">Extract of a letter.</hi>
+                </p>
+                <p>The population of Canada, in 1760, was reckoned <lb/>at 62,000 souls, whilst her
+                    exports had never ex<lb break="no"/>ceeded two millions of <hi rend="italic"
+                        >livres tournois</hi> (about <lb/>90,000l) The imports must have greatly
+                        ex<lb break="no"/>ceeded the exports ; but not even a conjecture of <lb/>the
+                    differences can be formed. The present popula<lb break="no"/>tion of the Canadas
+                    may be rated at 320,000 souls ; <lb/>but great as this augmentation may appear,
+                    commerce <lb/>will be found to have greatly surpassed the propor<lb break="no"
+                    />tional ratio of the population.</p>
                 <p>From 1763 to 1793, the exports may have varied <lb/>from 120,000l. to 300,000l.
                     chiefly of wheat, furs, <lb/>and peltry. But, during the last 18 years, they
                     have <lb/>increased to the surprising sum of 1,220,963l. 10s. <lb/>Sterling, as
@@ -180,7 +182,7 @@
                 <p>
                     <pb/>
                     <hi rend="center">
-                        <hi rend="italic">From the </hi>
+                        <hi rend="italic">From the</hi>
                         <hi rend="smallcaps">Jamaica Royal Gazette.</hi>
                     </hi>
                     <lb/>
@@ -1029,9 +1031,8 @@
             <body>
                 <p>
                     <pb n="7"/>
-                    <hi rend="italic">Extract of a letter form Philadelphia, dated 25th</hi>
-                    <lb/>
-                    <hi rend="italic">May, 1789.</hi>
+                    <hi rend="italic">Extract of a letter form Philadelphia, dated 25th <lb/>May,
+                        1789.</hi>
                 </p>
                 <p>"I have travelled through several of the States <lb/>and see no appearance of the
                     poverty which you <lb/>hear so much boast of in Britain&#x2013;every where I
@@ -1363,8 +1364,8 @@
         </teiHeader>
         <text>
             <body>
-                <p><pb/><hi rend="italic">A short </hi>DESCRIPTION <hi rend="italic">of, and
-                    </hi>REMARKS <hi rend="italic">upon</hi>
+                <p><pb/><hi rend="italic">A short</hi> DESCRIPTION <hi rend="italic">of, and </hi>
+                    REMARKS <hi rend="italic">upon</hi>
                     <lb/><hi rend="italic">a new State called</hi> THE WESTERN TERRITORY, <lb/><hi
                         rend="italic">being one of four settled by the Americans since</hi>
                     <lb/>1774.</p>
@@ -1375,8 +1376,8 @@
                     States are paying <lb/>more attention to agriculture than to manufac<lb
                         break="no"/>tures&#x2013;They have already laid out four new <lb/>States
                     since the beginning of their rebellion, viz. <lb/><hi rend="italic">Vermont,
-                        Kentucky, Indiana, </hi> and <hi rend="italic">The Western Ter</hi><lb
-                        break="no"/>ritory.</p>
+                        Kentucky, Indiana,</hi> and <hi rend="italic">The Western Ter<lb break="no"
+                        />ritory.</hi></p>
                 <p>About seventeen years ago Vermont was a wil<lb break="no"/>derness; they only
                     began to settle it about the <lb/>year 1774. Kentucky, ten years ago lay in
                         fo<lb break="no"/>rest wild; it was settled in 1780. Yet so rapid <lb/>has
@@ -1900,8 +1901,8 @@
                         break="no"/>ments before, suddenly fell on one of those days
                     <lb/>&#x2013;and the cry was&#x2013;" Poor fellow! he has cer<lb break="no"
                     />tainly drank too much cold water!" Cold wa<lb break="no"/>ter has however been
-                    instantaneously fatal in se- <lb/>veral instances. <lb/>[<hi rend="italic"> To
-                        be concluded in our next</hi>.]</p>
+                    instantaneously fatal in se- <lb/>veral instances. <lb/>[<hi rend="italic">To be
+                        concluded in our next</hi>.]</p>
                 <p/>
             </body>
         </text>
@@ -2969,9 +2970,10 @@
                 <p><hi rend="smallcaps">To the PRINTER</hi>.</p>
                 <p>
                     <hi rend="smallcaps">Sir,</hi>
-                    <hi rend="smallcaps">ABOUT</hi> two month ago I went to the coun<lb break="no"
+                </p>
+                <p><hi rend="smallcaps">ABOUT</hi> two month ago I went to the coun<lb break="no"
                     />try to pay a visit to a friend in a remote <lb/>county; and though I am much
-                    of what may be called "a <hi rend="italic"> newspaper man</hi>," I never thought
+                    of what may be called "a <hi rend="italic">newspaper man</hi>," I never thought
                     of or<lb break="no"/>dering my papers to be sent down to me. To <lb/>my utter
                     astonishment, my <hi rend="italic">rustic</hi> landlord did <lb/>not take in own
                     newspaper; so there was I, stuck <lb/>down, with my friend in the
@@ -2981,9 +2983,9 @@
                     months had passed away, at <lb/>which period I returned to town. And there,
                     <lb/>Sir, I was quite a new man, and just as if I had <lb/>dropped down from the
                     clouds. Every day I <lb/>heard people talking of occurrences of which I
-                    <lb/>knew nothing : Revolutions in France by <hi rend="italic">Fish</hi><lb
-                        break="no"/><hi rend="italic">women</hi> ; and battles in Flanders, against
-                    the <lb/>Emperor, who I thought was fighting against <lb/>the Turks.</p>
+                    <lb/>knew nothing : Revolutions in France by <hi rend="italic">Fish<lb
+                            break="no"/>women</hi> ; and battles in Flanders, against the
+                    <lb/>Emperor, who I thought was fighting against <lb/>the Turks.</p>
                 <p>But even this was not the most distressing&#x2013;for <lb/>one day meeting a
                     friend, I inquired very cor<lb break="no"/>dially after his wife, who I found a
                     few days af<lb break="no"/>terwards, had eloped just before with another
@@ -3064,8 +3066,9 @@
                 <p>
                     <pb/>
                     <hi rend="center"><hi rend="italic">Account of a singular Sect called</hi>
-                        <hi rend="smallcaps">Shaking Quak<lb break="no"/>ERS </hi><hi rend="italic"
-                            >in </hi><hi rend="smallcaps">America</hi>.</hi>
+                        <hi rend="smallcaps">Shaking Quak<lb break="no"/>ERS</hi>
+                        <hi rend="italic">in</hi>
+                        <hi rend="smallcaps">America</hi>.</hi>
                 </p>
                 <p><hi rend="enlarged-capital">I</hi>N the United States of America there are some
                     <lb/>Jews, and various denomications of Christians, <lb/>&#x2013;as Roman
@@ -3342,14 +3345,14 @@
                     />tioned there for the protection of the <hi rend="italic">people</hi>, and
                     <lb/> for <hi rend="italic">them</hi> only should be used.</p>
                 <p>Driven to the last shift, his distress suggested <lb/>the sorry expedient of
-                    having recourse to the <hi rend="italic">peo</hi><lb break="no"/><hi
-                        rend="italic">ple</hi> of <hi rend="italic">colour</hi>, who <hi
-                        rend="italic">here</hi> form a considerable corps. <lb/>By a small dose of
-                    flattery these people, so rea<lb break="no"/>dily to be caught by a little
-                    seeming attention, <lb/>promised to stand by him ; and did so, as long <lb/>as
-                    they usually stand firm to any thing&#x2013;that is, till <lb/>their fears for
-                    their own persons became an ob<lb break="no"/>ject of more weighty
-                    concern&#x2013;they then aban<lb break="no"/>doned him.</p>
+                    having recourse to the <hi rend="italic">peo<lb break="no"/>ple</hi> of <hi
+                        rend="italic">colour</hi>, who <hi rend="italic">here</hi> form a
+                    considerable corps. <lb/>By a small dose of flattery these people, so rea<lb
+                        break="no"/>dily to be caught by a little seeming attention, <lb/>promised
+                    to stand by him ; and did so, as long <lb/>as they usually stand firm to any
+                    thing&#x2013;that is, till <lb/>their fears for their own persons became an
+                        ob<lb break="no"/>ject of more weighty concern&#x2013;they then aban<lb
+                        break="no"/>doned him.</p>
                 <p>The humiliating familiarities to which he de<lb break="no"/>scended to this
                     motley rabble, were truly disgust<lb break="no"/>ing. He embraced them; called
                     them his <hi rend="italic">enfans</hi>
@@ -4464,7 +4467,7 @@
         <text>
             <body>
                 <p>
-                    <hi rend="center"><hi rend="italic">Boston, October </hi> 26. </hi>
+                    <hi rend="center"><hi rend="italic">Boston, October</hi> 26.</hi>
                 </p>
                 <p>Saturday, between the hours of two and <lb/>three, arrived in town from New-York,
                     the <lb/> PRESIDENT of the United States.</p>
@@ -4655,7 +4658,7 @@
         </teiHeader>
         <text>
             <body>
-                <p><hi rend="center"><hi rend="italic">Boston, October</hi> 9. </hi>
+                <p><hi rend="center"><hi rend="italic">Boston, October</hi> 9.</hi>
                     <lb/>Yesterday were executed William Donnoffee, <lb/>William Smith, and Rachel
                     Wall, pursuant to <lb/>their sentence for highway robbery.</p>
             </body>
@@ -4810,13 +4813,12 @@
                     device, <hi rend="italic">two hearts</hi>&#x2013;the motto, <lb/>"<hi
                         rend="italic">The United hearts of America and France</hi>." <lb/>The head
                     of the hall was ornamented with a <hi rend="italic">heart</hi>
-                    <lb/>pieced with arrows&#x2013;and in the motton, "<hi rend="italic">Ho</hi><lb
-                        break="no"/><hi rend="italic">mage to the fair daughters of America</hi>," a
-                    fine com<lb break="no"/>pliment made by the noble Viscount to his fe<lb
-                        break="no"/>male guests. After dinner, the ball began, and <lb/>closed
-                    before nine o'clock, and on departure, his <lb/>Excellency was saluted with
-                    thirteen rockets let <lb/>off from a boat moored at some distance from the
-                    <lb/>ship.</p>
+                    <lb/>pieced with arrows&#x2013;and in the motton, "<hi rend="italic">Ho<lb
+                            break="no"/>mage to the fair daughters of America</hi>," a fine com<lb
+                        break="no"/>pliment made by the noble Viscount to his fe<lb break="no"/>male
+                    guests. After dinner, the ball began, and <lb/>closed before nine o'clock, and
+                    on departure, his <lb/>Excellency was saluted with thirteen rockets let <lb/>off
+                    from a boat moored at some distance from the <lb/>ship.</p>
                 <p>Rhode Island and North Carolina yet remain a<lb break="no"/>verse to the new
                     government; they refuse alle<lb break="no"/>giance to all acts of the States,
                     and, of course, do <lb/>not participate in any privilee; they are treated
@@ -5076,7 +5078,7 @@
                 <p><pb n="7"/> We have this day received Quebec newspapers <lb/>down to the 24th
                     May, from which the following <lb/>is extracted:&#x2013;</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Quebec, May</hi> 20. </hi>
+                    <hi rend="center"><hi rend="italic">Quebec, May</hi> 20.</hi>
                 </p>
                 <p>We hear late accounts from Niagara mention, <lb/>that the Indians in that quarter
                     are much alarm<lb break="no"/>ed in consequence of a message said to be received
@@ -5100,7 +5102,7 @@
                     long had it in contempla<lb break="no"/>tion to get possession of <hi
                         rend="italic">our posts</hi> upon the lakes <lb/>in Canada.]</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">May </hi>24.</hi>
+                    <hi rend="center"><hi rend="italic">May</hi> 24.</hi>
                 </p>
                 <p>The concerned in the ship Columbia and sloop <lb/>Washington, have received
                     letters from the Captian <lb/>Kendrick, dated at Nootka in July last; he in<lb
@@ -5117,8 +5119,8 @@
                         rend="italic">Nootka Sound</hi> had been a preconcerted <lb/>scheme between
                     the Americans and Spaniards, <lb/>as Capt. Kendrick addresses his dispatches for
                     the <lb/>President of the States without making the least <lb/>mention (from
-                    what is made public) of any <hi rend="italic">Bri</hi><lb break="no"/><hi
-                        rend="italic">tish ships</hi> being then at Nootka Sound.]</p>
+                    what is made public) of any <hi rend="italic">Bri<lb break="no"/>tish ships</hi>
+                    being then at Nootka Sound.]</p>
             </body>
         </text>
     </TEI>
@@ -5528,10 +5530,8 @@
                     <lb/>
                     <hi rend="center"><hi rend="italic">The</hi><hi rend="smallcaps">King</hi>, <hi
                             rend="italic">at the relation of the</hi><hi rend="smallcaps"
-                            >Bishop</hi><hi rend="italic">of</hi><hi rend="smallcaps">Lon</hi><lb
-                            break="no"/>
-                        <lb/>
-                        <hi rend="smallcaps">don</hi>, <hi rend="italic">versus</hi><hi
+                            >Bishop</hi><hi rend="italic">of</hi><hi rend="smallcaps">Lon<lb
+                                break="no"/>don</hi>, <hi rend="italic">versus</hi><hi
                             rend="smallcaps">Anderson</hi><hi rend="italic">and</hi><hi
                             rend="smallcaps">Gipps</hi>.</hi>
                 </p>
@@ -5548,8 +5548,8 @@
                     number of other per<lb break="no"/>sons, were parties, for the single, and
                     indeed novel <lb/>purpose of knowing, whether (as the teststor had
                     <lb/>originally devised the several sums <hi rend="italic">for the use of</hi>
-                    <lb/><hi rend="italic">British subjects, </hi>and the Americans having ceased
-                    <lb/>to be in that situations <hi rend="italic">since </hi>their independence),
+                    <lb/><hi rend="italic">British subjects,</hi> and the Americans having ceased
+                    <lb/>to be in that situations <hi rend="italic">since</hi> their independence),
                     <lb/>the annuity ought not to revert to this kingdom, <lb/>or to some other of
                     his Majesty's colonies, to be <lb/>applied to similar purposes. This being the
                     first <lb/>determination of that nature since the American <lb/>Revolution, the
@@ -6850,7 +6850,7 @@
                     readers.</p>
                 <p>
                     <hi rend="italic">Fellow Citizens of the Senate, and of the <lb/>House of
-                        Representatives, </hi>
+                        Representatives,</hi>
                 </p>
                 <p>IT is some abatement of the satisfaction, with <lb/>which I meet you on the
                     present occasion, <lb/>that in felicitating you on a continuance of the
@@ -7346,7 +7346,7 @@
             <body>
                 <p>
                     <pb n="5"/>
-                    <hi rend="center"><hi rend="italic">Knoxville, May </hi>11. </hi>
+                    <hi rend="center"><hi rend="italic">Knoxville, May</hi> 11.</hi>
                 </p>
                 <p><hi rend="enlarged-capital">I</hi>T is shocking to describe the bloody scenes
                     that <lb/>have lately taken place in this district. The <lb/>Indians have killed
@@ -7361,12 +7361,12 @@
                     and Wilson a brother, by <lb/>the savages. Men are now in pursuit of the Indi<lb
                         break="no"/>ans.</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">June </hi>15. </hi>
+                    <hi rend="center"><hi rend="italic">June</hi> 15.</hi>
                 </p>
                 <p>About the 5th instant, a company of seven men <lb/>were attacked on the trace
                     from Cumberland to <lb/>Kentucky, near Big Barren, by a party of Indi<lb
                         break="no"/>ans; three of the company were killed, and two <lb/>wounded.</p>
-                <p><hi rend="center"> AUGUSTA, <hi rend="italic">June </hi>15. </hi>
+                <p><hi rend="center"> AUGUSTA, <hi rend="italic">June</hi> 15.</hi>
                     <lb/>Advices from our western frontiers mention, <lb/>that Major General Twiggs
                     crossed the Oconnee <lb/>with about 900 men, on Saturday last, on their <lb/>way
                     to the Cakmulgee, where the infantry were to <lb/>halt and build a fort. The
@@ -12119,19 +12119,17 @@
                     />fused his assent in three former instances.</p>
                 <p>The refusal of the Princess Royal of <hi rend="smallcaps">Denmark</hi> arrived in
                     <lb/>town on Monday or Tuesday last week. On Wednesday it <lb/>was communicated
-                    to his Royal Highness the Duke of <hi rend="smallcaps">Cla</hi><lb break="no"
-                        /><hi rend="smallcaps">rence</hi>, and on Thursday he set off to Brighton,
-                    offered his <lb/>hand to Miss <hi rend="smallcaps">Wykeham</hi>, and " was a
-                    thriving wooer."</p>
+                    to his Royal Highness the Duke of <hi rend="smallcaps">Cla<lb break="no"
+                        />rence</hi>, and on Thursday he set off to Brighton, offered his <lb/>hand
+                    to Miss <hi rend="smallcaps">Wykeham</hi>, and " was a thriving wooer."</p>
                 <p>Colonel <hi rend="smallcaps">Henry Fitzclarence</hi>, the son of the Duke of <hi
-                        rend="smallcaps">Cla</hi><lb break="no"/><hi rend="smallcaps">rence</hi>,
-                    lately deceased, was a young man of uncommon ener<lb break="no"/>gy of
-                    character, and of talents and acquirements. In the af<lb break="no"/>fair of the
-                    10th Light Dragoons, he displayed a spirit of inde<lb break="no"/>pendence and
-                    manliness the most honourable. He was an ad<lb break="no"/>mirable linguist,
-                    and, as we understand, was about to return <lb/>to England, with the view of
-                    being employed in the Diploma<lb break="no"/>cy, for which he was peculiarly
-                    qualified.</p>
+                        rend="smallcaps">Cla<lb break="no"/>rence</hi>, lately deceased, was a young
+                    man of uncommon ener<lb break="no"/>gy of character, and of talents and
+                    acquirements. In the af<lb break="no"/>fair of the 10th Light Dragoons, he
+                    displayed a spirit of inde<lb break="no"/>pendence and manliness the most
+                    honourable. He was an ad<lb break="no"/>mirable linguist, and, as we understand,
+                    was about to return <lb/>to England, with the view of being employed in the
+                        Diploma<lb break="no"/>cy, for which he was peculiarly qualified.</p>
                 <p/>
             </body>
         </text>
@@ -12914,7 +12912,7 @@
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">New colony in Lower Canada </hi>
+                    <hi rend="smallcaps">New colony in Lower Canada</hi>
                 </p>
                 <p>The following curious notice is extracted from a Que<lb break="no"/>bec
                     paper:&#x2013;</p>
@@ -13774,7 +13772,7 @@
                     for such <lb/>rank as they may wish to possess under M'Gre<lb break="no"/>gor.
                     The money thus furnished is made a stock <lb/>purse to pay the freight of the
                     vessel, and hence <lb/>it is necessary that the greater part of the adven<lb
-                        break="no"/>turers should be <hi rend="italic">officers </hi>; for those who
+                        break="no"/>turers should be <hi rend="italic">officers</hi> ; for those who
                     are con<lb break="no"/>tented with the humble station of privates are <lb/>not
                     required to contribute and their passage, <lb/>subsistence, &amp;c. must be
                     defrayed by the com<lb break="no"/>mon fund. Mr D'Evereaux, from the county
@@ -19423,7 +19421,7 @@
                 <p>
                     <hi rend="smallcaps">East India Shipping</hi>
                 </p>
-                <p><hi rend="smallcaps">Cowes,</hi><hi rend="italic"> August</hi> 28&#x2013;One of
+                <p><hi rend="smallcaps">Cowes,</hi><hi rend="italic">August</hi> 28&#x2013;One of
                     our pilor boats landed yesterday at <lb/>Southampton some passengers out of the
                     ship Triumph, from Bom<lb break="no"/>bay ; they reported having fallen in with
                     Daphane, from Ba<lb break="no"/>tavia to Cowes, with damage to her sails, and
@@ -19721,23 +19719,23 @@
                     practical <lb/>departments. A great many jails, designed on much bet<lb
                         break="no"/>ter principlpes, are in progress in different parts of the
                     <lb/>country ; and in those which are used, it may be said, <hi rend="italic"
-                        >ge</hi><lb break="no"/><hi rend="italic">nerally</hi>, that much more
-                    attentions is paid to health, clean<lb break="no"/>liness, diet, employment, and
-                    classification. It must not <lb/>be thought, however, that nothing remains to be
-                    done. <lb/>There are still jails in which prisoners are double ironed, <lb/>and
-                    chained to the floor of their cels from night to morn<lb break="no"/>ing ;
-                    others in which persons committed <hi rend="italic">for trial</hi> are fet<lb
-                        break="no"/>tered with irons of the weight of from seven to nine pounds ;
-                    <lb/>and others in which debtors are exposed to the contami<lb break="no"
-                    />nating society of criminals, in which neither the various <lb/>classes of
-                    prisoners, nor the two sexes, are kept separate <lb/>from each other, and in
-                    which all are allowed to be idle. <lb/>The Magistrates of Surrey have provided a
-                        <hi rend="italic">covered</hi> vehicle <lb/>for conveying prisoners to the
-                    Sessions'house ; but in the <lb/>metropolis, it would appear, the practise still
-                    continues of <lb/>inflicting public degradation on parties arraigned or merely
-                    <lb/>suspected of crime, by marching them <hi rend="italic">handcuffed</hi>
-                    through the <lb/>streets of London ; and, very recently, a party of <hi
-                        rend="italic">one hun-</hi>
+                            >ge<lb break="no"/>nerally</hi>, that much more attentions is paid to
+                    health, clean<lb break="no"/>liness, diet, employment, and classification. It
+                    must not <lb/>be thought, however, that nothing remains to be done. <lb/>There
+                    are still jails in which prisoners are double ironed, <lb/>and chained to the
+                    floor of their cels from night to morn<lb break="no"/>ing ; others in which
+                    persons committed <hi rend="italic">for trial</hi> are fet<lb break="no"/>tered
+                    with irons of the weight of from seven to nine pounds ; <lb/>and others in which
+                    debtors are exposed to the contami<lb break="no"/>nating society of criminals,
+                    in which neither the various <lb/>classes of prisoners, nor the two sexes, are
+                    kept separate <lb/>from each other, and in which all are allowed to be idle.
+                    <lb/>The Magistrates of Surrey have provided a <hi rend="italic">covered</hi>
+                    vehicle <lb/>for conveying prisoners to the Sessions'house ; but in the
+                    <lb/>metropolis, it would appear, the practise still continues of
+                    <lb/>inflicting public degradation on parties arraigned or merely <lb/>suspected
+                    of crime, by marching them <hi rend="italic">handcuffed</hi> through the
+                    <lb/>streets of London ; and, very recently, a party of <hi rend="italic">one
+                        hun-</hi>
                     <lb/><hi rend="italic">dred prisoners</hi> were marched for a mile <hi
                         rend="italic">handcuffed</hi>
                     <lb/>through the open streets, <hi rend="italic">in order to be formally set at
@@ -20340,8 +20338,8 @@
                     <lb/>with the increasing prosperity of the country. The general orders <lb/>for
                     metal are represented to be equal to some of those brisk periods <lb/>of demand
                     which so frequently occurred during the late war, when <lb/>a much heavier price
-                    was readily realized han it now bears.&#x2013;<hi rend="italic">Shef</hi><lb
-                        break="no"/><hi rend="italic">field Iris.</hi></p>
+                    was readily realized han it now bears.&#x2013;<hi rend="italic">Shef<lb
+                            break="no"/>field Iris.</hi></p>
                 <p/>
             </body>
         </text>
@@ -25390,7 +25388,7 @@
                     upwards, though it is stated <lb/>with confidence, that were the occupiers of
                     land in<lb break="no"/>cluded, beneficial consequences would follow.&#x2013;<hi
                         rend="italic">East-</hi>
-                    <lb/><hi rend="italic"> Lothian Correspondent.</hi></p>
+                    <lb/><hi rend="italic">Lothian Correspondent.</hi></p>
                 <p><hi rend="italic">Leith Mechanics' Friendly Assurance Society.</hi>&#x2013;
                     <lb/>The fifth annual meeting of this Institution was held <lb/>on Tuesday
                     last&#x2013;John Hutton, Esq., one of the <lb/>Honorary Members, President of
@@ -30783,13 +30781,13 @@
             <body>
                 <p>
                     <pb n="3"/>
-                    <hi rend="center"><hi rend="italic">Richmond, January</hi> 28. </hi>
+                    <hi rend="center"><hi rend="italic">Richmond, January</hi> 28.</hi>
                     <lb/>
-                    <hi rend="italic">Extract of a letter from a Gentleman now residing at </hi>
+                    <hi rend="italic">Extract of a letter from a Gentleman now residing at</hi>
                     <lb/>
-                    <hi rend="italic">Quebec, to his Correspondent in this City, dated </hi>
+                    <hi rend="italic">Quebec, to his Correspondent in this City, dated</hi>
                     <lb/>
-                    <hi rend="italic"> Jan. 9, 1972 </hi>
+                    <hi rend="italic">Jan. 9, 1972</hi>
                 </p>
                 <p>Our humanity was deeply affected by the dread<lb break="no"/>ful carnage made by
                     the Indians. You may be <lb/>assured that the number of Indians did not exceed
@@ -30834,7 +30832,7 @@
                     with them, they are taking steps <lb/>that will prevent it for many years to
                     come. The <lb/> Indians do not easily forget or forgive injuries</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Carlisle, Jan.</hi> 4. 1792. </hi>
+                    <hi rend="center"><hi rend="italic">Carlisle, Jan.</hi> 4. 1792.</hi>
                 </p>
                 <p>By the Pittsburgh post which arrived yesterday, <lb/>we are informed, that
                     previous to his leaving Pitts<lb break="no"/>burgh, an express had arrived there
@@ -31012,7 +31010,7 @@
             <body>
                 <p>
                     <pb n="2"/>
-                    <hi rend="center"><hi rend="italic">Nassau, New England, March</hi> 12. </hi>
+                    <hi rend="center"><hi rend="italic">Nassau, New England, March</hi> 12.</hi>
                 </p>
                 <p>The red bugs, which did so much injury to the <lb/>cotton last year, have again
                     made their appear<lb break="no"/>ance, but not in such numbers as was first
@@ -31468,7 +31466,7 @@
                 <p>
                     <pb n="5"/>
                     <hi rend="center">
-                        <hi rend="italic">Extract of a letter from Norfolk (Virginia)</hi>, </hi>
+                        <hi rend="italic">Extract of a letter from Norfolk (Virginia)</hi>,</hi>
                     <lb/>
                     <hi rend="center"><hi rend="italic">Oct</hi>. 26.</hi>
                 </p>
@@ -31710,12 +31708,12 @@
                     <pb n="2"/>
                     <hi rend="center">CONGRESS.</hi>
                     <lb/>
-                    <hi rend="center"><hi rend="italic">Wednesday, Dec.</hi> 8. </hi>
+                    <hi rend="center"><hi rend="italic">Wednesday, Dec.</hi> 8.</hi>
                 </p>
                 <p>
                     <hi rend="center">
                         <hi rend="italic">The SPEECH of</hi>
-                        <hi rend="smallcaps"> George Washington </hi>
+                        <hi rend="smallcaps"> George Washington</hi>
                         <hi rend="italic">, Esq;</hi>
                     </hi>
                     <lb/>
@@ -31854,8 +31852,8 @@
                     <lb/>with other means, to the actual reduction of the <lb/>public debt, the more
                     salutary will the measure <lb/>be toe very public interest, as well as be more
                     <lb/>satisfactory to our constituents.</p>
-                <p>"<hi rend="italic">Gentlemen of the Senate, and House of Re</hi><lb break="no"
-                        /><hi rend="italic">presentatives</hi>,</p>
+                <p>"<hi rend="italic">Gentlemen of the Senate, and House of Re<lb break="no"
+                        />presentatives</hi>,</p>
                 <p>"In perusing the various and weighty busi<lb break="no"/>ness of the present
                     session, I indulge the fullest <lb/>persuasion that your consultations will be
                     equally <lb/>marked with wisdom, and animated by the love <lb/>of your country.
@@ -32002,7 +32000,7 @@
                 <p>
                     <pb n="4"/>
                     <hi rend="center"><hi rend="italic">Extract of a letter from Boston, New
-                            England</hi>, </hi>
+                            England</hi>,</hi>
                     <lb/>
                     <hi rend="center"><hi rend="italic">Dec</hi>. 11.</hi>
                 </p>
@@ -32130,21 +32128,20 @@
                     Judge&#x2013;Sir&#x2013;My father de<lb break="no"/>parted this life not long
                         <hi rend="italic"><supplied reason="copy blur">hence</supplied></hi>, and
                     has left a wi<lb break="no"/>dow and five <hi rend="italic">scorpions</hi>. I
-                    understand he died <hi rend="italic">de</hi><lb break="no"/><hi rend="italic"
-                        >etested</hi> and made me <hi rend="italic">executioner</hi>, but as the
-                    estate <lb/>is like to prove <hi rend="italic">insolent</hi>, I was told that as
-                    you <lb/>was Judge of <hi rend="italic">reprobates</hi>, you must send me a
-                        let<lb break="no"/>ter of condemnation. <lb/><hi rend="center">And as in
-                        duty bound</hi>
+                    understand he died <hi rend="italic">de<lb break="no"/>etested</hi> and made me
+                        <hi rend="italic">executioner</hi>, but as the estate <lb/>is like to prove
+                        <hi rend="italic">insolent</hi>, I was told that as you <lb/>was Judge of
+                        <hi rend="italic">reprobates</hi>, you must send me a let<lb break="no"/>ter
+                    of condemnation. <lb/><hi rend="center">And as in duty bound</hi>
                     <lb/><hi rend="center"><supplied reason="copy blur">??? ???</supplied> pray,
                         &amp;c.</hi></p>
                 <p>
                     <hi rend="center">
-                        <hi rend="italic">Extract of a letter from a gentleman, in the county </hi>
+                        <hi rend="italic">Extract of a letter from a gentleman, in the county</hi>
                     </hi>
                     <lb/>
                     <hi rend="center"><hi rend="italic">of Lincoln, Massachusets, dated Sept</hi>.
-                        14. </hi>
+                        14.</hi>
                 </p>
                 <p>"We have had a very wet season here since <lb/>you went from us, and the grass
                     hoppers are in<lb break="no"/>numerable; they have eat up all the gardens, and
@@ -32203,7 +32200,7 @@
                     attention."</p>
                 <p>
                     <hi rend="center"><hi rend="italic">Extract of a letter from Charleston,
-                            Sept</hi>. 27. </hi>
+                            Sept</hi>. 27.</hi>
                 </p>
                 <p>"On Sunday last weas launched at Mr. Pri<supplied reason="copy blur"
                         >?</supplied><lb break="no"/>chard's ship yard, Hubcaw, a fine new brig,
@@ -32516,9 +32513,9 @@
                 <p>
                     <pb n="3"/>
                     <hi rend="center"><hi rend="italic">From the</hi><hi rend="smallcaps">New York
-                            Journal</hi>. </hi>
+                            Journal</hi>.</hi>
                     <lb/>
-                    <hi rend="center"><hi rend="italic">Winchester, Oct</hi>. 20. </hi>
+                    <hi rend="center"><hi rend="italic">Winchester, Oct</hi>. 20.</hi>
                 </p>
                 <p>By recent intelligence from Kentucky we learn <lb/>that a short time ago an
                     American vessel was seiz<lb break="no"/>ed at New Orleans, and her cargo
@@ -32528,12 +32525,12 @@
                         break="no"/>ter a slight resistance; and that having washed <lb/>them, 15
                     turned out to be white men.</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Philadelphia, Nov</hi> 9. </hi>
+                    <hi rend="center"><hi rend="italic">Philadelphia, Nov</hi> 9.</hi>
                 </p>
                 <p>We hear from undoubted authority, that a con<lb break="no"/>siderable loan has
                     been negotiated in Holland for <lb/>the service of these United States.</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Albany, Nov</hi>. 4. </hi>
+                    <hi rend="center"><hi rend="italic">Albany, Nov</hi>. 4.</hi>
                 </p>
                 <p>The Legislature of Vermont have resolved to <lb/>pay to the State of New York
                     30,000 dollars, <lb/>agreeably to the first proposition contained in the
@@ -32552,7 +32549,7 @@
                     <lb/>purpose (we suppose) of choosing Senators, and <lb/>affixing the time and
                     manner of electing Repre<lb break="no"/>sentatives for Congress.</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">New York, Nov</hi>. 18. </hi>
+                    <hi rend="center"><hi rend="italic">New York, Nov</hi>. 18.</hi>
                 </p>
                 <p>The following resolution has passed the House <lb/>of Representatives of the
                     State of Virginia now in <lb/>session: Resolved, That so much of this act, en<lb
@@ -32562,7 +32559,7 @@
                     people; and demands <lb/>the marked disapprobation of the General Assem<lb
                         break="no"/>bly."</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Portland, Nov</hi>. 15. </hi>
+                    <hi rend="center"><hi rend="italic">Portland, Nov</hi>. 15.</hi>
                 </p>
                 <p>The stone work of the light house, at the en<lb break="no"/>trance of our
                     harbour, is now completed. On <lb/>Tuesday the 9th instant, the last stone was
@@ -32572,7 +32569,7 @@
                     <lb/>15 feet, 85 feet in whole. The lanthorn is <lb/>now preparing, and will
                     probably be raised and <lb/>lighted by the first of next month.</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Baltimore, Nov</hi>. 23. </hi>
+                    <hi rend="center"><hi rend="italic">Baltimore, Nov</hi>. 23.</hi>
                 </p>
                 <p>A society of respectable gentlemen of this place <lb/>have raised an adequate
                     fund for the establishment <lb/>of an extensive manufacture of gunpowder, and
@@ -32695,7 +32692,7 @@
             <body>
                 <p>
                     <pb n="2"/>
-                    <hi rend="center"><hi rend="italic">Halifax, April</hi> 6. </hi>
+                    <hi rend="center"><hi rend="italic">Halifax, April</hi> 6.</hi>
                 </p>
                 <p>The late violent rains have done much damage <lb/>in the country:&#x2013;The
                     bridge at Sackville is near<lb break="no"/>ly torn down, and the Mill there is
@@ -32709,7 +32706,7 @@
                     which they entire<lb break="no"/>ly destroyed. Eleven men and two children were
                         <pb n="3"/> massacred, two escaped and three were taken <lb/>prisoners.</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Boston</hi>. </hi>
+                    <hi rend="center"><hi rend="italic">Boston</hi>.</hi>
                 </p>
                 <p>The amount of the value of theexports from <lb/>the United States, for thirteen
                     months, agreeable <lb/>to an estimate made at the Office of the Treasury,
@@ -33607,7 +33604,7 @@
             <body>
                 <p>
                     <pb n="2"/>
-                    <hi rend="center"><hi rend="italic">Kingston, Feb</hi>. 6. </hi>
+                    <hi rend="center"><hi rend="italic">Kingston, Feb</hi>. 6.</hi>
                 </p>
                 <p>By a St. Christopher's paper of the 25th ult. <lb/>we learn, that the small-pox
                     raged lately at >Su<lb break="no"/>rinam, to such a degree that, within the
@@ -34221,7 +34218,7 @@
                     arrived at that great age <lb/>from the first settlement of the town by the
                         Eng<lb break="no"/>lish, in 1629, to the present day.</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">New York, June</hi> 9. </hi>
+                    <hi rend="center"><hi rend="italic">New York, June</hi> 9.</hi>
                 </p>
                 <p>General Washington, on his tour to the South<lb break="no"/>ern Sates, landed at
                     Charlestown, South Caro<lb break="no"/>lina, in a barge decorated for the
@@ -34235,7 +34232,7 @@
                     <lb/>artillery. The day was afterwards devoted to <lb/>conviviality&#x2013;The
                     lodge of St. John addressed <lb/>his Excellency as follows:&#x2013;</p>
                 <p>"<hi rend="italic">Right Worshipful Sir</hi>, <lb/>"We the <hi rend="smallcaps"
-                        >Master, Officers and Members </hi>
+                        >Master, Officers and Members</hi>
                     <lb/>of St. John's Lodge, No. 2 of Newbern, beg <lb/>leave to hail you welcome
                     with <hi rend="smallcaps">three times <lb/>three</hi>! We approach you not with
                     the language <lb/>works have proved you to be the true and faith<lb break="no"
@@ -34267,7 +34264,7 @@
                         happi<lb break="no"/>ness."</p>
                 <p>
                     <pb n="4"/>
-                    <hi rend="center"><hi rend="italic">George-Town. April</hi> 30. </hi>
+                    <hi rend="center"><hi rend="italic">George-Town. April</hi> 30.</hi>
                 </p>
                 <p>Yesterday morning, about one or two o'clock, <lb/>the ship Termagant, belonging
                     to the house of <lb/>Messrs. Claggen, lying in the stream opposite <lb/>this
@@ -34528,7 +34525,7 @@
                 <p>
                     <pb n="6"/>
                     <hi rend="center"><hi rend="italic">Extract of a letter from Philadelphia, dated
-                            Nov</hi>. 1. </hi>
+                            Nov</hi>. 1.</hi>
                 </p>
                 <p>"Advice received from Governor Blount, dat<lb break="no"/>ed the latter end of
                     September, informs us, that <lb/>the Cherokees of the five lower towns on the
@@ -34640,7 +34637,7 @@
                     wounded."</p>
                 <p>
                     <hi rend="center"><hi rend="italic">Extract of a letter from Richmond, Virginia,
-                            dated <lb/>July</hi> 28. </hi>
+                            dated <lb/>July</hi> 28.</hi>
                 </p>
                 <p>"By accounts from Kentucky we are inform<lb break="no"/>ed, that about the 1st of
                     this month a party of <lb/>Indians appeared near Frankfort, and took a great
@@ -34654,7 +34651,7 @@
                     retreat. <lb/>Col. M'Dowell took six Indian warriors, two <lb/>Englishmen and a
                     Frenchman from Detroit, and <lb/>all the negroes and horses."</p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Newtown, June</hi> 27. </hi>
+                    <hi rend="center"><hi rend="italic">Newtown, June</hi> 27.</hi>
                 </p>
                 <p>On the 13th instant the meeting house in New<lb break="no"/>town, was removed
                     about eight rods, the remo<lb break="no"/>val was effected in one hour and an
@@ -36076,11 +36073,7 @@
                                     target="http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=4213%2C5516159"
                                     > Google News Archive</ref></authority>
                             <pubPlace>
-                                <address>
-                <settlement>Glasgow</settlement>
-                <region>Scotland</region>
-                <country>United Kingdom</country>
-              </address>
+                                <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
                             </pubPlace>
                             <date when="1793-08-30"/>
                         </publicationStmt>
@@ -36166,11 +36159,7 @@
                                     target="http://news.google.com/newspapers?id=ikpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6341%2C555484"
                                     > Google News Archive</ref></authority>
                             <pubPlace>
-                                <address>
-                <settlement>Glasgow</settlement>
-                <region>Scotland</region>
-                <country>United Kingdom</country>
-              </address>
+                                <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
                             </pubPlace>
                             <date when="1794-01-24"/>
                         </publicationStmt>
@@ -36199,7 +36188,6 @@
             </profileDesc>
         </teiHeader>
         <text>
-
             <body>
                 <head n="London, England, United Kingdom"/>
                 <p>
@@ -36241,11 +36229,7 @@
                                     target="http://news.google.com/newspapers?id=UJREAAAAIBAJ&amp;sjid=qrUMAAAAIBAJ&amp;pg=5088%2C256889"
                                 />Google News Archive</authority>
                             <pubPlace>
-                                <address>
-                                <settlement>Glasgow</settlement>
-                                <region>Scotland</region>
-                                <country>United Kingdom</country>
-                            </address>
+                                <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
                             </pubPlace>
                             <date when="1822-01-28"/>
                         </publicationStmt>
@@ -36277,7 +36261,6 @@
             </profileDesc>
         </teiHeader>
         <text>
-
             <body>
                 <head>SOUTH AMERICA</head>
                 <p>
@@ -36368,7 +36351,6 @@
             </body>
         </text>
     </TEI>
-
     <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
         xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:html="http://www.w3.org/1999/xhtml">
         <teiHeader>
@@ -36397,11 +36379,7 @@
                                     target="http://news.google.com/newspapers?id=q0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6300%2C5152642"
                                     >Google News Archive</ref></authority>
                             <pubPlace>
-                                <address>
-                                <settlement>Glasgow</settlement>
-                                <region>Scotland</region>
-                                <country>United Kingdom</country>
-                            </address>
+                                <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
                             </pubPlace>
                             <date when="1794-07-25"/>
                         </publicationStmt>
@@ -36514,11 +36492,7 @@
                                     target="http://news.google.com/newspapers?id=A1k-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=2621%2C270642"
                                     >Google News Archive</ref></authority>
                             <pubPlace>
-                                <address>
-                                <settlement>Glasgow</settlement>
-                                <region>Scotland</region>
-                                <country>United Kingdom</country>
-                            </address>
+                                <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
                             </pubPlace>
                             <date when="1793-01-11"/>
                         </publicationStmt>
@@ -36795,11 +36769,7 @@
                                     target="http://news.google.com/newspapers?id=eGZEAAAAIBAJ&amp;sjid=LrIMAAAAIBAJ&amp;pg=2412%2C5100455"
                                     >Google News Archive</ref></authority>
                             <pubPlace>
-                                <address>
-                                <settlement>Glasgow</settlement>
-                                <region>Scotland</region>
-                                <country>United Kingdom</country>
-                            </address>
+                                <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
                             </pubPlace>
                             <date when="1792-09-17"/>
                         </publicationStmt>
@@ -36838,19 +36808,19 @@
                     <hi rend="center"><hi rend="italic">EXTRACTS FROM LATE NEWSPAPERS</hi>.</hi>
                 </p>
                 <p>
-                    <hi rend="center"><hi rend="italic">New York, July </hi>5.</hi>
+                    <hi rend="center"><hi rend="italic">New York, July</hi> 5.</hi>
                 </p>
                 <p> This city and its vicinity were exceedingly a<lb break="no"/>larmed, last
-                    Sabbath, about four o'clock, M. P. by <lb/> a tremendous westerly tornado, which
-                    continued <lb/>about 20 minuets, twisting off limbs of trees, un<lb break="no"
-                    />roofing houses, and tumbling down chimnies in <lb/>various parts of the city.
-                    Unused to such <lb break="no"/>ruly gusts, the citizens, particularly the fair,
-                    were <lb/>thrown into a momentary d<supplied reason="copy blur"
-                    >???</supplied>ation. Terrible <lb/>was the havoc on the water&#x2013;in vain
-                    did the <hi rend="italic">Sab<lb bread="no"/>bath breakers</hi> cry for
-                    mercy&#x2013;ina moment, in the <lb/>twinkling of an eye, were they hurried to
+                    Sabbath, about four o'clock, M. P. by <lb/>a tremendous westerly tornado, which
+                    continued <lb/>about 20 minutes, twisting off limbs of trees, un<lb break="no"
+                    />roofing houses, and tumbling down chimneys in <lb/>various parts of the city.
+                    Unused to such un<lb break="no"/>ruly gusts, the citizens, particularly the
+                    fair, were <lb/>thrown into a momentary d<supplied reason="copy blur"
+                        >???</supplied>ation. Terrible <lb/>was the havoc on the water&#x2013;in
+                    vain did the <hi rend="italic">Sab<lb break="no"/>bath breakers</hi> cry for
+                    mercy&#x2013;in a moment, in the <lb/>twinkling of an eye, were they hurried to
                     the bot<lb break="no"/>tom, and melancholy was the scene. It is said <lb/>that
-                    29 persons lost their lives in this neighbour<lb breaks="no"/>hood, but we have
+                    29 persons lost their lives in this neighbour<lb break="no"/>hood, but we have
                     not been able to ascertain who <lb/>they were for certainty. Report says, that a
                     Mr. <lb/>Wade, his wife and two of their children, his bro<lb break="no"/>ther,
                     and a young man, were all, except the last <lb/>mentioned, drowned from one boat
@@ -36861,20 +36831,20 @@
                     <lb/>there and sunk, and that the road from thence to <lb/>this city, shrewn
                     violent tokens of its visitation. </p>
                 <p>
-                    <hi rend="center"><hi rend="italic">July </hi> 14.</hi>
+                    <hi rend="center"><hi rend="italic">July</hi> 14.</hi>
                 </p>
                 <p> The society for promoting the manufacture of <lb/>maple sugar, met at Albany,
                     July 3, have grant<lb break="no"/>ed 75 dollars, bounty, to Thaddeus Scribner,
                     of <lb/>Herkermer county, for having produced 600 lb. <lb/>of grained maple
                     sugar, of superior quality&#x2013; of <lb/>50 dollars to Comfort Cook, of
-                    Otsego, for pro<lb break="no"/>duicing sugar of equal quality, but a less
+                    Otsego, for pro<lb break="no"/>ducing sugar of equal quality, but a less
                     quantity <lb/>&#x2013;and of 25 dollars to J. Harris, and R. Huntley, <lb/>of
                     Saratoga county, for the third rate quantity. <lb/>The society resolved, to
                     exhibit samples from <lb/>each of these parcels to the legislature at their text
-                    session, in order to induce them to give lat<lb break="no"/>ger bounties, for
+                    session, in order to induce them to give lar<lb break="no"/>ger bounties, for
                     the further encouragement of <lb/>this important manufacture. </p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Aug. </hi>4.</hi>
+                    <hi rend="center"><hi rend="italic">Aug.</hi> 4.</hi>
                 </p>
                 <p> On Saturday last, arrived in this city, directly <lb/>from
                     Scotland.&#x2013;Nesbit, Esq. a gentleman <lb/>who comes warmly recommended by
@@ -36890,7 +36860,7 @@
                     the remaining part of the season, and mak<lb break="no"/>ing preparations for
                     its more active prosecution <lb/>in the ensuing year. </p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Philadelphia, July </hi>12.</hi>
+                    <hi rend="center"><hi rend="italic">Philadelphia, July</hi> 12.</hi>
                 </p>
                 <p> Accounts from South Carolina and Georgia, <lb/>with regard to their prospects of
                     the ensuing crops, <lb/>are very unfavourable, no rains of any consequence
@@ -36900,7 +36870,7 @@
                     almost despaired of, for the next crop, and <lb/>the rice swamps promised not
                     much better. </p>
                 <p>
-                    <hi rend="center"><hi rend="italic">July </hi>18.</hi>
+                    <hi rend="center"><hi rend="italic">July</hi> 18.</hi>
                 </p>
                 <p> We are sorry to learn from New York, that <lb/>spirit of party, respecting a
                     late election of Gover<lb break="no"/>nor" of the State, has arisen to such a
@@ -36918,7 +36888,7 @@
                     the <lb/>people if possible, a knowledge of their rights as <lb/>free citizens
                     of the greatest, and perhaps the only, <lb/>true republic in the universe. </p>
                 <p>
-                    <hi rend="center"><hi rend="italic">August </hi>6.</hi>
+                    <hi rend="center"><hi rend="italic">August</hi> 6.</hi>
                 </p>
                 <p> On Thursday morning, was witnessed a very me<lb break="no"/>lancholy event at
                     Mr. Henry Kizer's power mill, <lb/>in lower Merion township, Montgomery country,
@@ -36933,7 +36903,7 @@
                     from the <lb/>building in the violence of the explosion. </p>
                 <p>
                     <hi rend="center">
-                        <hi rend="italic">Petersburgh, July </hi>
+                        <hi rend="italic">Petersburgh, July</hi>
                         <supplied reason="copy blur">10.</supplied>
                     </hi>
                 </p>
@@ -36943,7 +36913,7 @@
                     considerable. </p>
                 <p>
                     <hi rend="center"><hi rend="italic"><supplied reason="copy blur"
-                            >???</supplied>sburgh, July </hi>21.</hi>
+                            >???</supplied>sburgh, July</hi> 21.</hi>
                 </p>
                 <p> Extract of a letter from Captain Paul, of the State <lb/>Levies, dated Middle
                     Block house, of the fron<lb break="no"/>tiers of Washington country, July 16,
@@ -36959,21 +36929,131 @@
                     strike <lb/>this quarter. To-morrow morning I intend to <lb/>start with a party
                     to try and fall in with them." </p>
                 <p>
-                    <hi rend="center"><hi rend="italic">Martinsburgh, July </hi>24.</hi>
+                    <hi rend="center"><hi rend="italic">Martinsburgh, July</hi> 24.</hi>
                 </p>
                 <p> We are informed, that one day last week, a <lb/>Mr. Barret, living near the
                     South Branch, acci<lb break="no"/>dentally shot his wife;&#x2013;he was fixing a
-                    flint to <lb/>his gun, and incautiously dragging the trigger, not <lb/>knowing the
-                    gun was loaded, discharged the <lb/>whole contents into her body, and she died
-                    in a <lb/>few moments after&#x2013;the unfortunate woman had <lb/>a young child
-                    at her breast, but it providentially <lb/>received no injury. </p>
+                    flint to <lb/>his gun, and incautiously dragging the trigger, not <lb/>knowing
+                    the gun was loaded, discharged the <lb/>whole contents into her body, and she
+                    died in a <lb/>few moments after&#x2013;the unfortunate woman had <lb/>a young
+                    child at her breast, but it providentially <lb/>received no injury. </p>
                 <p> Alexander M'Gillivray advertises for a tutor, <lb/>willing to instruct Indian
                     children in the rudiments of the English language; and the first prin<lb
                         break="no"/>ciples of <supplied reason="copy blur">arithmetic</supplied>. In
                     the advertisement, this <lb/>chief <supplied reason="copy blur">??? ??? ???
                         ???</supplied> of the Creek nation. </p>
             </body>
-
         </text>
+        <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+            xmlns:math="http://www.w3.org/1998/Math/MathML"
+            xmlns:html="http://www.w3.org/1999/xhtml">
+            <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <title>371</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority> Collected from a digital image on <date when="2013-06-08"
+                                >20130608</date> by <persName role="collection">M. H.
+                                Beals</persName>. Transcribed on <date when="2015-02-11"
+                                >20150211</date> by <persName role="transcription">M. H.
+                                Beals</persName>.</authority>
+                        <availability>
+                            <licence>This work is licensed under a Creative Commons Attribution 4.0
+                                International License</licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <biblFull>
+                            <titleStmt>
+                                <title>Glasgow Advertiser</title>
+                            </titleStmt>
+                            <publicationStmt>
+                                <authority>Text within the public domain. Digitised image available
+                                    from <ref target=""/></authority>
+                                <pubPlace>
+                                    <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
+                                </pubPlace>
+                                <date when="1793-12-13"/>
+                            </publicationStmt>
+                        </biblFull>
+                    </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                    <textDesc>
+                        <channel mode="w"/>
+                        <constitution type="single"/>
+                        <derivation type="plagiarism"/>
+                        <domain type="public"/>
+                        <factuality type="mixed"/>
+                        <interaction type="none" active="corporate" passive="world"/>
+                        <preparedness type="revised"/>
+                        <purpose type="inform"/>
+                    </textDesc>
+                    <textClass>
+                        <keywords>
+                            <list>
+                                <item>Native Americans</item>
+                                <item>Anglo-American relations</item>
+                            </list>
+                        </keywords>
+                    </textClass>
+                </profileDesc>
+            </teiHeader>
+            <text>
+                <body>
+                    <head>AMERICAN STATES.</head>
+                    <p>
+                        <pb n="1"/>
+                        <hi rend="center"><hi rend="italic">Extracts from the</hi>
+                            <hi rend="smallcaps">New-York Daily Advertiser</hi>.</hi>
+                    </p>
+                    <p>
+                        <hi rend="center"><hi rend="smallcaps">Pittsburgh</hi>, <hi rend="italic"
+                                >Sept</hi>. 7.</hi>
+                    </p>
+                    <p>SUNDAY last arrived an express in this town from the <lb/>commissioners who
+                        were sent to treat with the Indians: <lb/> he had left the commissioners on
+                        this side of Lake Erie, that <lb/>day eight days. They had been met at
+                        Niagara by Indian <lb/>commissioners, and with them had sailed in separate
+                        vessels <lb/>to the mouth of Detroit river 18 miles from Detroit, where
+                        <lb/>our commissioners were directed to remain, until an as<lb break="no"
+                        />swer should be brought from the great council of In<lb break="no"/>dian
+                        nations assembled at the rapids of the Miami and the <lb/>Lake. On the 2d of
+                        August an answer was brought to <lb/>this effect that the only terms onw
+                        hich peace could be <lb/>made was our ceding the country on the west of the
+                        Ohio <lb/>and Allegheny rivers. The commissioners suggested the
+                        <lb/>impossibilities of doing this, as the lands had been sold by the
+                        Congress, and people had settled on them, but that the <lb/>United States
+                        would be willing to give more goods than <lb/>they had given at any other
+                        time. The Indians replied <lb/>that if the Congress would give one half
+                        these goods to the people that had settled, the would leave the land, and
+                        <lb/>remove the difficulty. Our commissioners replied that the <lb/>land
+                        they must have, and would not give it up. The In<lb break="no"/>dians said
+                        it was well, and there need no more be said. <lb/>However desired them to
+                        remain if they thought proper <lb/>until they rerturned to the council, and
+                        laid this before them. <lb/>On the 16th of August two Indians came and
+                        informed that the final result of their deliberations was the country
+                        <lb/>in question or war. The express is of opinion from the <lb/>language of
+                        individual Indians in private, and from other <lb/>circumstances, that the
+                        British wholly conduct their council, <lb/>and dictate their demands. </p>
+                    <p> By the arrival of some person from Fort Washington on <lb/>Monday last, we
+                        are informed, that the Indians still conti<lb break="no"/>ue hovering about
+                        our garrisons, and occasionally stealing <lb/>horses, that the army is in
+                        high spirits, anxiously waiting <lb/>the event of the treaty, and hoping
+                        that a campaign will <lb/>take place, as no idea of peace is entertained by
+                        any one; <lb/>that the greatest pains has been taken by the commander
+                        <lb/>in chief, in training his men in the act wood fighting, <lb/>and that
+                        from their proficiency, and the <supplied reason="copy blur"
+                        >???</supplied>imity pre<lb break="no"/>vailing throughout the whole army,
+                        success may be expec<lb break="no"/>ted should a campaign take place. </p>
+                    <p>
+                        <hi rend="center"><hi rend="smallcaps">New York</hi>, <hi rend="italic">Sept</hi>. 17.</hi>
+                    </p>
+                    
+
+                </body>
+            </text>
+        </TEI>
     </TEI>
 </teiCorpus>

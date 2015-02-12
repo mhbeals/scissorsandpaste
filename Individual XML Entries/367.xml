@@ -26,11 +26,11 @@
                             <authority>Text within the public domain. Digitised image available from
                                     <ref target="http://news.google.com/newspapers?id=UJREAAAAIBAJ&amp;sjid=qrUMAAAAIBAJ&amp;pg=5088%2C256889"/>Google News Archive</authority>
                             <pubPlace>
-                                <address>
-                                <settlement>Glasgow</settlement>
-                                <region>Scotland</region>
-                                <country>United Kingdom</country>
-                            </address>
+                                <address> 
+                        <settlement>Glasgow</settlement> 
+                        <region>Scotland</region> 
+                        <country>United Kingdom</country> 
+                     </address>
                             </pubPlace>
                             <date when="1822-01-28"/>
                         </publicationStmt>
@@ -62,7 +62,6 @@
             </profileDesc>
         </teiHeader>
         <text>
-
             <body>
                 <head>SOUTH AMERICA</head>
                 <p>
