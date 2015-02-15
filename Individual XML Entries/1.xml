@@ -40,13 +40,20 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="unknown"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -81,7 +88,7 @@
                     65,183 0 <lb/>t. 1,220,963 10</p>
                 <p>The amounts of imports of dutiable articles at <lb/>Quebec is about 380,000l.
                     Sterling. It is impossi<lb break="no"/>ble to ascertain the value of goods not
-                    dutiable ; but <lb/>we may safely conlude, that they will make the to<lb break="no"/>tal of importans one million Sterling, leaving a balance <lb/>in
+                    dutiable ; but <lb/>we may safely conlude, that they will make the to<lb break="no"/>tal of import as one million Sterling, leaving a balance <lb/>in
                     favour of these provinces, which, but a few years <lb/>ago, would have appeared
                     incredible. This proper<lb break="no"/>ty is carried by 661 vessels, whose
                     tonnage is <lb/>143,893, navigated by 6758 seamen. The freight <lb/>and primage

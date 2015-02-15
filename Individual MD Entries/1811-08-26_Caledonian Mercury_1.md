@@ -15,7 +15,7 @@ Commerce of Canada.Extract of a letter.The population of Canada, in 1760, wa
                         1,125,780 0 Commissions and additional charges at 7 1/2 per cent. Sterling ...
                     65,183 0 t. 1,220,963 10The amounts of imports of dutiable articles at Quebec is about 380,000l.
                     Sterling. It is impossible to ascertain the value of goods not
-                    dutiable ; but we may safely conlude, that they will make the total of importans one million Sterling, leaving a balance in
+                    dutiable ; but we may safely conlude, that they will make the total of import as one million Sterling, leaving a balance in
                     favour of these provinces, which, but a few years ago, would have appeared
                     incredible. This property is carried by 661 vessels, whose
                     tonnage is 143,893, navigated by 6758 seamen. The freight and primage

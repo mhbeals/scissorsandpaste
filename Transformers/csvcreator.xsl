@@ -17,7 +17,6 @@
            select="text/body/p"><xsl:value-of select="normalize-space(translate(.,'&quot;,',''))"/></xsl:for-each>,<xsl:for-each
             select="teiHeader/profileDesc/textClass/keywords/list/item"><xsl:value-of select="."/><xsl:if test="position() != last()">;</xsl:if></xsl:for-each>
    <xsl:text>&#xd;</xsl:text>
-   
   </xsl:for-each>  </xsl:result-document>   
   
  </xsl:template>

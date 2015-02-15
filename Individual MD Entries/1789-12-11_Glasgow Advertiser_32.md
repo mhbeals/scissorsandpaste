@@ -14,7 +14,7 @@ Mr. Ephraim Daniel, of Baker's-row, Mileend, received
                     use and ornament, as the clay is equally good as that of Delft or
                     elsewhere. He was surprised to see so many people without hats or shoes,
                     and houses without windows, and full of wicker and rush furniture,
-                    which is used in th eplace of almost every thing else. If the smiths had a
+                    which is used in the place of almost every thing else. If the smiths had a
                     plentiful supply of coal and iron, hardly any utensils would be
                     wanting. Your nephew has two children, and says all that are born there are
                     very healthy, and more born than are buried or executed of grown
