@@ -86,7 +86,7 @@
                         in those quarters. The overseers, moved by the distresses of the
                         helpless, took possession of Bush-Hill mansion (it being empty) and
                         erected a hospital, employed some physicians and nurses; sent out some
-                            accomadations, and provided for interring the dead.  "The overseers became inadequate to the business by reason fo fear; few in
+                            accomadations, and provided for interring the dead.  "The overseers became inadequate to the business by reason fo fear; few in
                     number, and the funds exhausted; added to this the extravagant wages of the
                     nurses, two and three dollars per day, most of the magistrates fled;
                     the house of employment and hospital shut their doors against all indigent and indisposed persons. Thus were the people, who had
@@ -101,7 +101,7 @@
                     apothecary, with medicine, &c. and four physicians to attend
                     once a day.  The remainder of the committee attend at the State House, receive
                     information from the committee at Bush-Hill, and supply their demands;
-                    receive all sheets, shirts, &c. &c. at teh State-House, also keep a
+                    receive all sheets, shirts, &c. &c. at the State-House, also keep a
                     supply of ready made coffins to furnish as occasion required. Several carts are procured for the various purposes of carrying out the sick whom the doctors pronounce to have the
                     fever, of disposing the corps,and for carrying provisions and other
                     necessaries to and from the hospital. THere is also a house fitted up, and
@@ -116,7 +116,7 @@
                     cannot be ascertained with precision; and we think between 15
                     and 20,000 removed from their habitations.  "The doctors suppose the disorder a little checked by the cool weather; how
                     that is I know now."  By a passenger, arrived from Albany this morning, we learn that, in order
-                    to prevent teh introduction of the Yellow Fever in Albany, they
+                    to prevent the introduction of the Yellow Fever in Albany, they
                     have formed Committees, and fixed a Gun-Boat at some distance from the
                     city, where all vessels are stopt till the Doctors examine the
                     passengers–And, that Colonel Hamilton and Lady were arrived, but
@@ -127,7 +127,7 @@
                     where people are interred indiscriminately in three tiers of coffins. From
                     the most accurate observations I can make upon matters, I think I
                     speak within bounds, when I Say eighteen hundred persons have perished (I
-                    do not say all of the yellow fever) since its first appearance on teh 3d of
+                    do not say all of the yellow fever) since its first appearance on the 3d of
                     August, in North Water-street; others think a larger number–but I
                     confess we are a good deal in the dark on the subject at present, and
                     it will take some time to have accurate returns made.  "People have been hitherto so panic struck, that little has been attnded to
@@ -153,10 +153,10 @@
                     this commonwealth, a gentleman of a benevolent disposition, an improved
                     mind, a sound understanding, and an honest heart.Died, on Friday evening, after a short illness, with the present maligant
                     fever at Mrs. Grant's,–Mr Chase a yong gentleman of respectable
-                    connections of Baltimore.Winchester, *Sept*. 20.Extract of a letter from our correspondent at ???Creek Territory, South of the Ohio, dated Sept. 4. "Times here were but a gloomy aspect. The ???le daily harassed by the Indians. On teh 27th
+                    connections of Baltimore.Winchester, *Sept*. 20.Extract of a letter from our correspondent at ???Creek Territory, South of the Ohio, dated Sept. 4. "Times here were but a gloomy aspect. The ???le daily harassed by the Indians. On the 27th
                     of August a party, consisting of about 300, killed Lieut. Janks Tedford, of the United States troops, and a Mr. JAckson, as
                     they were gathering corn in a field for their horses, near Henry's
-                    stations–Tehy have lately burnt many houses on the Nine Mile, and
+                    stations–They have lately burnt many houses on the Nine Mile, and
                     destroyed a prodigious quantity of wheat, rye and corn. WE hope Governor
                     Blount on his return to this territory, will be invested with power to desstroy these barbarous tribes." *From the same, dated Sept*. 14. "On the 30th of August, some Indians killed one young woman and scalped
                     another, in Washington county; and on the 5th instant, a part of them

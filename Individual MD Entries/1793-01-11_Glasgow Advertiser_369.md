@@ -119,7 +119,7 @@
                     information, will, I doubt not, lead to the application of a remedy.  The adoption of a constitution for the state of Kentucky, has been notfied
                     to me. The legislature will share with me in the satisfaction
                     which arises from an event interesting to the happiness of the part of
-                    the nation to which it relates, and conducive to the general order. It is proper likewise to inform you, that since my last communication on teh
+                    the nation to which it relates, and conducive to the general order. It is proper likewise to inform you, that since my last communication on the
                     subject, and in further execution of the acts, severally making
                     provision for the public debt, and for the reduction
                     thereof, three new loans have been effected, each for three millions of

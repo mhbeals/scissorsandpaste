@@ -64,9 +64,10 @@
         </teiHeader>
         <text>
             <body>
-                <pg n="2"/>
+                
                 <head>AMERICA.</head>
                 <p>
+                <pb n="2"/>
                     <hi rend="center">
                <hi rend="italic">EXTRACTS FROM LATE NEWSPAPERS</hi>.</hi>
                 </p>

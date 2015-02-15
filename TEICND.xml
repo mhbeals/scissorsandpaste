@@ -34100,7 +34100,7 @@
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from
                                     <ref
-                                    targer="http://news.google.com/newspapers?id=Fl4-AAAAIBAJ&amp;sjid=xEsMAAAAIBAJ&amp;pg=4345%2C5105978"
+                                    target="http://news.google.com/newspapers?id=Fl4-AAAAIBAJ&amp;sjid=xEsMAAAAIBAJ&amp;pg=4345%2C5105978"
                                     >Google News Archive</ref>.</authority>
                             <pubPlace>
                                 <address><settlement>Glasgow</settlement><region>Scotland</region><country>United Kingdom</country></address>
@@ -36694,7 +36694,7 @@
                     to me. The legis<lb break="no"/>lature will share with me in the satisfaction
                     which <lb/>arises from an event interesting to the happiness <lb/>of the part of
                     the nation to which it relates, and <lb/>conducive to the general order. </p>
-                <p>It is proper likewise to inform you, that since <lb/>my last communication on teh
+                <p>It is proper likewise to inform you, that since <lb/>my last communication on the
                     subject, and in <lb/>further execution of the acts, severally making
                     <lb/>provision for the public debt, and for the reduc<lb break="no"/>tion
                     thereof, three new loans have been effected, <lb/>each for three millions of
@@ -36808,9 +36808,10 @@
         </teiHeader>
         <text>
             <body>
-                <pg n="2"/>
+                
                 <head>AMERICA.</head>
                 <p>
+                <pb n="2"/>
                     <hi rend="center"><hi rend="italic">EXTRACTS FROM LATE NEWSPAPERS</hi>.</hi>
                 </p>
                 <p>
@@ -37122,7 +37123,7 @@
                     general fall-fever, which acted severly on those who <lb/>had the
                     influenza&#x2013;To that there was no material danger <lb/>apprehended until the
                     death of Peter Ashton, in Vine-street, <lb/>who after a short illness, died
-                    about one month past; af<lb berak="no"/>ter which the disorder was clearly
+                    about one month past; af<lb break="no"/>ter which the disorder was clearly
                     discovered to be the putrid <lb/>or yellow fever, and each person became after
                     of his neighbours, insomuch that if any became sick they were a<lb break="no"
                     />voided, and many fled from the sick, leaving them in a <lb break="no"
@@ -37135,7 +37136,7 @@
                     having a par<lb break="no"/>ticular place to go to. Thus the country became
                         alarm<lb break="no"/>ed. Individuals died in the country&#x2013;but I cannot
                     learn <lb/><supplied reason="copy missing">?</supplied>hat it spread there. </p>
-                <p>
+                
                     <p>"The overseers duty became exceedingly heavy, and <lb/>several of them were
                         taken sick; others abandoned their <lb/>post, and the business bore very
                         hard on the remaining few. <lb/>Finding deaths increasingly abundantly, they
@@ -37146,7 +37147,7 @@
                         helpless, took possession of <lb/>Bush-Hill mansion (it being empty) and
                         erected a hospital, <lb/>employed some physicians and nurses; sent out some
                             ac<lb break="no"/>comadations, and provided for interring the dead. </p>
-                </p>
+                
                 <p> "The overseers became inadequate to the business by <lb/>reason fo fear; few in
                     number, and the funds exhausted; <lb/>added to this the extravagant wages of the
                     nurses, two <lb/>and three dollars per day, most of the magistrates fled;
@@ -37166,7 +37167,7 @@
                     once a day. </p>
                 <p> The remainder of the committee attend at the State <lb/>House, receive
                     information from the committee at Bush-<lb/>Hill, and supply their demands;
-                    receive all sheets, shirts, <lb/>&amp;c. &amp;c. at teh State-House, also keep a
+                    receive all sheets, shirts, <lb/>&amp;c. &amp;c. at the State-House, also keep a
                     supply of <lb/>ready made coffins to furnish as occasion required. Se<lb
                         break="no"/>veral carts are procured for the various purposes of carry<lb
                         break="no"/>ing out the sick whom the doctors pronounce to have the
@@ -37185,7 +37186,7 @@
                 <p> "The doctors suppose the disorder a little checked by <lb/>the cool weather; how
                     that is I know now." </p>
                 <p> By a passenger, arrived from Albany this morning, we <lb/>learn that, in order
-                    to prevent teh introduction of the Yel<lb break="no"/>low Fever in Albany, they
+                    to prevent the introduction of the Yel<lb break="no"/>low Fever in Albany, they
                     have formed Committees, and <lb/>fixed a Gun-Boat at some distance from the
                     city, where all <lb/>vessels are stopt till the Doctors examine the
                     passengers&#x2013;<lb/>And, that Colonel Hamilton and Lady were arrived, but
@@ -37204,7 +37205,7 @@
                     where people are <lb/>interred indiscriminately in three tiers of coffins. From
                     the <lb/>most accurate observations I can make upon matters, I <lb/>think I
                     speak within bounds, when I Say eighteen hundred <lb/>persons have perished (I
-                    do not say all of the yellow fever) <lb/>since its first appearance on teh 3d of
+                    do not say all of the yellow fever) <lb/>since its first appearance on the 3d of
                     August, in North <lb/>Water-street; others think a larger number&#x2013;but I
                     confess <lb/>we are a good deal in the dark on the subject at present, <lb/>and
                     it will take some time to have accurate returns made. </p>
@@ -37244,15 +37245,15 @@
                     <hi rend="center"><hi rend="smallcaps">Winchester</hi>, <hi rend="italic"
                             >Sept</hi>. 20.</hi>
                 </p>
-                <p>Extract of a letter from our correspondent at <supplied reaons="copy blur"
+                <p>Extract of a letter from our correspondent at <supplied reason="copy blur"
                         >???</supplied>
                     <lb/>Creek Territory, South of the Ohio, dated Sept. 4. </p>
                 <p>"Times here were but a gloomy aspect. The <supplied reason="copy blur"
-                        >???</supplied><lb break="no"/>le daily harassed by the Indians. On teh 27th
+                        >???</supplied><lb break="no"/>le daily harassed by the Indians. On the 27th
                     of August <lb/>a party, consisting of about 300, killed Lieut. Janks Ted<cb
                         break="no"/>ford, of the United States troops, and a Mr. JAckson, as
                     <lb/>they were gathering corn in a field for their horses, near <lb/>Henry's
-                    stations&#x2013;Tehy have lately burnt many houses on <lb/>the Nine Mile, and
+                    stations&#x2013;They have lately burnt many houses on <lb/>the Nine Mile, and
                     destroyed a prodigious quantity of <lb/>wheat, rye and corn. WE hope Governor
                     Blount on his return to this territory, will be invested with power to des<lb
                         break="no"/>stroy these barbarous tribes." </p>
