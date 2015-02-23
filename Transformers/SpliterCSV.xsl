@@ -4,7 +4,7 @@
     
     <xsl:output method="text" version="4.0" encoding="UTF-8"/>
     
-    <xsl:template match="teiCorpus"><xsl:for-each-group select="TEI" group-by="teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title"><xsl:result-document method="text" href="CSV Entries\{teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title}.csv">Article ID,Newspaper Title,Newspaper City,Newspaper Province,Newspaper Country,Year,Month,Day,Article Type,Text,Keywords<xsl:for-each select="current-group()">
+    <xsl:template match="teiCorpus"><xsl:for-each-group select="TEI" group-by="teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title"><xsl:result-document method="text" href="CSV Entries\Title\{teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title}.csv">Article ID,Newspaper Title,Newspaper City,Newspaper Province,Newspaper Country,Year,Month,Day,Article Type,Text,Keywords<xsl:for-each select="current-group()">
         ID<xsl:value-of select="teiHeader/fileDesc/titleStmt/title"/>,<xsl:value-of
             select="teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title"/>,<xsl:value-of
                 select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/pubPlace/address/settlement"/>,<xsl:value-of
