@@ -5106,7 +5106,7 @@
                 <p>We are rather inclined to believe the Indians <lb/>are too sensible of the great
                     benefits already con<lb break="no"/>ferred upon them by our neighbours in buying
                     <lb/>their lands from them, to think of accepting any <lb/>more from that
-                    quarter, and we would recom <lb/>mend it to the new-born Sovereignty on this
+                    quarter, and we would recom<lb break="no"/>mend it to the new-born Sovereignty on this
                     side <lb/>the Atlantic, before they testify their impatience, <lb/>that national
                     treaties, like private agreements, are <lb/>not to be infringed by one and
                     performed by the <lb/>other party&#x2013;Pay and you shall receive.</p>
@@ -15747,7 +15747,7 @@
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scostman</title>
+                            <title>Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
@@ -24887,7 +24887,7 @@
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
                             <pubPlace>
-                                <address><settlement>Edinbugh</settlement><region>Scotland</region><country>United Kingdom</country></address>
+                                <address><settlement>Edinburgh</settlement><region>Scotland</region><country>United Kingdom</country></address>
                             </pubPlace>
                             <date when="1835-11-21"/>
                         </publicationStmt>
@@ -32510,7 +32510,6 @@
                             <item>Native Americans</item>
                             <item>war</item>
                             <item>colonial government</item>
-                            <item/>
                             <item>colonial politics</item>
                             <item>weather</item>
                             <item>crime</item>
@@ -32693,7 +32692,7 @@
                             <item>trade</item>
                             <item>census</item>
                             <item>colonial government</item>
-                            <item>Religion</item>
+                            <item>religion</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -34711,7 +34710,7 @@
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
-                    <purpose type="Comentary"/>
+                    <purpose type="persuade"/>
                 </textDesc>
             </profileDesc>
         </teiHeader>

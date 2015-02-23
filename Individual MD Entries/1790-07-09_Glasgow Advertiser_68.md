@@ -10,7 +10,7 @@
                     by that event.We are rather inclined to believe the Indians are too sensible of the great
                     benefits already conferred upon them by our neighbours in buying
                     their lands from them, to think of accepting any more from that
-                    quarter, and we would recom mend it to the new-born Sovereignty on this
+                    quarter, and we would recommend it to the new-born Sovereignty on this
                     side the Atlantic, before they testify their impatience, that national
                     treaties, like private agreements, are not to be infringed by one and
                     performed by the other party–Pay and you shall receive.[As to the Americans making an attempt upon Niagara, they have
