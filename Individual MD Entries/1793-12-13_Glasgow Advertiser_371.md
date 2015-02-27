@@ -77,16 +77,13 @@
                     searching for shelter for their families; many families set off without
                     having a particular place to go to. Thus the country became
                         alarmed. Individuals died in the country–but I cannot
-                    learn ?hat it spread there. "The overseers duty became exceedingly heavy, and several of them were
-                        taken sick; others abandoned their post, and the business bore very
-                        hard on the remaining few. Finding deaths increasingly abundantly, they
-                        procured carpenters to make coarse coffins by the
-                            do???. The malady still
-                        increasing in Water, Front, Race and Vine-street, threatened desolation
-                        in those quarters. The overseers, moved by the distresses of the
-                        helpless, took possession of Bush-Hill mansion (it being empty) and
-                        erected a hospital, employed some physicians and nurses; sent out some
-                            accomadations, and provided for interring the dead.  "The overseers became inadequate to the business by reason fo fear; few in
+                    learn ?hat it spread there. "The overseers duty became exceedingly heavy, and several of them were taken
+                    sick; others abandoned their post, and the business bore very hard on the
+                    remaining few. Finding deaths increasingly abundantly, they procured carpenters to make coarse coffins by the do???. The malady still increasing in
+                    Water, Front, Race and Vine-street, threatened desolation in those
+                    quarters. The overseers, moved by the distresses of the helpless, took
+                    possession of Bush-Hill mansion (it being empty) and erected a hospital,
+                    employed some physicians and nurses; sent out some accomadations, and provided for interring the dead.  "The overseers became inadequate to the business by reason fo fear; few in
                     number, and the funds exhausted; added to this the extravagant wages of the
                     nurses, two and three dollars per day, most of the magistrates fled;
                     the house of employment and hospital shut their doors against all indigent and indisposed persons. Thus were the people, who had
@@ -170,6 +167,6 @@
                     beds, clothing, &c. were all destroyed. another house of ill fame tenanted
                     by Mother Giles, under went a similar fate. It is aid that three persons
                     were wounded, one dangerously, from the firing of small arms, by some
-                    persons who were placed in the house for its defence.–WE lament that
+                    persons who were placed in the house for its defence.–We lament that
                     our worthy Mayor, received some injury, in endeavouring to disperse the
                     people. 

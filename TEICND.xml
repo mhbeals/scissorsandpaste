@@ -5106,10 +5106,10 @@
                 <p>We are rather inclined to believe the Indians <lb/>are too sensible of the great
                     benefits already con<lb break="no"/>ferred upon them by our neighbours in buying
                     <lb/>their lands from them, to think of accepting any <lb/>more from that
-                    quarter, and we would recom<lb break="no"/>mend it to the new-born Sovereignty on this
-                    side <lb/>the Atlantic, before they testify their impatience, <lb/>that national
-                    treaties, like private agreements, are <lb/>not to be infringed by one and
-                    performed by the <lb/>other party&#x2013;Pay and you shall receive.</p>
+                    quarter, and we would recom<lb break="no"/>mend it to the new-born Sovereignty
+                    on this side <lb/>the Atlantic, before they testify their impatience, <lb/>that
+                    national treaties, like private agreements, are <lb/>not to be infringed by one
+                    and performed by the <lb/>other party&#x2013;Pay and you shall receive.</p>
                 <p>[As to the Americans making an attempt up<lb break="no"/>on Niagara, they have
                     long had it in contempla<lb break="no"/>tion to get possession of <hi
                         rend="italic">our posts</hi> upon the lakes <lb/>in Canada.]</p>
@@ -36807,10 +36807,10 @@
         </teiHeader>
         <text>
             <body>
-                
+
                 <head>AMERICA.</head>
                 <p>
-                <pb n="2"/>
+                    <pb n="2"/>
                     <hi rend="center"><hi rend="italic">EXTRACTS FROM LATE NEWSPAPERS</hi>.</hi>
                 </p>
                 <p>
@@ -36976,7 +36976,9 @@
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitised image available from
-                                <ref target="http://news.google.com/newspapers?id=OFk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=2349%2C7966975"/>Google News Archive</authority>
+                                    <ref
+                                    target="http://news.google.com/newspapers?id=OFk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=2349%2C7966975"
+                                />Google News Archive</authority>
                             <pubPlace>
                                 <address> <settlement>Glasgow</settlement> <region>Scotland</region> <country>United Kingdom</country> </address>
                             </pubPlace>
@@ -37135,18 +37137,18 @@
                     having a par<lb break="no"/>ticular place to go to. Thus the country became
                         alarm<lb break="no"/>ed. Individuals died in the country&#x2013;but I cannot
                     learn <lb/><supplied reason="copy missing">?</supplied>hat it spread there. </p>
-                
-                    <p>"The overseers duty became exceedingly heavy, and <lb/>several of them were
-                        taken sick; others abandoned their <lb/>post, and the business bore very
-                        hard on the remaining few. <lb/>Finding deaths increasingly abundantly, they
-                        procured car<lb break="no"/>penters to make coarse coffins by the
-                            do<supplied reason="copy blur">???</supplied>. The malady <lb/>still
-                        increasing in Water, Front, Race and Vine-street, <lb/>threatened desolation
-                        in those quarters. The overseers, <lb/>moved by the distresses of the
-                        helpless, took possession of <lb/>Bush-Hill mansion (it being empty) and
-                        erected a hospital, <lb/>employed some physicians and nurses; sent out some
-                            ac<lb break="no"/>comadations, and provided for interring the dead. </p>
-                
+
+                <p>"The overseers duty became exceedingly heavy, and <lb/>several of them were taken
+                    sick; others abandoned their <lb/>post, and the business bore very hard on the
+                    remaining few. <lb/>Finding deaths increasingly abundantly, they procured car<lb
+                        break="no"/>penters to make coarse coffins by the do<supplied
+                        reason="copy blur">???</supplied>. The malady <lb/>still increasing in
+                    Water, Front, Race and Vine-street, <lb/>threatened desolation in those
+                    quarters. The overseers, <lb/>moved by the distresses of the helpless, took
+                    possession of <lb/>Bush-Hill mansion (it being empty) and erected a hospital,
+                    <lb/>employed some physicians and nurses; sent out some ac<lb break="no"
+                    />comadations, and provided for interring the dead. </p>
+
                 <p> "The overseers became inadequate to the business by <lb/>reason fo fear; few in
                     number, and the funds exhausted; <lb/>added to this the extravagant wages of the
                     nurses, two <lb/>and three dollars per day, most of the magistrates fled;
@@ -37276,10 +37278,90 @@
                     beds, clothing, &amp;c. were all destroyed. another house of ill fame tenanted
                     by <lb/>Mother Giles, under went a similar fate. It is aid that three persons
                     <lb/>were wounded, one dangerously, from the firing of small <lb/>arms, by some
-                    persons who were placed in the house for <lb/>its defence.&#x2013;WE lament that
+                    persons who were placed in the house for <lb/>its defence.&#x2013;We lament that
                     our worthy Mayor, received <lb/>some injury, in endeavouring to disperse the
                     people. </p>
             </body>
         </text>
     </TEI>
+    <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+        xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>372</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on <date when="2013-06-08">
+                            20130608</date> by <persName role="collection">M. H. Beals</persName>.
+                        Transcribed on <date when="2015-02-27">20150227</date> by <persName
+                            role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+                                    <ref
+                                    target="http://news.google.com/newspapers?id=hkpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=2575%2C102604"
+                                />Glasgow News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                <settlement>Glasgow</settlement>
+                                <region>Scotland</region>
+                                <country>United Kingdom</country>
+                            </address>
+                            </pubPlace>
+                            <date when="1794-01-06"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="unknown"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <pb n="3"/> The following new cities, independent of innu<lb break="no"/>merable
+                    small towns, have been lately begun to be <lb/>built in America. The city of
+                    Washington, which, in the year 1800, is to be the capital of <lb/>the United
+                    States; the city of Paterson, in the State of New Jersey; the city of Hudson,
+                    upon <lb/>the North River, in the state of New York; the <lb/>city of Columbia,
+                    which is now the capital of the State of South Carolina; the city of Martenberg,
+                    <lb/>now the capital of North Carolina; the city of <lb/>Knoxcille, in teh new
+                    district of Franklyn; the <lb/>city of Nuskville, in the new district of
+                        Cumber<lb break="no"/>land; the city of LExington, and the city of
+                    <lb/>Donxville, in the new State of Kentucky; and <lb/>the city of Bennington,
+                    in the new state of Ver<lb break="no"/>mont. The ground is also marked out, and
+                    the <lb/>lots are upon sale, for building one more new city, <lb/>to be called
+                    Newport, on the river Potowmac, <lb/>and another called Athens, on the banks of
+                    the <lb/>Mississippi. </p>
+            </body>
+        </text>
+    </TEI>
+
 </teiCorpus>

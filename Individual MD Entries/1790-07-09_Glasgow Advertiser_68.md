@@ -10,10 +10,10 @@
                     by that event.We are rather inclined to believe the Indians are too sensible of the great
                     benefits already conferred upon them by our neighbours in buying
                     their lands from them, to think of accepting any more from that
-                    quarter, and we would recommend it to the new-born Sovereignty on this
-                    side the Atlantic, before they testify their impatience, that national
-                    treaties, like private agreements, are not to be infringed by one and
-                    performed by the other party–Pay and you shall receive.[As to the Americans making an attempt upon Niagara, they have
+                    quarter, and we would recommend it to the new-born Sovereignty
+                    on this side the Atlantic, before they testify their impatience, that
+                    national treaties, like private agreements, are not to be infringed by one
+                    and performed by the other party–Pay and you shall receive.[As to the Americans making an attempt upon Niagara, they have
                     long had it in contemplation to get possession of *our posts* upon the lakes in Canada.]*May* 24.The concerned in the ship Columbia and sloop Washington, have received
                     letters from the Captian Kendrick, dated at Nootka in July last; he informs them, that he passed the winter preceding on the
                     north-west coast of America; that he was then bound on a voyage further
