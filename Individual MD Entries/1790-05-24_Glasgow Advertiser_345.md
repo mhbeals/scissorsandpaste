@@ -10,7 +10,7 @@
                     wearing this costly fur. To a citizen of common rank, a sea otter's
                     collar to his vestment is a luxury.The natives of the North West Coast of Ameerica set so great a
                     value on woollens of all kinds, that all the blankets, cloths, hats, and
-                    stockings, that could be procured in China, if English manufacture, weresold to the Indians, with whose Chiefs treaties of
+                    stockings, that could be procured in China, if English manufacture, were sold to the Indians, with whose Chiefs treaties of
                     commerce had been formed.An act of cruelty committed by an officer of the Spanish Admiral Martiney's
                     ship deserves to be recorded.The Spaniards discovering that Callicum, a Chief, second in authority at
                     Nootka Sound, was in alliance with the English, he was shot through

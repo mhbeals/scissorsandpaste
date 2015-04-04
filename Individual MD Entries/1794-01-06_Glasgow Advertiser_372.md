@@ -6,7 +6,7 @@
                     which is now the capital of the State of South Carolina; the city of Martenberg,
                     now the capital of North Carolina; the city of Knoxcille, in teh new
                     district of Franklyn; the city of Nuskville, in the new district of
-                        Cumberland; the city of LExington, and the city of
+                        Cumberland; the city of Lexington, and the city of
                     Donxville, in the new State of Kentucky; and the city of Bennington,
                     in the new state of Vermont. The ground is also marked out, and
                     the lots are upon sale, for building one more new city, to be called

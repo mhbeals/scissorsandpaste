@@ -16828,7 +16828,7 @@
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title>Glasgow Herald</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
@@ -19034,7 +19034,7 @@
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title>Glasgow Herald</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. </authority>
@@ -37712,14 +37712,115 @@
                     Should such documents <lb/>be furnished ,proper representations will be made
                     thereon, <lb/>with a just resistance on a redress proportioned to eh ex<lb
                         break="no"/>igency of the case.</p>
-                <p>The BRitish Government having undertaken by orders <lb/>to the commanders of their armed vessels to restrain ge<lb break="no"/>nerally our commerce in corn and other provisions to their <lb/>own ports and those of their friends, the instructions now <lb/>communicated were immediately forwarded to our Mi<lb break="no"/>nister at that court. In the mean time, some discussions <lb break="no"/>on the subject took place between him and them; these <lb/>are also laid before you; and I may expect to learn the <lb/>result of his special instructions in time to make it known <lb/>to the legislature during their present sessions.</p> 
-                <p>Very early after the arrival of a British Minister here, <lb/>mutual explanation on the execution of the Treaty of <lb/>Peace were entered into with that Minister; these are <lb/>now laid before you for your information.</p>
-                <p>On the subjects of mutual interest between this coun<lb break="no"/>try and Spain, negociations and conferences are now de<lb break="no"/>pending. The public requiring that the present state of those should be made known to the legislature in con<lb break="no"/>fidence only, they shall be the subject of a separate and <lb/>subsequent communication.</p>
-                <p><hi rend="right">G. WASHINGTON</hi></p>
-                <p>Mr. Madison reported the draft of an Answer <lb/>to the Address of the President.</p>
-                <p>The remainder of this sitting was employed in <lb/>beginning the reading of the papers received from <lb/>the President, which are voluminous.
+                <p>The BRitish Government having undertaken by orders <lb/>to the commanders of
+                    their armed vessels to restrain ge<lb break="no"/>nerally our commerce in corn
+                    and other provisions to their <lb/>own ports and those of their friends, the
+                    instructions now <lb/>communicated were immediately forwarded to our Mi<lb
+                        break="no"/>nister at that court. In the mean time, some discussions <lb
+                        break="no"/>on the subject took place between him and them; these <lb/>are
+                    also laid before you; and I may expect to learn the <lb/>result of his special
+                    instructions in time to make it known <lb/>to the legislature during their
+                    present sessions.</p>
+                <p>Very early after the arrival of a British Minister here, <lb/>mutual explanation
+                    on the execution of the Treaty of <lb/>Peace were entered into with that
+                    Minister; these are <lb/>now laid before you for your information.</p>
+                <p>On the subjects of mutual interest between this coun<lb break="no"/>try and
+                    Spain, negociations and conferences are now de<lb break="no"/>pending. The
+                    public requiring that the present state of those should be made known to the
+                    legislature in con<lb break="no"/>fidence only, they shall be the subject of a
+                    separate and <lb/>subsequent communication.</p>
+                <p>
+                    <hi rend="right">G. WASHINGTON</hi>
                 </p>
+                <p>Mr. Madison reported the draft of an Answer <lb/>to the Address of the
+                    President.</p>
+                <p>The remainder of this sitting was employed in <lb/>beginning the reading of the
+                    papers received from <lb/>the President, which are voluminous. </p>
             </body>
         </text>
     </TEI>
+    <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+        xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:html="http://www.w3.org/1999/xhtml">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>374</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on <date when="2013-06-08">20130608
+                        </date> by <persName role="collection">M. H. Beals</persName>. Transcribed
+                        on <date when="2015-04-04">20150404</date> by <persName role="transcription"
+                            >M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0
+                            International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+                                    <ref
+                                    target="https://news.google.com/newspapers?id=qUpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=4318%2C4958627"
+                                    >Google News Archive</ref></authority>
+                            <pubPlace>
+                                <address>
+                                <settlement>Glasgow</settlement>
+                                <region>Scotland</region>
+                                <country>United Kingdom</country>
+                            </address>
+                            </pubPlace>
+                            <date when="1794-07-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <pb n="5"/>
+                    <hi rend="center"><hi rend="smallcaps">Winchester</hi>, <hi rend="italic"
+                            >May</hi> 19.</hi>
+                </p>
+                <p>Two men named Timmons, brothers, as also <lb/>one Nimrod Higgins, were killed in
+                    the wilderness <cb/> between Yellow Creek, and Cumberland Mountain, <lb/>about
+                    the 20th ult. by Indians.</p>
+                <p>Three persons were also lately killed by Indians <lb/>in Harrison county, near
+                    the mouth of the Little <lb/>Kennaway.</p>
+                <p>By a letter from the territory south of the Ohio, <lb/>dated April 25, we lean,
+                    that on the 22d of that <lb/>month, a large party of Indians killed sever person
+                    <lb/>within seven miles of Knoxville, and stole 60 horses <lb/>from Knox
+                    County; that parties of them are daily <lb/>committing ravages in the territory,
+                    and that there <lb/>is no prospect of putting a stop to their enormities
+                    <lb/>while the Whites are restricted from pursuing them <lb/>across the
+                    Tenessee.</p>
+
+            </body>
+        </text>
+    </TEI>
+
 </teiCorpus>
