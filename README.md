@@ -1,12 +1,12 @@
-Colonial-Newspaper-Database
+Scissors & Paste
 ===========================
 
 A collection of transcriptions from British newspapers (1789-1850) on migration and colonial settlement, 
-including settlement to the United States.
+including settlement to the United States, alongside their originals from colonial and American newspapers.
 
 ####HTML Search Interface
 
-An HTML search interface for this data is available at [www.mhbeals.com] (http://mhbeals.com/cnd)
+An HTML search interface for this data is available at [www.mhbeals.com] (http://www.scissorsandpaste.net
 
 #### Contributors
 
