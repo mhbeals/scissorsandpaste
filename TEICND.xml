@@ -805,10 +805,18 @@
                     <derivation type="original"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="single" passive="single"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>national characteristics</item>
+                            <item>fire</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -824,7 +832,7 @@
                     really a shocking sight to behold; <lb/>you could not move out of your house but
                     the <lb/>corpses lay in your way, and the wild dogs and <lb/>jackalls were
                     eating them at noon-day. The <lb/>Hindoos never bury their dead, but burn them
-                    <lb/>to ashes, if they can afford it ; if not, throw <lb/>them into the river. I
+                    <lb/>to ashes, if they can afford it; if not, throw <lb/>them into the river. I
                     have lately seen a man <lb/>brought to the river side, and laid down at low<lb
                         break="no"/>water mark before he was dead ; and when the <lb/>the tide
                     flowed, it carried him off. If a man, wo<lb break="no"/>man, or child, dies at
@@ -835,7 +843,7 @@
                     notice of it.</p>
                 <p>"I was there when a dreadful conflagration <lb/>took place, and burnt upwards of
                     seven miles with<lb break="no"/>out intermission, and many souls perished. Now
-                    <lb/>consider, first, an inudation; second, a famine; <lb/>and third, a
+                    <lb/>consider, first, an inundation; second, a famine; <lb/>and third, a
                     conflagration. How much the place <lb/>must be distressed, I leave you to think.
                     I left <lb/>Decca the 1st of December last, and arrived at <lb/>Calcutta, after
                     a passage through the Sunderburns <lb/>(in 17 days), hearty and well, thank
@@ -1512,6 +1520,14 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>transportation</item>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -2038,6 +2054,14 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>Anglo-American relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -4880,6 +4904,13 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -4927,13 +4958,24 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="revision"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>prices</item>
+                            <item>colonial government</item>
+                            <item>female emigration</item>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -4949,8 +4991,8 @@
                 <p>Our <hi rend="italic">female adventurers</hi> have also found it a bad
                     <lb/>market ; <hi rend="italic">British beauty</hi> never fails of finding its
                     <lb/>admirers ; but the late restriction in the East <lb/>have rendered <hi
-                        rend="italic">wives</hi> forbideen fruit, of which <lb/>neither <hi
-                        rend="italic">civil</hi> not <hi rend="italic">military</hi> dare to think
+                        rend="italic">wives</hi> forbidden fruit, of which <lb/>neither <hi
+                        rend="italic">civil</hi> nor <hi rend="italic">military</hi> dare to think
                     of tasting.</p>
             </body>
         </text>
@@ -33151,7 +33193,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>rebellion</item>
+                            <item>slave rebellion</item>
                             <item>weather</item>
                             <item>shipping news</item>
                             <item>shipping news</item>
@@ -33185,7 +33227,7 @@
                     having re<lb break="no"/>ceived them from on board the ship Commerce, <lb/>Foot,
                     from London, off the East End on Thurs<lb break="no"/>day last, the Commerce
                     being destined for Savan<lb break="no"/>na la Mar.</p>
-                <p><hi rend="italic">Dec</hi>. 26. Late on THursday evening his Ma<lb break="no"
+                <p><hi rend="italic">Dec</hi>. 26. Late on Thursday evening his Ma<lb break="no"
                     />jesty's ship Amphion, Captain Nichols, returned <lb/>to Port-Royal from the
                     Spanish American coast. <lb/>The Amphion was bound to Carthagena, but was
                     <lb/>prevented by the jealousy of the Spaniards from <lb/>entering that port.

@@ -7,7 +7,7 @@
                     regiment of foot, consisting of a serjeant, and 29 privates,
                     having received them from on board the ship Commerce, Foot,
                     from London, off the East End on Thursday last, the Commerce
-                    being destined for Savanna la Mar.*Dec*. 26. Late on THursday evening his Majesty's ship Amphion, Captain Nichols, returned to Port-Royal from the
+                    being destined for Savanna la Mar.*Dec*. 26. Late on Thursday evening his Majesty's ship Amphion, Captain Nichols, returned to Port-Royal from the
                     Spanish American coast. The Amphion was bound to Carthagena, but was
                     prevented by the jealousy of the Spaniards from entering that port.
                     Accounts are said to be received by her that a revolt has taken
