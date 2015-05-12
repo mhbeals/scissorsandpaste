@@ -15,7 +15,7 @@
                     national treaties, like private agreements, are not to be infringed by one
                     and performed by the other party–Pay and you shall receive.[As to the Americans making an attempt upon Niagara, they have
                     long had it in contemplation to get possession of *our posts* upon the lakes in Canada.]*May* 24.The concerned in the ship Columbia and sloop Washington, have received
-                    letters from the Captian Kendrick, dated at Nootka in July last; he informs them, that he passed the winter preceding on the
+                    letters from the Captain Kendrick, dated at Nootka in July last; he informs them, that he passed the winter preceding on the
                     north-west coast of America; that he was then bound on a voyage further
                     northward, and from thence intended to proceed to Canton.– The
                     letters were forwarded to Mexico by a Spanish fleet that had

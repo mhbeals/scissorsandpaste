@@ -2,47 +2,47 @@ Extract of a letter from an Englishman, dated Lima, Septemper 10, 1821 "Lima i
                     6000 inhabitants is the outside of its population; the whites are about
                     1200 Europeans, and not as many born in the country; the rest are blacks
                     and mulattoes. Of the mulattoes there are eight various shades. I never
-                     saw such a wretched herd as Lima incloses; more poverty  and misery
+                    saw such a wretched herd as Lima incloses; more poverty and misery
                     than in any town of the size in the world.–There are some few
                     splendid houses, but the rest so disgustingly filthy that you
                     cannot go into them without being covered with dust and vermin. The streets, as
                     in all American towns, run at right angles; a powerful stream of
-                    water in each; the town is capable of great improvement.  The climate
+                    water in each; the town is capable of great improvement. The climate
                     must be bad, for the whole population look as if turned out of the
-                    hospitals for a day's air; a half-born  race–melancholy in their
+                    hospitals for a day's air; a half-born race–melancholy in their
                     faces. On the whole coast of Peru we made the same observation; the ague
                     very general, with fever–their habits and manner of
                     living increase the evil; thin clothing and vegetable diet–nights
                     very cold –I sleep under a heavy blanket, and could bear another; a
-                     thick fog prevents the sun from coming out in winter; the heat
-                    however is not excessive during summer; on the whole not an oppressive
-                    climate, if the people had any idea of living in a rational way. Very few
-                    families cook at home℃they buy their greasy messes boiled in the
-                    streets, in pulperias, and in the squares; not six families in Lima that
-                    have wine on their tables; they drink brandy at all hours, and excuse
-                    themselves for not having any thing that is expensive by saying it
-                    gives the ague; the same person who denies himself a glass of
-                    wine will lay twenty doubloons on a card in  the evening. Their money goes
-                    in gambling, debauchery, and dress; every woman, high and low, has her
-                    price; a lady takes no offence at her frailty being exposed; she tells you
-                    she is quite at good as her neighbours, and needs be no better. The Spanish nation and Government are the cause of all the
-                    degradation of South America; every Viceroy,  from Pizarro to Pezuela, was
-                    a plunderer, a teacher of immorality in words and deeds. The miserable
-                    state of this people seems incredible–one must see to believe it;
-                    scarcely a young lady can read or write, or use a needle; few houses
-                    that the Devil has not appeared in; and a devout lady is
-                    accompanied in her carriage by the Virgin  Mary. Thus is ignorance imposed
-                    upon by knaves; as to priestcraft, it reigns here in all its glory; a third
-                    part of Lima is covered with churches, some of them very splendid. The whole trade of this part of Peru depends on the 
-                    single mine of the mountain of Pasco for returns; if this is worked to
-                    advantage, it will produce six millions of dollars; but if the country is
-                    disturbed by war, not a dollar will they have. The exports of Peru, in
-                    ordinary times, were five millions of dollars in pecie, and one million
-                    inproduce. Mininng may be carried to any extent, it is true; but this
-                    requires tranquillity and good government. People in Europe have
-                    the most erroneous ideas or Peru; every traveller and historian who has
-                    written or talked about it ought to be made to stand in the
-                    pillory for a liar."  "Arica, the second port of Peru, and the great outlet to Upper Peru, is a
+                    thick fog prevents the sun from coming out in winter; the heat however
+                    is not excessive during summer; on the whole not an oppressive climate, if
+                    the people had any idea of living in a rational way. Very few families cook
+                    at home℃they buy their greasy messes boiled in the streets, in
+                    pulperias, and in the squares; not six families in Lima that have wine
+                    on their tables; they drink brandy at all hours, and excuse themselves
+                    for not having any thing that is expensive by saying it gives the ague; the
+                    same person who denies himself a glass of wine will lay twenty
+                    doubloons on a card in the evening. Their money goes in gambling,
+                    debauchery, and dress; every woman, high and low, has her price; a lady
+                    takes no offence at her frailty being exposed; she tells you she is
+                    quite at good as her neighbours, and needs be no better. The
+                    Spanish nation and Government are the cause of all the degradation of South
+                    America; every Viceroy, from Pizarro to Pezuela, was a plunderer, a teacher
+                    of immorality in words and deeds. The miserable state of this people
+                    seems incredible–one must see to believe it; scarcely a young lady
+                    can read or write, or use a needle; few houses that the Devil has not
+                    appeared in; and a devout lady is accompanied in her carriage by
+                    the Virgin Mary. Thus is ignorance imposed upon by knaves; as to
+                    priestcraft, it reigns here in all its glory; a third part of Lima is
+                    covered with churches, some of them very splendid. The whole
+                    trade of this part of Peru depends on the  single mine of the mountain of
+                    Pasco for returns; if this is worked to advantage, it will produce six
+                    millions of dollars; but if the country is disturbed by war, not a dollar
+                    will they have. The exports of Peru, in ordinary times, were five
+                    millions of dollars in pecie, and one million inproduce. Mininng may be
+                    carried to any extent, it is true; but this requires tranquillity and good
+                    government. People in Europe have the most erroneous ideas or
+                    Peru; every traveller and historian who has written or talked about it ought to be made to stand in the pillory for a liar."  "Arica, the second port of Peru, and the great outlet to Upper Peru, is a
                     wretched village of hovels covered with mud–about 400 Mulattoes and
                     Indians–placed on a sand bank–the people all in the
                     ague–not a boat or ship of any sort. The harbour-master came off on

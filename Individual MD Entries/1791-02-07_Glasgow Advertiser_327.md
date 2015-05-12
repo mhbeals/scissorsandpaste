@@ -4,7 +4,7 @@ CONGRESS.*Wednesday, Dec.* 8.*The SPEECH of* George Washington*, Esq;**Preside
                     progress of the public credit is witnessed by a considerable rise of
                     American stock abroad, as well as at home; and the revenues allotted for
                     this and other national purposes, have been productive
-                    beyond the calculation by which they were  regulated. This latter
+                    beyond the calculation by which they were regulated. This latter
                     circumstance is the more pleasing, as it is not only a proof the fertility
                     of our resources, but as it assures us of a further increase of the national respectability and credit; and let me add, as it
                     bears an honourable testimony to the patriotism and integrity of
@@ -22,7 +22,7 @@ CONGRESS.*Wednesday, Dec.* 8.*The SPEECH of* George Washington*, Esq;**Preside
                     Virginia, has concurred in certain propositions contained in a law of that
                     state, in consequence of which the district is to become a
                     distinct number of the Union; in case the requisite sanction of
-                    Congress be added. For this sanction application is now made.  I shall
+                    Congress be added. For this sanction application is now made. I shall
                     cause the papers on this very important transaction to be laid before you.
                     The liberality and harmony with which it has been conducted, will be
                     found to do great honour to both the parties; and the sentiments of warm attachment of the Union and its

@@ -32,7 +32,7 @@
                     take the country from them by force, is founded in unrighteousness, and
                     ought to be abandoned; besides, if the American mean to have anytrade
                     with them, they are taking steps that will prevent it for many years to
-                    come. The  Indians do not easily forget or forgive injuries*Carlisle, Jan.* 4. 1792.By the Pittsburgh post which arrived yesterday, we are informed, that
+                    come. The Indians do not easily forget or forgive injuries*Carlisle, Jan.* 4. 1792.By the Pittsburgh post which arrived yesterday, we are informed, that
                     previous to his leaving Pittsburgh, an express had arrived there
                     with the melancholy news that Forts Jefferson and Franklin
                     were taken by Indians, and that two large bodies of them

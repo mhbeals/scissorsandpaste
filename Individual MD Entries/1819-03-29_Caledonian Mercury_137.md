@@ -1,6 +1,6 @@
 New colony in Lower CanadaThe following curious notice is extracted from a Quebec
                     paper:–Interesting to thousands! – Colony of Brotherly
-                         Union."It is in agitation to found a colony upon the ancient Spartan plan,
+                        Union."It is in agitation to found a colony upon the ancient Spartan plan,
                     sanctioned by apostolical usage, of living a common, and enjoying a
                     community of goods. In this establishment, as each will labour for all, and
                     all for each, personal property will be unknown – and all Just of

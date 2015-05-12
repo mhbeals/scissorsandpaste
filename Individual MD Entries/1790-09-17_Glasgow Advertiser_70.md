@@ -1,4 +1,4 @@
-*A humorous Adventure of a Marriage negotiated[?] by
+*A humorous Adventure of a Marriage negotiated by
                         a Bill of Exchange, in one of the English West*India Islands.A Merchant, originally from London, having
                     acquired a great fortune in this island, concluded with
                     himself he could not be happy in the enjoyment of it, unless[?] he
@@ -59,7 +59,7 @@
                     this is the spouse you ordered me to send you." Ha, [?][?]
                     ! said the Creole, I never yet suffered my bills to be protested, and I
                     swear this shall not be the first : I shall reckon myself the most
-                    fortunate of all men, if you allow meto discharge it." Yes, Sir,
+                    fortunate of all men, if you allow me to discharge it." Yes, Sir,
                     replied she, and the more willingly, since I am apprized of your character.
                     We have several persons of honour on board, who knew you very well,
                     and who, during my passage have answered all the questions I asked them

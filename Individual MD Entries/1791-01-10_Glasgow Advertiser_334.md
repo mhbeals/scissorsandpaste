@@ -44,7 +44,7 @@
                     having by chance got loose from the carriage, and being pretty tight,
                     floated some distance till its progress was stopped by a rock; the husband, viewing the melancholy situations of his wife and
                     children, resolved to relieve or perish with them, and quitting the boat
-                    swam to the waggon, cut open the cover with his knife, and  with
+                    swam to the waggon, cut open the cover with his knife, and with
                     difficulty kept their heads above water till they were relieved by a boat
                     from the West side; by this time the ferry-boat had entirely disappeared; the Clergyman just as he found the boat sinking mounted
                     his horse, one of the boatmen mounted on one of the waggon horses, and by

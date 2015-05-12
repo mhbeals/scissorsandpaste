@@ -1,4 +1,4 @@
-Intended Colony at the Cape of  Good Hope.The following official circular has been [?] from the Colonial Department,
+Intended Colony at the Cape of Good Hope.The following official circular has been [?] from the Colonial Department,
                     in answer[?] to[?] ap-[?] plications for information on the subject[?]
                     referred to:–"Downing Street "Sir–In reply to your
                     letter of the [?] [?] by Earl Bathurst to inform you, that as the [?]

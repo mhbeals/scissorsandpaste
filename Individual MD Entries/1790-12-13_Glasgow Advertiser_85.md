@@ -1,6 +1,6 @@
 *THE INDIANS*. IT is our wish, in imitation of other newswritters, to give now
                     and then an account of such new publications as deserve the attention of
-                    the public; but in a paper, pubished only twice a week, where so much
+                    the public; but in a paper, published only twice a week, where so much
                     naturally occurs under the article of temporary news, it is but seldom we
                     can find room for this purpose:–when, however, any
                     ting remarkable appears in the literary world, we never fail to notice it,
@@ -26,22 +26,20 @@
                     humanity found inthe breast of an Inan Sachem, as to prompt him to
                     spare a victim, about to be destroyed accoridng to the custom of the
                     country; that victim a captive of war, and not only so, but a Briton,
-                    who has been fighting against his coun- trymen, amongst whom was his only
-                    son, whom he bleived slain? Would he exert himself so much in favour
-                    of a stranger and a foe, at the risk of displeasing the village,
-                    and consequently of losing his power? Or is it likely that he would have
-                    greater influence with the superstitious crowd, than he, who was
-                    deemed of skill to bend to his purpose the demons that sway the fortune of
-                    mankind?–Another question concenring Ononthio, and
-                    we leave him. Is it consistent with the phlisophic firmness of the Sachem,
-                    so to despair on receiving news of his son's death, as to
-                    declare that he should know no comfort, but to die? or is it
-                    consistent with his humanity to leave Maraino at such a period of distress,
-                    when she most stood in need of his kind offices?–The first, and
-                    best supported character in the piece is that of Maraino. Her mind
-                    seems intended as the seat of every amiable virtue. Her grateful reverence
-                    of Ononthio, her unaffected piety, and her humanity, in
-                    intfering to save an unknown captive from death, are pleasing
+                    who has been fighting against his countrymen, amongst whom was
+                    his only son, whom he bleived slain? Would he exert himself so much in
+                    favour of a stranger and a foe, at the risk of displeasing the
+                    village, and consequently of losing his power? Or is it likely that he
+                    would have greater influence with the superstitious crowd, than he,
+                    who was deemed of skill to bend to his purpose the demons that sway the
+                    fortune of mankind?–Another question concenring Ononthio, and we leave him. Is it consistent with the philosophic firmness
+                    of the Sachem, so to despair on receiving news of his son's
+                    death, as to declare that he should know no comfort, but to die? or is
+                    it consistent with his humanity to leave Maraino at such a period of
+                    distress, when she most stood in need of his kind offices?–The
+                    first, and best supported character in the piece is that of Maraino.
+                    Her mind seems intended as the seat of every amiable virtue. Her grateful
+                    reverence of Ononthio, her unaffected piety, and her humanity, in interfering to save an unknown captive from death, are pleasing
                         ??? which give ???an insight into her nature. In the breast of Mariano every
                     thing is subordinate to her love for Onaiyo: this leading feature in her
                     caracter is properly kept in view during the course of the piece. But
@@ -51,12 +49,12 @@
                     the sweetest strains of tenderness and love. Can she, who had lately
                     discovered a long lost brother, talk so coldly in his presence; Can she,
                     who had so lately heard of the safety of an adored-husband, so
-                    entirely banish his imag from her mind, as to converse on matters so
+                    entirely banish his image from her mind, as to converse on matters so
                     indifferent? Can the gentle Maraino become the cold
                     moralist?–With this one exception, the part of which we are speaking
-                    is finely drawn and highly intersting.–The language
+                    is finely drawn and highly interesting.–The language
                     of the piece is every where elegant, and in many places, where the
-                    sentiment requires it, sublime. The uathor has requently dignified his
+                    sentiment requires it, sublime. The author has frequently dignified his
                     verse by the introduction of obsolete words; this in general produces
                     a good effect–but there is a danger of using them too often, and of
                     chusing them too ancient. it is a dangerous and difficult talk where

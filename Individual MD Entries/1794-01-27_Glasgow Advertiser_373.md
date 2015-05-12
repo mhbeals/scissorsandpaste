@@ -31,7 +31,7 @@ FEDERAL LEGISLATURE.House *of *Representatives. *Dec*.
                     privileges of the United States. These were reduced into a system which
                     will be communicated to you. Although I have not thought myself at
                     liberty to forbid the sale of the prizes, permitted by our
-                    treaty of commerce with France, to be brought  into our ports; I have not
+                    treaty of commerce with France, to be brought into our ports; I have not
                     refused to cause them to be restored, when they were taken within the
                     protection of our territory, or by vessels commissioned, or equipped in
                     a warlike form within the limits of the United States.It rests with the wisdom of Congress to correct, im prove, or
@@ -127,12 +127,12 @@ FEDERAL LEGISLATURE.House *of *Representatives. *Dec*.
                     florins became payable on the loans of the United States in Holland. This
                     was adjusted by a prolongation of the period of reimbursement, in nature of
                     a new loan, at an interest of five per cent. for the term of ten years;
-                    and the expenses of this operation were a commission of  three per
+                    and the expenses of this operation were a commission of three per
                     cent.The first installment of the loan of two millions of dollars from the Bank
                     of the United States, has been paid, as was directed by law. For the second
                     it is necessary that provision be made.No pecuniary consideration is more urgent, than the redemption and discharge
                     of the public debt: On none can delay be more injurious, or an economy of
-                    time more valuable.The productiveness of the public revenues hitherto,  has continued to equal
+                    time more valuable.The productiveness of the public revenues hitherto, has continued to equal
                     the anticipations which were formed of it; but it is not
                     expected to prove commensurate with all the objects which have been
                     suggested. Some auxiliary provisions will therefore, it is presumed, be

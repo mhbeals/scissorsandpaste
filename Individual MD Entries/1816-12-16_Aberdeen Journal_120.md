@@ -1,4 +1,4 @@
-Canada  Lord SelkirkWe have been favoured by a Gentleman in this city, with the following
+Canada Lord SelkirkWe have been favoured by a Gentleman in this city, with the following
                     interesting and authentic communication, on the subject of the
                     dispute between Lord Selkirk, and the Gentlemen of the North West
                     Company:*Extract of a Letter from Montreal, dated 6th October,*1816."In the newspapers which I sent you, you will see some accounts of the

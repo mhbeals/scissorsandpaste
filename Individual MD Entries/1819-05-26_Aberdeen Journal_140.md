@@ -2,7 +2,7 @@ Colonial IntelligenceSome Canada papers to the 11th let. have arrived in town.
                     Maitland had summoned the Parliament of Upper Canada to meet him at York,
                     on the 22d of April. He had appointed Port Talbot in the town of
                     Dunwich, a port of entry, in the same manner as those established between
-                    Canada and the  United Statess.Extract of a letter to a Gentleman in George-town, dated Tobago, Feb. 9.
+                    Canada and the United Statess.Extract of a letter to a Gentleman in George-town, dated Tobago, Feb. 9.
                     1819.–' The heavy rains which continued during the months of
                     December and January, almost inundated the country, which brought on a
                     most rapid and fatal disease, which made its first appearance in the frost,

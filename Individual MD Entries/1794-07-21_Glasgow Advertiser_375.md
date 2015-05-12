@@ -1,4 +1,4 @@
-United States, *June* 4, 1794.*Gentlemen of the Senate, and of the  House of
+United States, *June* 4, 1794.*Gentlemen of the Senate, and of the House of
                         Representatives,*Lay before Congress the copy of a letter, with its enclosure,
                     from the Secretary of State to the Minister Plenipotentiary of his
                     Britannic Majesty; it being an answer to a letter from the Mnister to him;

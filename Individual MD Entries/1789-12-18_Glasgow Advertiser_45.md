@@ -8,7 +8,7 @@
                     declined, saying he had already engaged himself on the *side of the people*. Incensed at this reply, he reviled him in
                     very opprobrious terms, and at last laid his cane upon him !Frustrated in his attempts upon the infantry, he made his next application
                     to the regiment of artillery, but with as little success. They informed him, that themselves and Culverins were stationed there for the protection of the *people*, and
-                     for *them* only should be used.Driven to the last shift, his distress suggested the sorry expedient of
+                    for *them* only should be used.Driven to the last shift, his distress suggested the sorry expedient of
                     having recourse to the *people* of *colour*, who *here* form a
                     considerable corps. By a small dose of flattery these people, so readily to be caught by a little seeming attention, promised
                     to stand by him ; and did so, as long as they usually stand firm to any

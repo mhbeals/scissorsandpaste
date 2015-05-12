@@ -1,5 +1,5 @@
 *Boston, October* 26.Saturday, between the hours of two and three, arrived in town from New-York,
-                    the  PRESIDENT of the United States.The inhabitants of this metropolis have now the happiness to
+                    the PRESIDENT of the United States.The inhabitants of this metropolis have now the happiness to
                     felicitate themselves on having among them the virtuous General, who
                     delivered their capital from the oppression of a British foe; and in
                     the same person the magnanimous President of the United States

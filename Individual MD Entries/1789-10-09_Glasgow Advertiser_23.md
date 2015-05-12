@@ -2,7 +2,7 @@
                     Ontario in the Genesee county (the territory lately ceded by this
                     state to the commonwealth of Massachusetts) we are informed, that four
                     days before he left that county, Colonel Brant from Niagara, at the
-                    head of between 16 and 1800 of the principal  Sachems, and other
+                    head of between 16 and 1800 of the principal Sachems, and other
                     Indians of the Six Nations, had arrived at Conadoque, the seat of Oliver
                     Phelps, Esq; on a visit of friendship, and at the same time to receive
                     the money due them for the lands sold to the company of Messrs. Gorham and

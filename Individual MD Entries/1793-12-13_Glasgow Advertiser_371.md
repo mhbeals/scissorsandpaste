@@ -1,5 +1,5 @@
 *Extracts from the*New-York Daily Advertiser.Pittsburgh, *Sept*. 7.SUNDAY last arrived an express in this town from the commissioners who were
-                    sent to treat with the Indians:  he had left the commissioners on this side
+                    sent to treat with the Indians: he had left the commissioners on this side
                     of Lake Erie, that day eight days. They had been met at Niagara by Indian
                     commissioners, and with them had sailed in separate vessels to the
                     mouth of Detroit river 18 miles from Detroit, where our commissioners were

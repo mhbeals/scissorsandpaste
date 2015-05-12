@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -39,14 +39,24 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="singular" passive="singular"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                            <item>newspapers</item>
+                            <item>crime</item>
+                            <item>accidents</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -67,7 +77,7 @@
                     types, <lb/>&amp;c. also taken possession of. This vigorous mea<lb break="no"/>sure of Sir James Craig, has astonished the Cana<lb break="no"/>dians not a
                     little, but the consequences will be no <lb/>doubt beneficial to the country, as
                     it has crushed a <lb/>faction which has for some years been gaining
-                    <lb/>strength, and acquiring dangerous ingluence over the <lb/>minds of the
+                    <lb/>strength, and acquiring dangerous influence over the <lb/>minds of the
                     inhabitants, who are without education, <lb/>and ignorant, of course, in the
                     extreme ; therefore <lb/>easily misled by demagogues among their country<lb break="no"/>men, who seize every opportunity of stirring up all <lb/>those
                     prejudices which the people of this country <lb/>naturally have against the
@@ -100,10 +110,10 @@
                 <p>On Thursday night, a spirit shop in Gibson-street, <lb/>Glasgow, was broken into
                     and about five pounds <lb/>in silver, a seven shilling piece, about eight
                     shillings <lb/>of copper, a counterfeit half-guinea, and a poc<lb break="no"/>ket-book containing some bills and papers carried ; <lb/>some partial payments
-                    are marked on the bills. The <lb/>villians appear to have entered the shop by
+                    are marked on the bills. The <lb/>villains appear to have entered the shop by
                     forcing <lb/>up the window shutter with an iron bar, and then <lb/>breaking a
                     pane of glass, by which they got the iron <lb/>bolts and the window opened.</p>
-                <p>On Sturday last, a porter was killed in the hold <lb/>of a vessel in Dundee
+                <p>On Saturday last, a porter was killed in the hold <lb/>of a vessel in Dundee
                     harbour. He was engaged <lb/>unloading coals ; and the rope by which the iron
                         pul<lb break="no"/>ly was supported, giving way, the measure fell down
                     <lb/>upon him, and killed him instantly.</p>

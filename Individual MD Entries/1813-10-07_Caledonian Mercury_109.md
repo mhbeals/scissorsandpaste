@@ -62,7 +62,7 @@ Canada.(From the Quebec Mercury.) Attack on Fort
                     States, were immediately burnt. The enemy obtained both provisions and
                     stores. The loss cannot be less than 50,000 dollars. The enemy left
                     Plattsburgh on the 1st, and are understood to be proceeding this way
-                    [?] [?] [?] [?] [?] [?] [?] [?] [?] On General Dearborn invading Canada, and taking possession
+                     ??? ??? ??? ??? ??? ??? ??? ??? ???On General Dearborn invading Canada, and taking possession
                     of Fort George, he sent off to Greenbush, as prisoners of war,
                     the following respectable inhabitants : Messrs Edwards, Murehead, Dickson
                     Lyminston, Lawe, two Kerrs, M'Ewan, Parson Addison, Howell, Heron,

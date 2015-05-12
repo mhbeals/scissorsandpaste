@@ -1,4 +1,4 @@
-*CURIOUS ADVERTISEMENT* From the PITTSBURGH GAZETTE*Pittsburgh, Dec.* 23, 1789.JULY the twenty-seventh day My wife Betsey ran away From bed and
+*CURIOUS ADVERTISEMENT*From the PITTSBURGH GAZETTE*Pittsburgh, Dec.* 23, 1789.JULY the twenty-seventh day My wife Betsey ran away From bed and
                     board,–and this did say "She would no longer with my stay."
                     Since she has left me without cause I'll give her time enough to
                     pause, That she may see her grievous error, When I live happy with a

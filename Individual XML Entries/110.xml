@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -40,20 +40,30 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Victory in Canada</hi>
+                    <head>
+               <hi rend="smallcaps">Victory in Canada</hi>
+            </head>
                 </p>
                 <p>By the Dunlop, Captain Abrams, arrived on Sun<lb break="no"/>day last, at
                     Greenock, from Quebec, after a passage <lb/>of 36 days, papers and letters have
@@ -73,9 +83,7 @@
                     <lb/>under the command of General Wilkinson. The <lb/>division commanded by
                     General Boyd, consisting of <lb/>about 3000 to 4000 infantry, cavalry &amp;c.
                     was alone <lb/>engaged upon the 11th instant.</p>
-                <p>"The enemy lost in the action, Brigadier Gen.</p>
-                <p>
-            <pb/>Conington and Colonel Preston, killed–probably <lb/>600 men killed,
+                <p>"The enemy lost in the action, Brigadier Gen. <pb/>Conington and Colonel Preston, killed–probably <lb/>600 men killed,
                     wounded, and taken.</p>
                 <p>"The consequence was a precipitate retreat across <lb/>the St Lawrence at
                     Cornwall on the 13th, and eva<lb break="no"/>cuating the province. General

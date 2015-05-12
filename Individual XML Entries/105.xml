@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -39,14 +39,26 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="plural" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                            <item>colonial government</item>
+                            <item>speeches</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -74,9 +86,8 @@
                 <p>"Our militia have heard that voice and have obeyed it ; <lb/>they have evinced,
                     by the promptitude and loyalty of their <lb/>conduct, that they are worthy of
                     the King whom they serve <lb/>and of the constitution which they enjoy ; and it
-                    affords me <lb/>particulary satisfaction, that, while I address you as
-                        Legisla<lb break="no"/>tors, I speak to mean who, in the day of danger, will
-                    be <lb/>ready to assist, not only with their counsels, but with their
+                    affords me <lb/>particular satisfaction, that, while I address you as Legisla<lb break="no"/>tors, I speak to mean who, in the day of danger, will be
+                    <lb/>ready to assist, not only with their counsels, but with their
                     <lb/>arms.</p>
                 <p>"We look, Gentlemen, to our militia, as well as to the <lb/>regular forces, for
                     our protection ; but I should be wanting to <lb/>that important trust committed
@@ -88,7 +99,7 @@
                 <p>"Honourable Gentlemen of the Legislative Council, <lb/>and Gentlemen of the House
                     of Assembly,</p>
                 <p>"From the history and experience of our mother country, <lb/>we learn, that in
-                    times of actual invasion or interal commo<lb break="no"/>tion the ordinary
+                    times of actual invasion or internal commo<lb break="no"/>tion the ordinary
                     course of criminal laws has been found in <lb/>adequate to secure his Majesty's
                     Government from private <lb/>treachery, as well as from open disaffection ; and
                     that at such <lb/>times its Legislature has found it expedient to enact laws
@@ -110,8 +121,9 @@
                 <p>The unprovoked declaration of war by the United <lb/>States of America, against
                     the united kingdom of <lb/>Great Britain and Ireland, and its dependencies, has
                     <lb/>been followed by the actual invasion of this province <lb/>in a remote
-                    frontier of the western disticts, by a <lb/>detachment of the United States. The
-                    officer com<lb break="no"/>manding that detachment has thought proper to in<lb break="no"/>vite his Majesty's subjects, not merely to a quiet and
+                    frontier of the western districts, by a <lb/>detachment of the United States.
+                    The officer com<lb break="no"/>manding that detachment has thought proper to
+                        in<lb break="no"/>vite his Majesty's subjects, not merely to a quiet and
                     <lb/>unresisting submission, but insults them with a call <lb/>to seek
                     voluntarily the protection of his Govern<lb break="no"/>ment.</p>
                 <p>Without condescending to repeat the illiberal <lb/>epithets bestowed in this

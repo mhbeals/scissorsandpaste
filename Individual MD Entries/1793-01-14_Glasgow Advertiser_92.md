@@ -52,7 +52,7 @@ As the following Speech of Gen. Washington at the opening of the
                     operations (besides being dictated by the measures which were pursuing
                     towards a pacific termination of the war) has been in itself
                     deemed preferable to immature efforts. A statement, from the
-                    proper department, with regard to the number  of troops raised, and
+                    proper department, with regard to the number of troops raised, and
                     some other points which have been suggested, will afford more precise information as a guide to the legislative consultations and
                     among other things, will enable Congress to judge whether some additional
                     stimulus to the recruiting service may not be advisable.In looking forward to the future expense of the operations which may be

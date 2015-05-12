@@ -1,4 +1,4 @@
-Intended Colony at the Cape of  Good Hope.The following letter explains, in detail, the degree of co-operation which
+Intended Colony at the Cape of Good Hope.The following letter explains, in detail, the degree of co-operation which
                     Government proposes to afford to those persons who may wish to emigrate
                     from this country.(Official Circular.)"Downing-street. London, 1819. "The sufferings to which many individuals
                     have been exposed, who have emigrated to his Majesty's foreign

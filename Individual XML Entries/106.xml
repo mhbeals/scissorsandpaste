@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -39,14 +39,23 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="govt"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="plural" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>speeches</item>
+                            <item>military</item>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

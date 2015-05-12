@@ -7,5 +7,5 @@
                     among them, to the no small regret of those who left England for the
                     sake of Oriental wealth.Our *female adventurers* have also found it a bad
                     market ; *British beauty* never fails of finding its
-                    admirers ; but the late restriction in the East have rendered *wives* forbideen fruit, of which neither *civil* not *military* dare to think
+                    admirers ; but the late restriction in the East have rendered *wives* forbidden fruit, of which neither *civil* nor *military* dare to think
                     of tasting.

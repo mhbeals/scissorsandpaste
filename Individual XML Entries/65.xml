@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -40,13 +40,24 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="revision"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>prices</item>
+                            <item>colonial government</item>
+                            <item>female emigration</item>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -62,7 +73,7 @@
                     sake of Oriental wealth.</p>
                 <p>Our <hi rend="italic">female adventurers</hi> have also found it a bad
                     <lb/>market ; <hi rend="italic">British beauty</hi> never fails of finding its
-                    <lb/>admirers ; but the late restriction in the East <lb/>have rendered <hi rend="italic">wives</hi> forbideen fruit, of which <lb/>neither <hi rend="italic">civil</hi> not <hi rend="italic">military</hi> dare to think
+                    <lb/>admirers ; but the late restriction in the East <lb/>have rendered <hi rend="italic">wives</hi> forbidden fruit, of which <lb/>neither <hi rend="italic">civil</hi> nor <hi rend="italic">military</hi> dare to think
                     of tasting.</p>
             </body>
         </text>

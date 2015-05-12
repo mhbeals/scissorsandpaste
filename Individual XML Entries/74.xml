@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -40,13 +40,20 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -58,12 +65,12 @@
          </p>
                 <p>
             <hi rend="italic">Pittsburgh, Dec.</hi> 23, 1789 <lb/>JULY the twenty-seventh day
-                    <lb/>My wife Betsey ran away <lb/>From bed and board,–and this dad say,
+                    <lb/>My wife Betsey ran away <lb/>From bed and board,–and this did say,
                     <lb/>"She would no longer with me stay." <lb/>Since she has left me without
                     cause <lb/>I'll give her time enough to pause. <lb/>That she may see her
-                    grievous error, <lb/>When I happy with a fairer. <lb/>So I for[?] arn[?] both
-                    great and small <lb/>To trust her any thing at all, <lb/>For of her contracts
-                    from this day <lb/>One farthing's worth I will not pay. <lb/>
+                    grievous error, <lb/>When I happy with a fairer. <lb/>So I forewarn both great
+                    and small <lb/>To trust her any thing at all, <lb/>For of her contracts from
+                    this day <lb/>One farthing's worth I will not pay. <lb/>
             <hi rend="smallcaps">Dennis O'Bryan</hi>
          </p>
                 <p/>

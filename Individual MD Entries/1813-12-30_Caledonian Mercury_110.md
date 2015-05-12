@@ -12,7 +12,7 @@ Victory in CanadaBy the Dunlop, Captain Abrams, arrived on Sunday last, at
                     which arrived at Liverpool on Tuesday:–"Quebec, Nov. 26. 1813 "The enemy's whole force was about 8000 men,
                     under the command of General Wilkinson. The division commanded by
                     General Boyd, consisting of about 3000 to 4000 infantry, cavalry &c.
-                    was alone engaged upon the 11th instant."The enemy lost in the action, Brigadier Gen.Conington and Colonel Preston, killed–probably 600 men killed,
+                    was alone engaged upon the 11th instant."The enemy lost in the action, Brigadier Gen. Conington and Colonel Preston, killed–probably 600 men killed,
                     wounded, and taken."The consequence was a precipitate retreat across the St Lawrence at
                     Cornwall on the 13th, and evacuating the province. General
                     Wilkinson marched his troops into the Straits, the route of Plattsburgh,

@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -40,20 +40,29 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>marriage</item>
+                            <item>female emigration</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
             <pb n="1"/>
-            <hi rend="italic">A humorous Adventure of a Marriage negotiated[?] by
+            <hi rend="italic">A humorous Adventure of a Marriage negotiated by
                         <lb/>a Bill of Exchange, in one of the English West</hi>
                     <lb/>India Islands.</p>
                 <p>
@@ -119,7 +128,7 @@
                     this is the <lb/>spouse you ordered me to send you." Ha, [?]<lb break="no"/>[?]
                     ! said the Creole, I never yet suffered my <lb/>bills to be protested, and I
                     swear this shall not be <lb/>the first : I shall reckon myself the most
-                    fortunate <lb/>of all men, if you allow meto discharge it." <lb/>Yes, Sir,
+                    fortunate <lb/>of all men, if you allow me to discharge it." <lb/>Yes, Sir,
                     replied she, and the more willingly, <lb/>since I am apprized of your character.
                     We have <lb/>several persons of honour on board, who knew <lb/>you very well,
                     and who, during my passage <lb/>have answered all the questions I asked them

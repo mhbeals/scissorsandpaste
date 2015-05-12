@@ -12,9 +12,8 @@ Upper CanadaYork, July, 28.Yesterday, at an early hour, his Honour, Isaac Broc
                     his country."Our militia have heard that voice and have obeyed it ; they have evinced,
                     by the promptitude and loyalty of their conduct, that they are worthy of
                     the King whom they serve and of the constitution which they enjoy ; and it
-                    affords me particulary satisfaction, that, while I address you as
-                        Legislators, I speak to mean who, in the day of danger, will
-                    be ready to assist, not only with their counsels, but with their
+                    affords me particular satisfaction, that, while I address you as Legislators, I speak to mean who, in the day of danger, will be
+                    ready to assist, not only with their counsels, but with their
                     arms."We look, Gentlemen, to our militia, as well as to the regular forces, for
                     our protection ; but I should be wanting to that important trust committed
                     to my care, if I attempted to conceal (what experience, the great
@@ -23,7 +22,7 @@ Upper CanadaYork, July, 28.Yesterday, at an early hour, his Honour, Isaac Broc
                     for you to consider what further improvements they still may
                     require."Honourable Gentlemen of the Legislative Council, and Gentlemen of the House
                     of Assembly,"From the history and experience of our mother country, we learn, that in
-                    times of actual invasion or interal commotion the ordinary
+                    times of actual invasion or internal commotion the ordinary
                     course of criminal laws has been found in adequate to secure his Majesty's
                     Government from private treachery, as well as from open disaffection ; and
                     that at such times its Legislature has found it expedient to enact laws
@@ -39,8 +38,9 @@ Upper CanadaYork, July, 28.Yesterday, at an early hour, his Honour, Isaac Broc
                     protect and defend the loyal inhabitants from the machinations, is an object worthy of your most serious deliberations."The speech concludes with a call for supplies.ProclamationThe unprovoked declaration of war by the United States of America, against
                     the united kingdom of Great Britain and Ireland, and its dependencies, has
                     been followed by the actual invasion of this province in a remote
-                    frontier of the western disticts, by a detachment of the United States. The
-                    officer commanding that detachment has thought proper to invite his Majesty's subjects, not merely to a quiet and
+                    frontier of the western districts, by a detachment of the United States.
+                    The officer commanding that detachment has thought proper to
+                        invite his Majesty's subjects, not merely to a quiet and
                     unresisting submission, but insults them with a call to seek
                     voluntarily the protection of his Government.Without condescending to repeat the illiberal epithets bestowed in this
                     appeal of the American Commander to the people of Upper Canada, on the

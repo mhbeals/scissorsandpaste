@@ -10,7 +10,7 @@ NOTHER DREADFUL MASSACRE BY THE NATIVES OFTHE MARQUESAS ISLANDS.(*From the Sydne
                     and the wind blowing fresh right on the land, to cut the vessel adrift; by
                     which means she drove ashore through a heavy surf, and was soon bilged
                     and filled with water. When the cannibal natives saw that it was
-                    impracticable to get the  vessel afloat, they concurred universally in the
+                    impracticable to get the vessel afloat, they concurred universally in the
                     design of putting the whole of her crew to death, which appears to have been a constant practise among the different
                     natives towards one another, when their canoes happen to fall upon a
                     strange shore, through stress of weather, or from any other accident.Captain Fowler had formed an intimacy with their Chief, or King, Nooahetu,

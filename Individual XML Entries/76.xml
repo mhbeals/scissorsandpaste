@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -40,20 +40,29 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
-                    <purpose type="inform"/>
+                    <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>military</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
             <pb/>On Tuesday afternoon the six Cherokee Chiefs <lb/>visited the Cathedral of
-                    St. Paul's, which they <lb/>explain[?] with an equal degree of curiosity and</p>
+                    St. Paul's, which they <lb/>explain with an equal degree of curiosity and</p>
                 <p>
             <pb/>amazement. They were asked whether they <lb/>would not attend the evening
                     service, which they <lb/>readily complied, and seemed particularly de<lb break="no"/>lighted with the organ.</p>
@@ -63,7 +72,7 @@
                     keepers,–and all their ac<lb break="no"/>complices to an amazing
                     number.</p>
                 <p>Such a collection would be a truly valuable <lb/>present.–Among them are
-                    found dispersedly all <lb/>the qualitities of able Generals,–skilful
+                    found dispersedly all <lb/>the qualities of able Generals,–skilful
                     Financiers, <lb/>–able Negotiators, active Citizens,–and men
                     <lb/>highly expert at a <hi rend="italic">Coup de Main</hi>.</p>
                 <p>Were we to add the Pugilistic tribe,–the <lb/>Cherokee Chiefs might on

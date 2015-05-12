@@ -1,12 +1,12 @@
- As the following Speech of Gen. Washington at  the opening of
+ As the following Speech of Gen. Washington at the opening of
                     the Congress of the United States at New York, Nov. 6, gives an
                     impartial account of the situation of that counttry, we are
                     persuaded it will be found not unentertaining to our readers. *Fellow Citizens of the Senate, and of the House of
                         Representatives,*IT is some aba???of the
-                    satisfaction, with  which I meet you on the present occasion, that in
+                    satisfaction, with which I meet you on the present occasion, that in
                     felicitating you on a continuance of the national prosperity, generally, I
                     am not able to add to it information that Indian hostilities, which
-                    have for some time past, distressed our  western frontier, have terminated. You will, I am persuaded, learn, with no less concern than I communicate it,
+                    have for some time past, distressed our western frontier, have terminated. You will, I am persuaded, learn, with no less concern than I communicate it,
                     that reiterated endeavours, towards effecting a pacification, have
                     hitherto issued only in new and outrageous proofs of preserving
                     hostility on the part of the tribes with whom we are in contest. An earnest
@@ -35,7 +35,7 @@
                     villages on the ??? river, have
                     long been in the practice of committing depredations on the neighbouring
                     settlements.  It was hoped that the treat of Holston, made with the Cherokee nation, in
-                    July 1791, would have prevented a repetition of such depredations.  But the
+                    July 1791, would have prevented a repetition of such depredations. But the
                     event has not answered this hope. The Chickamagas, aided by some banditti
                     of another tribe in their vicinity, have recently perpetrated wanton
                     and unproved hostilities, upon the citizens of the United States
@@ -64,7 +64,7 @@
                     frontier; and for restraining the commission of outrages upon the Indians;
                     without which all ??? plans must
                     prove nugatory. To enable by ???ent
-                    rewards the employment of qualified ??? persons to reside among them, as agents,  would also
+                    rewards the employment of qualified ??? persons to reside among them, as agents, would also
                     contribute to the preservation of peace and good neighbourhood. If in
                     addition to these expedients, an eligible plan could be devised for
                     promoing civilization among the friendly tribes, and for carrying on
@@ -84,15 +84,15 @@
                     infractors thereof, and securing obedience thereto. Measures have also been taken for the prosecution of offenders.
                     And Congress may be assured, that nothing within constitutional and legal
                     limits which may depend on me, shall be wanting ???sert and maintain the just
-                    authority of the law.  In fulfilling this trust, I shall count entirely
-                    upon the full co-operation of the other departments of the government,
-                    and upon the zealous support of all good citizens.I cannot forbear to bring again into the view of the legislature the subject
+                    authority of the law. In fulfilling this trust, I shall count entirely upon
+                    the full co-operation of the other departments of the government, and
+                    upon the zealous support of all good citizens.I cannot forbear to bring again into the view of the legislature the subject
                     of a revision of the judiciary system. A representation from the judges of the supreme court, which will be laid before you, points out some of the inconveniences that are being
                     experienced. In the course of the execution of the laws,
                     considerations rise out of the structure of that system, which some cases,
                         ???to relax their efficacy.
                     As connected with the subject provisions to facilitate the raking of
-                        ??? upon processes out of the Courts of the United States, and
+                        ???upon processes out of the Courts of the United States, and
                     supplementary definition of offence, against the constitution and laws of
                     the union, ???of the punishment for such offences, will, it is presumed,
                     be found worthy of particular attention.  Observations on the value of peace with other nations are unnecessary; I
@@ -151,7 +151,7 @@
                     trust, be productive of solide and durable advantages to our constituentes;
                     such as by conciliating more and more their ultimate suffrage, will tend to strength and confirm their attachment, upon which,
                     under Divine Providence, materially depend their union, their safety, and
-                     their happiness. Still further to promote and secure these inestimable ends, there
+                    their happiness. Still further to promote and secure these inestimable ends, there
                     is nothing which can have a more powerful tendency, than the careful
                         cultivatino of harmony, combined with a due regard to
                     stability in the public councils.G. WASHINGTON.

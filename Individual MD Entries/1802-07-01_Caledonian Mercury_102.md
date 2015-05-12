@@ -1,14 +1,14 @@
 New South WalesThe following particulars respecting this flourishing colony will
                     not be unacceptable to our readers :–"We are informed by Lieutenant Grant, who is lately arrived from New South
                     Wales, of the flourishing state of that colony ; he left Port Jackson
-                    in Novemeber last, when the crops were very luxuriant and beginning to be
-                    cut down, without having suffered that year from the floods."Governor King had opened a communication with Oraheire, for the
+                    in November last, when the crops were very luxuriant and beginning to be
+                    cut down, without having suffered that year from the floods."Governor King had opened a communication with Otaheite, for the
                     purpose of supplying the colony with pork, in which he had been
                     singularly successful his Majesty's armed ship Porpoise having made
-                    one trip, and the Norfolk brig having failed on the same employ previous
+                    one trip, and the Norfolk brig having sailed on the same employ previous
                     to Mr Grant's leaving Sydney."The most friendly understanding exists between the natives of
                     Otaheite and the settlement of New South Wales. We are happy to
-                    hear that the latter country is longer in want of a stape commodity,
+                    hear that the latter country is longer in want of a staple commodity,
                     the article of coals, of an excellent kind, being found in abundance in
                     Hunter's River, together with plenty of wood, well qualified for the
                     masting of shipping. Mr Grant made his passage to the Cape of Good
@@ -17,10 +17,9 @@ New South WalesThe following particulars respecting this flourishing colony wi
                     at 36 rix dollars per ton (nearly 6l. sterling.)"Governor King had formed a small settlement at Hunter's River,
                     for the purpose of working the coal, which is of the same nature
                     with that of Newcastle."Mr Grant entered this river in the Lady Nelson, in order to obtain the
-                    survey of it. He pentrated in his boats nearly seventy miles up the
+                    survey of it. He penetrated in his boats nearly seventy miles up the
                     same, accompanied by Lieutenant Colonel Paterson, without being able at
-                    that time, to discover its source. A wood resembling sustic[?[ had
-                    also been found."Mr Grant in his passage from England to Port Jackson, in the Lady Nelson, a
+                    that time, to discover its source. A wood resembling sustic had also been found."Mr Grant in his passage from England to Port Jackson, in the Lady Nelson, a
                     vessel of only 60 tons burthen, with three sliding keels, and built on
                     Captain Schank's construction, was the first that passed through the
                     straits which separate Van Diemens Land from New Holland,

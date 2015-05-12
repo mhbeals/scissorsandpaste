@@ -8,7 +8,7 @@ Canada*Extract of a letter from a Gentleman, to his Friend in
                     types, &c. also taken possession of. This vigorous measure of Sir James Craig, has astonished the Canadians not a
                     little, but the consequences will be no doubt beneficial to the country, as
                     it has crushed a faction which has for some years been gaining
-                    strength, and acquiring dangerous ingluence over the minds of the
+                    strength, and acquiring dangerous influence over the minds of the
                     inhabitants, who are without education, and ignorant, of course, in the
                     extreme ; therefore easily misled by demagogues among their countrymen, who seize every opportunity of stirring up all those
                     prejudices which the people of this country naturally have against the
@@ -35,9 +35,9 @@ Canada*Extract of a letter from a Gentleman, to his Friend in
                     happened.On Thursday night, a spirit shop in Gibson-street, Glasgow, was broken into
                     and about five pounds in silver, a seven shilling piece, about eight
                     shillings of copper, a counterfeit half-guinea, and a pocket-book containing some bills and papers carried ; some partial payments
-                    are marked on the bills. The villians appear to have entered the shop by
+                    are marked on the bills. The villains appear to have entered the shop by
                     forcing up the window shutter with an iron bar, and then breaking a
-                    pane of glass, by which they got the iron bolts and the window opened.On Sturday last, a porter was killed in the hold of a vessel in Dundee
+                    pane of glass, by which they got the iron bolts and the window opened.On Saturday last, a porter was killed in the hold of a vessel in Dundee
                     harbour. He was engaged unloading coals ; and the rope by which the iron
                         pully was supported, giving way, the measure fell down
                     upon him, and killed him instantly.A few days ago, a mason, of the name of Stevenson, was killed by

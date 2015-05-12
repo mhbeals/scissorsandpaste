@@ -7,4 +7,4 @@ At four o'clock yesterday morning Mess. Muir, Skirving, and Margarot,
                     behaved in a most turbulent manner and even fought in the hold of the
                     boat. There were among them one or two well dressed women ; and what
                     was more lamentable in the eyes of the spectator, some of had infants
-                    with the.
+                    with them.

@@ -10,7 +10,7 @@
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName> Transcribed by <persName role="transcription">Max
+                            Beals</persName>. Transcribed by <persName role="transcription">Max
                             Templer</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
@@ -39,21 +39,34 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="plural" passive="unknown"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+               <list>
+                        <item>war</item>
+                        <item>Anglo-American relations</item>
+                        <item>military</item>
+                        <item>Native Americans</item>
+                        <item>navy</item>
+                    </list>
+            </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
             <pb/>
-            <hi rend="smallcaps">Canada.</hi>
+                    <head>
+               <hi rend="smallcaps">Canada.</hi>
+            </head>
                     <lb/>(From the Quebec Mercury.) <lb/>
             <hi rend="smallcaps">Attack on Fort
                         Schlosser.</hi>
@@ -137,7 +150,8 @@
                     States, <lb/>were immediately burnt. The enemy obtained both <lb/>provisions and
                     stores. The loss cannot be less than <lb/>50,000 dollars. The enemy left
                     Plattsburgh on the <lb/>1st, and are understood to be proceeding this way
-                    <lb/>[?] [?] [?] [?] [?] [?] [?] [?] [?] <cb/>
+                    <lb/>
+            <supplied reason="copy blur"/> ??? ??? ??? ??? ??? ??? ??? ??? ???<cb/>
                     <lb/>On General Dearborn invading Canada, and tak<lb break="no"/>ing possession
                     of Fort George, he sent off to Green<lb break="no"/>bush, as prisoners of war,
                     the following respectable <lb/>inhabitants : Messrs Edwards, Murehead, Dickson

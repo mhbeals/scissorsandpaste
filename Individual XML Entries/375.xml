@@ -28,10 +28,10 @@
                   </authority>
                             <pubPlace>
                                 <address>
-                                <settlement>Glasgow</settlement>
-                                <region>Scotland</region>
-                                <country>United Kingdom</country>
-                            </address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
+                     </address>
                             </pubPlace>
                             <date when="1794-07-21"/>
                         </publicationStmt>
@@ -70,7 +70,7 @@
                <hi rend="smallcaps">United States</hi>, <hi rend="italic">June</hi> 4, 1794.</hi>
                 </p>
                 <p>
-                    <hi rend="italic">Gentlemen of the Senate, and of the <lb/> House of
+                    <hi rend="italic">Gentlemen of the Senate, and of the <lb/>House of
                         Representatives,</hi>
                 </p>
                 <p>Lay before Congress the copy of a letter, with its en<lb break="no"/>closure,

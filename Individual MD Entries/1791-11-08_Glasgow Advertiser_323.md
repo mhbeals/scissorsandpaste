@@ -9,7 +9,7 @@
                         valuable builder a short tarry, they proceeded to neighings set on flames by the Indians. Afbouring
                     villages, without molestation, and deftroyed five of them, and a
                     quantity of corn, computed at fifteen thousand bushels, which
-                    they  found buried in different places, and very large quantities of
+                    they found buried in different places, and very large quantities of
                     vegetables of every kind. The firstopposition that was met with, a party of about 150 Kentucky militia,
                     and thirty regular troops, all under the command of Col. Hardin, of Kentucky, were detached from the main body, lying in the great
                     Miami village, to pursue the track of a party of Indians which had the day

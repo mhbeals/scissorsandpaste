@@ -29,7 +29,7 @@
                     of canaling, from several years experience both in Holland and
                     in Scotland.  The President of the Northern Inland L. ?.Company, attended by Mr. Nesbit, and a commitee of
                     Directors, left this city, this morning on a tour, to explore the rive from
-                    Troy upwards,  for the purpose of prosecuting the canals with spirit
+                    Troy upwards, for the purpose of prosecuting the canals with spirit
                     the remaining part of the season, and making preparations for
                     its more active prosecution in the ensuing year. *Philadelphia, July* 12. Accounts from South Carolina and Georgia, with regard to their prospects of
                     the ensuing crops, are very unfavourable, no rains of any consequence
@@ -61,7 +61,7 @@
                     considerable. *???sburgh, July* 21. Extract of a letter from Captain Paul, of the State Levies, dated Middle
                     Block house, of the frontiers of Washington country, July 16,
                     1792." "The Indians on Tuesday last killed two men and one woman, and stole seven
-                    horses between  the states of Crays Creek and Col. Shepherd's in Ohio
+                    horses between the states of Crays Creek and Col. Shepherd's in Ohio
                     county, Virginia.–Lieut. Gray and fourteen of my men
                     followed them over the Ohio, as far as the head of the Soufish, but the
                     Indians being on horseback they returned without coming up with them.

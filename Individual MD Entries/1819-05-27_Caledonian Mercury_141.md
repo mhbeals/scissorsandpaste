@@ -1,4 +1,4 @@
-Extract of a letter from William Hunt, esq."  To H.
+Extract of a letter from William Hunt, esq." To H.
                         Hunt, esq."Washington Hotel, New Orleans, Dec. 25. 1818."My Dear Brother – We arrived safe in the mouth
                     of the Mississippi on the 10th of this month, after a voyage of 82
                     days from Gravesend. Your son and myself are in excellent health, and very
@@ -27,7 +27,7 @@ Extract of a letter from William Hunt, esq."  To H.
                     year. He offers five hundred acres of good land with his pretty daughter,
                     as a fortune on her marriage. There are plenty of French settlements
                     on the banks of the Mississippi ; but they are the most slovenly and the
-                    worst farmers I ever saw. –  They are very lazy, bad managers, and
+                    worst farmers I ever saw. – They are very lazy, bad managers, and
                     appear to use their negroes very cruel, and work them very hard. The
                     Europeans generally leave New Orleans in the summer, as it is very
                     unhealthy in the hot weather and the deaths are frequently seventy in a

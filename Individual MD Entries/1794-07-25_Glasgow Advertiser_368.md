@@ -25,7 +25,7 @@ LANDS in AMERICA for SALE. THESE two adjoining TRACKS of LAND in the County of
                     lay in a forest, but now she exhibits an extensive settlement, divided into
                     seven populous counties, in which are a great number of flourishing towns,
                     and contains more inhabitants than are in Georgia, Delaware, and
-                     Rhode Island States. There are about 70 churches in Kentucky and mostly PResbyterians. There is a College; and Schools are
+                    Rhode Island States. There are about 70 churches in Kentucky and mostly PResbyterians. There is a College; and Schools are
                     established in every town. There is a Printing-office; a Weekly
                     Gazette published. There are Paper Mills, O??? Mills, ???ing Mills, Saw Mills, and a great number of Grist Mills.
                     Considerable quantities of Sugar, are made from the Sugar Trees. Salt-works

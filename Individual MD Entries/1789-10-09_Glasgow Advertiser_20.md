@@ -18,7 +18,7 @@
                     surrounding objects seemed lost in night. The storm threatened to lay the
                     whole town in ruins, with such irresistible force did the column of
                     air move on: happily however, the damages were much less than
-                    apprehended. The  The new brick house belonging to the Rev. Dr. Davidson, being an an elevated spot near the west end of the
+                    apprehended. The The new brick house belonging to the Rev. Dr. Davidson, being an an elevated spot near the west end of the
                     town, and lying directly in the line of march of this powerful column, was
                     the first sufferer; all the parts of the building above the
                     square were suddenly borne off, and a great part of the roof was
