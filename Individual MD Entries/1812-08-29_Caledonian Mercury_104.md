@@ -1,14 +1,16 @@
-CanadaMontreal, July 4This city has been for a few days past in a state of agitation occasioned by
+CanadaMontreal, July 4This city has been for a few days past in a state of agitation occasioned by
                     an event which has taken place at Pointe Claire ; and as this matter will
                     be clothed, no doubt, in all the dress of misrepresentatation by our neighbouring enemies, from the information they
-                    may receive of it, we consider it a dury, we owe to the community at large
+                    may receive of it, we consider it a duty, we owe to the community at large
                     in this country, to state the circumstances as they occurred, in a fair,
                     open, and candid manner.By the late militia law, 2000 young men are to be drafted from the general
                     militia of the province for three months to be properly trained, and of
                     course, a certain proportion of this number is to be furnished by each
                     particular district. Some those drafted from the Parish of Pointe Claire
-                    refused to march to Lapraire, for the purpose of joining the divion stationed there ; in consequence of which, Major, Leprohon, belonging to this particular battalion, was sent on Tuesday last,
-                    with 22 attendants, to apprehend these refractory persons as deserters.They apprehended four with some opposition ; and on their way to town with
+                    refused to march to Lapraire, for the purpose of joining the division
+                        stationed there ; in consequence of which, Major, Leprohon, belonging to this particular battalion, was sent on
+                    Tuesday last, with 22 attendants, to apprehend these refractory persons as
+                    deserters.They apprehended four with some opposition ; and on their way to town with
                     them, they were followed by a considerable number of persons who
                     rescued one prisoner, and threatened that they would next day proceed
                     to the depot at Lapraire, and bring away by force from thence the young men

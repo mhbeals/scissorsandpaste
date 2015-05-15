@@ -39,21 +39,36 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>crime</item>
+                            <item>colonial government</item>
+                            <item>trade</item>
+                            <item>Maori</item>
+                            <item>Pacific Islanders</item>
+                            <item>transportation</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">New South Wales Intelligence</hi>
+                    <head>
+                        <hi rend="smallcaps">New South Wales Intelligence</hi>
+                    </head>
                 </p>
                 <p>A proclamation, issued by Governor Macquarrie, appears <lb/>in the Sidney Gazette
                     of 14th May, stating that Peter Mills <lb/>Acting Deputy Surveyor of Lands at
@@ -69,7 +84,7 @@
                     shall be pardoned and <lb/>saved harmless from all offences, except the crime of
                     wilful <lb/>murder ; and denounces those who shall disregard this offer, <lb/>as
                     outlaws.</p>
-                <p>Sydney, New South Walves, Jan. 4. <lb/>The Argo has arrived with a most extensive
+                <p>Sydney, New South Wales, Jan. 4. <lb/>The Argo has arrived with a most extensive
                     supply of tea, <lb/>viz, 167 chests of souchong, 200 ditto bobea, 200 hyson
                     skin, <lb/>and young hyson 50 ; in all 617 chests. The consequences has
                     <lb/>been a reduction in the price of souching from 30s to 5s per <lb/>lb

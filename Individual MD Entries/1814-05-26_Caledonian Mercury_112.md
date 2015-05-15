@@ -11,7 +11,7 @@ New South Wales IntelligenceA proclamation, issued by Governor Macquarrie, app
                     return to their houses and occupations before 1st December next,
                     shall be pardoned and saved harmless from all offences, except the crime of
                     wilful murder ; and denounces those who shall disregard this offer, as
-                    outlaws.Sydney, New South Walves, Jan. 4. The Argo has arrived with a most extensive
+                    outlaws.Sydney, New South Wales, Jan. 4. The Argo has arrived with a most extensive
                     supply of tea, viz, 167 chests of souchong, 200 ditto bobea, 200 hyson
                     skin, and young hyson 50 ; in all 617 chests. The consequences has
                     been a reduction in the price of souching from 30s to 5s per lb

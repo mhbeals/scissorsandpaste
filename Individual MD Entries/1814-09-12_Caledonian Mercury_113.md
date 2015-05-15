@@ -1,10 +1,10 @@
-Canada[Extracts of Letters from Quebec and Montreal.] Quebec, July 15. The
-                    commercial world is flourishing here, but in political matters, I am sorry
-                    to say, we are sadly in the back ground. The old defensive system is still
-                    adhered to, and, I fear much, with all our reinforcements,
-                    we shall do little good till we have another commander in chief. There is
-                    now a great body of regular troops in this country, and a handful of brave
-                    fellows have recently been almost sacrificed *par la**petite guerre* at Chippawa, whilst, in the lower
+Canada[Extracts of Letters from Quebec and Montreal.]Quebec, July 15. The commercial world is flourishing here, but in
+                    political matters, I am sorry to say, we are sadly in the back ground.
+                    The old defensive system is still adhered to, and, I fear much, with all
+                    our reinforcements, we shall do little good till we have another
+                    commander in chief. There is now a great body of regular troops in
+                    this country, and a handful of brave fellows have recently been almost
+                    sacrificed *par la**petite guerre* at Chippawa, whilst, in the lower
                         province, there are at least 10,000 regulars doing nothing.Some of the officers of the regiments lately arrived from France
                     do not conceal their sentiments– On inspecting one of the regiments
                     the other day, our chief took occasion, as usual, to make some remarks on the cut of the men's clothes, when the Colonel commanding stepped forward and told him plainly, that such systems
@@ -23,7 +23,7 @@ Canada[Extracts of Letters from Quebec and Montreal.] Quebec, July 15. The
                     will now look to him for some offensive operation against the enemy.
                     He has done nothing the whole summer but parade about 6000
                     men at Chambly, where he makes them march past him twice a-week, bowing and
-                    scraping, instead of emplying them where they ought to be.You will have heard of an American army of about 6000, under General Jacob
+                    scraping, instead of employing them where they ought to be.You will have heard of an American army of about 6000, under General Jacob
                     Brown, having crossed the river at Fort Erie, when General Rial, with
                     a force of 1500 only, gallantly assailed them but was overpowered by
                     numbers, and sustained considerable loss. I inclose a general

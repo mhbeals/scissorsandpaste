@@ -40,33 +40,47 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
-            <pb/>
-            <hi rend="smallcaps">Canada</hi>
-                    <lb/>Montreal, July 4</p>
+                    <pb/>
+                    <head>
+                        <hi rend="smallcaps">Canada</hi>
+                    </head>
+                </p>
+                <p>Montreal, July 4</p>
                 <p>This city has been for a few days past in a state of <lb/>agitation occasioned by
                     an event which has taken <lb/>place at Pointe Claire ; and as this matter will
                     be <lb/>clothed, no doubt, in all the dress of misrepresentata<lb break="no"/>tion by our neighbouring enemies, from the informa<lb break="no"/>tion they
-                    may receive of it, we consider it a dury, we <lb/>owe to the community at large
+                    may receive of it, we consider it a duty, we <lb/>owe to the community at large
                     in this country, to <lb/>state the circumstances as they occurred, in a fair,
                     <lb/>open, and candid manner.</p>
                 <p>By the late militia law, 2000 young men are to be <lb/>drafted from the general
                     militia of the province for <lb/>three months to be properly trained, and of
                     course, <lb/>a certain proportion of this number is to be furnished <lb/>by each
                     particular district. Some those drafted <lb/>from the Parish of Pointe Claire
-                    refused to march to <lb/>Lapraire, for the purpose of joining the divion sta<lb break="no"/>tioned there ; in consequence of which, Major, Lep<lb break="no"/>rohon, belonging to this particular battalion, was sent <lb/>on Tuesday last,
-                    with 22 attendants, to apprehend <lb/>these refractory persons as deserters.</p>
+                    refused to march to <lb/>Lapraire, for the purpose of joining the division
+                        sta<lb break="no"/>tioned there ; in consequence of which, Major, Lep<lb break="no"/>rohon, belonging to this particular battalion, was sent <lb/>on
+                    Tuesday last, with 22 attendants, to apprehend <lb/>these refractory persons as
+                    deserters.</p>
                 <p>They apprehended four with some opposition ; and <lb/>on their way to town with
                     them, they were follow<lb break="no"/>ed by a considerable number of persons who
                     rescued <lb/>one prisoner, and threatened that they would next <lb/>day proceed

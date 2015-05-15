@@ -40,20 +40,32 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="single" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+            <keywords>
+               <list>
+                    <item>war</item>
+                    <item>Anglo-American relations</item>
+                    <item>military</item>
+                    <item>navy</item>
+                </list>
+            </keywords>
+         </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Private Correspondence</hi>
+                   <head> 
+               <hi rend="smallcaps">Private Correspondence</hi>
+            </head>
                 </p>
                 <p>Quebec, Sept. 10. <lb/>The Americans, to the number of 900 men, landed and at<lb break="no"/>
                     <lb/>tacked Fort Michillimackinac, in Lake Huron, on the 4th <lb/>August. They
@@ -71,7 +83,7 @@
                     <lb/>troops now at Champlain are commanded by Major Gene<lb break="no"/>
                     <lb/>rals Brisbane, Power, and Robinson, and consist of the <lb/>13th, 49, 88th,
                     Meuron's regiment, Canadian chasseurs, <lb/>&amp;c. &amp;c.</p>
-                <p>The 79th[?] or[?] Glasgow Lowland regiment are now quarter<lb break="no"/>ed at
+                <p>The 79th[?] or [?] Glasgow Lowland regiment are now quarter<lb break="no"/>ed at
                     Cornwall, in Upper Canada.</p>
                 <p>The 4th[?] battalion of the 1st, or Royal Scots, are station<lb break="no"/>ed at
                     Quebec.</p>

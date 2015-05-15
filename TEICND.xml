@@ -2588,7 +2588,6 @@
                         <list>
                             <item>agriculture</item>
                             <item>trade</item>
-                            <item>government land</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -6235,13 +6234,15 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
-                <keywords>
-                    <list>
-                        <item>trade</item>
-                        <item>marriage</item>
-                        <item>female emigration</item>
-                    </list>
-                </keywords>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>marriage</item>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -6621,12 +6622,13 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
-                <textClass><keywords>
-                    <list>
-                        <item>longevity</item>
-                        <item>marriage</item>
-                    </list>
-                </keywords>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>longevity</item>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
                 </textClass>
             </profileDesc>
         </teiHeader>
@@ -7560,7 +7562,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>government expenditure</item>
+                            <item/>
                         </list>
                     </keywords>
                 </textClass>
@@ -7974,34 +7976,49 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p><pb/><hi rend="smallcaps">Canada</hi>
-                    <lb/>Montreal, July 4</p>
+                <p>
+                    <pb/>
+                    <head>
+                        <hi rend="smallcaps">Canada</hi>
+                    </head>
+                </p>
+                <p>Montreal, July 4</p>
                 <p>This city has been for a few days past in a state of <lb/>agitation occasioned by
                     an event which has taken <lb/>place at Pointe Claire ; and as this matter will
                     be <lb/>clothed, no doubt, in all the dress of misrepresentata<lb break="no"
                     />tion by our neighbouring enemies, from the informa<lb break="no"/>tion they
-                    may receive of it, we consider it a dury, we <lb/>owe to the community at large
+                    may receive of it, we consider it a duty, we <lb/>owe to the community at large
                     in this country, to <lb/>state the circumstances as they occurred, in a fair,
                     <lb/>open, and candid manner.</p>
                 <p>By the late militia law, 2000 young men are to be <lb/>drafted from the general
                     militia of the province for <lb/>three months to be properly trained, and of
                     course, <lb/>a certain proportion of this number is to be furnished <lb/>by each
                     particular district. Some those drafted <lb/>from the Parish of Pointe Claire
-                    refused to march to <lb/>Lapraire, for the purpose of joining the divion sta<lb
-                        break="no"/>tioned there ; in consequence of which, Major, Lep<lb break="no"
-                    />rohon, belonging to this particular battalion, was sent <lb/>on Tuesday last,
-                    with 22 attendants, to apprehend <lb/>these refractory persons as deserters.</p>
+                    refused to march to <lb/>Lapraire, for the purpose of joining the division
+                        sta<lb break="no"/>tioned there ; in consequence of which, Major, Lep<lb
+                        break="no"/>rohon, belonging to this particular battalion, was sent <lb/>on
+                    Tuesday last, with 22 attendants, to apprehend <lb/>these refractory persons as
+                    deserters.</p>
                 <p>They apprehended four with some opposition ; and <lb/>on their way to town with
                     them, they were follow<lb break="no"/>ed by a considerable number of persons who
                     rescued <lb/>one prisoner, and threatened that they would next <lb/>day proceed
@@ -8381,48 +8398,52 @@
             <body>
                 <p>
                     <pb/>
-                    <head><hi rend="smallcaps">War in Canada</hi></head>
+                    <head>
+                        <hi rend="smallcaps">War in Canada</hi>
+                    </head>
                 </p>
-                <p><hi rend="smallcaps">Extract of a letter from Montreal Sept. 25</hi>
-                    <lb/>"Our Friend Mr &#x2013; arrived in town from New <lb/>York a few days ago.
-                    On his way he passed three <lb/>days at Plattsburgh, the head-quarters of the
-                        Ame<lb break="no"/>rican army, which, from ocular observation, he states
-                    <lb/>to consist of 8 or 10,000 men, under the command <lb/>of General
-                    Bloomfield, Mooar, and Petit. This <lb/>force is composed of 3 or 4000 regulars,
-                    about the <lb/>same number of militia, and some volunteers from the
-                    <lb/>southward. The militia is almost all from the state <lb/>of New York, for
-                    the Yankees still refuse to march. <lb/>with this force no doubt is entertained
-                    here but they<pb/>will make an attack ; and if they mean to make it <lb/>this
-                    season, they must be prompt in their movements, <lb/>for the weather is getting
-                    cold, and they are not well <lb/>clothed or appointed. Mr &#x2013;, indeed,
-                    states <lb/>half of them to be without shoes or stockings, <lb/>which will never
-                    do for a winter campaign in this <lb/>country. To repel the threatened attack,
-                    we are <lb/>making every preparation in our power, and the Ca<lb break="no"
-                    />nadians seem well disposed to second the Govern<lb break="no"/>ment. Sir
-                    George Prevost has established a cordon, <lb/>the left of which is at Chambly,
-                    and extending to <lb/>Chateaguny ; the main encampment is half way be<lb
-                        break="no"/>tween St John's and La Prairie. Colonel Murray <lb/>is at St
-                    John's with a battalion ; and the Isle-au<lb break="no"/> Noix is strongly
-                    fortified, with a boom and a chain <lb/>secured across the river. This line of
-                    defence is <lb/>composed of four regiments of the line, and 2000 <lb/>drafted
-                    militia, with a corps of about 400 Canadian <lb/>voltigeurs, raised last spring.
-                    The Royals, a very <lb/>strong battalion, lately arrived from the West Indies,
-                    <lb/>are now marching to join the camp. The citizens, <lb/>both here and at
-                    Quebec, mount guard, and do <lb/>garrison : indeed there are in this island
-                    <lb/>(Montreal) five battalions of militia, say 3 to <lb/>4000 men, pretty well
-                    disciplined, and who on an <lb/>alarm could march to this cordon in half a
-                    day.&#x2013; <lb/>A new regiment of embodied militia has late<lb break="no"/>ly
-                    been formed by drafts from the different regi<lb break="no"/>ments of inrolled
-                    militia in this island, and old Major <lb/>Murray is appointed
-                    Lieutenant-Colonel. The gen<lb break="no"/>tlemen of the North-west Company army
-                    are forming <lb/>a corps of their voyageurs, who will be most useful <lb/>troops
-                    to act in advance with the Indians. The <lb/>number originally proposed was 200,
-                    but the men <lb/>have come forward so handsomely, that they are to <lb/>consist
-                    of 500. Mr M'Gillivray is Lieutenant-Co<lb break="no"/>lonel Commandant of this
-                    corps, Mr Shaw, Major, <lb/>and the other partners of the Company are Captains
-                    <lb/>and subalterns ; so that the men being commanded <lb/>by those whom they
-                    have accustomed to obey, may <lb/>be considered as already disciplined, at least
-                    in point <lb/>of subordination.</p>
+                <p>
+                    <hi rend="smallcaps">Extract of a letter from Montreal Sept. 25</hi>
+                </p>
+                <p>"Our Friend Mr &#x2013; arrived in town from New <lb/>York a few days ago. On his
+                    way he passed three <lb/>days at Plattsburgh, the head-quarters of the Ame<lb
+                        break="no"/>rican army, which, from ocular observation, he states <lb/>to
+                    consist of 8 or 10,000 men, under the command <lb/>of General Bloomfield, Mooar,
+                    and Petit. This <lb/>force is composed of 3 or 4000 regulars, about the
+                    <lb/>same number of militia, and some volunteers from the <lb/>southward. The
+                    militia is almost all from the state <lb/>of New York, for the Yankees still
+                    refuse to march. <lb/>with this force no doubt is entertained here but
+                    they<pb/>will make an attack ; and if they mean to make it <lb/>this season,
+                    they must be prompt in their movements, <lb/>for the weather is getting cold,
+                    and they are not well <lb/>clothed or appointed. Mr &#x2013;, indeed, states
+                    <lb/>half of them to be without shoes or stockings, <lb/>which will never do for
+                    a winter campaign in this <lb/>country. To repel the threatened attack, we are
+                    <lb/>making every preparation in our power, and the Ca<lb break="no"/>nadians
+                    seem well disposed to second the Govern<lb break="no"/>ment. Sir George Prevost
+                    has established a cordon, <lb/>the left of which is at Chambly, and extending to
+                    <lb/>Chateaguny ; the main encampment is half way be<lb break="no"/>tween St
+                    John's and La Prairie. Colonel Murray <lb/>is at St John's with a battalion ;
+                    and the Isle-au<lb break="no"/> Noix is strongly fortified, with a boom and a
+                    chain <lb/>secured across the river. This line of defence is <lb/>composed of
+                    four regiments of the line, and 2000 <lb/>drafted militia, with a corps of about
+                    400 Canadian <lb/>voltigeurs, raised last spring. The Royals, a very <lb/>strong
+                    battalion, lately arrived from the West Indies, <lb/>are now marching to join
+                    the camp. The citizens, <lb/>both here and at Quebec, mount guard, and do
+                    <lb/>garrison : indeed there are in this island <lb/>(Montreal) five battalions
+                    of militia, say 3 to <lb/>4000 men, pretty well disciplined, and who on an
+                    <lb/>alarm could march to this cordon in half a day.&#x2013; <lb/>A new regiment
+                    of embodied militia has late<lb break="no"/>ly been formed by drafts from the
+                    different regi<lb break="no"/>ments of inrolled militia in this island, and old
+                    Major <lb/>Murray is appointed Lieutenant-Colonel. The gen<lb break="no"/>tlemen
+                    of the North-west Company army are forming <lb/>a corps of their voyageurs, who
+                    will be most useful <lb/>troops to act in advance with the Indians. The
+                    <lb/>number originally proposed was 200, but the men <lb/>have come forward so
+                    handsomely, that they are to <lb/>consist of 500. Mr M'Gillivray is
+                        Lieutenant-Co<lb break="no"/>lonel Commandant of this corps, Mr Shaw, Major,
+                    <lb/>and the other partners of the Company are Captains <lb/>and subalterns ; so
+                    that the men being commanded <lb/>by those whom they have accustomed to obey,
+                    may <lb/>be considered as already disciplined, at least in point <lb/>of
+                    subordination.</p>
                 <p>"Sir George confines his operations to mere de<lb break="no"/>fence. La Motte,
                     with about 70 Indians, advanced <lb/>through the woods, about ten days ago,
                     within hear<lb break="no"/>ing of this redoubtable army, and set up a war whoop,
@@ -8490,14 +8511,18 @@
                             <item>war</item>
                             <item>Anglo-American relations</item>
                             <item>navy</item>
-                        </list></keywords></textClass>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <head> <hi rend="smallcaps">Canada</hi></head>
+                    <head>
+                        <hi rend="smallcaps">Canada</hi>
+                    </head>
                 </p>
                 <p>The Rota frigate arrived on Monday off Ply<lb break="no"/>mouth, with a fleet
                     from Halifax under convoy, and <lb/>passed up the channel with the chief part of
@@ -8594,13 +8619,15 @@
                     <purpose type="inform"/>
                 </textDesc>
                 <textClass>
-                    <keywords><list>
-                        <item>war</item>
-                        <item>Anglo-American relations</item>
-                        <item>military</item>
-                        <item>Native Americans</item>
-                        <item>navy</item>
-                    </list></keywords>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                            <item>Native Americans</item>
+                            <item>navy</item>
+                        </list>
+                    </keywords>
                 </textClass>
             </profileDesc>
         </teiHeader>
@@ -8693,7 +8720,7 @@
                     States, <lb/>were immediately burnt. The enemy obtained both <lb/>provisions and
                     stores. The loss cannot be less than <lb/>50,000 dollars. The enemy left
                     Plattsburgh on the <lb/>1st, and are understood to be proceeding this way
-                    <lb/><supplied reason="copy blur"></supplied> ??? ??? ??? ??? ??? ??? ??? ??? ???<cb/>
+                        <lb/><supplied reason="copy blur"/> ??? ??? ??? ??? ??? ??? ??? ??? ???<cb/>
                     <lb/>On General Dearborn invading Canada, and tak<lb break="no"/>ing possession
                     of Fort George, he sent off to Green<lb break="no"/>bush, as prisoners of war,
                     the following respectable <lb/>inhabitants : Messrs Edwards, Murehead, Dickson
@@ -8806,7 +8833,9 @@
             <body>
                 <p>
                     <pb/>
-                    <head><hi rend="smallcaps">Victory in Canada</hi></head>
+                    <head>
+                        <hi rend="smallcaps">Victory in Canada</hi>
+                    </head>
                 </p>
                 <p>By the Dunlop, Captain Abrams, arrived on Sun<lb break="no"/>day last, at
                     Greenock, from Quebec, after a passage <lb/>of 36 days, papers and letters have
@@ -8826,8 +8855,8 @@
                     <lb/>under the command of General Wilkinson. The <lb/>division commanded by
                     General Boyd, consisting of <lb/>about 3000 to 4000 infantry, cavalry &amp;c.
                     was alone <lb/>engaged upon the 11th instant.</p>
-                <p>"The enemy lost in the action, Brigadier Gen. <pb/>Conington and Colonel Preston, killed&#x2013;probably <lb/>600 men killed,
-                    wounded, and taken.</p>
+                <p>"The enemy lost in the action, Brigadier Gen. <pb/>Conington and Colonel Preston,
+                    killed&#x2013;probably <lb/>600 men killed, wounded, and taken.</p>
                 <p>"The consequence was a precipitate retreat across <lb/>the St Lawrence at
                     Cornwall on the 13th, and eva<lb break="no"/>cuating the province. General
                     Wilkinson marched <lb/>his troops into the Straits, the route of Plattsburgh,
@@ -8872,21 +8901,33 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="plural" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Destruction of a Moravian Settlement <lb/>in Canada</hi>
+                    <head>
+                        <hi rend="smallcaps">Destruction of a Moravian Settlement <lb/>in
+                            Canada</hi>
+                    </head>
                 </p>
                 <p>The following letter received in town, gives a de<lb break="no"/>scription of the
                     wanton and barbarous conduct of the <lb/>American army, in destroying a
@@ -8894,38 +8935,38 @@
                     <lb/>province:&#x2013;</p>
                 <p>"Yesterday I received a very afflicting account from North <lb/>America, by a
                     letter from New York, dated Dec. 27 1813, <lb/>concerning a report of the total
-                    destruction of our settlement, <lb/>[?] [?] on the 6th of October, by the
-                    American <lb/>army under General Harrison. It was the consequence of the
-                    <lb/>invasion[?] of that province, after the capture of the little fleet <lb/>on
-                    Lake Erle, and the defeat of the s[?]al British force under the <lb/>[?] of
-                    occupying the Chapel and some other houses for <lb/>our[?] sick British
-                    soldiers, and considering the danger the Chris<lb break="no"/>tian Indians were
-                    in from the malice of the Americans, it was <lb/>his advice, that the
-                    Missionaries and the Indian Congregation <lb/>should retreat[?] farther into the
-                    country. When the Americans <lb/>were successful in the latter, it became
-                    necessary to take steps <lb/>of effect it. The British behaved very kindly to
-                    the brethren, <lb/>and offered to purchase the houses and cottages, but their
-                        de<lb break="no"/>feat prevented it. On entering the place, the Americans
-                    first <lb/>pretended to be friendly, and sorry that the Indians had fled,
-                    <lb/>who had gone with Mr and Mrs Denke (one of the Mission<lb break="no"
-                    />aries) up the river. Mr and Mrs Schnall, and the aged Mis<lb break="no"
-                    />sionary, Michael Young, remained.</p>
+                    destruction of our settlement, <lb/><supplied reason="copy blur">???
+                        ???</supplied> on the 6th of October, by the American <lb/>army under
+                    General Harrison. It was the consequence of the <lb/>invasion of that province,
+                    after the capture of the little fleet <lb/>on Lake Erie, and the defeat of the
+                    s[?]al British force under the <lb/>[?] of occupying the Chapel and some other
+                    houses for <lb/>our sick British soldiers, and considering the danger the
+                        Chris<lb break="no"/>tian Indians were in from the malice of the Americans,
+                    it was <lb/>his advice, that the Missionaries and the Indian Congregation
+                    <lb/>should retreat farther into the country. When the Americans <lb/>were
+                    successful in the latter, it became necessary to take steps <lb/>of effect it.
+                    The British behaved very kindly to the brethren, <lb/>and offered to purchase
+                    the houses and cottages, but their de<lb break="no"/>feat prevented it. On
+                    entering the place, the Americans first <lb/>pretended to be friendly, and sorry
+                    that the Indians had fled, <lb/>who had gone with Mr and Mrs Denke (one of the
+                        Mission<lb break="no"/>aries) up the river. Mr and Mrs Schnall, and the aged
+                        Mis<lb break="no"/>sionary, Michael Young, remained.</p>
                 <p>"During the first night the Americans already changed <lb/>their tone, or rather
                     showed their real character. They began <lb/>to abuse the Missionaries with
                     curses, and all manner of insults, <lb/>plundering the houses ; and General
                     Harrison, to whom we ap<lb break="no"/>pealed, would grant no redress. They took
-                    every thing that <lb/>was exable[?] away ; and, under a pretence that King's
-                    stores <lb/>and English goods were lodged in the houses, ransacked every
-                    <lb/>place, and every trunk and chest belonging to individuals. Com<lb
-                        break="no"/>modore Perry, who had defeated the Mosquito fleet on the
-                    <lb/>lake, was there, and behaved rather better than the rest, ad<lb break="no"
-                    />vicing the Missionaries to get away as fast as they could. <lb/>They did so
-                    with difficulty, and shortly after the Americans <lb/>set the place on fire, and
-                    burnt down the whole, even every <lb/>outhouse[?]. The poor Missionaries had a
-                    very tedious journey, <lb/>and reached Silitiz, a settlement of the Brethren in
-                        Pennsyl<lb break="no"/>vania, December 11. Whither the Christian Indians
-                    have fled <lb/>is not known ; they had proposed to go to the Grand River,
-                    <lb/>about 100 miles off.</p>
+                    every thing that <lb/>was <supplied reason="copy blur">???</supplied> away ;
+                    and, under a pretence that King's stores <lb/>and English goods were lodged in
+                    the houses, ransacked every <lb/>place, and every trunk and chest belonging to
+                    individuals. Com<lb break="no"/>modore Perry, who had defeated the Mosquito
+                    fleet on the <lb/>lake, was there, and behaved rather better than the rest,
+                        ad<lb break="no"/>vicing the Missionaries to get away as fast as they could.
+                    <lb/>They did so with difficulty, and shortly after the Americans <lb/>set the
+                    place on fire, and burnt down the whole, even every <lb/>outhouse[?]. The poor
+                    Missionaries had a very tedious journey, <lb/>and reached Silitiz, a settlement
+                    of the Brethren in Pennsyl<lb break="no"/>vania, December 11. Whither the
+                    Christian Indians have fled <lb/>is not known ; they had proposed to go to the
+                    Grand River, <lb/>about 100 miles off.</p>
             </body>
         </text>
     </TEI>
@@ -8963,21 +9004,36 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>crime</item>
+                            <item>colonial government</item>
+                            <item>trade</item>
+                            <item>Maori</item>
+                            <item>Pacific Islanders</item>
+                            <item>transportation</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">New South Wales Intelligence</hi>
+                    <head>
+                        <hi rend="smallcaps">New South Wales Intelligence</hi>
+                    </head>
                 </p>
                 <p>A proclamation, issued by Governor Macquarrie, appears <lb/>in the Sidney Gazette
                     of 14th May, stating that Peter Mills <lb/>Acting Deputy Surveyor of Lands at
@@ -8993,7 +9049,7 @@
                     shall be pardoned and <lb/>saved harmless from all offences, except the crime of
                     wilful <lb/>murder ; and denounces those who shall disregard this offer, <lb/>as
                     outlaws.</p>
-                <p>Sydney, New South Walves, Jan. 4. <lb/>The Argo has arrived with a most extensive
+                <p>Sydney, New South Wales, Jan. 4. <lb/>The Argo has arrived with a most extensive
                     supply of tea, <lb/>viz, 167 chests of souchong, 200 ditto bobea, 200 hyson
                     skin, <lb/>and young hyson 50 ; in all 617 chests. The consequences has
                     <lb/>been a reduction in the price of souching from 30s to 5s per <lb/>lb
@@ -9089,28 +9145,37 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="singular" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass><keywords><list>
+                    <item>trade</item>
+                    <item>military</item>
+                    <item>war</item>
+                    <item>Anglo-American relations</item>
+                </list></keywords></textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Canada</hi>
+                    <head>
+                        <hi rend="smallcaps">Canada</hi>
+                    </head>
                 </p>
-                <p>[Extracts of Letters from Quebec and Montreal.] <lb/>Quebec, July 15. <lb/>The
-                    commercial world is flourishing here, but in <lb/>political matters, I am sorry
-                    to say, we are sadly in <lb/>the back ground. The old defensive system is still
-                    <lb/>adhered to, and, I fear much, with all our reinforce<lb break="no"/>ments,
-                    we shall do little good till we have another <lb/>commander in chief. There is
-                    now a great body of <lb/>regular troops in this country, and a handful of brave
-                    <lb/>fellows have recently been almost sacrificed <hi rend="italic">par la</hi>
+                <p>[Extracts of Letters from Quebec and Montreal.]</p>
+                <p>Quebec, July 15. <lb/>The commercial world is flourishing here, but in
+                    <lb/>political matters, I am sorry to say, we are sadly in <lb/>the back ground.
+                    The old defensive system is still <lb/>adhered to, and, I fear much, with all
+                    our reinforce<lb break="no"/>ments, we shall do little good till we have another
+                    <lb/>commander in chief. There is now a great body of <lb/>regular troops in
+                    this country, and a handful of brave <lb/>fellows have recently been almost
+                    sacrificed <hi rend="italic">par la</hi>
                     <lb/><hi rend="italic">petite guerre</hi> at Chippawa, whilst, in the lower
                         pro<lb break="no"/>vince, there are at least 10,000 regulars doing no<lb
                         break="no"/>thing.</p>
@@ -9136,7 +9201,7 @@
                     will now look to <lb/>him for some offensive operation against the enemy.
                     <lb/>He has done nothing the whole summer but pa<lb break="no"/>rade about 6000
                     men at Chambly, where he makes <lb/>them march past him twice a-week, bowing and
-                    <lb/>scraping, instead of emplying them where they <lb/>ought to be.</p>
+                    <lb/>scraping, instead of employing them where they <lb/>ought to be.</p>
                 <p>You will have heard of an American army of <lb/>about 6000, under General Jacob
                     Brown, having <lb/>crossed the river at Fort Erie, when General Rial, <lb/>with
                     a force of 1500 only, gallantly assailed them <lb/>but was overpowered by
@@ -9190,20 +9255,26 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="single" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass><keywords><list>
+                    <item>war</item>
+                    <item>Anglo-American relations</item>
+                    <item>military</item>
+                    <item>navy</item>
+                </list></keywords></textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Private Correspondence</hi>
+                   <head> <hi rend="smallcaps">Private Correspondence</hi></head>
                 </p>
                 <p>Quebec, Sept. 10. <lb/>The Americans, to the number of 900 men, landed and at<lb
                         break="no"/>
@@ -9223,7 +9294,7 @@
                     <lb/>troops now at Champlain are commanded by Major Gene<lb break="no"/>
                     <lb/>rals Brisbane, Power, and Robinson, and consist of the <lb/>13th, 49, 88th,
                     Meuron's regiment, Canadian chasseurs, <lb/>&amp;c. &amp;c.</p>
-                <p>The 79th[?] or[?] Glasgow Lowland regiment are now quarter<lb break="no"/>ed at
+                <p>The 79th[?] or [?] Glasgow Lowland regiment are now quarter<lb break="no"/>ed at
                     Cornwall, in Upper Canada.</p>
                 <p>The 4th[?] battalion of the 1st, or Royal Scots, are station<lb break="no"/>ed at
                     Quebec.</p>
@@ -34239,7 +34310,7 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>

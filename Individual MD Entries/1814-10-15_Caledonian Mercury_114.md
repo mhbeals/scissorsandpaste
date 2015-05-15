@@ -8,7 +8,7 @@ Private CorrespondenceQuebec, Sept. 10. The Americans, to the number of 900 me
                     at the village of Champlain. This army was commanded by General Izard,
                     and are said to have proceeded partly to Plattsburgh, and partly to Sackett's Harbour, on Lake Ontario. The British
                     troops now at Champlain are commanded by Major Generals Brisbane, Power, and Robinson, and consist of the 13th, 49, 88th,
-                    Meuron's regiment, Canadian chasseurs, &c. &c.The 79th[?] or[?] Glasgow Lowland regiment are now quartered at
+                    Meuron's regiment, Canadian chasseurs, &c. &c.The 79th[?] or [?] Glasgow Lowland regiment are now quartered at
                     Cornwall, in Upper Canada.The 4th[?] battalion of the 1st, or Royal Scots, are stationed at
                     Quebec.The 3rd[?], 104th flank[?] companies, 103d, 8th, or King's, 100th, regiment
                     de Watteville, [?] battalion of 1st, or Royal Scots, and 41st flank[?]

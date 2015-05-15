@@ -40,28 +40,41 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="singular" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+            <keywords>
+               <list>
+                    <item>trade</item>
+                    <item>military</item>
+                    <item>war</item>
+                    <item>Anglo-American relations</item>
+                </list>
+            </keywords>
+         </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Canada</hi>
+                    <head>
+                        <hi rend="smallcaps">Canada</hi>
+                    </head>
                 </p>
-                <p>[Extracts of Letters from Quebec and Montreal.] <lb/>Quebec, July 15. <lb/>The
-                    commercial world is flourishing here, but in <lb/>political matters, I am sorry
-                    to say, we are sadly in <lb/>the back ground. The old defensive system is still
-                    <lb/>adhered to, and, I fear much, with all our reinforce<lb break="no"/>ments,
-                    we shall do little good till we have another <lb/>commander in chief. There is
-                    now a great body of <lb/>regular troops in this country, and a handful of brave
-                    <lb/>fellows have recently been almost sacrificed <hi rend="italic">par la</hi>
+                <p>[Extracts of Letters from Quebec and Montreal.]</p>
+                <p>Quebec, July 15. <lb/>The commercial world is flourishing here, but in
+                    <lb/>political matters, I am sorry to say, we are sadly in <lb/>the back ground.
+                    The old defensive system is still <lb/>adhered to, and, I fear much, with all
+                    our reinforce<lb break="no"/>ments, we shall do little good till we have another
+                    <lb/>commander in chief. There is now a great body of <lb/>regular troops in
+                    this country, and a handful of brave <lb/>fellows have recently been almost
+                    sacrificed <hi rend="italic">par la</hi>
                     <lb/>
             <hi rend="italic">petite guerre</hi> at Chippawa, whilst, in the lower
                         pro<lb break="no"/>vince, there are at least 10,000 regulars doing no<lb break="no"/>thing.</p>
@@ -86,7 +99,7 @@
                     will now look to <lb/>him for some offensive operation against the enemy.
                     <lb/>He has done nothing the whole summer but pa<lb break="no"/>rade about 6000
                     men at Chambly, where he makes <lb/>them march past him twice a-week, bowing and
-                    <lb/>scraping, instead of emplying them where they <lb/>ought to be.</p>
+                    <lb/>scraping, instead of employing them where they <lb/>ought to be.</p>
                 <p>You will have heard of an American army of <lb/>about 6000, under General Jacob
                     Brown, having <lb/>crossed the river at Fort Erie, when General Rial, <lb/>with
                     a force of 1500 only, gallantly assailed them <lb/>but was overpowered by

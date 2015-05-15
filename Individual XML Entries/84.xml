@@ -47,13 +47,15 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
-                <keywords>
-                    <list>
-                        <item>trade</item>
-                        <item>marriage</item>
-                        <item>female emigration</item>
-                    </list>
-                </keywords>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>marriage</item>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
