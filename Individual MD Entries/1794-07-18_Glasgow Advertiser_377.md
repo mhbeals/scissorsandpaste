@@ -27,7 +27,7 @@ Philadelphia, *June* 3. [Authentic.]*Copy of a letter from General Wilkins, to
                     table, where the same was twice read, and agreed to by the
                     House, as follows:Resolved, That as it appear, from the communications of the Executive, that
                     the right of the United States to the free navigation of the Mississippi,
-                    is now the subject of negociation with the Court of Spain; and
+                    is now the subject of negotiation with the Court of Spain; and
                     as it is the interest of the United States, and every part thereof, to come
                     to an amicable adjustment of the right in that mode, rather than
                     resort to any means constitutionally belonging to the Legislature, no farther proceeding should be had on the said remonstrance, during the present session of Congress.Extract from the Journal.
