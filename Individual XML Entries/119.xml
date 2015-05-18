@@ -46,7 +46,17 @@
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
-                </textDesc>
+                </textDesc>                   
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>currency</item>
+                            <item>military</item>
+                            <item>rebellion</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
             </profileDesc>
         </teiHeader>
         <text>
