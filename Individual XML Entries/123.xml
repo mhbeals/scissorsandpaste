@@ -39,14 +39,27 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="singular" passive="unknown"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>meeting</item>
+                            <item>transportation</item>
+                            <item>shipwrecks</item>
+                            <item>currency</item>
+                            <item>colonial government</item>
+                            <irem>fires</irem>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

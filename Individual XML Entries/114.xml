@@ -48,24 +48,24 @@
                     <purpose type="inform"/>
                 </textDesc>
                 <textClass>
-            <keywords>
-               <list>
-                    <item>war</item>
-                    <item>Anglo-American relations</item>
-                    <item>military</item>
-                    <item>navy</item>
-                </list>
-            </keywords>
-         </textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                            <item>navy</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                   <head> 
-               <hi rend="smallcaps">Private Correspondence</hi>
-            </head>
+                    <head>
+                        <hi rend="smallcaps">Private Correspondence</hi>
+                    </head>
                 </p>
                 <p>Quebec, Sept. 10. <lb/>The Americans, to the number of 900 men, landed and at<lb break="no"/>
                     <lb/>tacked Fort Michillimackinac, in Lake Huron, on the 4th <lb/>August. They

@@ -39,14 +39,25 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>meeting</item>
+                            <item>emigration</item>
+                            <item>national characteristics</item>
+                            <item>charity</item>
+                            <item>economic migration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

@@ -5649,16 +5649,16 @@
         </teiHeader>
         <text>
             <body>
-                <p><pb/><hi rend="smallcaps">Curious Advertisement</hi> <lb/>From the <hi rend="smallcaps">Pittsburgh Gazette</hi></p>
+                <p><pb/><hi rend="smallcaps">Curious Advertisement</hi>
+                    <lb/>From the <hi rend="smallcaps">Pittsburgh Gazette</hi></p>
                 <p><hi rend="italic">Pittsburgh, Dec.</hi> 23, 1789.</p>
-                <p> JULY the twenty-seventh day
-                    <lb/>My wife Betsey ran away <lb/>From bed and board,&#x2013;and this did say,
-                    <lb/>"She would no longer with me stay." <lb/>Since she has left me without
-                    cause <lb/>I'll give her time enough to pause. <lb/>That she may see her
-                    grievous error, <lb/>When I live happy with a fairer. <lb/>So I forewarn both great
-                    and small <lb/>To trust her any thing at all, <lb/>For of her contracts from
-                    this day <lb/>One farthing's worth I will not pay. <lb/><hi rend="smallcaps"
-                        >Dennis O'Bryan</hi></p>
+                <p> JULY the twenty-seventh day <lb/>My wife Betsey ran away <lb/>From bed and
+                    board,&#x2013;and this did say, <lb/>"She would no longer with me stay."
+                    <lb/>Since she has left me without cause <lb/>I'll give her time enough to
+                    pause. <lb/>That she may see her grievous error, <lb/>When I live happy with a
+                    fairer. <lb/>So I forewarn both great and small <lb/>To trust her any thing at
+                    all, <lb/>For of her contracts from this day <lb/>One farthing's worth I will
+                    not pay. <lb/><hi rend="smallcaps">Dennis O'Bryan</hi></p>
                 <p/>
             </body>
         </text>
@@ -6502,13 +6502,13 @@
                 <p><pb/><hi rend="italic">Longevity.</hi>&#x2013;At Taconey, a small village about
                     <lb/>seven miles from Philadelphia, there is now living <lb/>a shoemaker of the
                     name of Robert Glen, who in <lb/>December last attained the great age of <hi
-                        rend="italic">one hun-<lb/>dred and fourteen years</hi>. Scotland was the place
-                    <lb/>of his nativity; he remembers having seen King <lb/>William III. and was
-                    present at the two succeed<lb break="no"/>ing coronations. Neither his memory
-                    nor his <lb/>sight, are in the least impaired; and such is his <lb/>strength,
-                    that after working all the week at his <lb/>profession, he regularly walks on
-                    Sunday to Phila<lb break="no"/>delphia, and back. His third wife is now living,
-                    <lb/>and is not more than thirty years old.</p>
+                        rend="italic">one hun-<lb/>dred and fourteen years</hi>. Scotland was the
+                    place <lb/>of his nativity; he remembers having seen King <lb/>William III. and
+                    was present at the two succeed<lb break="no"/>ing coronations. Neither his
+                    memory nor his <lb/>sight, are in the least impaired; and such is his
+                    <lb/>strength, that after working all the week at his <lb/>profession, he
+                    regularly walks on Sunday to Phila<lb break="no"/>delphia, and back. His third
+                    wife is now living, <lb/>and is not more than thirty years old.</p>
                 <p/>
             </body>
         </text>
@@ -7359,7 +7359,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item/>
+                            <item>colonial government</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -8949,12 +8949,16 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
-                <textClass><keywords><list>
-                    <item>trade</item>
-                    <item>military</item>
-                    <item>war</item>
-                    <item>Anglo-American relations</item>
-                </list></keywords></textClass>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>military</item>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -9059,19 +9063,25 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
-                <textClass><keywords><list>
-                    <item>war</item>
-                    <item>Anglo-American relations</item>
-                    <item>military</item>
-                    <item>navy</item>
-                </list></keywords></textClass>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                            <item>navy</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                   <head> <hi rend="smallcaps">Private Correspondence</hi></head>
+                    <head>
+                        <hi rend="smallcaps">Private Correspondence</hi>
+                    </head>
                 </p>
                 <p>Quebec, Sept. 10. <lb/>The Americans, to the number of 900 men, landed and at<lb
                         break="no"/>
@@ -9180,6 +9190,15 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -9292,14 +9311,25 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                            <item>military</item>
+                            <item>privateers</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -9584,13 +9614,21 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10015,6 +10053,14 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>census</item>
+                            <item>slavery</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10100,6 +10146,15 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>currency</item>
+                            <item>military</item>
+                            <item>rebellion</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10178,13 +10233,22 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="singular" passive="single"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>military</item>
+                            <item>rebellion</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10301,13 +10365,24 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>weather</item>
+                            <item>agriculture</item>
+                            <item>prices</item>
+                            <item>economic migration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10460,14 +10535,24 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="plural" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>agriculture</item>
+                            <item>newspapers</item>
+                            <item>economic migration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10609,14 +10694,27 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="singular" passive="unknown"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>meeting</item>
+                            <item>transportation</item>
+                            <item>shipwrecks</item>
+                            <item>currency</item>
+                            <item>colonial government</item>
+                            <irem>fires</irem>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10726,14 +10824,23 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>military</item>
+                            <item>colonial government</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -10798,14 +10905,25 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>meeting</item>
+                            <item>emigration</item>
+                            <item>national characteristics</item>
+                            <item>charity</item>
+                            <item>economic migration</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -11070,14 +11188,27 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="plural" passive="group"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>timber trade</item>
+                            <item>trade</item>
+                            <item>manufacturing</item>
+                            <item>emigration</item>
+                            <item>Anglo-American relations</item>
+                            <item>weather</item>
+                            <item>disease</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -11180,14 +11311,24 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="corporate" passive="single"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -11367,14 +11508,23 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>crime</item>
+                            <item>filibustering</item>
+                            <item>Anglo-American relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

@@ -1,9 +1,9 @@
 *Longevity.*–At Taconey, a small village about
                     seven miles from Philadelphia, there is now living a shoemaker of the
-                    name of Robert Glen, who in December last attained the great age of *one hun-dred and fourteen years*. Scotland was the place
-                    of his nativity; he remembers having seen King William III. and was
-                    present at the two succeeding coronations. Neither his memory
-                    nor his sight, are in the least impaired; and such is his strength,
-                    that after working all the week at his profession, he regularly walks on
-                    Sunday to Philadelphia, and back. His third wife is now living,
-                    and is not more than thirty years old.
+                    name of Robert Glen, who in December last attained the great age of *one hun-dred and fourteen years*. Scotland was the
+                    place of his nativity; he remembers having seen King William III. and
+                    was present at the two succeeding coronations. Neither his
+                    memory nor his sight, are in the least impaired; and such is his
+                    strength, that after working all the week at his profession, he
+                    regularly walks on Sunday to Philadelphia, and back. His third
+                    wife is now living, and is not more than thirty years old.
