@@ -94,7 +94,7 @@ Colonial Intelligence*Death of The Duke of Richmond.*By the Henry, arrived i
                     Beach, at Niagara, the trial of Robert Gourlay, Esq. for a
                     misdemeanour, in not obeying the orders of the Magistrates at Niagara, in
                     December last. Mr Gourlay was found guilty, and banished the
-                    province.From the Quebec Gazette of 26th August :?This morning, about 9 o'clock,
+                    province.From the Quebec Gazette of 26th August: This morning, about 9 o'clock,
                     Lieut. Birch, of the royal navy, put a period to his existence by shooting
                     himself through the head. We are informed that Mr Birch had for
                     sometime previous to his death laboured under a melancholy state of mind.

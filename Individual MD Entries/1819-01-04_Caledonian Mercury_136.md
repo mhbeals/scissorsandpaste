@@ -3,7 +3,7 @@ Reform in Upper CanadaIt has been already mentioned that Governor Maitland, on
                     for obtaining reform in Upper Canada. Accounts from Quebec and
                     Montreal, dated the end of November, state, that in pursuance of this recommendation, the Legislature, on one of the
                     first days of its meeting, appointed a Committee to inquire into
-                    the subject, who almost instantly came to the following resolution :?Resolved, That it is the opinion of this Committee that some such
+                    the subject, who almost instantly came to the following resolution:Resolved, That it is the opinion of this Committee that some such
                     legislative provision should be enacted as the wisdom of the
                     Imperial Parliament has found it proper to provide to meet
                     similar occasions, to put it out of the power of any designing persons to
