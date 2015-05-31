@@ -6,15 +6,14 @@ Emigration to America.In answer to the remarks which appeared in our paper on 
                     that we have stated the general want of cleanliness to be a prevailing
                     defect in the back parts of the United States. For this we have the
                     authority of almost every traveller who has visited those parts. The
-                    remarks of Birkbeck on this point are conclu-sive and striking:
-                    –' In viewing the Americans (he observes) and ' sketching, in a rude manner,
+                    remarks of Birkbeck on this point are conclusive and striking: –' In viewing the Americans (he observes) and ' sketching, in a rude manner,
                     as I pass along, ' their striking characteristics, I have seen a de' formity so general, that I cannot help esteem'
                     ing it national, though I know it admits of ve' ry many
                     individual exceptions. I have written ' it, and then erased it, wishing to
                     pass it by, ' but it wont do – it is the truth, and to the truth
                     ' I must adhere. Cleanliness in houses, and too ' often in person, is
                     neglected to a degree which ' is very revolting to an Englishman.' America was bred in a cabin ; this is not a ' reproach – for the
-                    origin is most honourable ; ' but as she has exhanged her hovel of unhewn
+                    origin is most honourable ; ' but as she has exchanged her hovel of unhewn
                     ' logs for a framed building, and that again for ' a mansion of brick,
                     some of her cabin habits ' have been unconsciously retained. Many have
                     ' already been quitted, and one by one they will ' all be cleared
@@ -54,17 +53,15 @@ Emigration to America.In answer to the remarks which appeared in our paper on 
                     mean to argue from this, that dirty habits are amiable, and ought not
                     to be corrected.With regard to the difficulties of effecting a settlement, we are borne out
                     in our remarks on this subject by the authority of various writers,
-                    and principally by the autheor of the Emigrant's Guide, a work of
-                    great merit, which combines an extent and precision of statistical
-                        information altogether unequally, with the most enlarged general views of the state of the country, both
-                    physical and moral. ' Most men (observes ' this judicious writer) on
-                    arriving in the United ' States, expects too much. Perhaps the only '
-                    essential advantages offered are the security of ' person and property, and
-                    the cheapness of land. ' It demands excessive labour, severe economy,
-                    ' and exepmtions from extraordinary accident, to ' succeed in a newly
-                    settled country ; and it de' mands the permanency of this
-                    continued la' bour, prudence, and favourable circumstances.'Our anonymous correspondent is also extremely displeased that we
-                    have stated so strongly the perincious effects produced on the
+                    and principally by the author of the Emigrant's Guide, a work of great
+                    merit, which combines an extent and precision of statistical information altogether unequally, with the most enlarged general views of the state of the country, both physical and moral. '
+                    Most men (observes ' this judicious writer) on arriving in the United
+                    ' States, expects too much. Perhaps the only ' essential advantages
+                    offered are the security of ' person and property, and the cheapness of
+                    land. ' It demands excessive labour, severe economy, ' and exepmtions
+                    from extraordinary accident, to ' succeed in a newly settled country ; and
+                    it de' mands the permanency of this continued la' bour, prudence, and favourable circumstances.'Our anonymous correspondent is also extremely displeased that we
+                    have stated so strongly the pernicious effects produced on the
                         general manners of the Americans by the existence of
                     slavery ; and he mentions that many a labourer in this country
                     might envy the condition of an American slave. What are those privileges

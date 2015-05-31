@@ -40,25 +40,39 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="persuade"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>emigration</item>
+                            <item>wages</item>
+                            <item>disease</item>
+                            <item>national characteristics</item>
+                            <item>slavery</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb n="3"/>
-                    <hi rend="smallcaps">Emigration to America</hi>
+                    <head>
+                        <hi rend="smallcaps">Emigration to America</hi>
+                    </head>
                 </p>
                 <p>Our paper of Thursday last contained a gene<lb break="no"/>ral view of some of
                     the most popular publications <lb/>on the subject of emigration, and we shall
                     now <lb/>endeavour briefly to make an estimate of the <lb/>good and evil which
-                    is likely to befal those who <lb/>embark in this hazardous adventure.</p>
+                    is likely to befall those who <lb/>embark in this hazardous adventure.</p>
                 <p>There is one important fact which we gather <lb/>from all the accounts of
                     America, whether writ<lb break="no"/>ten for the purpose of praise or censure,
                     namely, <lb/>that there is a great demand for labour, and that <lb/>wages are
@@ -72,10 +86,10 @@
                     plentiful, and wages should fall, this is <lb/>the signal for new emigrations ;
                     and thus, this con<lb break="no"/>stant demand for labour in the western
                     districts <lb/>regulates its general price throughout the United <lb/>States. In
-                    these circumstrances it is clear that <lb/>a labourer, provided he can reach
-                    this advan<lb break="no"/>tageous market for his labour, will unquestionably
+                    these circumstances it is clear that <lb/>a labourer, provided he can reach this
+                        advan<lb break="no"/>tageous market for his labour, will unquestionably
                     <lb/>improve his condition. But herein lies the dif<lb break="no"/>ficulty. A
-                    labourer has seldon the means of <lb/>of subsitence so far beforehand as to
+                    labourer has seldom the means of <lb/>of subsistence so far beforehand as to
                     enable him to <lb/>undertake so long a journey ; and, if he enters <lb/>upon the
                     enterprise with insufficient means, he <lb/>is liable to starve before he can
                     transport him<lb break="no"/>self to his ultimate destination, or he is forced
@@ -97,7 +111,7 @@
                     relief to the body politic, and <lb/>will diffuse greater soundness and vigour
                     through <lb/>all its parts? That these effects will follow from <lb/>emigration
                     in this or in any other country in <lb/>Europe we cannot doubt – and that
-                    the labourer, <lb/>if he can afford the expence of the jounrye, will re<lb break="no"/>ceive higher wages in America than in this coun<lb break="no"/>try, is equally clear.</p>
+                    the labourer, <lb/>if he can afford the expence of the journey, will re<lb break="no"/>ceive higher wages in America than in this coun<lb break="no"/>try, is equally clear.</p>
                 <p>There is another class of adventurers who <lb/>may possibly improve their
                     circumstances by <lb/>emigration, although this is not so certain, name<lb break="no"/>ly, farmers with a moderate capital. An allot<lb break="no"/>ment of land may be purchased in the back parts <lb/>of America at the
                     Government price of two dol<lb break="no"/>lars per acre, and an emigrant who
@@ -147,7 +161,7 @@
                     <lb/>such terms. Such are the hardships through which, <lb/>if he has strength
                     to endure them, he at length <lb/>emerges into ease and independence. These
                         hard<lb break="no"/>ships, however, will no doubt be in a great mea<lb break="no"/>sure avoided, or at least mitigated, if he has be<lb break="no"/>forehand provided the means of subsistence until <lb/>he can derive regular
-                    supplies from his own <lb/>land. In this case he is less laible to be
+                    supplies from his own <lb/>land. In this case he is less liable to be
                     <lb/>dislodged from his situation by the casualties to <lb/>which all emigrants
                     are necessarily exposed. – <lb/>He is secured against the hardships of a
                     first <lb/>settlement, and is more certain of attaining <cb/>
@@ -250,19 +264,19 @@
                     and an interference with <lb/>each other – and when they come to divide,
                     <lb/>some have too much, and some too little, of cer<lb break="no"/>tain
                     articles – the stock is ill assorted, and money <cb/>
-                    <lb/>will not execute its functions. Hence disorder <lb/>arises, and inconvience
-                    and awkward wants, <lb/>and an individual suddenly removed into this <lb/>region
-                    of discomfort from the happier climate of <lb/>a highly improved community, must
-                    be annoy<lb break="no"/>ed with feeling in the highest degree gloomy <lb/>and
-                    disagreeable. He must have the same sen<lb break="no"/>sation as a person who
-                    quits an elegant mansion, <lb/>fitted up with every comfort and convenience,
-                    <lb/>for one of inferior quality and coarsely finished, <lb/>where he is exposed
-                    to a thousand annoyances <lb/>every minute. It is observed by Dr Johnson,
-                    <lb/>that the evil of life does not consist in any sud<lb break="no"/>den and
-                    overwhelming crash of misery, but in a <lb/>series of petty discomforts amd
-                    mischiefs conti<lb break="no"/>nually preying upon the temper. The truth of
-                    <lb/>this maxim, those who emigrate from this coun<lb break="no"/>try to the
-                    back woods of America, will have a <lb/>good opportunity of verifying.</p>
+                    <lb/>will not execute its functions. Hence disorder <lb/>arises, and
+                    inconvenience and awkward wants, <lb/>and an individual suddenly removed into
+                    this <lb/>region of discomfort from the happier climate of <lb/>a highly
+                    improved community, must be annoy<lb break="no"/>ed with feeling in the highest
+                    degree gloomy <lb/>and disagreeable. He must have the same sen<lb break="no"/>sation as a person who quits an elegant mansion, <lb/>fitted up with every
+                    comfort and convenience, <lb/>for one of inferior quality and coarsely finished,
+                    <lb/>where he is exposed to a thousand annoyances <lb/>every minute. It is
+                    observed by Dr Johnson, <lb/>that the evil of life does not consist in any
+                        sud<lb break="no"/>den and overwhelming crash of misery, but in a
+                    <lb/>series of petty discomforts amd mischiefs conti<lb break="no"/>nually
+                    preying upon the temper. The truth of <lb/>this maxim, those who emigrate from
+                    this coun<lb break="no"/>try to the back woods of America, will have a <lb/>good
+                    opportunity of verifying.</p>
                 <p>The prevalence of slavery in most of the States <lb/>of the Union constitutes
                     another capital defect <lb/>in the structure of American society. These
                     <lb/>slaves form a degraded and oppressed class, and, <lb/>in the tyranny
@@ -272,7 +286,7 @@
                     character and habits of the <lb/>people. It is vain to talk of liberty while
                     <lb/>stain of tyranny so deeply infects the do<lb break="no"/>mestic manners of
                     a community. There can <lb/>be no rational liberty unless we call that
-                    <lb/>liberty which gives us the privilge of tortu<lb break="no"/>ring and
+                    <lb/>liberty which gives us the privilege of tortu<lb break="no"/>ring and
                     oppressing our fellow creatures. To <lb/>give an idea of the consequences of
                     this dread<lb break="no"/>ful evil of slavery, we may state, that it is a
                     <lb/>practice in Kentucky to commit delinquent slaves <lb/>into the hands of the

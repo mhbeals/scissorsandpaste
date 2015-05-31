@@ -47,6 +47,11 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list/>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

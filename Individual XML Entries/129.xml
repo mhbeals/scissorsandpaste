@@ -40,13 +40,22 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>meeting</item>
+                            <item>colonial government</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -56,7 +65,7 @@
                     <hi rend="smallcaps">Canada</hi>
                 </p>
                 <p>The inhabitants of Upper Canada have had <lb/>another meeting, under the title of
-                    a Convention <lb/>at York ; when they came to the the following reso<lb break="no"/>lutions ; Richard Beasely, Esq. in the chair :–</p>
+                    a Convention <lb/>at York ; when they came to the following reso<lb break="no"/>lutions ; Richard Beasely, Esq. in the chair :–</p>
                 <p>"Resolved–1. That whilst this Convention holds it one <lb/>one of the most
                     sacred right of British subjects at all times di<lb break="no"/>rectly to
                     petition the throne of their Sovereign relative to their <lb/>grievances, yet
@@ -65,7 +74,7 @@
                     that Honourable Body <lb/>the Commons House of Assembly of Upper Canada, as for
                     <lb/>other causes, deem it their indispensable duty, on this <lb/>important
                     occasion, to recommend in the strongest terms to <lb/>their fellow subjects
-                    resident in this province, a spirite, for<lb break="no"/>mal, and respectful
+                    resident in this province, a spirit, for<lb break="no"/>mal, and respectful
                     application to that Honourable House, for <lb/>an inquiry into the state of the
                     province.</p>
                 <p>"2. That John Clarke Cyrus Sumner, and Roderick <lb/>Drake, Esqs. be a permanent
@@ -76,10 +85,10 @@
                     <lb/>and presented at the bar of the House of Assembly at their <lb/>next
                     meeting session.</p>
                 <p>That the said Committee be further authorised to <lb/>frame and Address to his
-                    Royal Highness the Prince Regent, <lb/>on the subejct of grievances believed to
+                    Royal Highness the Prince Regent, <lb/>on the subject of grievances believed to
                     exist in Upper Cana<lb break="no"/>da, which, when approved of by the
                     Convention, shall be sub<lb break="no"/>mitted by the Committee, together with
-                    the petition above <lb/>mentioned, to the Honourable Hosue of Assembly, at their
+                    the petition above <lb/>mentioned, to the Honourable House of Assembly, at their
                     <lb/>next meeting, for their alterationg and amendment."</p>
                 <p>Mr Gourlay, who has had so instrumental a <lb/>hand in instigating these
                     proceedings, is stated <lb/>to have been arrested and held to bail, at King<lb break="no"/>ston, for distributing a printed account of the <lb/>state of

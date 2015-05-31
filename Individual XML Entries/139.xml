@@ -39,7 +39,7 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
+                    <constitution type="composite"/>
                     <derivation type="original"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
@@ -47,6 +47,20 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item> bequests </item>
+                            <item>currency</item>
+                            <item>economic migration</item>
+                            <item>Native Americans</item>
+                            <item>trade</item>
+                            <item>transportation</item>
+                            <item>war</item>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

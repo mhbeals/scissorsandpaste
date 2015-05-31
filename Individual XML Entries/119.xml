@@ -46,11 +46,7 @@
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
-<<<<<<< HEAD
                 </textDesc>
-=======
-                </textDesc>                   
->>>>>>> origin/master
                 <textClass>
                     <keywords>
                         <list>
@@ -60,10 +56,6 @@
                         </list>
                     </keywords>
                 </textClass>
-<<<<<<< HEAD
-=======
-            </profileDesc>
->>>>>>> origin/master
             </profileDesc>
         </teiHeader>
         <text>

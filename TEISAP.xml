@@ -189,8 +189,8 @@
                 <p>
                     <pb/>
                     <hi rend="center">
-                        <hi rend="italic">From the</hi>
-                        <hi rend="smallcaps">Jamaica Royal Gazette.</hi>
+                        <hi rend="italic">From the </hi>
+                        <hi rend="smallcaps">Jamaica Royal Gazette. </hi>
                     </hi>
                     <lb/>
                     <hi rend="center"><hi rend="italic">Kingston, Sept.</hi> 27</hi>
@@ -2454,6 +2454,8 @@
                         <list>
                             <item>agriculture</item>
                             <item>trade</item>
+                            <item>currency</item>
+                            <item>shipping news</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2658,6 +2660,7 @@
                         <list>
                             <item>trade</item>
                             <item>agriculture</item>
+                            <item>shipping news</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -10711,7 +10714,7 @@
                             <item>shipwrecks</item>
                             <item>currency</item>
                             <item>colonial government</item>
-                            <irem>fires</irem>
+                            <item>fires</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -11658,13 +11661,22 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>meeting</item>
+                            <item>colonial government</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -11674,8 +11686,8 @@
                     <hi rend="smallcaps">Canada</hi>
                 </p>
                 <p>The inhabitants of Upper Canada have had <lb/>another meeting, under the title of
-                    a Convention <lb/>at York ; when they came to the the following reso<lb
-                        break="no"/>lutions ; Richard Beasely, Esq. in the chair :&#x2013;</p>
+                    a Convention <lb/>at York ; when they came to the following reso<lb break="no"
+                    />lutions ; Richard Beasely, Esq. in the chair :&#x2013;</p>
                 <p>"Resolved&#x2013;1. That whilst this Convention holds it one <lb/>one of the most
                     sacred right of British subjects at all times di<lb break="no"/>rectly to
                     petition the throne of their Sovereign relative to their <lb/>grievances, yet
@@ -11684,7 +11696,7 @@
                     that Honourable Body <lb/>the Commons House of Assembly of Upper Canada, as for
                     <lb/>other causes, deem it their indispensable duty, on this <lb/>important
                     occasion, to recommend in the strongest terms to <lb/>their fellow subjects
-                    resident in this province, a spirite, for<lb break="no"/>mal, and respectful
+                    resident in this province, a spirit, for<lb break="no"/>mal, and respectful
                     application to that Honourable House, for <lb/>an inquiry into the state of the
                     province.</p>
                 <p>"2. That John Clarke Cyrus Sumner, and Roderick <lb/>Drake, Esqs. be a permanent
@@ -11695,10 +11707,10 @@
                     <lb/>and presented at the bar of the House of Assembly at their <lb/>next
                     meeting session.</p>
                 <p>That the said Committee be further authorised to <lb/>frame and Address to his
-                    Royal Highness the Prince Regent, <lb/>on the subejct of grievances believed to
+                    Royal Highness the Prince Regent, <lb/>on the subject of grievances believed to
                     exist in Upper Cana<lb break="no"/>da, which, when approved of by the
                     Convention, shall be sub<lb break="no"/>mitted by the Committee, together with
-                    the petition above <lb/>mentioned, to the Honourable Hosue of Assembly, at their
+                    the petition above <lb/>mentioned, to the Honourable House of Assembly, at their
                     <lb/>next meeting, for their alterationg and amendment."</p>
                 <p>Mr Gourlay, who has had so instrumental a <lb/>hand in instigating these
                     proceedings, is stated <lb/>to have been arrested and held to bail, at King<lb
@@ -11761,25 +11773,39 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="persuade"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>emigration</item>
+                            <item>wages</item>
+                            <item>disease</item>
+                            <item>national characteristics</item>
+                            <item>slavery</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb n="3"/>
-                    <hi rend="smallcaps">Emigration to America</hi>
+                    <head>
+                        <hi rend="smallcaps">Emigration to America</hi>
+                    </head>
                 </p>
                 <p>Our paper of Thursday last contained a gene<lb break="no"/>ral view of some of
                     the most popular publications <lb/>on the subject of emigration, and we shall
                     now <lb/>endeavour briefly to make an estimate of the <lb/>good and evil which
-                    is likely to befal those who <lb/>embark in this hazardous adventure.</p>
+                    is likely to befall those who <lb/>embark in this hazardous adventure.</p>
                 <p>There is one important fact which we gather <lb/>from all the accounts of
                     America, whether writ<lb break="no"/>ten for the purpose of praise or censure,
                     namely, <lb/>that there is a great demand for labour, and that <lb/>wages are
@@ -11796,10 +11822,10 @@
                     plentiful, and wages should fall, this is <lb/>the signal for new emigrations ;
                     and thus, this con<lb break="no"/>stant demand for labour in the western
                     districts <lb/>regulates its general price throughout the United <lb/>States. In
-                    these circumstrances it is clear that <lb/>a labourer, provided he can reach
-                    this advan<lb break="no"/>tageous market for his labour, will unquestionably
+                    these circumstances it is clear that <lb/>a labourer, provided he can reach this
+                        advan<lb break="no"/>tageous market for his labour, will unquestionably
                     <lb/>improve his condition. But herein lies the dif<lb break="no"/>ficulty. A
-                    labourer has seldon the means of <lb/>of subsitence so far beforehand as to
+                    labourer has seldom the means of <lb/>of subsistence so far beforehand as to
                     enable him to <lb/>undertake so long a journey ; and, if he enters <lb/>upon the
                     enterprise with insufficient means, he <lb/>is liable to starve before he can
                     transport him<lb break="no"/>self to his ultimate destination, or he is forced
@@ -11822,7 +11848,7 @@
                     relief to the body politic, and <lb/>will diffuse greater soundness and vigour
                     through <lb/>all its parts? That these effects will follow from <lb/>emigration
                     in this or in any other country in <lb/>Europe we cannot doubt &#x2013; and that
-                    the labourer, <lb/>if he can afford the expence of the jounrye, will re<lb
+                    the labourer, <lb/>if he can afford the expence of the journey, will re<lb
                         break="no"/>ceive higher wages in America than in this coun<lb break="no"
                     />try, is equally clear.</p>
                 <p>There is another class of adventurers who <lb/>may possibly improve their
@@ -11880,7 +11906,7 @@
                         hard<lb break="no"/>ships, however, will no doubt be in a great mea<lb
                         break="no"/>sure avoided, or at least mitigated, if he has be<lb break="no"
                     />forehand provided the means of subsistence until <lb/>he can derive regular
-                    supplies from his own <lb/>land. In this case he is less laible to be
+                    supplies from his own <lb/>land. In this case he is less liable to be
                     <lb/>dislodged from his situation by the casualties to <lb/>which all emigrants
                     are necessarily exposed. &#x2013; <lb/>He is secured against the hardships of a
                     first <lb/>settlement, and is more certain of attaining <cb/>
@@ -11991,19 +12017,20 @@
                     and an interference with <lb/>each other &#x2013; and when they come to divide,
                     <lb/>some have too much, and some too little, of cer<lb break="no"/>tain
                     articles &#x2013; the stock is ill assorted, and money <cb/>
-                    <lb/>will not execute its functions. Hence disorder <lb/>arises, and inconvience
-                    and awkward wants, <lb/>and an individual suddenly removed into this <lb/>region
-                    of discomfort from the happier climate of <lb/>a highly improved community, must
-                    be annoy<lb break="no"/>ed with feeling in the highest degree gloomy <lb/>and
-                    disagreeable. He must have the same sen<lb break="no"/>sation as a person who
-                    quits an elegant mansion, <lb/>fitted up with every comfort and convenience,
-                    <lb/>for one of inferior quality and coarsely finished, <lb/>where he is exposed
-                    to a thousand annoyances <lb/>every minute. It is observed by Dr Johnson,
-                    <lb/>that the evil of life does not consist in any sud<lb break="no"/>den and
-                    overwhelming crash of misery, but in a <lb/>series of petty discomforts amd
-                    mischiefs conti<lb break="no"/>nually preying upon the temper. The truth of
-                    <lb/>this maxim, those who emigrate from this coun<lb break="no"/>try to the
-                    back woods of America, will have a <lb/>good opportunity of verifying.</p>
+                    <lb/>will not execute its functions. Hence disorder <lb/>arises, and
+                    inconvenience and awkward wants, <lb/>and an individual suddenly removed into
+                    this <lb/>region of discomfort from the happier climate of <lb/>a highly
+                    improved community, must be annoy<lb break="no"/>ed with feeling in the highest
+                    degree gloomy <lb/>and disagreeable. He must have the same sen<lb break="no"
+                    />sation as a person who quits an elegant mansion, <lb/>fitted up with every
+                    comfort and convenience, <lb/>for one of inferior quality and coarsely finished,
+                    <lb/>where he is exposed to a thousand annoyances <lb/>every minute. It is
+                    observed by Dr Johnson, <lb/>that the evil of life does not consist in any
+                        sud<lb break="no"/>den and overwhelming crash of misery, but in a
+                    <lb/>series of petty discomforts amd mischiefs conti<lb break="no"/>nually
+                    preying upon the temper. The truth of <lb/>this maxim, those who emigrate from
+                    this coun<lb break="no"/>try to the back woods of America, will have a <lb/>good
+                    opportunity of verifying.</p>
                 <p>The prevalence of slavery in most of the States <lb/>of the Union constitutes
                     another capital defect <lb/>in the structure of American society. These
                     <lb/>slaves form a degraded and oppressed class, and, <lb/>in the tyranny
@@ -12013,7 +12040,7 @@
                     character and habits of the <lb/>people. It is vain to talk of liberty while
                     <lb/>stain of tyranny so deeply infects the do<lb break="no"/>mestic manners of
                     a community. There can <lb/>be no rational liberty unless we call that
-                    <lb/>liberty which gives us the privilge of tortu<lb break="no"/>ring and
+                    <lb/>liberty which gives us the privilege of tortu<lb break="no"/>ring and
                     oppressing our fellow creatures. To <lb/>give an idea of the consequences of
                     this dread<lb break="no"/>ful evil of slavery, we may state, that it is a
                     <lb/>practice in Kentucky to commit delinquent slaves <lb/>into the hands of the
@@ -12084,37 +12111,47 @@
                     <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
+                    <interaction type="none" active="single" passive="world"/>
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>settlement description</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Interesting Communication from Canada</hi>
+                    <head>
+                        <hi rend="smallcaps">Interesting Communication from Canada </hi>
+                    </head>
                 </p>
                 <p>
-                    <hi rend="smallcaps">To the Editor of the Edinburgh Weekly Journal</hi>
+                    <hi rend="smallcaps">To the Editor of the Edinburgh Weekly Journal </hi>
                 </p>
                 <p>SIR&#x2013;It will be remember by many of your Readers, that, in the spring of
                     1815, proclamations were widely circulated, inviting settlers to
                     Canada.&#x2013;Having myself occasion <lb/>to visit this country, I was curious
                     to know what had been the result, especially as I found at Quebec and Montreal
                     very discordant accounts respecting it ; most people asserting <lb/>that the
-                    scheme had failed of succcess, and that the settlers were in a state of great
+                    scheme had failed of success, and that the settlers were in a state of great
                     discomfort and discontent.&#x2013;To ascertain the truth, I diverged from my
                     route about 50 miles, and <lb/>spent some days at Perth, situated on the waters
                     of the Redeau, to which a considerable body of the people who accepted the
                     invitation of the Government had been conducted.&#x2013; <lb/>Here it traced the
                     reported discontent to some neglect in the general management, and some ill
-                    conceieved petty regulations, capriciously exercised towards people tenacious of
+                    conceived petty regulations, capriciously exercised towards people tenacious of
                     their rights ; <lb/>but in the main, universal satisfaction prevailed among the
                     settlers, and a strong feeling of the good intentions of Government towards
                     them. The opportunity being a good one of ascer<lb break="no"/>taining the
-                    progress which a promiscious body of settlers make in a given time. I
+                    progress which a promiscuous body of settlers make in a given time. I
                     constructed the annexed table, and had each man's signature attached, at once to
                     prove to correctness <lb/>of his statement, and satisfaction with his situation.
                     Should you think this worthy of publication, you are welcome to publish it in
@@ -12127,7 +12164,7 @@
                     people have come to Canada, in expectation of being favoured in the same way,
                     but are disappointed ; having nothing given them but land (100 acres <lb/>each),
                     which many of them from poverty are unable to occupy. Having made it my study,
-                    during thrre months residence here, to inquire into the nature of the country,
+                    during three months residence here, to inquire into the nature of the country,
                     and into every <lb/>particular respecting settlement, I am convinced that very
                     simple measures might be adopted, by which the redundant population of Britain
                     could be conveyed by a regular flow into <lb/>Canada, instead of being wasted,
@@ -12140,9 +12177,9 @@
                         Canada, of the 1st Week of July 1817</hi>
                     <lb/>Original Profession of Settlers. Wife. Sons. Daughters. From what County.
                     From what Parish. Date of leaving home, 1815. Date of Embarkation, 1815. Date of
-                    Disembarkation, 1815. Date of taking possesion, 1816. Dimensions in feet of
+                    Disembarkation, 1815. Date of taking possession, 1816. Dimensions in feet of
                     House erected. No. of Acres of Land chopped. No. of acres of Land cleared.
-                    Number of Acres in Whea. Number of Acres in other crops. No. of [?]s of Map
+                    Number of Acres in Wheat. Number of Acres in other crops. No. of [?]s of Map
                     Sugar made. No. of Cows. No. of Oxen. The undernamed Settlers have respectively
                     signed a Declaration of " Well satisfied." <lb/>Farm Bailiff. 1. 3. 3. Perth.
                     Callendar. May 15. June 24. Sept 12. May 22. 18 by 20. 9. 4 1/2. 2. 2 1/3. 100.
@@ -12276,6 +12313,13 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item/>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -12407,6 +12451,13 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item/>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -12536,7 +12587,7 @@
                     misdemeanour, in not obeying the orders of the <lb/>Magistrates at Niagara, in
                     December last. Mr Gour<lb break="no"/>lay was found guilty, and banished the
                     province.</p>
-                <p>From the Quebec Gazette of 26th August :?This <lb/>morning, about 9 o'clock,
+                <p>From the Quebec Gazette of 26th August: This <lb/>morning, about 9 o'clock,
                     Lieut. Birch, of the royal <lb/>navy, put a period to his existence by shooting
                     himself <lb/>through the head. We are informed that Mr Birch <lb/>had for
                     sometime previous to his death laboured under <lb/>a melancholy state of mind.
@@ -12625,11 +12676,25 @@
                     <preparedness type="revised"/>
                     <purpose type="persuade"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>settlement description</item>
+                            <item>national characteristics</item>
+                            <item>newspapers</item>
+                            <item>slavery</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p><pb/><hi rend="smallcaps">Emigration to America</hi>.</p>
+                <p>
+                    <pb/>
+                    <head><hi rend="smallcaps">Emigration to America</hi>.</head>
+                </p>
                 <p>In answer to the remarks which appeared in <lb/>our paper on Monday last,
                     respecting emigration <lb/>to America, and to the statements there given <lb/>of
                     the disadvantages which emigrants from <lb/>this country might expect to meet
@@ -12640,8 +12705,7 @@
                     that we have stated the general want <lb/>of cleanliness to be a prevailing
                     defect in the <lb/>back parts of the United States. For this we <lb/>have the
                     authority of almost every traveller who <lb/>has visited those parts. The
-                    remarks of Birkbeck <lb/>on this point are conclu-sive and striking:
-                    &#x2013;</p>
+                    remarks of Birkbeck <lb/>on this point are conclusive and striking: &#x2013;</p>
                 <p>' In viewing the Americans (he observes) and <lb/>' sketching, in a rude manner,
                     as I pass along, <lb/>' their striking characteristics, I have seen a de<lb
                         break="no"/>' formity so general, that I cannot help esteem<lb break="no"/>'
@@ -12651,7 +12715,7 @@
                     <lb/>' I must adhere. Cleanliness in houses, and too <lb/>' often in person, is
                     neglected to a degree which <lb/>' is very revolting to an Englishman.</p>
                 <p>' America was bred in a cabin ; this is not a <lb/>' reproach &#x2013; for the
-                    origin is most honourable ; <lb/>' but as she has exhanged her hovel of unhewn
+                    origin is most honourable ; <lb/>' but as she has exchanged her hovel of unhewn
                     <lb/>' logs for a framed building, and that again for <lb/>' a mansion of brick,
                     some of her cabin habits <lb/>' have been unconsciously retained. Many have
                     <lb/>' already been quitted, and one by one they will <lb/>' all be cleared
@@ -12698,19 +12762,19 @@
                     to be corrected.</p>
                 <p>With regard to the difficulties of effecting a <lb/>settlement, we are borne out
                     in our remarks on <lb/>this subject by the authority of various writers,
-                    <lb/>and principally by the autheor of the Emigrant's <lb/>Guide, a work of
-                    great merit, which combines <lb/>an extent and precision of statistical
-                        informa<lb break="no"/>tion altogether unequally, with the most enlar<lb
-                        break="no"/>ged general views of the state of the country, <lb/>both
-                    physical and moral. ' Most men (observes <lb/>' this judicious writer) on
-                    arriving in the United <lb/>' States, expects too much. Perhaps the only <lb/>'
-                    essential advantages offered are the security of <lb/>' person and property, and
-                    the cheapness of land. <lb/>' It demands excessive labour, severe economy,
-                    <lb/>' and exepmtions from extraordinary accident, to <lb/>' succeed in a newly
-                    settled country ; and it de<lb break="no"/>' mands the permanency of this
-                    continued la<lb break="no"/>' bour, prudence, and favourable circumstances.'</p>
+                    <lb/>and principally by the author of the Emigrant's <lb/>Guide, a work of great
+                    merit, which combines <lb/>an extent and precision of statistical informa<lb
+                        break="no"/>tion altogether unequally, with the most enlar<lb break="no"
+                    />ged general views of the state of the country, <lb/>both physical and moral. '
+                    Most men (observes <lb/>' this judicious writer) on arriving in the United
+                    <lb/>' States, expects too much. Perhaps the only <lb/>' essential advantages
+                    offered are the security of <lb/>' person and property, and the cheapness of
+                    land. <lb/>' It demands excessive labour, severe economy, <lb/>' and exepmtions
+                    from extraordinary accident, to <lb/>' succeed in a newly settled country ; and
+                    it de<lb break="no"/>' mands the permanency of this continued la<lb break="no"
+                    />' bour, prudence, and favourable circumstances.'</p>
                 <p>Our anonymous correspondent is also ex<lb break="no"/>tremely displeased that we
-                    have stated so strong<lb break="no"/>ly the perincious effects produced on the
+                    have stated so strong<lb break="no"/>ly the pernicious effects produced on the
                         gene<lb break="no"/>ral manners of the Americans by the existence <lb/>of
                     slavery ; and he mentions that many a labour<lb break="no"/>er in this country
                     might envy the condition of an <lb/>American slave. What are those privileges
@@ -13054,7 +13118,7 @@
                         break="no"/>ance of this recommendation, the Legislature, <lb/>on one of the
                     first days of its meeting, appoint<lb break="no"/>ed a Committee to inquire into
                     the subject, who <lb/>almost instantly came to the following resolu<lb
-                        break="no"/>tion :?</p>
+                        break="no"/>tion:</p>
                 <p>Resolved, That it is the opinion of this Committee that <lb/>some such
                     legislative provision should be enacted as the wis<lb break="no"/>dom of the
                     Imperial Parliament has found it proper to pro<lb break="no"/>vide to meet
@@ -13387,7 +13451,7 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
+                    <constitution type="composite"/>
                     <derivation type="original"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
@@ -13395,6 +13459,20 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item> bequests </item>
+                            <item>currency</item>
+                            <item>economic migration</item>
+                            <item>Native Americans</item>
+                            <item>trade</item>
+                            <item>transportation</item>
+                            <item>war</item>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -13884,6 +13962,11 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list/>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -19419,6 +19502,16 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>shipping news</item>
+                            <item>trade</item>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -20300,6 +20393,13 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -22227,8 +22327,8 @@
             <profileDesc>
                 <textDesc>
                     <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
@@ -22252,7 +22352,7 @@
                     anxiety, and this has been followed by two days' <lb/>silence. Every one
                     naturally puts the question, "If <lb/>his Majesty is better, why not state this
                     in a bulletin, <lb/>that the thousand discouraging rumours in circulation
-                    <lb/>may be put to rest?" The <hi rend="italic">Morning Chronicle</hi>
+                    <lb/>may be put to rest?" The <hi rend="italic">Morning Chronicle   </hi>
                     <lb/>says, that the high officers of State are not much <lb/>better informed on
                     the subject than others, and that <lb/>a knowledge of his Majesty's real
                     condition is <lb/>confined to the very few immediately around his <lb/>person.
@@ -22337,32 +22437,32 @@
                     <lb/>local assemblies, while the general congress represent<lb break="no"/>ing
                     the whole, wields no other powers than what is ne<lb break="no"/>cessary to hold
                     the separate members in a state of <lb/>union. The federal system, which leaves
-                    to every pro<lb break="no"/>vince the management of its own conerns, has ad<lb
+                    to every pro<lb break="no"/>vince the management of its own concerns, has ad<lb
                         break="no"/>vantages for a settled and enlightened community ; but
                     <lb/>whether it is equally adapted to the circumstances of <lb/>an ignorant
                     people newly escaped from political con<lb break="no"/>vulsions, is very
                     questionable. There seems, how<lb break="no"/>ever, to be a partiality for the
                     federal system in the <lb/>new world ; and to humour this feeling, the new
-                        con<lb break="no"/>stitution provides, that "Chambers of Distrcits" shall
+                        con<lb break="no"/>stitution provides, that "Chambers of Districts" shall
                     <lb/>be established, with powers to decide on all municipal <lb/>and local
                     affairs. The difficulty will be, to give these <lb/>bodies the powers necessary
                     to develope the industry <lb/>and resources of the country, without permitting
                     them <lb/>to impose taxes, and exercise other legislative functions, <lb/>which
-                    will interfere with the business of the general <lb/>government. Another articl
-                    state, that the members <lb/>of the Senate and House of Representatives are to
-                    hold <lb/>their seats for a considerable time, in order " to avoid <lb/>the
+                    will interfere with the business of the general <lb/>government. Another article
+                    states, that the members <lb/>of the Senate and House of Representatives are to
+                    hold <lb/>their seats for a considerable time, in order "to avoid <lb/>the
                     inconveniences resulting from frequent changes, or <lb/>the repeated election of
                     the same person." In the <lb/>mouth of an English statesman, we should consider
                     <lb/>this vile sophistry ; but allowance must be made <lb/>for the <hi
                         rend="italic">res dur? novitas regni</hi>, in a new <lb/>state like
-                    Colombia, formed of heterogenous ele<lb break="no"/>ments, among which it is not
-                    easy to establish <lb/>any principle of cohesion. One the same grouns, the
+                    Colombia, formed of heterogeneous ele<lb break="no"/>ments, among which it is not
+                    easy to establish <lb/>any principle of cohesion. One the same grounds, the
                     <lb/>Columbian legislators may be pardoned for resolving <lb/>that the Catholic
                     religion is that of the state, and that <lb/>no other shall be permitted. This
                     is merely a conces<lb break="no"/>cession for the sake of peace, to prejudice
                     which the <lb/>government is not strong enough to subdue, and can<lb break="no"
                     />not defy without great danger. Nothing is said about <lb/>the mode of
-                    election, or the power of the Presiden, two <lb/>points of vital consequence,
+                    election, or the power of the President, two <lb/>points of vital consequence,
                     which may give a new <lb/>complexion to the whole scheme. We have made
                     <lb/>these remarks on the proposed constitution, because it <lb/>probably holds
                     out the last chance of composing the <lb/>trouble of Columbia. If it does not
@@ -22371,19 +22471,6 @@
                     <lb/>not prevent the republic from splitting into four or <lb/>five independent
                     communities, whose mutual jealousness <lb/>and wars will crush the librties, and
                     destroy the pro<lb break="no"/>sperity of the whole.</p>
-                <p>
-                    <hi rend="smallcaps">Private Correspondence.</hi>
-                    <lb/>
-                    <hi rend="italic">London, Wednesday Evening.</hi>
-                    <lb/>
-                    <hi rend="smallcaps">The King's Health</hi>
-                </p>
-                <p>We are sorry to state that the private accounts re<lb break="no"/>ceived from
-                    Windsor this afternoon, do not speak so <lb/>favourably of his Majesty's health
-                    as the Court Circu<lb break="no"/>lar, and most of the assertions of the papers
-                    published <lb/>this afternoon. There having, however, been no bul<lb break="no"
-                    />letin issued up to the present hour (7 o'clock) must</p>
-                <p/>
             </body>
         </text>
     </TEI>
@@ -22603,6 +22690,15 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>religion</item>
+                            <item>shipping news</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -23958,6 +24054,14 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>shipping news</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -27063,9 +27167,9 @@
         </teiHeader>
         <text>
             <body>
-                <p><pb/><hi rend="smallcaps">The King of Prussia and his Catholic Sub-</hi>
-                    <lb/><hi rend="smallcaps">jects.</hi>&#x2013;The <hi rend="italic">German
-                        Courier in an article date</hi>
+                <p><pb/><hi rend="smallcaps">The King of Prussia and his Catholic Sub<lb break="no"
+                        />jects.</hi>&#x2013;The <hi rend="italic">German Courier in an article
+                        dated </hi>
                     <lb/>Berlin, 5th instant, refers to the late arrests in Posen, <lb/>and accuses
                     the Catholic clergy of stimulating their <lb/>flocks to revolt. The Prussian
                     Government had, in <lb/>consequence, increased its exertions to conciliate the
@@ -27337,6 +27441,14 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>land speculation</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -27392,6 +27504,15 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>land speculation</item>
+                            <item>shipping news</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -27575,6 +27696,15 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>accidents</item>
+                            <item>emigration</item>
+                            <item>shipwreck</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -29041,9 +29171,7 @@
             <body>
                 <p>
                     <pb/>
-                    <hi rend="smallcaps">Emigration To New South</hi>
-                    <lb/>
-                    <hi rend="smallcaps">Wales.</hi>
+                    <head><hi rend="smallcaps">Emigration To New South <lb/>Wales.</hi></head>
                 </p>
                 <p>We have received a copy of a Series of Resolu<lb break="no"/>tions passed, on the
                     23d of October 1840, by the <lb/>Legislative Cuncil of New South Wales, on the
@@ -29051,7 +29179,7 @@
                     to encourage emigra<lb break="no"/>tion from the mother country, by showing the
                     <lb/>demand for labour in New South Wales, and the <lb/>advantages offered to
                     the immigrant. We have <lb/>only room for a few of the more important resolu<lb
-                        break="no"/>tions :?</p>
+                        break="no"/>tions</p>
                 <p>Resolved. That there exists throughout the colony <lb/>an urgent and increasing
                     want of working hands, in <lb/>every branch of industry ; that there is ample
                         employ<lb break="no"/>ment for emigrants, at highly renumerating wages
@@ -29524,6 +29652,14 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>census</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -33301,6 +33437,7 @@
                             <item>war</item>
                             <item>Native Americans</item>
                             <item>settlement description</item>
+                            <item>navy</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -34740,6 +34877,8 @@
                         <list>
                             <item>Native Americans</item>
                             <item>war</item>
+                            <item>border dispute</item>
+                            <item>military</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -36629,6 +36768,8 @@
                             <item>newspapers</item>
                             <item>agriculture</item>
                             <item>taxation</item>
+                            <item>education</item>
+                            <item>emigration</item>
                         </list>
                     </keywords>
                 </textClass>

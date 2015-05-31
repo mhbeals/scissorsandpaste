@@ -20,7 +20,16 @@
                     <item><xsl:value-of select="."/></item>
                 </xsl:for-each>
             </keywords>
-            <xsl:copy-of select="text" />
+             
+              
+                    <xsl:variable name="words" select="tokenize((text), ' ')"/>
+                    <header>
+                        <xsl:value-of select="concat($words[1], ' ', $words[2], ' ', $words[3], ' ', $words[4])"/>
+                    </header>
+                   
+                
+             
+                <xsl:copy-of select="text" />
             </TEI>
         </xsl:for-each></root>
     </xsl:template>

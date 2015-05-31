@@ -1,7 +1,7 @@
 Emigration to AmericaOur paper of Thursday last contained a general view of some of
                     the most popular publications on the subject of emigration, and we shall
                     now endeavour briefly to make an estimate of the good and evil which
-                    is likely to befal those who embark in this hazardous adventure.There is one important fact which we gather from all the accounts of
+                    is likely to befall those who embark in this hazardous adventure.There is one important fact which we gather from all the accounts of
                     America, whether written for the purpose of praise or censure,
                     namely, that there is a great demand for labour, and that wages are
                     high, and this effect is necessarily produced y the vast space of fertile
@@ -14,10 +14,10 @@ Emigration to AmericaOur paper of Thursday last contained a general view of so
                     plentiful, and wages should fall, this is the signal for new emigrations ;
                     and thus, this constant demand for labour in the western
                     districts regulates its general price throughout the United States. In
-                    these circumstrances it is clear that a labourer, provided he can reach
-                    this advantageous market for his labour, will unquestionably
+                    these circumstances it is clear that a labourer, provided he can reach this
+                        advantageous market for his labour, will unquestionably
                     improve his condition. But herein lies the difficulty. A
-                    labourer has seldon the means of of subsitence so far beforehand as to
+                    labourer has seldom the means of of subsistence so far beforehand as to
                     enable him to undertake so long a journey ; and, if he enters upon the
                     enterprise with insufficient means, he is liable to starve before he can
                     transport himself to his ultimate destination, or he is forced
@@ -39,7 +39,7 @@ Emigration to AmericaOur paper of Thursday last contained a general view of so
                     relief to the body politic, and will diffuse greater soundness and vigour
                     through all its parts? That these effects will follow from emigration
                     in this or in any other country in Europe we cannot doubt – and that
-                    the labourer, if he can afford the expence of the jounrye, will receive higher wages in America than in this country, is equally clear.There is another class of adventurers who may possibly improve their
+                    the labourer, if he can afford the expence of the journey, will receive higher wages in America than in this country, is equally clear.There is another class of adventurers who may possibly improve their
                     circumstances by emigration, although this is not so certain, namely, farmers with a moderate capital. An allotment of land may be purchased in the back parts of America at the
                     Government price of two dollars per acre, and an emigrant who
                     can afford to but and to cultivate 100 or 200 acres, and acts with
@@ -87,7 +87,7 @@ Emigration to AmericaOur paper of Thursday last contained a general view of so
                     such terms. Such are the hardships through which, if he has strength
                     to endure them, he at length emerges into ease and independence. These
                         hardships, however, will no doubt be in a great measure avoided, or at least mitigated, if he has beforehand provided the means of subsistence until he can derive regular
-                    supplies from his own land. In this case he is less laible to be
+                    supplies from his own land. In this case he is less liable to be
                     dislodged from his situation by the casualties to which all emigrants
                     are necessarily exposed. – He is secured against the hardships of a
                     first settlement, and is more certain of attaining the wished for object of ease and affluence – To a farmer,
@@ -185,19 +185,19 @@ Emigration to AmericaOur paper of Thursday last contained a general view of so
                     but no one has his proper part assigned him – there is a jostling
                     and an interference with each other – and when they come to divide,
                     some have too much, and some too little, of certain
-                    articles – the stock is ill assorted, and money will not execute its functions. Hence disorder arises, and inconvience
-                    and awkward wants, and an individual suddenly removed into this region
-                    of discomfort from the happier climate of a highly improved community, must
-                    be annoyed with feeling in the highest degree gloomy and
-                    disagreeable. He must have the same sensation as a person who
-                    quits an elegant mansion, fitted up with every comfort and convenience,
-                    for one of inferior quality and coarsely finished, where he is exposed
-                    to a thousand annoyances every minute. It is observed by Dr Johnson,
-                    that the evil of life does not consist in any sudden and
-                    overwhelming crash of misery, but in a series of petty discomforts amd
-                    mischiefs continually preying upon the temper. The truth of
-                    this maxim, those who emigrate from this country to the
-                    back woods of America, will have a good opportunity of verifying.The prevalence of slavery in most of the States of the Union constitutes
+                    articles – the stock is ill assorted, and money will not execute its functions. Hence disorder arises, and
+                    inconvenience and awkward wants, and an individual suddenly removed into
+                    this region of discomfort from the happier climate of a highly
+                    improved community, must be annoyed with feeling in the highest
+                    degree gloomy and disagreeable. He must have the same sensation as a person who quits an elegant mansion, fitted up with every
+                    comfort and convenience, for one of inferior quality and coarsely finished,
+                    where he is exposed to a thousand annoyances every minute. It is
+                    observed by Dr Johnson, that the evil of life does not consist in any
+                        sudden and overwhelming crash of misery, but in a
+                    series of petty discomforts amd mischiefs continually
+                    preying upon the temper. The truth of this maxim, those who emigrate from
+                    this country to the back woods of America, will have a good
+                    opportunity of verifying.The prevalence of slavery in most of the States of the Union constitutes
                     another capital defect in the structure of American society. These
                     slaves form a degraded and oppressed class, and, in the tyranny
                     exercised over them, they themselves are morally destroyed,
@@ -206,7 +206,7 @@ Emigration to AmericaOur paper of Thursday last contained a general view of so
                     character and habits of the people. It is vain to talk of liberty while
                     stain of tyranny so deeply infects the domestic manners of
                     a community. There can be no rational liberty unless we call that
-                    liberty which gives us the privilge of torturing and
+                    liberty which gives us the privilege of torturing and
                     oppressing our fellow creatures. To give an idea of the consequences of
                     this dreadful evil of slavery, we may state, that it is a
                     practice in Kentucky to commit delinquent slaves into the hands of the

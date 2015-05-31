@@ -1,19 +1,19 @@
-Interesting Communication from CanadaTo the Editor of the Edinburgh Weekly JournalSIR–It will be remember by many of your Readers, that, in the spring of
+Interesting Communication from Canada To the Editor of the Edinburgh Weekly Journal SIR–It will be remember by many of your Readers, that, in the spring of
                     1815, proclamations were widely circulated, inviting settlers to
                     Canada.–Having myself occasion to visit this country, I was curious
                     to know what had been the result, especially as I found at Quebec and Montreal
                     very discordant accounts respecting it ; most people asserting that the
-                    scheme had failed of succcess, and that the settlers were in a state of great
+                    scheme had failed of success, and that the settlers were in a state of great
                     discomfort and discontent.–To ascertain the truth, I diverged from my
                     route about 50 miles, and spent some days at Perth, situated on the waters
                     of the Redeau, to which a considerable body of the people who accepted the
                     invitation of the Government had been conducted.– Here it traced the
                     reported discontent to some neglect in the general management, and some ill
-                    conceieved petty regulations, capriciously exercised towards people tenacious of
+                    conceived petty regulations, capriciously exercised towards people tenacious of
                     their rights ; but in the main, universal satisfaction prevailed among the
                     settlers, and a strong feeling of the good intentions of Government towards
                     them. The opportunity being a good one of ascertaining the
-                    progress which a promiscious body of settlers make in a given time. I
+                    progress which a promiscuous body of settlers make in a given time. I
                     constructed the annexed table, and had each man's signature attached, at once to
                     prove to correctness of his statement, and satisfaction with his situation.
                     Should you think this worthy of publication, you are welcome to publish it in
@@ -26,7 +26,7 @@ Interesting Communication from CanadaTo the Editor of the Edinburgh Weekly Jou
                     people have come to Canada, in expectation of being favoured in the same way,
                     but are disappointed ; having nothing given them but land (100 acres each),
                     which many of them from poverty are unable to occupy. Having made it my study,
-                    during thrre months residence here, to inquire into the nature of the country,
+                    during three months residence here, to inquire into the nature of the country,
                     and into every particular respecting settlement, I am convinced that very
                     simple measures might be adopted, by which the redundant population of Britain
                     could be conveyed by a regular flow into Canada, instead of being wasted,
@@ -36,9 +36,9 @@ Interesting Communication from CanadaTo the Editor of the Edinburgh Weekly Jou
                     –I am, Sir, yours, &c. Upper Canada, September 15. 1817Robert Gourlay.Statistical Table of the Scotch Settlement near Perth, Upper
                         Canada, of the 1st Week of July 1817Original Profession of Settlers. Wife. Sons. Daughters. From what County.
                     From what Parish. Date of leaving home, 1815. Date of Embarkation, 1815. Date of
-                    Disembarkation, 1815. Date of taking possesion, 1816. Dimensions in feet of
+                    Disembarkation, 1815. Date of taking possession, 1816. Dimensions in feet of
                     House erected. No. of Acres of Land chopped. No. of acres of Land cleared.
-                    Number of Acres in Whea. Number of Acres in other crops. No. of [?]s of Map
+                    Number of Acres in Wheat. Number of Acres in other crops. No. of [?]s of Map
                     Sugar made. No. of Cows. No. of Oxen. The undernamed Settlers have respectively
                     signed a Declaration of " Well satisfied." Farm Bailiff. 1. 3. 3. Perth.
                     Callendar. May 15. June 24. Sept 12. May 22. 18 by 20. 9. 4 1/2. 2. 2 1/3. 100.

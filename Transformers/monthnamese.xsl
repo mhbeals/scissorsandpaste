@@ -28,6 +28,7 @@
                     </month>
                     <xsl:copy-of select="year"/>
                     <xsl:copy-of select="keywords"/>
+                    <header><xsl:value-of select="translate(header,'.',' ')"/>...</header>
                     <text>
                         <xsl:for-each select="text/body/p">
                             <p>

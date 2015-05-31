@@ -47,12 +47,6 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
-<<<<<<< HEAD
-=======
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
->>>>>>> origin/master
                 <textClass>
                     <keywords>
                         <list>
@@ -61,10 +55,6 @@
                         </list>
                     </keywords>
                 </textClass>
-<<<<<<< HEAD
-=======
-            </profileDesc>
->>>>>>> origin/master
             </profileDesc>
         </teiHeader>
         <text>

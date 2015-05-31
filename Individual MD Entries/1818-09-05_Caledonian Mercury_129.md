@@ -1,5 +1,5 @@
 CanadaThe inhabitants of Upper Canada have had another meeting, under the title of
-                    a Convention at York ; when they came to the the following resolutions ; Richard Beasely, Esq. in the chair :–"Resolved–1. That whilst this Convention holds it one one of the most
+                    a Convention at York ; when they came to the following resolutions ; Richard Beasely, Esq. in the chair :–"Resolved–1. That whilst this Convention holds it one one of the most
                     sacred right of British subjects at all times directly to
                     petition the throne of their Sovereign relative to their grievances, yet
                     nevertheless, under the present peculiar existing circumstances
@@ -7,7 +7,7 @@ CanadaThe inhabitants of Upper Canada have had another meeting, under the titl
                     that Honourable Body the Commons House of Assembly of Upper Canada, as for
                     other causes, deem it their indispensable duty, on this important
                     occasion, to recommend in the strongest terms to their fellow subjects
-                    resident in this province, a spirite, formal, and respectful
+                    resident in this province, a spirit, formal, and respectful
                     application to that Honourable House, for an inquiry into the state of the
                     province."2. That John Clarke Cyrus Sumner, and Roderick Drake, Esqs. be a permanent
                     Committee, for the management of the affairs of the Convention,
@@ -16,10 +16,10 @@ CanadaThe inhabitants of Upper Canada have had another meeting, under the titl
                     sanction of this Convention), to be by them circulated for subscribers,
                     and presented at the bar of the House of Assembly at their next
                     meeting session.That the said Committee be further authorised to frame and Address to his
-                    Royal Highness the Prince Regent, on the subejct of grievances believed to
+                    Royal Highness the Prince Regent, on the subject of grievances believed to
                     exist in Upper Canada, which, when approved of by the
                     Convention, shall be submitted by the Committee, together with
-                    the petition above mentioned, to the Honourable Hosue of Assembly, at their
+                    the petition above mentioned, to the Honourable House of Assembly, at their
                     next meeting, for their alterationg and amendment."Mr Gourlay, who has had so instrumental a hand in instigating these
                     proceedings, is stated to have been arrested and held to bail, at Kingston, for distributing a printed account of the state of
                     grievances of the people of the Niagara district ; and this by direction of
