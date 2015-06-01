@@ -47,6 +47,16 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                            <item>disease</item>
+                            <item>emigration</item>
+                            <item>nationalism</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -63,7 +73,7 @@
                     anxiety, and this has been followed by two days' <lb/>silence. Every one
                     naturally puts the question, "If <lb/>his Majesty is better, why not state this
                     in a bulletin, <lb/>that the thousand discouraging rumours in circulation
-                    <lb/>may be put to rest?" The <hi rend="italic">Morning Chronicle   </hi>
+                    <lb/>may be put to rest?" The <hi rend="italic">Morning Chronicle </hi>
                     <lb/>says, that the high officers of State are not much <lb/>better informed on
                     the subject than others, and that <lb/>a knowledge of his Majesty's real
                     condition is <lb/>confined to the very few immediately around his <lb/>person.
@@ -159,8 +169,8 @@
                     inconveniences resulting from frequent changes, or <lb/>the repeated election of
                     the same person." In the <lb/>mouth of an English statesman, we should consider
                     <lb/>this vile sophistry ; but allowance must be made <lb/>for the <hi rend="italic">res dur? novitas regni</hi>, in a new <lb/>state like
-                    Colombia, formed of heterogeneous ele<lb break="no"/>ments, among which it is not
-                    easy to establish <lb/>any principle of cohesion. One the same grounds, the
+                    Colombia, formed of heterogeneous ele<lb break="no"/>ments, among which it is
+                    not easy to establish <lb/>any principle of cohesion. One the same grounds, the
                     <lb/>Columbian legislators may be pardoned for resolving <lb/>that the Catholic
                     religion is that of the state, and that <lb/>no other shall be permitted. This
                     is merely a conces<lb break="no"/>cession for the sake of peace, to prejudice

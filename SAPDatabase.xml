@@ -4466,7 +4466,6 @@
          <item>crime</item>
          <item>colonial government</item>
          <item>trade</item>
-         <item>Maori</item>
          <item>Pacific Islanders</item>
          <item>transportation</item>
       </keywords>
@@ -7189,7 +7188,7 @@
                     misdemeanour, in not obeying the orders of the Magistrates at Niagara, in
                     December last. Mr Gourlay was found guilty, and banished the
                     province.</p>
-         <p>From the Quebec Gazette of 26th August :?This morning, about 9 o'clock,
+         <p>From the Quebec Gazette of 26th August: This morning, about 9 o'clock,
                     Lieut. Birch, of the royal navy, put a period to his existence by shooting
                     himself through the head. We are informed that Mr Birch had for
                     sometime previous to his death laboured under a melancholy state of mind.
@@ -7571,7 +7570,7 @@
                     for obtaining reform in Upper Canada. Accounts from Quebec and
                     Montreal, dated the end of November, state, that in pursuance of this recommendation, the Legislature, on one of the
                     first days of its meeting, appointed a Committee to inquire into
-                    the subject, who almost instantly came to the following resolution :?</p>
+                    the subject, who almost instantly came to the following resolution:</p>
          <p>Resolved, That it is the opinion of this Committee that some such
                     legislative provision should be enacted as the wisdom of the
                     Imperial Parliament has found it proper to provide to meet
@@ -10890,7 +10889,9 @@
       <day>26</day>
       <month>January</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>emigration</item>
+      </keywords>
       <header>Emigration –OfficialEnquiries and applications having...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration.–Official</font>]]></p>
@@ -12051,7 +12052,10 @@
       <day>31</day>
       <month>January</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>military</item>
+         <item>transportation</item>
+      </keywords>
       <header>Hunt –It is understood that...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Hunt.</font>]]>–It is understood that <![CDATA[<i>Hunt</i>]]> will be taken, in a short time, from Hertford
@@ -13008,7 +13012,9 @@
       <day>24</day>
       <month>December</month>
       <year>1828</year>
-      <keywords/>
+      <keywords>
+         <item>emigration</item>
+      </keywords>
       <header>A vessel of 800...</header>
       <text>
          <p>A vessel of 800 tons burden has been taken up by government for the
@@ -13564,7 +13570,12 @@
       <day>24</day>
       <month>April</month>
       <year>1830</year>
-      <keywords/>
+      <keywords>
+         <item>colonial government</item>
+         <item>disease</item>
+         <item>emigration</item>
+         <item>nationalism</item>
+      </keywords>
       <header>The King's Health It will...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">The King's Health.</font>]]></p>
@@ -13576,7 +13587,7 @@
                     anxiety, and this has been followed by two days' silence. Every one
                     naturally puts the question, "If his Majesty is better, why not state this
                     in a bulletin, that the thousand discouraging rumours in circulation
-                    may be put to rest?" The <![CDATA[<i>Morning Chronicle</i>]]>says, that the high officers of State are not much better informed on
+                    may be put to rest?" The <![CDATA[<i>Morning Chronicle </i>]]>says, that the high officers of State are not much better informed on
                     the subject than others, and that a knowledge of his Majesty's real
                     condition is confined to the very few immediately around his person.
                     In the absence of correct information, inferences are drawn from
@@ -13654,29 +13665,29 @@
                     local assemblies, while the general congress representing
                     the whole, wields no other powers than what is necessary to hold
                     the separate members in a state of union. The federal system, which leaves
-                    to every province the management of its own conerns, has advantages for a settled and enlightened community ; but
+                    to every province the management of its own concerns, has advantages for a settled and enlightened community ; but
                     whether it is equally adapted to the circumstances of an ignorant
                     people newly escaped from political convulsions, is very
                     questionable. There seems, however, to be a partiality for the
                     federal system in the new world ; and to humour this feeling, the new
-                        constitution provides, that "Chambers of Distrcits" shall
+                        constitution provides, that "Chambers of Districts" shall
                     be established, with powers to decide on all municipal and local
                     affairs. The difficulty will be, to give these bodies the powers necessary
                     to develope the industry and resources of the country, without permitting
                     them to impose taxes, and exercise other legislative functions, which
-                    will interfere with the business of the general government. Another articl
-                    state, that the members of the Senate and House of Representatives are to
-                    hold their seats for a considerable time, in order " to avoid the
+                    will interfere with the business of the general government. Another article
+                    states, that the members of the Senate and House of Representatives are to
+                    hold their seats for a considerable time, in order "to avoid the
                     inconveniences resulting from frequent changes, or the repeated election of
                     the same person." In the mouth of an English statesman, we should consider
                     this vile sophistry ; but allowance must be made for the <![CDATA[<i>res dur? novitas regni</i>]]>, in a new state like
-                    Colombia, formed of heterogenous elements, among which it is not
-                    easy to establish any principle of cohesion. One the same grouns, the
+                    Colombia, formed of heterogeneous elements, among which it is
+                    not easy to establish any principle of cohesion. One the same grounds, the
                     Columbian legislators may be pardoned for resolving that the Catholic
                     religion is that of the state, and that no other shall be permitted. This
                     is merely a concescession for the sake of peace, to prejudice
                     which the government is not strong enough to subdue, and cannot defy without great danger. Nothing is said about the mode of
-                    election, or the power of the Presiden, two points of vital consequence,
+                    election, or the power of the President, two points of vital consequence,
                     which may give a new complexion to the whole scheme. We have made
                     these remarks on the proposed constitution, because it probably holds
                     out the last chance of composing the trouble of Columbia. If it does not
@@ -13684,12 +13695,6 @@
                     not prevent the republic from splitting into four or five independent
                     communities, whose mutual jealousness and wars will crush the librties, and
                     destroy the prosperity of the whole.</p>
-         <p><![CDATA[<font style="font-variant: small-caps;">Private Correspondence.</font>]]><![CDATA[<i>London, Wednesday Evening.</i>]]><![CDATA[<font style="font-variant: small-caps;">The King's Health</font>]]></p>
-         <p>We are sorry to state that the private accounts received from
-                    Windsor this afternoon, do not speak so favourably of his Majesty's health
-                    as the Court Circular, and most of the assertions of the papers
-                    published this afternoon. There having, however, been no bulletin issued up to the present hour (7 o'clock) must</p>
-         <p/>
       </text>
    </TEI>
    <TEI>
@@ -14142,7 +14147,11 @@
       <day>25</day>
       <month>September</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>agriculture</item>
+         <item>prices</item>
+         <item>trade</item>
+      </keywords>
       <header>The Wool Trade –The whole...</header>
       <text>
          <p><![CDATA[<i>The Wool Trade.</i>]]>–The whole of the London public
@@ -14512,7 +14521,9 @@
       <day>28</day>
       <month>June</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>colonial government</item>
+      </keywords>
       <header>We understand, from good...</header>
       <text>
          <p>We understand, from good authority, that Government has
@@ -15050,7 +15061,9 @@
       <day>08</day>
       <month>July</month>
       <year>1835</year>
-      <keywords/>
+      <keywords>
+         <item>transportation</item>
+      </keywords>
       <header>A new principle has...</header>
       <text>
          <p>A new principle has been recognised in the regulations
@@ -15130,7 +15143,10 @@
       <day>16</day>
       <month>September</month>
       <year>1835</year>
-      <keywords/>
+      <keywords>
+         <item>colonial politics</item>
+         <item>navy</item>
+      </keywords>
       <header>On Thursday evening a...</header>
       <text>
          <p>On Thursday evening a dinner was given to Captain Hindmarsh
@@ -16300,11 +16316,15 @@
       <day>22</day>
       <month>September</month>
       <year>1838</year>
-      <keywords/>
+      <keywords>
+         <item>emigration</item>
+         <item>rebellion</item>
+         <item>religion</item>
+      </keywords>
       <header>The King of Prussia...</header>
       <text>
-         <p><![CDATA[<font style="font-variant: small-caps;">The King of Prussia and his Catholic Sub-</font>]]><![CDATA[<font style="font-variant: small-caps;">jects.</font>]]>–The <![CDATA[<i>German
-                        Courier in an article date</i>]]>Berlin, 5th instant, refers to the late arrests in Posen, and accuses
+         <p><![CDATA[<font style="font-variant: small-caps;">The King of Prussia and his Catholic Subjects.</font>]]>–The <![CDATA[<i>German Courier in an article
+                        dated </i>]]>Berlin, 5th instant, refers to the late arrests in Posen, and accuses
                     the Catholic clergy of stimulating their flocks to revolt. The Prussian
                     Government had, in consequence, increased its exertions to conciliate the
                     Court of Rome, in hopes that its influence would be exercised over the
@@ -17367,15 +17387,15 @@
       <month>April</month>
       <year>1841</year>
       <keywords/>
-      <header>Emigration To New SouthWales We...</header>
+      <header>Emigration To New South...</header>
       <text>
-         <p><![CDATA[<font style="font-variant: small-caps;">Emigration To New South</font>]]><![CDATA[<font style="font-variant: small-caps;">Wales.</font>]]></p>
+         <p><![CDATA[<font style="font-variant: small-caps;">Emigration To New South Wales.</font>]]></p>
          <p>We have received a copy of a Series of Resolutions passed, on the
                     23d of October 1840, by the Legislative Cuncil of New South Wales, on the
                     subject of immigration into colony. The object of these resolutions is
                     to encourage emigration from the mother country, by showing the
                     demand for labour in New South Wales, and the advantages offered to
-                    the immigrant. We have only room for a few of the more important resolutions :?</p>
+                    the immigrant. We have only room for a few of the more important resolutions</p>
          <p>Resolved. That there exists throughout the colony an urgent and increasing
                     want of working hands, in every branch of industry ; that there is ample
                         employment for emigrants, at highly renumerating wages
@@ -17553,7 +17573,9 @@
       <day>24</day>
       <month>November</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>emigration</item>
+      </keywords>
       <header>Emigration –The following data will...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration.</font>]]>–The following data will show
@@ -18220,7 +18242,10 @@
       <day>19</day>
       <month>March</month>
       <year>1842</year>
-      <keywords/>
+      <keywords>
+         <item>colonial politics</item>
+         <item>obituary</item>
+      </keywords>
       <header>Monument to the late...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Monument to the late Earl of Dur</font>]]><![CDATA[<font style="font-variant: small-caps;">hum.</font>]]>–The New Zealand Company have voted
