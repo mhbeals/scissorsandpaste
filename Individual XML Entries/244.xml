@@ -47,6 +47,16 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>weather</item>
+                            <item>timber trade</item>
+                            <item>shipping news</item>
+                            <item>fire</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

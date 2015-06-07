@@ -26,10 +26,10 @@
                                     <ref target="https://news.google.com/newspapers?id=p0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=5973%2C4774843">Google News Archive</ref>
                   </authority>
                             <pubPlace>
-                                <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
+                                <address> 
+                        <settlement>Glasgow</settlement> 
+                        <region>Scotland</region> 
+                        <country>United Kingdom</country> 
                      </address>
                             </pubPlace>
                             <date when="1794-07-11"/>

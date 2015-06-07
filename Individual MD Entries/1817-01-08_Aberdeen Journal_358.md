@@ -12,7 +12,7 @@ DREADFUL MASSACRE BY THE NATIVES OF THE MARQUESASISLANDS.[*From the Sydney Gazet
                     the vessel afloat, they concurred universally in the design of
                     putting the whole of her crew to death; which appears to have been a
                     constant practise among the different natives towards one another, when
-                    their canoes happen too fall upon a strange land, through stress
+                    their canoes happen to fall upon a strange land, through stress
                     of weather, or from any other accident.Captain Fowler had formed an intimacy with their Chief, or King, Nooahetu,
                     who presided at the horrible tribunal that had devoted the unfortunate
                     mariners to instant slaughter. He withheld his assent to the
@@ -37,14 +37,14 @@ DREADFUL MASSACRE BY THE NATIVES OF THE MARQUESASISLANDS.[*From the Sydney Gazet
                     round his own, called to the Chief next in command, who immediately
                     approached him. His conference was short and decisive–he first
                     pointed to the cord that encircled the neck of his son, and then to the
-                    other which he had entwined around his own. "These strangers are doomed to
+                    other which he had entwined round his own. "These strangers are doomed to
                     death," said he, "by my chiefs and my people: and it is not fit that I, who
                     am their King, should live to see so vile a deed perpetrated.–
                     Let my child and myself be strangled before it is performed; and then
                     it never will be said that we sanctioned, even with our eyesight, the destruction of these unoffending people."The magnanimity of such a conduct could not do less than produce, even in
                     the mind of the unenlightened savage, a paroxysm of surprise, mingled with
                     a sentiment of admiration, in which the untaught man may possibly excel his
-                    fellow creature, whose conceptions are moulded by tenets
+                    fellow-creature, whose conceptions are moulded by tenets
                     calculated to guard him from the extremes of passion. For a moment the
                     people looked wildly upon their King, whose person they adored, because
                     that his principles were good, and his government just and mild. They

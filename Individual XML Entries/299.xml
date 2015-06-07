@@ -47,6 +47,13 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -62,7 +69,7 @@
                     <lb/>subject of immigration into colony. The <lb/>object of these resolutions is
                     to encourage emigra<lb break="no"/>tion from the mother country, by showing the
                     <lb/>demand for labour in New South Wales, and the <lb/>advantages offered to
-                    the immigrant. We have <lb/>only room for a few of the more important resolu<lb break="no"/>tions</p>
+                    the immigrant. We have <lb/>only room for a few of the more important resolu<lb break="no"/>tions :</p>
                 <p>Resolved. That there exists throughout the colony <lb/>an urgent and increasing
                     want of working hands, in <lb/>every branch of industry ; that there is ample
                         employ<lb break="no"/>ment for emigrants, at highly renumerating wages

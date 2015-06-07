@@ -41,7 +41,7 @@ Letter from Mr Morris Birkbeck"English Prairie, (Illinoia,) Nov.25. 1818."Si
                     anxiously invited the attention of the readers of my journal. On the
                     whole, provided common sense should be seconded by common industry, in
                     the inclosure and cultivation of our colony, I think we shall not be
-                    visisted by more than our due share of physical calamity. I deferred noticing your second query, the subect being connected with the proposal respecting land, at the conclusion of your
+                    visisted by more than our due share of physical calamity. I deferred noticing your second query, the subject being connected with the proposal respecting land, at the conclusion of your
                     letter. I would strongly recommend your deferring the purchase
                     of land until your arrival. It would be difficult to convey
                     to you the reasons, but you would feel the propriety of my advice, should

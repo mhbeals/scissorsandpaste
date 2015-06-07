@@ -50,6 +50,14 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>cannibalism</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -62,13 +70,13 @@
                     <lb/>
                     <hi rend="center">[From the Sydney Gazette, November 8, 1815]</hi>
                 </p>
-                <p>By the Governor Macquarie are arrived Captain <lb/>
+                <p>By the Governor Macquarrie are arrived Captain <lb/>
             <hi rend="smallcaps">Fowler</hi>, and part of the crew of the India brig Matilda, which sailed
                     from this colony in August, <lb/>1813, bound on a voyage to the Derwent and
                     <lb/>Eastern Islands, and from thence to China; but was <lb/>cut off and
                     plundered on the night of the 10th of <lb/>April last, while lying at anchor in
                     Duff's Bay, at <lb/>the Island of Rooapoah, one of the Marquesas, on a
-                    <lb/>sandal wood voyage. Five of the crew (Poomootoo <lb/>men) had previously
+                    <lb/>sandal-wood voyage. Five of the crew (Poomootoo <lb/>men) had previously
                     deserted, and joining with some <lb/>of the Rooapoah natives, took the
                     opportunity of a <lb/>dark night, and the wind blowing fresh right on the
                     <lb/>land, to cut the vessel adrift; by which means she <lb/>drove ashore
@@ -90,15 +98,16 @@
                     island, from which the <lb/>exhibition of clemency appeared an insufferable
                         de<lb break="no"/>viation. He was seated, with his son by his side, on
                     <lb/>a mat in his own dwelling; he had been called to the <lb/>supremacy of the
-                    island by the general wish of the <lb/>people, as it was not a hereditary right,
-                    but an elec<lb break="no"/>tive dignity. His people pressed their solicitations
-                    <lb/>earnestly, and at length peremptorily demanded his <lb/>assent to the
-                    sacrifice; which he for a length of time <lb/>opposed by the force of words;
-                    which not seeming <lb/>likely to prevail, he adopted a method which silenced
-                    <lb/>the whole in an instant, and saved the lives of Cap<lb break="no"/>tain <hi rend="smallcaps">Fowler</hi> and his crew. Finding that all his ex<lb break="no"/>postulations were defeated upon the principle of un<lb break="no"/>deviating custom, he deliberately took up two ropes <lb/>that
+                    island by the general wish of the <lb/>people, as it was not an hereditary
+                    right, but an elec<lb break="no"/>tive dignity. His people pressed their
+                    solicitations <lb/>earnestly, and at length peremptorily demanded his
+                    <lb/>assent to the sacrifice; which he for a length of time <lb/>opposed by the
+                    force of words; which not seeming <lb/>likely to prevail, he adopted a method
+                    which silenced <lb/>the whole in an instant, and saved the lives of Cap<lb break="no"/>tain <hi rend="smallcaps">Fowler</hi> and his crew. Finding that
+                    all his ex<lb break="no"/>postulations were defeated upon the principle of un<lb break="no"/>deviating custom, he deliberately took up two ropes <lb/>that
                     were near him, and fixing one round the neck <lb/>of his son, and the other
                     round his own, called to <lb/>the Chief next in command, who immediately ap<lb break="no"/>proached him. His conference was short and deci<lb break="no"/>sive; he first pointed to the cord that encircled the <lb/>neck of his son,
-                    and then to the other, which he had <lb/>entwined around his own. "These
+                    and then to the other, which he had <lb/>entwined round his own. "These
                     strangers are <lb/>doomed to death," said he, "by my chiefs and my <lb/>people,
                     and it is not fit that I, who am their King, <lb/>should live to see so vile a
                     deed perpetrated. Let my <lb/>child and myself be strangled before it is
@@ -108,7 +117,7 @@
                 <p>The magnanimity of such a conduct could not do <lb/>less than produce, even in
                     the mind of the unen<lb break="no"/>lightened savage, a paroxysm of surprise,
                     mingled <lb/>with a sentiment of admiration in which the untaught <lb/>man may
-                    possibly excel his fellow creature–whose <lb/>conceptions are moulded by
+                    possibly excel his fellow-creature–whose <lb/>conceptions are moulded by
                     tenets calculated to <lb/>guard him from the extremes of passion. For a mo<lb break="no"/>ment the people looked wildly upon their King, <lb/>whose person
                     they adored, because that his princi<lb break="no"/>ples were good, and his
                     government just and mild. <lb/>They saw the obedient Chief, to whom the order of
@@ -126,7 +135,7 @@
                         na<lb break="no"/>tives, who have a thorough knowledge of the use of
                     <lb/>these materials. That they are cannibals is well as<lb break="no"/>certained. They form distinct factions, and make <lb/>war upon the ruling
                     Chief–the rebels are denomi<lb break="no"/>nated the Typees; and the
-                    opposing parties are hor<lb break="no"/>ribly sanguinary towards each. Six of
+                    opposite parties are hor<lb break="no"/>ribly sanguinary towards each. Six of
                     the adverse <lb/>party were killed, and devoured by the rebels while
                     <lb/>Captain <hi rend="smallcaps">Fowler</hi> was among them, and the following
                     <lb/>detestable circumstance occurred on the occasion:– <lb/>A native man

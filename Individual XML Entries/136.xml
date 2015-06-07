@@ -47,6 +47,13 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -60,14 +67,14 @@
                     for obtaining reform in Upper Cana<lb break="no"/>da. Accounts from Quebec and
                     Montreal, da<lb break="no"/>ted the end of November, state, that in pursu<lb break="no"/>ance of this recommendation, the Legislature, <lb/>on one of the
                     first days of its meeting, appoint<lb break="no"/>ed a Committee to inquire into
-                    the subject, who <lb/>almost instantly came to the following resolu<lb break="no"/>tion:</p>
+                    the subject, who <lb/>almost instantly came to the following resolu<lb break="no"/>tion</p>
                 <p>Resolved, That it is the opinion of this Committee that <lb/>some such
                     legislative provision should be enacted as the wis<lb break="no"/>dom of the
                     Imperial Parliament has found it proper to pro<lb break="no"/>vide to meet
                     similar occasions, to put it out of the power of <lb/>any designing persons to
                     organize discontent.</p>
                 <p>The proceeding appears to have raised the in<lb break="no"/>dignation of the
-                    Gourlay or reofrming party in <lb/>Upper Canada, as will be seen by the
+                    Gourlay or reforming party in <lb/>Upper Canada, as will be seen by the
                     following <lb/>extract :–</p>
                 <p>Montreal, November 21. <lb/>This legislative provision, it will be immediate<lb break="no"/>
                     <lb/>ly perceived, is the suspension of the Habeas <lb/>Corpus act, for that was
@@ -77,10 +84,8 @@
                     <lb/>in their echo of Sir P. Maitland's speech, with <lb/>the most humiliating
                     servility ; and we feel con<lb break="no"/>vinced that it will not be borne with
                     by the <lb/>people, while they have the control in any way <lb/>of their
-                    representatives. The sentiment therein <lb/>attempted to be disseminated is
-                    an</p>
-                <p>
-            <pb/>libel on the truly loyal people of Upper Canada. <lb/>It would sound in our
+                    representatives. The sentiment therein <lb/>attempted to be disseminated is an
+                    <pb/>libel on the truly loyal people of Upper Canada. <lb/>It would sound in our
                     ears like the knell of their <lb/>liberty, if we were not persuaded, that its
                         adop<lb break="no"/>tion would provoke a spirit of resistance, not
                     <lb/>corporal, but mental ; not secret and illegal, but <lb/>open and

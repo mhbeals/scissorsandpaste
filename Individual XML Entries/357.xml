@@ -50,13 +50,22 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>cannibalism</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb n="2"/>
-                    <hi rend="center">ANOTHER DREADFUL MASSACRE BY THE NATIVE</hi>
+                    <hi rend="center">ANOTHER DREADFUL MASSACRE BY THE NATIVE<supplied reason="copy missing">S</supplied>
+            </hi>
                     <lb/>
                     <hi rend="center">OF THE MARQUESAS ISLANDS.</hi>
                     <lb/>

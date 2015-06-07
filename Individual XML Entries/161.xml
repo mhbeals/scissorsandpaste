@@ -47,6 +47,13 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -100,7 +107,7 @@
                     been stated that <lb/>the Magistrates of Edinburgh had always been friendly to
                     the Hos<lb break="no"/>pital ; but that was surely no reason for withholding
                     L.59 of interest <lb/>that whatever former Magistrates had thought on the
-                    subejct the <lb/>present would not submit to the idea of depriving the Hospital
+                    subject the <lb/>present would not submit to the idea of depriving the Hospital
                     of any <lb/>part of its lawful interest. If the ground on which the Hospital was
                     <lb/>built was alluded to, it was plain that town had already got more, <lb/>by
                     the reduced interest than its original value. The town of Edin<lb break="no"/>burgh had also got L.8273 ; 17 ; 3 of invalid money from Govern<lb break="no"/>ment, on condition of paying <hi rend="italic">the interest</hi> to the

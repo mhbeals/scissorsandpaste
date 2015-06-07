@@ -3,12 +3,12 @@ Reform in Upper CanadaIt has been already mentioned that Governor Maitland, on
                     for obtaining reform in Upper Canada. Accounts from Quebec and
                     Montreal, dated the end of November, state, that in pursuance of this recommendation, the Legislature, on one of the
                     first days of its meeting, appointed a Committee to inquire into
-                    the subject, who almost instantly came to the following resolution:Resolved, That it is the opinion of this Committee that some such
+                    the subject, who almost instantly came to the following resolutionResolved, That it is the opinion of this Committee that some such
                     legislative provision should be enacted as the wisdom of the
                     Imperial Parliament has found it proper to provide to meet
                     similar occasions, to put it out of the power of any designing persons to
                     organize discontent.The proceeding appears to have raised the indignation of the
-                    Gourlay or reofrming party in Upper Canada, as will be seen by the
+                    Gourlay or reforming party in Upper Canada, as will be seen by the
                     following extract :–Montreal, November 21. This legislative provision, it will be immediately perceived, is the suspension of the Habeas Corpus act, for that was
                     the course pursued in England. We do not believe that there is the
                     most remote necessity for such a measure. We do not hesitate to say,
@@ -16,8 +16,8 @@ Reform in Upper CanadaIt has been already mentioned that Governor Maitland, on
                     in their echo of Sir P. Maitland's speech, with the most humiliating
                     servility ; and we feel convinced that it will not be borne with
                     by the people, while they have the control in any way of their
-                    representatives. The sentiment therein attempted to be disseminated is
-                    anlibel on the truly loyal people of Upper Canada. It would sound in our
+                    representatives. The sentiment therein attempted to be disseminated is an
+                    libel on the truly loyal people of Upper Canada. It would sound in our
                     ears like the knell of their liberty, if we were not persuaded, that its
                         adoption would provoke a spirit of resistance, not
                     corporal, but mental ; not secret and illegal, but open and

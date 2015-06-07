@@ -1,6 +1,6 @@
 *British Vessel plundered by the Natives of
                             the Marquesas Islands.*[*From the Sydney Gazette, Nov*. 8, 1815.]By the Governor Macquarrie are arrived Captain Fowler, and part
-                    of the crew of the India brig Matilda, which sailed from this colony in
+                    of the crew of the Indian brig Matilda, which sailed from this colony in
                     August 1813, bound on a voyage to the Derwent and Eastern Islands, and from
                     thence to China; but was cut off and plundered on the night of the 10th of
                     April last, while lying at anchor in Duff's Bay, at the Island of Rooapoah,
@@ -63,7 +63,7 @@
                     is dry at low water. All her iron and copper have been taken out by the
                     natives, who have a thorough knowledge of the use of these materials. That they are cannibals is well ascertained. They form distinct
                     factions, and make war upon the ruling Chief; the rebels are
-                    denominated the Typees; and the opposing parties are horribly sanguinary
+                    denominated the Typees; and the opposite parties are horribly sanguinary
                     towards each other. Six of the adverse party were killed, and devoured by the rebels while Capt. Fowler was among them, and the
                     following detestable circumstance occurred on the occasion:–A native
                     man belonging to Port Anna Maria, who was not tattooed, and in consequence

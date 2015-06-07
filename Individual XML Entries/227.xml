@@ -47,7 +47,23 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>trade</item>
+                        <item>price</item>
+                        <item>agriculture</item>
+                    </list>
+                </keywords>
+            </textClass>
         </teiHeader>
         <text>
             <body>

@@ -1,4 +1,4 @@
-Interesting Communication from Canada To the Editor of the Edinburgh Weekly Journal SIR–It will be remember by many of your Readers, that, in the spring of
+Interesting Communication from CanadaTo the Editor of the Edinburgh Weekly JournalSIR–It will be remember by many of your Readers, that, in the spring of
                     1815, proclamations were widely circulated, inviting settlers to
                     Canada.–Having myself occasion to visit this country, I was curious
                     to know what had been the result, especially as I found at Quebec and Montreal
@@ -9,11 +9,11 @@ Interesting Communication from Canada To the Editor of the Edinburgh Weekly Jo
                     of the Redeau, to which a considerable body of the people who accepted the
                     invitation of the Government had been conducted.– Here it traced the
                     reported discontent to some neglect in the general management, and some ill
-                    conceived petty regulations, capriciously exercised towards people tenacious of
+                    conceieved petty regulations, capriciously exercised towards people tenacious of
                     their rights ; but in the main, universal satisfaction prevailed among the
                     settlers, and a strong feeling of the good intentions of Government towards
                     them. The opportunity being a good one of ascertaining the
-                    progress which a promiscuous body of settlers make in a given time. I
+                    progress which a promiscious body of settlers make in a given time. I
                     constructed the annexed table, and had each man's signature attached, at once to
                     prove to correctness of his statement, and satisfaction with his situation.
                     Should you think this worthy of publication, you are welcome to publish it in

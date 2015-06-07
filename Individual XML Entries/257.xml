@@ -47,6 +47,22 @@
                     <preparedness type="revised"/>
                     <purpose type="inform"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>meeitng</item>
+                            <item>law</item>
+                            <item>suffrage</item>
+                            <item>monuments</item>
+                            <item>weather</item>
+                            <item>theatre</item>
+                            <item>religion</item>
+                            <item>obituary</item>
+                            <item>emigration</item>
+                            <item>disease</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>

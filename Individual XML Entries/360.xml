@@ -50,13 +50,23 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>cannibalism</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
                     <pb n="4"/>
-                    <hi rend="center">NOTHER DREADFUL MASSACRE BY THE NATIVES OF</hi>
+                    <hi rend="center">
+               <supplied reason="copy fade">A</supplied>NOTHER DREADFUL
+                        MASSACRE BY THE NATIVES OF</hi>
                     <lb/>
                     <hi rend="center">THE MARQUESAS ISLANDS.</hi>
                     <lb/>
@@ -65,7 +75,7 @@
                     <lb/>
                 </p>
                 <p>By the Governor Macquarrie are arrived Captain <lb/>Fowler, and part of the crew
-                    of the India brig Ma<lb break="no"/>tilda, which sailed from this colony in
+                    of the Indian brig Ma<lb break="no"/>tilda, which sailed from this colony in
                     August, 1813, <lb/>bound on a voyage to the Derwent and Eastern Islands,
                     <lb/>and from thence to China; but was cut off and plun<lb break="no"/>dered on
                     the night of the 10th of April last, while lying <lb/>at anchor in Duff's Bay,
@@ -127,7 +137,7 @@
                     is dry at low water. All <lb/>her iron and copper have been taken out by the
                     natives, <lb/>who have a thorough knowledge of the use of these m<lb break="no"/>aterials. That they are cannibals is well ascertained. <lb/>They form distinct
                     factions, and make war upon the <lb/>ruling Chief; the rebels are denominated
-                    the Typees; <lb/>and the opposing parties are horribly sanguinary towards
+                    the Typees; <lb/>and the opposite parties are horribly sanguinary towards
                     <lb/>each. Six of the adverse party were killed, and de<lb break="no"/>voured by
                     the rebels while Captain Fowler was among <lb/>them, and the following
                     detestable circumstance oc<lb break="no"/>curred on the occasion:–A

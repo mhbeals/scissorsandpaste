@@ -1,6 +1,6 @@
 ANOTHER DREADFUL MASSACRE BY THE NATIVESOF THE MARQUESAS ISLANDS.(*From the Sydney Gazette, Nov*. 8,
                         1815)By the *Governor Macquarrie* are arrived Captain
-                    Fowler, and part of the crew of the India brig *Matilda*, which sailed from this colony in August, 1813, bound on
+                    Fowler, and part of the crew of the Indian brig *Matilda*, which sailed from this colony in August, 1813, bound on
                     a voyage to the Derwent and Eastern Islands, and from thence to China; but
                     was cut off and plundered on the night of the 10th of April last, while
                     lying at anchor in Duff's Bay, at the Island of Rooapoah, one of the
@@ -45,7 +45,7 @@ ANOTHER DREADFUL MASSACRE BY THE NATIVESOF THE MARQUESAS ISLANDS.(*From the Sydn
                     even with our eye-sight, the destruction of these unoffending people."The magnanimity of such a conduct could not do less than produce, even in
                     the mind of the unenlightened savage, a paroxysm of surprise,
                     mingled with a sentiment of admiration in which the untaught man may
-                    possibly excel his fellow-creature –whose conceptions are moulded by tenets calculated to guard him from the extremes of
+                    possibly excel his fellow-creature, whose conceptions are moulded by tenets calculated to guard him from the extremes of
                     passion. For a moment the people looked wildly upon their King, whose
                     person they adored, because that his principles were good, and his
                     government just and mild. They saw the obedient Chief, to whom the order
@@ -61,7 +61,7 @@ ANOTHER DREADFUL MASSACRE BY THE NATIVESOF THE MARQUESAS ISLANDS.(*From the Sydn
                     remains, and is dry at low water. All her iron and copper have been taken
                     out by the natives, who have a thorough knowledge of the use of these
                     materials. That they are cannibals is well ascertained. They form distinct factions, and make war upon the ruling Chief; the
-                    rebels are denominated the Typees; and the opposing parties
+                    rebels are denominated the Typees; and the opposite parties
                     are horribly sanguinary towards each. Six of the adverse party
                     were killed, and devoured by the rebels while Captain Fowler was among
                     them, and the following detestable circumstance occurred on the

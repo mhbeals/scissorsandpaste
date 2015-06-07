@@ -1,4 +1,4 @@
-ANOTHER DREADFUL MASSACRE BY THE NATIVEOF THE MARQUESAS ISLANDS.(From the Sydney Gazette, Nov. 8. 1815)By the Governor Macquarrie, are arrived Captain Fowler, and part
+ANOTHER DREADFUL MASSACRE BY THE NATIVESOF THE MARQUESAS ISLANDS.(From the Sydney Gazette, Nov. 8. 1815)By the Governor Macquarrie, are arrived Captain Fowler, and part
                     of the crew of the Indian brig Matilda, which sailed from this colony in
                     August 1813, bound on a voyage to the Derwent and Eastern Islands, and
                     from thence to China, but was cut off and plundered, on the night of the

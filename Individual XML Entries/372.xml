@@ -26,10 +26,10 @@
                             <authority>Text within the public domain. Digitised image available from
                                     <ref target="http://news.google.com/newspapers?id=hkpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=2575%2C102604"/>Glasgow News Archive</authority>
                             <pubPlace>
-                                <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
+                                <address> 
+                        <settlement>Glasgow</settlement> 
+                        <region>Scotland</region> 
+                        <country>United Kingdom</country> 
                      </address>
                             </pubPlace>
                             <date when="1794-01-06"/>

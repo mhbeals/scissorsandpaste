@@ -14,8 +14,8 @@ Emigration to AmericaOur paper of Thursday last contained a general view of so
                     plentiful, and wages should fall, this is the signal for new emigrations ;
                     and thus, this constant demand for labour in the western
                     districts regulates its general price throughout the United States. In
-                    these circumstances it is clear that a labourer, provided he can reach this
-                        advantageous market for his labour, will unquestionably
+                    these circumstrances it is clear that a labourer, provided he can reach
+                    this advantageous market for his labour, will unquestionably
                     improve his condition. But herein lies the difficulty. A
                     labourer has seldom the means of of subsistence so far beforehand as to
                     enable him to undertake so long a journey ; and, if he enters upon the
@@ -185,19 +185,19 @@ Emigration to AmericaOur paper of Thursday last contained a general view of so
                     but no one has his proper part assigned him – there is a jostling
                     and an interference with each other – and when they come to divide,
                     some have too much, and some too little, of certain
-                    articles – the stock is ill assorted, and money will not execute its functions. Hence disorder arises, and
-                    inconvenience and awkward wants, and an individual suddenly removed into
-                    this region of discomfort from the happier climate of a highly
-                    improved community, must be annoyed with feeling in the highest
-                    degree gloomy and disagreeable. He must have the same sensation as a person who quits an elegant mansion, fitted up with every
-                    comfort and convenience, for one of inferior quality and coarsely finished,
-                    where he is exposed to a thousand annoyances every minute. It is
-                    observed by Dr Johnson, that the evil of life does not consist in any
-                        sudden and overwhelming crash of misery, but in a
-                    series of petty discomforts amd mischiefs continually
-                    preying upon the temper. The truth of this maxim, those who emigrate from
-                    this country to the back woods of America, will have a good
-                    opportunity of verifying.The prevalence of slavery in most of the States of the Union constitutes
+                    articles – the stock is ill assorted, and money will not execute its functions. Hence disorder arises, and inconvience
+                    and awkward wants, and an individual suddenly removed into this region
+                    of discomfort from the happier climate of a highly improved community, must
+                    be annoyed with feeling in the highest degree gloomy and
+                    disagreeable. He must have the same sensation as a person who
+                    quits an elegant mansion, fitted up with every comfort and convenience,
+                    for one of inferior quality and coarsely finished, where he is exposed
+                    to a thousand annoyances every minute. It is observed by Dr Johnson,
+                    that the evil of life does not consist in any sudden and
+                    overwhelming crash of misery, but in a series of petty discomforts amd
+                    mischiefs continually preying upon the temper. The truth of
+                    this maxim, those who emigrate from this country to the
+                    back woods of America, will have a good opportunity of verifying.The prevalence of slavery in most of the States of the Union constitutes
                     another capital defect in the structure of American society. These
                     slaves form a degraded and oppressed class, and, in the tyranny
                     exercised over them, they themselves are morally destroyed,

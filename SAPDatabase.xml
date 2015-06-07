@@ -71,7 +71,7 @@
       </keywords>
       <header>From the Jamaica Royal...</header>
       <text>
-         <p><![CDATA[<center>From the Jamaica Royal Gazette. </center>]]><![CDATA[<center>Kingston, Sept. 27</center>]]></p>
+         <p><![CDATA[<center>From the Jamaica Royal Gazette. Kingston, Sept. 27</center>]]></p>
          <p>The ship Nestor, belonging to Glasgow, seized several months ago
                     by the officers of his Majesty's customs at this port, for not
                     being provided with a register according to Act of Parliament, was
@@ -4466,6 +4466,7 @@
          <item>crime</item>
          <item>colonial government</item>
          <item>trade</item>
+         <item>Maori</item>
          <item>Pacific Islanders</item>
          <item>transportation</item>
       </keywords>
@@ -4789,7 +4790,7 @@
          <item>Anglo-American relations</item>
          <item>Native Americans</item>
          <item>military</item>
-         <item>privateers</item>
+         <item>privateering</item>
       </keywords>
       <header>Canada PapersMontreal, Oct  29...</header>
       <text>
@@ -5826,7 +5827,7 @@
          <item>shipwrecks</item>
          <item>currency</item>
          <item>colonial government</item>
-         <item>fires</item>
+         <item>fire</item>
       </keywords>
       <header>Extract of a letter...</header>
       <text>
@@ -6591,8 +6592,8 @@
                     plentiful, and wages should fall, this is the signal for new emigrations ;
                     and thus, this constant demand for labour in the western
                     districts regulates its general price throughout the United States. In
-                    these circumstances it is clear that a labourer, provided he can reach this
-                        advantageous market for his labour, will unquestionably
+                    these circumstrances it is clear that a labourer, provided he can reach
+                    this advantageous market for his labour, will unquestionably
                     improve his condition. But herein lies the difficulty. A
                     labourer has seldom the means of of subsistence so far beforehand as to
                     enable him to undertake so long a journey ; and, if he enters upon the
@@ -6766,19 +6767,19 @@
                     but no one has his proper part assigned him – there is a jostling
                     and an interference with each other – and when they come to divide,
                     some have too much, and some too little, of certain
-                    articles – the stock is ill assorted, and money will not execute its functions. Hence disorder arises, and
-                    inconvenience and awkward wants, and an individual suddenly removed into
-                    this region of discomfort from the happier climate of a highly
-                    improved community, must be annoyed with feeling in the highest
-                    degree gloomy and disagreeable. He must have the same sensation as a person who quits an elegant mansion, fitted up with every
-                    comfort and convenience, for one of inferior quality and coarsely finished,
-                    where he is exposed to a thousand annoyances every minute. It is
-                    observed by Dr Johnson, that the evil of life does not consist in any
-                        sudden and overwhelming crash of misery, but in a
-                    series of petty discomforts amd mischiefs continually
-                    preying upon the temper. The truth of this maxim, those who emigrate from
-                    this country to the back woods of America, will have a good
-                    opportunity of verifying.</p>
+                    articles – the stock is ill assorted, and money will not execute its functions. Hence disorder arises, and inconvience
+                    and awkward wants, and an individual suddenly removed into this region
+                    of discomfort from the happier climate of a highly improved community, must
+                    be annoyed with feeling in the highest degree gloomy and
+                    disagreeable. He must have the same sensation as a person who
+                    quits an elegant mansion, fitted up with every comfort and convenience,
+                    for one of inferior quality and coarsely finished, where he is exposed
+                    to a thousand annoyances every minute. It is observed by Dr Johnson,
+                    that the evil of life does not consist in any sudden and
+                    overwhelming crash of misery, but in a series of petty discomforts amd
+                    mischiefs continually preying upon the temper. The truth of
+                    this maxim, those who emigrate from this country to the
+                    back woods of America, will have a good opportunity of verifying.</p>
          <p>The prevalence of slavery in most of the States of the Union constitutes
                     another capital defect in the structure of American society. These
                     slaves form a degraded and oppressed class, and, in the tyranny
@@ -6834,10 +6835,10 @@
          <item>emigration</item>
          <item>settlement description</item>
       </keywords>
-      <header>Interesting Communication from Canada...</header>
+      <header>Interesting Communication from CanadaTo...</header>
       <text>
-         <p><![CDATA[<font style="font-variant: small-caps;">Interesting Communication from Canada </font>]]></p>
-         <p><![CDATA[<font style="font-variant: small-caps;">To the Editor of the Edinburgh Weekly Journal </font>]]></p>
+         <p><![CDATA[<font style="font-variant: small-caps;">Interesting Communication from Canada</font>]]></p>
+         <p><![CDATA[<font style="font-variant: small-caps;">To the Editor of the Edinburgh Weekly Journal</font>]]></p>
          <p>SIR–It will be remember by many of your Readers, that, in the spring of
                     1815, proclamations were widely circulated, inviting settlers to
                     Canada.–Having myself occasion to visit this country, I was curious
@@ -6849,11 +6850,11 @@
                     of the Redeau, to which a considerable body of the people who accepted the
                     invitation of the Government had been conducted.– Here it traced the
                     reported discontent to some neglect in the general management, and some ill
-                    conceived petty regulations, capriciously exercised towards people tenacious of
+                    conceieved petty regulations, capriciously exercised towards people tenacious of
                     their rights ; but in the main, universal satisfaction prevailed among the
                     settlers, and a strong feeling of the good intentions of Government towards
                     them. The opportunity being a good one of ascertaining the
-                    progress which a promiscuous body of settlers make in a given time. I
+                    progress which a promiscious body of settlers make in a given time. I
                     constructed the annexed table, and had each man's signature attached, at once to
                     prove to correctness of his statement, and satisfaction with his situation.
                     Should you think this worthy of publication, you are welcome to publish it in
@@ -6982,7 +6983,7 @@
       <month>February</month>
       <year>1818</year>
       <keywords>
-         <item/>
+         <item>undefined</item>
       </keywords>
       <header>Convicts destined for Botany...</header>
       <text>
@@ -7069,7 +7070,7 @@
       <month>October</month>
       <year>1819</year>
       <keywords>
-         <item/>
+         <item>undefined</item>
       </keywords>
       <header>Colonial IntelligenceDeath of The...</header>
       <text>
@@ -7259,7 +7260,8 @@
                     that we have stated the general want of cleanliness to be a prevailing
                     defect in the back parts of the United States. For this we have the
                     authority of almost every traveller who has visited those parts. The
-                    remarks of Birkbeck on this point are conclusive and striking: –</p>
+                    remarks of Birkbeck on this point are conclu-sive and striking:
+                    –</p>
          <p>' In viewing the Americans (he observes) and ' sketching, in a rude manner,
                     as I pass along, ' their striking characteristics, I have seen a de' formity so general, that I cannot help esteem'
                     ing it national, though I know it admits of ve' ry many
@@ -7268,7 +7270,7 @@
                     ' I must adhere. Cleanliness in houses, and too ' often in person, is
                     neglected to a degree which ' is very revolting to an Englishman.</p>
          <p>' America was bred in a cabin ; this is not a ' reproach – for the
-                    origin is most honourable ; ' but as she has exchanged her hovel of unhewn
+                    origin is most honourable ; ' but as she has exhanged her hovel of unhewn
                     ' logs for a framed building, and that again for ' a mansion of brick,
                     some of her cabin habits ' have been unconsciously retained. Many have
                     ' already been quitted, and one by one they will ' all be cleared
@@ -7314,16 +7316,18 @@
                     to be corrected.</p>
          <p>With regard to the difficulties of effecting a settlement, we are borne out
                     in our remarks on this subject by the authority of various writers,
-                    and principally by the author of the Emigrant's Guide, a work of great
-                    merit, which combines an extent and precision of statistical information altogether unequally, with the most enlarged general views of the state of the country, both physical and moral. '
-                    Most men (observes ' this judicious writer) on arriving in the United
-                    ' States, expects too much. Perhaps the only ' essential advantages
-                    offered are the security of ' person and property, and the cheapness of
-                    land. ' It demands excessive labour, severe economy, ' and exepmtions
-                    from extraordinary accident, to ' succeed in a newly settled country ; and
-                    it de' mands the permanency of this continued la' bour, prudence, and favourable circumstances.'</p>
+                    and principally by the autheor of the Emigrant's Guide, a work of
+                    great merit, which combines an extent and precision of statistical
+                        information altogether unequally, with the most enlarged general views of the state of the country, both
+                    physical and moral. ' Most men (observes ' this judicious writer) on
+                    arriving in the United ' States, expects too much. Perhaps the only '
+                    essential advantages offered are the security of ' person and property, and
+                    the cheapness of land. ' It demands excessive labour, severe economy,
+                    ' and exepmtions from extraordinary accident, to ' succeed in a newly
+                    settled country ; and it de' mands the permanency of this
+                    continued la' bour, prudence, and favourable circumstances.'</p>
          <p>Our anonymous correspondent is also extremely displeased that we
-                    have stated so strongly the pernicious effects produced on the
+                    have stated so strongly the perincious effects produced on the
                         general manners of the Americans by the existence of
                     slavery ; and he mentions that many a labourer in this country
                     might envy the condition of an American slave. What are those privileges
@@ -7396,7 +7400,9 @@
       <day>20</day>
       <month>January</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial Intelligence York, (U C )...</header>
       <text>
          <p>Colonial Intelligence <![CDATA[<font style="font-variant: small-caps;">York</font>]]>, (U.C.) Nov,
@@ -7561,7 +7567,9 @@
       <day>04</day>
       <month>January</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Reform in Upper CanadaIt...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Reform in Upper Canada</font>]]></p>
@@ -7570,14 +7578,14 @@
                     for obtaining reform in Upper Canada. Accounts from Quebec and
                     Montreal, dated the end of November, state, that in pursuance of this recommendation, the Legislature, on one of the
                     first days of its meeting, appointed a Committee to inquire into
-                    the subject, who almost instantly came to the following resolution:</p>
+                    the subject, who almost instantly came to the following resolution</p>
          <p>Resolved, That it is the opinion of this Committee that some such
                     legislative provision should be enacted as the wisdom of the
                     Imperial Parliament has found it proper to provide to meet
                     similar occasions, to put it out of the power of any designing persons to
                     organize discontent.</p>
          <p>The proceeding appears to have raised the indignation of the
-                    Gourlay or reofrming party in Upper Canada, as will be seen by the
+                    Gourlay or reforming party in Upper Canada, as will be seen by the
                     following extract :–</p>
          <p>Montreal, November 21. This legislative provision, it will be immediately perceived, is the suspension of the Habeas Corpus act, for that was
                     the course pursued in England. We do not believe that there is the
@@ -7586,9 +7594,8 @@
                     in their echo of Sir P. Maitland's speech, with the most humiliating
                     servility ; and we feel convinced that it will not be borne with
                     by the people, while they have the control in any way of their
-                    representatives. The sentiment therein attempted to be disseminated is
-                    an</p>
-         <p>libel on the truly loyal people of Upper Canada. It would sound in our
+                    representatives. The sentiment therein attempted to be disseminated is an
+                    libel on the truly loyal people of Upper Canada. It would sound in our
                     ears like the knell of their liberty, if we were not persuaded, that its
                         adoption would provoke a spirit of resistance, not
                     corporal, but mental ; not secret and illegal, but open and
@@ -7666,7 +7673,9 @@
       <day>28</day>
       <month>April</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial Intelligence  Halifax, March...</header>
       <text>
          <p>Colonial Intelligence. Halifax, March 13.</p>
@@ -7784,7 +7793,7 @@
       <month>May</month>
       <year>1819</year>
       <keywords>
-         <item> bequests </item>
+         <item>bequests</item>
          <item>currency</item>
          <item>economic migration</item>
          <item>Native Americans</item>
@@ -8150,7 +8159,9 @@
       <day>27</day>
       <month>May</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to AmericaImportant Extracts...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to America</font>]]></p>
@@ -8211,7 +8222,9 @@
       <day>07</day>
       <month>May</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The brig Henry sailed...</header>
       <text>
          <p>The brig Henry sailed from Cork on Wednesday se'ennight,
@@ -8249,7 +8262,9 @@
       <day>02</day>
       <month>June</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceAdvices have been...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -8305,7 +8320,9 @@
       <day>28</day>
       <month>June</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration The increased population of...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]>.</p>
@@ -8344,7 +8361,9 @@
       <day>28</day>
       <month>June</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Letter from Mr Morris...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Letter from Mr Morris Birkbeck</font>]]></p>
@@ -8392,7 +8411,7 @@
                     anxiously invited the attention of the readers of my journal. On the
                     whole, provided common sense should be seconded by common industry, in
                     the inclosure and cultivation of our colony, I think we shall not be
-                    visisted by more than our due share of physical calamity. I deferred noticing your second query, the subect being connected with the proposal respecting land, at the conclusion of your
+                    visisted by more than our due share of physical calamity. I deferred noticing your second query, the subject being connected with the proposal respecting land, at the conclusion of your
                     letter. I would strongly recommend your deferring the purchase
                     of land until your arrival. It would be difficult to convey
                     to you the reasons, but you would feel the propriety of my advice, should
@@ -8426,7 +8445,9 @@
       <day>22</day>
       <month>July</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Intended Colony at the...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Intended Colony at the Cape of Good Hope</font>]]></p>
@@ -8522,7 +8543,9 @@
       <day>28</day>
       <month>July</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceA letter from...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -8597,7 +8620,9 @@
       <day>28</day>
       <month>July</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Intended Colony at the...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Intended Colony at the Cape of Good Hope.</font>]]></p>
@@ -8701,7 +8726,9 @@
       <day>07</day>
       <month>July</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceThe accounts received...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -8755,7 +8782,9 @@
       <day>16</day>
       <month>August</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Intended Colony at the...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Intended Colony at the Cape of Good Hope.</font>]]></p>
@@ -8804,7 +8833,9 @@
       <day>25</day>
       <month>August</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceFire at NewfoundlandWe...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -8879,7 +8910,9 @@
       <day>22</day>
       <month>September</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to the Cape...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to the Cape of Good Hope. (From
@@ -9056,7 +9089,9 @@
       <day>11</day>
       <month>October</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to the Cape...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to the Cape of Good Hope.</font>]]>(<![CDATA[<font style="font-variant: small-caps;">Official Circular</font>]]>.)</p>
@@ -9120,7 +9155,9 @@
       <day>27</day>
       <month>October</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceLetters and papers...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -9228,7 +9265,9 @@
       <day>10</day>
       <month>November</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceSpanish Town, Jamaica–August...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -9293,7 +9332,9 @@
       <day>15</day>
       <month>February</month>
       <year>1819</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to America[ From...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to America</font>]]></p>
@@ -9423,7 +9464,9 @@
       <day>13</day>
       <month>January</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to Canada About ten...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to Canada</font>]]>.</p>
@@ -9488,7 +9531,9 @@
       <day>24</day>
       <month>January</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Dutch Colonial Law, and...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Dutch Colonial Law, and Negro Fortitude.</font>]]></p>
@@ -9543,7 +9588,9 @@
       <day>29</day>
       <month>January</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Mr Birkbeck's SettlementA small...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Mr Birkbeck's Settlement</font>]]></p>
@@ -9639,7 +9686,9 @@
       <day>08</day>
       <month>January</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Proceedings of the CourtLord...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Proceedings of the Court</font>]]></p>
@@ -9686,7 +9735,7 @@
                     been stated that the Magistrates of Edinburgh had always been friendly to
                     the Hospital ; but that was surely no reason for withholding
                     L.59 of interest that whatever former Magistrates had thought on the
-                    subejct the present would not submit to the idea of depriving the Hospital
+                    subject the present would not submit to the idea of depriving the Hospital
                     of any part of its lawful interest. If the ground on which the Hospital was
                     built was alluded to, it was plain that town had already got more, by
                     the reduced interest than its original value. The town of Edinburgh had also got L.8273 ; 17 ; 3 of invalid money from Government, on condition of paying <![CDATA[<i>the interest</i>]]> to the
@@ -9897,7 +9946,9 @@
       <day>24</day>
       <month>April</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Upper CanadaExtract from "...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Upper Canada</font>]]></p>
@@ -10134,7 +10185,9 @@
       <day>24</day>
       <month>April</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>EmigrationAmong the emigrants proceeding...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]></p>
@@ -10173,7 +10226,9 @@
       <day>20</day>
       <month>May</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Necessity of Legislative Measures...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Necessity of Legislative Measures for Relieving the
@@ -10416,7 +10471,9 @@
       <day>17</day>
       <month>June</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>CanadaThe following is an...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Canada</font>]]></p>
@@ -10504,7 +10561,9 @@
       <day>01</day>
       <month>July</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The New York Daily...</header>
       <text>
          <p>The New York Daily Advertiser says–"The line of battle ship New
@@ -10527,7 +10586,9 @@
       <day>12</day>
       <month>July</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>IndiaWe have great pleasure...</header>
       <text>
          <p>India</p>
@@ -10599,7 +10660,9 @@
       <day>12</day>
       <month>July</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Maritime IntelligenceThe Jane, Drummond,...</header>
       <text>
          <p>Maritime Intelligence</p>
@@ -10649,7 +10712,9 @@
       <day>12</day>
       <month>July</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceProposed New Monarchy...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -10718,7 +10783,9 @@
       <day>19</day>
       <month>July</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration We extract the following...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]>.</p>
@@ -10766,14 +10833,17 @@
       <id>172</id>
       <authority>Collected from a digital image by M. H.
                             Beals. Transcribed by Max
-                            Templer.</authority>
+                            Templer. Keyword tagged by John
+                            Levin</authority>
       <title>Aberdeen Journal</title>
       <pubPlace>Aberdeen, Scotland, United Kingdom</pubPlace>
       <date>1820-08-02</date>
       <day>02</day>
       <month>August</month>
       <year>1820</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colony at the Cape...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Colony at the Cape of Good Hope</font>]]></p>
@@ -10831,7 +10901,9 @@
       <day>17</day>
       <month>January</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceWe have received...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -10927,7 +10999,9 @@
       <day>31</day>
       <month>January</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceSuccess of the...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -11023,7 +11097,9 @@
       <day>14</day>
       <month>March</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceSierra Leone Gazettes...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -11062,7 +11138,9 @@
       <day>30</day>
       <month>March</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to CanadaThe following...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to Canada</font>]]></p>
@@ -11166,7 +11244,9 @@
       <day>03</day>
       <month>May</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>CanadaProvincial Parliament of Lower...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Canada</font>]]></p>
@@ -11219,7 +11299,9 @@
       <day>02</day>
       <month>June</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>We have received letters...</header>
       <text>
          <p>We have received letters this morning from New South Wales, which
@@ -11240,7 +11322,9 @@
       <day>27</day>
       <month>June</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceWe have received...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -11296,7 +11380,9 @@
       <day>09</day>
       <month>June</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Van Dieman's LandWe have...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Van Dieman's Land</font>]]></p>
@@ -11366,7 +11452,9 @@
       <day>16</day>
       <month>July</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>American Papers New York, May...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">American Papers.</font>]]></p>
@@ -11413,7 +11501,9 @@
       <day>15</day>
       <month>August</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceAfrica –Extract of a...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -11510,7 +11600,9 @@
       <day>17</day>
       <month>October</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceAlarming Fires in...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -11624,7 +11716,9 @@
       <day>07</day>
       <month>November</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Colonial IntelligenceIn our last...</header>
       <text>
          <p>Colonial Intelligence</p>
@@ -11689,7 +11783,9 @@
       <day>05</day>
       <month>February</month>
       <year>1821</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration The following is an...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]>.</p>
@@ -11870,7 +11966,9 @@
       <day>19</day>
       <month>October</month>
       <year>1822</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>On Monday, 14th instant,...</header>
       <text>
          <p>On Monday, 14th instant, the ship Andromeda of London, James Muddle,
@@ -11892,7 +11990,9 @@
       <day>14</day>
       <month>June</month>
       <year>1823</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Portsmouth, June 5 –This day...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Portsmouth, June 5.</font>]]>–This day the ship <![CDATA[<i>William Shand,</i>]]></p>
@@ -11918,7 +12018,9 @@
       <day>10</day>
       <month>September</month>
       <year>1823</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Sailed from Leith Roads...</header>
       <text>
          <p>Sailed from Leith Roads on Sunday, for Van Dieman's Land and New South
@@ -11940,7 +12042,9 @@
       <day>03</day>
       <month>September</month>
       <year>1823</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Naval IntelligenceEast India ShippingCowes,August...</header>
       <text>
          <p>Naval Intelligence</p>
@@ -12006,7 +12110,9 @@
       <day>05</day>
       <month>May</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The Mariner, Douglas, from...</header>
       <text>
          <p>The Mariner, Douglas, from New South Wales, was totally lost 1st July,
@@ -12025,7 +12131,9 @@
       <day>21</day>
       <month>January</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>William and James Nisbet,...</header>
       <text>
          <p>William and James Nisbet, and William Kerr, prisoners in the jail here,
@@ -12089,7 +12197,9 @@
       <day>27</day>
       <month>March</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Prison Discipline The Fifth Report...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Prison Discipline.</font>]]></p>
@@ -12235,7 +12345,9 @@
       <day>06</day>
       <month>March</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Total Charge, t7,856 0...</header>
       <text>
          <p>Total Charge, t7,856 0 11</p>
@@ -12270,7 +12382,9 @@
       <day>03</day>
       <month>April</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Scottish Intelligence Repeated instances have...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Scottish Intelligence.</font>]]></p>
@@ -12352,7 +12466,9 @@
       <day>09</day>
       <month>June</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Mr Secretary Peel, in...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Mr Secretary Peel</font>]]>, in moving the commitment of the
@@ -12383,7 +12499,9 @@
       <day>25</day>
       <month>August</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Press at Cape of...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Press at Cape of Good Hope</font>]]></p>
@@ -12452,7 +12570,9 @@
       <day>11</day>
       <month>February</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>London  Saturday, February 7Hunt –Since...</header>
       <text>
          <p>London. <![CDATA[<i>Saturday, February 7</i>]]></p>
@@ -12487,7 +12607,9 @@
       <day>28</day>
       <month>February</month>
       <year>1824</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The Skelton, Captain Dixon,...</header>
       <text>
          <p>The Skelton, Captain Dixon, arrived in Leith Roads, on Saturday, the 21st inst, from Van Dieman's Land and New South Wales, with a
@@ -12506,7 +12628,9 @@
       <day>19</day>
       <month>October</month>
       <year>1825</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Wesleyan Methodist Missions –The twelfth
 ...</header>
       <text>
@@ -12540,7 +12664,9 @@
       <day>03</day>
       <month>March</month>
       <year>1827</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Commercial Intercourse BetweenThe United...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Commercial Intercourse Between</font>]]><![CDATA[<font style="font-variant: small-caps;">The United States and the Bri-</font>]]><![CDATA[<font style="font-variant: small-caps;">tish Colonies.</font>]]></p>
@@ -12685,7 +12811,9 @@
       <day>02</day>
       <month>April</month>
       <year>1828</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>New South Wales –As a...</header>
       <text>
          <p><![CDATA[<i>New South Wales.</i>]]>–As a proof of the increasing
@@ -12711,7 +12839,9 @@
       <day>07</day>
       <month>May</month>
       <year>1828</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Love in a Prison –We...</header>
       <text>
          <p><![CDATA[<i>Love in a Prison.</i>]]>–We have all heard that "Love
@@ -12746,14 +12876,18 @@
       <id>208</id>
       <authority>Collected from a digital image by M. H.
                             Beals. Transcribed by Max
-                            Templer.</authority>
+                            Templer. Keyword tagged by John
+                            Levin</authority>
       <title>Scotsman</title>
       <pubPlace>Edinburgh, Scotland, Edinburgh</pubPlace>
       <date>1828-06-25</date>
       <day>25</day>
       <month>June</month>
       <year>1828</year>
-      <keywords/>
+      <keywords>
+         <item>alcohol</item>
+         <item>colonial government</item>
+      </keywords>
       <header>House of Commons –June 19 The...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">House of Commons.–June 19.</font>]]></p>
@@ -12984,7 +13118,9 @@
       <day>09</day>
       <month>August</month>
       <year>1828</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Bervic –There has been raised...</header>
       <text>
          <p><![CDATA[<i>Bervic.</i>]]>–There has been raised this season on
@@ -13033,7 +13169,9 @@
       <day>20</day>
       <month>May</month>
       <year>1829</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Australia –We understand the celebrated
 ...</header>
       <text>
@@ -13054,7 +13192,9 @@
       <day>10</day>
       <month>June</month>
       <year>1829</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>House of Commons –June
  ...</header>
       <text>
@@ -13354,7 +13494,9 @@
       <day>25</day>
       <month>July</month>
       <year>1829</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Swan River –The fine ship...</header>
       <text>
          <p><![CDATA[<i>Swan River.</i>]]>–The fine ship <![CDATA[<i>Gilmore</i>]]>, purchased by Mr T. Peel, brother to the Secretary of
@@ -13385,7 +13527,9 @@
       <day>19</day>
       <month>August</month>
       <year>1829</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>London, Saturday, August 15,...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">London, Saturday,</font>]]> August 15, 1829</p>
@@ -13532,7 +13676,9 @@
       <day>04</day>
       <month>November</month>
       <year>1829</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Swan River –The ship Warrior,...</header>
       <text>
          <p><![CDATA[<i>Swan River.</i>]]>–The ship Warrior, Stone,
@@ -13572,9 +13718,9 @@
       <year>1830</year>
       <keywords>
          <item>colonial government</item>
-         <item>disease</item>
-         <item>emigration</item>
          <item>nationalism</item>
+         <item>emigration</item>
+         <item>disease</item>
       </keywords>
       <header>The King's Health It will...</header>
       <text>
@@ -13675,14 +13821,14 @@
                     affairs. The difficulty will be, to give these bodies the powers necessary
                     to develope the industry and resources of the country, without permitting
                     them to impose taxes, and exercise other legislative functions, which
-                    will interfere with the business of the general government. Another article
-                    states, that the members of the Senate and House of Representatives are to
-                    hold their seats for a considerable time, in order "to avoid the
+                    will interfere with the business of the general government. Another articl
+                    state, that the members of the Senate and House of Representatives are to
+                    hold their seats for a considerable time, in order " to avoid the
                     inconveniences resulting from frequent changes, or the repeated election of
                     the same person." In the mouth of an English statesman, we should consider
                     this vile sophistry ; but allowance must be made for the <![CDATA[<i>res dur? novitas regni</i>]]>, in a new state like
-                    Colombia, formed of heterogeneous elements, among which it is
-                    not easy to establish any principle of cohesion. One the same grounds, the
+                    Colombia, formed of heterogenous elements, among which it is not
+                    easy to establish any principle of cohesion. One the same grouns, the
                     Columbian legislators may be pardoned for resolving that the Catholic
                     religion is that of the state, and that no other shall be permitted. This
                     is merely a concescession for the sake of peace, to prejudice
@@ -13695,6 +13841,12 @@
                     not prevent the republic from splitting into four or five independent
                     communities, whose mutual jealousness and wars will crush the librties, and
                     destroy the prosperity of the whole.</p>
+         <p><![CDATA[<font style="font-variant: small-caps;">Private Correspondence.</font>]]><![CDATA[<i>London, Wednesday Evening.</i>]]><![CDATA[<font style="font-variant: small-caps;">The King's Health</font>]]></p>
+         <p>We are sorry to state that the private accounts received from
+                    Windsor this afternoon, do not speak so favourably of his Majesty's health
+                    as the Court Circular, and most of the assertions of the papers
+                    published this afternoon. There having, however, been no bulletin issued up to the present hour (7 o'clock) must</p>
+         <p/>
       </text>
    </TEI>
    <TEI>
@@ -13708,7 +13860,9 @@
       <day>09</day>
       <month>October</month>
       <year>1830</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Swan River Settlement –On the...</header>
       <text>
          <p><![CDATA[<i>Swan River Settlement.</i>]]>–On the 13th inst. the
@@ -13733,7 +13887,12 @@
       <day>10</day>
       <month>November</month>
       <year>1830</year>
-      <keywords/>
+      <keywords>
+         <item>trade</item>
+         <item>shipping news</item>
+         <item>emigration</item>
+         <item>settlement description</item>
+      </keywords>
       <header>Messrs Marshall have made...</header>
       <text>
          <p>Messrs Marshall have made a most interesting addition to
@@ -13754,7 +13913,9 @@
       <day>29</day>
       <month>June</month>
       <year>1831</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The Wool Trade –London, Thursday
 ...</header>
       <text>
@@ -13813,7 +13974,9 @@
       <day>27</day>
       <month>July</month>
       <year>1831</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>THE EQUALITY OF SEXES –The...</header>
       <text>
          <p>THE EQUALITY OF SEXES.–The <![CDATA[<i>Examiner</i>]]> of Saturday las has some witty remarks on the plaint which
@@ -13847,7 +14010,9 @@
       <day>17</day>
       <month>December</month>
       <year>1831</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The Ann Jameson, Alexander,...</header>
       <text>
          <p>The Ann Jameson, Alexander, sailed from Leith Roads on Tuesday morning
@@ -13868,7 +14033,9 @@
       <day>05</day>
       <month>February</month>
       <year>1831</year>
-      <keywords/>
+      <keywords>
+         <item>transportation</item>
+      </keywords>
       <header>The Machine Breakers –A convict...</header>
       <text>
          <p><![CDATA[<i>The Machine Breakers.</i>]]>–A convict ship at
@@ -13898,7 +14065,9 @@
       <day>03</day>
       <month>March</month>
       <year>1832</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>LeithExtensive preparations are already...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Leith</font>]]></p>
@@ -13922,7 +14091,9 @@
       <day>07</day>
       <month>April</month>
       <year>1832</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Mr Hume differed from...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Mr Hume</font>]]> differed from the view taken of the subject by the right hon. baronet. He was of opinion that it
@@ -13944,7 +14115,9 @@
       <day>13</day>
       <month>October</month>
       <year>1832</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The Penal Colonies Botany Bay...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">The Penal Colonies.</font>]]></p>
@@ -14008,7 +14181,9 @@
       <day>29</day>
       <month>May</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>TradeWool–The accounts received in...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Trade</font>]]></p>
@@ -14062,7 +14237,9 @@
       <day>29</day>
       <month>June</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –Within these few days,...</header>
       <text>
          <p><![CDATA[<i>Emigration.</i>]]>–Within these few days, other three
@@ -14083,7 +14260,9 @@
       <day>10</day>
       <month>July</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>We have received Sydney...</header>
       <text>
          <p>We have received Sydney papers to the 26th Feb., They contain reports
@@ -14106,7 +14285,9 @@
       <day>03</day>
       <month>August</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>On Tuesday thirty-one male...</header>
       <text>
          <p>On Tuesday thirty-one male convicts were embarked at Leith for the
@@ -14126,7 +14307,9 @@
       <day>07</day>
       <month>August</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Edward Thorpe, a young...</header>
       <text>
          <p>Edward Thorpe, a young lad, was remitted to the Sheriff, for having,
@@ -14194,7 +14377,9 @@
       <day>05</day>
       <month>October</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration The returns to the...</header>
       <text>
          <p>
@@ -14241,7 +14426,9 @@
       <day>07</day>
       <month>December</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>EmigrationThe subject of emigration...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]></p>
@@ -14361,7 +14548,9 @@
       <day>02</day>
       <month>February</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Another cargo of females...</header>
       <text>
          <p>Another cargo of females is now shipping on board the Ann, Captain
@@ -14393,7 +14582,9 @@
       <day>02</day>
       <month>February</month>
       <year>1833</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –The governors of the...</header>
       <text>
          <p><![CDATA[<i>Emigration.</i>]]>–The governors of the Refuge for
@@ -14416,7 +14607,9 @@
       <day>16</day>
       <month>April</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to New South...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to New South Wales and Van</font>]]><![CDATA[<font style="font-variant: small-caps;">Diemen's Land</font>]]></p>
@@ -14545,7 +14738,9 @@
       <day>02</day>
       <month>July</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>A highly respectable and...</header>
       <text>
          <p>A highly respectable and very numerous meeting is holding this
@@ -14564,7 +14759,9 @@
       <day>23</day>
       <month>July</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Australian Emigration Bill –Mr W ...</header>
       <text>
          <p><![CDATA[<i>Australian Emigration Bill.</i>]]>–Mr W. Whitmore
@@ -14584,7 +14781,9 @@
       <day>05</day>
       <month>July</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>South Australian EmigrationAssociation A meeting...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">South Australian Emigration</font>]]><![CDATA[<font style="font-variant: small-caps;">Association.</font>]]></p>
@@ -14747,7 +14946,9 @@
       <day>02</day>
       <month>August</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>House of Commons –July 28(Continued...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">House of Commons.–July 28</font>]]><![CDATA[<i>(Continued from our last.)</i>]]></p>
@@ -14960,7 +15161,12 @@
       <day>24</day>
       <month>September</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>weather</item>
+         <item>timber trade</item>
+         <item>shipping news</item>
+         <item>fire</item>
+      </keywords>
       <header>The St Nicholas, Morgan,...</header>
       <text>
          <p>The <![CDATA[<i>St Nicholas</i>]]>, Morgan, which has arrived off
@@ -14983,7 +15189,9 @@
       <day>11</day>
       <month>November</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>colonial government</item>
+      </keywords>
       <header>Colonel C  J  Napier...</header>
       <text>
          <p>Colonel C. J. Napier has been appointed Governor of the embryo colony
@@ -15007,7 +15215,9 @@
       <day>08</day>
       <month>November</month>
       <year>1834</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –According to a general...</header>
       <text>
          <p><![CDATA[<i>Emigration.</i>]]>–According to a general return of
@@ -15035,7 +15245,9 @@
       <day>13</day>
       <month>May</month>
       <year>1835</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –The Venus
   ...</header>
       <text>
@@ -15083,7 +15295,9 @@
       <day>05</day>
       <month>August</month>
       <year>1835</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration–We observe from an...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]>–We observe from an advertisement
@@ -15111,7 +15325,10 @@
       <day>05</day>
       <month>August</month>
       <year>1835</year>
-      <keywords/>
+      <keywords>
+         <item>female emigration</item>
+         <item>emigration</item>
+      </keywords>
       <header>Free Emigration of FemalesThe...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Free Emigration of Females</font>]]></p>
@@ -15144,8 +15361,8 @@
       <month>September</month>
       <year>1835</year>
       <keywords>
-         <item>colonial politics</item>
          <item>navy</item>
+         <item>colonial politics</item>
       </keywords>
       <header>On Thursday evening a...</header>
       <text>
@@ -15167,7 +15384,9 @@
       <day>21</day>
       <month>November</month>
       <year>1835</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>South Australia –The act of...</header>
       <text>
          <p><![CDATA[<i>South Australia.</i>]]>–The act of Parliament for
@@ -15207,7 +15426,9 @@
       <day>12</day>
       <month>March</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –It will be observed,...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration.</font>]]>–It will be observed, from an
@@ -15246,7 +15467,9 @@
       <day>12</day>
       <month>March</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Free Emigration of FemalesTo...</header>
       <text>
          <p>
@@ -15280,7 +15503,9 @@
       <day>26</day>
       <month>March</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The New Australian Colony –The...</header>
       <text>
          <p><![CDATA[<i>The New Australian Colony.</i>]]>–The Cygnet, with
@@ -15302,7 +15527,9 @@
       <day>16</day>
       <month>April</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Australian Colonies –We have seen...</header>
       <text>
          <p>
@@ -15352,7 +15579,18 @@
       <day>09</day>
       <month>April</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>meeitng</item>
+         <item>law</item>
+         <item>suffrage</item>
+         <item>monuments</item>
+         <item>weather</item>
+         <item>theatre</item>
+         <item>religion</item>
+         <item>obituary</item>
+         <item>emigration</item>
+         <item>disease</item>
+      </keywords>
       <header>Sir George Clerk –As the...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Sir George Clerk.</font>]]>–As the cawing of the
@@ -15670,7 +15908,9 @@
       <day>18</day>
       <month>May</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Papers from Madras to...</header>
       <text>
          <p>Papers from Madras to the 17th of January have been received. Accounts
@@ -15698,7 +15938,9 @@
       <day>16</day>
       <month>July</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Every thing is jobbedFemale...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Every thing is jobbed</font>]]><![CDATA[<font style="font-variant: small-caps;">Female Emigration to Australia, &amp;c.</font>]]><![CDATA[<i>(From a Correspondent.)</i>]]></p>
@@ -15765,7 +16007,9 @@
       <day>16</day>
       <month>July</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>EmigrationMr Walter moved, pursuant...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]><![CDATA[<font style="font-variant: small-caps;">Mr Walter</font>]]> moved, pursuant to notice, that "an
@@ -15823,7 +16067,9 @@
       <day>06</day>
       <month>July</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>State of Trade The Wool...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">State of Trade.</font>]]></p>
@@ -15887,7 +16133,9 @@
       <day>10</day>
       <month>August</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –The Emigration committee recently
 ...</header>
       <text>
@@ -15911,7 +16159,9 @@
       <day>10</day>
       <month>August</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –The Emigration Committee recently
 ...</header>
       <text>
@@ -15935,7 +16185,9 @@
       <day>26</day>
       <month>October</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to South Australia–On...</header>
       <text>
          <p><![CDATA[<i>Emigration to South Australia</i>]]>–On Tuesday last,
@@ -15959,7 +16211,9 @@
       <day>07</day>
       <month>December</month>
       <year>1836</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>South AustraliaWe have received...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">South Australia</font>]]></p>
@@ -16016,7 +16270,9 @@
       <day>10</day>
       <month>May</month>
       <year>1837</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>New Holland –The Government intend...</header>
       <text>
          <p><![CDATA[<i>New Holland.</i>]]>–The Government intend to move
@@ -16039,7 +16295,9 @@
       <day>07</day>
       <month>June</month>
       <year>1837</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Religion in Australia –An Act...</header>
       <text>
          <p><![CDATA[<i>Religion in Australia.</i>]]>–An Act of Council has
@@ -16062,7 +16320,9 @@
       <day>01</day>
       <month>July</month>
       <year>1837</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The Mid-Lothian, which lately...</header>
       <text>
          <p>The <![CDATA[<i>Mid-Lothian</i>]]>, which lately came home from
@@ -16083,7 +16343,11 @@
       <day>09</day>
       <month>July</month>
       <year>1837</year>
-      <keywords/>
+      <keywords>
+         <item>shipping news</item>
+         <item>land speculation</item>
+         <item>emigration</item>
+      </keywords>
       <header>Highland Emigrants –The ship "...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Highland Emigrants.</font>]]>–The ship " Midlothian" has just been fitted up at Leith for the reception
@@ -16114,7 +16378,9 @@
       <day>22</day>
       <month>November</month>
       <year>1837</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Thus the British Government...</header>
       <text>
          <p>Thus the British Government is multiplying its colonies round the
@@ -16150,7 +16416,9 @@
       <day>09</day>
       <month>June</month>
       <year>1838</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>EmigrationThe Annual Report on...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration</font>]]></p>
@@ -16286,7 +16554,9 @@
       <day>22</day>
       <month>September</month>
       <year>1838</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to Australia –Several vessels
 ...</header>
       <text>
@@ -16317,14 +16587,14 @@
       <month>September</month>
       <year>1838</year>
       <keywords>
-         <item>emigration</item>
-         <item>rebellion</item>
          <item>religion</item>
+         <item>rebellion</item>
+         <item>emigration</item>
       </keywords>
       <header>The King of Prussia...</header>
       <text>
-         <p><![CDATA[<font style="font-variant: small-caps;">The King of Prussia and his Catholic Subjects.</font>]]>–The <![CDATA[<i>German Courier in an article
-                        dated </i>]]>Berlin, 5th instant, refers to the late arrests in Posen, and accuses
+         <p><![CDATA[<font style="font-variant: small-caps;">The King of Prussia and his Catholic Sub-</font>]]><![CDATA[<font style="font-variant: small-caps;">jects.</font>]]>–The <![CDATA[<i>German
+                        Courier in an article date</i>]]>Berlin, 5th instant, refers to the late arrests in Posen, and accuses
                     the Catholic clergy of stimulating their flocks to revolt. The Prussian
                     Government had, in consequence, increased its exertions to conciliate the
                     Court of Rome, in hopes that its influence would be exercised over the
@@ -16347,7 +16617,9 @@
       <day>24</day>
       <month>November</month>
       <year>1838</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Commission of the General...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Commission of the General Assembly</font>]]></p>
@@ -16453,14 +16725,18 @@
       <id>275</id>
       <authority>Collected from a digital image by M. H.
                             Beals. Transcribed by Max
-                            Templer.</authority>
+                            Templer. Keyword tagged by John
+                            Levin</authority>
       <title>Scotsman</title>
       <pubPlace>Edinburgh, Scotland, United Kingdom</pubPlace>
       <date>1839-04-10</date>
       <day>10</day>
       <month>April</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>transportation</item>
+         <item>religion</item>
+      </keywords>
       <header>The Wesleyan Mission Ship –The...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">The Wesleyan Mission Ship.</font>]]>–The Committee
@@ -16536,7 +16812,9 @@
       <day>05</day>
       <month>June</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Daryanthus Excelsa–This most magnificent
 ...</header>
       <text>
@@ -16572,7 +16850,9 @@
       <day>10</day>
       <month>July</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>The ship St Mungo,...</header>
       <text>
          <p>The ship St Mungo, Captain Robert Smith Orr, sailed from Leith Roads on
@@ -16623,7 +16903,9 @@
       <day>25</day>
       <month>July</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to South Australia,–On...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to South Australia,</font>]]>–On Saturday last, about twenty-five persons, male and female, left
@@ -16646,7 +16928,9 @@
       <day>27</day>
       <month>July</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Meeting on Emigration in...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Meeting on Emigration in Dublin.</font>]]>–One of
@@ -16676,7 +16960,9 @@
       <day>27</day>
       <month>July</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Australia –The splendid ship Superb,
 ...</header>
       <text>
@@ -16702,7 +16988,9 @@
       <day>06</day>
       <month>July</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>A Man Shot –On Tuesday...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">A Man Shot.</font>]]>–On Tuesday evening a deliverate
@@ -16732,7 +17020,9 @@
       <day>28</day>
       <month>August</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>First Scotch Colony for...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">First Scotch Colony for New Zealand</font>]]>– A
@@ -16760,7 +17050,9 @@
       <day>11</day>
       <month>September</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Selected PoetryThe Woodland,By the...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Selected Poetry</font>]]></p>
@@ -16831,7 +17123,12 @@
       <day>28</day>
       <month>September</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>trade</item>
+         <item>shipping news</item>
+         <item>emigration</item>
+         <item>accidents</item>
+      </keywords>
       <header>LeithThursday afternoon the splendid...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Leith</font>]]></p>
@@ -16862,7 +17159,9 @@
       <day>23</day>
       <month>November</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Church in New South...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Church in New South Wales.</font>]]>–Dr Gordon, as
@@ -16887,7 +17186,9 @@
       <day>24</day>
       <month>November</month>
       <year>1839</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Afflicting Case of Destitution –Some
 ...</header>
       <text>
@@ -16927,7 +17228,9 @@
       <day>18</day>
       <month>April</month>
       <year>1840</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>New Zealand –On Wednesday a...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">New Zealand</font>]]>.–On Wednesday a public meeting
@@ -16966,7 +17269,9 @@
       <day>13</day>
       <month>May</month>
       <year>1840</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>New Zealand–Name of the...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">New Zealand–Name of the Capital City.</font>]]>?It will gratify the admirers of the Duke of Wellington to
@@ -16999,7 +17304,9 @@
       <day>29</day>
       <month>July</month>
       <year>1840</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Deputation of Distressed Weavers –The
 ...</header>
       <text>
@@ -17024,7 +17331,9 @@
       <day>12</day>
       <month>August</month>
       <year>1840</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>LiteratureNarrative of a Whaling...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Literature</font>]]></p>
@@ -17043,7 +17352,7 @@
                     work itself, this chief purpose dwindles into one of very secondary
                     prominence. This, the readers of the work, at least most of them, will the
                     more regret, on finding how very curious and interesting
-                    are the two or three chapters which the author has given on the subejct of
+                    are the two or three chapters which the author has given on the subject of
                     South Sea whaling. There are full of entertaining details of both a
                     popular and scientific character, and cannot be read without exciting
                     a wish that larger portion of the work had been composed of such
@@ -17166,7 +17475,9 @@
       <day>15</day>
       <month>August</month>
       <year>1840</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration –There are at present...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration.</font>]]>–There are at present at the
@@ -17189,7 +17500,9 @@
       <day>28</day>
       <month>October</month>
       <year>1840</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>William, The Missionary –The sum...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">William, The Missionary.</font>]]>–The sum already
@@ -17210,7 +17523,9 @@
       <day>05</day>
       <month>December</month>
       <year>1840</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to New Zealand–The...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to New Zealand–</font>]]><![CDATA[<font style="font-variant: small-caps;">The Chartists Again.</font>]]></p>
@@ -17297,7 +17612,9 @@
       <day>20</day>
       <month>March</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>On Monday a discussion...</header>
       <text>
          <p>On Monday a discussion of some interest took place in the House of
@@ -17334,7 +17651,9 @@
       <day>31</day>
       <month>March</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>New South WalesMr Grote...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">New South Wales</font>]]></p>
@@ -17386,7 +17705,9 @@
       <day>14</day>
       <month>April</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration To New South...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration To New South Wales.</font>]]></p>
@@ -17395,7 +17716,7 @@
                     subject of immigration into colony. The object of these resolutions is
                     to encourage emigration from the mother country, by showing the
                     demand for labour in New South Wales, and the advantages offered to
-                    the immigrant. We have only room for a few of the more important resolutions</p>
+                    the immigrant. We have only room for a few of the more important resolutions :</p>
          <p>Resolved. That there exists throughout the colony an urgent and increasing
                     want of working hands, in every branch of industry ; that there is ample
                         employment for emigrants, at highly renumerating wages
@@ -17445,7 +17766,9 @@
       <day>07</day>
       <month>April</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to New Zealand –On...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to New Zealand.</font>]]>–On Friday the
@@ -17477,7 +17800,9 @@
       <day>22</day>
       <month>September</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>New Zealand CompanyA very...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">New Zealand Company</font>]]></p>
@@ -17521,7 +17846,9 @@
       <day>09</day>
       <month>October</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Emigration to South Australia(From...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Emigration to South Australia</font>]]>(<![CDATA[<i>From Tuesday's Gazette</i>]]>)</p>
@@ -17551,7 +17878,12 @@
       <day>17</day>
       <month>November</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>shipping news</item>
+         <item>society</item>
+         <item>settlement description</item>
+         <item>emigration</item>
+      </keywords>
       <header>Wellington, New Zealand, June...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Wellington, New Zealand, June 18.–</font>]]>(<![CDATA[<i>From a private letter.</i>]]>)–"Among the latest
@@ -17598,7 +17930,9 @@
       <day>22</day>
       <month>December</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Tailors –In 1836 the number...</header>
       <text>
          <p><![CDATA[<i>Tailors.</i>]]>–In 1836 the number of tailors and
@@ -17659,7 +17993,9 @@
       <day>29</day>
       <month>December</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Theatre Royal –The Pantomine, we...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Theatre Royal.</font>]]>–The Pantomine, we observe, is postponed till Friday. Meanwhile, the theatre is
@@ -18093,7 +18429,9 @@
       <day>29</day>
       <month>December</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Another New Field for...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">Another New Field for Emi</font>]]><![CDATA[<font style="font-variant: small-caps;">gration</font>]]></p>
@@ -18173,7 +18511,9 @@
       <day>17</day>
       <month>February</month>
       <year>1841</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>New Zealand (From the Morning...</header>
       <text>
          <p><![CDATA[<font style="font-variant: small-caps;">New Zealand.</font>]]></p>
@@ -18243,8 +18583,8 @@
       <month>March</month>
       <year>1842</year>
       <keywords>
-         <item>colonial politics</item>
          <item>obituary</item>
+         <item>colonial politics</item>
       </keywords>
       <header>Monument to the late...</header>
       <text>
@@ -18265,7 +18605,9 @@
       <day>18</day>
       <month>May</month>
       <year>1842</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>There is something curious...</header>
       <text>
          <p>There is something curious in the preference which the emigrants from
@@ -18330,7 +18672,9 @@
       <day>05</day>
       <month>February</month>
       <year>1842</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header>Australian Trust
   ...</header>
       <text>
@@ -19832,8 +20176,8 @@
       <keywords>
          <item>war</item>
          <item>Native Americans</item>
-         <item>settlement description</item>
          <item>navy</item>
+         <item>settlement description</item>
       </keywords>
       <header> The brig Virginia...</header>
       <text>
@@ -20785,7 +21129,9 @@
       <day>30</day>
       <month>August</month>
       <year>1793</year>
-      <keywords/>
+      <keywords>
+         <item>undefined</item>
+      </keywords>
       <header> Each day brings...</header>
       <text>
          <p>
@@ -20826,11 +21172,14 @@
       <day>06</day>
       <month>January</month>
       <year>1817</year>
-      <keywords/>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
       <header>ANOTHER DREADFUL MASSACRE BY...</header>
       <text>
          <p>
-            <pb n="2"/><![CDATA[<center>ANOTHER DREADFUL MASSACRE BY THE NATIVE</center>]]><![CDATA[<center>OF THE MARQUESAS ISLANDS.</center>]]><![CDATA[<center>(From the Sydney Gazette, Nov. 8. 1815)</center>]]></p>
+            <pb n="2"/><![CDATA[<center>ANOTHER DREADFUL MASSACRE BY THE NATIVES</center>]]><![CDATA[<center>OF THE MARQUESAS ISLANDS.</center>]]><![CDATA[<center>(From the Sydney Gazette, Nov. 8. 1815)</center>]]></p>
          <p>By the Governor Macquarrie, are arrived Captain Fowler, and part
                     of the crew of the Indian brig Matilda, which sailed from this colony in
                     August 1813, bound on a voyage to the Derwent and Eastern Islands, and
@@ -20943,7 +21292,10 @@
       <day>08</day>
       <month>January</month>
       <year>1817</year>
-      <keywords/>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
       <header>DREADFUL MASSACRE BY THE...</header>
       <text>
          <p>
@@ -20962,7 +21314,7 @@
                     the vessel afloat, they concurred universally in the design of
                     putting the whole of her crew to death; which appears to have been a
                     constant practise among the different natives towards one another, when
-                    their canoes happen too fall upon a strange land, through stress
+                    their canoes happen to fall upon a strange land, through stress
                     of weather, or from any other accident.</p>
          <p>Captain Fowler had formed an intimacy with their Chief, or King, Nooahetu,
                     who presided at the horrible tribunal that had devoted the unfortunate
@@ -20988,7 +21340,7 @@
                     round his own, called to the Chief next in command, who immediately
                     approached him. His conference was short and decisive–he first
                     pointed to the cord that encircled the neck of his son, and then to the
-                    other which he had entwined around his own. "These strangers are doomed to
+                    other which he had entwined round his own. "These strangers are doomed to
                     death," said he, "by my chiefs and my people: and it is not fit that I, who
                     am their King, should live to see so vile a deed perpetrated.–
                     Let my child and myself be strangled before it is performed; and then
@@ -20996,7 +21348,7 @@
          <p>The magnanimity of such a conduct could not do less than produce, even in
                     the mind of the unenlightened savage, a paroxysm of surprise, mingled with
                     a sentiment of admiration, in which the untaught man may possibly excel his
-                    fellow creature, whose conceptions are moulded by tenets
+                    fellow-creature, whose conceptions are moulded by tenets
                     calculated to guard him from the extremes of passion. For a moment the
                     people looked wildly upon their King, whose person they adored, because
                     that his principles were good, and his government just and mild. They
@@ -21036,7 +21388,10 @@
       <day>08</day>
       <month>November</month>
       <year>1815</year>
-      <keywords/>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
       <header> By the Governor...</header>
       <text>
          <p>
@@ -21154,14 +21509,19 @@
       <day>03</day>
       <month>January</month>
       <year>1817</year>
-      <keywords/>
-      <header>NOTHER DREADFUL MASSACRE BY...</header>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
+      <header>ANOTHER DREADFUL
+  ...</header>
       <text>
          <p>
-            <pb n="4"/><![CDATA[<center>NOTHER DREADFUL MASSACRE BY THE NATIVES OF</center>]]><![CDATA[<center>THE MARQUESAS ISLANDS.</center>]]><![CDATA[<center>(From the Sydney Gazette, Nov. 8,
+            <pb n="4"/><![CDATA[<center>ANOTHER DREADFUL
+                        MASSACRE BY THE NATIVES OF</center>]]><![CDATA[<center>THE MARQUESAS ISLANDS.</center>]]><![CDATA[<center>(From the Sydney Gazette, Nov. 8,
                         1815.)</center>]]></p>
          <p>By the Governor Macquarrie are arrived Captain Fowler, and part of the crew
-                    of the India brig Matilda, which sailed from this colony in
+                    of the Indian brig Matilda, which sailed from this colony in
                     August, 1813, bound on a voyage to the Derwent and Eastern Islands,
                     and from thence to China; but was cut off and plundered on
                     the night of the 10th of April last, while lying at anchor in Duff's Bay,
@@ -21223,7 +21583,7 @@
                     is dry at low water. All her iron and copper have been taken out by the
                     natives, who have a thorough knowledge of the use of these materials. That they are cannibals is well ascertained. They form distinct
                     factions, and make war upon the ruling Chief; the rebels are denominated
-                    the Typees; and the opposing parties are horribly sanguinary towards
+                    the Typees; and the opposite parties are horribly sanguinary towards
                     each. Six of the adverse party were killed, and devoured by
                     the rebels while Captain Fowler was among them, and the following
                     detestable circumstance occurred on the occasion:–A
@@ -21272,7 +21632,10 @@
       <day>02</day>
       <month>January</month>
       <year>1817</year>
-      <keywords/>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
       <header>ANOTHER DREADFUL MASSACRE BY...</header>
       <text>
          <p>
@@ -21389,17 +21752,20 @@
       <day>01</day>
       <month>January</month>
       <year>1817</year>
-      <keywords/>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
       <header>ANOTHER DREADFUL MASSACRE BY...</header>
       <text>
          <p>
             <pb n="1"/><![CDATA[<center>ANOTHER DREADFUL MASSACRE BY THE NATIVES OF</center>]]><![CDATA[<center>THE MARQUESAS ISLANDS.</center>]]><![CDATA[<center>[From the Sydney Gazette, November 8, 1815]</center>]]></p>
-         <p>By the Governor Macquarie are arrived Captain <![CDATA[<font style="font-variant: small-caps;">Fowler</font>]]>, and part of the crew of the India brig Matilda, which sailed
+         <p>By the Governor Macquarrie are arrived Captain <![CDATA[<font style="font-variant: small-caps;">Fowler</font>]]>, and part of the crew of the India brig Matilda, which sailed
                     from this colony in August, 1813, bound on a voyage to the Derwent and
                     Eastern Islands, and from thence to China; but was cut off and
                     plundered on the night of the 10th of April last, while lying at anchor in
                     Duff's Bay, at the Island of Rooapoah, one of the Marquesas, on a
-                    sandal wood voyage. Five of the crew (Poomootoo men) had previously
+                    sandal-wood voyage. Five of the crew (Poomootoo men) had previously
                     deserted, and joining with some of the Rooapoah natives, took the
                     opportunity of a dark night, and the wind blowing fresh right on the
                     land, to cut the vessel adrift; by which means she drove ashore
@@ -21421,15 +21787,16 @@
                     island, from which the exhibition of clemency appeared an insufferable
                         deviation. He was seated, with his son by his side, on
                     a mat in his own dwelling; he had been called to the supremacy of the
-                    island by the general wish of the people, as it was not a hereditary right,
-                    but an elective dignity. His people pressed their solicitations
-                    earnestly, and at length peremptorily demanded his assent to the
-                    sacrifice; which he for a length of time opposed by the force of words;
-                    which not seeming likely to prevail, he adopted a method which silenced
-                    the whole in an instant, and saved the lives of Captain <![CDATA[<font style="font-variant: small-caps;">Fowler</font>]]> and his crew. Finding that all his expostulations were defeated upon the principle of undeviating custom, he deliberately took up two ropes that
+                    island by the general wish of the people, as it was not an hereditary
+                    right, but an elective dignity. His people pressed their
+                    solicitations earnestly, and at length peremptorily demanded his
+                    assent to the sacrifice; which he for a length of time opposed by the
+                    force of words; which not seeming likely to prevail, he adopted a method
+                    which silenced the whole in an instant, and saved the lives of Captain <![CDATA[<font style="font-variant: small-caps;">Fowler</font>]]> and his crew. Finding that
+                    all his expostulations were defeated upon the principle of undeviating custom, he deliberately took up two ropes that
                     were near him, and fixing one round the neck of his son, and the other
                     round his own, called to the Chief next in command, who immediately approached him. His conference was short and decisive; he first pointed to the cord that encircled the neck of his son,
-                    and then to the other, which he had entwined around his own. "These
+                    and then to the other, which he had entwined round his own. "These
                     strangers are doomed to death," said he, "by my chiefs and my people,
                     and it is not fit that I, who am their King, should live to see so vile a
                     deed perpetrated. Let my child and myself be strangled before it is
@@ -21439,7 +21806,7 @@
          <p>The magnanimity of such a conduct could not do less than produce, even in
                     the mind of the unenlightened savage, a paroxysm of surprise,
                     mingled with a sentiment of admiration in which the untaught man may
-                    possibly excel his fellow creature–whose conceptions are moulded by
+                    possibly excel his fellow-creature–whose conceptions are moulded by
                     tenets calculated to guard him from the extremes of passion. For a moment the people looked wildly upon their King, whose person
                     they adored, because that his principles were good, and his
                     government just and mild. They saw the obedient Chief, to whom the order of
@@ -21457,7 +21824,7 @@
                         natives, who have a thorough knowledge of the use of
                     these materials. That they are cannibals is well ascertained. They form distinct factions, and make war upon the ruling
                     Chief–the rebels are denominated the Typees; and the
-                    opposing parties are horribly sanguinary towards each. Six of
+                    opposite parties are horribly sanguinary towards each. Six of
                     the adverse party were killed, and devoured by the rebels while
                     Captain <![CDATA[<font style="font-variant: small-caps;">Fowler</font>]]> was among them, and the following
                     detestable circumstance occurred on the occasion:– A native man
@@ -21506,14 +21873,17 @@
       <day>02</day>
       <month>January</month>
       <year>1817</year>
-      <keywords/>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
       <header>ANOTHER DREADFUL MASSACRE BY...</header>
       <text>
          <p>
             <pb n="3"/><![CDATA[<center>ANOTHER DREADFUL MASSACRE BY THE NATIVES</center>]]><![CDATA[<center>OF THE MARQUESAS ISLANDS.</center>]]><![CDATA[<center>(From the Sydney Gazette, Nov. 8,
                         1815)</center>]]></p>
          <p>By the <![CDATA[<i>Governor Macquarrie</i>]]> are arrived Captain
-                    Fowler, and part of the crew of the India brig <![CDATA[<i>Matilda</i>]]>, which sailed from this colony in August, 1813, bound on
+                    Fowler, and part of the crew of the Indian brig <![CDATA[<i>Matilda</i>]]>, which sailed from this colony in August, 1813, bound on
                     a voyage to the Derwent and Eastern Islands, and from thence to China; but
                     was cut off and plundered on the night of the 10th of April last, while
                     lying at anchor in Duff's Bay, at the Island of Rooapoah, one of the
@@ -21560,7 +21930,7 @@
          <p>The magnanimity of such a conduct could not do less than produce, even in
                     the mind of the unenlightened savage, a paroxysm of surprise,
                     mingled with a sentiment of admiration in which the untaught man may
-                    possibly excel his fellow-creature –whose conceptions are moulded by tenets calculated to guard him from the extremes of
+                    possibly excel his fellow-creature, whose conceptions are moulded by tenets calculated to guard him from the extremes of
                     passion. For a moment the people looked wildly upon their King, whose
                     person they adored, because that his principles were good, and his
                     government just and mild. They saw the obedient Chief, to whom the order
@@ -21577,7 +21947,7 @@
                     remains, and is dry at low water. All her iron and copper have been taken
                     out by the natives, who have a thorough knowledge of the use of these
                     materials. That they are cannibals is well ascertained. They form distinct factions, and make war upon the ruling Chief; the
-                    rebels are denominated the Typees; and the opposing parties
+                    rebels are denominated the Typees; and the opposite parties
                     are horribly sanguinary towards each. Six of the adverse party
                     were killed, and devoured by the rebels while Captain Fowler was among
                     them, and the following detestable circumstance occurred on the
@@ -21627,14 +21997,17 @@
       <day>02</day>
       <month>January</month>
       <year>1817</year>
-      <keywords/>
+      <keywords>
+         <item>cannibalism</item>
+         <item>Pacific Islanders</item>
+      </keywords>
       <header>British Vessel plundered by...</header>
       <text>
          <p>
             <pb n="2"/><![CDATA[<center>British Vessel plundered by the Natives of
                             the Marquesas Islands.[From the Sydney Gazette, Nov. 8, 1815.]</center>]]></p>
          <p>By the Governor Macquarrie are arrived Captain Fowler, and part
-                    of the crew of the India brig Matilda, which sailed from this colony in
+                    of the crew of the Indian brig Matilda, which sailed from this colony in
                     August 1813, bound on a voyage to the Derwent and Eastern Islands, and from
                     thence to China; but was cut off and plundered on the night of the 10th of
                     April last, while lying at anchor in Duff's Bay, at the Island of Rooapoah,
@@ -21700,7 +22073,7 @@
                     is dry at low water. All her iron and copper have been taken out by the
                     natives, who have a thorough knowledge of the use of these materials. That they are cannibals is well ascertained. They form distinct
                     factions, and make war upon the ruling Chief; the rebels are
-                    denominated the Typees; and the opposing parties are horribly sanguinary
+                    denominated the Typees; and the opposite parties are horribly sanguinary
                     towards each other. Six of the adverse party were killed, and devoured by the rebels while Capt. Fowler was among them, and the
                     following detestable circumstance occurred on the occasion:–A native
                     man belonging to Port Anna Maria, who was not tattooed, and in consequence

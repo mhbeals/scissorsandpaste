@@ -50,6 +50,14 @@
                     <preparedness type="revised"/>
                     <purpose type="entertain"/>
                 </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>cannibalism</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -62,7 +70,7 @@
                         <lb/>[<hi rend="italic">From the Sydney Gazette, Nov</hi>. 8, 1815.]</hi>
                 </p>
                 <p>By the Governor Macquarrie are arrived Captain Fow<lb break="no"/>ler, and part
-                    of the crew of the India brig Matilda, <lb/>which sailed from this colony in
+                    of the crew of the Indian brig Matilda, <lb/>which sailed from this colony in
                     August 1813, bound <lb/>on a voyage to the Derwent and Eastern Islands, and from
                     thence to China; but was cut off and plundered <lb/>on the night of the 10th of
                     April last, while lying at <lb/>anchor in Duff's Bay, at the Island of Rooapoah,
@@ -129,7 +137,7 @@
                     is dry at low water. All <lb/>her iron and copper have been taken out by the
                     natives, <lb/>who have a thorough knowledge of the use of these ma<lb break="no"/>terials. That they are cannibals is well ascertained. <lb/>They form distinct
                     factions, and make war upon the rul<lb break="no"/>ing Chief; the rebels are
-                    denominated the Typees; and <lb/>the opposing parties are horribly sanguinary
+                    denominated the Typees; and <lb/>the opposite parties are horribly sanguinary
                     towards each <lb/>other. Six of the adverse party were killed, and devour<lb break="no"/>ed by the rebels while Capt. Fowler was among them, <lb/>and the
                     following detestable circumstance occurred on <lb/>the occasion:–A native
                     man belonging to Port Anna <lb/>Maria, who was not tattooed, and in consequence
