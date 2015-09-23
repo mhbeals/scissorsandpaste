@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>378</title>
+              </titleStmt>
+              <publicationStmt>
+                  <authority>Collected from a digital image on <date when="2013-08-06">
+                  </date> by <persName role="collection">M. H. Beals</persName>.
+                      Transcribed on <date when="2015-09-23"/> by
+                      <persName role="transcription">M. H. Beals</persName>.</authority>
+                  <availability>
+                      <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                  </availability>
+              </publicationStmt>
+              <sourceDesc>
+                  <biblFull>
+                      <titleStmt>
+                          <title>Glasgow Advertiser</title>
+                      </titleStmt>
+                      <publicationStmt>
+                          <authority>Text within the public domain. Digitised image available from the <ref target="https://news.google.com/newspapers?id=wkpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6606%2C7943380">Google News Archive</ref>
+                  </authority>
+                          <pubPlace>
+                              <address>
+                                  <settlement>Glasgow</settlement>
+                                  <region>Scotland</region>
+                                  <country>United Kingdom</country>
+                              </address>
+                          </pubPlace>
+                          <date when="1794-11-17"/>
+                      </publicationStmt>
+                  </biblFull>
+              </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              <textDesc>
+                  <channel mode="w"/>
+                  <constitution type="composite"/>
+                  <derivation type="plagiarism"/>
+                  <domain type="public"/>
+                  <factuality type="mixed"/>
+                  <interaction type="none" active="corporate" passive="world"/>
+                  <preparedness type="revised"/>
+                  <purpose type="inform"/>
+              </textDesc>
+              <textClass>
+                  <keywords>
+                      <list>
+                          <item>Anglo-American relations</item>
+                          <item>Native Americans</item>
+                          <item>war</item>
+                      </list>
+                  </keywords>
+              </textClass>
+          </profileDesc>
+      </teiHeader>
+      <text>
+            <body>
+              <head>AMERICA.</head>
+                  <p>
+                    <pb n="1"/>
+                American papers are received, dated October, 4.<lb/>
+                1794. They contain two letters from General <lb/>
+                Wayne to the American Secretary at War, giving <lb/>
+                an account of a severe action he had with the Indi<lb break="no"/>
+                ans, who were assisted by the volunteers and militia <lb/>
+                of Detroit on the 20th August, on the banks of <lb/>
+                the Miamis, in the vicinity of the British post and <lb/>
+                garrison at the foot of the Rapids.ߝThe action <lb/>
+                was bloody, and he says, "our army was left in <lb/>
+                full and quiet possession of the field of battle, which <lb/>
+                terminated under the influence of the guns of the <lb/>
+                British garrison, as you will observe by the inclosed <lb/>
+                <cb/>
+                correspondence which passed between Major Camp<lb break="no"/>
+                bell Commandant and myself upon the occasion." <lb/>
+                He addsߝ"We remained three days and nights <lb/>
+                on the banks of the Miamis, in front of the field <lb/>
+                of battle; during which time all the houses and  <lb/>
+                corn fields were consumed and destroyed for a con<lb break="no"/>
+                siderable distance both above and below Fork Mia<lb break="no"/>
+                mis, as well as within pistol shot of that garrison, <lb/>
+                who were compelled to remain tacit spectators to <lb/>
+                this general devastation and conflagration, among <lb/>
+                which were the stores and houses of Colonel Mac<lb break="no"/>
+                kee, the British Indian agrent and principal stimu<lb break="no"/>
+                lator of the war now exiting between the United <lb/>
+                States and the Savages.
+                </p>
+                <p>
+                  The American paper from which this account <lb/>
+                  is taken, does not give the correspondence above <lb/>
+                  alluded to, but concludes the article thus: <lb/>
+                </p>
+                <p>"Besides the very important papers which we  <lb/>
+                have been able to offer to our readers this day, the  <lb/>
+                Excutive, we understand, has received copies of a <lb/>
+                correspondence between the British Major Camp<lb break="no"/>
+                bell, and General Wayne. The Major begins it <lb/>
+                by inquiring of the General by what authority he <lb/>
+                came there. The General answers by requiring <lb/>
+                to know who gave Campbell authority to establish <lb/>
+                a fort at that place, it being within our side of the <lb/>
+                treaty boundary, and no such establishment there <lb/>
+                when that instrument was signed. We hope ere <lb/>
+                long our gallant General will give a good account <lb/>
+                of this Mr. Campbell."
+                </p>
+            </body>
+        </text>
+    </TEI>

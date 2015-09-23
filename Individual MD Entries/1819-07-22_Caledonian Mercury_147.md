@@ -30,7 +30,7 @@ Intended Colony at the Cape of Good HopeThe following letters explains, in det
                     from the time of their embarkation until the time of their
                     landing in the colony.A grant of land, under the conditions hereafter specified, be
                     made to him at the rate of 100 acres for every such person or family whom
-                    he shall so take our ; one-third of the sum advanced to Government on the
+                    he shall so take out ; one-third of the sum advanced to Government on the
                     outset shall be repaid on landing, when the victualling at the expenceof Government shall cease. A further proportion of one third
                     shall be repaid, as soon as it shall be certified to the Governor of the
                     colony that the settlers under the direction of the person
@@ -41,11 +41,11 @@ Intended Colony at the Cape of Good HopeThe following letters explains, in det
                     description above mentioned, and shall advance money in the
                     proportion above-mentioned, the Government will grant land to such an
                     individual at the rate of 100 acres for every head of a family,
-                    leaving the parish at liverty to make such conditions with the individual,
+                    leaving the parish at liberty to make such conditions with the individual,
                     or the settlers, as may be calculated to prevent the parish becoming again
                     chargeable with the maintenance of such settlers, in the event of their
                     return to this country.But no offers of this kind will be accepted, unless it shall be clear that
-                    the persons proposin to become settlers shall have distinctly given their
+                    the persons proposing to become settlers shall have distinctly given their
                     consent, and the head of each family is not infirm or incapable of
                     work.It is further proposed, that in any case in which one hundred families
                     proceed together, and apply for leave to carry out with them a minister of
@@ -60,7 +60,7 @@ Intended Colony at the Cape of Good HopeThe following letters explains, in det
                     obtain, without fee, his title thereto, on a perpetual quit rent, not
                     exceeding in any case L. 2 sterling for every 100 acres ; subject, however
                     to this clause beyond the usual reservations"–that the land shall
-                    become foreited to Government, in case the party shall abandon the
+                    become forefited to Government, in case the party shall abandon the
                     estate, or not bring it into cultivation within a given number of years. I
                     am Your most obedient humble servant. * The usual reservations are the
                     right of the Crown to mines of precious stones, of gold and silver, and to

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -11,8 +9,9 @@
                 <publicationStmt>
                     <authority>Collected from a digital image by <persName role="collection">M. H.
                             Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
+                            Templer</persName>. Keyword tagged by <persName role="metadata">Bill Peschel</persName>.</authority>
+                
+                <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0
                             International License</licence>
                     </availability>
@@ -50,7 +49,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item>emigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -100,7 +99,7 @@
                     landing in the colony.</p>
                 <p>A grant of land, under the conditions hereafter speci<lb break="no"/>fied, be
                     made to him at the rate of 100 acres for every <lb/>such person or family whom
-                    he shall so take our ; one-third <lb/>of the sum advanced to Government on the
+                    he shall so take out ; one-third <lb/>of the sum advanced to Government on the
                     outset shall <lb/>be repaid on landing, when the victualling at the expence</p>
                 <p>
             <pb/>of Government shall cease. A further proportion of one<lb break="no"/> third
@@ -114,12 +113,12 @@
                     description above<lb break="no"/> mentioned, and shall advance money in the
                     proportion <lb/>above-mentioned, the Government will grant land to such <lb/>an
                     individual at the rate of 100 acres for every head of a fa<lb break="no"/>mily,
-                    leaving the parish at liverty to make such conditions <lb/>with the individual,
+                    leaving the parish at liberty to make such conditions <lb/>with the individual,
                     or the settlers, as may be calculated <lb/>to prevent the parish becoming again
                     chargeable with the <lb/>maintenance of such settlers, in the event of their
                     return <lb/>to this country.</p>
                 <p>But no offers of this kind will be accepted, unless it <lb/>shall be clear that
-                    the persons proposin to become settlers <lb/>shall have distinctly given their
+                    the persons proposing to become settlers <lb/>shall have distinctly given their
                     consent, and the head of <lb/>each family is not infirm or incapable of
                     work.</p>
                 <p>It is further proposed, that in any case in which one <lb/>hundred families
@@ -136,7 +135,7 @@
                     obtain, without fee, his title thereto, <lb/>on a perpetual quit rent, not
                     exceeding in any case L. 2 <lb/>sterling for every 100 acres ; subject, however
                     to this <lb/>clause beyond the usual reservations"–that the land shall
-                    <lb/>become foreited to Government, in case the party shall <lb/>abandon the
+                    <lb/>become forefited to Government, in case the party shall <lb/>abandon the
                     estate, or not bring it into cultivation within <lb/>a given number of years. I
                     am <lb/>Your most obedient humble servant. <lb/>* The usual reservations are the
                     right of the Crown to mines <lb/>of precious stones, of gold and silver, and to

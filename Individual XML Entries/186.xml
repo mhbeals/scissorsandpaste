@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -50,7 +48,12 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item>agriculture</item>
+                            <item>colonial economy</item>
+                            <item>colonial government</item>
+                            <item>land speculation</item>
+                            <item>prices</item>
+                            <item>taxation</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -62,7 +65,7 @@
             <pb/>
             <hi rend="smallcaps">Emigration</hi>.</p>
                 <p>The following is an extract of a letter dated <lb/>Louisville, August 12th, 1820,
-                    from a Scotchman <lb/>who has been ong settled in America, to his friend, <lb/>a
+                    from a Scotchman <lb/>who has been long settled in America, to his friend, <lb/>a
                     Scotch Farmer, who rents 500 acres of land in the <lb/>County of Middlesex.</p>
                 <p>"The circumstances in which this country is <lb/>placed at present are truly
                     melancholy, when com<lb break="no"/>pared to what they have been ; yet still it

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -50,7 +48,17 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item>crime</item>
+                            <item>agriculture</item>
+                            <item>bequests</item>
+                            <item>fire</item>
+                            <item>religion</item>
+                            <item>settlement description</item>
+                            <item>society</item>
+                            <item>theatre</item>
+                            <item>trade</item>
+                            <item>weather</item>
+                            <item>monuments</item>
                         </list>
                     </keywords>
                 </textClass>

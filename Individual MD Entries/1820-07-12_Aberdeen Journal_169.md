@@ -18,7 +18,7 @@ Maritime IntelligenceThe Jane, Drummond, of Liverpool arrived at Savannah, was
                     armaments against Ali Pacha are upon the most formidable scale, and are
                     actively pursued.– The latter has obtained hostages of his principal
                         officers, as pledges of their fidelity. On the 14th, two
-                    new hips of the line were launched in the presence of the Sultan and
+                    new ships of the line were launched in the presence of the Sultan and
                     his Grand Dignitaries, at the hour fixed by the chief astrologers. The
                     navigation between Bagdad[?] and Bassurah has been free since the defeat of
                     the Arabs by the English. The latter, it is stated, have facilitated
