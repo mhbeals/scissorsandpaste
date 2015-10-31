@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -64,7 +62,7 @@
                     <pb n="2"/>
                     <hi rend="smallcaps">Court of Chancery.</hi>
                     <lb/>
-                    <hi rend="center">
+            <hi rend="center">
                <hi rend="italic">The</hi>
                <hi rend="smallcaps">King</hi>, <hi rend="italic">at the relation of the</hi>
                <hi rend="smallcaps">Bishop</hi>

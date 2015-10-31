@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -70,8 +68,7 @@
                     the people of Canada, during the late war. His <lb/>excellency the Governor had
                     intimated, that no objec<lb break="no"/>tion would be made to the repeal of the
                     grant of 2,500l <lb/>on account of the Civil List for the Colony, provided
-                    <lb/>the salaray of the Chief retired Justice, the Receiver<lb break="no"/>
-                    General, and that of the Speaker of the House of As<lb break="no"/>sembly,
+                    <lb/>the salaray of the Chief retired Justice, the Receiver<lb break="no"/>General, and that of the Speaker of the House of As<lb break="no"/>sembly,
                     should be continued, in the whole amounting <lb/>to 1,800l. The grant has for
                     some time been a pro<lb break="no"/>minent subject of complaint in the Colonial
                         Parlia<lb break="no"/>ment.</p>
@@ -91,7 +88,7 @@
                     young man. The gallant Gen. <lb/>Lionel Smith has been selected for this
                     important ser<lb break="no"/>vice ; and we have no doubt but that he will
                     convince <lb/>the Arabs of the impolicy of their treacherous proceed<lb break="no"/>ings, and justify the high confidence which the Go<lb break="no"/>
-                    <lb/>vernment of Bombay have in his talents and valour.– <lb/>His
+            <lb/>vernment of Bombay have in his talents and valour.– <lb/>His
                     Excellency Mr. Elphinstone, completely recover<lb break="no"/>ed, is gone on a
                     tour to Kutch, to settle all disputes, <lb/>and to ascertain the true situation
                     of the country.– <lb/>How important it is for the Heads of the

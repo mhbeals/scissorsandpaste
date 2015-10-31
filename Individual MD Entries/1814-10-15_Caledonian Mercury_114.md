@@ -28,7 +28,7 @@ Private CorrespondenceQuebec, Sept. 10. The Americans, to the number of 900 me
                     and we were obliged to abandon our conquest, and retreat to our original
                     position, with great loss of both officers and men.The large ship-building by the British at Kingston, on Lake Ontario is to be
                     launched the second week in September– also will carry about 100
-                    guns.The battalion of royal marines, commanded by Lieutenant Colonel
+                    guns.The battalion of royal marines, commanded by LieutenantColonel
                     Williams, and which has been stationed lately at Isle au Noix, and parts
                     adjacent, have been broken up and distributed among the fleets
                     on the Lakes. The Staff of the battalion proceed immediately to

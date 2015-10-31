@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -126,7 +124,7 @@
                         <hi rend="italic">Extract of a letter from a gentleman, in the county</hi>
                     </hi>
                     <lb/>
-                    <hi rend="center">
+            <hi rend="center">
                <hi rend="italic">of Lincoln, Massachusets, dated Sept</hi>.
                         14.</hi>
                 </p>
@@ -140,7 +138,7 @@
                         <hi rend="italic">Extract of a letter from Banbury (Georgia)</hi>
                     </hi>
                     <lb/>
-                    <hi rend="center">
+            <hi rend="center">
                <hi rend="italic">Sept</hi>. 20</hi>
                 </p>
                 <p>"A firm peace being now, to all appearance, <lb/>secured between the United

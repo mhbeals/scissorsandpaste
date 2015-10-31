@@ -41,10 +41,10 @@ Colonial Intelligence. Halifax, March 13.A very numerous and respectable meeti
                         advising them to abandon their trust, alleging that the
                     North West Company were ruined, and to carry the furs to Hudson's Bay
                     ; taking possession of Fort Lake La Pluie, and the property there, and
-                    stopping the navigation, &c, &c.Upon this being returned a true bill the Attorney General moved
+                    stopping the navigation, &c, &c.Upon this being returned a true bill the AttorneyGeneral moved
                     the process of the Court against the parties ; and Dr Allen being present,
                     was to be arraigned the following day.Wm Smith v. The Earl of SelkirkThis was a civil action brough by Mr Wm Smith against Lord Selkirk for false
-                    imprisonment.It appeared in evidence that the plaintiff was under sheriff of
+                    imprisonment.It appeared in evidence that the plaintiff was undersheriff of
                     the Western District, and as such, the bearer of a writ of
                     restitution founded upon a verdict of a special jury at Sandwich, in
                     October 1816, and granted by the Magistrate, ordering the

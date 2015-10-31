@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -83,7 +81,7 @@
                     that General Bolivar, who had been joined by one <lb/>of Murillo's Generals,
                     with a number of troops, was <lb/>making rapid advances towards Santa Fe with
                     upwards <lb/>of 5000 men ; and it was expected the next courier <lb/>would
-                    announce[?] the fall of that place. An Aide-de<lb break="no"/> Camp of the
+                    announce[?] the fall of that place. An Aide-de<lb break="no"/>Camp of the
                     Governor of that place arrived at Car<lb break="no"/>thagena at midnight with
                     the above information. A<lb break="no"/>nother account states, that the
                     Venezuelian army, un<lb break="no"/>der General Bolivar in person, had obtained

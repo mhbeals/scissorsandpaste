@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -277,7 +275,7 @@
                 <p>
                     <hi rend="smallcaps">Form of Process in the Justiciary</hi>
                     <lb/>
-                    <hi rend="smallcaps">Court.</hi>
+            <hi rend="smallcaps">Court.</hi>
                 </p>
                 <p>Our readers will learn with pleasure, that the Lord Advocate, <lb/>with a
                     laudable anxiety for the honour of our criminal jurispru<lb break="no"/>dence,

@@ -14,7 +14,7 @@ Colonial IntelligenceLetters and papers have been received from Jamaica to the
                     that General Bolivar, who had been joined by one of Murillo's Generals,
                     with a number of troops, was making rapid advances towards Santa Fe with
                     upwards of 5000 men ; and it was expected the next courier would
-                    announce[?] the fall of that place. An Aide-de Camp of the
+                    announce[?] the fall of that place. An Aide-deCamp of the
                     Governor of that place arrived at Carthagena at midnight with
                     the above information. Another account states, that the
                     Venezuelian army, under General Bolivar in person, had obtained

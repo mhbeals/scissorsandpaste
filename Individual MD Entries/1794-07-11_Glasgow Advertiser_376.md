@@ -12,8 +12,7 @@
                     Hammond, the information alluded to we find to be, "That
                     Governor Simcoe had gone to the foot of the Rapids of teh Miami,
                     followed by three companies of a British regiment, in order to build a fort
-                    there"ߝWhich Mr. Hammond, in his answer, rather qualifies than 
-                    denies. In the debate in Congress, on taking off the embargo, several
+                    there"ߝWhich Mr. Hammond, in his answer, rather qualifies than denies. In the debate in Congress, on taking off the embargo, several
                     members said they had voted for the embargo, merely as a part of a general
                     plan of retaliation upon Great Britain; but that as the more
                     effential parts of that plan, particularly the prohibiting

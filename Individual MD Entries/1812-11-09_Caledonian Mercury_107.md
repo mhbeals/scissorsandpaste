@@ -15,7 +15,7 @@ War in CanadaExtract of a letter from Montreal Sept. 25"Our Friend Mr – ar
                     has established a cordon, the left of which is at Chambly, and extending to
                     Chateaguny ; the main encampment is half way between St
                     John's and La Prairie. Colonel Murray is at St John's with a battalion ;
-                    and the Isle-au Noix is strongly fortified, with a boom and a
+                    and the Isle-auNoix is strongly fortified, with a boom and a
                     chain secured across the river. This line of defence is composed of
                     four regiments of the line, and 2000 drafted militia, with a corps of about
                     400 Canadian voltigeurs, raised last spring. The Royals, a very strong

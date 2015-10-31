@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -247,8 +245,7 @@
                     importance, or to <lb/>the general sentiment and wish of the nation. </p>
                 <p> Provision is likewise requisite for the reimburse<lb break="no"/>ment of the
                     loan which has been made for the <lb/>Bank of the United States, pursuant to the
-                        sec<lb break="no"/>tion of the act by which it is incorporated. In <lb/>
-                    fulfilling the public stipulations, in this particular, <lb/>it is expected a
+                        sec<lb break="no"/>tion of the act by which it is incorporated. In <lb/>fulfilling the public stipulations, in this particular, <lb/>it is expected a
                     valuable saving will be made. </p>
                 <p> Appropriations for the current service of the en<lb break="no"/>suing year, and
                     for such extraordinaries as may <lb/>require provision, will demand, and I doubt

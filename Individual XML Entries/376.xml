@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -88,8 +86,7 @@
                     Hammond, the informa<lb break="no"/>tion alluded to we find to be, "That
                     Governor <lb/>Simcoe had gone to the foot of the Rapids of teh <lb/>Miami,
                     followed by three companies of a British <lb/>regiment, in order to build a fort
-                    there"ߝWhich <lb/>Mr. Hammond, in his answer, rather qualifies than <lb/>
-                    denies.</p>
+                    there"ߝWhich <lb/>Mr. Hammond, in his answer, rather qualifies than <lb/>denies.</p>
                 <p> In the debate in Congress, on taking off the em<lb break="no"/>bargo, several
                     members said they had voted for the <lb/>embargo, merely as a part of a general
                     plan of re<lb break="no"/>taliation upon Great Britain; but that as the more

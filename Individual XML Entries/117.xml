@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -135,7 +133,7 @@
                     the Nepean, who ac<lb break="no"/>companied him during the entire tour. The
                         fol<lb break="no"/>lowing gentlemen composed the Governor's suite: <lb/>Mr
                     Campbell, Secretary ; Captain Antill, Ma<lb break="no"/>jor of Brigade ;
-                    Lieutenant Watts, Aide de<lb break="no"/> camp ; Mr Redfern, Assistant-Surgeon ;
+                    Lieutenant Watts, Aide de<lb break="no"/>camp ; Mr Redfern, Assistant-Surgeon ;
                     Mr <lb/>Oxley, Surveyor-General ; Mr Mehan, Deputy <lb/>Surveyor-General ; Mr
                     Lewin, Painter and Na<lb break="no"/>turalist ; and Mr G. Evans, Deputy Surveyor
                     of <lb/>lands, who had been sent forward for the pur<lb break="no"/>pose of

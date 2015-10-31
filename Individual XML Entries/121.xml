@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -110,7 +108,7 @@
                     and farming in the new countries, <lb/>it is neither more nor less than
                     downright mad<lb break="no"/>ness. It is what our English farmers know no<lb break="no"/>thing at all about ; it is what they are not at all <lb/>fit for
                     ; and the far greater part of all such spe<lb break="no"/>
-                    <lb/>culations end in disappointment, if not in ruin <lb/>and premature death. I
+            <lb/>culations end in disappointment, if not in ruin <lb/>and premature death. I
                     hope that our beloved <lb/>country will shortly be fit for an honest and in<lb break="no"/>dustrious man to live in ; but if any farmers come <lb/>with
                     money in their pockets, my advice is, not <lb/>to give way either to
                     enthusiastic admiration, or <lb/>to instant disgust. But, to stop a little ; to

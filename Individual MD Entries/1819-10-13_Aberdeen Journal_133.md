@@ -80,7 +80,7 @@ Colonial Intelligence*Death of The Duke of Richmond.*By the Henry, arrived i
                     dangerously ill, as was at first reported. They are only in that situation
                     which might be expected, from so severe an affliction.Colonel Wilson had succeeded the late Duke of Richmond as
                     Governor-General of both Canadas, being the senior Officer on that
-                    station.Sir Charles Saxton, and Major M'Leod, Aides-de Camp to his Grace
+                    station.Sir Charles Saxton, and Major M'Leod, Aides-deCamp to his Grace
                     the Duke of Richmond, have gone to Lake Winnipeg, clothed with special
                     powers, to investigate the causes of the unhappy dissentions
                     which are said to have been lately renewed in that quarter between the

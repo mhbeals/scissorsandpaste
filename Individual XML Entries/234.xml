@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -50,7 +48,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item>emigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -131,7 +129,7 @@
                         station<lb break="no"/>ary while capital was increasing, a great improvement
                     <lb/>would be effected in the state of the population. Now <lb/>from what has
                     been stated it appears that the emigrants <lb/>who leave our shores annually
-                    amount to nearly one<lb break="no"/> third of the annual excess already ; and in
+                    amount to nearly one<lb break="no"/>third of the annual excess already ; and in
                     a year or <lb/>two there is every probability that it will amount to
                     <lb/>one-half.</p>
                 <p>Of 51,200 emigrants who landed at Quebec and <lb/>Montreal last year, 17,500 went

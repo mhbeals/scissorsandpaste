@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -63,7 +61,7 @@
             <hi rend="italic">The Machine Breakers.</hi>–A convict ship at
                         Ports<lb break="no"/>mouth is on the point of sailing for Van Diemen's
                     <lb/>Land, with between two and three hundred convicts on <lb/>board, who have
-                    been lately convicted for machine<lb break="no"/> breaking, extorting money, and
+                    been lately convicted for machine<lb break="no"/>breaking, extorting money, and
                     other offences com<lb break="no"/>mitted in the disturbed counties. Another
                     ship, with <lb/>convicts of the same description, will be dispatched for
                     <lb/>New South Wales, in about a fortnight. These con<lb break="no"/>victs have

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -72,7 +70,7 @@
                     had arrived on his return from in<lb break="no"/>specting the new settlements in
                     Upper Canada. His <lb/>body had been brought from Montreal to Quebec, <lb/>where
                     it was lying in state at the time the Henry sail<lb break="no"/>
-                    <lb/>ed. His daughter Lady Mary Lennox, continued in <lb/>the most afflicting
+            <lb/>ed. His daughter Lady Mary Lennox, continued in <lb/>the most afflicting
                     state, and great fears were entertain<lb break="no"/>ed for her recovery.</p>
                 <p>Lady Sarah Lennoc, his Grace's second daughter, <lb/>is married to Major-General
                     Sir Peregrine Maitland. <lb/>They accompanied his grace to North America, and
@@ -163,7 +161,7 @@
                 <p>Colonel Wilson had succeeded the late Duke of Rich<lb break="no"/>mond as
                     Governor-General of both Canadas, being the <lb/>senior Officer on that
                     station.</p>
-                <p>Sir Charles Saxton, and Major M'Leod, Aides-de<lb break="no"/> Camp to his Grace
+                <p>Sir Charles Saxton, and Major M'Leod, Aides-de<lb break="no"/>Camp to his Grace
                     the Duke of Richmond, have gone <lb/>to Lake Winnipeg, clothed with special
                     powers, to in<lb break="no"/>vestigate the causes of the unhappy dissentions
                     which <lb/>are said to have been lately renewed in that quarter <lb/>between the

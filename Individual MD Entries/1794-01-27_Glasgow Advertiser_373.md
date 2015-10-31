@@ -34,9 +34,9 @@ FEDERAL LEGISLATURE.House *of *Representatives. *Dec*.
                     treaty of commerce with France, to be brought into our ports; I have not
                     refused to cause them to be restored, when they were taken within the
                     protection of our territory, or by vessels commissioned, or equipped in
-                    a warlike form within the limits of the United States.It rests with the wisdom of Congress to correct, im prove, or
+                    a warlike form within the limits of the United States.It rests with the wisdom of Congress to correct, improve, or
                     enforce this plan of procedure; and it will probably be found
-                    expedient to extend the legal code, and the jurisdiction of the Courts of
+                    expedient to extend the legal code, andthe jurisdiction of the Courts of
                     the United States to many cases which, though dependent on
                     principles already recognized, demand some further provisions. Where individuals shall, within the United States, array
                     themselves in hostility against any of the powers at war, or enter upon
@@ -168,7 +168,7 @@ FEDERAL LEGISLATURE.House *of *Representatives. *Dec*.
                     papers relative to our European relations, and also the result of the
                     proceedings of the Commissioners appointed to settle the accounts of
                     the United States with the Individual States.The first set of papers is introduced by a message, of which the following
-                    is a copy:United States, *Dec*. 5, 1793 GENTLEMEN OF THE SENATE AND OF THE HOUSE OF
+                    is a copy:United States, *Dec*. 5, 1793GENTLEMEN OF THE SENATE AND OF THE HOUSE OF
                         REPRESENTATIVES,As the present situations of the several nations of Europe, and especially
                     of those with whom the United States have important relations, cannot but
                     render the state of things between them and us; matter of interesting
@@ -192,7 +192,7 @@ FEDERAL LEGISLATURE.House *of *Representatives. *Dec*.
                     agents, have threatened our immediate commitment in the war, or
                     flagrant insult to the authority of the laws, their effect has been
                     counteracted by the ordinary cognizance of the laws, and by an exertions of
-                    the powers confided to me. Where their danger was not imminent, they have
+                    the powers confided to me.Where their danger was not imminent, they have
                     been born with, from sentiments of regard to his nation, from a sense
                     of their friendship towards us, from a conviction that they would not
                     suffer us to remain long exposed to  the action of a person who has so

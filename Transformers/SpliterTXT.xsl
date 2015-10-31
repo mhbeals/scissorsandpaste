@@ -4,6 +4,6 @@
 <xsl:template match="teiCorpus">
     <xsl:for-each select="TEI"><xsl:result-document method="text" href="Individual TXT Entries\{teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/date/@when}_{teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title}_{teiHeader/fileDesc/titleStmt/title}.txt">
 <xsl:for-each select="text/body/p">
-    <xsl:text>&#xd;</xsl:text><xsl:copy-of select="normalize-space(.)" /></xsl:for-each></xsl:result-document></xsl:for-each>
+    <xsl:text>&#xd;</xsl:text><xsl:copy-of select="replace(.,'&#x2013;','--')" /></xsl:for-each></xsl:result-document></xsl:for-each>
 </xsl:template>
 </xsl:stylesheet>

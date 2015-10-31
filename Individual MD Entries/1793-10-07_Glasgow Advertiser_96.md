@@ -5,8 +5,7 @@
                     killed John Jervis, and a negro fellow, belonging to Mrs. Tarker. By
                     the bravery of three young men, viz. William Neely, William
                     Wilson, and William Hall, the station was preserved; they killed two
-                    Indians, wounded several others, and put them to flight. It is to be 
-                    remembered, that Neely and Hall had each lost a father and two brothers,
+                    Indians, wounded several others, and put them to flight. It is to be remembered, that Neely and Hall had each lost a father and two brothers,
                     and Wilson a brother, by the savages. Men are now in pursuit of the Indians.*June* 15.About the 5th instant, a company of seven men were attacked on the trace
                     from Cumberland to Kentucky, near Big Barren, by a party of Indians; three of the company were killed, and two wounded. AUGUSTA, *June* 15.Advices from our western frontiers mention, that Major General Twiggs
                     crossed the Oconnee with about 900 men, on Saturday last, on their way

@@ -27,8 +27,10 @@
                         <xsl:value-of select="concat($words[1], ' ', $words[2], ' ', $words[3], ' ', $words[4])"/>
                     </header>
                    
-                
-             
+                <related><xsl:for-each select="text/bibl">
+                    <xsl:copy-of select="."/>
+                </xsl:for-each></related>
+                <head><xsl:value-of select="text/body/head" /></head>
                 <xsl:copy-of select="text" />
             </TEI>
         </xsl:for-each></root>

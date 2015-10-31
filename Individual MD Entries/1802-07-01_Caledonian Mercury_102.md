@@ -19,7 +19,7 @@ New South WalesThe following particulars respecting this flourishing colony wi
                     with that of Newcastle."Mr Grant entered this river in the Lady Nelson, in order to obtain the
                     survey of it. He penetrated in his boats nearly seventy miles up the
                     same, accompanied by Lieutenant Colonel Paterson, without being able at
-                    that time, to discover its source. A wood resembling sustic had also been found."Mr Grant in his passage from England to Port Jackson, in the Lady Nelson, a
+                    that time, to discover its source. A wood resembling sustichad also been found."Mr Grant in his passage from England to Port Jackson, in the Lady Nelson, a
                     vessel of only 60 tons burthen, with three sliding keels, and built on
                     Captain Schank's construction, was the first that passed through the
                     straits which separate Van Diemens Land from New Holland,

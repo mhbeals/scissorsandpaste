@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -72,7 +70,7 @@
                     <hi rend="italic">Extract of a letter from a Mercantile House in Nova Scotia,
                         to</hi>
                     <lb/>
-                    <hi rend="italic">their Correspondents in this quarter.</hi>
+            <hi rend="italic">their Correspondents in this quarter.</hi>
                 </p>
                 <p>"We sincerely hope that the Duties Government had in con<lb break="no"/>templation (last year) to impose upon Timber imported into <lb/>Great Britain
                     and Ireland, from the British North American <lb/>Provinces, equal to the

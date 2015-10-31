@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -221,7 +219,7 @@
                     sailed for Niagara on the 16th, with 500 of <lb/>the 90th, and a supply of
                     provisions and stores for <lb/>the right division, and arrived off Fort George
                     on the <lb/>evening of the 18th. Having landed this reinforce<lb break="no"/>
-                    <lb/>ment, Sir James returned to Kingston on the 24th.</p>
+            <lb/>ment, Sir James returned to Kingston on the 24th.</p>
                 <p>"The enemy at Fort Erie having been joined by <lb/>General Izard's army, making a
                     force of 7 or 8000 <lb/>men, advanced upon General Drummond, and at<lb break="no"/>tacked our positions upon the Chippawa on the 15th <lb/>instant
                     ; but having met with an opposition unexpect<lb break="no"/>ed by them, and

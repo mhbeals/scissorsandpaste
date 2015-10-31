@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -72,14 +70,14 @@
                     have been somewhat alarmed here <lb/>to-day, though no bad consequences have
                     followed, by a most <lb/>numerous assemblage of croppers, cloth-dressers, and
                     other <lb/>artisans and labourers out of employment. They kep com<lb break="no"/>
-                    <lb/>ing in at an early hour in the forenoon from Wortley, Arm<lb break="no"/>ley, Holbeck, and all the neighbouring towns and villages <lb/>and it is
+            <lb/>ing in at an early hour in the forenoon from Wortley, Arm<lb break="no"/>ley, Holbeck, and all the neighbouring towns and villages <lb/>and it is
                     computed that at one time there were full three <lb/>thousand of these
                     distressed people assembled, chiefly in Brig<lb break="no"/>gate. As many of
                     them marched into the town with great <lb/>sticks in their hands, they created
                     some little alarm, but their <lb/>conduct was uniformly peaceable; their
                     complaints were not <lb/>loud, though they might be deep ! The worthy Mayor and
                     <lb/>Magistrates, with the whole of the Civil Power, were in rea<lb break="no"/>
-                    <lb/>diness to act as circumstances might require; but, fortunately, <lb/>there
+            <lb/>diness to act as circumstances might require; but, fortunately, <lb/>there
                     was not the slightest occasion for their interference. <lb/>By far the greater
                     number of the assemblage dispersed by noon, <lb/>and returned to their
                     respective homes. Several respectable <lb/>gentlemen went among them, to

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -73,7 +71,7 @@
                     burdensome <lb/>to the colonies to which they have proceeded, the Go<lb break="no"/>vernment have determined to confine the application <lb/>of the
                     money recently voted by Address in the House <lb/>of Commons, to those persons
                     who, possessing the <lb/>means, will engage to carry out, at the least, ten
-                        able<lb break="no"/> bodied individuals above 18 years of age, with or
+                        able<lb break="no"/>bodied individuals above 18 years of age, with or
                         with<lb break="no"/>out families, the Government always reserving to it<lb break="no"/>self the right of selecting, from the several offers made
                     <lb/>to them, those which may prove, upon examination, to <lb/>be most
                     eligible.</p>

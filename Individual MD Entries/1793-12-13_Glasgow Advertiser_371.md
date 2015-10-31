@@ -55,8 +55,7 @@
                     road; this guard, in *their tender mercy*, wre pleased
                     to hand us a piece of dry cheese, on the end of a pitch-fork. After
                     this quarantine, we were permitted to go to Gray's Garden, and there to
-                    perform another, for the space of two days and nights." New-York, *Sept*. 28.Extract of a letter from Philadelphia to a gentleman in 
-                        Baltimore, dated the 20th instant. "You request I would endeavour to give you a particular account of the
+                    perform another, for the space of two days and nights." New-York, *Sept*. 28.Extract of a letter from Philadelphia to a gentleman in Baltimore, dated the 20th instant. "You request I would endeavour to give you a particular account of the
                     state of the city in general and the rise and progress of the malignant
                     fever now raging here.  "I believe it will be difficult precisely to determine its origin; but it
                     is generally admitted to have been imported from Cape-Francois, in a vessel

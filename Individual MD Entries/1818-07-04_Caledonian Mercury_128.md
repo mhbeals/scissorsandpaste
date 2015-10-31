@@ -59,7 +59,7 @@ American PapersFrom the Trenton Federalist, June 8"The seizure, trial, and e
                     parties seem to have fought with desperation. The Spaniards say that the
                     Patriots are totally defeated, but acknowledge the loss of many first
                     rate officers. The Commander in Chief of the Royal army engaged
-                    (De La Torre) is severely wounded, and his Aid-de Camp
+                    (De La Torre) is severely wounded, and his Aid-deCamp
                     (Colonel Villars), and about 20 officers killed and wounded. It is said
                     that the pass (Calabosa) is again in the hands of the Royalists. The
                     Royal Commander in Chief (Morillo) has

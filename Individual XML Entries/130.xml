@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -241,7 +239,7 @@
                     must also beg for them ; and thus we go <lb/>on fretting and tormenting
                     ourselves under petty <lb/>incommodities, which in this country would be
                     <lb/>remedied as soon as they were felt. It is incon<lb break="no"/>
-                    <lb/>ceivable how much inconvenience and discom<lb break="no"/>fort and real
+            <lb/>ceivable how much inconvenience and discom<lb break="no"/>fort and real
                     unhappiness may spring from this <lb/>cause. In this country, by long habit and
                         prac<lb break="no"/>rice and continual improvement, every thing has
                     <lb/>fallen into its right place – each individual has a <lb/>separate

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -118,9 +116,9 @@
                     refused to cause them to be <lb/>restored, when they were taken within the
                     protection of <lb/>our territory, or by vessels commissioned, or equipped in
                     <lb/>a warlike form within the limits of the United States.</p>
-                <p>It rests with the wisdom of Congress to correct, im<lb break="no"/> prove, or
+                <p>It rests with the wisdom of Congress to correct, im<lb break="no"/>prove, or
                     enforce this plan of procedure; and it will pro<lb break="no"/>bably be found
-                    expedient to extend the legal code, and<lb/> the jurisdiction of the Courts of
+                    expedient to extend the legal code, and<lb/>the jurisdiction of the Courts of
                     the United States to ma<lb break="no"/>ny cases which, though dependent on
                     principles already <lb/>recognized, demand some further provisions.</p>
                 <p> Where individuals shall, within the United States, ar<lb break="no"/>ray
@@ -291,7 +289,7 @@
                     is a copy:</p>
                 <p>
                     <hi rend="center">
-               <hi rend="smallcaps">United States</hi>, <hi rend="italic">Dec</hi>. 5, 1793<lb/> GENTLEMEN OF THE SENATE AND OF THE <lb/>HOUSE OF
+               <hi rend="smallcaps">United States</hi>, <hi rend="italic">Dec</hi>. 5, 1793<lb/>GENTLEMEN OF THE SENATE AND OF THE <lb/>HOUSE OF
                         REPRESENTATIVES,</hi>
                 </p>
                 <p>As the present situations of the several nations of <lb/>Europe, and especially
@@ -319,7 +317,7 @@
                     agents, have <lb/>threatened our immediate commitment in the war, or
                     <lb/>flagrant insult to the authority of the laws, their effect <lb/>has been
                     counteracted by the ordinary cognizance of the <lb/>laws, and by an exertions of
-                    the powers confided to me.<lb/> Where their danger was not imminent, they have
+                    the powers confided to me.<lb/>Where their danger was not imminent, they have
                     been <lb/>born with, from sentiments of regard to his nation, from <lb/>a sense
                     of their friendship towards us, from a conviction <lb/>that they would not
                     suffer us to remain long exposed to <cb/> the action of a person who has so

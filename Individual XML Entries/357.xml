@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -67,9 +65,9 @@
                     <hi rend="center">ANOTHER DREADFUL MASSACRE BY THE NATIVE<supplied reason="copy missing">S</supplied>
             </hi>
                     <lb/>
-                    <hi rend="center">OF THE MARQUESAS ISLANDS.</hi>
+            <hi rend="center">OF THE MARQUESAS ISLANDS.</hi>
                     <lb/>
-                    <hi rend="center">(From the Sydney Gazette, Nov. 8. 1815)</hi>
+            <hi rend="center">(From the Sydney Gazette, Nov. 8. 1815)</hi>
                 </p>
                 <p>By the Governor Macquarrie, are arrived Cap<lb break="no"/>tain Fowler, and part
                     of the crew of the Indian <lb/>brig Matilda, which sailed from this colony in
@@ -141,7 +139,7 @@
                     are horribly sanguinary <lb/>towards each other. Six of the adverse party were
                     <lb/>killed and devoured by the rebels while Captain <lb/>Fowler was among them,
                     and the following de<lb break="no"/>
-                    <lb/>testable circumstance occurred on the occasion: <lb/>A native man belonging
+            <lb/>testable circumstance occurred on the occasion: <lb/>A native man belonging
                     to Port Anna Maria, <lb/>who was not tattooed, and in consequence pro<lb break="no"/>hibited from the eating of human flesh, on pain <lb/>of death,
                     impatient of the restraint, fell upon one <lb/>of the murdered bodies, and
                     darting his teeth <lb/>into it in all the madness of a voracious fury,
@@ -170,7 +168,7 @@
                     constantly employing their <lb/>thoughts on plunder, and devising schemes for
                     <lb/>taking advantage of strangers. Their population <lb/>is very numerous;
                     which he remarked to some of <lb/>them, to whom he gave a description of Ota<lb break="no"/>heite, observing at the same time, that its in<lb break="no"/>
-                    <lb/>habitants were less numerous:–" Can't we go <lb/>and take them?-
+            <lb/>habitants were less numerous:–" Can't we go <lb/>and take them?-
                     What is there to hinder us?" was <lb/>immediately demanded. This anecdote we
                         no<lb break="no"/>tice as a specimen of their natural inclination to
                     <lb/>hostility, in which, all accounts respecting them <lb/>correspond.</p>

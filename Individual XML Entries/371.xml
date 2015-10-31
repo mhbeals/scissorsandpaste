@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -156,8 +154,7 @@
                <hi rend="smallcaps">New-York</hi>, <hi rend="italic">Sept</hi>. 28.</hi>
                 </p>
                 <p>
-                    <hi rend="center">Extract of a letter from Philadelphia to a gentleman in <lb/>
-                        Baltimore, dated the 20th instant.</hi>
+                    <hi rend="center">Extract of a letter from Philadelphia to a gentleman in <lb/>Baltimore, dated the 20th instant.</hi>
                 </p>
                 <p> "You request I would endeavour to give you a parti<lb/>cular account of the
                     state of the city in general and the <lb/>rise and progress of the malignant

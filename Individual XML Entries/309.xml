@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -62,7 +60,7 @@
                     <pb/>
                     <hi rend="smallcaps">Another New Field for Emi</hi>
                     <lb/>
-                    <hi rend="smallcaps">gration</hi>
+            <hi rend="smallcaps">gration</hi>
                 </p>
                 <p>The <hi rend="italic">Falkland Islands</hi> have been nominally a <lb/>British
                     colony for some years; but, in conse<lb break="no"/>quence of representations
@@ -87,7 +85,7 @@
                     tree in <lb/>the islands. Turnips and potatoes succeed well, <lb/>and there is
                     an abundance of good grass, upon which <lb/>some thousands of black cattle,
                     horses, and hogs, <lb/>thrive in the wild state, and sheep have been in<lb break="no"/>troduced and found to do well. Extensive peat<lb break="no"/>bogs exist, which will afford a sufficient supply of <lb/>fuel. The present
-                    population consists of twenty<lb break="no"/> five persons, young and
+                    population consists of twenty<lb break="no"/>five persons, young and
                     old–one-half of them <lb/>British, the other Gauchos, South American
                         In<lb break="no"/>dians of a semi-civilised description. They are <lb/>all
                     stationed at Port-Louis, a fine natural har<lb break="no"/>bour, where a British
@@ -118,7 +116,7 @@
                     expend part of the money in <lb/>carrying out additional settlers, part in
                     defraying <lb/>the colonial outlay. There are 40,000 wild cattle in <lb/>the
                     largest island, the privilege of shooting which, <lb/>or catching and taming
-                    them, might be sold to <lb/>the settlers or a company. The climate is unin<lb break="no"/>viting, but there is little doubt that persons ac<lb break="no"/>customed to grazing or sheep farming, or to seal<lb break="no"/> hunting, or
+                    them, might be sold to <lb/>the settlers or a company. The climate is unin<lb break="no"/>viting, but there is little doubt that persons ac<lb break="no"/>customed to grazing or sheep farming, or to seal<lb break="no"/>hunting, or
                     deep-sea fishery, might drive a profit<lb break="no"/>able trade here. A vast
                     number of ships, making <lb/>long voyages, American, French, Dutch, as well
                     <lb/>as British, pass the islands, and to these it would <lb/>be a great

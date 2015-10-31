@@ -24,8 +24,8 @@ CanadaThe Rota frigate arrived on Monday off Plymouth, with a fleet
                     and Pike, they put before the wind and made sail, firing their
                     stern-chasers.– Sir J. Yeo finding it impossible to get the squadron up with the enemy, as the Wolf was the only ship which
                     could keep up with them, then made sail between them and the two schooners
-                    to wind ward, which he captured, and which are called the
-                    Julia and Growler, each carrying one long 32 pounder and long
+                    to windward, which he captured, and which are called the
+                    Julia and Growler, each carrying one long 32pounder and long
                     12-pounder, and 40 men.– Two of the enemy's largest schooners, the
                     Scourge, of 10, and Hamilton, of nine guns, upset on the night of the
                     9th, in carrying sail, and all on board perished (about 100 in number). By

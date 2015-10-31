@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -97,8 +95,8 @@
                     and Pike, they put before <lb/>the wind and made sail, firing their
                     stern-chasers.– <lb/>Sir J. Yeo finding it impossible to get the squa<lb break="no"/>dron up with the enemy, as the Wolf was the only <lb/>ship which
                     could keep up with them, then made <lb/>sail between them and the two schooners
-                    to wind<lb break="no"/> ward, which he captured, and which are called <lb/>the
-                    Julia and Growler, each carrying one long 32<lb break="no"/> pounder and long
+                    to wind<lb break="no"/>ward, which he captured, and which are called <lb/>the
+                    Julia and Growler, each carrying one long 32<lb break="no"/>pounder and long
                     12-pounder, and 40 men.– <lb/>Two of the enemy's largest schooners, the
                     Scourge, <lb/>of 10, and Hamilton, of nine guns, upset on the <lb/>night of the
                     9th, in carrying sail, and all on board <lb/>perished (about 100 in number). By

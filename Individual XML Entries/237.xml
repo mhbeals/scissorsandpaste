@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -62,7 +60,7 @@
                     <pb/>
                     <hi rend="smallcaps">Emigration to New South Wales and Van</hi>
                     <lb/>
-                    <hi rend="smallcaps">Diemen's Land</hi>
+            <hi rend="smallcaps">Diemen's Land</hi>
                 </p>
                 <p>The following document has just been issued from the <lb/>Colonial
                     Office:–</p>

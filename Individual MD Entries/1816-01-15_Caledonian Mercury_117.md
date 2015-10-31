@@ -62,7 +62,7 @@ New South WalesA journey into the interior of New South Wales, across the Blue
                     the Nepean, who accompanied him during the entire tour. The
                         following gentlemen composed the Governor's suite: Mr
                     Campbell, Secretary ; Captain Antill, Major of Brigade ;
-                    Lieutenant Watts, Aide de camp ; Mr Redfern, Assistant-Surgeon ;
+                    Lieutenant Watts, Aide decamp ; Mr Redfern, Assistant-Surgeon ;
                     Mr Oxley, Surveyor-General ; Mr Mehan, Deputy Surveyor-General ; Mr
                     Lewin, Painter and Naturalist ; and Mr G. Evans, Deputy Surveyor
                     of lands, who had been sent forward for the purpose of

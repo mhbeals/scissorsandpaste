@@ -262,5 +262,5 @@ United States, *June* 4, 1794.*Gentlemen of the Senate, and of the House of
                     seized? Nay, more sir, I am authorized to say to you explicitly, that the
                     American army has no instructions to straiten or annoy that
                     post; and that if the descent on the rapids was dictated by this consideration,
-                    it ought to be discontinued without cause.I have the honour, Sir, to be with great
+                    it ought to be discontinued without cause.I have the honour,Sir, to be with great
                         respect,Your most obedient servant,EDM. RANDOLPH.Mr. Hammond, MinisterPlenipotentiary of his Britannic Majesty.True Copy.GEO. TAYLOR, jun.

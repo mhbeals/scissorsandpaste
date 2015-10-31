@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -63,7 +61,7 @@
                     <pb n="4"/>
                     <hi rend="italic">Extract of a letter from India, by the Dublin East</hi>
                     <lb/>
-                    <hi rend="italic">Indiaman, to Mr. William Jones</hi>
+            <hi rend="italic">Indiaman, to Mr. William Jones</hi>
                 </p>
                 <p>We left Patia Dec. 15, 1789, and went to <lb/>Decca, and arrived there after a
                     passage of 16 <lb/>days. Just as we arrived there was a famine, <lb/>and it was

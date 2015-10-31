@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -76,8 +74,7 @@
                     killed John Jervis, and <lb/>a negro fellow, belonging to Mrs. Tarker. By
                     <lb/>the bravery of three young men, viz. William Nee<lb break="no"/>ly, William
                     Wilson, and William Hall, the station <lb/>was preserved; they killed two
-                    Indians, wounded <lb/>several others, and put them to flight. It is to be <lb/>
-                    remembered, that Neely and Hall had each lost a <lb/>father and two brothers,
+                    Indians, wounded <lb/>several others, and put them to flight. It is to be <lb/>remembered, that Neely and Hall had each lost a <lb/>father and two brothers,
                     and Wilson a brother, by <lb/>the savages. Men are now in pursuit of the Indi<lb break="no"/>ans.</p>
                 <p>
                     <hi rend="center">

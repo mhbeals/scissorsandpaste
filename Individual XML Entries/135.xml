@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -131,7 +129,7 @@
                     <lb/>and where, (following the examples of his predecessors) <lb/>he mounted
                     cannon to command the passage of the <lb/>river, built an armed schooner, or
                     gun-boat, to com<lb break="no"/>
-                    <lb/>plete the blockage, and effectually to intercept the pro<lb break="no"/>visions and trade of the North West Company. Mr. <lb/>Alexander Macdonnell, a
+            <lb/>plete the blockage, and effectually to intercept the pro<lb break="no"/>visions and trade of the North West Company. Mr. <lb/>Alexander Macdonnell, a
                     partner of the North West <lb/>Company, who had charge of their provisions at
                         Ri<lb break="no"/>viere Qui Appele, one of the branches of the Red River,
                     <lb/>became alarmed at these measures of hostility, and as<lb break="no"/>sembled as many people as he could (half breeds and <lb/>others) for the

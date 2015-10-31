@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -186,9 +184,9 @@
                 <p>
                     <hi rend="smallcaps">Private Correspondence.</hi>
                     <lb/>
-                    <hi rend="italic">London, Wednesday Evening.</hi>
+            <hi rend="italic">London, Wednesday Evening.</hi>
                     <lb/>
-                    <hi rend="smallcaps">The King's Health</hi>
+            <hi rend="smallcaps">The King's Health</hi>
                 </p>
                 <p>We are sorry to state that the private accounts re<lb break="no"/>ceived from
                     Windsor this afternoon, do not speak so <lb/>favourably of his Majesty's health

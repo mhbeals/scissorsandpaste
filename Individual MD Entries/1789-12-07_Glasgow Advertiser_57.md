@@ -1,4 +1,4 @@
-*Extract of a letter from a Gentleman at Charles**Town, South Carolina, September* 2, 1789, *to a friend in Bristol.*"My inclination has taken such a stubborn longing after your side of the
+*Extract of a letter from a Gentleman at Charles**Town, South Carolina, September* 2, 1789, *toa friend in Bristol.*"My inclination has taken such a stubborn longing after your side of the
                     water, that I cannot enjoy tranquility here. So very wretched
                     have I been at times, that I can hardly support the regret I feel,
                     that I ever changed the bright and alluring varieties of cultivation

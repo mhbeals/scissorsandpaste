@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -74,7 +72,7 @@
                <hi rend="smallcaps">New York
                             Journal</hi>.</hi>
                     <lb/>
-                    <hi rend="center">
+            <hi rend="center">
                <hi rend="italic">Winchester, Oct</hi>. 20.</hi>
                 </p>
                 <p>By recent intelligence from Kentucky we learn <lb/>that a short time ago an
@@ -168,7 +166,7 @@
                         <hi rend="italic">Extract of a letter from Sunbury, Northumberland</hi>
                     </hi>
                     <lb/>
-                    <hi rend="center">
+            <hi rend="center">
                <hi rend="italic">County (Pennsylvania), dated Nov</hi>.
                         13.</hi>
                 </p>

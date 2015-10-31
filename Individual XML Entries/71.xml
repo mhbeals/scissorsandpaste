@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -67,16 +65,16 @@
                <hi rend="italic">Extract of a letter from New York, Aug.</hi>
                         3.</hi>
                 </p>
-                <p>"Our harvest is over westward and through<lb/> the southern counties of this
-                    State. This week<lb/> will finish it in the northern, and I am confident<lb/> we
+                <p>"Our harvest is over westward and through<lb/>the southern counties of this
+                    State. This week<lb/>will finish it in the northern, and I am confident<lb/>we
                     have not had so fine a crop since 1774, and all <lb/>gathered without a drop of
                     rain, which will ren<lb break="no"/>der wheat fit for exportation in OCtober.
-                    The <lb/>Summer grains are also abundant, and those on<lb/> the ground,
+                    The <lb/>Summer grains are also abundant, and those on<lb/>the ground,
                     especially Indian corn, equally pro<lb break="no"/>mising. Should Europe require
-                    wheat at even<lb/> two thirds of the prices given last year, we shall <lb/>draw
+                    wheat at even<lb/>two thirds of the prices given last year, we shall <lb/>draw
                     a very large balance from them in specie.</p>
-                <p>The public debt of this country having in<lb/> course of a few days been funded,
-                    brought many<lb/> foreigners into deep speculations, which reduced<lb/> bills of
+                <p>The public debt of this country having in<lb/>course of a few days been funded,
+                    brought many<lb/>foreigners into deep speculations, which reduced<lb/>bills of
                     exchange to par.</p>
             </body>
         </text>

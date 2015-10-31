@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -91,7 +89,7 @@
                     survey of it. He <lb/>penetrated in his boats nearly seventy miles up <lb/>the
                     same, accompanied by Lieutenant Colonel <lb/>Paterson, without being able at
                     that time, to <lb/>discover its source. A wood resembling <supplied reason="copy blur">sustic</supplied>
-            <lb/> had also been found.</p>
+            <lb/>had also been found.</p>
                 <p>"Mr Grant in his passage from England to <lb/>Port Jackson, in the Lady Nelson, a
                     vessel of <lb/>only 60 tons burthen, with three sliding keels, <lb/>and built on
                     Captain Schank's construction, was <lb/>the first that passed through the

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -50,7 +48,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item>meeting</item>
+                            <item>obituary</item>
+                            <item>banking</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -78,7 +78,7 @@
                 <p>
                     <hi rend="smallcaps">York, Upper Canada, Feb. 6.</hi>
                     <lb/>
-                    <hi rend="smallcaps">Tex v. The Earl of Selkirk and others</hi>
+            <hi rend="smallcaps">Tex v. The Earl of Selkirk and others</hi>
                 </p>
                 <p>A bill of indictment, for a conspiracy to ruin the <lb/>trade of the North West
                     Company, and impoverish the <lb/>partnes thereof, was found by the Grand Jury,
@@ -111,7 +111,7 @@
                     <lb/>North West Company were ruined, and to carry the <lb/>furs to Hudson's Bay
                     ; taking possession of Fort Lake <lb/>La Pluie, and the property there, and
                     stopping the na<lb break="no"/>vigation, &amp;c, &amp;c.</p>
-                <p>Upon this being returned a true bill the Attorney<lb break="no"/> General moved
+                <p>Upon this being returned a true bill the Attorney<lb break="no"/>General moved
                     the process of the Court against the <lb/>parties ; and Dr Allen being present,
                     was to be ar<lb break="no"/>raigned the following day.</p>
                 <p>
@@ -119,7 +119,7 @@
                 </p>
                 <p>This was a civil action brough by Mr Wm Smith <lb/>against Lord Selkirk for false
                     imprisonment.</p>
-                <p>It appeared in evidence that the plaintiff was under<lb break="no"/> sheriff of
+                <p>It appeared in evidence that the plaintiff was under<lb break="no"/>sheriff of
                     the Western District, and as such, the bear<lb break="no"/>er of a writ of
                     restitution founded upon a verdict of a <lb/>special jury at Sandwich, in
                     October 1816, and grant<lb break="no"/>ed by the Magistrate, ordering the

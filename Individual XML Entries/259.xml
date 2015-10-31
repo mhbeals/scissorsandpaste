@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -50,7 +48,11 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item>colonial government</item>
+                            <item>emigration</item>
+                            <item>female emigration</item>
+                            <item>emigration scheme</item>
+                            <item>corruption</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -62,9 +64,9 @@
                     <pb/>
                     <hi rend="smallcaps">Every thing is jobbed</hi>
                     <lb/>
-                    <hi rend="smallcaps">Female Emigration to Australia, &amp;c.</hi>
+            <hi rend="smallcaps">Female Emigration to Australia, &amp;c.</hi>
                     <lb/>
-                    <hi rend="italic">(From a Correspondent.)</hi>
+            <hi rend="italic">(From a Correspondent.)</hi>
                 </p>
                 <p>Our penal settlements appear to be very indifferent<lb break="no"/>ly managed;
                     and we are glad to find that such a man <lb/>as Sir John Franklin is appointed
@@ -83,7 +85,7 @@
                 <p>A temptation, in the first place, is held out of a <lb/>free passage to
                     Australia. A ship is hired, and this <lb/>ship must ave a <hi rend="italic">full</hi> cargo, to satisfy the <hi rend="italic">owners.</hi>
                     <lb/>Advertisements are issued, and instead of hard work<lb break="no"/>ing
-                    females, a parcel of decayed governesses, dress<lb break="no"/> makers, &amp;c.
+                    females, a parcel of decayed governesses, dress<lb break="no"/>makers, &amp;c.
                     &amp;c., with a small mixture of better <lb/>articles, is made up. But if, as
                     almost always hap<lb break="no"/>pens, a sufficient number of these to fill the
                     ship <lb/>does not come forward, a supply of sweepings <lb/>is taken from a

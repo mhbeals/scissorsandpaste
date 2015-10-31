@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -62,7 +60,7 @@
                     <pb/>
                     <hi rend="smallcaps">South Australian Emigration</hi>
                     <lb/>
-                    <hi rend="smallcaps">Association.</hi>
+            <hi rend="smallcaps">Association.</hi>
                 </p>
                 <p>A meeting of the members of the South Australian Asso<lb break="no"/>ciation was
                     held on Monday, at Exeter Hall, "for the pur<lb break="no"/>pose of explaining
@@ -143,7 +141,7 @@
                         overlook<lb break="no"/>ed." It was, he said, almost unnecessary for him to
                     state that <lb/>in all systems of colonization, land, labour, and capital, ought
                     <lb/>to be combinedin just proportions ; and yet this simple prin<lb break="no"/>
-                    <lb/>ciple had been hitherto greatly neglected by those who had <lb/>led new
+            <lb/>ciple had been hitherto greatly neglected by those who had <lb/>led new
                     colonies from the mother country. In the first place, <lb/>the whole of the land
                     of this colony was to be public land. <lb/>No individual was to obtain a single
                     acre by gift. There was <lb/>to be no patronage, no job–all were to be on

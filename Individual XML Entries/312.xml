@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -77,7 +75,7 @@
                 <p>The number of person who were enabled to <lb/>emigrate in 1841 by means of
                     bounties payable in <lb/>the colonies, was, for New South Wales 22,752, <lb/>for
                     Van Diemen's Land 331. It must be remem<lb break="no"/>bered that New South
-                    Wales includes Port<lb break="no"/> Philip.</p>
+                    Wales includes Port<lb break="no"/>Philip.</p>
                 <p>There are returns of land sold, but not in a <lb/>very perfect form. In Canada,
                     in the year 1839, <lb/>1840, and 1841, the lands sold were 176,518 acres.
                     <lb/>The average price was 3s. to 3s. 8d. in Lower, and <lb/>12s. to 13s. in

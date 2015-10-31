@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -62,7 +60,7 @@
                     <pb/>
                     <hi rend="smallcaps">House of Commons.–July 28</hi>
                     <lb/>
-                    <hi rend="italic">(Continued from our last.)</hi>
+            <hi rend="italic">(Continued from our last.)</hi>
                 </p>
                 <p>A message from the Lords announced that their Lordships <lb/>had agreed to the
                     Amendments to the Ministers Appointment <lb/>(Scotland) bill ; to the Newspaper
@@ -101,8 +99,7 @@
                     favour <lb/>of the demand. With regard to his having withdrawn the ap<lb break="no"/>plication for the <hi rend="italic">mandamus</hi> without
                     explanation, he had to <lb/>say that he fully explain his opinions to the
                     Directors, <lb/>he had re-stated them verbally to the chairman, and he did
-                    <lb/>not think himself required, under the circumstances, to re<lb break="no"/>
-                    enter into a long discussion upon the point. The effect of the
+                    <lb/>not think himself required, under the circumstances, to re<lb break="no"/>enter into a long discussion upon the point. The effect of the
                     <lb/>recommendation to the King of Oude was merely to urge the <lb/>claim upon
                     his attention.</p>
                 <p>Sir <hi rend="smallcaps">R. Peel</hi> said it was a perfectly novel doctrine, and

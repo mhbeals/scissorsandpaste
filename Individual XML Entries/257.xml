@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -206,7 +204,7 @@
                     last–John Hutton, Esq., one of the <lb/>Honorary Members, President of
                     the Society, in the <lb/>chair. A very satisfactory report for the last year was
                     <lb/>read, and thanks were voted to the different Office<lb break="no"/>
-                    <lb/>bearers. It appears that this society was established <lb/>under the
+            <lb/>bearers. It appears that this society was established <lb/>under the
                     countenance of the Magistrates and Minis<lb break="no"/>ters, and various
                     influential individuals in Leith, and <lb/>is well deserving of encouragement,
                     as affording the <lb/>benefits of mutual insurance to the working classes,

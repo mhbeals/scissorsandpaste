@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -202,7 +200,7 @@
                     <lb/>as to form very unequal measures of punishment, and they <lb/>very properly
                     insist that every tread-mill should be pro<lb break="no"/>vided with " a
                     regulator," by which its rate of revolution <lb/>may at all times be restrained
-                    within safe limits, and a <lb/>dial-register, (lately invented by Mr <hi rend="smallcaps">Bate</hi>, instrument<lb break="no"/> maker to the Board of
+                    within safe limits, and a <lb/>dial-register, (lately invented by Mr <hi rend="smallcaps">Bate</hi>, instrument<lb break="no"/>maker to the Board of
                     Excise) by which the rate of labour <lb/>may be, at any time, accurately
                     ascertained, and which <lb/>( they think ) should in no case exceed 12,000 feet
                     in ascent <lb/>for one day. There is an able argument in the report against

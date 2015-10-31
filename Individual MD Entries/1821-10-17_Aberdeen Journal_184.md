@@ -65,7 +65,7 @@ Colonial IntelligenceAlarming Fires in the Woods of Main andNew Brunswick.–A
                     could be given to it, the whole block of buildings, with the exception of a
                     house situated at the corner of Sackville and Blowers'-streets,
                     occupied by Mr H. Croskill, the houses occupied by Mrs. Neilson and Mr
-                    T. Muirhead, on Barrington street, and a stable belonging to J.
+                    T. Muirhead, on Barringtonstreet, and a stable belonging to J.
                     W. Johnston, Esq. in Granville-street, were consumed."For some time great apprehensions were entertaintained that the
                     fire would extend to the houses on the opposite side of the
                     streets, but fortunately it did not. Of the property burnt only about t1500

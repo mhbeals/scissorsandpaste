@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -81,7 +79,7 @@
                     at the village of <lb/>Champlain. This army was commanded by General Izard,
                     <lb/>and are said to have proceeded partly to Plattsburgh, and part<lb break="no"/>ly to Sackett's Harbour, on Lake Ontario. The British
                     <lb/>troops now at Champlain are commanded by Major Gene<lb break="no"/>
-                    <lb/>rals Brisbane, Power, and Robinson, and consist of the <lb/>13th, 49, 88th,
+            <lb/>rals Brisbane, Power, and Robinson, and consist of the <lb/>13th, 49, 88th,
                     Meuron's regiment, Canadian chasseurs, <lb/>&amp;c. &amp;c.</p>
                 <p>The 79th[?] or [?] Glasgow Lowland regiment are now quarter<lb break="no"/>ed at
                     Cornwall, in Upper Canada.</p>
@@ -109,7 +107,7 @@
                 <p>The large ship-building by the British at Kingston, on Lake <lb/>Ontario is to be
                     launched the second week in September– <lb/>also will carry about 100
                     guns.</p>
-                <p>The battalion of royal marines, commanded by Lieutenant<lb break="no"/> Colonel
+                <p>The battalion of royal marines, commanded by Lieutenant<lb break="no"/>Colonel
                     Williams, and which has been stationed lately at Isle <lb/>au Noix, and parts
                     adjacent, have been broken up and distri<lb break="no"/>buted among the fleets
                     on the Lakes. The Staff of the batta<lb break="no"/>lion proceed immediately to

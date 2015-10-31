@@ -138,8 +138,7 @@
                     be more desirable, whether viewed with an eye to its intrinsic
                     importance, or to the general sentiment and wish of the nation.  Provision is likewise requisite for the reimbursement of the
                     loan which has been made for the Bank of the United States, pursuant to the
-                        section of the act by which it is incorporated. In 
-                    fulfilling the public stipulations, in this particular, it is expected a
+                        section of the act by which it is incorporated. In fulfilling the public stipulations, in this particular, it is expected a
                     valuable saving will be made.  Appropriations for the current service of the ensuing year, and
                     for such extraordinaries as may require provision, will demand, and I doubt
                     not, engage your early attention. *Gentlemen of the Senate, and of the House of

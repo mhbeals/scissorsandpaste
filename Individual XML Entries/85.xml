@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -95,7 +93,7 @@
                     <lb/>Neidan to prevent their meeting a middle; and <lb/>defeat of those arts, an
                     end, which combin<lb break="no"/>ed wake up a compleat and connected whole. In
                     <lb/>the delineation of character the author has, on al<lb break="no"/>
-                    <lb/>every occasion, attended to the "<hi rend="italic">quid quemque</hi>
+            <lb/>every occasion, attended to the "<hi rend="italic">quid quemque</hi>
                     <lb/>
             <hi rend="italic">decent</hi>"–there are hoever some few parts,
                     which <lb/>the critic halts to consider, but which amidst so <lb/>many beauties,

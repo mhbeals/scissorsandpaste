@@ -13,7 +13,7 @@ Emigration to CanadaThe following is an extract of a letter from a tradesman b
                     next place, you wish to know the price of cattle. They have never been
                     known to be cheaper than at the present time. A cow can be purchased
                     at 20 dollars, a pair of working oxen at 40 dollars; a good cart horse at
-                    50 dollars,; sheep, 2 dollars a piece. In regard to farming
+                    50 dollars,; sheep, 2 dollars apiece. In regard to farming
                     utensils, there are but few used in this country at any time, and a new
                     settler may be some years in the woods before we want any more than an
                     axe, (3 dollars) a plough, (10 dollars) and a harrow, (5 dollars.)–You wish to know the nature of a Government grant; that has

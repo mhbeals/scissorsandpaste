@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -240,7 +238,7 @@
                     country, they will commonly bring ser<lb break="no"/>vants with them, by which
                     the average will be still <lb/>greater. But this is of no moment; the difference
                     <lb/>of expense in travelling 500 miles, or 1570, is suf<lb break="no"/>
-                    <lb/>ficiently clear.</p>
+            <lb/>ficiently clear.</p>
                 <p>We must add, to the disadvantage of Mr. Birk<lb break="no"/>beck's farmer, the
                     dearness of all those articles which <lb/>he has to purchase; for his distance
                     from the sea<lb break="no"/>coast and market operates in two ways to his

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -145,7 +143,7 @@
                     parties seem to have fought <lb/>with desperation. The Spaniards say that the
                     <lb/>Patriots are totally defeated, but acknowledge <lb/>the loss of many first
                     rate officers. The Com<lb break="no"/>mander in Chief of the Royal army engaged
-                    (De <lb/>La Torre) is severely wounded, and his Aid-de<lb break="no"/> Camp
+                    (De <lb/>La Torre) is severely wounded, and his Aid-de<lb break="no"/>Camp
                     (Colonel Villars), and about 20 officers <lb/>killed and wounded. It is said
                     that the pass <lb/>(Calabosa) is again in the hands of the Royalists. <lb/>The
                     Royal Commander in Chief (Morillo) has</p>

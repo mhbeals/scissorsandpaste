@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -106,7 +104,7 @@
                     paper issues, the sources of our fic<lb break="no"/>titious prosperity were
                     dried up at once : a vast reduction took <lb/>place in the demand for labour ;
                     profits and wages fell with <lb/>prices ; while the pressure of the taxes were
-                    doubled, and one<lb break="no"/> third added to their real amount by the rise in
+                    doubled, and one<lb break="no"/>third added to their real amount by the rise in
                     the value of <lb/>money. The laws, however, which regulate the multiplication
                     <lb/>of human beings, cannot instantly bend to circumstances : a <lb/>long
                     period necessarily elapses before the population accom<lb break="no"/>modates
@@ -222,9 +220,9 @@
                     <lb/>classes at this moment, we doubt whether the population is <lb/>not still
                     on the increase, and whether still more afflicting <lb/>scenes are not awaiting
                     us. Indeed, unless measures are taken <lb/>to do away the factitious stimulus
-                    which the English poor<lb break="no"/> laws give to the increase of population,
+                    which the English poor<lb break="no"/>laws give to the increase of population,
                     the most abundant e<lb break="no"/>
-                    <lb/>migration will prove but a feeble palliative. These are rather
+            <lb/>migration will prove but a feeble palliative. These are rather
                     <lb/>discouraging circumstances ; but the evil must be dealt with in <lb/>some
                     way, or it will ultimately overwhelm us. It has now be<lb break="no"/>come
                     rather a question of humanitiy than of policy. One or <lb/>two millions of human

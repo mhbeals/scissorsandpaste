@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -69,11 +67,11 @@
                     <hi rend="center">
                <hi rend="italic">Richmond, January</hi> 28.</hi>
                     <lb/>
-                    <hi rend="italic">Extract of a letter from a Gentleman now residing at</hi>
+            <hi rend="italic">Extract of a letter from a Gentleman now residing at</hi>
                     <lb/>
-                    <hi rend="italic">Quebec, to his Correspondent in this City, dated</hi>
+            <hi rend="italic">Quebec, to his Correspondent in this City, dated</hi>
                     <lb/>
-                    <hi rend="italic">Jan. 9, 1972</hi>
+            <hi rend="italic">Jan. 9, 1972</hi>
                 </p>
                 <p>Our humanity was deeply affected by the dread<lb break="no"/>ful carnage made by
                     the Indians. You may be <lb/>assured that the number of Indians did not exceed
@@ -127,7 +125,7 @@
                </hi>
                     </hi>
                     <lb/>
-                    <hi rend="center">
+            <hi rend="center">
                <hi rend="italic">ca, Feb.</hi> 7.</hi>
                 </p>
                 <p>"Last Sunday evening came to this town a <lb/>young man from Cat-fish, which he

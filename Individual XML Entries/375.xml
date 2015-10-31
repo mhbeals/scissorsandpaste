@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -374,7 +372,7 @@
                     post; and that if the descent on the rapids was dictated by this consideration,
                     it ought <lb/>to be discontinued without cause.</p>
                 <p>
-                    <hi rend="center">I have the honour,<lb/> Sir, to be with great
+                    <hi rend="center">I have the honour,<lb/>Sir, to be with great
                         respect,<lb/>Your most obedient servant,</hi>
                     <hi rend="right">EDM. RANDOLPH.</hi>
                 </p>

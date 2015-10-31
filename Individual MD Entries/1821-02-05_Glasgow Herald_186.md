@@ -1,5 +1,5 @@
 Emigration.The following is an extract of a letter dated Louisville, August 12th, 1820,
-                    from a Scotchman who has been ong settled in America, to his friend, a
+                    from a Scotchman who has been long settled in America, to his friend, a
                     Scotch Farmer, who rents 500 acres of land in the County of Middlesex."The circumstances in which this country is placed at present are truly
                     melancholy, when compared to what they have been ; yet still it
                     is a better country to live in than Britain. It is not easy to make

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -72,7 +70,7 @@
                     Company. This body of mer<lb break="no"/>chants had a number of persons in their
                     employ, <lb/>who were very ill paid. Their salaries, indeed, were
                     <lb/>sufficient to afford them a bare subsistence ; but it ta<lb break="no"/>
-                    <lb/>citly allowed them to negotiate for themselves: the <lb/>consequence of
+            <lb/>citly allowed them to negotiate for themselves: the <lb/>consequence of
                     such a conduct was, that each be<lb break="no"/>came a kind of petty dealer.
                     Each had his little pri<lb break="no"/>vate shop in some corner of his house.
                     The most pal<lb break="no"/>try articles were in the list of their commodities
@@ -94,7 +92,7 @@
                     and merchandize engross their whole conver<lb break="no"/>sation : yet none are
                     opulent, though many in easy <lb/>circumstances. There are no beggars in the
                     whole <lb/>colony, and but a few who are objects of public cha<lb break="no"/>
-                    <lb/>rity. The subsistence for these is derived from the <lb/>interest of a fund
+            <lb/>rity. The subsistence for these is derived from the <lb/>interest of a fund
                     established out of the church su<lb break="no"/>perfluities, from alms,
                     donations, and collections, <lb/>made after divine service, and not from any tax
                     laid <lb/>upon the public. Except, indeed, a few colonial <lb/>assessments for

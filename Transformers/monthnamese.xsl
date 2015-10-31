@@ -28,8 +28,20 @@
                     </month>
                     <xsl:copy-of select="year"/>
                     <xsl:copy-of select="keywords"/>
+                    <xsl:for-each select="text/body/bibl">
+                        <xsl:if test="./@type='original'">
+                            <original><item><xsl:value-of select="./@corresp"/></item><xsl:copy-of select="./title"/><xsl:copy-of select="./date"/></original>
+                        </xsl:if>
+                        <xsl:if test="./@type='preceding'">
+                            <preceding><item><xsl:value-of select="./@corresp"/></item><xsl:copy-of select="./title"/><xsl:copy-of select="./date"/></preceding>
+                        </xsl:if>                       
+                        <xsl:if test="./@type='succeeding'">
+                            <succeeding><item><xsl:value-of select="./@corresp"/></item><xsl:copy-of select="./title"/><xsl:copy-of select="./date"/></succeeding>
+                        </xsl:if>
+                    </xsl:for-each>
                     <header><xsl:value-of select="translate(header,'.',' ')"/>...</header>
                     <text>
+                        <p><xsl:value-of select="head"/></p>
                         <xsl:for-each select="text/body/p">
                             <p>
                                 <xsl:if test="pb/@n!=''"><pb n="{pb/@n}"/></xsl:if>

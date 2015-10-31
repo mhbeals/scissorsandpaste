@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -76,7 +74,7 @@
                     <lb/>advance to Montreal, from which it appears, how<lb break="no"/>ever, he has
                     now begun to measure back his steps, <lb/>having crossed to the American side of
                     the river <lb/>where the action was fought, and being actively pur<lb break="no"/>
-                    <lb/>sued in his retreat by the British troops.</p>
+            <lb/>sued in his retreat by the British troops.</p>
                 <p>The following information has been received by <lb/>the Alexander, Captain Henry,
                     which arrived at Li<lb break="no"/>verpool on Tuesday:–</p>
                 <p>"Quebec, Nov. 26. 1813 <lb/>"The enemy's whole force was about 8000 men,

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -62,7 +60,7 @@
                     <pb/>
                     <hi rend="smallcaps">Scottish Intelligence.</hi>
                 </p>
-                <p>Repeated instances have lately occurred, in whcih dwelling<lb break="no"/> houses
+                <p>Repeated instances have lately occurred, in whcih dwelling<lb break="no"/>houses
                     have suffered damage by fire, owing to the carelessnes of <lb/>servants and
                     others, who, by way of economy, take off fires at <lb/>night and put the burning
                     coals under the grate, not recollecting <lb/>that, in the construction of almost
@@ -91,8 +89,7 @@
                     <lb/>well recommended, and his character subjected to strict scrutiny.
                     <lb/>Masons, wrights, smiths, and other artisans, schoolmasters, farm<lb break="no"/> servants, and labourers, are the classes to which the
                     principles of <lb/>the society specially apply.</p>
-                <p>According to the opinion of persons largely engaged in the silk<lb break="no"/>
-                    trade, the amount of drawback to be allowed on silk that has paid <lb/>the duty
+                <p>According to the opinion of persons largely engaged in the silk<lb break="no"/>trade, the amount of drawback to be allowed on silk that has paid <lb/>the duty
                     will be between t300,000 and t400,000.</p>
                 <p>On Sunday evening a disturbance took place in a house in <lb/>Tobago Street, and
                     the Police were called, who, to make sure of <lb/>the rioter, secured the door ;

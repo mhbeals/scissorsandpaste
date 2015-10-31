@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -65,7 +63,7 @@
                     <pb/>
                     <hi rend="smallcaps">Canada</hi>
                     <lb/>
-                    <hi rend="italic">Extract of a letter from a Gentleman, to his Friend <lb/>in
+            <hi rend="italic">Extract of a letter from a Gentleman, to his Friend <lb/>in
                         Glasgow</hi>
                 </p>
                 <p>"<hi rend="smallcaps">Quebec</hi>, March 23, 1810.–A number of

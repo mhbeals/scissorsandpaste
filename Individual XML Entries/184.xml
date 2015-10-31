@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -137,7 +135,7 @@
                     could be given to it, the whole <lb/>block of buildings, with the exception of a
                     house situ<lb break="no"/>ated at the corner of Sackville and Blowers'-streets,
                     <lb/>occupied by Mr H. Croskill, the houses occupied by <lb/>Mrs. Neilson and Mr
-                    T. Muirhead, on Barrington<lb break="no"/> street, and a stable belonging to J.
+                    T. Muirhead, on Barrington<lb break="no"/>street, and a stable belonging to J.
                     W. Johnston, Esq. <lb/>in Granville-street, were consumed.</p>
                 <p>"For some time great apprehensions were entertain<lb break="no"/>tained that the
                     fire would extend to the houses on the op<lb break="no"/>posite side of the

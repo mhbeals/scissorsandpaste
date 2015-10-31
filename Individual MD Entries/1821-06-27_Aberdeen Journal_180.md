@@ -8,8 +8,7 @@ Colonial IntelligenceWe have received Canada Papers to the 10th May. The activ
                     the people of Canada, during the late war. His excellency the Governor had
                     intimated, that no objection would be made to the repeal of the
                     grant of 2,500l on account of the Civil List for the Colony, provided
-                    the salaray of the Chief retired Justice, the Receiver
-                    General, and that of the Speaker of the House of Assembly,
+                    the salaray of the Chief retired Justice, the ReceiverGeneral, and that of the Speaker of the House of Assembly,
                     should be continued, in the whole amounting to 1,800l. The grant has for
                     some time been a prominent subject of complaint in the Colonial
                         Parliament.The 37th Regiment for three years stationed in Lower Canada is about to

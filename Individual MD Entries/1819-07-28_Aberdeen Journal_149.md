@@ -7,7 +7,7 @@ Intended Colony at the Cape of Good Hope.The following letter explains, in det
                     burdensome to the colonies to which they have proceeded, the Government have determined to confine the application of the
                     money recently voted by Address in the House of Commons, to those persons
                     who, possessing the means, will engage to carry out, at the least, ten
-                        able bodied individuals above 18 years of age, with or
+                        ablebodied individuals above 18 years of age, with or
                         without families, the Government always reserving to itself the right of selecting, from the several offers made
                     to them, those which may prove, upon examination, to be most
                     eligible."In order to give some security to the Government, that the persons

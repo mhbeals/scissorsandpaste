@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -62,9 +60,9 @@
                     <pb/>
                     <hi rend="smallcaps">Commercial Intercourse Between</hi>
                     <lb/>
-                    <hi rend="smallcaps">The United States and the Bri-</hi>
+            <hi rend="smallcaps">The United States and the Bri-</hi>
                     <lb/>
-                    <hi rend="smallcaps">tish Colonies.</hi>
+            <hi rend="smallcaps">tish Colonies.</hi>
                 </p>
                 <p>The following is a copy of an important document, <lb/>received this morning at
                     the North and South Ameri<lb break="no"/>can Coffeehouse, dated Washington, 23d
@@ -129,7 +127,7 @@
                     be prescribed by the Secretary of <lb/>the Department of the Treasury, and the
                     same shall <lb/>and may be discharged, and otherwise, by produc<lb break="no"/>ing, within one year after the date thereof, a like certi<lb break="no"/>ficate to that required by, and under, the regulations <lb/>contained in the
                     eighty-first section of the act, to regu<lb break="no"/>
-                    <lb/>late the collection of duties on imports, passed the 2d <lb/>day or March
+            <lb/>late the collection of duties on imports, passed the 2d <lb/>day or March
                     1799,–that the articles of the growth, <lb/>produce, and manufacture, of
                     the United States, laden, <lb/>as aforesaid, were unladen and landed,
                     comfortably to <lb/>the provisions of this act ; or, in the case of loss by sea,

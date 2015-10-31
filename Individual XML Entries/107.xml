@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -86,7 +84,7 @@
                     has established a cordon, <lb/>the left of which is at Chambly, and extending to
                     <lb/>Chateaguny ; the main encampment is half way be<lb break="no"/>tween St
                     John's and La Prairie. Colonel Murray <lb/>is at St John's with a battalion ;
-                    and the Isle-au<lb break="no"/> Noix is strongly fortified, with a boom and a
+                    and the Isle-au<lb break="no"/>Noix is strongly fortified, with a boom and a
                     chain <lb/>secured across the river. This line of defence is <lb/>composed of
                     four regiments of the line, and 2000 <lb/>drafted militia, with a corps of about
                     400 Canadian <lb/>voltigeurs, raised last spring. The Royals, a very <lb/>strong

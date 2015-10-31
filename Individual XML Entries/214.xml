@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -110,7 +108,7 @@
          </p>
                 <p>
             <hi rend="italic">Steam Navigation.</hi>–Information has reached the
-                    <lb/>India House, that the East India Company's steam<lb break="no"/> vessel
+                    <lb/>India House, that the East India Company's steam<lb break="no"/>vessel
                     Enterprise will leave Bombay on the 15th of No<lb break="no"/>vember next, for
                     Suez, where she may be expected to <lb/>arrive early in December. Another
                     steam-vessel is to <lb/>leave Bombay for the same destination in January next.

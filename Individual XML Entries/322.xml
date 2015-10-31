@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -64,7 +62,7 @@
             <body>
                 <p>
             <pb n="2"/> When hostilities are once commenced, a for<lb break="no"/>
-                    <lb/>fidable armament will unquestionable be sent a<lb break="no"/>gainst the
+            <lb/>fidable armament will unquestionable be sent a<lb break="no"/>gainst the
                     Spanish South American colonies. Of <lb/>its success there cannot be a doubt,
                     when we shall <lb/>be aided by an army of 20,000 Indian warriors, <lb/>beside
                     the active support of those Mexicans now <lb/>

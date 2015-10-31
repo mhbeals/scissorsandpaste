@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
+
         <teiHeader>
             <fileDesc>
                 <titleStmt>
@@ -65,8 +63,8 @@
                         <hi rend="italic">Extract of a letter from a Gentleman at Charles</hi>
                     </hi>
                     <lb break="no"/>
-                    <hi rend="right">
-                        <hi rend="italic">Town, South Carolina, September</hi> 2, 1789, <hi rend="italic">to<lb/> a friend in Bristol.</hi>
+            <hi rend="right">
+                        <hi rend="italic">Town, South Carolina, September</hi> 2, 1789, <hi rend="italic">to<lb/>a friend in Bristol.</hi>
             </hi>
                 </p>
                 <p>"My inclination has taken such a stubborn <lb/>longing after your side of the
