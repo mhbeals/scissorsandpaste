@@ -31,11 +31,7 @@ Intended Colony at the Cape of Good HopeThe following letters explains, in det
                     landing in the colony.A grant of land, under the conditions hereafter specified, be
                     made to him at the rate of 100 acres for every such person or family whom
                     he shall so take out ; one-third of the sum advanced to Government on the
-<<<<<<< HEAD
                     outset shall be repaid on landing, when the victualling at the expenceof Government shall cease. A further proportion of onethird
-=======
-                    outset shall be repaid on landing, when the victualling at the expenceof Government shall cease. A further proportion of one third
->>>>>>> origin/master
                     shall be repaid, as soon as it shall be certified to the Governor of the
                     colony that the settlers under the direction of the person
                     taking them out are actually located upon the land assigned to them ; and
