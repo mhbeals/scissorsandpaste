@@ -8581,9 +8581,13 @@
       <id>147</id>
       <authority>Collected from a digital image by M. H.
                             Beals. Transcribed by Max
+<<<<<<< HEAD
                             Templer. Keyword tagged by 
                                 Bill Peschel.
                                 </authority>
+=======
+                            Templer. Keyword tagged by Bill Peschel.</authority>
+>>>>>>> origin/master
       <title>Caledonian Mercury</title>
       <pubPlace>Edinburgh, Scotland, United Kingdom</pubPlace>
       <date>1819-07-22</date>
@@ -10820,7 +10824,11 @@
       <id>169</id>
       <authority>Collected from a digital image by M. H.
                             Beals. Transcribed by Max
+<<<<<<< HEAD
                             Templer.Keyword tagged by Bill Peschel.</authority>
+=======
+                            Templer. Keyword tagged by Bill Peschel.</authority>
+>>>>>>> origin/master
       <title>Aberdeen Journal</title>
       <pubPlace>Aberdeen, Scotland, United Kingdom</pubPlace>
       <date>1820-07-12</date>
@@ -14292,7 +14300,11 @@
       <id>224</id>
       <authority>Collected from a digital image by M. H.
                             Beals. Transcribed by Max
+<<<<<<< HEAD
                             Templer.Keyword tagged by Bill Peschel.</authority>
+=======
+                            Templer. Keyword tagged by Bill Peschel.</authority>
+>>>>>>> origin/master
       <title>Scotsman</title>
       <pubPlace>Edinburgh, Scotland, United Kingdom</pubPlace>
       <date>1832-03-03</date>
@@ -17141,7 +17153,11 @@
       <id>279</id>
       <authority>Collected from a digital image by M. H.
                             Beals. Transcribed by Max
+<<<<<<< HEAD
                             Templer.Keyword tagged by Bill Peschel.</authority>
+=======
+                            Templer. Keyword tagged by Bill Peschel.</authority>
+>>>>>>> origin/master
       <title>Scotsman</title>
       <pubPlace>Edinburgh, Scotland, United Kingdom</pubPlace>
       <date>1839-07-10</date>
@@ -24143,7 +24159,10 @@
       <header>AMERICA 
    ...</header>
       <text>
+<<<<<<< HEAD
          <p>AMERICA.</p>
+=======
+>>>>>>> origin/master
          <p>
             <pb n="1"/>
                 American papers are received, dated October, 4.
@@ -24153,14 +24172,22 @@
                 ans, who were assisted by the volunteers and militia 
                 of Detroit on the 20th August, on the banks of 
                 the Miamis, in the vicinity of the British post and 
+<<<<<<< HEAD
                 garrison at the foot of the Rapids.–The action 
+=======
+                garrison at the foot of the Rapids.ߝThe action 
+>>>>>>> origin/master
                 was bloody, and he says, "our army was left in 
                 full and quiet possession of the field of battle, which 
                 terminated under the influence of the guns of the 
                 British garrison, as you will observe by the inclosed 
                 correspondence which passed between Major Camp
                 bell Commandant and myself upon the occasion." 
+<<<<<<< HEAD
                 He adds℃"We remained three days and nights 
+=======
+                He addsߝ"We remained three days and nights 
+>>>>>>> origin/master
                 on the banks of the Miamis, in front of the field 
                 of battle; during which time all the houses and  
                 corn fields were consumed and destroyed for a con
@@ -24179,7 +24206,11 @@
                   alluded to, but concludes the article thus: </p>
          <p>"Besides the very important papers which we  
                 have been able to offer to our readers this day, the  
+<<<<<<< HEAD
                 Executive, we understand, has received copies of a 
+=======
+                Excutive, we understand, has received copies of a 
+>>>>>>> origin/master
                 correspondence between the British Major Camp
                 bell, and General Wayne. The Major begins it 
                 by inquiring of the General by what authority he 
@@ -24193,6 +24224,7 @@
                 </p>
       </text>
    </TEI>
+<<<<<<< HEAD
    <TEI>
       <id>379</id>
       <authority> Collected from a digital image on 20151021 by M. H. Beals.
@@ -24315,4 +24347,6 @@
          <p>About three weeks ago she saw an officer, who is distinguished for his gallantries, and who by his address and attentions so won upon her affections, that she could neither speak nor think of any other object. This fatal attachment absorbed her whole soul. They entered into engagements to live and die only for one another; and in the frenzy of this passion, or under the idea that she could not be his, and his alone, she took the desperate resolution of dying for him. She had prepared three phials of opium, who of which she swallowed; and she died with a spirit of heroism; for no persuasion nor force could make her, when seized with the nausea of the poison, take any antidote to the draughts. She would not suffer the medical men to approach her–and though after stupefaction came on they administered every known medicine, they all failed of effect.</p>
       </text>
    </TEI>
+=======
+>>>>>>> origin/master
 </root>
