@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>64</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1790-04-16"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="entertain"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>female emigration</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>64</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-04-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>No fewer than<hi rend="italic">nine</hi>  young ladies are going to <lb/>the<hi rend="italic">Market</hi>  of<hi rend="italic">Love</hi>  in India, on board the Wil<lb break="no"/>liam Pitt ! What a disgrace to our young men at <lb/>home !</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

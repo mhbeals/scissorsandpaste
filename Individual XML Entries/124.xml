@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>124</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1818-01-19"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="composite"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>military</item>
-                  <item>colonial government</item>
-                  <item>crime</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>124</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1818-01-19"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>military</item>
+                            <item>colonial government</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>New York and other American papers have <lb/>been received to the 20th December: – In the <lb/>house of Representatives, on the 9th, Mr John<lb break="no"/>son brought forward a series of resolutions re<lb break="no"/>lative to the military establish, the principal <lb/>of which is the following: –</p>
-         <p>"That the military peace establishment of the United <lb/>States shall consist hereafter of eight thousand men, including <lb/>the corps of invalids. Provided that the corps of engineers, <lb/>the General Staff and Ordnance Department shall be re<lb break="no"/>tained, as at present established. Provided also, that no part <lb/>of the army shall be disbanded in consequence of said re<lb break="no"/>duction, but the same shall be effected by permitting vacan<lb break="no"/>cies, as they occur, to remain – That it is expedient to pro<lb break="no"/>vide by law for an additional national armoury, to be located <lb/>on the western waters. That it is expedient to organise by <lb/>law a corps of invalids, to be composed of one thousand <lb/>men."</p>
-         <p>The following resolution relative to foreign <lb/>seamen was also proposed, and adopted without <lb/>opposition :</p>
-         <p>"Resolved. That the Committee of Commerce and <lb/>Manufactures be instructed to inquire into the expediency <lb/>of providing by law for the apprehending and securing foreign <lb/>seamen deserting from foreign vessels while in the ports of <lb/>the United States, contrary to their engagements to serve on <lb/>board such vessels."</p>
-      </body>
-   </text>
-</TEI>
+                <p>"That the military peace establishment of the United <lb/>States shall consist hereafter of eight thousand men, including <lb/>the corps of invalids. Provided that the corps of engineers, <lb/>the General Staff and Ordnance Department shall be re<lb break="no"/>tained, as at present established. Provided also, that no part <lb/>of the army shall be disbanded in consequence of said re<lb break="no"/>duction, but the same shall be effected by permitting vacan<lb break="no"/>cies, as they occur, to remain – That it is expedient to pro<lb break="no"/>vide by law for an additional national armoury, to be located <lb/>on the western waters. That it is expedient to organise by <lb/>law a corps of invalids, to be composed of one thousand <lb/>men."</p>
+                <p>The following resolution relative to foreign <lb/>seamen was also proposed, and adopted without <lb/>opposition :</p>
+                <p>"Resolved. That the Committee of Commerce and <lb/>Manufactures be instructed to inquire into the expediency <lb/>of providing by law for the apprehending and securing foreign <lb/>seamen deserting from foreign vessels while in the ports of <lb/>the United States, contrary to their engagements to serve on <lb/>board such vessels."</p>
+            </body>
+        </text>
+    </TEI>

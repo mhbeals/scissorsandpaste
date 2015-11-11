@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>181</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1821-06-09"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>181</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-06-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Van Dieman's Land</hi> 
+            <hi rend="smallcaps">Van Dieman's Land</hi>
          </p>
-         <p>We have been favoured with the following ex<lb break="no"/>tract of a letter from Captain Dixon, of the ship <lb/>Skelton, dated Hobert Town, Van Dieman's <lb/>Land, 29th November 1820 :–</p>
-         <p>"We arrived here on the 27th inst. all in good health.– <lb/>This colony surpasses my expectation–climate very simi<lb break="no"/>lar to England, soil capable of any thing, where an industrious <lb/>manhas every thing to hope and nothing to fear ; the assist<lb break="no"/>ance given to settlers liberal, and grants of land to the a<lb break="no"/>mount of from 400 to 2000 acres given them, generally of ex<lb break="no"/>cellent quality. This colony in fact is the only country that <lb/>an Englishman should come to, he neither changes climate <lb/>not habits, for here every thing hat occurs to him is the <lb/>same, except burning wood for coals. The country on the <lb/>sea coast is very woody, but much easier cleared than Ame<lb break="no"/>rica and about ten miles in the interior several miles of ex<lb break="no"/>tent have no wood at all. The ships behaves beautifully, sails <lb/>well, and is easy ; we have never close reefed and not above <lb/>twice double reefed, and not strained a rope yarn nor <lb/>split a sail."</p>
-         <p>Extract of a letter received by My Leyden, <lb/>R. N. Leith, from his Son, Mate of the ship <lb/>Skelton, dated Sullivan's Cove, off Hobart Town, <lb/>29th November 1820 :–</p>
-         <p>"I take this opportunity of sending you a few lines by the <lb/>ship Guildford, which is to sail tomorrow for Baravia, and <lb/>then homewards. We left the Table Bay on 18th October, <lb/>and arrived here on 28th November, making a very good <lb/>passage. Did not see any vessel on the passage–made the <lb/>island of Amsterdam and St Paul's on 28 November–went <lb/>ashore on the island of Amsterdam for two or three hours, <lb/>found it to be barren entirely–only inhabited by give or six <lb/>people from the Isle of France, for the purpose of sealing. <lb/>When we came near the land, fell in with various winds <lb/>and calms–made the river on Sunday about twelve o'clock, <lb/>and brought up off Hobart, at three P M on Monday. The <lb/>country has a very fine prospect, a great deal of wood, but <lb/>interspersed with fields all in green, for it is the spring here <lb/>now–the pease are in full bloom. This town is very irregu<lb break="no"/> 
+                <p>We have been favoured with the following ex<lb break="no"/>tract of a letter from Captain Dixon, of the ship <lb/>Skelton, dated Hobert Town, Van Dieman's <lb/>Land, 29th November 1820 :–</p>
+                <p>"We arrived here on the 27th inst. all in good health.– <lb/>This colony surpasses my expectation–climate very simi<lb break="no"/>lar to England, soil capable of any thing, where an industrious <lb/>manhas every thing to hope and nothing to fear ; the assist<lb break="no"/>ance given to settlers liberal, and grants of land to the a<lb break="no"/>mount of from 400 to 2000 acres given them, generally of ex<lb break="no"/>cellent quality. This colony in fact is the only country that <lb/>an Englishman should come to, he neither changes climate <lb/>not habits, for here every thing hat occurs to him is the <lb/>same, except burning wood for coals. The country on the <lb/>sea coast is very woody, but much easier cleared than Ame<lb break="no"/>rica and about ten miles in the interior several miles of ex<lb break="no"/>tent have no wood at all. The ships behaves beautifully, sails <lb/>well, and is easy ; we have never close reefed and not above <lb/>twice double reefed, and not strained a rope yarn nor <lb/>split a sail."</p>
+                <p>Extract of a letter received by My Leyden, <lb/>R. N. Leith, from his Son, Mate of the ship <lb/>Skelton, dated Sullivan's Cove, off Hobart Town, <lb/>29th November 1820 :–</p>
+                <p>"I take this opportunity of sending you a few lines by the <lb/>ship Guildford, which is to sail tomorrow for Baravia, and <lb/>then homewards. We left the Table Bay on 18th October, <lb/>and arrived here on 28th November, making a very good <lb/>passage. Did not see any vessel on the passage–made the <lb/>island of Amsterdam and St Paul's on 28 November–went <lb/>ashore on the island of Amsterdam for two or three hours, <lb/>found it to be barren entirely–only inhabited by give or six <lb/>people from the Isle of France, for the purpose of sealing. <lb/>When we came near the land, fell in with various winds <lb/>and calms–made the river on Sunday about twelve o'clock, <lb/>and brought up off Hobart, at three P M on Monday. The <lb/>country has a very fine prospect, a great deal of wood, but <lb/>interspersed with fields all in green, for it is the spring here <lb/>now–the pease are in full bloom. This town is very irregu<lb break="no"/> 
             <lb/>larly built, just like a Norwegian village–a deal of wooden <lb/>houses–the appearance of the country pleases the eye greatly <lb/>of the passengers, and the visit they had from the Deputy <lb/>Governor was very favourable. Governor M'Quarrie is to <lb/>be here from Sidney in the course of a fortnight or three <lb/>weeks to survey the Government works. The passengers <lb/>are in great suspense whether they will forward themselves <lb/>to Sydney, or wait until he comes. Butter sells at 4s, a lb ; <lb/>coarse ship biscuits 35s. a cwt ; a pair of ashets, middle size, <lb/>21s. and every thing in like proportion. Salted pork would <lb/>have sold very well–could clear L130 a cwt. Beef is about <lb/>6d. a lb. If you buy any here, and pay in produce, you pay <lb/>more than in hard cash. There are few bush rangers now, <lb/>they were mostly all shot in the woods. No encouragement <lb/>here for pickpockets. Some of the richest and most power<lb break="no"/>ful men here have once been sent out as convicts, but, from <lb/>their good behaviour, got their emancipation. The Midship <lb/>Leith, upon the pier, is here ; he is master of a colonial brig <lb/>trading between Sydney and here. Our passengers tell me <lb/>they can chuse what land they like ; but not the quality ; they <lb/>must apply the saw and the hatchet a great deal. A hatchet <lb/>costs 7s. 6d. a lb. Very few people have female servants, as they <lb/>can't trust them ; as those who come out are convicts, and <lb/>get soon married, so they have all men servants."</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

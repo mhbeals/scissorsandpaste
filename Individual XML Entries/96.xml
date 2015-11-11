@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>96</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130607 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20140827 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1793-10-07"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-                  <item>Native Americans</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>96</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130607 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140827 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1793-10-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="5"/>
-            <hi rend="center">
-               <hi rend="italic">Knoxville, May</hi>  11.</hi> 
+            <hi rend="center"> 
+               <hi rend="italic">Knoxville, May</hi>  11.</hi>
          </p>
-         <p>
+                <p>
             <hi rend="enlarged-capital">I</hi> T is shocking to describe the bloody scenes that <lb/>have lately taken place in this district. The <lb/>Indians have killed and scalped a great number of <lb/>persons, among whom is Colonel Isaac Bledose, <lb/>who was massacred within 150 yards of his own <lb/>house.</p>
-         <p>On the 27th instant a body of Indians attacked <lb/>Greenfield station: they killed John Jervis, and <lb/>a negro fellow, belonging to Mrs. Tarker. By <lb/>the bravery of three young men, viz. William Nee<lb break="no"/>ly, William Wilson, and William Hall, the station <lb/>was preserved; they killed two Indians, wounded <lb/>several others, and put them to flight. It is to be <lb/>remembered, that Neely and Hall had each lost a <lb/>father and two brothers, and Wilson a brother, by <lb/>the savages. Men are now in pursuit of the Indi<lb break="no"/>ans.</p>
-         <p>
-            <hi rend="center">
-               <hi rend="italic">June</hi>  15.</hi> 
+                <p>On the 27th instant a body of Indians attacked <lb/>Greenfield station: they killed John Jervis, and <lb/>a negro fellow, belonging to Mrs. Tarker. By <lb/>the bravery of three young men, viz. William Nee<lb break="no"/>ly, William Wilson, and William Hall, the station <lb/>was preserved; they killed two Indians, wounded <lb/>several others, and put them to flight. It is to be <lb/>remembered, that Neely and Hall had each lost a <lb/>father and two brothers, and Wilson a brother, by <lb/>the savages. Men are now in pursuit of the Indi<lb break="no"/>ans.</p>
+                <p>
+            <hi rend="center"> 
+               <hi rend="italic">June</hi>  15.</hi>
          </p>
-         <p>About the 5th instant, a company of seven men <lb/>were attacked on the trace from Cumberland to <lb/>Kentucky, near Big Barren, by a party of Indi<lb break="no"/>ans; three of the company were killed, and two <lb/>wounded.</p>
-         <p>
-            <hi rend="center"> AUGUSTA,<hi rend="italic">June</hi>  15. </hi>
+                <p>About the 5th instant, a company of seven men <lb/>were attacked on the trace from Cumberland to <lb/>Kentucky, near Big Barren, by a party of Indi<lb break="no"/>ans; three of the company were killed, and two <lb/>wounded.</p>
+                <p>
+            <hi rend="center"> AUGUSTA, <hi rend="italic">June</hi>  15. </hi>
             <lb/>Advices from our western frontiers mention, <lb/>that Major General Twiggs crossed the Oconnee <lb/>with about 900 men, on Saturday last, on their <lb/>way to the Cakmulgee, where the infantry were to <lb/>halt and build a fort. The cavalry, amounting <lb/>to 450, commanded by Brigadier Generals Irwin, <lb/>Clark, and Blackburn, were immediately to pro<lb break="no"/>ceed to the lower Creek towns, and procure satis<lb break="no"/>faction for the numerous unprovoked murders and <lb/>devastations lately committed by that faithless tribe <lb/>of savages.</p>
-         <p>Brigadier General Glascock, we are informed, <lb/>has received orders from the Commander in Chief <lb/>to march to the frontiers in a few days, with one- <lb/>third of his brigade, and part of the Augusta ar<lb break="no"/>tillery.</p>
-      </body>
-   </text>
-</TEI>
+                <p>Brigadier General Glascock, we are informed, <lb/>has received orders from the Commander in Chief <lb/>to march to the frontiers in a few days, with one- <lb/>third of his brigade, and part of the Augusta ar<lb break="no"/>tillery.</p>
+            </body>
+        </text>
+    </TEI>

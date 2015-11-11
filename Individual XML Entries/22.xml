@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>22</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1789-10-09"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>agriculture</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>22</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-10-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="center">
-               <hi rend="italic">Philadelphia, Aug</hi> . 5.</hi> 
+            <hi rend="center"> 
+               <hi rend="italic">Philadelphia, Aug</hi>. 5.</hi>
          </p>
-         <p>We are happy in informing our readers, that <lb/>in the memory of the oldest man among us a <lb/>more plentiful year has not been known than the <lb/>present. Neither mildew nor fly has affected the <lb/>wheat; the grain is heavy, and full, and in large <lb/>quantities. The other grains are likewise plen<lb break="no"/>tiful, and of an excellent quality. Such distin<lb break="no"/>guished favours call for the gratitude of the in<lb break="no"/>habitants of the United Sates, to the great Au<lb break="no"/>thor of Nature; especially when these blessings of <lb/>nature are connected in the same year with deli<lb break="no"/>verance from anarchy, and with the establishment <lb/>of a wise, free, and just government.</p>
-      </body>
-   </text>
-</TEI>
+                <p>We are happy in informing our readers, that <lb/>in the memory of the oldest man among us a <lb/>more plentiful year has not been known than the <lb/>present. Neither mildew nor fly has affected the <lb/>wheat; the grain is heavy, and full, and in large <lb/>quantities. The other grains are likewise plen<lb break="no"/>tiful, and of an excellent quality. Such distin<lb break="no"/>guished favours call for the gratitude of the in<lb break="no"/>habitants of the United Sates, to the great Au<lb break="no"/>thor of Nature; especially when these blessings of <lb/>nature are connected in the same year with deli<lb break="no"/>verance from anarchy, and with the establishment <lb/>of a wise, free, and just government.</p>
+            </body>
+        </text>
+    </TEI>

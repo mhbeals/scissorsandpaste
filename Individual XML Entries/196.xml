@@ -1,82 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>196</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Scotsman</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1824-03-27"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="persuade"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>196</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1824-03-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Prison Discipline.</hi> 
+            <hi rend="smallcaps">Prison Discipline.</hi>
          </p>
-         <p>
+                <p>
             <hi rend="smallcaps">The Fifth Report</hi>  of the Committee of the Society for the <lb/>Improvement of Prison Discipline, &amp;c.–1823. With an Ap<lb break="no"/>pendix, &amp;c.</p>
-         <p>
+                <p>
             <hi rend="enlarged-capital">T </hi>
-            <hi rend="smallcaps">his Report</hi>  only reached us yesterday ; but the So<lb break="no"/>ciety brings so much benevolence into activity, under the <lb/>guidance of practical wisdom, aided by very enlightened <lb/>views of the best interests of society, that we consider any <lb/>delay improper in calling the attention of the public to <lb/>their valuable proceedings. The present Report abounds <lb/>with evidence that they have not relaxed in their exer<lb break="no"/>tions. At home, not only are the laws improving, but the <lb/>magistracy are carrying improvements into all the practical <lb/>departments. A great many jails, designed on much bet<lb break="no"/>ter principlpes, are in progress in different parts of the <lb/>country ; and in those which are used, it may be said,<hi rend="italic">ge<lb break="no"/>nerally</hi> , that much more attentions is paid to health, clean<lb break="no"/>liness, diet, employment, and classification. It must not <lb/>be thought, however, that nothing remains to be done. <lb/>There are still jails in which prisoners are double ironed, <lb/>and chained to the floor of their cels from night to morn<lb break="no"/>ing ; others in which persons committed<hi rend="italic">for trial</hi>  are fet<lb break="no"/>tered with irons of the weight of from seven to nine pounds ; <lb/>and others in which debtors are exposed to the contami<lb break="no"/>nating society of criminals, in which neither the various <lb/>classes of prisoners, nor the two sexes, are kept separate <lb/>from each other, and in which all are allowed to be idle. <lb/>The Magistrates of Surrey have provided a<hi rend="italic">covered</hi>  vehicle <lb/>for conveying prisoners to the Sessions'house ; but in the <lb/>metropolis, it would appear, the practise still continues of <lb/>inflicting public degradation on parties arraigned or merely <lb/>suspected of crime, by marching them<hi rend="italic">handcuffed</hi>  through the <lb/>streets of London ; and, very recently, a party of<hi rend="italic">one hun- </hi>
+            <hi rend="smallcaps">his Report</hi>  only reached us yesterday ; but the So<lb break="no"/>ciety brings so much benevolence into activity, under the <lb/>guidance of practical wisdom, aided by very enlightened <lb/>views of the best interests of society, that we consider any <lb/>delay improper in calling the attention of the public to <lb/>their valuable proceedings. The present Report abounds <lb/>with evidence that they have not relaxed in their exer<lb break="no"/>tions. At home, not only are the laws improving, but the <lb/>magistracy are carrying improvements into all the practical <lb/>departments. A great many jails, designed on much bet<lb break="no"/>ter principlpes, are in progress in different parts of the <lb/>country ; and in those which are used, it may be said,<hi rend="italic">ge<lb break="no"/>nerally</hi>, that much more attentions is paid to health, clean<lb break="no"/>liness, diet, employment, and classification. It must not <lb/>be thought, however, that nothing remains to be done. <lb/>There are still jails in which prisoners are double ironed, <lb/>and chained to the floor of their cels from night to morn<lb break="no"/>ing ; others in which persons committed<hi rend="italic">for trial</hi>  are fet<lb break="no"/>tered with irons of the weight of from seven to nine pounds ; <lb/>and others in which debtors are exposed to the contami<lb break="no"/>nating society of criminals, in which neither the various <lb/>classes of prisoners, nor the two sexes, are kept separate <lb/>from each other, and in which all are allowed to be idle. <lb/>The Magistrates of Surrey have provided a<hi rend="italic">covered</hi>  vehicle <lb/>for conveying prisoners to the Sessions'house ; but in the <lb/>metropolis, it would appear, the practise still continues of <lb/>inflicting public degradation on parties arraigned or merely <lb/>suspected of crime, by marching them<hi rend="italic">handcuffed</hi>  through the <lb/>streets of London ; and, very recently, a party of<hi rend="italic">one hun- </hi>
             <lb/>
             <hi rend="italic">dred prisoners</hi>  were marched for a mile<hi rend="italic">handcuffed </hi>
             <lb/>through the open streets,<hi rend="italic">in order to be formally set at liber- </hi>
             <lb/>
-            <hi rend="italic">ty by proclamation !</hi>  So much for metropolitan decorum ! <lb/>These shameful exhibitions and practises cannot, however, <lb/>long maintain their ground ; the publicity given to them, <lb/>through the proceedings of the Society should, of itself, be <lb/>enough to do them away ; but while they are continued <lb/>England should be somewhat chary of her boasts. The <lb/>views and principles of the Prison Society are attracting <lb/>notice and gaining ground in France, Switzerland, the Ne<lb break="no"/>therlands, Hanover, Bavaria, Wurtemberg, Denmark, Nor<lb break="no"/>way, Sweden, and Russia. At Christiana the Magistrates <lb/>have already resolved on the erection of a new city gaol. In <lb/>St Petersburgh the prisoners are now furnished with food, <lb/>clothing, baths, and medical assistance. A Ladies' Asso<lb break="no"/>ciation, under the patronage of the Princess<hi rend="smallcaps">Mesthersky</hi> , <lb/>is also in full activity at St Petersburgh ; and there is an <lb/>auxiliary prison society at Orel, on the very frontiers of Sibe<lb break="no"/>ria. Seven thousand prisoners passed through Orel last year ; <lb/>but their chains have been lightened, and their condition <lb/>meliorated generally, through the exertions of the Russian <lb/>Society. For details, however, we must refer to the Re<lb break="no"/>port itself ; but we cannot take leave of it without making <lb/>special notice of the benefits conferred on society by <lb/>the<hi rend="italic">Female Associations</hi>  and<hi rend="italic">Temporary Refuge</hi> . The <lb/>almost miraculous power of kindness, when accompanied, <lb/>as genuine kindness often is, with quiet feeling and unob<lb break="no"/>trusive goodness, continues to be exemplified in the Ladies' <lb/>Committee, of which Mrs<hi rend="smallcaps">Fry</hi> , we believe, is still at the head. <lb/>In Newgate, idleness, dissipation, and licentiousness, have <lb/>been succeeded by industry, order, and restraint ; and the <lb/>same committee accomplish much good by visiting the ships <lb/>in which convicts are embarked for New South Wales. <lb/>Arrangements are thus made for the formation of schools <lb/>for moral and religious instruction during the voyage, and <lb/>the convicts are furnished not only with suitable clothing <lb/>and other necessaries, but the means of employment in the <lb/>manufacture of such articles as may be readily sold for their <lb/>relief on arriving at the colony. These are truly good <lb/>works ; and too much praise cannot be bestowed on the <lb/>Ladies by whom they are performed. It is gratifying to<cb/> 
-            <lb/>observe that Female Associations for visiting prisons have <lb/>been established in Bedford, Bristol, Carlisle, Colchester, <lb/>Derby, Dumfries, Durham, Exeter, Lancaster, Notting<lb break="no"/>ham, Plymouth, York, and<hi rend="italic">Glasgow</hi> . We had once thought <lb/>that, by this time, we might have added<hi rend="italic">Edinburgh</hi>  ; and <lb/>we are inclined to hope that the present Lord Pro<lb break="no"/>vost will yet employ his influence in establishing a La<lb break="no"/>dy's Society for the prisons of our Metropolis.– <lb/>There, too, we had cherished, and still cherish, the hope, <lb/>of seeing a House of Refuge. The temporary refuge of <lb/>the Prison Society is chiefly for affording relief to distress<lb break="no"/>ed boys, who, on their discharge from the prisons of the <lb/>metropolis, have expressed a desire to abandon their crimi<lb break="no"/>nal courses. Many of these are in circumstances of urgent <lb/>want ; and " the Committee can now look round wtih plea<lb break="no"/>sure on many who are variously settled, and<hi rend="italic">conducting them- </hi>
+            <hi rend="italic">ty by proclamation !</hi>  So much for metropolitan decorum ! <lb/>These shameful exhibitions and practises cannot, however, <lb/>long maintain their ground ; the publicity given to them, <lb/>through the proceedings of the Society should, of itself, be <lb/>enough to do them away ; but while they are continued <lb/>England should be somewhat chary of her boasts. The <lb/>views and principles of the Prison Society are attracting <lb/>notice and gaining ground in France, Switzerland, the Ne<lb break="no"/>therlands, Hanover, Bavaria, Wurtemberg, Denmark, Nor<lb break="no"/>way, Sweden, and Russia. At Christiana the Magistrates <lb/>have already resolved on the erection of a new city gaol. In <lb/>St Petersburgh the prisoners are now furnished with food, <lb/>clothing, baths, and medical assistance. A Ladies' Asso<lb break="no"/>ciation, under the patronage of the Princess<hi rend="smallcaps">Mesthersky</hi>, <lb/>is also in full activity at St Petersburgh ; and there is an <lb/>auxiliary prison society at Orel, on the very frontiers of Sibe<lb break="no"/>ria. Seven thousand prisoners passed through Orel last year ; <lb/>but their chains have been lightened, and their condition <lb/>meliorated generally, through the exertions of the Russian <lb/>Society. For details, however, we must refer to the Re<lb break="no"/>port itself ; but we cannot take leave of it without making <lb/>special notice of the benefits conferred on society by <lb/>the<hi rend="italic">Female Associations</hi>  and<hi rend="italic">Temporary Refuge</hi>. The <lb/>almost miraculous power of kindness, when accompanied, <lb/>as genuine kindness often is, with quiet feeling and unob<lb break="no"/>trusive goodness, continues to be exemplified in the Ladies' <lb/>Committee, of which Mrs<hi rend="smallcaps">Fry</hi>, we believe, is still at the head. <lb/>In Newgate, idleness, dissipation, and licentiousness, have <lb/>been succeeded by industry, order, and restraint ; and the <lb/>same committee accomplish much good by visiting the ships <lb/>in which convicts are embarked for New South Wales. <lb/>Arrangements are thus made for the formation of schools <lb/>for moral and religious instruction during the voyage, and <lb/>the convicts are furnished not only with suitable clothing <lb/>and other necessaries, but the means of employment in the <lb/>manufacture of such articles as may be readily sold for their <lb/>relief on arriving at the colony. These are truly good <lb/>works ; and too much praise cannot be bestowed on the <lb/>Ladies by whom they are performed. It is gratifying to <cb/>observe that Female Associations for visiting prisons have <lb/>been established in Bedford, Bristol, Carlisle, Colchester, <lb/>Derby, Dumfries, Durham, Exeter, Lancaster, Notting<lb break="no"/>ham, Plymouth, York, and<hi rend="italic">Glasgow</hi>. We had once thought <lb/>that, by this time, we might have added<hi rend="italic">Edinburgh</hi>  ; and <lb/>we are inclined to hope that the present Lord Pro<lb break="no"/>vost will yet employ his influence in establishing a La<lb break="no"/>dy's Society for the prisons of our Metropolis.– <lb/>There, too, we had cherished, and still cherish, the hope, <lb/>of seeing a House of Refuge. The temporary refuge of <lb/>the Prison Society is chiefly for affording relief to distress<lb break="no"/>ed boys, who, on their discharge from the prisons of the <lb/>metropolis, have expressed a desire to abandon their crimi<lb break="no"/>nal courses. Many of these are in circumstances of urgent <lb/>want ; and " the Committee can now look round wtih plea<lb break="no"/>sure on many who are variously settled, and<hi rend="italic">conducting them- </hi>
             <lb/>
             <hi rend="italic">selves</hi>  exemplarily. In the temporary refuge they are <lb/>trained up to habits of industry, instructed in moral and <lb/>religious duty, and after a time are provided with suitable <lb/>situations." There is a great similarity in the histories of <lb/>the individuals admitted into this asylum ; but the greater <lb/>number, obviously, consists of boys, who had been almost <lb/>driven to commit petty thefts from want of employment or <lb/>destitution, or who, from neglect or loss of parents, had <lb/>fallen into the company of professed thieves. The Commit<lb break="no"/>tee mention that on one recent occasion, no less than<hi rend="italic">eight </hi>
             <lb/>boys were released from Newgate in one day, and imme<lb break="no"/>diately after they had undergone the sentence of<hi rend="italic">flogging, </hi>
             <lb/>which, upon some insane rule, is usually carried into ef<lb break="no"/>fect on the day of their discharge. Their persons are thus <lb/>marked with the stigma of guilt, and, from soreness and <lb/>want of strength, they are disabled from working, at the <lb/>very time they ought to go in search of employment. No <lb/>more effectual plan could have been devised to irritate these <lb/>boys against society, to prevent them from obtaining employ<lb break="no"/>ment, though desirous of it, or to impel them to recommence <lb/>their career of crime. We entreat those who are inclined to <lb/>look upon what they call a<hi rend="italic">smart whipping</hi>  as the only corrective <lb/>for juvenile offences, to reflect a little on the consequences <lb/>to which their system inevitably tends.<hi rend="italic">We</hi>  are decidedly, <lb/>and in all cases, against the deliberate infliction of pain, <lb/>merely to be felt as such. In the case of children, if not <lb/>
             <hi rend="italic">necessary</hi>  for that purpose, it will certainly give them the <lb/>idea of power superior to their own, and may thus be the <lb/>means of constraining more readily than otherwise ; but <lb/>
-            <hi rend="italic">the law</hi> , when it inflicts pain, has always other means of <lb/>evincing its power, and constraining those who are within <lb/>its grasp. Its most important function is to<hi rend="italic">prevent crime ; </hi>
+            <hi rend="italic">the law</hi>, when it inflicts pain, has always other means of <lb/>evincing its power, and constraining those who are within <lb/>its grasp. Its most important function is to<hi rend="italic">prevent crime ; </hi>
             <lb/>its next is o convince those who comit offences that the <lb/>means of detection are, on the whole, so sure that no<lb break="no"/>thing is to be gained by the commission ; and its next, to <lb/>make restitution onerous and complete. There may also <lb/>be some classes of criminals who ought to be considered <lb/>and treated as<hi rend="italic">mad</hi> –some are curable ; and some as incur<lb break="no"/>ably furious, who must either be cut off altogether, or <lb/>confined for life. We are not opposed to the infliction <lb/>of punishments, because in our opinion the most effec<lb break="no"/>tual of those will be found to consist in the best means <lb/>of preventing or remedying the evils produced by crime. <lb/>All exposures, restraints, constraints, and compulsory re<lb break="no"/>parations are punishments. We are only hostile to the inflic<lb break="no"/>tion of pain for no other purpose but because pain is produced. <lb/>If it can be made<hi rend="italic">obvious</hi>  to the sufferers that the pain inflicted <lb/>
-            <hi rend="italic">protects others</hi> , or affords<hi rend="italic">true reparation</hi>  for the wrongs <lb/>done to them or society, we shall then grant that such pu<lb break="no"/>nishments may be both just and expedient. The Prison <lb/>Society, while they vindicate themselves, temperately but <lb/>firmly, from the charge of having yielded to a sort of blind <lb/>and irrational benevolence, and advocated measures which <lb/>went to raise the condition of prisoners above that of com<lb break="no"/>mon labourers, do still seem to us to have been too much <lb/>moved by the coarse jokes and reckless speculations of a <lb/>clever essayist. If they err at all, they seem now to be <lb/>somewhat too indulgent to the advocates of hard labour <lb/>and severe punishments. We are rather inclined to think <lb/>them too decidely in favour of the tread mill, which they <lb/>allow has been so worked or constructed at different places<cb/> 
-            <lb/>as to form very unequal measures of punishment, and they <lb/>very properly insist that every tread-mill should be pro<lb break="no"/>vided with " a regulator," by which its rate of revolution <lb/>may at all times be restrained within safe limits, and a <lb/>dial-register, (lately invented by Mr<hi rend="smallcaps">Bate</hi> , instrument<lb break="no"/>maker to the Board of Excise) by which the rate of labour <lb/>may be, at any time, accurately ascertained, and which <lb/>( they think ) should in no case exceed 12,000 feet in ascent <lb/>for one day. There is an able argument in the report against <lb/>compelling persons to labour who are merely imrpisoned <lb/>
+            <hi rend="italic">protects others</hi>, or affords<hi rend="italic">true reparation</hi>  for the wrongs <lb/>done to them or society, we shall then grant that such pu<lb break="no"/>nishments may be both just and expedient. The Prison <lb/>Society, while they vindicate themselves, temperately but <lb/>firmly, from the charge of having yielded to a sort of blind <lb/>and irrational benevolence, and advocated measures which <lb/>went to raise the condition of prisoners above that of com<lb break="no"/>mon labourers, do still seem to us to have been too much <lb/>moved by the coarse jokes and reckless speculations of a <lb/>clever essayist. If they err at all, they seem now to be <lb/>somewhat too indulgent to the advocates of hard labour <lb/>and severe punishments. We are rather inclined to think <lb/>them too decidely in favour of the tread mill, which they <lb/>allow has been so worked or constructed at different places <cb/>as to form very unequal measures of punishment, and they <lb/>very properly insist that every tread-mill should be pro<lb break="no"/>vided with " a regulator," by which its rate of revolution <lb/>may at all times be restrained within safe limits, and a <lb/>dial-register, (lately invented by Mr<hi rend="smallcaps">Bate</hi>, instrument<lb break="no"/>maker to the Board of Excise) by which the rate of labour <lb/>may be, at any time, accurately ascertained, and which <lb/>( they think ) should in no case exceed 12,000 feet in ascent <lb/>for one day. There is an able argument in the report against <lb/>compelling persons to labour who are merely imrpisoned <lb/>
             <hi rend="italic">for trial</hi>  : and there is a great mass of curious and useful <lb/>information in the Appendix.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

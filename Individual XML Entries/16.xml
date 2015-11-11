@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>16</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1789-08-31"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="persuade"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>emigration</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
-            <pb n="5"/> Lord M'Donald, to his great honour, adopted <lb/>a most liberal plan of establishing, at his own ex<lb break="no"/>pence, not only one, but a number of free-villages, <lb/>on his extensive domains. By this plan, propos<lb break="no"/>ed to his Lordship by Mr. Fraser, the settlers are <lb/>to have perpetual feus of the lands, subject to a <lb/>very moderate quit rent. His Lordship will by <lb/>this means prevent the threatened emigrations to <lb/>America, and deserve the highest praises of his <lb/>country.</p>
-      </body>
-   </text>
-</TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>16</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-08-31"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="5"/>Lord M'Donald, to his great honour, adopted <lb/>a most liberal plan of establishing, at his own ex<lb break="no"/>pence, not only one, but a number of free-villages, <lb/>on his extensive domains. By this plan, propos<lb break="no"/>ed to his Lordship by Mr. Fraser, the settlers are <lb/>to have perpetual feus of the lands, subject to a <lb/>very moderate quit rent. His Lordship will by <lb/>this means prevent the threatened emigrations to <lb/>America, and deserve the highest praises of his <lb/>country.</p>
+            </body>
+        </text>
+    </TEI>

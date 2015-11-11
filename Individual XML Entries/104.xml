@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>104</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1812-08-29"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>war</item>
-                  <item>Anglo-American relations</item>
-                  <item>military</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>104</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1812-08-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <head>
-               <hi rend="smallcaps">Canada</hi> 
-            </head>
+                    <head> 
+               <hi rend="smallcaps">Canada</hi>
+                    </head>
          </p>
-         <p>Montreal, July 4</p>
-         <p>This city has been for a few days past in a state of <lb/>agitation occasioned by an event which has taken <lb/>place at Pointe Claire ; and as this matter will be <lb/>clothed, no doubt, in all the dress of misrepresentata<lb break="no"/>tion by our neighbouring enemies, from the informa<lb break="no"/>tion they may receive of it, we consider it a duty, we <lb/>owe to the community at large in this country, to <lb/>state the circumstances as they occurred, in a fair, <lb/>open, and candid manner.</p>
-         <p>By the late militia law, 2000 young men are to be <lb/>drafted from the general militia of the province for <lb/>three months to be properly trained, and of course, <lb/>a certain proportion of this number is to be furnished <lb/>by each particular district. Some those drafted <lb/>from the Parish of Pointe Claire refused to march to <lb/>Lapraire, for the purpose of joining the division sta<lb break="no"/>tioned there ; in consequence of which, Major, Lep<lb break="no"/>rohon, belonging to this particular battalion, was sent <lb/>on Tuesday last, with 22 attendants, to apprehend <lb/>these refractory persons as deserters.</p>
-         <p>They apprehended four with some opposition ; and <lb/>on their way to town with them, they were follow<lb break="no"/>ed by a considerable number of persons who rescued <lb/>one prisoner, and threatened that they would next <lb/>day proceed to the depot at Lapraire, and bring <lb/>away by force from thence the young men of the <lb/>parish, who were there on duty. Accordingly, on <lb/>Wednesday, a large body of these people assembled <lb/>at La Chine, with the intention of carrying their <lb/>threats into execution.</p>
-         <p>Thomas M'Cord, Esq. one of the Police Magi<lb break="no"/>strates, about four o'clock in the afternoon, left town, <lb/>accompanied by the light infantry of the 49th regi<lb break="no"/>ment, and a detachment of the royal artillery, with <lb/>two field-pieces, under the command of Major <lb/>Plenderleath, and took post on a point opposite to <lb/>the insurgents (consisting of about 400 persons, 87 <lb/>of whom appeared to be armed) and at the distance[?] <lb/>of about two acres. Mr M'Cord, with some other <lb/>respectable citizens, pointed out the impropriety of <lb/>their conduct, and the fate that would unfortunately <lb/>await their perseverance ; urging them, by every per<lb break="no"/>suasion, to disperse and return peaceably to their horses <lb/>and obey the law.</p>
-         <p>They replied, that they did not consider the mi<lb break="no"/>litia bill as fully passed–that they were informed it <lb/>had not received the Royal sanction ; and that al<lb break="no"/>though it might have passed the House of Assem<lb break="no"/>bly, where it originated, it had not obtained the ap<lb break="no"/>probation of the other branches of the Legislate ; <lb/>that the law, if really enacted, had not been proma<lb break="no"/>gated amongst them, and that they were not properly <lb/>made acquainted with it ; as such, they could not <lb/>pay obedience to it.</p>
-         <p>Under this false and unfortunate impression, these <lb/>deluded people persisted ; but at the same time de<lb break="no"/>clared, with shouts of<hi rend="italic">Vive le Roi</hi>  that if the Govern<lb break="no"/>ment wanted their services at any time, they were <lb/>ready, one and all, to come forward with their lives <lb/>in the defence of their country, and that they would <lb/>prove themselves, in the hour of danger, to be faithful <lb/>subjects to a Government to which they were firmly <lb/>attached by every principle.</p>
-         <p>Finding, however, that they still persisted in their <lb/>determination on this particular object, Mr M'Cord, <lb/>in his Magisterial capacity, read the riot act to them <lb/>and ordered them to disperse ; which not being com<lb break="no"/>plied with, a round shot was fired by the artillery, <lb/>but elevated above injury, which was returned by the <lb/>insurgents in a spirited fire with ball, deserving of a <lb/>better cause. The troops then fired a volley with ball <lb/>and grape, but still too much elevated to do any harm <lb/>which was also returned by another discharge from <lb/>the mob, upon which a few direct shots were fired <lb/>at them (it being nearly dark) by the military, which <lb/>made them disperse, and one man was found killed <lb/>and another wounded, it is feared mortally.</p>
-      </body>
-   </text>
-</TEI>
+                <p>Montreal, July 4</p>
+                <p>This city has been for a few days past in a state of <lb/>agitation occasioned by an event which has taken <lb/>place at Pointe Claire ; and as this matter will be <lb/>clothed, no doubt, in all the dress of misrepresentata<lb break="no"/>tion by our neighbouring enemies, from the informa<lb break="no"/>tion they may receive of it, we consider it a duty, we <lb/>owe to the community at large in this country, to <lb/>state the circumstances as they occurred, in a fair, <lb/>open, and candid manner.</p>
+                <p>By the late militia law, 2000 young men are to be <lb/>drafted from the general militia of the province for <lb/>three months to be properly trained, and of course, <lb/>a certain proportion of this number is to be furnished <lb/>by each particular district. Some those drafted <lb/>from the Parish of Pointe Claire refused to march to <lb/>Lapraire, for the purpose of joining the division sta<lb break="no"/>tioned there ; in consequence of which, Major, Lep<lb break="no"/>rohon, belonging to this particular battalion, was sent <lb/>on Tuesday last, with 22 attendants, to apprehend <lb/>these refractory persons as deserters.</p>
+                <p>They apprehended four with some opposition ; and <lb/>on their way to town with them, they were follow<lb break="no"/>ed by a considerable number of persons who rescued <lb/>one prisoner, and threatened that they would next <lb/>day proceed to the depot at Lapraire, and bring <lb/>away by force from thence the young men of the <lb/>parish, who were there on duty. Accordingly, on <lb/>Wednesday, a large body of these people assembled <lb/>at La Chine, with the intention of carrying their <lb/>threats into execution.</p>
+                <p>Thomas M'Cord, Esq. one of the Police Magi<lb break="no"/>strates, about four o'clock in the afternoon, left town, <lb/>accompanied by the light infantry of the 49th regi<lb break="no"/>ment, and a detachment of the royal artillery, with <lb/>two field-pieces, under the command of Major <lb/>Plenderleath, and took post on a point opposite to <lb/>the insurgents (consisting of about 400 persons, 87 <lb/>of whom appeared to be armed) and at the distance[?] <lb/>of about two acres. Mr M'Cord, with some other <lb/>respectable citizens, pointed out the impropriety of <lb/>their conduct, and the fate that would unfortunately <lb/>await their perseverance ; urging them, by every per<lb break="no"/>suasion, to disperse and return peaceably to their horses <lb/>and obey the law.</p>
+                <p>They replied, that they did not consider the mi<lb break="no"/>litia bill as fully passed–that they were informed it <lb/>had not received the Royal sanction ; and that al<lb break="no"/>though it might have passed the House of Assem<lb break="no"/>bly, where it originated, it had not obtained the ap<lb break="no"/>probation of the other branches of the Legislate ; <lb/>that the law, if really enacted, had not been proma<lb break="no"/>gated amongst them, and that they were not properly <lb/>made acquainted with it ; as such, they could not <lb/>pay obedience to it.</p>
+                <p>Under this false and unfortunate impression, these <lb/>deluded people persisted ; but at the same time de<lb break="no"/>clared, with shouts of<hi rend="italic">Vive le Roi</hi>  that if the Govern<lb break="no"/>ment wanted their services at any time, they were <lb/>ready, one and all, to come forward with their lives <lb/>in the defence of their country, and that they would <lb/>prove themselves, in the hour of danger, to be faithful <lb/>subjects to a Government to which they were firmly <lb/>attached by every principle.</p>
+                <p>Finding, however, that they still persisted in their <lb/>determination on this particular object, Mr M'Cord, <lb/>in his Magisterial capacity, read the riot act to them <lb/>and ordered them to disperse ; which not being com<lb break="no"/>plied with, a round shot was fired by the artillery, <lb/>but elevated above injury, which was returned by the <lb/>insurgents in a spirited fire with ball, deserving of a <lb/>better cause. The troops then fired a volley with ball <lb/>and grape, but still too much elevated to do any harm <lb/>which was also returned by another discharge from <lb/>the mob, upon which a few direct shots were fired <lb/>at them (it being nearly dark) by the military, which <lb/>made them disperse, and one man was found killed <lb/>and another wounded, it is feared mortally.</p>
+            </body>
+        </text>
+    </TEI>

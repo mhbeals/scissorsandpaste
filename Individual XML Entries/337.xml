@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>337</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141023 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1792-04-20"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-                  <item>war</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>337</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141023 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1792-04-20"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="6"/> Letters dated Halifax, Feb 7, brought by the <lb/>Schooner Joseph, arrived at Glasgow, say, the In<lb break="no"/>dians have beat the Americans in a second action, <lb/>in which 48 officers and 800 men were killed of <lb/>the American army, besides the loss of all their <lb/>field pieces, arms and stores. since this battle, <lb/>the Indians are increasing, and become very pow<lb break="no"/>erful.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

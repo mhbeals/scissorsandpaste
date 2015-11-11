@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>338</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141023 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1792-04-23"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>trade</item>
-                  <item>alcohol</item>
-                  <item>war</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
-            <pb n="7"/> Abstract of<hi rend="smallcaps">American Finances</hi> , as laid before <lb/>Congress, January 23, by Alexander Hamilton, Esq; <lb/>Secretary to the Treasury of the United States.</p>
-         <p>
-            <hi rend="center">
-               <hi rend="smallcaps">Revenue. </hi>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>338</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141023 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1792-04-23"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>alcohol</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="7"/> Abstract of<hi rend="smallcaps">American Finances</hi>, as laid before <lb/>Congress, January 23, by Alexander Hamilton, Esq; <lb/>Secretary to the Treasury of the United States.</p>
+                <p>
+            <hi rend="center"> 
+               <hi rend="smallcaps">Revenue. </hi> 
                <hi rend="flush-right">
-                  <hi rend="italic">Dollars.</hi> 
-               </hi> 
+                            <hi rend="italic">Dollars.</hi> 
+               </hi>
             </hi> 
-            <lb break="yes"/>Duties on Imports for the year 1792, estimated at 3,300,000<lb break="yes"/>Duties on home made spirits for 1792, estimated at 400,000<lb break="yes"/>
+            <lb break="yes"/>Duties on Imports for the year 1792, estimated at 3,300,000 <lb break="yes"/>Duties on home made spirits for 1792, estimated at 400,000 <lb break="yes"/>
             <hi rend="right">___________</hi> 
             <lb break="yes"/>
             <hi rend="right">Total, 3,700,000</hi> 
             <lb break="yes"/>
          </p>
-         <p>
-            <hi rend="center">
-               <hi rend="smallcaps">Expences. </hi>
+                <p>
+            <hi rend="center"> 
+               <hi rend="smallcaps">Expences. </hi> 
                <hi rend="flush-right">
-                  <hi rend="italic">Dollars. Cents.</hi> 
-               </hi> 
+                            <hi rend="italic">Dollars. Cents.</hi> 
+               </hi>
             </hi> 
             <lb break="yes"/> 
             <lb/>For support of the Civil Establishment of }<hi rend="flush-right">368,653 56</hi> 
-            <lb break="yes"/>government, Ambassadors, &amp;c. &amp;c.<lb break="yes"/>Military Establishment, including the ex. }<hi rend="flush-right">382,731 61</hi> 
+            <lb break="yes"/>government, Ambassadors, &amp;c. &amp;c. <lb break="yes"/>Military Establishment, including the ex. }<hi rend="flush-right">382,731 61</hi> 
             <lb break="yes"/>pences of the Indian War,
-<lb break="yes"/>Pensions to Invalids who have not accept }<hi rend="flush-right">87,462 60</hi> 
-            <lb break="yes"/>ed of lands.<lb break="yes"/> 
+ <lb break="yes"/>Pensions to Invalids who have not accept }<hi rend="flush-right">87,462 60</hi> 
+            <lb break="yes"/>ed of lands. <lb break="yes"/> 
             <lb/>
             <hi rend="right">___________</hi> 
             <lb break="yes"/>
             <hi rend="right">Total, 388,848 77</hi> 
             <lb break="yes"/>Interest on the foreign and domestic }<hi rend="flush-right">2,849,194 77</hi> 
             <lb break="yes"/> 
-            <lb/>debts, including the state debts af<lb break="no"/>
+            <lb/>debts, including the state debts af<lb break="no"/> 
             <lb break="yes"/> 
             <lb/>sumed,<hi rend="flush-right">___________</hi> 
             <lb break="yes"/>
-            <hi rend="right">3,683,043 50</hi> 
+            <hi rend="right">3,683,043 50</hi>
          </p>
-         <p>Estimating the dollar at 4s. 6d. and each cent at a half <lb/>penny, amount to eight hundred and forty seven thous<lb break="no"/>and and ten pounds, two shillings, and two-pence sterling <lb/>British money, which comes to about 4s. 2d. sterling a <lb/>head for each person.</p>
-      </body>
-   </text>
-</TEI>
+                <p>Estimating the dollar at 4s. 6d. and each cent at a half <lb/>penny, amount to eight hundred and forty seven thous<lb break="no"/>and and ten pounds, two shillings, and two-pence sterling <lb/>British money, which comes to about 4s. 2d. sterling a <lb/>head for each person.</p>
+            </body>
+        </text>
+    </TEI>

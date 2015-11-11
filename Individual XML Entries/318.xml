@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>318</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141003 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1791-06-27"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>318</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141003 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1791-06-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="2"/> The unsettled state of a great part of the West<lb break="no"/>tern Frontiers of America (if we can suppose that <lb/>there are any determined frontiers when the set<lb break="no"/>tlers are making large and continual encroach<lb break="no"/>ments) must very much depreciate the sale of lands <lb/>in those parts, notwithstanding the very small <lb/>rates of purchase demanded for vast extents of <lb/>ground, and the soil being remarkable fertile and <lb/>productive. The ineffectual attempts of last sum<lb break="no"/>mer to prevent the future depredations of the Mi<lb break="no"/>amis, and some other tribes of Indians, and the <lb/>barbarities before and since committed on the set<lb break="no"/>lers, must occasion other people to be very cau<lb break="no"/>tious of removing to places where they would hold <lb/>their lives and property on a very precarious te<lb break="no"/>ure, unless the arms of the State prove remark<lb break="no"/>ably successful in their future attacks.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

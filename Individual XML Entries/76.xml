@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>76</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1790-11-22"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="entertain"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-                  <item>military</item>
-                  <item>crime</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>76</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>military</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>On Tuesday afternoon the six Cherokee Chiefs <lb/>visited the Cathedral of St. Paul's, which they <lb/>explain with an equal degree of curiosity and</p>
-         <p>
+                <p>
             <pb/>amazement. They were asked whether they <lb/>would not attend the evening service, which they <lb/>readily complied, and seemed particularly de<lb break="no"/>lighted with the organ.</p>
-         <p>The Cherokee Chiefs having made us an offer <lb/>of 20,000 men, gratitude obliges us to make <lb/>them some acknowledgement, whether we accept <lb/>their offer or not.–We can very well spare them <lb/>the members of the<hi rend="italic">Halter Club</hi> ,–all our house<lb break="no"/>breakers, highwaymen, pick pockets, swindlers, <lb/>Faro and E O Table keepers,–and all their ac<lb break="no"/>complices to an amazing number.</p>
-         <p>Such a collection would be a truly valuable <lb/>present.–Among them are found dispersedly all <lb/>the qualities of able Generals,–skilful Financiers, <lb/>–able Negotiators, active Citizens,–and men <lb/>highly expert at a<hi rend="italic">Coup de Main</hi>.</p>
-         <p>Were we to add the Pugilistic tribe,–the <lb/>Cherokee Chiefs might on their return to their <lb/>own country enter into a boxing war against their <lb/>enemies–with a certainty of the most brilliant <lb/>success.</p>
-         <p>Trading Justices and Lawyers they would per<lb break="no"/>haps be glad to have ; and it is the opinion of <lb/>most people, that a few thousands of the latter <lb/>description of men might be spared.</p>
-      </body>
-   </text>
-</TEI>
+                <p>The Cherokee Chiefs having made us an offer <lb/>of 20,000 men, gratitude obliges us to make <lb/>them some acknowledgement, whether we accept <lb/>their offer or not.–We can very well spare them <lb/>the members of the<hi rend="italic">Halter Club</hi>,–all our house<lb break="no"/>breakers, highwaymen, pick pockets, swindlers, <lb/>Faro and E O Table keepers,–and all their ac<lb break="no"/>complices to an amazing number.</p>
+                <p>Such a collection would be a truly valuable <lb/>present.–Among them are found dispersedly all <lb/>the qualities of able Generals,–skilful Financiers, <lb/>–able Negotiators, active Citizens,–and men <lb/>highly expert at a<hi rend="italic">Coup de Main</hi>.</p>
+                <p>Were we to add the Pugilistic tribe,–the <lb/>Cherokee Chiefs might on their return to their <lb/>own country enter into a boxing war against their <lb/>enemies–with a certainty of the most brilliant <lb/>success.</p>
+                <p>Trading Justices and Lawyers they would per<lb break="no"/>haps be glad to have ; and it is the opinion of <lb/>most people, that a few thousands of the latter <lb/>description of men might be spared.</p>
+            </body>
+        </text>
+    </TEI>

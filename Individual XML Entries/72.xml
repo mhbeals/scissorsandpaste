@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>72</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1790-11-15"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="entertain"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>marriage</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>72</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-15"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>A<hi rend="italic">Transfer of </hi>
-            <hi rend="smallcaps">Conjugal Love.</hi> 
+            <hi rend="smallcaps">Conjugal Love.</hi>
          </p>
-         <p>On Monday last was married at Stockport, an <lb/>inhabitant of Macclesfield, to a female on whom <lb/>he had fixed his<hi rend="italic">affections</hi> . It is to be observed, <lb/>that he did not toil through the tedious forms of <lb/>courtship, but at once got a wife, as others some<lb break="no"/>times get good places, by<hi rend="italic">purchase</hi> –and, as we <lb/>are informed, the lady was valued at eight guineas <lb/>and thirty yards of Irish cloth, at 2s. 6d. per <lb/>yard–which property he deposited in exchange <lb/>for<hi rend="italic">earthly treasure.</hi> –Whether a wife may be <lb/>cheap or dear at that price, time will shew. Her <lb/>former husband, having seen military service, was <lb/>not to be discomposed at<hi rend="italic">trifles</hi> , and his<hi rend="italic">philosophy </hi>
+                <p>On Monday last was married at Stockport, an <lb/>inhabitant of Macclesfield, to a female on whom <lb/>he had fixed his<hi rend="italic">affections</hi>. It is to be observed, <lb/>that he did not toil through the tedious forms of <lb/>courtship, but at once got a wife, as others some<lb break="no"/>times get good places, by<hi rend="italic">purchase</hi> –and, as we <lb/>are informed, the lady was valued at eight guineas <lb/>and thirty yards of Irish cloth, at 2s. 6d. per <lb/>yard–which property he deposited in exchange <lb/>for<hi rend="italic">earthly treasure.</hi> –Whether a wife may be <lb/>cheap or dear at that price, time will shew. Her <lb/>former husband, having seen military service, was <lb/>not to be discomposed at<hi rend="italic">trifles</hi>, and his<hi rend="italic">philosophy </hi>
             <lb/>probably being strengthened on the occasion, he <lb/>attended the happy pair to church, and saw the <lb/>marriage ceremony ; after which they spent the <lb/>evening at the bridegroom's house, where all was <lb/>gaity. The first husband parted with an help<lb break="no"/>mate had<hi rend="italic">borne his sorrows twelve years ;</hi>  and <lb/>the second husband received a<hi rend="italic">partner of his joys, </hi>
-            <lb/>after having buried a former one<hi rend="italic">just a week.</hi> 
+            <lb/>after having buried a former one<hi rend="italic">just a week.</hi>
          </p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

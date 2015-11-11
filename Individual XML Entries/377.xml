@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>377</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on<date when="2103-06-08">20130608
-</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2015-04-04">20150404</date> by<persName role="transcription">M. H. Beals</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitised image available from
-<ref target="https://news.google.com/newspapers?id=qUpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=1830%2C4957925">Google News Archive</ref>
-                  </authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1794-07-18"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="composite"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-                  <item>Anglo-American relations</item>
-                  <item>war</item>
-                  <item>shipping news</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head>AMERICA</head>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>377</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2103-06-08">20130608
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-04-04">20150404</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="https://news.google.com/newspapers?id=qUpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=1830%2C4957925">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-07-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>Anglo-American relations</item>
+                            <item>war</item>
+                            <item>shipping news</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head>AMERICA</head>
+                <p>
             <pb n="5"/>
-            <hi rend="center">
-               <hi rend="smallcaps">Philadelphia</hi> ,<hi rend="italic">June</hi>  3. <lb/>[<hi rend="smallcaps">Authentic</hi> .]</hi> 
+            <hi rend="center"> 
+               <hi rend="smallcaps">Philadelphia</hi>, <hi rend="italic">June</hi>  3.  <lb/>[ <hi rend="smallcaps">Authentic</hi>.]</hi>
          </p>
-         <p>
-            <hi rend="center">
-               <hi rend="italic">Copy of a letter from General Wilkins, to Col. C. Biddl, <lb/>dated Pittsburgh,</hi>  23<hi rend="italic">d May</hi> , 1794.</hi> 
+                <p>
+            <hi rend="center"> 
+               <hi rend="italic">Copy of a letter from General Wilkins, to Col. C. Biddl,  <lb/>dated Pittsburgh, </hi>23 <hi rend="italic">d May</hi>, 1794.</hi>
          </p>
-         <p> "I this moment received yours of the 17th inst. <lb/>I arrived about fifteen minutes ago from Le Boeuf, <lb/>and left the detachment there well covered, and in <lb/>good spirits. They have built, under my directi<lb break="no"/>ons, two small block-houses, picketed in, which I <lb/>think will render them sufficiently strong until the <lb/>reinforcement goes under Capt. Denny.</p>
-         <p> "The Indians I have conversed with still conti<lb break="no"/>nue of the opinion that the British will make an <lb/>opposition to the establishment at Presque Isle. <lb/>There arrived at Cuslawago, while I was there, an <lb/>Indian from Sandusky, where he had been left by <lb/>the Senecas last fall sick;ߝhe says the Lieutenant <lb/>Governor of Upper Canada, M'Kee, and Elliot the <lb/>Indian agent, (the two last refugees from this coun<lb break="no"/>try) were visiting all the Indian towns in that quar<lb break="no"/>ter, and exciting them to continue their op<lb break="no"/>position to the Americans, and assuring them of <lb/>support from their father the British monarch. He <lb/>further adds that they were ready for fighting Gen. <lb/>Wayne the moment he moved; and that the Bri<lb break="no"/>tish were erecting garrisons at the Miami river. He<lb break="no"/>confirms the accounts of the other Indians, that <lb/>they were determined to oppose the establishment <lb/>at Presque Isle."</p>
-         <p>There were in the Port of Philadelphia on the <lb/>25th of May.</p>
-         <p>
-            <hi rend="center">62 Ships, <lb/>73 Brigs, <lb/>7 Snows, <lb/>60 Schooners, <lb/>42 Sloops. <lb/>244</hi> 
+                <p>"I this moment received yours of the 17th inst. <lb/>I arrived about fifteen minutes ago from Le Boeuf, <lb/>and left the detachment there well covered, and in <lb/>good spirits. They have built, under my directi<lb break="no"/>ons, two small block-houses, picketed in, which I <lb/>think will render them sufficiently strong until the <lb/>reinforcement goes under Capt. Denny.</p>
+                <p>"The Indians I have conversed with still conti<lb break="no"/>nue of the opinion that the British will make an <lb/>opposition to the establishment at Presque Isle. <lb/>There arrived at Cuslawago, while I was there, an <lb/>Indian from Sandusky, where he had been left by <lb/>the Senecas last fall sick;ߝhe says the Lieutenant <lb/>Governor of Upper Canada, M'Kee, and Elliot the <lb/>Indian agent, (the two last refugees from this coun<lb break="no"/>try) were visiting all the Indian towns in that quar<lb break="no"/>ter, and exciting them to continue their op<lb break="no"/>position to the Americans, and assuring them of <lb/>support from their father the British monarch. He <lb/>further adds that they were ready for fighting Gen. <lb/>Wayne the moment he moved; and that the Bri<lb break="no"/>tish were erecting garrisons at the Miami river. He<lb break="no"/>confirms the accounts of the other Indians, that <lb/>they were determined to oppose the establishment <lb/>at Presque Isle."</p>
+                <p>There were in the Port of Philadelphia on the <lb/>25th of May.</p>
+                <p>
+            <hi rend="center">62 Ships,  <lb/>73 Brigs,  <lb/>7 Snows,  <lb/>60 Schooners,  <lb/>42 Sloops.  <lb/>244</hi>
          </p>
-         <p>
-            <hi rend="right">
-               <hi rend="italic">In the House of Representatives of the United <lb/>States, Thursday June</hi>  5, 1794.</hi> 
+                <p>
+            <hi rend="right"> 
+               <hi rend="italic">In the House of Representatives of the United  <lb/>States, Thursday June </hi>5, 1794.</hi>
          </p>
-         <p>The House, according to the order of the day, resolv<lb break="no"/>ed itself into a committee of the whole House, on the re<lb break="no"/>port of the Committee, to whom was referred the remon<lb break="no"/>strance of the People west of the Alleghany Mountains, re<lb break="no"/>lative to the navigation of the river Mississippi, and after <lb/>some time spent therein, Mr. Speaker resumed the chair, <lb/>and Mr. Trumbull reported, that the Committee, accord<lb break="no"/>ing to order, had the same report under consideration, and <lb/>come to a resolution thereupon, which he delivered in at <lb/>the Clerk's table, where the same was twice read, and a<lb break="no"/>greed to by the House, as follows:</p>
-         <p>Resolved, That as it appear, from the communications <lb/>of the Executive, that the right of the United States to the <lb/>free navigation of the Mississippi, is now the subject of ne<lb break="no"/>gotiation with the Court of Spain; and as it is the interest <lb/>of the United States, and every part thereof, to come to an <lb/>amicable adjustment of the right in that mode, rather than <lb/>resort to any means constitutionally belonging to the Legi<lb break="no"/>slature, no farther proceeding should be had on the said re<lb break="no"/>monstrance, during the present session of Congress.</p>
-         <p>
-            <hi rend="center">Extract from the Journal.</hi> 
+                <p>The House, according to the order of the day, resolv<lb break="no"/>ed itself into a committee of the whole House, on the re<lb break="no"/>port of the Committee, to whom was referred the remon<lb break="no"/>strance of the People west of the Alleghany Mountains, re<lb break="no"/>lative to the navigation of the river Mississippi, and after <lb/>some time spent therein, Mr. Speaker resumed the chair, <lb/>and Mr. Trumbull reported, that the Committee, accord<lb break="no"/>ing to order, had the same report under consideration, and <lb/>come to a resolution thereupon, which he delivered in at <lb/>the Clerk's table, where the same was twice read, and a<lb break="no"/>greed to by the House, as follows:</p>
+                <p>Resolved, That as it appear, from the communications <lb/>of the Executive, that the right of the United States to the <lb/>free navigation of the Mississippi, is now the subject of ne<lb break="no"/>gotiation with the Court of Spain; and as it is the interest <lb/>of the United States, and every part thereof, to come to an <lb/>amicable adjustment of the right in that mode, rather than <lb/>resort to any means constitutionally belonging to the Legi<lb break="no"/>slature, no farther proceeding should be had on the said re<lb break="no"/>monstrance, during the present session of Congress.</p>
+                <p>
+            <hi rend="center">Extract from the Journal.</hi>
          </p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

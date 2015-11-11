@@ -13,5 +13,4 @@
     </xsl:template>
     <xsl:template match="hi[@rend='italic']">*<xsl:apply-templates/>*</xsl:template>
     <xsl:template match="p"><xsl:apply-templates/><xsl:text>&#xd;&#xd;</xsl:text></xsl:template>
-
 </xsl:stylesheet>

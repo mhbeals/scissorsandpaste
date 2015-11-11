@@ -1,65 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>31</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1789-11-27"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="persuade"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>revolution</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>31</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-11-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>revolution</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="center">
-               <hi rend="italic">"What mighty contests rise from trivial things;"</hi> 
-            </hi> 
+            <hi rend="center"> 
+               <hi rend="italic">"What mighty contests rise from trivial things;"</hi>
+            </hi>
          </p>
-         <p>That the present Revolution in France is a con<lb break="no"/>sequence of the Revolution in America, cannot <lb/>admit of a doubt. The American Revolution o<lb break="no"/>riginated in Adams, a very insignificant Bosto<lb break="no"/>nian. Not that this Adams had the least expec<lb break="no"/>tation of American independence, when he fo<lb break="no"/>mented the opposition to the stamp-act; indeed <lb/>no human wisdom could possibly have foreseen <lb/>the subsequent folly and imprudence of the Bri<lb break="no"/>tish administration and its obsequious Parliament. <lb/>An Administration so totally destitute of common <lb/>sense, so totally ignorant of every princple of <lb/>sound policy, no nation ever beheld. Adams had <lb/>the sagacity to avail himself of such despicable<cb/> 
-            <lb/>policies.–Fortunately for the American cause, <lb/>the Generals that were sent from England were <lb/>of congenial abilities with the Minister, and the <lb/>Americans themselves were surprised at the faci<lb break="no"/>lity with which they acquired their independence. <lb/>–Yet all the blunders of the British administra<lb break="no"/>tion, and the miserable conduct of the British <lb/>Generals, would hardly have been sufficient to <lb/>emancipate America, notwithstanding her ex<lb break="no"/>treme weakeness, without the assistance of France; <lb/>and this assistance depended entirely on Dr. <lb/>Franklin being driven to Paris by the fatal-phi<lb break="no"/>lippic of a certain great lawyer. Such, therefore, <lb/>is the chain of concurrent circumstances that hath <lb/>overturned the French monarch. If the British <lb/>minister had possessed common sagacity–if he <lb/>could have distinguished a general from a corpo<lb break="no"/>ral; if Franklin had been treated with common <lb/>civility, America would have remained a British <lb/>colony, and France an absolute monarch, for <lb/>ages yet to come.</p>
-      </body>
-   </text>
-</TEI>
+                <p>That the present Revolution in France is a con<lb break="no"/>sequence of the Revolution in America, cannot <lb/>admit of a doubt. The American Revolution o<lb break="no"/>riginated in Adams, a very insignificant Bosto<lb break="no"/>nian. Not that this Adams had the least expec<lb break="no"/>tation of American independence, when he fo<lb break="no"/>mented the opposition to the stamp-act; indeed <lb/>no human wisdom could possibly have foreseen <lb/>the subsequent folly and imprudence of the Bri<lb break="no"/>tish administration and its obsequious Parliament. <lb/>An Administration so totally destitute of common <lb/>sense, so totally ignorant of every princple of <lb/>sound policy, no nation ever beheld. Adams had <lb/>the sagacity to avail himself of such despicable <cb/>policies.–Fortunately for the American cause, <lb/>the Generals that were sent from England were <lb/>of congenial abilities with the Minister, and the <lb/>Americans themselves were surprised at the faci<lb break="no"/>lity with which they acquired their independence. <lb/>–Yet all the blunders of the British administra<lb break="no"/>tion, and the miserable conduct of the British <lb/>Generals, would hardly have been sufficient to <lb/>emancipate America, notwithstanding her ex<lb break="no"/>treme weakeness, without the assistance of France; <lb/>and this assistance depended entirely on Dr. <lb/>Franklin being driven to Paris by the fatal-phi<lb break="no"/>lippic of a certain great lawyer. Such, therefore, <lb/>is the chain of concurrent circumstances that hath <lb/>overturned the French monarch. If the British <lb/>minister had possessed common sagacity–if he <lb/>could have distinguished a general from a corpo<lb break="no"/>ral; if Franklin had been treated with common <lb/>civility, America would have remained a British <lb/>colony, and France an absolute monarch, for <lb/>ages yet to come.</p>
+            </body>
+        </text>
+    </TEI>

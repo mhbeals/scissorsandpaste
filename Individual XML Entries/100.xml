@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>100</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1794-02-14"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>transportation</item>
-                  <item>female emigration</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
-            <pb/>At four o'clock yesterday morning Mess. Muir, <lb/>Skirving, and Margarot, were taken from their <lb/>beds, without any previous notice,<hi rend="italic">hand-cuffed</hi> , and <lb/>put into a post-chaise, to be conveyed to Woolwich, <lb/>where a vessel waits to sail with them immediately <lb/>for Botany Bay.</p>
-         <p>Mr. Palmer has, we understood, been sent from <lb/>on board the hulks, in the same manner, to take <lb/>his passage on board the same vessel.</p>
-         <p>Between 10 and 11 o'clock, about sixty female <lb/>convicts were put on board a vessel at Blackfriars <lb/>bridge, destined to the same voyage. These latter <lb/>behaved in a most turbulent manner and even <lb/>fought in the hold of the boat. There were among <lb/>them one or two well dressed women ; and what <lb/>was more lamentable in the eyes of the spectator, <lb/>some of had infants with them.</p>
-      </body>
-   </text>
-</TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>100</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-02-14"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>transportation</item>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>At four o'clock yesterday morning Mess. Muir, <lb/>Skirving, and Margarot, were taken from their <lb/>beds, without any previous notice,<hi rend="italic">hand-cuffed</hi>, and <lb/>put into a post-chaise, to be conveyed to Woolwich, <lb/>where a vessel waits to sail with them immediately <lb/>for Botany Bay.</p>
+                <p>Mr. Palmer has, we understood, been sent from <lb/>on board the hulks, in the same manner, to take <lb/>his passage on board the same vessel.</p>
+                <p>Between 10 and 11 o'clock, about sixty female <lb/>convicts were put on board a vessel at Blackfriars <lb/>bridge, destined to the same voyage. These latter <lb/>behaved in a most turbulent manner and even <lb/>fought in the hold of the boat. There were among <lb/>them one or two well dressed women ; and what <lb/>was more lamentable in the eyes of the spectator, <lb/>some of had infants with them.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>365</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on<date when="2013-06-06">20130606</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2014-12-15">20141214</date> by<persName role="transcription">M. H. Beals</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitised image available from
-<ref target="http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=4213%2C5516159"> Google News Archive</ref>
-                  </authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1793-08-30"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="persuade"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Anglo-American relations</item>
-                  <item>foreign relations</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head n="London, England, United Kingdom">LONDON.</head>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>365</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-06">20130606</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2014-12-15">20141214</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=4213%2C5516159"> Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1793-08-30"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Anglo-American relations</item>
+                            <item>foreign relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head n="London, England, United Kingdom">LONDON.</head>
+                <p>
             <pb n="2"/>Each day brings additional strength to the re<lb break="no"/>port of a rupture with America. The represent<lb break="no"/>tations which have been very forcibly urged by the American Minister, Mr. Pickney, include various <lb/>topics of complaint. Amongst these are, the with<lb break="no"/>holding of the poste of Niagara, Detroit, &amp;c. in <lb/>violation of the treat of 1783; the exciting of <lb/>of the Creek and other Indians to make compen<lb break="no"/>sation for the property seized by the armies under <lb/>Lord Cornwalis, &amp; in the Southern States, ac<lb break="no"/>cording to stipulation; the seizure of American <lb/>ships bound to France; the impressing of Ameri<lb break="no"/>can citizens to man our fleets; and finally, the <lb/>sullen silence which the British Minister is alledg<lb break="no"/>ed to have uniformly maintained on the subject of <lb/>the claims made by the Republic.</p>
-         <p>The American Minister has, however, so little <lb/>hope of efficacy from these representations, that <lb/>he has ordered in his tradesmen's bills, and made <lb/>every other preparation for an abrupt departure.</p>
-         <p>Not withstanding this alarming aspect of affairs, <lb/>we still must hope, that no consequences subversive <lb/>of the pacific system at present subsisting between <lb/>American and Great Britain will ensue; for ill-<lb break="no"/>judged and ignorant, indeed, of the true interests <lb/>of his country must that Briton be (whatever his <lb/>rank) who would advise another American war <lb/>–a war which, reasoning of the future by the <lb/>sorrowful experience of the past, can only serve to <lb/>increase the sum, and to swell the catalogue of <lb/>human woes.</p>
-      </body>
-   </text>
-</TEI>
+                <p>The American Minister has, however, so little <lb/>hope of efficacy from these representations, that <lb/>he has ordered in his tradesmen's bills, and made <lb/>every other preparation for an abrupt departure.</p>
+                <p>Not withstanding this alarming aspect of affairs, <lb/>we still must hope, that no consequences subversive <lb/>of the pacific system at present subsisting between <lb/>American and Great Britain will ensue; for ill-<lb break="no"/>judged and ignorant, indeed, of the true interests <lb/>of his country must that Briton be (whatever his <lb/>rank) who would advise another American war <lb/>–a war which, reasoning of the future by the <lb/>sorrowful experience of the past, can only serve to <lb/>increase the sum, and to swell the catalogue of <lb/>human woes.</p>
+            </body>
+        </text>
+    </TEI>

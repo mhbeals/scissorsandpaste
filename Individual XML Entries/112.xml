@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>112</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1814-05-26"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="composite"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>settlement description</item>
-                  <item>crime</item>
-                  <item>colonial government</item>
-                  <item>trade</item>
-                  <item>Maori</item>
-                  <item>Pacific Islanders</item>
-                  <item>transportation</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>112</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1814-05-26"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>crime</item>
+                            <item>colonial government</item>
+                            <item>trade</item>
+                            <item>Maori</item>
+                            <item>Pacific Islanders</item>
+                            <item>transportation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <head>
-               <hi rend="smallcaps">New South Wales Intelligence</hi> 
-            </head>
+                    <head> 
+               <hi rend="smallcaps">New South Wales Intelligence</hi>
+                    </head>
          </p>
-         <p>A proclamation, issued by Governor Macquarrie, appears <lb/>in the Sidney Gazette of 14th May, stating that Peter Mills <lb/>Acting Deputy Surveyor of Lands at Port Dalrymple, Van <lb/>Dieman's Land, and George Williams, Acting Deputy Com<lb break="no"/>missary of Stores and provisions at the said settlement, had <lb/>absconded from their habitations, and fled to the woods ; that <lb/>their object was to live by rapine and violence ; to effect which <lb/>they had armed themselves, and taken the command of a gang <lb/>of 26 desperadoes, with whose aid they had committed nume<lb break="no"/>rous robberies–entering the lands of settlers, driving away <lb/>their cattle, and plundering their houses. The proclamation <lb/>declares that those who shall return to their houses and occu<lb break="no"/>pations before 1st December next, shall be pardoned and <lb/>saved harmless from all offences, except the crime of wilful <lb/>murder ; and denounces those who shall disregard this offer, <lb/>as outlaws.</p>
-         <p>Sydney, New South Wales, Jan. 4. <lb/>The Argo has arrived with a most extensive supply of tea, <lb/>viz, 167 chests of souchong, 200 ditto bobea, 200 hyson skin, <lb/>and young hyson 50 ; in all 617 chests. The consequences has <lb/>been a reduction in the price of souching from 30s to 5s per <lb/>lb currency. Shortly prior to the Argo's departure from the <lb/>Island of Mauritius, the Hope American ship, laden with tea <lb/>and sundies, valued at L80,000, was captured by his Maje<lb break="no"/>sty's sloop Harpy, Captain Allen.</p>
-         <p>In consequences of the oppressive conduct of several masters <lb/>of colonial and British ships, and of their crews towards the <lb/>natives of New Zealand, of Otaheite, and of the other islands <lb/>in the South Pacific Ocean, which have led to the destruction <lb/>of several vessels, with their crews, by the natives, and dis<lb break="no"/>turbed all trade and intercourse with those islands, both by <lb/>British shipping and that ofthe allied powers–his Excellency <lb/>has forbidden any vessel to clear out from any place in New <lb/>South Wales, without a bond given by the master or owner to <lb/>the naval officer for the time being at the port, for L.1000 <lb/>sterling, binding him and his crew not to commit any act of <lb/>hostility, or to be guilty of any trespass, or forment any animo<lb break="no"/>sities between the natives, or take any part in any war that <lb/>may prevail ; nor forcibly carry away any male or female in<lb break="no"/>habitants of the islands under penalty of forfeiting the sum <lb/>specified in the bond.</p>
-         <p>A small party, who a short time ago undertook[?] a land pas<lb break="no"/>sage in a direction towards Broken Bay, for the purpose of as<lb break="no"/>certaining the nature and fertility of the country, have disco<lb break="no"/>vered an excellent grazing track of 8000acres. In consequence <lb/>of which one gentlemen, Mr Robert Campbell, has already <lb/>sent thither an extensive herd of cattle, and this example is <lb/>likely to be followed by others.</p>
-         <p>Thomas West, who came to this colony a convict for life, <lb/>in the ship Earl Cornwall's[?], in 1801, has received from his <lb/>Excellency a conditional pardon, in consideration of his general <lb/>good conduct and character for sobriety and industry, and also <lb/>in consideration of his having lately erected a water mill for <lb/>the grinding of grain at Barcorn Glen, within two miles of <lb/>Sydney, being the first water mill ever erected in the vicinty <lb/>of this town.</p>
-         <p>Sydney, New South Wales, May 21. <lb/>The good understanding between the natives and our <lb/>settlers, which had been maintained for the last six years, <lb/>has given place to frequent outrages attended with fatal con<lb break="no"/>sequences. On Saturday, a body of 60 natives commenced <lb/>plundering the fields of a settler, when three privates of the <lb/>veteran battalion fired upon them and killed a boy. The na<lb break="no"/>rushed upon them before they could load again, and <lb/>killed on private, Isaac Eustace, and compelled the other <lb/>two to fly. They then plundered the ground of Messrs <lb/>Milehouse and Butcher. Next day a party of 14 soldiers <lb/>falling in with them, shot a woman and two children–the <lb/>savages attacked William Baker, a stock-keeper of Mr Mac<lb break="no"/>Arthur, killed the man and two women, named Sullivan and <lb/>Herburg.</p>
-         <p>Sydney, New South Wales, Feb. 12. <lb/>On Monday last arrived the ship General Hewett, Cap<lb break="no"/>tain Earle, from England, having a detachment of the 46th <lb/>regiment, commanded by Major Oglivie ; and yesterday ar<lb break="no"/>rived the Windham, Captain Bligh, also from England, <lb/>having on board the head-quarters of the 46th regiment, <lb/>commanded by Lieutenant-Colonel Molle, who succeeded <lb/>Lieutenant-Colonel O'Connell, as Lieutenant-Governor of <lb/>the territory, and is accompanied by Mrs Molle and family ; <lb/>also Lieutenant Walters, of the navy, agent for transports– <lb/>Of the 300 convicts which the General Hewett received on <lb/>board, 35 died on the passage.</p>
-      </body>
-   </text>
-</TEI>
+                <p>A proclamation, issued by Governor Macquarrie, appears <lb/>in the Sidney Gazette of 14th May, stating that Peter Mills <lb/>Acting Deputy Surveyor of Lands at Port Dalrymple, Van <lb/>Dieman's Land, and George Williams, Acting Deputy Com<lb break="no"/>missary of Stores and provisions at the said settlement, had <lb/>absconded from their habitations, and fled to the woods ; that <lb/>their object was to live by rapine and violence ; to effect which <lb/>they had armed themselves, and taken the command of a gang <lb/>of 26 desperadoes, with whose aid they had committed nume<lb break="no"/>rous robberies–entering the lands of settlers, driving away <lb/>their cattle, and plundering their houses. The proclamation <lb/>declares that those who shall return to their houses and occu<lb break="no"/>pations before 1st December next, shall be pardoned and <lb/>saved harmless from all offences, except the crime of wilful <lb/>murder ; and denounces those who shall disregard this offer, <lb/>as outlaws.</p>
+                <p>Sydney, New South Wales, Jan. 4. <lb/>The Argo has arrived with a most extensive supply of tea, <lb/>viz, 167 chests of souchong, 200 ditto bobea, 200 hyson skin, <lb/>and young hyson 50 ; in all 617 chests. The consequences has <lb/>been a reduction in the price of souching from 30s to 5s per <lb/>lb currency. Shortly prior to the Argo's departure from the <lb/>Island of Mauritius, the Hope American ship, laden with tea <lb/>and sundies, valued at L80,000, was captured by his Maje<lb break="no"/>sty's sloop Harpy, Captain Allen.</p>
+                <p>In consequences of the oppressive conduct of several masters <lb/>of colonial and British ships, and of their crews towards the <lb/>natives of New Zealand, of Otaheite, and of the other islands <lb/>in the South Pacific Ocean, which have led to the destruction <lb/>of several vessels, with their crews, by the natives, and dis<lb break="no"/>turbed all trade and intercourse with those islands, both by <lb/>British shipping and that ofthe allied powers–his Excellency <lb/>has forbidden any vessel to clear out from any place in New <lb/>South Wales, without a bond given by the master or owner to <lb/>the naval officer for the time being at the port, for L.1000 <lb/>sterling, binding him and his crew not to commit any act of <lb/>hostility, or to be guilty of any trespass, or forment any animo<lb break="no"/>sities between the natives, or take any part in any war that <lb/>may prevail ; nor forcibly carry away any male or female in<lb break="no"/>habitants of the islands under penalty of forfeiting the sum <lb/>specified in the bond.</p>
+                <p>A small party, who a short time ago undertook[?] a land pas<lb break="no"/>sage in a direction towards Broken Bay, for the purpose of as<lb break="no"/>certaining the nature and fertility of the country, have disco<lb break="no"/>vered an excellent grazing track of 8000acres. In consequence <lb/>of which one gentlemen, Mr Robert Campbell, has already <lb/>sent thither an extensive herd of cattle, and this example is <lb/>likely to be followed by others.</p>
+                <p>Thomas West, who came to this colony a convict for life, <lb/>in the ship Earl Cornwall's[?], in 1801, has received from his <lb/>Excellency a conditional pardon, in consideration of his general <lb/>good conduct and character for sobriety and industry, and also <lb/>in consideration of his having lately erected a water mill for <lb/>the grinding of grain at Barcorn Glen, within two miles of <lb/>Sydney, being the first water mill ever erected in the vicinty <lb/>of this town.</p>
+                <p>Sydney, New South Wales, May 21. <lb/>The good understanding between the natives and our <lb/>settlers, which had been maintained for the last six years, <lb/>has given place to frequent outrages attended with fatal con<lb break="no"/>sequences. On Saturday, a body of 60 natives commenced <lb/>plundering the fields of a settler, when three privates of the <lb/>veteran battalion fired upon them and killed a boy. The na<lb break="no"/>rushed upon them before they could load again, and <lb/>killed on private, Isaac Eustace, and compelled the other <lb/>two to fly. They then plundered the ground of Messrs <lb/>Milehouse and Butcher. Next day a party of 14 soldiers <lb/>falling in with them, shot a woman and two children–the <lb/>savages attacked William Baker, a stock-keeper of Mr Mac<lb break="no"/>Arthur, killed the man and two women, named Sullivan and <lb/>Herburg.</p>
+                <p>Sydney, New South Wales, Feb. 12. <lb/>On Monday last arrived the ship General Hewett, Cap<lb break="no"/>tain Earle, from England, having a detachment of the 46th <lb/>regiment, commanded by Major Oglivie ; and yesterday ar<lb break="no"/>rived the Windham, Captain Bligh, also from England, <lb/>having on board the head-quarters of the 46th regiment, <lb/>commanded by Lieutenant-Colonel Molle, who succeeded <lb/>Lieutenant-Colonel O'Connell, as Lieutenant-Governor of <lb/>the territory, and is accompanied by Mrs Molle and family ; <lb/>also Lieutenant Walters, of the navy, agent for transports– <lb/>Of the 300 convicts which the General Hewett received on <lb/>board, 35 died on the passage.</p>
+            </body>
+        </text>
+    </TEI>

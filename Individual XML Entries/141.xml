@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>141</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1819-05-27"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>emigration</item>
-                  <item>settlement description</item>
-                  <item>national characteristics</item>
-                  <item>slavery</item>
-                  <item>religion</item>
-                  <item>wages</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>141</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1819-05-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>settlement description</item>
+                            <item>national characteristics</item>
+                            <item>slavery</item>
+                            <item>religion</item>
+                            <item>wages</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Extract of a letter from William Hunt, esq." <lb/>To H. Hunt, esq.</hi> 
+            <hi rend="smallcaps">Extract of a letter from William Hunt, esq."  <lb/>To H. Hunt, esq.</hi>
          </p>
-         <p>"Washington Hotel, New Orleans, Dec. 25. 1818.</p>
-         <p>"<hi rend="smallcaps">My Dear Brother</hi>  – We arrived safe in the mouth of <lb/>the Mississippi on the 10th of this month, after a voyage <lb/>of 82 days from Gravesend. Your son and myself are in <lb/>excellent health, and very happy. There are 35 English <lb/>vessels from Liverpool now here, and a great many Eng<lb break="no"/>lish emigrants from Yorkshire, Nottinghamshire, Lanca<lb break="no"/>shire, Wiltshire, Hampshire, and Somersetshire ; and, <lb/>in fact, from almost all parts of the heavily-taxed island <lb/>we have left behind us ! Our ship was detained near a <lb/>week in the river, about 80 miles below New Orleans ; <lb/>we all went on shore, and had plenty of rabbit shooting. <lb/>I killed the most with my double-barrelled gun, by Knock, <lb/>corner of Fetter-lane. Henry, myself, and Mr Blake <lb/>went one day into the woods to kill deer, by night co<lb break="no"/>ming on, we lost our road ; and, differing in opinions, we <lb/>separated, Henry and Mr Blake taking one road, and my<lb break="no"/>self the other. I reached the ship (about five miles) at ten <lb/>o'clock ; but they remained lost all night in the woods, <lb/>and did not return to us till the next morning. It being <lb/>wet, and Henry sleeping on the marshy ground, in spite <lb/>of the remonstrances of Mr Blake, caught a severe cold, <lb/>and suffered much with rheumatic pains for four days, <lb/>but he is now perfectly recovered : he is grown fat. In <lb/>the river there are thousands of wild swans, wild geese, <lb/>wild ducks, woodcocks, snipes, and other wild fowl. If <lb/>you were there, you would kill a waggon load in a day, <lb/>as I know you have frequently killed a horse load in Eng<lb break="no"/>land ; but they are a thousand times more numerous here <lb/>than I ever saw them in England ; this market swarms <lb/>with them, and very cheap. No game certificate required <lb/>here. Myself, Henry, Mr Blake, and the other passen<lb break="no"/>gers, visited a French farmer, about six miles below New <lb/>Orleans : he has got 3000 acres of his own land, whereon <lb/>are sugar plantations, sugar-houses, &amp; c. ; he made <lb/>250 hogsheads of molasses of sugar last year. He offers <lb/>five hundred acres of good land with his pretty daughter, <lb/>as a fortune on her marriage. There are plenty of French <lb/>settlements on the banks of the Mississippi ; but they are <lb/>the most slovenly and the worst farmers I ever saw. – <lb/>They are very lazy, bad managers, and appear to use <lb/>their negroes very cruel, and work them very hard. The <lb/>Europeans generally leave New Orleans in the summer, <lb/>as it is very unhealthy in the hot weather and the <lb/>deaths are frequently seventy in a week. The scenery <lb/>of this country is very picturesque ; it is very much like <lb/>the banks of the river Thames about Richmond and <lb/>Staines, and many of the buildings are as handsome as <lb/>those of Bath. Here is one Church, which is a very <lb/>beautiful building. On Sunday the French and Spa<lb break="no"/>nish shops are all open, and it is a market during the <lb/>whole day ; balls and the theatre open in the evening, <lb/>gambling &amp; c. We are at the Washington Hotel, the <lb/>best in the city ; it is expensive, although very good <lb/>living here : we pay ten dollars a-week each, including <lb/>claret and rum and water. There is no beer here in warm <lb/>weather as in England, and it is as warm here now as it <lb/>was in England in July, although not half so oppressive <lb/>and stinking as it was in Covent Garden during the elec<lb break="no"/>tion : 60 persons dine and sleep in this hotel, most of <lb/>them English. We do not trouble ourselves about poli<lb break="no"/>tics in this country ; our object is to cultivate the soil, <lb/>and to reap the fair reward of our labour. On Saturday <lb/>we were charged 100 dollars each for passage, and four <lb/>dollars six cents for every hundred weight. We have three <lb/>and a half tons weight with us. Do pray send me four <lb/>quarters of the best peas, rye, grass seed, and some more <lb/>of Hill's Scots ploughs, to be left at Messrs Brown and <lb/>Co. who will forward them carefully to me at the Illinois. <lb/>Mr Trimmer, an Englishman, has purchased 20,000 acres <lb/>of land near Mr Birkbeck, and has taken twenty couple of <lb/>hounds with him, so that we shall have some hunting as <lb/>well as shooting if we like. It is said that he is about to <lb/>marry one of Mr B.'s daughters. He is now here : he tells <lb/>me that there are plenty of English farmers settled all over <lb/>the Illinois territory. He is here to get labourers ; they <lb/>are the only thing wanting there. I should have brought <lb/>over some with me, but they may follow us ; as I under<lb break="no"/>stand the labourers, with the pay of a dollar a day, can <lb/>live better than a Hampshire or Wiltshire renting farmer <lb/>of L.300 or L.400 a year. Mr Riply, and others that I <lb/>have seen from Illinois, report that the farmer can <lb/>get a sure profit the first year. Mr Ripley says there is <lb/>a good sure market, and a fair profit and only one penny <lb/>per acre land tax ; this is all the taxes we shall have to <lb/>pay. Price of labour is very dear here ; we pay a dollar <lb/>for washing every dozen of shirts, cravats, pocket handker<lb break="no"/>chiefs, &amp; c. &amp; c. The price of a gallon of best rum is one <lb/>and a half dollar. The custom-house duty on my things <lb/>shipped from England, I have paid 92 dollars for. Al<lb break="no"/>though I should like England very well if it was not for <lb/>the taxes, yet, from what I have seen hitherto, I like <lb/>America ten times better</p>
-      </body>
-   </text>
-</TEI>
+                <p>"Washington Hotel, New Orleans, Dec. 25. 1818.</p>
+                <p>"<hi rend="smallcaps">My Dear Brother</hi>  – We arrived safe in the mouth of <lb/>the Mississippi on the 10th of this month, after a voyage <lb/>of 82 days from Gravesend. Your son and myself are in <lb/>excellent health, and very happy. There are 35 English <lb/>vessels from Liverpool now here, and a great many Eng<lb break="no"/>lish emigrants from Yorkshire, Nottinghamshire, Lanca<lb break="no"/>shire, Wiltshire, Hampshire, and Somersetshire ; and, <lb/>in fact, from almost all parts of the heavily-taxed island <lb/>we have left behind us ! Our ship was detained near a <lb/>week in the river, about 80 miles below New Orleans ; <lb/>we all went on shore, and had plenty of rabbit shooting. <lb/>I killed the most with my double-barrelled gun, by Knock, <lb/>corner of Fetter-lane. Henry, myself, and Mr Blake <lb/>went one day into the woods to kill deer, by night co<lb break="no"/>ming on, we lost our road ; and, differing in opinions, we <lb/>separated, Henry and Mr Blake taking one road, and my<lb break="no"/>self the other. I reached the ship (about five miles) at ten <lb/>o'clock ; but they remained lost all night in the woods, <lb/>and did not return to us till the next morning. It being <lb/>wet, and Henry sleeping on the marshy ground, in spite <lb/>of the remonstrances of Mr Blake, caught a severe cold, <lb/>and suffered much with rheumatic pains for four days, <lb/>but he is now perfectly recovered : he is grown fat. In <lb/>the river there are thousands of wild swans, wild geese, <lb/>wild ducks, woodcocks, snipes, and other wild fowl. If <lb/>you were there, you would kill a waggon load in a day, <lb/>as I know you have frequently killed a horse load in Eng<lb break="no"/>land ; but they are a thousand times more numerous here <lb/>than I ever saw them in England ; this market swarms <lb/>with them, and very cheap. No game certificate required <lb/>here. Myself, Henry, Mr Blake, and the other passen<lb break="no"/>gers, visited a French farmer, about six miles below New <lb/>Orleans : he has got 3000 acres of his own land, whereon <lb/>are sugar plantations, sugar-houses, &amp; c. ; he made <lb/>250 hogsheads of molasses of sugar last year. He offers <lb/>five hundred acres of good land with his pretty daughter, <lb/>as a fortune on her marriage. There are plenty of French <lb/>settlements on the banks of the Mississippi ; but they are <lb/>the most slovenly and the worst farmers I ever saw. – <lb/>They are very lazy, bad managers, and appear to use <lb/>their negroes very cruel, and work them very hard. The <lb/>Europeans generally leave New Orleans in the summer, <lb/>as it is very unhealthy in the hot weather and the <lb/>deaths are frequently seventy in a week. The scenery <lb/>of this country is very picturesque ; it is very much like <lb/>the banks of the river Thames about Richmond and <lb/>Staines, and many of the buildings are as handsome as <lb/>those of Bath. Here is one Church, which is a very <lb/>beautiful building. On Sunday the French and Spa<lb break="no"/>nish shops are all open, and it is a market during the <lb/>whole day ; balls and the theatre open in the evening, <lb/>gambling &amp; c. We are at the Washington Hotel, the <lb/>best in the city ; it is expensive, although very good <lb/>living here : we pay ten dollars a-week each, including <lb/>claret and rum and water. There is no beer here in warm <lb/>weather as in England, and it is as warm here now as it <lb/>was in England in July, although not half so oppressive <lb/>and stinking as it was in Covent Garden during the elec<lb break="no"/>tion : 60 persons dine and sleep in this hotel, most of <lb/>them English. We do not trouble ourselves about poli<lb break="no"/>tics in this country ; our object is to cultivate the soil, <lb/>and to reap the fair reward of our labour. On Saturday <lb/>we were charged 100 dollars each for passage, and four <lb/>dollars six cents for every hundred weight. We have three <lb/>and a half tons weight with us. Do pray send me four <lb/>quarters of the best peas, rye, grass seed, and some more <lb/>of Hill's Scots ploughs, to be left at Messrs Brown and <lb/>Co. who will forward them carefully to me at the Illinois. <lb/>Mr Trimmer, an Englishman, has purchased 20,000 acres <lb/>of land near Mr Birkbeck, and has taken twenty couple of <lb/>hounds with him, so that we shall have some hunting as <lb/>well as shooting if we like. It is said that he is about to <lb/>marry one of Mr B.'s daughters. He is now here : he tells <lb/>me that there are plenty of English farmers settled all over <lb/>the Illinois territory. He is here to get labourers ; they <lb/>are the only thing wanting there. I should have brought <lb/>over some with me, but they may follow us ; as I under<lb break="no"/>stand the labourers, with the pay of a dollar a day, can <lb/>live better than a Hampshire or Wiltshire renting farmer <lb/>of L.300 or L.400 a year. Mr Riply, and others that I <lb/>have seen from Illinois, report that the farmer can <lb/>get a sure profit the first year. Mr Ripley says there is <lb/>a good sure market, and a fair profit and only one penny <lb/>per acre land tax ; this is all the taxes we shall have to <lb/>pay. Price of labour is very dear here ; we pay a dollar <lb/>for washing every dozen of shirts, cravats, pocket handker<lb break="no"/>chiefs, &amp; c. &amp; c. The price of a gallon of best rum is one <lb/>and a half dollar. The custom-house duty on my things <lb/>shipped from England, I have paid 92 dollars for. Al<lb break="no"/>though I should like England very well if it was not for <lb/>the taxes, yet, from what I have seen hitherto, I like <lb/>America ten times better</p>
+            </body>
+        </text>
+    </TEI>

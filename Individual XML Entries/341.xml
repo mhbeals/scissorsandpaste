@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>341</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130505 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141027 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1790-02-22"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>slave rebellion</item>
-                  <item>weather</item>
-                  <item>shipping news</item>
-                  <item>shipping news</item>
-                  <item>Native Americans</item>
-                  <item>trade</item>
-                  <item>foreign relations</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>341</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130505 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141027 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-02-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>slave rebellion</item>
+                            <item>weather</item>
+                            <item>shipping news</item>
+                            <item>shipping news</item>
+                            <item>Native Americans</item>
+                            <item>trade</item>
+                            <item>foreign relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="2"/>
-            <hi rend="center">
-               <hi rend="italic">From the </hi>
-               <hi rend="smallcaps">Jamaica Royal Gazette</hi> . </hi>
+            <hi rend="center"> 
+               <hi rend="italic">From the </hi> 
+               <hi rend="smallcaps">Jamaica Royal Gazette</hi>. </hi>
             <lb/>
-            <hi rend="center">
-               <hi rend="italic">Kingston, Nov</hi> . 28.</hi> 
+            <hi rend="center"> 
+               <hi rend="italic">Kingston, Nov</hi>. 28.</hi>
          </p>
-         <p>By late arrivals from Hispaniola we learn, that <lb/>the people are in quietness, but still armed; and <lb/>that the Governor, who had been suffered to re<lb break="no"/>main, but the Intendent only having fled, is per<lb break="no"/>fectly submissive to the will of the people.</p>
-         <p>For several days last week the weather at the <lb/>north side, and in some of the Liguanea Moun<lb break="no"/>tains blew in most alarming gusts, and the cold <lb/>is said to have been peculiarly sever; some plan<lb break="no"/>tain trees have been thrown down, but we have <lb/>yet heard of no material damage.</p>
-         <p>The sloop Resolution has brought into port a <lb/>part of his Majesty's 10th regiment of foot, con<lb break="no"/>sisting of a serjeant, and 29 privates, having re<lb break="no"/>ceived them from on board the ship Commerce, <lb/>Foot, from London, off the East End on Thurs<lb break="no"/>day last, the Commerce being destined for Savan<lb break="no"/>na la Mar.</p>
-         <p>
-            <hi rend="italic">Dec</hi> . 26. Late on Thursday evening his Ma<lb break="no"/>jesty's ship Amphion, Captain Nichols, returned <lb/>to Port-Royal from the Spanish American coast. <lb/>The Amphion was bound to Carthagena, but was <lb/>prevented by the jealousy of the Spaniards from <lb/>entering that port. Accounts are said to be re<lb break="no"/>ceived by her that a revolt has taken place a<lb break="no"/>mongst the Indians in that quarter, and that the <lb/>Spaniards are demolishing the fortifications <lb/>throughout the country, which it has cost them <lb/>so much labour and expence to raise; so appre<lb break="no"/> 
+                <p>By late arrivals from Hispaniola we learn, that <lb/>the people are in quietness, but still armed; and <lb/>that the Governor, who had been suffered to re<lb break="no"/>main, but the Intendent only having fled, is per<lb break="no"/>fectly submissive to the will of the people.</p>
+                <p>For several days last week the weather at the <lb/>north side, and in some of the Liguanea Moun<lb break="no"/>tains blew in most alarming gusts, and the cold <lb/>is said to have been peculiarly sever; some plan<lb break="no"/>tain trees have been thrown down, but we have <lb/>yet heard of no material damage.</p>
+                <p>The sloop Resolution has brought into port a <lb/>part of his Majesty's 10th regiment of foot, con<lb break="no"/>sisting of a serjeant, and 29 privates, having re<lb break="no"/>ceived them from on board the ship Commerce, <lb/>Foot, from London, off the East End on Thurs<lb break="no"/>day last, the Commerce being destined for Savan<lb break="no"/>na la Mar.</p>
+                <p>
+            <hi rend="italic">Dec</hi>. 26. Late on Thursday evening his Ma<lb break="no"/>jesty's ship Amphion, Captain Nichols, returned <lb/>to Port-Royal from the Spanish American coast. <lb/>The Amphion was bound to Carthagena, but was <lb/>prevented by the jealousy of the Spaniards from <lb/>entering that port. Accounts are said to be re<lb break="no"/>ceived by her that a revolt has taken place a<lb break="no"/>mongst the Indians in that quarter, and that the <lb/>Spaniards are demolishing the fortifications <lb/>throughout the country, which it has cost them <lb/>so much labour and expence to raise; so appre<lb break="no"/> 
             <lb/>hensive are they of the numbers and force of the <lb/>malcontents, should they possess themselves of any <lb/>of those strong holds.</p>
-         <p>We learn from Georgia, that the treaty with <lb/>the Indians, to negotiate with Commissioners <lb/>were appointed by the President of the United <lb/>States, has been broken off; and that Mr. M'Gil<lb break="no"/>livray and his warriors have declared, that nothing <lb/>short of a cession of the territory between the ri<lb break="no"/>vers St. Mary and Altamaha will satisfy them; <lb/>adding, that no equivalent can be given to the <lb/>Georgians for relinquishing their claim to the di<lb break="no"/>strict in question, as it is founded in usurpation. <lb/>The views of Mr. M'Gillivray in making this re<lb break="no"/>quisition are evident, as it is known that he wish<lb break="no"/>es to establish a sea-port at St Mary's, as well <lb/>for thecommercial emolument, as for the civili<lb break="no"/>zation of his countrymen, by an intercourse with <lb/>foreign States.</p>
-      </body>
-   </text>
-</TEI>
+                <p>We learn from Georgia, that the treaty with <lb/>the Indians, to negotiate with Commissioners <lb/>were appointed by the President of the United <lb/>States, has been broken off; and that Mr. M'Gil<lb break="no"/>livray and his warriors have declared, that nothing <lb/>short of a cession of the territory between the ri<lb break="no"/>vers St. Mary and Altamaha will satisfy them; <lb/>adding, that no equivalent can be given to the <lb/>Georgians for relinquishing their claim to the di<lb break="no"/>strict in question, as it is founded in usurpation. <lb/>The views of Mr. M'Gillivray in making this re<lb break="no"/>quisition are evident, as it is known that he wish<lb break="no"/>es to establish a sea-port at St Mary's, as well <lb/>for thecommercial emolument, as for the civili<lb break="no"/>zation of his countrymen, by an intercourse with <lb/>foreign States.</p>
+            </body>
+        </text>
+    </TEI>

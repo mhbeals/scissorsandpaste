@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>297</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Scotsman</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1841-03-20"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>297</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-03-20"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>On Monday a discussion of some interest took <lb/>place in the House of Commons relative to the <lb/>affairs of South Australia. Owing to certain de<lb break="no"/>fects in its government, that colony has fallen <lb/>into a state of financial embarassment requiring <lb/>immediate relief. Lord John Russell traced the <lb/>history of the settlement from its foundation, and <lb/>stated that, while its revenue does not exceed <lb/>t20,000 its expenditure has increased to the <lb/>enormous sum of t130,000 a year ! At present <lb/>its affairs are managed by commissioners, the re<lb break="no"/>sponsible Ministers of the Crown having no di<lb break="no"/>rect control over its expenditure. This is mani<lb break="no"/>festly an evil, and must form the subject of future <lb/>legislation, but in the meantime it is necessary to <lb/>provide for the payment of certain bills now <lb/>over-due. Accordingly, Lord John Russell pro<lb break="no"/>posed that her Majesty should be authorized to <lb/>guarantee a loan of t210,000 for this purpose. <lb/>Lord Stanley concurred generally in the views of <lb/>the noble Secretary for the Colonies, but though <lb/>that the Government ought not to demand a <lb/>loan until they had brought in a bill to explain <lb/>distinctly the principles on which they proposed <lb/>that the colony should henceforth be governed. <lb/>Sir Robert Peel suggested that the Govern<lb break="no"/>ment should ask a vote of credit for the sum re<lb break="no"/>quired, which, as it met the urgency of the case, <lb/>was ultimately agreed upon, and the subject was <lb/>deferred till Friday.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>119</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1816-11-21"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>currency</item>
-                  <item>military</item>
-                  <item>rebellion</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>119</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1816-11-21"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>currency</item>
+                            <item>military</item>
+                            <item>rebellion</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Canada Papers.</hi> 
+            <hi rend="smallcaps">Canada Papers.</hi>
          </p>
-         <p>Montreal, Oct. 5. <lb/>On the afternoon of Saturday last, the specie <lb/>seized on board the Lake Champlain steam-boat, <lb/>amounting to upward of 12,000 dollars, arrived <lb/>at his Majesty's cash-office here, under the es<lb break="no"/>cort of the 19th light dragoons from St John's.</p>
-         <p>At length we have authentic accounts relating <lb/>to the expedition of Lord Selkirk ; they are very <lb/>important, as many<hi rend="italic">ex parte</hi>  details have been <lb/>published - his taking Fort William by storm, <lb/>making all the partners of the North West Com<lb break="no"/>pany prisoners, &amp;c. ; but the cause of the expe <lb/>dition has never been explained. The Canadian <lb/>Courant puts it in a very clear point of view:– <lb/>Mr Robert Semple, the Governor-General <lb/>The Hudson's Bay Company on the Red River, <lb/>towards the close of the year 1815, took posses<lb break="no"/>sion of two establishments belonging to the North <lb/>West Company, which had obtruded themselves <lb/>on the territory of the Hudson's Bay Company. <lb/>The North West traders then altered their <lb/>route, going into the Upper Country by circuit<lb break="no"/>ous ways, by which much delay took place ; and <lb/>in order to try Mr Semple, they sent two cart<lb break="no"/>loads of provisions by the former track in June <lb/>last, with a guard of fifty men ; the advance, <lb/>twenty-two of the number, fell in with one of <lb/>the natives, whom they took forward with them <lb/>to prevent discovery. The rear-guard passed <lb/>within four miles of the settlement ; they were <lb/>perceived by the Governor, and were attacked <lb/>by a party from the garrison, consisting of about <lb/>thirty soldiers ; an engagement took place, stat<lb break="no"/>ed on the 19th of June. Mr Semple and 21 <lb/>of his men were killed ; the rest of his forces <lb/>returned defeated to the fort ; it is on this ac<lb break="no"/>count that the expedition of Lord Selkirk was <lb/>undertaken. The manner of Lord Selkirk's con<lb break="no"/>ducting the expedition we do not justify, nor in<lb break="no"/>deed can we form any opinion on the subject <lb/>without further authentic details ; it is, however, <lb/>but justice to say, that the Hudson's Bay Com<lb break="no"/>pany have rights, and are a chartered Company ; <lb/>the North West Traders, though we believe a <lb/>most respectable body, are only an Association <lb/>of Merchants.</p>
-      </body>
-   </text>
-</TEI>
+                <p>Montreal, Oct. 5. <lb/>On the afternoon of Saturday last, the specie <lb/>seized on board the Lake Champlain steam-boat, <lb/>amounting to upward of 12,000 dollars, arrived <lb/>at his Majesty's cash-office here, under the es<lb break="no"/>cort of the 19th light dragoons from St John's.</p>
+                <p>At length we have authentic accounts relating <lb/>to the expedition of Lord Selkirk ; they are very <lb/>important, as many<hi rend="italic">ex parte</hi>  details have been <lb/>published - his taking Fort William by storm, <lb/>making all the partners of the North West Com<lb break="no"/>pany prisoners, &amp;c. ; but the cause of the expe <lb/>dition has never been explained. The Canadian <lb/>Courant puts it in a very clear point of view:– <lb/>Mr Robert Semple, the Governor-General <lb/>The Hudson's Bay Company on the Red River, <lb/>towards the close of the year 1815, took posses<lb break="no"/>sion of two establishments belonging to the North <lb/>West Company, which had obtruded themselves <lb/>on the territory of the Hudson's Bay Company. <lb/>The North West traders then altered their <lb/>route, going into the Upper Country by circuit<lb break="no"/>ous ways, by which much delay took place ; and <lb/>in order to try Mr Semple, they sent two cart<lb break="no"/>loads of provisions by the former track in June <lb/>last, with a guard of fifty men ; the advance, <lb/>twenty-two of the number, fell in with one of <lb/>the natives, whom they took forward with them <lb/>to prevent discovery. The rear-guard passed <lb/>within four miles of the settlement ; they were <lb/>perceived by the Governor, and were attacked <lb/>by a party from the garrison, consisting of about <lb/>thirty soldiers ; an engagement took place, stat<lb break="no"/>ed on the 19th of June. Mr Semple and 21 <lb/>of his men were killed ; the rest of his forces <lb/>returned defeated to the fort ; it is on this ac<lb break="no"/>count that the expedition of Lord Selkirk was <lb/>undertaken. The manner of Lord Selkirk's con<lb break="no"/>ducting the expedition we do not justify, nor in<lb break="no"/>deed can we form any opinion on the subject <lb/>without further authentic details ; it is, however, <lb/>but justice to say, that the Hudson's Bay Com<lb break="no"/>pany have rights, and are a chartered Company ; <lb/>the North West Traders, though we believe a <lb/>most respectable body, are only an Association <lb/>of Merchants.</p>
+            </body>
+        </text>
+    </TEI>

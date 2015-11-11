@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>65</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1790-07-12"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="revision"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="entertain"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>trade</item>
-                  <item>prices</item>
-                  <item>colonial government</item>
-                  <item>female emigration</item>
-                  <item>marriage</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>65</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="revision"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>prices</item>
+                            <item>colonial government</item>
+                            <item>female emigration</item>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="2"/> By the last letters from India, we understand <lb/>they were going on in the plodding way, with <lb/>nothing new or important.–The markets are <lb/>overstocked with British goods, so as to enable <lb/>our countrymen to supply themselves with most <lb/>articles at a cheaper rate than if they were at <lb/>home ; the credit of the revenue rather upon the <lb/>increase ; Lord Cornwallis is as strict as ever, <lb/>who is expected to remain another year among <lb/>them, to the no small regret of those who left <lb/>England for the sake of Oriental wealth.</p>
-         <p>Our<hi rend="italic">female adventurers</hi>  have also found it a bad <lb/>market ;<hi rend="italic">British beauty</hi>  never fails of finding its <lb/>admirers ; but the late restriction in the East <lb/>have rendered<hi rend="italic">wives</hi>  forbidden fruit, of which <lb/>neither<hi rend="italic">civil</hi>  nor<hi rend="italic">military</hi>  dare to think of tasting.</p>
-      </body>
-   </text>
-</TEI>
+                <p>Our<hi rend="italic">female adventurers</hi>  have also found it a bad <lb/>market ;<hi rend="italic">British beauty</hi>  never fails of finding its <lb/>admirers ; but the late restriction in the East <lb/>have rendered<hi rend="italic">wives</hi>  forbidden fruit, of which <lb/>neither<hi rend="italic">civil</hi>  nor<hi rend="italic">military</hi>  dare to think of tasting.</p>
+            </body>
+        </text>
+    </TEI>

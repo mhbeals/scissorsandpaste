@@ -1,96 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>125</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1818-01-19"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="composite"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>meeting</item>
-                  <item>emigration</item>
-                  <item>national characteristics</item>
-                  <item>charity</item>
-                  <item>economic migration</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>125</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1818-01-19"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>meeting</item>
+                            <item>emigration</item>
+                            <item>national characteristics</item>
+                            <item>charity</item>
+                            <item>economic migration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Irish Emigrants</hi> . <lb/>New York, Nov. 27.</p>
-         <p>Nothing scarcely can be conceived more <lb/>distressing than the situation of an unfriend<lb break="no"/>ed stranger arrived here, from across the At<lb break="no"/>lantic, without the means of helping himself, <lb/>and without even enough of acquaintance with <lb/>the men and things about him to enable him <lb/>to judge what path he should take to secure him <lb/>the miseries of absolute want. Such, how<lb break="no"/>ever, is actually the situation of hundres who <lb/>annually land on our shores. To provide for <lb/>those forlorn beings, several attempts have been <lb/>made by associations of humane individuals here, <lb/>but nothing hitherto has appeared to promising <lb/>as that of which an account here follows: –</p>
-         <p>At a meeting of Irishmen, and descendents of Irishmen, <lb/>held at Harmony Hall, on Tuesday the 25th instant, for <lb/>the purpose of promoting a Settlement of Irish Emi<lb break="no"/>grants; <lb/>
-            <hi rend="smallcaps">Andrew Morris</hi> , Chairman, <lb/>
-            <hi rend="smallcaps">WM. Sampson</hi> , Secretary ;</p>
-         <p>Upon the motion of Thomas Addis Emmett, <lb/>the circular previously issues on this subject was <lb/>read by the Secretary : –</p>
-         <p>
+            <hi rend="smallcaps">Irish Emigrants</hi>. <lb/>New York, Nov. 27.</p>
+                <p>Nothing scarcely can be conceived more <lb/>distressing than the situation of an unfriend<lb break="no"/>ed stranger arrived here, from across the At<lb break="no"/>lantic, without the means of helping himself, <lb/>and without even enough of acquaintance with <lb/>the men and things about him to enable him <lb/>to judge what path he should take to secure him <lb/>the miseries of absolute want. Such, how<lb break="no"/>ever, is actually the situation of hundres who <lb/>annually land on our shores. To provide for <lb/>those forlorn beings, several attempts have been <lb/>made by associations of humane individuals here, <lb/>but nothing hitherto has appeared to promising <lb/>as that of which an account here follows: –</p>
+                <p>At a meeting of Irishmen, and descendents of Irishmen, <lb/>held at Harmony Hall, on Tuesday the 25th instant, for <lb/>the purpose of promoting a Settlement of Irish Emi<lb break="no"/>grants; <lb/>
+            <hi rend="smallcaps">Andrew Morris</hi>, Chairman, <lb/>
+            <hi rend="smallcaps">WM. Sampson</hi>, Secretary ;</p>
+                <p>Upon the motion of Thomas Addis Emmett, <lb/>the circular previously issues on this subject was <lb/>read by the Secretary : –</p>
+                <p>
             <hi rend="smallcaps">Circular </hi>
             <lb/>It is a sentiment long felt, and often express<lb break="no"/>ed, that something should be undertaken on be<lb break="no"/>hald of the emigrants who flock to these shores.</p>
-         <p>Without any fixed destination, they remain in <lb/>the sea port, until beocming victims of bad <lb/>counsel and bad example, they lose the pure and <lb/>honest energies with which they left their native <lb/>land, and suffer worse than shipwreck in their <lb/>moral qualities.</p>
-         <p>The Government of this great Republic is well <lb/>aware of the advantage to be derived from so <lb/>great a mass of laborious industry, when usefully <lb/>directed and employed–and of adding to the <lb/>nation's strength, men whose attachment to the <lb/>institutions of this country is assured by so many <lb/>ties. But it is in the order of things, that some <lb/>of the friends, particularly the countrymen of <lb/>these emigrants, who have been some time esta<lb break="no"/>blished and known, should come forward to at<lb break="no"/>test the necessity, and guarantee the solidity of <lb/>the enterprise.</p>
-         <p>If his has not been done sooner, it is because <lb/>every advance in social improvement must come <lb/>in its season. it is the ripeness of the occasion, <lb/>and the voice of the times that now speak.</p>
-         <p>It has been remarked that among the lands <lb/>nows open for sale and settlement, there are some <lb/>tracks, particularly in the Illionois territory, <lb/>where the Irish emigrant, with the instruments <lb/>to which his hands are accustomed, and in a cli<lb break="no"/>mate congenial to his habits, might procure to <lb/>himself immediate shelter and subsistence–and, <lb/>in a few years, be able to repay with gratitude <lb/>the benefits conferred on him.</p>
-         <p>We, whose names are undersigned, have met <lb/>to consult upon the means of promoting some <lb/>establishment that might be a rallying point for <lb/>the distressed, and give to the wanderer a habi<lb break="no"/>tation and a home. We have thought of no bet<lb break="no"/>ter way than to address, by this circular, the <lb/>friends and well wishers of Ireland, who co-ope<lb break="no"/>ration might give most weight to the measure, <lb/>and to submit, whether it might not be advisable <lb/>to join all our efforts, and petition Congress ear<lb break="no"/>ly in the ensuing session, for a grant of a suit<lb break="no"/>able track, upon a credit of 14 or 15 years, sub<lb break="no"/>ject to such conditions and modifications as the <lb/>Government may see most fitting.</p>
-         <p>to the Government we would offer no decep<lb break="no"/>tive, delusive, or precarious motive, rather chu<lb break="no"/>sing to make its wisdom, benignity, and patriot<lb break="no"/>ism, the anchor of our hope.</p>
-         <p>We request of our, if you approve of our sen<lb break="no"/>timent and of our project, to advance and pro<lb break="no"/>mote it by your best endeavours ; either by form<lb break="no"/>ing organized associations, or by obtaining indi<lb break="no"/>vidual signatures, to a petition to the effect sta<lb break="no"/>ted. We have not yet been able to digest a plan, <lb/>and have rather chosen to make this humble be<lb break="no"/>ginning, in hopes that we should soon receive <lb/>additional light upon the subject from cor<lb break="no"/> 
+                <p>Without any fixed destination, they remain in <lb/>the sea port, until beocming victims of bad <lb/>counsel and bad example, they lose the pure and <lb/>honest energies with which they left their native <lb/>land, and suffer worse than shipwreck in their <lb/>moral qualities.</p>
+                <p>The Government of this great Republic is well <lb/>aware of the advantage to be derived from so <lb/>great a mass of laborious industry, when usefully <lb/>directed and employed–and of adding to the <lb/>nation's strength, men whose attachment to the <lb/>institutions of this country is assured by so many <lb/>ties. But it is in the order of things, that some <lb/>of the friends, particularly the countrymen of <lb/>these emigrants, who have been some time esta<lb break="no"/>blished and known, should come forward to at<lb break="no"/>test the necessity, and guarantee the solidity of <lb/>the enterprise.</p>
+                <p>If his has not been done sooner, it is because <lb/>every advance in social improvement must come <lb/>in its season. it is the ripeness of the occasion, <lb/>and the voice of the times that now speak.</p>
+                <p>It has been remarked that among the lands <lb/>nows open for sale and settlement, there are some <lb/>tracks, particularly in the Illionois territory, <lb/>where the Irish emigrant, with the instruments <lb/>to which his hands are accustomed, and in a cli<lb break="no"/>mate congenial to his habits, might procure to <lb/>himself immediate shelter and subsistence–and, <lb/>in a few years, be able to repay with gratitude <lb/>the benefits conferred on him.</p>
+                <p>We, whose names are undersigned, have met <lb/>to consult upon the means of promoting some <lb/>establishment that might be a rallying point for <lb/>the distressed, and give to the wanderer a habi<lb break="no"/>tation and a home. We have thought of no bet<lb break="no"/>ter way than to address, by this circular, the <lb/>friends and well wishers of Ireland, who co-ope<lb break="no"/>ration might give most weight to the measure, <lb/>and to submit, whether it might not be advisable <lb/>to join all our efforts, and petition Congress ear<lb break="no"/>ly in the ensuing session, for a grant of a suit<lb break="no"/>able track, upon a credit of 14 or 15 years, sub<lb break="no"/>ject to such conditions and modifications as the <lb/>Government may see most fitting.</p>
+                <p>to the Government we would offer no decep<lb break="no"/>tive, delusive, or precarious motive, rather chu<lb break="no"/>sing to make its wisdom, benignity, and patriot<lb break="no"/>ism, the anchor of our hope.</p>
+                <p>We request of our, if you approve of our sen<lb break="no"/>timent and of our project, to advance and pro<lb break="no"/>mote it by your best endeavours ; either by form<lb break="no"/>ing organized associations, or by obtaining indi<lb break="no"/>vidual signatures, to a petition to the effect sta<lb break="no"/>ted. We have not yet been able to digest a plan, <lb/>and have rather chosen to make this humble be<lb break="no"/>ginning, in hopes that we should soon receive <lb/>additional light upon the subject from cor<lb break="no"/> 
             <lb/>respondence we solicit. We shall, nevertheless, <lb/>proceed to investigate the subject, and challenge <lb/>the co-operation of good and respectable men, <lb/>and request of you to do the same.</p>
-         <p>You will please address your answers, and any <lb/>future correspondence, to Mr James Moffit, No. <lb/>15. Frankfort Street New York.</p>
-         <p>Thomas Addit Emmet. Denis M'Carthy, Wil<lb break="no"/>liam Sampson, John R. Skiddy, James R. Mul<lb break="no"/>laney, John Meyher, William James M'Neven, <lb/>Cornelius Heeny, Matthew Carroll, Robert Swan<lb break="no"/>ton, James Moffit. <lb/>New York, Nov 18, 1817</p>
-         <p>Mr Emmet then stated, that he had been re<lb break="no"/>quested by the gentlemen who called this meet<lb break="no"/>ing, to explain the objects for which it was con<lb break="no"/>venued ; that it could not be necessary to expa<lb break="no"/>tiate before those he was now addressin, on the <lb/>situation of the peasantry and farmers in Ire<lb break="no"/>land ; it was at present one of unqualified mise<lb break="no"/>try, partly occasioned by their local oppressions, <lb/>and partly by the general calamities of Europe ; <lb/>it compelled them to fly to these shores in such <lb/>numbers, and under the pressure of so great po<lb break="no"/>verty, that the most active individual benevo<lb break="no"/>levence could neither provide them with a sufficient <lb/>present succour, nor procure for them, within a <lb/>reasonable time, the means of permanent settle<lb break="no"/>ment. The consequence was, that many of <lb/>those unfortunate strangers were totally lost to <lb/>this county, or forced by want to become noxi<lb break="no"/>ous and dangerous to its cities, whose original <lb/>dispositions and qualifications, if rightly direct<lb break="no"/>ed and employed, would have made them valu<lb break="no"/>able and useful members of the community. Be<lb break="no"/>sides, the accounts transmitted back to Ireland <lb/>of their disappointments and destitute situations, <lb/>deferred many who were suffering at home the <lb/>extreme of wretchedness, from endeavouring to <lb/>better their condition in this more fortunate and <lb/>favoured land–to the political institutions of <lb/>which they were also more strongly attached.</p>
-         <p>A very painful reflection on these circumstan<lb break="no"/>ces had suggested to come gentlemen then pre<lb break="no"/>sent the hope that the general Government might <lb/>be induced, by a strong and united application, <lb/>to grant a portion of its unsettled lands on terms <lb/>liberal and bountiful, so that an asylum might be <lb/>formed for industrious and enterprising farmers, <lb/>who would gladly fly from famine and persecu<lb break="no"/>tion to a spot where the sweat of their brows fall<lb break="no"/>ing on a fertile soil would yield them a rich har<lb break="no"/>vest, for their own exclusive benefit, and where <lb/>they might peacefully enjoy all the blessings of <lb/>that republication liberty they loved. The time <lb/>for making such an application seemed auspici<lb break="no"/>ous ; party asperities had softened fown, and <lb/>probably few would now be led by political pre<lb break="no"/>judices to give it opposition. Neither was it un<lb break="no"/>precedented ; a favour nearly similar had been <lb/>granted to the French emigrants, and to settlers <lb/>from Switzerland.</p>
-         <p>It is true we could not forth a pretence <lb/>like the cultivation of the vine or the olive ; and<cb/> 
-            <lb/>we would not succeed by practising any delusion. <lb/>We could offer nothing but an immediate accession <lb/>of industrious and hardy settlers, who in a conge<lb break="no"/>nial soil and climate would become enthusiastically <lb/>attached to the country and the Government <lb/>from whence they derived all their blessings, and, <lb/>wherever they were found, would form a barrier <lb/>against every enemy. Much might undoubtedly <lb/>be expected from the generous sympathy which <lb/>the sorrows and sufferings of Ireland had every<lb break="no"/>where excited in the United States, and from <lb/>the acknowledged liberality of its Constituted <lb/>Authorities ; but very forcible arguments might <lb/>also be addressed to its policy and interest. Not <lb/>only those that in the ordinary course of events <lb/>would arrive here, whose usefulness is lost by <lb/>the want of proper direction, and who become <lb/>burdens or scourges to our cities, would be res<lb break="no"/>cued and placed in a situation where all the ener<lb break="no"/>gies of active and enterprising minds would be <lb/>serviceable to themselves and the community ; <lb/>but also the very fact that such an asylum was <lb/>open and accessible, would infinitely increase <lb/>the amount of emigration from Ireland, and peo<lb break="no"/>ple our wildernesses with incalculable rapidity. <lb/>The place upon which we have fixed our eyes is <lb/>in the Illinois territory–it has been lately pur<lb break="no"/>chased, and is not yet even surveyed. In the <lb/>ordinary course of events, it is not likely to be <lb/>brought into market (at least to any extent) for <lb/>many years ; but if Congress listen to our ap<lb break="no"/>plication, and grant to the settlers an extended <lb/>credit, Government will receive payment for the <lb/>land probably as soon as if it were suffered to <lb/>remain unheeded till its regular turn for sale <lb/>came round. A large body of settlers will be <lb/>enabled to grow rich during the time that the <lb/>land would otherwise be waste and unproduc<lb break="no"/>tive, and the value of all the contiguous proper<lb break="no"/>ty belonging to the United States would be ra<lb break="no"/>pidly and immensely increased, to say nothing <lb/>of the advantages resulting from the strength of <lb/>such a settled frontier. All these considerations <lb/>may be strongly urged by men, who can most <lb/>truly say they are actuated by no views of <lb/>personal speculation or emolument ; who are <lb/>willing to enter into all the labour of procuring <lb/>settlers and organising the establishment, with<lb break="no"/>out any prospect of gain, or even compensation, <lb/>except as to what may be necessary for defray<lb break="no"/>ing the expences of the undertaking ; and who <lb/>are desirous that the actual settlers should enjoy <lb/>all the advantages which Government may be <lb/>willing to grant.</p>
-         <p>These are our views–we conceive that they <lb/>may be realized, if supported by an united and <lb/>active co-operation of those who think like us <lb/>in other parts of the Union. We are, therefore, <lb/>desirous of adopting and pointing out to others <lb/>what seems to be the best mode of giving system <lb/>to that co-operation ; namely, the formation of <lb/>societies totally divested of all party or political <lb/>feelings, and directing the attention only to this <lb/>object. There are already a sufficient number <lb/>of political institutions in every State, in which <lb/>the zealous partizan (be his opinions what they <lb/>may) can act on them to their fullest extent. <lb/>Let these societies be neutral groun, or rather <lb/>consecrated places, in which, when we meet, we <lb/>lay aside all our hostilities, and join as brothers <lb/>in our prayers and offerings at the shrine of our <lb/>common worship. They are consecrated to <lb/>every man amongst us, by the purity of their <lb/>object, by our earliest recollections, by our un<lb break="no"/>broken affection, and our strongest sympathies– <lb/>by the unextinguished love of our native land, <lb/>for which most of us have already renounced all <lb/>sectarian antipathies and religious animosities ; <lb/>which we offer as a solemn pledge to the coun<lb break="no"/>try of our adoption, that our hearts will be al<lb break="no"/>ways alive, from temperament as well as prin<lb break="no"/> 
+                <p>You will please address your answers, and any <lb/>future correspondence, to Mr James Moffit, No. <lb/>15. Frankfort Street New York.</p>
+                <p>Thomas Addit Emmet. Denis M'Carthy, Wil<lb break="no"/>liam Sampson, John R. Skiddy, James R. Mul<lb break="no"/>laney, John Meyher, William James M'Neven, <lb/>Cornelius Heeny, Matthew Carroll, Robert Swan<lb break="no"/>ton, James Moffit. <lb/>New York, Nov 18, 1817</p>
+                <p>Mr Emmet then stated, that he had been re<lb break="no"/>quested by the gentlemen who called this meet<lb break="no"/>ing, to explain the objects for which it was con<lb break="no"/>venued ; that it could not be necessary to expa<lb break="no"/>tiate before those he was now addressin, on the <lb/>situation of the peasantry and farmers in Ire<lb break="no"/>land ; it was at present one of unqualified mise<lb break="no"/>try, partly occasioned by their local oppressions, <lb/>and partly by the general calamities of Europe ; <lb/>it compelled them to fly to these shores in such <lb/>numbers, and under the pressure of so great po<lb break="no"/>verty, that the most active individual benevo<lb break="no"/>levence could neither provide them with a sufficient <lb/>present succour, nor procure for them, within a <lb/>reasonable time, the means of permanent settle<lb break="no"/>ment. The consequence was, that many of <lb/>those unfortunate strangers were totally lost to <lb/>this county, or forced by want to become noxi<lb break="no"/>ous and dangerous to its cities, whose original <lb/>dispositions and qualifications, if rightly direct<lb break="no"/>ed and employed, would have made them valu<lb break="no"/>able and useful members of the community. Be<lb break="no"/>sides, the accounts transmitted back to Ireland <lb/>of their disappointments and destitute situations, <lb/>deferred many who were suffering at home the <lb/>extreme of wretchedness, from endeavouring to <lb/>better their condition in this more fortunate and <lb/>favoured land–to the political institutions of <lb/>which they were also more strongly attached.</p>
+                <p>A very painful reflection on these circumstan<lb break="no"/>ces had suggested to come gentlemen then pre<lb break="no"/>sent the hope that the general Government might <lb/>be induced, by a strong and united application, <lb/>to grant a portion of its unsettled lands on terms <lb/>liberal and bountiful, so that an asylum might be <lb/>formed for industrious and enterprising farmers, <lb/>who would gladly fly from famine and persecu<lb break="no"/>tion to a spot where the sweat of their brows fall<lb break="no"/>ing on a fertile soil would yield them a rich har<lb break="no"/>vest, for their own exclusive benefit, and where <lb/>they might peacefully enjoy all the blessings of <lb/>that republication liberty they loved. The time <lb/>for making such an application seemed auspici<lb break="no"/>ous ; party asperities had softened fown, and <lb/>probably few would now be led by political pre<lb break="no"/>judices to give it opposition. Neither was it un<lb break="no"/>precedented ; a favour nearly similar had been <lb/>granted to the French emigrants, and to settlers <lb/>from Switzerland.</p>
+                <p>It is true we could not forth a pretence <lb/>like the cultivation of the vine or the olive ; and <cb/>we would not succeed by practising any delusion. <lb/>We could offer nothing but an immediate accession <lb/>of industrious and hardy settlers, who in a conge<lb break="no"/>nial soil and climate would become enthusiastically <lb/>attached to the country and the Government <lb/>from whence they derived all their blessings, and, <lb/>wherever they were found, would form a barrier <lb/>against every enemy. Much might undoubtedly <lb/>be expected from the generous sympathy which <lb/>the sorrows and sufferings of Ireland had every<lb break="no"/>where excited in the United States, and from <lb/>the acknowledged liberality of its Constituted <lb/>Authorities ; but very forcible arguments might <lb/>also be addressed to its policy and interest. Not <lb/>only those that in the ordinary course of events <lb/>would arrive here, whose usefulness is lost by <lb/>the want of proper direction, and who become <lb/>burdens or scourges to our cities, would be res<lb break="no"/>cued and placed in a situation where all the ener<lb break="no"/>gies of active and enterprising minds would be <lb/>serviceable to themselves and the community ; <lb/>but also the very fact that such an asylum was <lb/>open and accessible, would infinitely increase <lb/>the amount of emigration from Ireland, and peo<lb break="no"/>ple our wildernesses with incalculable rapidity. <lb/>The place upon which we have fixed our eyes is <lb/>in the Illinois territory–it has been lately pur<lb break="no"/>chased, and is not yet even surveyed. In the <lb/>ordinary course of events, it is not likely to be <lb/>brought into market (at least to any extent) for <lb/>many years ; but if Congress listen to our ap<lb break="no"/>plication, and grant to the settlers an extended <lb/>credit, Government will receive payment for the <lb/>land probably as soon as if it were suffered to <lb/>remain unheeded till its regular turn for sale <lb/>came round. A large body of settlers will be <lb/>enabled to grow rich during the time that the <lb/>land would otherwise be waste and unproduc<lb break="no"/>tive, and the value of all the contiguous proper<lb break="no"/>ty belonging to the United States would be ra<lb break="no"/>pidly and immensely increased, to say nothing <lb/>of the advantages resulting from the strength of <lb/>such a settled frontier. All these considerations <lb/>may be strongly urged by men, who can most <lb/>truly say they are actuated by no views of <lb/>personal speculation or emolument ; who are <lb/>willing to enter into all the labour of procuring <lb/>settlers and organising the establishment, with<lb break="no"/>out any prospect of gain, or even compensation, <lb/>except as to what may be necessary for defray<lb break="no"/>ing the expences of the undertaking ; and who <lb/>are desirous that the actual settlers should enjoy <lb/>all the advantages which Government may be <lb/>willing to grant.</p>
+                <p>These are our views–we conceive that they <lb/>may be realized, if supported by an united and <lb/>active co-operation of those who think like us <lb/>in other parts of the Union. We are, therefore, <lb/>desirous of adopting and pointing out to others <lb/>what seems to be the best mode of giving system <lb/>to that co-operation ; namely, the formation of <lb/>societies totally divested of all party or political <lb/>feelings, and directing the attention only to this <lb/>object. There are already a sufficient number <lb/>of political institutions in every State, in which <lb/>the zealous partizan (be his opinions what they <lb/>may) can act on them to their fullest extent. <lb/>Let these societies be neutral groun, or rather <lb/>consecrated places, in which, when we meet, we <lb/>lay aside all our hostilities, and join as brothers <lb/>in our prayers and offerings at the shrine of our <lb/>common worship. They are consecrated to <lb/>every man amongst us, by the purity of their <lb/>object, by our earliest recollections, by our un<lb break="no"/>broken affection, and our strongest sympathies– <lb/>by the unextinguished love of our native land, <lb/>for which most of us have already renounced all <lb/>sectarian antipathies and religious animosities ; <lb/>which we offer as a solemn pledge to the coun<lb break="no"/>try of our adoption, that our hearts will be al<lb break="no"/>ways alive, from temperament as well as prin<lb break="no"/> 
             <lb/>ciple, to the emotions of patriotism ; and that <lb/>those amongst us who have pledged their faith <lb/>to her, however they may seem to differ on some <lb/>minor political subjects, will always be found <lb/>firmly ranged and united under the same ban<lb break="no"/>ners, and forming one phalanx whenever her <lb/>more important interests are concerned.</p>
-         <p>Mr Emmet then moved four resolutions, which <lb/>being severally put, were carried with some <lb/>slight amendments as follow :–</p>
-         <p>1. Resolved–That it is expedient to form a Society of <lb/>Irishmen and descendents of Irishmen, for the purpose of en<lb break="no"/>deavouring to procure from Congress a track of land in the <lb/>Illinois territory, to be settled by emigrants from Ireland. <lb/>2. Resolved–That every person of the foregoing descrip<lb break="no"/>tion, who shall, on or before the second day of December <lb/>next, pay to the Secretary of this Meeting the sum of five <lb/>dollars, shall be entitled to become a Member of the said So<lb break="no"/>ciety, until the number of subscribers shall have amounted to <lb/>one hundred, after which time the subscribers shall be at li<lb break="no"/>berty to elect their own officers and no person shall after<lb break="no"/>wards be admitted except by ballot. <lb/>3. Resolved–That it be recommended in Irishmen, and <lb/>the descendents of Irishmen, in the other cities and towns of <lb/>the Union, to form similar societies for the purpose of cor<lb break="no"/>responding and co-operating with that which is about to be <lb/>formed in this city. <lb/>4. Resolved–That, as the meeting of Congress will short<lb break="no"/>ly take place, and in order to prevent the less of time, a Com<lb break="no"/>mittee of fifteen be appointed to prepare the outlines of a me<lb break="no"/>morial to that body, to be submitted to the consideration of the <lb/>Society, when formed and organized ; and also to adopt such <lb/>measures as they may think expedient for promoting and ac<lb break="no"/>celebrating the organization of that Society.</p>
-         <p>Mr John W. Mulligan, in seconding Mr Em<lb break="no"/>met's motion, expressed, in handsome terms, how <lb/>much he was gratified by the invitation to attend, <lb/>had given him the opportunity of claiming <lb/>his title of descendent of an Irishman.</p>
-         <p>A Committee was then appointed, pursuant <lb/>to the fourth resolution, the number being, upon <lb/>motion and discussion, augmented to twenty<lb break="no"/>one.</p>
-         <p>
+                <p>Mr Emmet then moved four resolutions, which <lb/>being severally put, were carried with some <lb/>slight amendments as follow :–</p>
+                <p>1. Resolved–That it is expedient to form a Society of <lb/>Irishmen and descendents of Irishmen, for the purpose of en<lb break="no"/>deavouring to procure from Congress a track of land in the <lb/>Illinois territory, to be settled by emigrants from Ireland. <lb/>2. Resolved–That every person of the foregoing descrip<lb break="no"/>tion, who shall, on or before the second day of December <lb/>next, pay to the Secretary of this Meeting the sum of five <lb/>dollars, shall be entitled to become a Member of the said So<lb break="no"/>ciety, until the number of subscribers shall have amounted to <lb/>one hundred, after which time the subscribers shall be at li<lb break="no"/>berty to elect their own officers and no person shall after<lb break="no"/>wards be admitted except by ballot. <lb/>3. Resolved–That it be recommended in Irishmen, and <lb/>the descendents of Irishmen, in the other cities and towns of <lb/>the Union, to form similar societies for the purpose of cor<lb break="no"/>responding and co-operating with that which is about to be <lb/>formed in this city. <lb/>4. Resolved–That, as the meeting of Congress will short<lb break="no"/>ly take place, and in order to prevent the less of time, a Com<lb break="no"/>mittee of fifteen be appointed to prepare the outlines of a me<lb break="no"/>morial to that body, to be submitted to the consideration of the <lb/>Society, when formed and organized ; and also to adopt such <lb/>measures as they may think expedient for promoting and ac<lb break="no"/>celebrating the organization of that Society.</p>
+                <p>Mr John W. Mulligan, in seconding Mr Em<lb break="no"/>met's motion, expressed, in handsome terms, how <lb/>much he was gratified by the invitation to attend, <lb/>had given him the opportunity of claiming <lb/>his title of descendent of an Irishman.</p>
+                <p>A Committee was then appointed, pursuant <lb/>to the fourth resolution, the number being, upon <lb/>motion and discussion, augmented to twenty<lb break="no"/>one.</p>
+                <p>
             <hi rend="smallcaps">Committee</hi> –Andrew Morris, Thomas Addis <lb/>Emmet, William Sampson, John W. Mulligan, <lb/>Thomas Kirk, James Moffit, Robert Swanton, <lb/>Matthew Carroll, William James M'Neven, Cap<lb break="no"/>tain Skiddy, Dennic M'Carthy, John Meyher, <lb/>James M'Bride, Cornelius Heeney, William Pa<lb break="no"/>terson, Colonel Mulaney, David Bryson, Captain <lb/>O'Sullivan, James J. M'Donnell, Dennis H. <lb/>Doyle, James Hayes.</p>
-         <p>A subscription paper being then opened, a <lb/>number of those present subscribed their names <lb/>and paid five dollars as their initiation fee, and <lb/>became members of the association. Those per<lb break="no"/>sons who wish to become original members may <lb/>do so by signing their names and paying their <lb/>subscription to the Secretary before 2d De<lb break="no"/>cember, pursuant to the second resolution.</p>
-         <p>After the meeting was adjourned, the Com<lb break="no"/>mittee organized itself, and appointed Sub-Com<lb break="no"/>mittees, to report a draft of a constitution and a <lb/>memorial to Congress, and for the discharge of <lb/>other requisite duties.</p>
-      </body>
-   </text>
-</TEI>
+                <p>A subscription paper being then opened, a <lb/>number of those present subscribed their names <lb/>and paid five dollars as their initiation fee, and <lb/>became members of the association. Those per<lb break="no"/>sons who wish to become original members may <lb/>do so by signing their names and paying their <lb/>subscription to the Secretary before 2d De<lb break="no"/>cember, pursuant to the second resolution.</p>
+                <p>After the meeting was adjourned, the Com<lb break="no"/>mittee organized itself, and appointed Sub-Com<lb break="no"/>mittees, to report a draft of a constitution and a <lb/>memorial to Congress, and for the discharge of <lb/>other requisite duties.</p>
+            </body>
+        </text>
+    </TEI>

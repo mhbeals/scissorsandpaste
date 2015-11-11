@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>23</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1789-10-09"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>23</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-10-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="center">
-               <hi rend="italic">Albany, Aug</hi> . 10.</hi> 
+            <hi rend="center"> 
+               <hi rend="italic">Albany, Aug</hi>. 10.</hi>
          </p>
-         <p>By a gentleman who arrived in this city on <lb/>Friday last from the county of Ontario in the <lb/>Genesee county (the territory lately ceded by this <lb/>state to the commonwealth of Massachusetts) we <lb/>are informed, that four days before he left that <lb/>county, Colonel Brant from Niagara, at the <lb/>head of between 16 and 1800 of the principal <lb/>Sachems, and other Indians of the Six Nations, <lb/>had arrived at Conadoque, the seat of Oliver <lb/>Phelps, Esq; on a visit of friendship, and at the <lb/>same time to receive the money due them for the <lb/>lands sold to the company of Messrs. Gorham and <lb/>Phelps–That they were met by Mr. Phelps <lb/>and the principal inhabitants of Conadoque, four <lb/>miles from that place, and conducted into town <lb/>–That they were highly gratified with the treat<lb break="no"/>ment they received, and with the manner in which <lb/>they had disposed of their lands.–The gentle<lb break="no"/>man further informs, that there is now about <lb/>3000 inhabitants in the above county, and that <lb/>the land is of a good quality.</p>
-      </body>
-   </text>
-</TEI>
+                <p>By a gentleman who arrived in this city on <lb/>Friday last from the county of Ontario in the <lb/>Genesee county (the territory lately ceded by this <lb/>state to the commonwealth of Massachusetts) we <lb/>are informed, that four days before he left that <lb/>county, Colonel Brant from Niagara, at the <lb/>head of between 16 and 1800 of the principal <lb/>Sachems, and other Indians of the Six Nations, <lb/>had arrived at Conadoque, the seat of Oliver <lb/>Phelps, Esq; on a visit of friendship, and at the <lb/>same time to receive the money due them for the <lb/>lands sold to the company of Messrs. Gorham and <lb/>Phelps–That they were met by Mr. Phelps <lb/>and the principal inhabitants of Conadoque, four <lb/>miles from that place, and conducted into town <lb/>–That they were highly gratified with the treat<lb break="no"/>ment they received, and with the manner in which <lb/>they had disposed of their lands.–The gentle<lb break="no"/>man further informs, that there is now about <lb/>3000 inhabitants in the above county, and that <lb/>the land is of a good quality.</p>
+            </body>
+        </text>
+    </TEI>

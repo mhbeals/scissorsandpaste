@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>382</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority> Collected from a digital image on <date when="2013-02-25">20130225</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-11-11">20151111</date> by <persName role="transcription">M. H. Beals</persName>.
-                    </authority>
+                    <authority>Collected from a digital image on <date when="2013-02-25">20130225</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-11-11">20151111</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
                         <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
@@ -21,8 +17,8 @@
                             <title>Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from the <ref target="">Google News Archive</ref>
-                  </authority>
+                            <authority>Text within the public domain. Digitised image available from the  <ref target="">Google News Archive</ref>
+                            </authority>
                             <pubPlace>
                                 <address>
                                     <settlement>Glasgow</settlement>
@@ -62,7 +58,7 @@
                 <p>
             <pb n="7"/>
             <hi ref="italic">
-               <supplied reason="copy missing">Extra</supplied>ct of a letter from London, Sept</hi> . 24.</p>
+               <supplied reason="copy missing">Extra</supplied>ct of a letter from London, Sept</hi>. 24.</p>
                 <p>
             <supplied reason="copy missing">???</supplied> the new duties established by Congress <lb/>
             <supplied reason="copy missing">???</supplied> on goods are the same through all the <lb/>
@@ -81,7 +77,7 @@
             <supplied reason="copy missing">???</supplied> sell them far below their cost in Eng<lb break="no"/>
             <supplied reason="copy missing">land and</supplied> thereby ruin themselves.–It is a pity <lb/>
             <supplied reason="copy missing">Gove</supplied>rnment could put a stop to these expor<lb break="no"/>
-            <supplied reason="copy missing">ts ???</supplied> when they exceed the consumption of<lb/>
+            <supplied reason="copy missing">ts ???</supplied> when they exceed the consumption of <lb/>
             <supplied reason="copy missing">???</supplied>
          </p>
             </body>

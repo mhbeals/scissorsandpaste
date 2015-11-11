@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>374</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on<date when="2013-06-08">20130608
-</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2015-04-04">20150404</date> by<persName role="transcription">M. H. Beals</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitised image available from
-<ref target="https://news.google.com/newspapers?id=qUpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=4318%2C4958627">Google News Archive</ref>
-                  </authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1794-07-18"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-                  <item>crime</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>374</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-08">20130608
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-04-04">20150404</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="https://news.google.com/newspapers?id=qUpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=4318%2C4958627">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-07-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="5"/>
-            <hi rend="center">
-               <hi rend="smallcaps">Winchester</hi> ,<hi rend="italic">May</hi>  19.</hi> 
+            <hi rend="center"> 
+               <hi rend="smallcaps">Winchester</hi>, <hi rend="italic">May</hi>  19.</hi>
          </p>
-         <p>Two men named Timmons, brothers, as also <lb/>one Nimrod Higgins, were killed in the wilderness<cb/> between Yellow Creek, and Cumberland Mountain, <lb/>about the 20th ult. by Indians.</p>
-         <p>Three persons were also lately killed by Indians <lb/>in Harrison county, near the mouth of the Little <lb/>Kennaway.</p>
-         <p>By a letter from the territory south of the Ohio, <lb/>dated April 25, we learn, that on the 22d of that <lb/>month, a large party of Indians killed sever person <lb/>within seven miles of Knoxville, and stole 60 horses <lb/>from Knox County; that parties of them are daily <lb/>committing ravages in the territory, and that there <lb/>is no prospect of putting a stop to their enormities <lb/>while the Whites are restricted from pursuing them <lb/>across the Tenessee.</p>
-      </body>
-   </text>
-</TEI>
+                <p>Two men named Timmons, brothers, as also <lb/>one Nimrod Higgins, were killed in the wilderness <cb/> between Yellow Creek, and Cumberland Mountain, <lb/>about the 20th ult. by Indians.</p>
+                <p>Three persons were also lately killed by Indians <lb/>in Harrison county, near the mouth of the Little <lb/>Kennaway.</p>
+                <p>By a letter from the territory south of the Ohio, <lb/>dated April 25, we learn, that on the 22d of that <lb/>month, a large party of Indians killed sever person <lb/>within seven miles of Knoxville, and stole 60 horses <lb/>from Knox County; that parties of them are daily <lb/>committing ravages in the territory, and that there <lb/>is no prospect of putting a stop to their enormities <lb/>while the Whites are restricted from pursuing them <lb/>across the Tenessee.</p>
+            </body>
+        </text>
+    </TEI>

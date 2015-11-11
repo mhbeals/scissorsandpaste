@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>70</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1790-09-17"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="entertain"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>marriage</item>
-                  <item>female emigration</item>
-                  <item>trade</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>70</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-09-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>marriage</item>
+                            <item>female emigration</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="1"/>
-            <hi rend="italic">A humorous Adventure of a Marriage negotiated by <lb/>a Bill of Exchange, in one of the English West </hi>
+            <hi rend="italic">A humorous Adventure of a Marriage negotiated by  <lb/>a Bill of Exchange, in one of the English West </hi>
             <lb/>India Islands.</p>
-         <p>
+                <p>
             <hi rend="enlarged-capital">A</hi>  Merchant, originally from London, having <lb/>acquired a great fortune in this island, con<lb break="no"/>cluded with himself he could not be happy in the <lb/>enjoyment of it, unless[?] he shared[?] it with a wo<lb break="no"/>man of merit ; and knowing none to his fancy <lb/>he resolved to write to a worthy correspondent of <lb/>his in London. He know no other [?] than <lb/>that he used in his trade ; therefore treating af<lb break="no"/>fairs of love as he did his business, after giving <lb/>his friend in a letter several comissions, and re<lb break="no"/>serving this for the last, he went on thus :<hi rend="italic">Item[?], </hi>
             <lb/>seeing that I have taken a resolution to marry, <lb/>and that I do not find a suitable match for me <lb/>here, do not fail to send me by next ship bound <lb/>hither, a young woman of the qualifications and <lb/>form following: As for a portion I demand none ; <lb/>let her be of an honest family ; between 20 and 25 <lb/>years of age ; of a middle stature, and well pro<lb break="no"/>portioned ; her face agreeable, her temper mild, <lb/>her character blameless, her heatlh good, and her <lb/>constitution strong enough to bear the change of <lb/>the climate, that there may be no occasion to <lb/>look out for a second through lack of the [?] <lb/>soon after she comes to hand ; which must be pro<lb break="no"/>vided against as much as possible, considering the <lb/>great distance and dangers of the sea. If she <lb/>arrives, and conditioned as abovesaid, with the <lb/>present letter endorsed by you, or, at least, an at<lb break="no"/>tested copy thereof, that there may be no mistake <lb/>or imposition, I hereby oblige and engage myself <lb/>satisfy the said letter, by marrying the [?] <lb/>at 15 days [?]. In witness [?] [?] I [?] <lb/>[?], [?]."</p>
-         <p>The London correspondent read over and <lb/>over the odd article, which put the future [?] <lb/>on the same footing with the bales of good he <lb/>was to send to his friend ; and after adressing[?] the <lb/>prudent exactness of the naturalized Creole, and <lb/>his laconic stile, in enumerating the qualifications <lb/>he insisted on, he endeavoured to serve him <lb/>to his mind ; and after many enquiries, he judged <lb/>he had found a lady fit for his purpose, in a <lb/>young person of a reputable family, but no for<lb break="no"/>tune ; of good humour, and of a polite educa<lb break="no"/>tion ; well shaped, and more than tolerably hand<lb break="no"/>some. He made the proposal to her as his friend has <lb/>directed, and the young gentlewoman, who had <lb/>no subsistence but from a cross old aunt, who <lb/>gave her a great deal of uneasiness, accepted it. <lb/>A ship bound for the West Indies was then fitting <lb/>out at Bristol ; the gentlewoman went on board <lb/>the same, together with the bales of goods, being <lb/>well provided with all necessaries, and particularly <lb/>with a certificate in due form, and indorsed by <lb/>the correspondent. She was also included in the <lb/>invoice, the last article of which ran thus : "Item, <lb/>a maid of 21 years of age, of the quality, shape <lb/>and conditioned as per order ; as appears by the <lb/>affadavits and certificates she has to produce." <lb/>Writings, which were thought necessary to so <lb/>exact a man as the future husband, were an extract <lb/>from the parish register ; a certificate of her cha<lb break="no"/>racter, signified by the curate ; an attestation of <lb/>her neighbours, setting forth that she had for the <lb/>space of three years lived with an old aunt who was <lb/>intolerably peevish, and that she had not, during <lb/>all that time, given her said aunt, the least occasion <lb/>of complaint. And li[?]y, the goodness of her <lb/>consitution was certified after [?] by <lb/>[?] [?]. [?] [?] <lb/>departure the London correspondent sent seve<lb break="no"/>ral letters of advice by other ships to his friend, <lb/>whereby he informed him that per such a [?] <lb/>he sent him a young woman of such an age, cha<lb break="no"/>racter, and condition &amp;c. in a word, such [?] <lb/>desired to marry. The letters of advice, the <lb/>bales, and the gentlewoman came safe to the <lb/>port ; and our Creole, who happened to be one[?] <lb/>of the foremost on the pier and the lady's landing <lb/>was charmed to see a handsome person, who hav<lb break="no"/>ing heard him called by his name, told him, <lb/>"Sir, I have a bill of exchange upon you, and you <lb/>know that it is not usually for people to carry a <lb/>great deal of money about them in such a long <lb/>voyage as I have made ; I beg the favour you will <lb/>pleased to pay it." At the same time she gave <lb/>him his correspondent's letter, on the back of <lb/>which was wrote, " The bearer of this is the <lb/>spouse you ordered me to send you." Ha, [?]<lb break="no"/>[?] ! said the Creole, I never yet suffered my <lb/>bills to be protested, and I swear this shall not be <lb/>the first : I shall reckon myself the most fortunate <lb/>of all men, if you allow me to discharge it." <lb/>Yes, Sir, replied she, and the more willingly, <lb/>since I am apprized of your character. We have <lb/>several persons of honour on board, who knew <lb/>you very well, and who, during my passage <lb/>have answered all the questions I asked them con<lb break="no"/>cerning you, in so advantageous a manner, that <lb/>it has raised in me [?] for you." <lb/>This first interview was in a few days after follow<lb break="no"/>ed by the nuptials, which were very magnificent. <lb/>The new married couple are satisfied with their <lb/>happy union made by [?] of exchange, which <lb/>was the most fortunate that had happened in that <lb/>island for many years.</p>
-      </body>
-   </text>
-</TEI>
+                <p>The London correspondent read over and <lb/>over the odd article, which put the future [?] <lb/>on the same footing with the bales of good he <lb/>was to send to his friend ; and after adressing[?] the <lb/>prudent exactness of the naturalized Creole, and <lb/>his laconic stile, in enumerating the qualifications <lb/>he insisted on, he endeavoured to serve him <lb/>to his mind ; and after many enquiries, he judged <lb/>he had found a lady fit for his purpose, in a <lb/>young person of a reputable family, but no for<lb break="no"/>tune ; of good humour, and of a polite educa<lb break="no"/>tion ; well shaped, and more than tolerably hand<lb break="no"/>some. He made the proposal to her as his friend has <lb/>directed, and the young gentlewoman, who had <lb/>no subsistence but from a cross old aunt, who <lb/>gave her a great deal of uneasiness, accepted it. <lb/>A ship bound for the West Indies was then fitting <lb/>out at Bristol ; the gentlewoman went on board <lb/>the same, together with the bales of goods, being <lb/>well provided with all necessaries, and particularly <lb/>with a certificate in due form, and indorsed by <lb/>the correspondent. She was also included in the <lb/>invoice, the last article of which ran thus : "Item, <lb/>a maid of 21 years of age, of the quality, shape <lb/>and conditioned as per order ; as appears by the <lb/>affadavits and certificates she has to produce." <lb/>Writings, which were thought necessary to so <lb/>exact a man as the future husband, were an extract <lb/>from the parish register ; a certificate of her cha<lb break="no"/>racter, signified by the curate ; an attestation of <lb/>her neighbours, setting forth that she had for the <lb/>space of three years lived with an old aunt who was <lb/>intolerably peevish, and that she had not, during <lb/>all that time, given her said aunt, the least occasion <lb/>of complaint. And li[?]y, the goodness of her <lb/>consitution was certified after [?] by <lb/>[?] [?]. [?] [?] <lb/>departure the London correspondent sent seve<lb break="no"/>ral letters of advice by other ships to his friend, <lb/>whereby he informed him that per such a [?] <lb/>he sent him a young woman of such an age, cha<lb break="no"/>racter, and condition &amp;c. in a word, such [?] <lb/>desired to marry. The letters of advice, the <lb/>bales, and the gentlewoman came safe to the <lb/>port ; and our Creole, who happened to be one[?] <lb/>of the foremost on the pier and the lady's landing <lb/>was charmed to see a handsome person, who hav<lb break="no"/>ing heard him called by his name, told him, <lb/>"Sir, I have a bill of exchange upon you, and you <lb/>know that it is not usually for people to carry a <lb/>great deal of money about them in such a long <lb/>voyage as I have made ; I beg the favour you will <lb/>pleased to pay it." At the same time she gave <lb/>him his correspondent's letter, on the back of <lb/>which was wrote, " The bearer of this is the <lb/>spouse you ordered me to send you." Ha, [?]<lb break="no"/>[?] ! said the Creole, I never yet suffered my <lb/>bills to be protested, and I swear this shall not be <lb/>the first : I shall reckon myself the most fortunate <lb/>of all men, if you allow me to discharge it." <lb/>Yes, Sir, replied she, and the more willingly, <lb/>since I am apprized of your character. We have <lb/>several persons of honour on board, who knew <lb/>you very well, and who, during my passage <lb/>have answered all the questions I asked them con<lb break="no"/>cerning you, in so advantageous a manner, that <lb/>it has raised in me [?] for you." <lb/>This first interview was in a few days after follow<lb break="no"/>ed by the nuptials, which were very magnificent. <lb/>The new married couple are satisfied with their <lb/>happy union made by [?] of exchange, which <lb/>was the most fortunate that had happened in that <lb/>island for many years.</p>
+            </body>
+        </text>
+    </TEI>

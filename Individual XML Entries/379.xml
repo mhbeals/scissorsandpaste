@@ -1,73 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>379</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on<date when="2015-10-21">20151021</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2015-10-22">20151022</date> by 
-<persName role="transcription">M. H. Beals</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Trewman's Exeter Flying Post</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitised image available from<ref target="">the 19th Century British Library Newspapers Database</ref>
-                  </authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Exeter</settlement>
-                        <region>England</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1810-01-11"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>crime</item>
-                  <item>obituary</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <bibl corresp="381" type="original">
-            <title key="Morning Chronicle"/>
-            <date when="1810-01-06"/>
-         </bibl>
-         <bibl corresp="381" type="preceding">
-            <title key="Morning Chronicle"/>
-            <date when="1810-01-06"/>
-         </bibl>
-         <p>
-            <pb n="2"/> CORONER'S INQUEST.–An inquest was held yesterday <lb/>evening, before Anthony Gell, Esq. at the Nag's Head, <lb/>in Grange-court, Leicester-square, on the body of Ann <lb/>Paris, an unfortunate young creature, of interesting ap<lb break="no"/>pearance, not more than 17 years of age, who, it ap<lb break="no"/>peared, had been reduced by some unknown melancholy <lb/>circumstance, to the most forlorn and destitute situations. <lb/>It was stated in evidence, that she had taken her lodg<lb break="no"/>ings only seven weeks, and that during that time she <lb/>had evinced the most wretched state of mind, and, on <lb/>Thursday morning, urged on by the poignancy of her <lb/>feelings, or derangement of her intellect, she swal<lb break="no"/>lowed a considerable quantity of laudanum. On the vio<lb break="no"/>lence of her death-pangs coming on, medical air was <lb/>sent for, but too late to be of any assistance, and in a <lb/>short time she expired.–The Coroner's Jury returned a <lb/>verdict of<hi rend="italic">Lunacy</hi>.</p>
-         <p>The history of this poor young creature is at once ro<lb break="no"/>mantic and interesting. She is the daughter of a Mon<lb break="no"/>sieur Paris, who was well known in the commencement <lb/>of the Revolution, and in which he suffered. Madame <lb/>Paris, with her infant daughter, took refuge in this <lb/>country; and in the ruin of her fortune, became a <lb/>governess in a noble family in Scotland. After this she <lb/>had a house in the New-road; and, about two years ago, <lb/>died of the rupture of a blood vessel. Her daughter had <lb/>been placed at an eminent boarding-school near one of <lb/>the new squares; and on the death of her mother was <lb/>placed under the guardianship of a Member of Par<lb break="no"/>liament, who, with the most liberal and benevolent at<lb break="no"/>tention to her destitute situation, resolved to complete <lb/>her education; and she had every master of eminence in <lb/>all the elegant arts. She spoke French and Italian; <lb/>touched the piano with great execution; sung with taste; <lb/>and had read beyond her years.</p>
-         <p>About six or eight months ago she was met in the <lb/>square, when walking with the other young ladies, by a <lb/>young man in the dress of a midshipman, who followed <lb/>her to the door, and who wrote to her under the name <lb/>of Jones. A correspondence took place. Her imagin<lb break="no"/>ation was fired; and she eloped with him under a pro<lb break="no"/>mise of marriage. His address was found in her box, <lb/>and they were traced by her guardian, and separated. <lb/>Jones declared that she was virtuous, and his intentions <lb/>were honourable, and as a proof of it he was ready to <lb/>marry her with her guardian's consent. In effect they <lb/>were married and she was completely undone. In <lb/>about a fortnight or three weeks Jones threw off his <lb/>disguise, and fairly told her his real character– that he <lb/>was no sailor, but lived by his shifts; that he had mar<lb break="no"/>ried her only for the sum her protector had paid him, <lb/>and that she must provide for herself. She was aban<lb break="no"/>doned; and the shock had such an effect on her imagin<lb break="no"/>ation, that she has ever since shewed signs of a disordered <lb/>intellect. With a heart that shrunk from vice, she was <lb/>flung on the world without a friend or a home; and in <lb/>this deplorable state she became the victim of necessity.</p>
-         <p>About three weeks ago, she saw an officer, who is dis<lb break="no"/>tinguished for his gallantries, and who by his address <lb/>and attentions so won upon her affections, that she could <lb/>neither speak nor think of any other object. This fatal <lb/>attachment absorbed her whole soul. They entered into <lb/>engagements to live and die only for one another; and <lb/>in the frenzy of this passion, or under the idea that she <lb/>could not be his, and his alone, she took the desperate <lb/>resolution of dying for him. She had prepared three <lb/>phials of opium, who of which she swallowed, and she <lb/>died with a spirit of heroism; for no persuasion nor force <lb/>could make her, when seized with the nausea of the <lb/>poison, take any antidote to the draughts. She would <lb/>not suffer the medical men to approach her–and though <lb/>after stupefaction came on, they administered every <lb/>known medicine, they all failed of effect.</p>
-      </body>
-   </text>
-</TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>379</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Trewman's Exeter Flying Post</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Exeter</settlement>
+                                    <region>England</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1810-01-11"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>crime</item>
+                            <item>obituary</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <bibl corresp="381" type="original">
+                    <title key="Morning Chronicle"/>
+                    <date when="1810-01-06"/>
+                </bibl>
+                <bibl corresp="381" type="preceding">
+                    <title key="Morning Chronicle"/>
+                    <date when="1810-01-06"/>
+                </bibl>
+                <p>
+            <pb n="2"/>CORONER'S INQUEST.–An inquest was held yesterday <lb/>evening, before Anthony Gell, Esq. at the Nag's Head, <lb/>in Grange-court, Leicester-square, on the body of Ann <lb/>Paris, an unfortunate young creature, of interesting ap<lb break="no"/>pearance, not more than 17 years of age, who, it ap<lb break="no"/>peared, had been reduced by some unknown melancholy <lb/>circumstance, to the most forlorn and destitute situations. <lb/>It was stated in evidence, that she had taken her lodg<lb break="no"/>ings only seven weeks, and that during that time she <lb/>had evinced the most wretched state of mind, and, on <lb/>Thursday morning, urged on by the poignancy of her <lb/>feelings, or derangement of her intellect, she swal<lb break="no"/>lowed a considerable quantity of laudanum. On the vio<lb break="no"/>lence of her death-pangs coming on, medical air was <lb/>sent for, but too late to be of any assistance, and in a <lb/>short time she expired.–The Coroner's Jury returned a <lb/>verdict of<hi rend="italic">Lunacy</hi>.</p>
+                <p>The history of this poor young creature is at once ro<lb break="no"/>mantic and interesting. She is the daughter of a Mon<lb break="no"/>sieur Paris, who was well known in the commencement <lb/>of the Revolution, and in which he suffered. Madame <lb/>Paris, with her infant daughter, took refuge in this <lb/>country; and in the ruin of her fortune, became a <lb/>governess in a noble family in Scotland. After this she <lb/>had a house in the New-road; and, about two years ago, <lb/>died of the rupture of a blood vessel. Her daughter had <lb/>been placed at an eminent boarding-school near one of <lb/>the new squares; and on the death of her mother was <lb/>placed under the guardianship of a Member of Par<lb break="no"/>liament, who, with the most liberal and benevolent at<lb break="no"/>tention to her destitute situation, resolved to complete <lb/>her education; and she had every master of eminence in <lb/>all the elegant arts. She spoke French and Italian; <lb/>touched the piano with great execution; sung with taste; <lb/>and had read beyond her years.</p>
+                <p>About six or eight months ago she was met in the <lb/>square, when walking with the other young ladies, by a <lb/>young man in the dress of a midshipman, who followed <lb/>her to the door, and who wrote to her under the name <lb/>of Jones. A correspondence took place. Her imagin<lb break="no"/>ation was fired; and she eloped with him under a pro<lb break="no"/>mise of marriage. His address was found in her box, <lb/>and they were traced by her guardian, and separated. <lb/>Jones declared that she was virtuous, and his intentions <lb/>were honourable, and as a proof of it he was ready to <lb/>marry her with her guardian's consent. In effect they <lb/>were married and she was completely undone. In <lb/>about a fortnight or three weeks Jones threw off his <lb/>disguise, and fairly told her his real character– that he <lb/>was no sailor, but lived by his shifts; that he had mar<lb break="no"/>ried her only for the sum her protector had paid him, <lb/>and that she must provide for herself. She was aban<lb break="no"/>doned; and the shock had such an effect on her imagin<lb break="no"/>ation, that she has ever since shewed signs of a disordered <lb/>intellect. With a heart that shrunk from vice, she was <lb/>flung on the world without a friend or a home; and in <lb/>this deplorable state she became the victim of necessity.</p>
+                <p>About three weeks ago, she saw an officer, who is dis<lb break="no"/>tinguished for his gallantries, and who by his address <lb/>and attentions so won upon her affections, that she could <lb/>neither speak nor think of any other object. This fatal <lb/>attachment absorbed her whole soul. They entered into <lb/>engagements to live and die only for one another; and <lb/>in the frenzy of this passion, or under the idea that she <lb/>could not be his, and his alone, she took the desperate <lb/>resolution of dying for him. She had prepared three <lb/>phials of opium, who of which she swallowed, and she <lb/>died with a spirit of heroism; for no persuasion nor force <lb/>could make her, when seized with the nausea of the <lb/>poison, take any antidote to the draughts. She would <lb/>not suffer the medical men to approach her–and though <lb/>after stupefaction came on, they administered every <lb/>known medicine, they all failed of effect.</p>
+            </body>
+        </text>
+    </TEI>

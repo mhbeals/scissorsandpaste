@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>300</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Scotsman</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1841-04-07"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>economic migration</item>
-                  <item>emigration</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>300</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-04-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>economic migration</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
             <hi rend="smallcaps">Emigration to New Zealand.</hi> –On Friday the <lb/>Tyne left the London Dock, and proceeded down the <lb/>river on her voyage to Port Nicholson, New Zealand. <lb/>The Tyne is a fine new vessel, and she takes out 50 <lb/>mechanics and labourers, with their families, from the <lb/>Emigration Depot at Deptford, besides a number of <lb/>other passengers, amongst whom are Mr Swainson, <lb/>Chief Justice, and Mr Martin, Attorney-General, of <lb/>the new colony, to which sations they have been re<lb break="no"/>cently appointed. The arrangements for the comfort <lb/>of the emigrants on board were certainly very com<lb break="no"/>plete ; and it must be gratifying to know that those <lb/>persons sent out by the company will be provided <lb/>with a large proportion of their provisions fresh, a <lb/>great quantity of patent preserved provisions being <lb/>shipped for that purpose on board the Tyne. There <lb/>are a greater number of children than usual in the <lb/>Emigration Depot–many of the families consisting of <lb/>from eight to twelve individuals. The Prince Rupert, <lb/>which now lies in the London Dock, will clear out on <lb/>the 10th inst ; and it is supposed she will pretty well <lb/>clear the depot of its present inmates.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

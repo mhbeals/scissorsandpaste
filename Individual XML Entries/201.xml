@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>201</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Scotsman</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1824-08-25"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>201</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1824-08-25"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Press at Cape of Good Hope</hi> 
+            <hi rend="smallcaps">Press at Cape of Good Hope</hi>
          </p>
-         <p>Mr Greig, after stating the correspondence which took place be<lb break="no"/>tween him and the Fiscal, which led to the suppression of his jour<lb break="no"/>nal, gives the following account of his interview with that func<lb break="no"/>tionary. "On Monday evening, the Fiscal sent a messenger to <lb/>me, requesting I would call at his house, in Strand-street; I did <lb/>so ; he then opened a conversation upon the subject of my paper, <lb/>
-            <hi rend="italic">The South African Commercial Advertiser</hi> , and said he was in<lb break="no"/>structed to inform me that I had departed from the Prospectus – <lb/>that it was become obnoxious to the Government, and referred <lb/>more particularly to the last three or four Numbers. I asked him <lb/>to point out such parts as were immediately objectionable. He then <lb/>mentioned some<hi rend="italic">leading remarks</hi> , which (he said) bore upon the <lb/>Administration of the Colony. He further pointed out as "<hi rend="italic">ob- </hi>
+                <p>Mr Greig, after stating the correspondence which took place be<lb break="no"/>tween him and the Fiscal, which led to the suppression of his jour<lb break="no"/>nal, gives the following account of his interview with that func<lb break="no"/>tionary. "On Monday evening, the Fiscal sent a messenger to <lb/>me, requesting I would call at his house, in Strand-street; I did <lb/>so ; he then opened a conversation upon the subject of my paper, <lb/>
+            <hi rend="italic">The South African Commercial Advertiser</hi>, and said he was in<lb break="no"/>structed to inform me that I had departed from the Prospectus – <lb/>that it was become obnoxious to the Government, and referred <lb/>more particularly to the last three or four Numbers. I asked him <lb/>to point out such parts as were immediately objectionable. He then <lb/>mentioned some<hi rend="italic">leading remarks</hi>, which (he said) bore upon the <lb/>Administration of the Colony. He further pointed out as "<hi rend="italic">ob- </hi>
             <lb/>
             <hi rend="italic">noxious,</hi> " all quotations which had been made from " De Lolne[?], <lb/>"Blackstone," and " Civil Servant's"work " Lacon," and, ge<lb break="no"/>nerally all extracts relative to the Liberty of the Press, observing <lb/>–" Nobody can doubt the obvious tendency of these ; and, as we <lb/>are not men in this Colony, but merely infants," it was, in his opi<lb break="no"/>nion, dangerous to insert such matter. He added, also, that it was <lb/>expected I should, in future, publish no parts of trials, but wait <lb/>until the whole were finished ; and, even then, all scurrilous parts <lb/>(such as the Memorial of Mr L. Cooke to the Treasury), were to <lb/>be omitted. That I was further to bound down with two sure<lb break="no"/>ties, in the penalty of ten thousand rix-dollars, that nothing of the <lb/>offensive nature pointed out, should appear in any future number ; <lb/>and, lastly, that I was to take particular care, that the next num<lb break="no"/>ber (18) contained no matter of the description alluded to, nor any <lb/>notice of Mr Edward's trial. To all this, I replied, that I would <lb/>give no promise as to what would appear in the next or any future <lb/>number. That I required time to consider what was fitting to be <lb/>done with regard to the security demanded."</p>
-         <p>
+                <p>
             <hi rend="italic">The Morning Chronicle</hi>  makes the following remarks on this <lb/>case :– We cannot say that we are surprised that acts of this de<lb break="no"/>scription should take place in our Colonies. Uncontrouled power <lb/>produces every day in Europe the worst effects on men of the best <lb/>dispositions, and the best talents, and the Governors of our con<lb break="no"/>quered Colonies, and New South Wales, are unfortunately <lb/>quite absolute. In Europe the people under absolute Governments <lb/>have this advantage over the people in our colonies, that men in <lb/>office are generally selected with some reference to abilities and ac<lb break="no"/>quirements. But with the exception of the East Indies, the Go<lb break="no"/>nernment of which, with all its faults, generally, we believe, avails <lb/>itself of talents, our colonies are unfortunately considered as mere <lb/>places of refuge for the relatives of our Aristocracy, of whom nothing <lb/>can be made in this country. This is what constitutes fitness for a <lb/>Colonial Office ; and so far from being astonished at the disgrace<lb break="no"/>ful scenes which are constantly taking place in the colonies, every <lb/>person capable of reflecting at all upon the matter would be asto<lb break="no"/>nished were he to find common abilities the holder of a colonial <lb/>appointment of any value. Of Lord Charles Somerset, the less that <lb/>is said the better. In fact nothing is more wanted than the perusal <lb/>of a Cape of Good Hope Almanack, to satisfy the British public <lb/>what sort of personage he is. Would it be believe, that in a <lb/>country of boundless extent, with only a settlement here and there, <lb/>where the greatest enemies the Colonists have to contend with, are <lb/>the wild animals, it could possible enter in to the head of any ra<lb break="no"/>rional being to introduce laws for the preservation of game. One <lb/>would as soon expect to hear laws in Turkey for the preservation <lb/>of the plague. Yet it so happens, that a code which would do <lb/>credit to Sir John Shelley himself, guarding against the possible <lb/>disinction of the game of Africa, occupies a goodly space in the <lb/>Cape Almanack. After such a specimen of wisdom, all criticism on <lb/>this personage would be thrown away.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

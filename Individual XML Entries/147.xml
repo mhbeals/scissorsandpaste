@@ -1,75 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>147</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>. Keyword tagged by<persName role="metadata"> Bill Peschel</persName>.
-</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Caledonian Mercury</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1819-07-22"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>emigration</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>147</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>. Keyword tagged by <persName role="metadata"> Bill Peschel</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1819-07-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Intended Colony at the Cape of <lb/>Good Hope</hi> 
+            <hi rend="smallcaps">Intended Colony at the Cape of  <lb/>Good Hope</hi>
          </p>
-         <p>The following letters explains, in detail, the de<lb break="no"/>gree of co-operation which Government proposes <lb/>to afford to those persons who may wish to emi<lb break="no"/>grate from this country. It will be read with <lb/>peculiar interest, and it enables us to answer, in <lb/>the most satisfactory manner, the many inquiries <lb/>which have been addressed to us, upon the na<lb break="no"/>ture and extent of the plan of which the Chancel<lb break="no"/>lor of the Exchequer submitted an outline to <lb/>Parliament just before its prorogation.</p>
-         <p>(<hi rend="smallcaps">Official Circular</hi>.</p>
-         <p>"Downing Street, London, 1819. <lb/>I have to acquaint you in reply to your letter of the <lb/>–, that the following are the conditions under which <lb/>it is proposed to give encouragement to emigration to the <lb/>Cape of Good Hope.</p>
-         <p>The sufferings to which many individuals have been ex<lb break="no"/>posed, who have emigrated to his Majesty's foreign pos<lb break="no"/>sessions, unconnected and unprovided with any capiral, or <lb/>even the means of support, having been very afflicting to <lb/>themselves, and equally burdensome to the colonies to <lb/>which they have proceeded, the Government have deter<lb break="no"/>mined to confine the application of the money recently <lb/>voted by address in the House of Commons, to those per<lb break="no"/>sons, who possessing the means, will engage to carry out, at <lb/>the least, ten able bodied individuals above 18 years of age, <lb/>with or without families, the Government always reserving <lb/>to itself the right of selecting from the several offers made <lb/>to them those which may prove, upon examination, to be <lb/>most eligible.</p>
-         <p>In order to give some security to the Government, that <lb/>the persons undertaking to make these establishments <lb/>have the means of doing so, every person engaging to take <lb/>out the above mentioned number of persons or families <lb/>shall deposit at the rate of L.10 (to be repaid as herein<lb break="no"/>after mentioned) for every famly so taken out, provided <lb/>that the family does not consist of more than one man, <lb/>one woman, and two children under 14 years of age. All <lb/>children above the number of two will have to be paid for, <lb/>in addition to the deposit above mentioned, in the propor<lb break="no"/>tion of L.5 for every two children under 14 years of age <lb/>and L.5 for every person between the ages of 14 and 18.</p>
-         <p>In consideration of this deposit, a passage shall be pro<lb break="no"/>vided at the expence of Government for the settlers, who <lb/>shall also be victualled from the time of their embarka<lb break="no"/>tion until the time of their landing in the colony.</p>
-         <p>A grant of land, under the conditions hereafter speci<lb break="no"/>fied, be made to him at the rate of 100 acres for every <lb/>such person or family whom he shall so take out ; one-third <lb/>of the sum advanced to Government on the outset shall <lb/>be repaid on landing, when the victualling at the expence</p>
-         <p>
+                <p>The following letters explains, in detail, the de<lb break="no"/>gree of co-operation which Government proposes <lb/>to afford to those persons who may wish to emi<lb break="no"/>grate from this country. It will be read with <lb/>peculiar interest, and it enables us to answer, in <lb/>the most satisfactory manner, the many inquiries <lb/>which have been addressed to us, upon the na<lb break="no"/>ture and extent of the plan of which the Chancel<lb break="no"/>lor of the Exchequer submitted an outline to <lb/>Parliament just before its prorogation.</p>
+                <p>(<hi rend="smallcaps">Official Circular</hi>.</p>
+                <p>"Downing Street, London, 1819. <lb/>I have to acquaint you in reply to your letter of the <lb/>–, that the following are the conditions under which <lb/>it is proposed to give encouragement to emigration to the <lb/>Cape of Good Hope.</p>
+                <p>The sufferings to which many individuals have been ex<lb break="no"/>posed, who have emigrated to his Majesty's foreign pos<lb break="no"/>sessions, unconnected and unprovided with any capiral, or <lb/>even the means of support, having been very afflicting to <lb/>themselves, and equally burdensome to the colonies to <lb/>which they have proceeded, the Government have deter<lb break="no"/>mined to confine the application of the money recently <lb/>voted by address in the House of Commons, to those per<lb break="no"/>sons, who possessing the means, will engage to carry out, at <lb/>the least, ten able bodied individuals above 18 years of age, <lb/>with or without families, the Government always reserving <lb/>to itself the right of selecting from the several offers made <lb/>to them those which may prove, upon examination, to be <lb/>most eligible.</p>
+                <p>In order to give some security to the Government, that <lb/>the persons undertaking to make these establishments <lb/>have the means of doing so, every person engaging to take <lb/>out the above mentioned number of persons or families <lb/>shall deposit at the rate of L.10 (to be repaid as herein<lb break="no"/>after mentioned) for every famly so taken out, provided <lb/>that the family does not consist of more than one man, <lb/>one woman, and two children under 14 years of age. All <lb/>children above the number of two will have to be paid for, <lb/>in addition to the deposit above mentioned, in the propor<lb break="no"/>tion of L.5 for every two children under 14 years of age <lb/>and L.5 for every person between the ages of 14 and 18.</p>
+                <p>In consideration of this deposit, a passage shall be pro<lb break="no"/>vided at the expence of Government for the settlers, who <lb/>shall also be victualled from the time of their embarka<lb break="no"/>tion until the time of their landing in the colony.</p>
+                <p>A grant of land, under the conditions hereafter speci<lb break="no"/>fied, be made to him at the rate of 100 acres for every <lb/>such person or family whom he shall so take out ; one-third <lb/>of the sum advanced to Government on the outset shall <lb/>be repaid on landing, when the victualling at the expence</p>
+                <p>
             <pb/>of Government shall cease. A further proportion of one<lb break="no"/>third shall be repaid, as soon as it shall be certified to the <lb/>Governor of the colony that the settlers under the direc<lb break="no"/>tion of the person taking them out are actually located <lb/>upon the land assigned to them ; and the remainer at <lb/>the expiration of three months from the date of their lo<lb break="no"/>cation.</p>
-         <p>If any parishes in which there may be a redundancy <lb/>of population shall unite in selecting an intelligent indivi<lb break="no"/>dual to proceed to the Cape, with settlers under his direc<lb break="no"/>tion, not less in number and of the description above<lb break="no"/>mentioned, and shall advance money in the proportion <lb/>above-mentioned, the Government will grant land to such <lb/>an individual at the rate of 100 acres for every head of a fa<lb break="no"/>mily, leaving the parish at liberty to make such conditions <lb/>with the individual, or the settlers, as may be calculated <lb/>to prevent the parish becoming again chargeable with the <lb/>maintenance of such settlers, in the event of their return <lb/>to this country.</p>
-         <p>But no offers of this kind will be accepted, unless it <lb/>shall be clear that the persons proposing to become settlers <lb/>shall have distinctly given their consent, and the head of <lb/>each family is not infirm or incapable of work.</p>
-         <p>It is further proposed, that in any case in which one <lb/>hundred families proceed together, and apply for leave to <lb/>carry out with them a minister of their own persuasion, <lb/>Government will, upon their being actually located, as<lb break="no"/>sign a salary to the minister who they have may have <lb/>selected to accompany them, if he shall be approved by <lb/>the Secretary of State.</p>
-         <p>The lands will be granted at a quit rent to be fixed, <lb/>which rent, however, will be remitted for the first ten <lb/>years ; and at the expiration of three years (during which <lb/>the party and a number of families, in the proportion of <lb/>one for every 100 acres, must have resided on the estate), <lb/>the land shall be measured at the expence of Government, <lb/>and the holder shall obtain, without fee, his title thereto, <lb/>on a perpetual quit rent, not exceeding in any case L. 2 <lb/>sterling for every 100 acres ; subject, however to this <lb/>clause beyond the usual reservations"–that the land shall <lb/>become forefited to Government, in case the party shall <lb/>abandon the estate, or not bring it into cultivation within <lb/>a given number of years. I am <lb/>Your most obedient humble servant. <lb/>* The usual reservations are the right of the Crown to mines <lb/>of precious stones, of gold and silver, and to make such roads <lb/>as may be necessary for the convenience of the colony.</p>
-      </body>
-   </text>
-</TEI>
+                <p>If any parishes in which there may be a redundancy <lb/>of population shall unite in selecting an intelligent indivi<lb break="no"/>dual to proceed to the Cape, with settlers under his direc<lb break="no"/>tion, not less in number and of the description above<lb break="no"/>mentioned, and shall advance money in the proportion <lb/>above-mentioned, the Government will grant land to such <lb/>an individual at the rate of 100 acres for every head of a fa<lb break="no"/>mily, leaving the parish at liberty to make such conditions <lb/>with the individual, or the settlers, as may be calculated <lb/>to prevent the parish becoming again chargeable with the <lb/>maintenance of such settlers, in the event of their return <lb/>to this country.</p>
+                <p>But no offers of this kind will be accepted, unless it <lb/>shall be clear that the persons proposing to become settlers <lb/>shall have distinctly given their consent, and the head of <lb/>each family is not infirm or incapable of work.</p>
+                <p>It is further proposed, that in any case in which one <lb/>hundred families proceed together, and apply for leave to <lb/>carry out with them a minister of their own persuasion, <lb/>Government will, upon their being actually located, as<lb break="no"/>sign a salary to the minister who they have may have <lb/>selected to accompany them, if he shall be approved by <lb/>the Secretary of State.</p>
+                <p>The lands will be granted at a quit rent to be fixed, <lb/>which rent, however, will be remitted for the first ten <lb/>years ; and at the expiration of three years (during which <lb/>the party and a number of families, in the proportion of <lb/>one for every 100 acres, must have resided on the estate), <lb/>the land shall be measured at the expence of Government, <lb/>and the holder shall obtain, without fee, his title thereto, <lb/>on a perpetual quit rent, not exceeding in any case L. 2 <lb/>sterling for every 100 acres ; subject, however to this <lb/>clause beyond the usual reservations"–that the land shall <lb/>become forefited to Government, in case the party shall <lb/>abandon the estate, or not bring it into cultivation within <lb/>a given number of years. I am <lb/>Your most obedient humble servant. <lb/>* The usual reservations are the right of the Crown to mines <lb/>of precious stones, of gold and silver, and to make such roads <lb/>as may be necessary for the convenience of the colony.</p>
+            </body>
+        </text>
+    </TEI>

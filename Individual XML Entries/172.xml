@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>172</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>. Keyword tagged by<persName role="metadata">John Levin</persName>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>172</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>. Keyword tagged by <persName role="metadata">John Levin</persName>
             </authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Aberdeen Journal</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Aberdeen</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1820-08-02"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-08-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">Colony at the Cape of Good Hope</hi> 
+            <hi rend="smallcaps">Colony at the Cape of Good Hope</hi>
          </p>
-         <p>(Extract of a Letter,<hi rend="italic">dated off Madeira</hi> ) <lb/>
-            <hi rend="smallcaps">Aurora Transport Ship, Feb 19.</hi> 
+                <p>(Extract of a Letter,<hi rend="italic">dated off Madeira</hi> ) <lb/>
+            <hi rend="smallcaps">Aurora Transport Ship, Feb 19.</hi>
          </p>
-         <p>"An opportunity having offered for transmitting <lb/>a hasty account of the Aurora and Brilliant transports, <lb/>proceeding with settlers to the Cape of Good Hope, I <lb/>feel happy in availing myself of that circumstance, <lb/>with a view as well to gratify our friends in England, <lb/>as to add another confirmation of the liberality of Go<lb break="no"/>vernment in our important undertaking. First, it will <lb/>be necessary to state, that the two ships sail in compa<lb break="no"/>ny, and are every day within hail of each other ; the <lb/>former commanded by Captain Pearson, and the latter <lb/>by Captain Bothwell, who is accompanied by Lieute<lb break="no"/>nant Pritchard, as agent to both vessels.</p>
-         <p>"We sailed from Gravesend on. Our <lb/>course down Channel was most favourable, and the <lb/>weather has hitherto been propitious. No death, <lb/>disease, or serious accident has occurred in either ship <lb/>and blooming health and vigour now rapidly succeed the <lb/>langour produced by a sudden transition to a new ele<lb break="no"/>ment. Provisions, consisting of flour, currants, suet[?] <lb/>oatmeal, peas, butter, cheese, tea, sugar, biscuit, salt <lb/>pork, and beef, of excellent quality, are liberally sup<lb break="no"/>plied, together with a proper allowance of rum, vine<lb break="no"/>gar, mustard and spices. The ships are fitted up in <lb/>every respect comfortably and commodiously, and the <lb/>most perfect harmony prevails, if we except bickerings <lb/>amongst the old women about fractured teapots and <lb/>mislaid culinary articles. The attention paid to the <lb/>comfort of the passengers, and more especially to that <lb/>of the women and children, by the Captains, and the <lb/>agent (Mr Pritchard), is highly creditable to the in<lb break="no"/>structions received from Government.</p>
-         <p>"Although I do not sail in the same ship Cap<lb break="no"/>tain Bothwell. I have had ample proofs of the kind<lb break="no"/>ness and humane liberality which he shews to the pas<lb break="no"/>sengers in the Brilliant. Captain Pearson is an active, <lb/>intelligent officer, who has been 23 years in the Tran<lb break="no"/>sport Service under Government : he has sailed to al<lb break="no"/>most every part of the world, and Algoa Bay, our <lb/>place of destination, is quite familiar to him.</p>
-         <p>"It may be egotism to speak of myself; but I trust <lb/>I may be excused in boasting, that of the crew and <lb/>240 passengers, not one is seriously indisposed at present, <lb/>and wishing, with heartfelt sincerity, to my friends in <lb/>England, happiness, peace, and tranquility, in as good <lb/>health as I now enjoy, long may they live, long live the <lb/>Constitution: and while on Fish River or Orange Ri<lb break="no"/>ver we encounter the difficulties incident to new colo<lb break="no"/>nists, may England and South Africa be ever united <lb/>by the ties of mutual friendship–the one affording her <lb/>parental arms, and the other mindful of her filial duty. <lb/>
-            <hi rend="smallcaps">P. Campbell</hi> ., Surgeon.</p>
-      </body>
-   </text>
-</TEI>
+                <p>"An opportunity having offered for transmitting <lb/>a hasty account of the Aurora and Brilliant transports, <lb/>proceeding with settlers to the Cape of Good Hope, I <lb/>feel happy in availing myself of that circumstance, <lb/>with a view as well to gratify our friends in England, <lb/>as to add another confirmation of the liberality of Go<lb break="no"/>vernment in our important undertaking. First, it will <lb/>be necessary to state, that the two ships sail in compa<lb break="no"/>ny, and are every day within hail of each other ; the <lb/>former commanded by Captain Pearson, and the latter <lb/>by Captain Bothwell, who is accompanied by Lieute<lb break="no"/>nant Pritchard, as agent to both vessels.</p>
+                <p>"We sailed from Gravesend on. Our <lb/>course down Channel was most favourable, and the <lb/>weather has hitherto been propitious. No death, <lb/>disease, or serious accident has occurred in either ship <lb/>and blooming health and vigour now rapidly succeed the <lb/>langour produced by a sudden transition to a new ele<lb break="no"/>ment. Provisions, consisting of flour, currants, suet[?] <lb/>oatmeal, peas, butter, cheese, tea, sugar, biscuit, salt <lb/>pork, and beef, of excellent quality, are liberally sup<lb break="no"/>plied, together with a proper allowance of rum, vine<lb break="no"/>gar, mustard and spices. The ships are fitted up in <lb/>every respect comfortably and commodiously, and the <lb/>most perfect harmony prevails, if we except bickerings <lb/>amongst the old women about fractured teapots and <lb/>mislaid culinary articles. The attention paid to the <lb/>comfort of the passengers, and more especially to that <lb/>of the women and children, by the Captains, and the <lb/>agent (Mr Pritchard), is highly creditable to the in<lb break="no"/>structions received from Government.</p>
+                <p>"Although I do not sail in the same ship Cap<lb break="no"/>tain Bothwell. I have had ample proofs of the kind<lb break="no"/>ness and humane liberality which he shews to the pas<lb break="no"/>sengers in the Brilliant. Captain Pearson is an active, <lb/>intelligent officer, who has been 23 years in the Tran<lb break="no"/>sport Service under Government : he has sailed to al<lb break="no"/>most every part of the world, and Algoa Bay, our <lb/>place of destination, is quite familiar to him.</p>
+                <p>"It may be egotism to speak of myself; but I trust <lb/>I may be excused in boasting, that of the crew and <lb/>240 passengers, not one is seriously indisposed at present, <lb/>and wishing, with heartfelt sincerity, to my friends in <lb/>England, happiness, peace, and tranquility, in as good <lb/>health as I now enjoy, long may they live, long live the <lb/>Constitution: and while on Fish River or Orange Ri<lb break="no"/>ver we encounter the difficulties incident to new colo<lb break="no"/>nists, may England and South Africa be ever united <lb/>by the ties of mutual friendship–the one affording her <lb/>parental arms, and the other mindful of her filial duty. <lb/>
+            <hi rend="smallcaps">P. Campbell</hi>., Surgeon.</p>
+            </body>
+        </text>
+    </TEI>

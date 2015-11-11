@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>180</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Aberdeen Journal</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Aberdeen</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1821-06-27"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>180</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-06-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>Colonial Intelligence</p>
-         <p>We have received Canada Papers to the 10th May. <lb/>The active exertions of the Governor to improve the <lb/>inland navigation had given very general satisfaction. <lb/>In the course of the Session of the Colonial Parlia<lb break="no"/>ment, which was prorogued on the 14th April, no less <lb/>than three Addresses were presented to Earl Dalhou<lb break="no"/>sie, to be forwarded to the King ; one respecting the <lb/>allowance of half-pay to the Militia ; another respect<lb break="no"/>ing the duties imposed in British ports on lumber from <lb/>Canada ; and third related to the losses sustained <lb/>by the people of Canada, during the late war. His <lb/>excellency the Governor had intimated, that no objec<lb break="no"/>tion would be made to the repeal of the grant of 2,500l <lb/>on account of the Civil List for the Colony, provided <lb/>the salaray of the Chief retired Justice, the Receiver<lb break="no"/>General, and that of the Speaker of the House of As<lb break="no"/>sembly, should be continued, in the whole amounting <lb/>to 1,800l. The grant has for some time been a pro<lb break="no"/>minent subject of complaint in the Colonial Parlia<lb break="no"/>ment.</p>
-         <p>The 37th Regiment for three years stationed in <lb/>Lower Canada is about to leave the Colony for Eng<lb break="no"/>land. The Staff Corps was to proceed to the Otta<lb break="no"/>wa, to carry into effect the intended plan for removing <lb/>the obstructions in that river.</p>
-         <p>An article from Montreal, dated May 5, states, that <lb/>a messenger was leaving that place to announce the <lb/>union of the North and Hudson's Bay Compa<lb break="no"/>nies, at their respective establishments. The former <lb/>of these companies was under control of Lord Sel<lb break="no"/>kirk, and the schism that has so long reigned between <lb/>them, with its fatal consequences, is well know to <lb/>the Public.</p>
-         <p>By Letters from Bombay we learn that 20 ships <lb/>have been taken up by the vigilant Governor, on board <lb/>of which 5000 troops are embarked, destined to the <lb/>Persian Gulph, to repair the disaster suffered by the <lb/>surprise of the detachment left by Sir Wm. Kier, un<lb break="no"/>der the direction of a young man. The gallant Gen. <lb/>Lionel Smith has been selected for this important ser<lb break="no"/>vice ; and we have no doubt but that he will convince <lb/>the Arabs of the impolicy of their treacherous proceed<lb break="no"/>ings, and justify the high confidence which the Go<lb break="no"/> 
+                <p>We have received Canada Papers to the 10th May. <lb/>The active exertions of the Governor to improve the <lb/>inland navigation had given very general satisfaction. <lb/>In the course of the Session of the Colonial Parlia<lb break="no"/>ment, which was prorogued on the 14th April, no less <lb/>than three Addresses were presented to Earl Dalhou<lb break="no"/>sie, to be forwarded to the King ; one respecting the <lb/>allowance of half-pay to the Militia ; another respect<lb break="no"/>ing the duties imposed in British ports on lumber from <lb/>Canada ; and third related to the losses sustained <lb/>by the people of Canada, during the late war. His <lb/>excellency the Governor had intimated, that no objec<lb break="no"/>tion would be made to the repeal of the grant of 2,500l <lb/>on account of the Civil List for the Colony, provided <lb/>the salaray of the Chief retired Justice, the Receiver<lb break="no"/>General, and that of the Speaker of the House of As<lb break="no"/>sembly, should be continued, in the whole amounting <lb/>to 1,800l. The grant has for some time been a pro<lb break="no"/>minent subject of complaint in the Colonial Parlia<lb break="no"/>ment.</p>
+                <p>The 37th Regiment for three years stationed in <lb/>Lower Canada is about to leave the Colony for Eng<lb break="no"/>land. The Staff Corps was to proceed to the Otta<lb break="no"/>wa, to carry into effect the intended plan for removing <lb/>the obstructions in that river.</p>
+                <p>An article from Montreal, dated May 5, states, that <lb/>a messenger was leaving that place to announce the <lb/>union of the North and Hudson's Bay Compa<lb break="no"/>nies, at their respective establishments. The former <lb/>of these companies was under control of Lord Sel<lb break="no"/>kirk, and the schism that has so long reigned between <lb/>them, with its fatal consequences, is well know to <lb/>the Public.</p>
+                <p>By Letters from Bombay we learn that 20 ships <lb/>have been taken up by the vigilant Governor, on board <lb/>of which 5000 troops are embarked, destined to the <lb/>Persian Gulph, to repair the disaster suffered by the <lb/>surprise of the detachment left by Sir Wm. Kier, un<lb break="no"/>der the direction of a young man. The gallant Gen. <lb/>Lionel Smith has been selected for this important ser<lb break="no"/>vice ; and we have no doubt but that he will convince <lb/>the Arabs of the impolicy of their treacherous proceed<lb break="no"/>ings, and justify the high confidence which the Go<lb break="no"/> 
             <lb/>vernment of Bombay have in his talents and valour.– <lb/>His Excellency Mr. Elphinstone, completely recover<lb break="no"/>ed, is gone on a tour to Kutch, to settle all disputes, <lb/>and to ascertain the true situation of the country.– <lb/>How important it is for the Heads of the Presidencies, <lb/>thus to judge from actual observation, instead of trust<lb break="no"/>ing to mere reports. This proves the benefits of ap<lb break="no"/>pointing men of experience and energy in the conduct <lb/>of our Indian Empire–which is now, throuh the <lb/>admirable conduct of the Governor General, and the two <lb/>other Presidencies, in a state of unexampled, tranqui<lb break="no"/>lity and prosperity.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

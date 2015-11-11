@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>309</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Scotsman</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1841-12-29"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>309</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-12-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
             <hi rend="smallcaps">Another New Field for Emi </hi>
             <lb/>
-            <hi rend="smallcaps">gration</hi> 
+            <hi rend="smallcaps">gration</hi>
          </p>
-         <p>The<hi rend="italic">Falkland Islands</hi>  have been nominally a <lb/>British colony for some years; but, in conse<lb break="no"/>quence of representations made to Government by <lb/>various persons interested in the trade to the South <lb/>Seas, a plan has at least been drawn up for esta<lb break="no"/>blishing a body of settlers in these islands. It <lb/>was submitted to the late Ministers, who referred <lb/>it to the Commissioners of Emigration and the <lb/>Lords of the Admiralty, by both of whom it was <lb/>approved. Rules were prepared by the Com<lb break="no"/>missioners of Emigration ; a vote of t3750 was <lb/>put into the estimates for the first year's ex<lb break="no"/>pense, and, we suppose, passed. If steps have <lb/>not been taken already to send out emigrants, we <lb/>presume they will be taken about the beginning <lb/>of next winter, which is their summer.</p>
-         <p>These islands are about 300 miles from the <lb/>south extremity of the American continent, in a <lb/>latitude corresponding with that of London. <lb/>Their climate, however, very closely resembles <lb/>that of Shetland. They have cold summers and <lb/>mild winters. Snow seldom lies in them; but <lb/>owing to their humidity and want of sunshine, <lb/>and the stormy winds which blow almost con<lb break="no"/>stantly, wheat of barley could not be raised in <lb/>them, and even oats might turn out to be a pre<lb break="no"/>carious crop. It is doubted also if wood will <lb/>grow, and at present there is not a single tree in <lb/>the islands. Turnips and potatoes succeed well, <lb/>and there is an abundance of good grass, upon which <lb/>some thousands of black cattle, horses, and hogs, <lb/>thrive in the wild state, and sheep have been in<lb break="no"/>troduced and found to do well. Extensive peat<lb break="no"/>bogs exist, which will afford a sufficient supply of <lb/>fuel. The present population consists of twenty<lb break="no"/>five persons, young and old–one-half of them <lb/>British, the other Gauchos, South American In<lb break="no"/>dians of a semi-civilised description. They are <lb/>all stationed at Port-Louis, a fine natural har<lb break="no"/>bour, where a British officer resides.</p>
-         <p>The islands are numerous, but all very small <lb/>except two, whose area is estimated at 13,000 <lb/>square miles, or nearly half the extent of Scot<lb break="no"/>land. They are deeply perforated by arms of the <lb/>sea, and probably afford a greater number of fine <lb/>natural harbours than any country of equal ex<lb break="no"/>tent in the world. Their shores afford excellent <lb/>fish of many kinds, and seals are exceedingly <lb/>numerous.</p>
-         <p>The great object in establishing a colony here <lb/>is to provide a harbour of refuge and place of re<lb break="no"/>fitment for our ships frequenting the South Seas, <lb/>which are yearly increasing in number. Every <lb/>vessel going to the Pacific Ocean, or coming from <lb/>it, passes within sight of these islands, or near <lb/>them. At present 60 or 70 British ships pass <lb/>these islands annually coming from Chili or Peru, <lb/>and 20 more engaged in the whale fishery. The <lb/>trade to New South Wales employs 236 vessels, <lb/>most of which return to England by this route, <lb/>which will also be preferred by vessels trading to <lb/>New Zealand, Van Diemen's Land, Port Philip, <lb/>and probably South Australia. From Sydney or <lb/>Hort Town the distance is nearly the same by <lb/>Cape Horn or the Cape of Good Hope, but the <lb/>prevalence of westerly winds in the parallel be<lb break="no"/>yond the 30th, renders the latter route the more <lb/>advantageous on the outward voyage, and the <lb/>former on the return. The Falkland Islands are <lb/>about half as distant from Britain as New South <lb/>Wales.</p>
-         <p>The Emigration Board recommend that Govern<lb break="no"/>ment should send out two surveyors to select an <lb/>eligible site for a town, and to lay out the land in <lb/>blocks of half a square mile, which may be subdivid<lb break="no"/>ed. It is proposed to sell the land to emigrants at <lb/>12s. per acre, and to expend part of the money in <lb/>carrying out additional settlers, part in defraying <lb/>the colonial outlay. There are 40,000 wild cattle in <lb/>the largest island, the privilege of shooting which, <lb/>or catching and taming them, might be sold to <lb/>the settlers or a company. The climate is unin<lb break="no"/>viting, but there is little doubt that persons ac<lb break="no"/>customed to grazing or sheep farming, or to seal<lb break="no"/>hunting, or deep-sea fishery, might drive a profit<lb break="no"/>able trade here. A vast number of ships, making <lb/>long voyages, American, French, Dutch, as well <lb/>as British, pass the islands, and to these it would <lb/>be a great accommodation to find supplies of pro<lb break="no"/>visions and the means of refitting here. Some of <lb/>our starving population in the North of Scotland <lb/>or the Islands, might better their circumstances <lb/>by removing to the Falkland Islands.</p>
-      </body>
-   </text>
-</TEI>
+                <p>The<hi rend="italic">Falkland Islands</hi>  have been nominally a <lb/>British colony for some years; but, in conse<lb break="no"/>quence of representations made to Government by <lb/>various persons interested in the trade to the South <lb/>Seas, a plan has at least been drawn up for esta<lb break="no"/>blishing a body of settlers in these islands. It <lb/>was submitted to the late Ministers, who referred <lb/>it to the Commissioners of Emigration and the <lb/>Lords of the Admiralty, by both of whom it was <lb/>approved. Rules were prepared by the Com<lb break="no"/>missioners of Emigration ; a vote of t3750 was <lb/>put into the estimates for the first year's ex<lb break="no"/>pense, and, we suppose, passed. If steps have <lb/>not been taken already to send out emigrants, we <lb/>presume they will be taken about the beginning <lb/>of next winter, which is their summer.</p>
+                <p>These islands are about 300 miles from the <lb/>south extremity of the American continent, in a <lb/>latitude corresponding with that of London. <lb/>Their climate, however, very closely resembles <lb/>that of Shetland. They have cold summers and <lb/>mild winters. Snow seldom lies in them; but <lb/>owing to their humidity and want of sunshine, <lb/>and the stormy winds which blow almost con<lb break="no"/>stantly, wheat of barley could not be raised in <lb/>them, and even oats might turn out to be a pre<lb break="no"/>carious crop. It is doubted also if wood will <lb/>grow, and at present there is not a single tree in <lb/>the islands. Turnips and potatoes succeed well, <lb/>and there is an abundance of good grass, upon which <lb/>some thousands of black cattle, horses, and hogs, <lb/>thrive in the wild state, and sheep have been in<lb break="no"/>troduced and found to do well. Extensive peat<lb break="no"/>bogs exist, which will afford a sufficient supply of <lb/>fuel. The present population consists of twenty<lb break="no"/>five persons, young and old–one-half of them <lb/>British, the other Gauchos, South American In<lb break="no"/>dians of a semi-civilised description. They are <lb/>all stationed at Port-Louis, a fine natural har<lb break="no"/>bour, where a British officer resides.</p>
+                <p>The islands are numerous, but all very small <lb/>except two, whose area is estimated at 13,000 <lb/>square miles, or nearly half the extent of Scot<lb break="no"/>land. They are deeply perforated by arms of the <lb/>sea, and probably afford a greater number of fine <lb/>natural harbours than any country of equal ex<lb break="no"/>tent in the world. Their shores afford excellent <lb/>fish of many kinds, and seals are exceedingly <lb/>numerous.</p>
+                <p>The great object in establishing a colony here <lb/>is to provide a harbour of refuge and place of re<lb break="no"/>fitment for our ships frequenting the South Seas, <lb/>which are yearly increasing in number. Every <lb/>vessel going to the Pacific Ocean, or coming from <lb/>it, passes within sight of these islands, or near <lb/>them. At present 60 or 70 British ships pass <lb/>these islands annually coming from Chili or Peru, <lb/>and 20 more engaged in the whale fishery. The <lb/>trade to New South Wales employs 236 vessels, <lb/>most of which return to England by this route, <lb/>which will also be preferred by vessels trading to <lb/>New Zealand, Van Diemen's Land, Port Philip, <lb/>and probably South Australia. From Sydney or <lb/>Hort Town the distance is nearly the same by <lb/>Cape Horn or the Cape of Good Hope, but the <lb/>prevalence of westerly winds in the parallel be<lb break="no"/>yond the 30th, renders the latter route the more <lb/>advantageous on the outward voyage, and the <lb/>former on the return. The Falkland Islands are <lb/>about half as distant from Britain as New South <lb/>Wales.</p>
+                <p>The Emigration Board recommend that Govern<lb break="no"/>ment should send out two surveyors to select an <lb/>eligible site for a town, and to lay out the land in <lb/>blocks of half a square mile, which may be subdivid<lb break="no"/>ed. It is proposed to sell the land to emigrants at <lb/>12s. per acre, and to expend part of the money in <lb/>carrying out additional settlers, part in defraying <lb/>the colonial outlay. There are 40,000 wild cattle in <lb/>the largest island, the privilege of shooting which, <lb/>or catching and taming them, might be sold to <lb/>the settlers or a company. The climate is unin<lb break="no"/>viting, but there is little doubt that persons ac<lb break="no"/>customed to grazing or sheep farming, or to seal<lb break="no"/>hunting, or deep-sea fishery, might drive a profit<lb break="no"/>able trade here. A vast number of ships, making <lb/>long voyages, American, French, Dutch, as well <lb/>as British, pass the islands, and to these it would <lb/>be a great accommodation to find supplies of pro<lb break="no"/>visions and the means of refitting here. Some of <lb/>our starving population in the North of Scotland <lb/>or the Islands, might better their circumstances <lb/>by removing to the Falkland Islands.</p>
+            </body>
+        </text>
+    </TEI>

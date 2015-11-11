@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>232</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Scotsman</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1833-09-25"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>agriculture</item>
-                  <item>prices</item>
-                  <item>trade</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>232</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-09-25"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>prices</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
             <hi rend="italic">The Wool Trade.</hi> –The whole of the London public <lb/>sales of Colonial and other woold having now been <lb/>gone through, the wool trade is in a more settled state, <lb/>and transactions by private contract are conducted on a <lb/>more extensive scale. The total amount of the late <lb/>sales, the last of which took place on Tuesday, was <lb/>4,000 bales, and the colonial wools were taken by the <lb/>manufactures at the extreme advance realized at the <lb/>previous sales in July. In some cases, indeed, quota<lb break="no"/>tions from 2d to 3d per lb. in advance were obtained. <lb/>The sales on Saturday was most fully attended, and in<lb break="no"/>creased boldness was observed. The colonial wools <lb/>offered on that day fetched excellent prices. Some few <lb/>bales were also offered, forming a part of the second <lb/>clip of wools in the new colony on the Swan River. <lb/>They were much better in quality than those last re<lb break="no"/>ceived. Some German lambs' wool also commanded <lb/>attention, and sold as high as 3s 10d to 4s per lb. The <lb/>sale on Tuesday (the last of the series,) was not quite <lb/>so fully attended as those of last wekk, but, according <lb/>to quality, full prices were obtained. The sale consisted <lb/>of 437 bales New South Wales and Van Diemen's <lb/>Land wool, 96 bales of Portugal wool, 54 Spanish, and <lb/>72 bales of Cape, German, Russian, and other wools. <lb/>The best fleece of Amsterdam offered fetched 2s 10d to <lb/>3s 2d, and seconds 2s 3d to 2s 7 1/2d per lb ; the <lb/>best Portugal 1s 2d to 1s 11d ; the best Spanish 2s 5d <lb/>to 2s 8d ; the best Cape 1s 4d to 1s 8d ; the best Van <lb/>Diemen's Land 1s 8d to 1s 10d ; and the best German <lb/>2s to 2s 3d per lb. The result of these sales is to esta<lb break="no"/>blish a much firmer market for wools of all descriptions <lb/>than previously existed. The arrivals of wool are <lb/>limited, and this week only 575 bales of German wool, <lb/>and abotu 375 bales of Neapolitan wool have been en<lb break="no"/>tered at the custom house.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

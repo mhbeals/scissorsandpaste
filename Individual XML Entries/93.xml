@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>93</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130606 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20140828 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1793-07-22"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="entertain"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>longevity</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>93</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130606 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140828 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1793-07-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>longevity</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="center">
-               <hi rend="italic">Petersburgh, May</hi>  10.</hi> 
+            <hi rend="center"> 
+               <hi rend="italic">Petersburgh, May</hi>  10.</hi>
          </p>
-         <p>There now resides in the neighbourhood of <lb/>Prince Edward Court-house, a person of the name <lb/>Mr John Hollaway; this man was a soldier at tak<lb break="no"/>ing Port Mabon, Gibraltor, and Vigo, was 32 <lb/>years of age at the coronation of Queen Anne, in <lb/>the year of the Duke of Marlborough and Duke <lb/>of Ormond.</p>
-         <p>He left England in the year 1714, the day af<lb break="no"/>ter the coronation of George I. and arrived in <lb/>Virginia a few weeks after that event.</p>
-         <p>From these circumstances, he is at this time 124 <lb/>years of age, appears to enjoy good spirits, and <lb/>sings a song with strength of voice and distinct <lb/>[??]culation.</p>
-         <p>This man's life also furnishes an extraordinary <lb/>
+                <p>There now resides in the neighbourhood of <lb/>Prince Edward Court-house, a person of the name <lb/>Mr John Hollaway; this man was a soldier at tak<lb break="no"/>ing Port Mabon, Gibraltor, and Vigo, was 32 <lb/>years of age at the coronation of Queen Anne, in <lb/>the year of the Duke of Marlborough and Duke <lb/>of Ormond.</p>
+                <p>He left England in the year 1714, the day af<lb break="no"/>ter the coronation of George I. and arrived in <lb/>Virginia a few weeks after that event.</p>
+                <p>From these circumstances, he is at this time 124 <lb/>years of age, appears to enjoy good spirits, and <lb/>sings a song with strength of voice and distinct <lb/>[??]culation.</p>
+                <p>This man's life also furnishes an extraordinary <lb/>
             <supplied>???</supplied>; at the age of 67 he married a person aged <lb/>[??] by whom he had issue a son now alive, aged <lb/>[??] and where the father now lives.</p>
-      </body>
-   </text>
-</TEI>
+            </body>
+        </text>
+    </TEI>

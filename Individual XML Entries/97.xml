@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>97</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130608 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141105 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1794-09-12"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="entertain"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>colonial government</item>
-                  <item>crime</item>
-                  <item>abolition</item>
-                  <item>slavery</item>
-                  <item>colonial government</item>
-                  <item>Freemasons</item>
-                  <item>religion</item>
-                  <item>military</item>
-                  <item>currency</item>
-                  <item>navy</item>
-                  <item>wages</item>
-                  <item>census</item>
-                  <item>emigration</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>97</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130608 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141105 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-09-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                            <item>crime</item>
+                            <item>abolition</item>
+                            <item>slavery</item>
+                            <item>colonial government</item>
+                            <item>Freemasons</item>
+                            <item>religion</item>
+                            <item>military</item>
+                            <item>currency</item>
+                            <item>navy</item>
+                            <item>wages</item>
+                            <item>census</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="1"/> The laws of the State of Pennsylvania, and that of <lb/>Massachusetts, by which the punishment of death is abo<lb break="no"/>lished, in all cases except for wilful murder, are about <lb/>to be adopted by the respective Legislatures of all the <lb/>other States. The system of the great and merciful<supplied reason="copy blur">???</supplied>
             <lb break="no"/>caria, has taken place of the sanguinary Penal laws of <lb/>England.</p>
-         <p>The abolition ofNegro slavery, which has taken shape <lb/>in the five New England States of New Hampshire, <lb/>Massachusets, Rhode island, Connecticut, and Vermont; <lb/>in the Midland States of New York, New Jersey, Penn<lb break="no"/>sylvania, and Delawar; and in the Western State of <lb/>Kentucky, for several years past is now extended, by act <lb/>of Congress to the Southern States of Virginia, North <lb/>Carolina, South Carolina, Georgia, and Maryland; and <lb/>the emancipation of the remainder of that unfortunate <lb/>race of men is to take place on or before the fifth of No<lb break="no"/>vember, 1795.</p>
-         <p>The Legislature of the State of Massachusetts has g<supplied reason="copy blur">???</supplied>
+                <p>The abolition ofNegro slavery, which has taken shape <lb/>in the five New England States of New Hampshire, <lb/>Massachusets, Rhode island, Connecticut, and Vermont; <lb/>in the Midland States of New York, New Jersey, Penn<lb break="no"/>sylvania, and Delawar; and in the Western State of <lb/>Kentucky, for several years past is now extended, by act <lb/>of Congress to the Southern States of Virginia, North <lb/>Carolina, South Carolina, Georgia, and Maryland; and <lb/>the emancipation of the remainder of that unfortunate <lb/>race of men is to take place on or before the fifth of No<lb break="no"/>vember, 1795.</p>
+                <p>The Legislature of the State of Massachusetts has g<supplied reason="copy blur">???</supplied>
             <lb break="no"/>ed a part of the public lands to the emancipated Negroes <lb/>of that State, in proportion to the numbers of the re<lb break="no"/>spective families, where the liberal and philanthropic <lb/>mind is gratified, by seeing them erect villages cultivate <lb/>farms, and form communities of civilized Societies.</p>
-         <p>Before the Gentleman, who has favoured us with this <lb/>Intelligence, left America, they had established a Lodge <lb/>of Masonry; and he had the satisfaction of seeing them <lb/>on a grand day, parade to Church in all the magnifi<lb break="no"/>cence of the Order, where a sermon was preached, on <lb/>the occasion, by one of their own colour. They have <lb/>also endowed public schools, employed<supplied reason="copy blur">???</supplied> and <lb/>erected places of Public Worship.</p>
-         <p>The Officers, Non-commissioned Officers, and Soldiers, <lb/>who served in the Continental army and established the <lb/>Liberty of their Country, have at last received a reward, <lb/>infinitely beyond their expectations, but every way cor<lb break="no"/>responding with the liberty of a great and rising Republic.</p>
-         <p>Five hundred acres of land have been voted by Con<lb break="no"/>gress, this last Session, to each individual, who served <lb/>throughout the war; and to the defendants of those <lb/>who fell in contending for the Rights of Nature, and e<lb break="no"/>equal proportion to those who served for a shorter period; <lb/>and to prevent its being sold at a price under its real <lb/>value, to the injury of the Patriotic Veteran, as has <lb/>been the case of former grants, he is allowed his option <lb/>of taking its value in sterling money, at the present <lb/>market price, from the Treasure of the States; or any <lb/>part in land, and the rest in money,a s may be most <lb/>agreeable to the receiver.</p>
-         <p>The Mint of the United States, which was establish<lb break="no"/>ed two years since, has begun to issue its hold and silver <lb/>coin: the copper has been delivered some time. The <lb/>gold coins are eagles, half eagles, and quarter eagles.</p>
-         <p>The first is exactly five and forty shillings, English <lb/>money, or ten American coin.</p>
-         <p>The dollars are coined in the same divisions of half, <lb/>and quater, which makes the courie of exchange simple, <lb/>and suits the reckoning to a very capacity–as our Read<lb break="no"/>ers will perceive, that ten quarter dollars make the quar<lb break="no"/>ter eagle; ten half dollars the half eagle; and ten dol<lb break="no"/>lars the eagle.</p>
-         <p>There is, besides, one more silver coin, which is cal<lb break="no"/>led a Dime, and is the tenth part of a dollar.</p>
-         <p>The copper coin is called a Cent, and is the tenth <lb/>part of a Dime.</p>
-         <p>Six of the ships of war, which were voted by Con<lb break="no"/>gress in November last, are completed and put in com<lb break="no"/>mission: the remaining twenty four will be ready by <lb/>Midsummer next, and will complete a fleet of
+                <p>Before the Gentleman, who has favoured us with this <lb/>Intelligence, left America, they had established a Lodge <lb/>of Masonry; and he had the satisfaction of seeing them <lb/>on a grand day, parade to Church in all the magnifi<lb break="no"/>cence of the Order, where a sermon was preached, on <lb/>the occasion, by one of their own colour. They have <lb/>also endowed public schools, employed<supplied reason="copy blur">???</supplied> and <lb/>erected places of Public Worship.</p>
+                <p>The Officers, Non-commissioned Officers, and Soldiers, <lb/>who served in the Continental army and established the <lb/>Liberty of their Country, have at last received a reward, <lb/>infinitely beyond their expectations, but every way cor<lb break="no"/>responding with the liberty of a great and rising Republic.</p>
+                <p>Five hundred acres of land have been voted by Con<lb break="no"/>gress, this last Session, to each individual, who served <lb/>throughout the war; and to the defendants of those <lb/>who fell in contending for the Rights of Nature, and e<lb break="no"/>equal proportion to those who served for a shorter period; <lb/>and to prevent its being sold at a price under its real <lb/>value, to the injury of the Patriotic Veteran, as has <lb/>been the case of former grants, he is allowed his option <lb/>of taking its value in sterling money, at the present <lb/>market price, from the Treasure of the States; or any <lb/>part in land, and the rest in money,a s may be most <lb/>agreeable to the receiver.</p>
+                <p>The Mint of the United States, which was establish<lb break="no"/>ed two years since, has begun to issue its hold and silver <lb/>coin: the copper has been delivered some time. The <lb/>gold coins are eagles, half eagles, and quarter eagles.</p>
+                <p>The first is exactly five and forty shillings, English <lb/>money, or ten American coin.</p>
+                <p>The dollars are coined in the same divisions of half, <lb/>and quater, which makes the courie of exchange simple, <lb/>and suits the reckoning to a very capacity–as our Read<lb break="no"/>ers will perceive, that ten quarter dollars make the quar<lb break="no"/>ter eagle; ten half dollars the half eagle; and ten dol<lb break="no"/>lars the eagle.</p>
+                <p>There is, besides, one more silver coin, which is cal<lb break="no"/>led a Dime, and is the tenth part of a dollar.</p>
+                <p>The copper coin is called a Cent, and is the tenth <lb/>part of a Dime.</p>
+                <p>Six of the ships of war, which were voted by Con<lb break="no"/>gress in November last, are completed and put in com<lb break="no"/>mission: the remaining twenty four will be ready by <lb/>Midsummer next, and will complete a fleet of
 <supplied reason="copy blur">???</supplied> 
             <lb/>hundred guns.</p>
-         <p>The city of Washington, which in five years more <lb/>will be the Capital of the United States, will in every <lb/>respect be the first in the world: the Capitol or Con<lb break="no"/>gress House is situated upon a beautiful eminence, and <lb/>c<supplied reason="copy blur">???</supplied> a full and complete view of every part of <lb/>the city, as well as a considerable extent of the country <lb/>around. The President's house likewise stands upon a <lb/>rising ground near the banks of the Potamac, possessing <lb/>a delightful water prospect, together with a commanding <lb/>view of the Capitol and some other material parts of the <lb/>city.</p>
-         <p>From the President's house to the Capitol, run two <lb/>great pleasure parks or malls, which intersect and ter<lb break="no"/>minate upon the banks of the Potomac, and are orna<lb break="no"/>mented at the sides by elegant buildings for Foreign Mi<lb break="no"/>nisters. The four fronts of the Capitol, as well as those <lb/>of the President's house, are of the finest marble. The <lb/>building of these superb edifices has been much retarded <lb/>by the want of stone cutters, masons, bricklayers, car<lb break="no"/>penters, and blacksmiths, who at this time actually re<lb break="no"/>ceive the enormous wages of ten shillings American <lb/>currency per day.</p>
-         <p>The district of Country at the back of North Caro<lb break="no"/>lina, reaching to the Mississippi, and covering a country <lb/>six hundred miles long by three hundred broad, is next <lb/>winter to be formed into a Sixteenth State; and the <lb/>Province of Maine, extending from the borders of New <lb/>Hampshire to the river St. Croix, is expected to form a <lb/>Seventeenth.</p>
-         <p>The new cities build in America since her indepen<lb break="no"/>dence are Grenville, in the State of Georgia; Marten<lb break="no"/>berg, the Capitol of North Carolina; Columbia, the <lb/>Capital of South Carolina; Noxville and Nashville, in <lb/>the Tenesee Settlements; Danville, Fairfield, and Lex<lb break="no"/> 
+                <p>The city of Washington, which in five years more <lb/>will be the Capital of the United States, will in every <lb/>respect be the first in the world: the Capitol or Con<lb break="no"/>gress House is situated upon a beautiful eminence, and <lb/>c<supplied reason="copy blur">???</supplied> a full and complete view of every part of <lb/>the city, as well as a considerable extent of the country <lb/>around. The President's house likewise stands upon a <lb/>rising ground near the banks of the Potamac, possessing <lb/>a delightful water prospect, together with a commanding <lb/>view of the Capitol and some other material parts of the <lb/>city.</p>
+                <p>From the President's house to the Capitol, run two <lb/>great pleasure parks or malls, which intersect and ter<lb break="no"/>minate upon the banks of the Potomac, and are orna<lb break="no"/>mented at the sides by elegant buildings for Foreign Mi<lb break="no"/>nisters. The four fronts of the Capitol, as well as those <lb/>of the President's house, are of the finest marble. The <lb/>building of these superb edifices has been much retarded <lb/>by the want of stone cutters, masons, bricklayers, car<lb break="no"/>penters, and blacksmiths, who at this time actually re<lb break="no"/>ceive the enormous wages of ten shillings American <lb/>currency per day.</p>
+                <p>The district of Country at the back of North Caro<lb break="no"/>lina, reaching to the Mississippi, and covering a country <lb/>six hundred miles long by three hundred broad, is next <lb/>winter to be formed into a Sixteenth State; and the <lb/>Province of Maine, extending from the borders of New <lb/>Hampshire to the river St. Croix, is expected to form a <lb/>Seventeenth.</p>
+                <p>The new cities build in America since her indepen<lb break="no"/>dence are Grenville, in the State of Georgia; Marten<lb break="no"/>berg, the Capitol of North Carolina; Columbia, the <lb/>Capital of South Carolina; Noxville and Nashville, in <lb/>the Tenesee Settlements; Danville, Fairfield, and Lex<lb break="no"/> 
             <lb/>ington, in the State of Kentucky; Washington, the <lb/>Capital of the United States; Sunbury, in the State of <lb/>Pennsylvania; Hudson, upon Husdon's River, and Coo<lb break="no"/>per's Town, in the State of New York; Bennington, in <lb/>the State of Vermont; and Paterson, in the State of <lb/>New Jersey. All the towns burnt by the English in the <lb/>was, have been rebuilt, and the old cities of Charlestown, <lb/>Baltimore, Philadelphia, New York, and Boston, have <lb/>been extended to more than double the extent they had <lb/>before the peace.</p>
-         <p>The population of the United States, by the last Cen<lb break="no"/>sus in 1790, was more than double what it was in 1775, <lb/>by which it appears, that America doubles her number <lb/>of people every fifteen years. The emigrations from <lb/>the different nations in Europe to that country, are esi<lb break="no"/>mated at one hundred and sixty thousand annually. The <lb/>increase of farms and villages has been so great as to <lb/>people four new States, and to extend their Settlements <lb/>from the Atlantic to the Ohio in the South, and from <lb/>the Atlantic to the Lakes on the River St. Lawrence in <lb/>the North.</p>
-      </body>
-   </text>
-</TEI>
+                <p>The population of the United States, by the last Cen<lb break="no"/>sus in 1790, was more than double what it was in 1775, <lb/>by which it appears, that America doubles her number <lb/>of people every fifteen years. The emigrations from <lb/>the different nations in Europe to that country, are esi<lb break="no"/>mated at one hundred and sixty thousand annually. The <lb/>increase of farms and villages has been so great as to <lb/>people four new States, and to extend their Settlements <lb/>from the Atlantic to the Ohio in the South, and from <lb/>the Atlantic to the Lakes on the River St. Lawrence in <lb/>the North.</p>
+            </body>
+        </text>
+    </TEI>

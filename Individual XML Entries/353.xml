@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>353</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141110 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1792-12-14"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-                  <item>war</item>
-                  <item>border dispute</item>
-                  <item>military</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>353</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141110 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1792-12-14"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                            <item>border dispute</item>
+                            <item>military</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="6"/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Philadelphia, dated Nov</hi> . 1.</hi> 
+            <hi rend="center"> 
+               <hi rend="italic">Extract of a letter from Philadelphia, dated Nov</hi>. 1.</hi>
          </p>
-         <p>"Advice received from Governor Blount, dat<lb break="no"/>ed the latter end of September, informs us, that <lb/>the Cherokees of the five lower towns on the Te<lb break="no"/>nesee, headed by John Watts and Esquaka, or <lb/>the bloody fellow, has declared war against the <lb/>United States, and that the warriors, according <lb/>to various authentic accounts, amount to near 600, <lb/>including about one hundred banditti Creeks; a<lb break="no"/>nother letter mentions that the above force had <lb/>actually set out on some expedition against the <lb/>frontiers; it is feared they will fall first on Cum<lb break="no"/>berland settlement."</p>
-      </body>
-   </text>
-</TEI>
+                <p>"Advice received from Governor Blount, dat<lb break="no"/>ed the latter end of September, informs us, that <lb/>the Cherokees of the five lower towns on the Te<lb break="no"/>nesee, headed by John Watts and Esquaka, or <lb/>the bloody fellow, has declared war against the <lb/>United States, and that the warriors, according <lb/>to various authentic accounts, amount to near 600, <lb/>including about one hundred banditti Creeks; a<lb break="no"/>nother letter mentions that the above force had <lb/>actually set out on some expedition against the <lb/>frontiers; it is feared they will fall first on Cum<lb break="no"/>berland settlement."</p>
+            </body>
+        </text>
+    </TEI>

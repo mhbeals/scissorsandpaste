@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>68</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20140928 by
-<persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-               </persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1790-07-09"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="composite"/>
-            <derivation type="plagiarism"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>Native Americans</item>
-                  <item>Anglo-American relations</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>68</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140928 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-07-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>Anglo-American relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb n="7"/> We have this day received Quebec newspapers <lb/>down to the 24th May, from which the following <lb/>is extracted:–</p>
-         <p>
-            <hi rend="center">
-               <hi rend="italic">Quebec, May</hi>  20.</hi> 
+                <p>
+            <hi rend="center"> 
+               <hi rend="italic">Quebec, May</hi>  20.</hi>
          </p>
-         <p>We hear late accounts from Niagara mention, <lb/>that the Indians in that quarter are much alarm<lb break="no"/>ed in consequence of a message said to be received <lb/>by them from the States, that they had now rais<lb break="no"/>ed an army to take their own for Niagara, and <lb/>that two thousand men of that army were now on <lb/>their way from New York–desiring the Indians <lb/>to lye still and look on, and that they would pu<lb break="no"/>nish those that should interfere.</p>
-         <p>It was also said, that the people of New York <lb/>were determined of themselves to lay open the post <lb/>of Oswego, and that emissaries had been employ<lb break="no"/>ed to persuade the Indians they would be greatly <lb/>benefited by that event.</p>
-         <p>We are rather inclined to believe the Indians <lb/>are too sensible of the great benefits already con<lb break="no"/>ferred upon them by our neighbours in buying <lb/>their lands from them, to think of accepting any <lb/>more from that quarter, and we would recom<lb break="no"/>mend it to the new-born Sovereignty on this side <lb/>the Atlantic, before they testify their impatience, <lb/>that national treaties, like private agreements, are <lb/>not to be infringed by one and performed by the <lb/>other party–Pay and you shall receive.</p>
-         <p>[As to the Americans making an attempt up<lb break="no"/>on Niagara, they have long had it in contempla<lb break="no"/>tion to get possession of<hi rend="italic">our posts</hi>  upon the lakes <lb/>in Canada.]</p>
-         <p>
-            <hi rend="center">
-               <hi rend="italic">May</hi>  24.</hi> 
+                <p>We hear late accounts from Niagara mention, <lb/>that the Indians in that quarter are much alarm<lb break="no"/>ed in consequence of a message said to be received <lb/>by them from the States, that they had now rais<lb break="no"/>ed an army to take their own for Niagara, and <lb/>that two thousand men of that army were now on <lb/>their way from New York–desiring the Indians <lb/>to lye still and look on, and that they would pu<lb break="no"/>nish those that should interfere.</p>
+                <p>It was also said, that the people of New York <lb/>were determined of themselves to lay open the post <lb/>of Oswego, and that emissaries had been employ<lb break="no"/>ed to persuade the Indians they would be greatly <lb/>benefited by that event.</p>
+                <p>We are rather inclined to believe the Indians <lb/>are too sensible of the great benefits already con<lb break="no"/>ferred upon them by our neighbours in buying <lb/>their lands from them, to think of accepting any <lb/>more from that quarter, and we would recom<lb break="no"/>mend it to the new-born Sovereignty on this side <lb/>the Atlantic, before they testify their impatience, <lb/>that national treaties, like private agreements, are <lb/>not to be infringed by one and performed by the <lb/>other party–Pay and you shall receive.</p>
+                <p>[As to the Americans making an attempt up<lb break="no"/>on Niagara, they have long had it in contempla<lb break="no"/>tion to get possession of<hi rend="italic">our posts</hi>  upon the lakes <lb/>in Canada.]</p>
+                <p>
+            <hi rend="center"> 
+               <hi rend="italic">May</hi>  24.</hi>
          </p>
-         <p>The concerned in the ship Columbia and sloop <lb/>Washington, have received letters from the Captain <lb/>Kendrick, dated at Nootka in July last; he in<lb break="no"/>forms them, that he passed the winter preceding <lb/>on the north-west coast of America; that he was <lb/>then bound on a voyage further northward, and <lb/>from thence intended to proceed to Canton.– <lb/>The letters were forwarded to Mexico by a Spa<lb break="no"/>nish fleet that had been at Nootka, and from thence <lb/>to the Spanish Charge des Affaires at New York. <lb/>They were covered to the President of the United <lb/>States of America.</p>
-         <p>[From what appeared in our paper of Friday <lb/>last,<hi rend="italic">(see Glasgow Intelligence, p</hi> . 424<hi rend="italic">)</hi>  and what is <lb/>mentioned above, it seems very probable that the <lb/>affair of<hi rend="italic">Nootka Sound</hi>  had been a preconcerted <lb/>scheme between the Americans and Spaniards, <lb/>as Capt. Kendrick addresses his dispatches for the <lb/>President of the States without making the least <lb/>mention (from what is made public) of any<hi rend="italic">Bri<lb break="no"/>tish ships</hi>  being then at Nootka Sound.]</p>
-      </body>
-   </text>
-</TEI>
+                <p>The concerned in the ship Columbia and sloop <lb/>Washington, have received letters from the Captain <lb/>Kendrick, dated at Nootka in July last; he in<lb break="no"/>forms them, that he passed the winter preceding <lb/>on the north-west coast of America; that he was <lb/>then bound on a voyage further northward, and <lb/>from thence intended to proceed to Canton.– <lb/>The letters were forwarded to Mexico by a Spa<lb break="no"/>nish fleet that had been at Nootka, and from thence <lb/>to the Spanish Charge des Affaires at New York. <lb/>They were covered to the President of the United <lb/>States of America.</p>
+                <p>[From what appeared in our paper of Friday <lb/>last,<hi rend="italic">(see Glasgow Intelligence, p</hi>. 424<hi rend="italic">)</hi>  and what is <lb/>mentioned above, it seems very probable that the <lb/>affair of<hi rend="italic">Nootka Sound</hi>  had been a preconcerted <lb/>scheme between the Americans and Spaniards, <lb/>as Capt. Kendrick addresses his dispatches for the <lb/>President of the States without making the least <lb/>mention (from what is made public) of any<hi rend="italic">Bri<lb break="no"/>tish ships</hi>  being then at Nootka Sound.]</p>
+            </body>
+        </text>
+    </TEI>

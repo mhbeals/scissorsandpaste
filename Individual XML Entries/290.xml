@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>290</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Scotsman</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Edinburgh</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1840-04-18"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>undefined</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>290</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1840-04-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
             <pb/>
-            <hi rend="smallcaps">New Zealand</hi> .–On Wednesday a public meeting <lb/>was held in the Guildhall of the city of London, pur<lb break="no"/>suant to a requisition to the Lord Mayor, for the pur<lb break="no"/>pose of petitioning her Majesty and both Houses of <lb/>Parliament " to adopt prompt and efficient measures <lb/>for preserving from invasion or abandonment the long<lb break="no"/>established sovereignty of the British Crown in the <lb/>islands of New Zealand, at present endangered by <lb/>foreign pretensions, and by the acts of the Executive Go<lb break="no"/>vernment ; also for stopping the course of lawless emi<lb break="no"/>gration and settlement, which has not only proved <lb/>deeply injurious to the native people of the country, <lb/>but threatens their speedy extermination ; and, lastly, <lb/>for establishing the most beneficial system of coloni<lb break="no"/>zation, and the protection and restraints of British <lb/>law, under a distinct colonial government, in place of <lb/>the state of anarchy which now prevails among both <lb/>races, and all other classes of her Majesty's subjects, and <lb/>others inhabiting or resorting to New Zealand, as a <lb/>distant independency of the territory of New South <lb/>Wales." Including the gentlemen of the hustings, <lb/>the entire number might be calculated at 400 indivi<lb break="no"/>duals. The Lord Mayor took the chair. Resolu<lb break="no"/>tions in accordance with the object of the meeting <lb/>were moved and seconded by Mr G. Palmer, M.P., <lb/>Mr F. Baring, M.P., Mr Hawes, M.P., Mr G. F. <lb/>Young, Mr Ward, M.P., and others. On the mo<lb break="no"/>tion of Mr G. Robinson, seconded by Mr Donaldson, <lb/>a petition was adopted by the meeting, to be presented <lb/>to the Queen by the Earl of Devon, to the House of <lb/>Peers by Lord Ashburton, and to the Commons by <lb/>Lord Eliot.</p>
-      </body>
-   </text>
-</TEI>
+            <hi rend="smallcaps">New Zealand</hi>.–On Wednesday a public meeting <lb/>was held in the Guildhall of the city of London, pur<lb break="no"/>suant to a requisition to the Lord Mayor, for the pur<lb break="no"/>pose of petitioning her Majesty and both Houses of <lb/>Parliament " to adopt prompt and efficient measures <lb/>for preserving from invasion or abandonment the long<lb break="no"/>established sovereignty of the British Crown in the <lb/>islands of New Zealand, at present endangered by <lb/>foreign pretensions, and by the acts of the Executive Go<lb break="no"/>vernment ; also for stopping the course of lawless emi<lb break="no"/>gration and settlement, which has not only proved <lb/>deeply injurious to the native people of the country, <lb/>but threatens their speedy extermination ; and, lastly, <lb/>for establishing the most beneficial system of coloni<lb break="no"/>zation, and the protection and restraints of British <lb/>law, under a distinct colonial government, in place of <lb/>the state of anarchy which now prevails among both <lb/>races, and all other classes of her Majesty's subjects, and <lb/>others inhabiting or resorting to New Zealand, as a <lb/>distant independency of the territory of New South <lb/>Wales." Including the gentlemen of the hustings, <lb/>the entire number might be calculated at 400 indivi<lb break="no"/>duals. The Lord Mayor took the chair. Resolu<lb break="no"/>tions in accordance with the object of the meeting <lb/>were moved and seconded by Mr G. Palmer, M.P., <lb/>Mr F. Baring, M.P., Mr Hawes, M.P., Mr G. F. <lb/>Young, Mr Ward, M.P., and others. On the mo<lb break="no"/>tion of Mr G. Robinson, seconded by Mr Donaldson, <lb/>a petition was adopted by the meeting, to be presented <lb/>to the Queen by the Earl of Devon, to the House of <lb/>Peers by Lord Ashburton, and to the Commons by <lb/>Lord Eliot.</p>
+            </body>
+        </text>
+    </TEI>

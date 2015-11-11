@@ -1,64 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>4</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1789-07-13"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="unknown"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="inform"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>slavery</item>
-                  <item>trade</item>
-                  <item>agriculture</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
-            <pb/>Our latest accounts from the West Indies say, <lb/>that no supply from the islands, either of wheat <lb/>or flour, can possibly be obtained from the Ame<lb break="no"/>rican states in consequence of the great bounties <lb/>given by his Most Christian Majesty on these ar<lb break="no"/>ticles. Our charity, therefore, if we have any of <lb/>these articles to spare, must be first extended to<cb/> 
-            <lb/>our own Colonies ; and we cannot be surprised, <lb/>particularly when we consider the present price of <lb/>bread at home, that no assistance can be given at <lb/>present, either to the French or Dutch.</p>
-         <p>The crops in the island of Jamaica promise a <lb/>most plentiful harvest, except to the eastward, <lb/>which ahs generally been considered as the most <lb/>productive part.</p>
-         <p>By the Westmoreland, just arrived from Ja<lb break="no"/>maica, we learn that the slaves have become mu<lb break="no"/>tinous to an alarming degree, ever since they were <lb/>made acquainted with the intended abolition of <lb/>the Slave Trade.</p>
-      </body>
-   </text>
-</TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>4</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-07-13"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="unknown"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>slavery</item>
+                            <item>trade</item>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb/>Our latest accounts from the West Indies say, <lb/>that no supply from the islands, either of wheat <lb/>or flour, can possibly be obtained from the Ame<lb break="no"/>rican states in consequence of the great bounties <lb/>given by his Most Christian Majesty on these ar<lb break="no"/>ticles. Our charity, therefore, if we have any of <lb/>these articles to spare, must be first extended to <cb/>our own Colonies ; and we cannot be surprised, <lb/>particularly when we consider the present price of <lb/>bread at home, that no assistance can be given at <lb/>present, either to the French or Dutch.</p>
+                <p>The crops in the island of Jamaica promise a <lb/>most plentiful harvest, except to the eastward, <lb/>which ahs generally been considered as the most <lb/>productive part.</p>
+                <p>By the Westmoreland, just arrived from Ja<lb break="no"/>maica, we learn that the slaves have become mu<lb break="no"/>tinous to an alarming degree, ever since they were <lb/>made acquainted with the intended abolition of <lb/>the Slave Trade.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>11</title>
-         </titleStmt>
-         <publicationStmt>
-            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
-            <availability>
-               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Glasgow Advertiser</title>
-               </titleStmt>
-               <publicationStmt>
-                  <authority>Text within the public domain.</authority>
-                  <pubPlace>
-                     <address>
-                        <settlement>Glasgow</settlement>
-                        <region>Scotland</region>
-                        <country>United Kingdom</country>
-                     </address>
-                  </pubPlace>
-                  <date when="1789-08-24"/>
-               </publicationStmt>
-            </biblFull>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textDesc>
-            <channel mode="w"/>
-            <constitution type="single"/>
-            <derivation type="original"/>
-            <domain type="public"/>
-            <factuality type="mixed"/>
-            <interaction type="none" active="corporate" passive="world"/>
-            <preparedness type="revised"/>
-            <purpose type="persuade"/>
-         </textDesc>
-         <textClass>
-            <keywords>
-               <list>
-                  <item>colonial government</item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>
-            <pb n="2"/> The old system of sending men of rank to go<lb break="no"/>vern Jamaica, seems to be revived, and laudably <lb/>too.</p>
-         <p>This island is the most important possession we <lb/>hold in the West Indies, and is well entitled to <lb/>any mark of distinction which the parent country <lb/>can bestow upon it.</p>
-         <p>The salary and emoluments annexed to the <lb/>government of Jamaica, render it the most valua<lb break="no"/>ble of any in the King's gift, except that of Ire<lb break="no"/>land.</p>
-         <p>Soon after the Restoration, O'Brian, third <lb/>Earl of Inchiquin, was appointed Governor of <lb/>Jamaica, and died in his Government.</p>
-         <p>Henry Bentinck, first Duke of Portland, was <lb/>made Governor of this island in the reign of <lb/>George I. His Grace died at Spanish Town, <lb/>July 4th, 1736, in the 45th year of his age.</p>
-         <p>The death of these two Noblemen in their <lb/>government, gave so bad an impression of the cli<lb break="no"/>mate of Jamaica, and the insalubrity of its air, <lb/>that few persons of rank and fortune have been <lb/>ambitious of becoming governors of it, notwith <lb/>standing the brilliancy of the appointments an <lb/>nexd to the situation.</p>
-      </body>
-   </text>
-</TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>11</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-08-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+            <pb n="2"/>The old system of sending men of rank to go<lb break="no"/>vern Jamaica, seems to be revived, and laudably <lb/>too.</p>
+                <p>This island is the most important possession we <lb/>hold in the West Indies, and is well entitled to <lb/>any mark of distinction which the parent country <lb/>can bestow upon it.</p>
+                <p>The salary and emoluments annexed to the <lb/>government of Jamaica, render it the most valua<lb break="no"/>ble of any in the King's gift, except that of Ire<lb break="no"/>land.</p>
+                <p>Soon after the Restoration, O'Brian, third <lb/>Earl of Inchiquin, was appointed Governor of <lb/>Jamaica, and died in his Government.</p>
+                <p>Henry Bentinck, first Duke of Portland, was <lb/>made Governor of this island in the reign of <lb/>George I. His Grace died at Spanish Town, <lb/>July 4th, 1736, in the 45th year of his age.</p>
+                <p>The death of these two Noblemen in their <lb/>government, gave so bad an impression of the cli<lb break="no"/>mate of Jamaica, and the insalubrity of its air, <lb/>that few persons of rank and fortune have been <lb/>ambitious of becoming governors of it, notwith <lb/>standing the brilliancy of the appointments an <lb/>nexd to the situation.</p>
+            </body>
+        </text>
+    </TEI>
