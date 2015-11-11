@@ -13,7 +13,7 @@
                             select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/date"><xsl:value-of 
                                 select="substring(@when,1,4)"/>,<xsl:value-of select="substring(@when,6,2)"/>,<xsl:value-of 
                                     select="substring(@when,9,2)"/>,</xsl:for-each><xsl:value-of select="teiHeader/profileDesc/textDesc/purpose/@type"/>,<xsl:for-each 
-                                        select="text/body/p"><xsl:value-of select="normalize-space(translate(.,'&quot;,',''))"/></xsl:for-each>,<xsl:for-each
+                                        select="text/body/p"><xsl:value-of select="normalize-space(translate(.,'&quot;,',''))"/><xsl:text>&#160;</xsl:text></xsl:for-each>,<xsl:for-each
                                             select="teiHeader/profileDesc/textClass/keywords/list/item"><xsl:value-of select="."/><xsl:if test="position() != last()">;</xsl:if></xsl:for-each>
         <xsl:text>&#xd;</xsl:text>
         
