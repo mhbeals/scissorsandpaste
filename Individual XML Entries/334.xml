@@ -1,188 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>334</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141018 by
-                            <persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H.
-                        Beals</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>334</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141018 by
+<persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
                </persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitsed image available from
-                                Google News Archive</authority>
-                            <pubPlace>
-                                <address>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1791-01-10"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>shipping news</item>
-                            <item>Native Americans</item>
-                            <item>war</item>
-                            <item>colonial government</item>
-                            <item>colonial politics</item>
-                            <item>weather</item>
-                            <item>crime</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb n="3"/>
-                    <hi rend="center">
-               <hi rend="italic">From the</hi>
-               <hi rend="smallcaps">New York
-                            Journal</hi>.</hi>
-                    <lb/>
+                  </pubPlace>
+                  <date when="1791-01-10"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>shipping news</item>
+                  <item>Native Americans</item>
+                  <item>war</item>
+                  <item>colonial government</item>
+                  <item>colonial politics</item>
+                  <item>weather</item>
+                  <item>crime</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="3"/>
             <hi rend="center">
-               <hi rend="italic">Winchester, Oct</hi>. 20.</hi>
-                </p>
-                <p>By recent intelligence from Kentucky we learn <lb/>that a short time ago an
-                    American vessel was seiz<lb break="no"/>ed at New Orleans, and her cargo
-                    disposed of <lb/>by the Spaniards. Also, that the troop which <lb/>went out
-                    against the Indians had, not far from <lb/>the banks of the Ohio, fallen in with
-                    about for<lb break="no"/>ty of them, whom they made their prisoners, af<lb break="no"/>ter a slight resistance; and that having washed <lb/>them, 15
-                    turned out to be white men.</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">Philadelphia, Nov</hi> 9.</hi>
-                </p>
-                <p>We hear from undoubted authority, that a con<lb break="no"/>siderable loan has
-                    been negotiated in Holland for <lb/>the service of these United States.</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">Albany, Nov</hi>. 4.</hi>
-                </p>
-                <p>The Legislature of Vermont have resolved to <lb/>pay to the State of New York
-                    30,000 dollars, <lb/>agreeably to the first proposition contained in the
-                    <lb/>declaration of the Commissioners of this State, ap<lb break="no"/>pointed
-                    to declare the consent of the Legislature <lb/>thereof, that a certain territory
-                    within the juris<lb break="no"/>diction of the State of New York be erected into
-                    <lb/>a new State on the 17th of October last; in con<lb break="no"/>sequnece
-                    whereof, all rights and titles to lands <lb/>within the State of Vermont, under
-                    grants of the <lb/>late colony of New York, or from the State of <lb/>New York
-                    (except such grants as were intended <lb/>as confirmations of those from New
-                    Hampshire) <lb/>cease and determine. The Legislature have also <lb/>resolved,
-                    that a Convention be called for taking <lb/>into consideration the constitution
-                    of the United <lb/>States; the members to be elected in December, <lb/>and the
-                    Convention to Meet the first week in Ja<lb break="no"/>uary. The Legislature
-                    have adjourned to meet <lb/>again on the first Thursday in January, for the
-                    <lb/>purpose (we suppose) of choosing Senators, and <lb/>affixing the time and
-                    manner of electing Repre<lb break="no"/>sentatives for Congress.</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">New York, Nov</hi>. 18.</hi>
-                </p>
-                <p>The following resolution has passed the House <lb/>of Representatives of the
-                    State of Virginia now in <lb/>session: Resolved, That so much of this act, en<lb break="no"/>titled, "An Act, making provision for the provision for the debt
-                    <lb/>of the United States in their redemption of the <lb/>public debt, is
-                    dangerous to the rights, and sub<lb break="no"/>versive of the interest of the
-                    people; and demands <lb/>the marked disapprobation of the General Assem<lb break="no"/>bly."</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">Portland, Nov</hi>. 15.</hi>
-                </p>
-                <p>The stone work of the light house, at the en<lb break="no"/>trance of our
-                    harbour, is now completed. On <lb/>Tuesday the 9th instant, the last stone was
-                    laid <lb/>by Mr. Nichols, of this town, master builder. <lb/>The work is
-                    extremely well executed. The light<lb break="no"/>house is now 70 feet high. To
-                    this the lanthorn, <lb/>which is to be six feet in diameter, will add about
-                    <lb/>15 feet, 85 feet in whole. The lanthorn is <lb/>now preparing, and will
-                    probably be raised and <lb/>lighted by the first of next month.</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">Baltimore, Nov</hi>. 23.</hi>
-                </p>
-                <p>A society of respectable gentlemen of this place <lb/>have raised an adequate
-                    fund for the establishment <lb/>of an extensive manufacture of gunpowder, and
-                    <lb/>the necessary mill-works will be speedily erected <lb/>in the vicinity of
-                    this town. This important in<lb break="no"/>situation will not only prove highly
-                    advantageous <lb/>to this State and town, but may, if properly en<lb break="no"/>couraged, become a national benefit.</p>
-                <p>
+               <hi rend="italic">From the </hi>
+               <hi rend="smallcaps">New York Journal</hi> . </hi>
+            <lb/>
             <hi rend="center">
-               <hi rend="italic">York (Pennsylvania), Nov</hi> 10.</hi>
-                    <lb/>From Wright's Ferry we learn, that about <lb/>four o'clock on Wednesday
-                    afternoon, as a boat <lb/>was coming from the East side, a most tremen<lb break="no"/>dous storm arose when she was about half way o<lb break="no"/>ver, by which means she was soon filled <lb/>with water, and sunk. there was
-                    six passengers <lb/>and the <supplied reason="copy blur">???</supplied> in her
-                    (besides a small light <cb/>
-                    <lb/>waggon and three horses, viz. a clergyman, the <lb/>owner of the waggon,
-                    with his wife and three <lb/>children; when the storm came on, the woman
-                    <lb/>and children took shelter in the waggon, but it <lb/>continued to blow with
-                    such violence that the <lb/>waggon was torn out of the boat, and the body
-                    <lb/>having by chance got loose from the carriage, <lb/>and being pretty tight,
-                    floated some distance <lb/>till its progress was stopped by a rock; the hus<lb break="no"/>band, viewing the melancholy situations of his <lb/>wife and
-                    children, resolved to relieve or perish <lb/>with them, and quitting the boat
-                    swam to the <lb/>waggon, cut open the cover with his knife, and <lb/>with
-                    difficulty kept their heads above water till <lb/>they were relieved by a boat
-                    from the West side; <lb/>by this time the ferry-boat had entirely disappear<lb break="no"/>ed; the Clergyman just as he found the boat <lb/>sinking mounted
-                    his horse, one of the boatmen <lb/>mounted on one of the waggon horses, and by
-                    <lb/>this means preserved themselves till they were <lb/>relieved by a boat; the
-                    other boatman of the <lb/>name of Tim Sulivan, depending on his skill in
-                    <lb/>swimming got up an oar, but it is thought <lb/>he is drowned, as he has not
-                    since been heard <lb/>of; the boat was found in the falls, and one of <lb/>the
-                    waggon horses that had been given up for <lb/>lost, was found next day some
-                    distance below the <lb/>falls, with all his geers on, and does not appear
-                    <lb/>to have received the least injury.</p>
-                <p>
-                    <hi rend="center">
-                        <hi rend="italic">Extract of a letter from Sunbury, Northumberland</hi>
-                    </hi>
-                    <lb/>
+               <hi rend="italic">Winchester, Oct</hi> . 20.</hi> 
+         </p>
+         <p>By recent intelligence from Kentucky we learn <lb/>that a short time ago an American vessel was seiz<lb break="no"/>ed at New Orleans, and her cargo disposed of <lb/>by the Spaniards. Also, that the troop which <lb/>went out against the Indians had, not far from <lb/>the banks of the Ohio, fallen in with about for<lb break="no"/>ty of them, whom they made their prisoners, af<lb break="no"/>ter a slight resistance; and that having washed <lb/>them, 15 turned out to be white men.</p>
+         <p>
             <hi rend="center">
-               <hi rend="italic">County (Pennsylvania), dated Nov</hi>.
-                        13.</hi>
-                </p>
-                <p>"One of the men who murdered the Indians <lb/>at Pine Creek, was tried on
-                    Saturday evening, <lb/>and though a number of witnesses clearly proved <lb/>the
-                    hand he had in perpetrating the horrid deed, <lb/>and the confession of his
-                    counsel at the bar that <lb/>confirmed it, yet, notwithstanding an express
-                    <lb/>charge from the judges to bring him in guilty, <lb/>the jury in a few
-                    moments returned with a verdict <lb/>in his favour, and a subscription to pay
-                    the costs <lb/>of the suit, that he might be immediately set at <lb/>liberty;
-                    and all this from a most absurd idea, <lb/>which the Attorney General, with all
-                    his endea<lb break="no"/>vours, could not beat out of them, that the crime
-                    <lb/>was not the same to kill an Indian as a white <lb/>man: for some minuets
-                    the Chief Justice was mute <lb/>with astonishment. How the State can pacify
-                    <lb/>the Indians now, Heaven knows, while at this <lb/>moment the other
-                    murderers are at large in this <lb/>country, and no one will arrest them."</p>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="italic">Philadelphia, Nov</hi>  9.</hi> 
+         </p>
+         <p>We hear from undoubted authority, that a con<lb break="no"/>siderable loan has been negotiated in Holland for <lb/>the service of these United States.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">Albany, Nov</hi> . 4.</hi> 
+         </p>
+         <p>The Legislature of Vermont have resolved to <lb/>pay to the State of New York 30,000 dollars, <lb/>agreeably to the first proposition contained in the <lb/>declaration of the Commissioners of this State, ap<lb break="no"/>pointed to declare the consent of the Legislature <lb/>thereof, that a certain territory within the juris<lb break="no"/>diction of the State of New York be erected into <lb/>a new State on the 17th of October last; in con<lb break="no"/>sequnece whereof, all rights and titles to lands <lb/>within the State of Vermont, under grants of the <lb/>late colony of New York, or from the State of <lb/>New York (except such grants as were intended <lb/>as confirmations of those from New Hampshire) <lb/>cease and determine. The Legislature have also <lb/>resolved, that a Convention be called for taking <lb/>into consideration the constitution of the United <lb/>States; the members to be elected in December, <lb/>and the Convention to Meet the first week in Ja<lb break="no"/>uary. The Legislature have adjourned to meet <lb/>again on the first Thursday in January, for the <lb/>purpose (we suppose) of choosing Senators, and <lb/>affixing the time and manner of electing Repre<lb break="no"/>sentatives for Congress.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">New York, Nov</hi> . 18.</hi> 
+         </p>
+         <p>The following resolution has passed the House <lb/>of Representatives of the State of Virginia now in <lb/>session: Resolved, That so much of this act, en<lb break="no"/>titled, "An Act, making provision for the provision for the debt <lb/>of the United States in their redemption of the <lb/>public debt, is dangerous to the rights, and sub<lb break="no"/>versive of the interest of the people; and demands <lb/>the marked disapprobation of the General Assem<lb break="no"/>bly."</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">Portland, Nov</hi> . 15.</hi> 
+         </p>
+         <p>The stone work of the light house, at the en<lb break="no"/>trance of our harbour, is now completed. On <lb/>Tuesday the 9th instant, the last stone was laid <lb/>by Mr. Nichols, of this town, master builder. <lb/>The work is extremely well executed. The light<lb break="no"/>house is now 70 feet high. To this the lanthorn, <lb/>which is to be six feet in diameter, will add about <lb/>15 feet, 85 feet in whole. The lanthorn is <lb/>now preparing, and will probably be raised and <lb/>lighted by the first of next month.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">Baltimore, Nov</hi> . 23.</hi> 
+         </p>
+         <p>A society of respectable gentlemen of this place <lb/>have raised an adequate fund for the establishment <lb/>of an extensive manufacture of gunpowder, and <lb/>the necessary mill-works will be speedily erected <lb/>in the vicinity of this town. This important in<lb break="no"/>situation will not only prove highly advantageous <lb/>to this State and town, but may, if properly en<lb break="no"/>couraged, become a national benefit.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">York (Pennsylvania), Nov</hi>  10. </hi>
+            <lb/>From Wright's Ferry we learn, that about <lb/>four o'clock on Wednesday afternoon, as a boat <lb/>was coming from the East side, a most tremen<lb break="no"/>dous storm arose when she was about half way o<lb break="no"/>ver, by which means she was soon filled <lb/>with water, and sunk. there was six passengers <lb/>and the<supplied reason="copy blur">???</supplied> in her (besides a small light<cb/> 
+            <lb/>waggon and three horses, viz. a clergyman, the <lb/>owner of the waggon, with his wife and three <lb/>children; when the storm came on, the woman <lb/>and children took shelter in the waggon, but it <lb/>continued to blow with such violence that the <lb/>waggon was torn out of the boat, and the body <lb/>having by chance got loose from the carriage, <lb/>and being pretty tight, floated some distance <lb/>till its progress was stopped by a rock; the hus<lb break="no"/>band, viewing the melancholy situations of his <lb/>wife and children, resolved to relieve or perish <lb/>with them, and quitting the boat swam to the <lb/>waggon, cut open the cover with his knife, and <lb/>with difficulty kept their heads above water till <lb/>they were relieved by a boat from the West side; <lb/>by this time the ferry-boat had entirely disappear<lb break="no"/>ed; the Clergyman just as he found the boat <lb/>sinking mounted his horse, one of the boatmen <lb/>mounted on one of the waggon horses, and by <lb/>this means preserved themselves till they were <lb/>relieved by a boat; the other boatman of the <lb/>name of Tim Sulivan, depending on his skill in <lb/>swimming got up an oar, but it is thought <lb/>he is drowned, as he has not since been heard <lb/>of; the boat was found in the falls, and one of <lb/>the waggon horses that had been given up for <lb/>lost, was found next day some distance below the <lb/>falls, with all his geers on, and does not appear <lb/>to have received the least injury.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">Extract of a letter from Sunbury, Northumberland</hi> 
+            </hi>
+            <lb/>
+            <hi rend="center">
+               <hi rend="italic">County (Pennsylvania), dated Nov</hi> . 13.</hi> 
+         </p>
+         <p>"One of the men who murdered the Indians <lb/>at Pine Creek, was tried on Saturday evening, <lb/>and though a number of witnesses clearly proved <lb/>the hand he had in perpetrating the horrid deed, <lb/>and the confession of his counsel at the bar that <lb/>confirmed it, yet, notwithstanding an express <lb/>charge from the judges to bring him in guilty, <lb/>the jury in a few moments returned with a verdict <lb/>in his favour, and a subscription to pay the costs <lb/>of the suit, that he might be immediately set at <lb/>liberty; and all this from a most absurd idea, <lb/>which the Attorney General, with all his endea<lb break="no"/>vours, could not beat out of them, that the crime <lb/>was not the same to kill an Indian as a white <lb/>man: for some minuets the Chief Justice was mute <lb/>with astonishment. How the State can pacify <lb/>the Indians now, Heaven knows, while at this <lb/>moment the other murderers are at large in this <lb/>country, and no one will arrest them."</p>
+      </body>
+   </text>
+</TEI>

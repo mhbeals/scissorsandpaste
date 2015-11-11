@@ -1,106 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>265</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>265</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1836-12-07"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="persuade"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">South Australia</hi>
-                </p>
-                <p>
-            <hi rend="smallcaps">We</hi> have received the first annual Report of <lb/>new
-                    colony of South Australia, a Parliamentary paper <lb/>presented in June last.
-                    The site selected for the <lb/>colony is a part of the south coast of New
-                    Holland, <lb/>extending two or three hundred miles on each side of
-                    <lb/>Spencer's Gulf, and about 600 miles into the interior. <lb/>It was
-                    anticipated that the best central station would <lb/>be Port Lincoln at the
-                    entrance of Spencer's Gulf, on <lb/>the west side, or Nepean Bay, on the north
-                    coast of <lb/>Kangaroo Isle. Port Lincoln is in latitude 35, and <lb/>east
-                    longitude 136, about 700 miles right west from <lb/>Sydney, the same distance
-                    north-west from Van Die<lb break="no"/>men's Land, and about 1000 miles eastward
-                    of the co<lb break="no"/>lony at King George's Sound. Nepean Bay is about
-                    <lb/>100 miles east from Port Lincoln. The colony is <lb/>established under
-                    Parliamentary Commissioners, as <lb/>an experiment, we believe, to try whether
-                    it may not <lb/>be possible to execute an extensive plan of emigration
-                    <lb/>without any charge to the country, by selling lots of <lb/>land at such a
-                    price as would defray the expense of <lb/>conveying the emigrants from England.
-                    The plan <lb/>adopted is, to send out preferably young married per<lb break="no"/>sons under thirty, and to admit no slaves or convicts <lb/>into the colony. A
-                    company has embarked t35,000 <lb/>in the enterprise. A surveying vessel was sent
-                    out in <lb/>March to examine the coast carefully, that the <lb/>best site might
-                    be chosen at first, and the ne<lb break="no"/>cessity of removal avoided. Six
-                    vessels altogether <lb/>had sailed down to the 1st May, carrying out 152 male
-                    <lb/>labourers with 37 females, and 26 male and 10 fe<lb break="no"/>males of a
-                    superior class. These numbers include 26 <lb/>children. The Commissioners
-                    attempted at first to <lb/>get 20s. per acre for the land ; but finding it
-                        impos<lb break="no"/>sible, they reduced the price to 12s. By selling at
-                    <lb/>this price 437 lots, consisting each of a country sec<lb break="no"/>tion
-                    of 134 acres, and a town section of one acre, they <lb/>had raised the t35,000
-                    required by the act of Parlia<lb break="no"/>ment as the condition of the grant
-                    of land. We give <lb/>these few details to put our readers in a condition to
-                    <lb/>understand the notices which appear from time to <lb/>time in the papers
-                    respecting the colony. We hope <lb/>the Commissioners or the adventurers will
-                    give the <lb/>country a distinctive name. The title of "South <lb/>Australia" is
-                    bad any way, and even positively ab<lb break="no"/>surd ; since Australia (<hi rend="italic">quasi</hi> Australasia,) originally <lb/>intended for New
-                    Holland, has already begun to be <lb/>monopolised by Van Diemen's Land. The
-                    district <lb/>at Spencer's Gulf, if it is to participated in the general
-                    <lb/>denomination, should be termed "North" rather than <lb/>"South" Australia.
-                    By the way, most of our colonies <lb/>in that quarter of the world have
-                    ridiculous names, as <lb/>is instantly perceived when we coin a nationa term for
-                    <lb/>the people out of them. What can be worse than a <lb/>"Van Diemen-lander ;"
-                    a "New South-Wales-ian ;" <lb/>a "Swan River-ite ;" or a "King-George's Sound<lb break="no"/>ian ! !"</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1836-12-07"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="persuade"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">South Australia</hi> 
+         </p>
+         <p>
+            <hi rend="smallcaps">We</hi>  have received the first annual Report of <lb/>new colony of South Australia, a Parliamentary paper <lb/>presented in June last. The site selected for the <lb/>colony is a part of the south coast of New Holland, <lb/>extending two or three hundred miles on each side of <lb/>Spencer's Gulf, and about 600 miles into the interior. <lb/>It was anticipated that the best central station would <lb/>be Port Lincoln at the entrance of Spencer's Gulf, on <lb/>the west side, or Nepean Bay, on the north coast of <lb/>Kangaroo Isle. Port Lincoln is in latitude 35, and <lb/>east longitude 136, about 700 miles right west from <lb/>Sydney, the same distance north-west from Van Die<lb break="no"/>men's Land, and about 1000 miles eastward of the co<lb break="no"/>lony at King George's Sound. Nepean Bay is about <lb/>100 miles east from Port Lincoln. The colony is <lb/>established under Parliamentary Commissioners, as <lb/>an experiment, we believe, to try whether it may not <lb/>be possible to execute an extensive plan of emigration <lb/>without any charge to the country, by selling lots of <lb/>land at such a price as would defray the expense of <lb/>conveying the emigrants from England. The plan <lb/>adopted is, to send out preferably young married per<lb break="no"/>sons under thirty, and to admit no slaves or convicts <lb/>into the colony. A company has embarked t35,000 <lb/>in the enterprise. A surveying vessel was sent out in <lb/>March to examine the coast carefully, that the <lb/>best site might be chosen at first, and the ne<lb break="no"/>cessity of removal avoided. Six vessels altogether <lb/>had sailed down to the 1st May, carrying out 152 male <lb/>labourers with 37 females, and 26 male and 10 fe<lb break="no"/>males of a superior class. These numbers include 26 <lb/>children. The Commissioners attempted at first to <lb/>get 20s. per acre for the land ; but finding it impos<lb break="no"/>sible, they reduced the price to 12s. By selling at <lb/>this price 437 lots, consisting each of a country sec<lb break="no"/>tion of 134 acres, and a town section of one acre, they <lb/>had raised the t35,000 required by the act of Parlia<lb break="no"/>ment as the condition of the grant of land. We give <lb/>these few details to put our readers in a condition to <lb/>understand the notices which appear from time to <lb/>time in the papers respecting the colony. We hope <lb/>the Commissioners or the adventurers will give the <lb/>country a distinctive name. The title of "South <lb/>Australia" is bad any way, and even positively ab<lb break="no"/>surd ; since Australia (<hi rend="italic">quasi</hi>  Australasia,) originally <lb/>intended for New Holland, has already begun to be <lb/>monopolised by Van Diemen's Land. The district <lb/>at Spencer's Gulf, if it is to participated in the general <lb/>denomination, should be termed "North" rather than <lb/>"South" Australia. By the way, most of our colonies <lb/>in that quarter of the world have ridiculous names, as <lb/>is instantly perceived when we coin a nationa term for <lb/>the people out of them. What can be worse than a <lb/>"Van Diemen-lander ;" a "New South-Wales-ian ;" <lb/>a "Swan River-ite ;" or a "King-George's Sound<lb break="no"/>ian ! !"</p>
+      </body>
+   </text>
+</TEI>

@@ -1,82 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>221</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>221</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1831-07-27"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-            <pb/>THE EQUALITY OF SEXES.–The <hi rend="italic">Examiner</hi> of Sa<lb break="no"/>turday las has some witty remarks on the plaint which
-                    <lb/>appeared in our paper on the excess of females over <lb/>males in the
-                    census, which he assures us is entirely <lb/>owing to the lives of females being
-                    prolonged by their <lb/>better regularity. This is a sly censure upon the ha<lb break="no"/>bit of our countrymen, one-fifth, or sixth part of whom <lb/>we
-                    were supposed by implication to be cut off perma<lb break="no"/>nently by
-                    intemperance! We admit that a few hearty <lb/>fellows do go off in apoplexy; but
-                    we deny that the <lb/>number bears any proportion to the amount supposed;
-                    <lb/>we have two other remarks to make on his state<lb break="no"/>ment. First,
-                    since our manners were corrupted by im<lb break="no"/>itating <hi rend="italic">English</hi> fashions, it is whispered, we hope un<lb break="no"/>, that
-                    there are such things as tippling women in <lb/>country, some of whom do
-                    disappear suddenly–no <lb/>matter how; and secondly, we wish our London
-                    friend <lb/>inform us how it happens, that while all Broad <lb/>England has only
-                    an excess of 11 1/2 per cent females, <lb/>Edinburgh should have no less than
-                    24! We under<lb break="no"/>stand that since this astounding fact was brought
-                    out, <lb/>there has been a great efflux of ladies from the city to <lb/>the
-                    adjoining counties. We know a number who have <lb/>or are flying to Fife and the
-                    north. A friend, who <lb/>careful observer, compares it to the dispersion of
-                    <lb/>the Jews. The ladies, he says, attribute their flight to <lb/>
-            <hi rend="italic">Cholera Maribus!</hi>
+                  </pubPlace>
+                  <date when="1831-07-27"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>THE EQUALITY OF SEXES.–The<hi rend="italic">Examiner</hi>  of Sa<lb break="no"/>turday las has some witty remarks on the plaint which <lb/>appeared in our paper on the excess of females over <lb/>males in the census, which he assures us is entirely <lb/>owing to the lives of females being prolonged by their <lb/>better regularity. This is a sly censure upon the ha<lb break="no"/>bit of our countrymen, one-fifth, or sixth part of whom <lb/>we were supposed by implication to be cut off perma<lb break="no"/>nently by intemperance! We admit that a few hearty <lb/>fellows do go off in apoplexy; but we deny that the <lb/>number bears any proportion to the amount supposed; <lb/>we have two other remarks to make on his state<lb break="no"/>ment. First, since our manners were corrupted by im<lb break="no"/>itating<hi rend="italic">English</hi>  fashions, it is whispered, we hope un<lb break="no"/>, that there are such things as tippling women in <lb/>country, some of whom do disappear suddenly–no <lb/>matter how; and secondly, we wish our London friend <lb/>inform us how it happens, that while all Broad <lb/>England has only an excess of 11 1/2 per cent females, <lb/>Edinburgh should have no less than 24! We under<lb break="no"/>stand that since this astounding fact was brought out, <lb/>there has been a great efflux of ladies from the city to <lb/>the adjoining counties. We know a number who have <lb/>or are flying to Fife and the north. A friend, who <lb/>careful observer, compares it to the dispersion of <lb/>the Jews. The ladies, he says, attribute their flight to <lb/>
+            <hi rend="italic">Cholera Maribus!</hi> 
          </p>
-            </body>
-        </text>
-    </TEI>
+      </body>
+   </text>
+</TEI>

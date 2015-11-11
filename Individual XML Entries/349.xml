@@ -1,239 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>349</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on 20130528 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20131108 by
-                            <persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H.
-                        Beals</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>349</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on 20130528 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20131108 by
+<persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
                </persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitsed image available from
-                                    <ref target="http://news.google.com/newspapers?id=Fl4-AAAAIBAJ&amp;sjid=xEsMAAAAIBAJ&amp;pg=4345%2C5105978">Google News Archive</ref>.</authority>
-                            <pubPlace>
-                                <address>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitsed image available from
+<ref target="http://news.google.com/newspapers?id=Fl4-AAAAIBAJ&amp;sjid=xEsMAAAAIBAJ&amp;pg=4345%2C5105978">Google News Archive</ref>.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1791-07-25"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="plagiarism"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="entertain"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>shipping news</item>
-                            <item>weather</item>
-                            <item>war</item>
-                            <item>Native Americans</item>
-                            <item>textiles</item>
-                            <item>gambling</item>
-                            <item>longevity</item>
-                            <item>fire</item>
-                            <item>trade</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <head>
-            <hi rend="italic">America</hi>.</head>
-                <p>
+                  </pubPlace>
+                  <date when="1791-07-25"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="plagiarism"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="entertain"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>shipping news</item>
+                  <item>weather</item>
+                  <item>war</item>
+                  <item>Native Americans</item>
+                  <item>textiles</item>
+                  <item>gambling</item>
+                  <item>longevity</item>
+                  <item>fire</item>
+                  <item>trade</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>
+            <hi rend="italic">America</hi> .</head>
+         <p>
             <pb n="3"/>
-            <hi rend="italic">Norfolk, April</hi> 11. This day arrived the ship
-                    <lb/>Albion, John Simmons, master, in 47 days from <lb/>Rotterdam; on the 8th
-                    lying to in a heavy gale <lb/>of wind, the Albion shipped a sea, which carried
-                    <lb/>away all her boats and every loose article from <lb/>the deck; there were
-                    three men of the watch, <lb/>one of whom is washed overboard and
-                    perished– <lb/>his name is John M'Naught, and belonged to
-                    <lb/>Greenock.</p>
-                <p>
-            <hi rend="italic">Extract of a letter from a gentleman at the falls of <lb/>the
-                        Ohio, to his relation in <supplied reason="copy blur">Winchester</supplied>,
-                        Virginia. <lb/>dated April</hi> 13, 1791.</p>
-                <p>"I wrote to you from Fort Pitt, which place <lb/>we left the 3d. inst. in company
-                    with two other <lb/>boats, and proceeded to Limestone, without <lb/>meeting or
-                    apprehending danger–at that place <lb/>we were informed of several
-                    disasters which had <lb/>befallen boats going down the river, and one to <lb/>a
-                    boat going up to a French station, loaded with <lb/>bacon, butter, &amp;c. The
-                    particulars relative to <lb/>the latter are as follow–The boat was
-                    attacked <lb/>by about 60 or 70 Indians, and the flankets that <lb/>were on
-                    shore as a guard were fired on by them. <lb/>–Immediately after firing,
-                    they gave the Indian <lb/>whoop, and rushing on the flankets, scalped them
-                    <lb/>every one (about 22)– they then fired at the <lb/>boat, but did no
-                    damage, as it required some <lb/>time to make their way into the river. After
-                    <lb/>the savages had executed this terrible act of bar<lb break="no"/>barity,
-                    they continued on the river watching for <lb/>other boats. In the course of
-                    about six days, five <lb/>or six boats happened to come down the
-                    river–the <lb/>savages attacked the foremost of them, in which <lb/>were
-                    two young ladies, of the name Macdonald, <lb/>a young gentleman, and some
-                    others, passengers, <lb/>and took it. Elevated with this easy capture, <lb/>they
-                    imagined themselves capable of taking every <lb/>boat they might fall in
-                    with–In a little time a <lb/>second boat hove in fight, which they
-                    attacked <lb/>with great fury–they were in three canoes, each <lb/>canoe
-                    containing about twenty–they moved to<lb break="no"/>wards the boat, as
-                    it came down, and commenced <lb/>firing; after discharging their guns, they
-                        retreat<lb break="no"/>ed, loading and came on a second time, fired and
-                    <lb/>repeated nine different times; as often as they <lb/>come on, there was a
-                    brisk firing kept up from <lb/>the boat, which contained nine fighting
-                    men;– <lb/>during the conflict two were killed, and five <lb/>wounded;
-                    two only remained to protect the boat, <lb/>and prevent the Indians from
-                    boarding it, which <lb/>every appearance of their conduct plainly indi<lb break="no"/>cated–These two brave fellows exerted themselves <lb/>in
-                    a peculiar manner–on a near approach of the <lb/>
-            <supplied reason="copy blur">???</supplied>, they threw billets of wood at them, and
-                    <lb/>one of them took up an ax, as a weapon of de<lb break="no"/>fence, should
-                    they persist in boarding, which the <lb/>Indians perceiving, and, as is
-                    supposed, their <lb/>ammunition being expended, they retreated, <lb/>without
-                    accomplishing their object.</p>
-                <p>"These inhuman monsters, previous to their <lb/>attacking the last mentioned
-                    boat, placed the <lb/>two young ladies in front of their canoes, <lb/>in which
-                    situation they were both killed. A few <lb/>days after this transaction, they
-                    fired at another <lb/>boat, and killed one young man. In short, every <lb/>boat
-                    tat has gone down the river lately, has <lb/>been fired at, except our's. We saw
-                    no Indians; <lb/>the places where the above depredation happen<lb break="no"/>ed
-                    we passed in the night."</p>
-                <p>
-            <hi rend="italic">Boston, May</hi> 4. It is supposed that the adven<lb break="no"/>tures of the town of Boston, lost 25,000 dollars in <lb/>the late lottery;
-                    besides 'wear and tear' of con<lb break="no"/>science.</p>
-                <p>
-            <hi rend="italic">Salem, May</hi> 31. His excellency our worthy <lb/>overnor
-                    perceiving, with his usual discernment, <lb/>that Lotteries have a tendency to
-                    withdraw the <lb/>people's attention from industry, the only certain <lb/>source
-                    of wealth and prosperity; and also that <cb/>
-                    <lb/>they operate as a <supplied reason="copy blur">??? ??? ???, ???
-                        ???</supplied>
-                    <lb/>and embarrassed being <supplied reason="copy blur">??? the ??? a<lb break="no"/>
-            </supplied>
-                    <lb/>venturers; suggests, in <supplied reason="copy blur">??? ???</supplied> the
-                    <lb/>Legislature, the propriety of discontinuing this <lb/>mode of raising
-                    money.</p>
-                <p>The states of Connecticut and New Hampshire <lb/>have passed laws, prohibiting
-                    the sale of lottery <lb/>tickets of other states, in their states.</p>
-                <p>
-            <hi rend="italic">Bennington, May</hi> 30. A gentleman from the <lb/>northward
-                    informs, that the part at the British <lb/>post lately holden in this state, has
-                    recently been <lb/>recalled.</p>
-                <p>
-            <hi rend="italic">Baltimore, May</hi> 27. Colonel Jacob Webb, and <lb/>Captain
-                    Miller, formerly of Stamford, in Con<lb break="no"/>cecticut, Mr. John Carmel,
-                    of Philadelphia, mer<lb break="no"/>chant, and several other gentlemen, with a
-                    negro <lb/>boy, were drowned, on the 9th of March last, in <lb/>St. Mary's river
-                    (Georgia) occasioned by the o<lb break="no"/>versetting of a boat, in a sudden
-                    flaw of wind.</p>
-                <p>
-            <hi rend="italic">Boston, May</hi> 25. On Friday last, the vene<lb break="no"/>rable Mr. John Simonds, of Salem, entered the <lb/>
-            <hi rend="italic">one
-                        hundredth year of his age</hi>. He is the only <lb/>male person who has
-                    arrived at that great age <lb/>from the first settlement of the town by the
-                        Eng<lb break="no"/>lish, in 1629, to the present day.</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">New York, June</hi> 9.</hi>
-                </p>
-                <p>General Washington, on his tour to the South<lb break="no"/>ern Sates, landed at
-                    Charlestown, South Caro<lb break="no"/>lina, in a barge decorated for the
-                    purpose, with <lb/>colours and pendants, and rowed by twelve A<lb break="no"/>merican Captains and a Cockswain, all dressed in <lb/>blue silk jackets, black
-                    silk breeches, white stock<lb break="no"/>ings, and blue roses to their shoes.
-                    They had like<lb break="no"/>wife hold laced hats; with silk bandeaus, with the
-                    <lb/>motto, <hi rend="italic">Long live the President</hi>. An immense
-                    <lb/>number of people assembled near the Quay, and <lb/>on board the vessels in
-                    the river, which, as well <lb/>as works, saluted him with several discharges of
-                    <lb/>artillery. The day was afterwards devoted to <lb/>conviviality–The
-                    lodge of St. John addressed <lb/>his Excellency as follows:–</p>
-                <p>"<hi rend="italic">Right Worshipful Sir</hi>, <lb/>"We the <hi rend="smallcaps">Master, Officers and Members</hi>
-                    <lb/>of St. John's Lodge, No. 2 of Newbern, beg <lb/>leave to hail you welcome
-                    with <hi rend="smallcaps">three times <lb/>three</hi>! We approach you not with
-                    the language <lb/>works have proved you to be the true and faith<lb break="no"/>ful <hi rend="italic">Brother</hi>, the skilful and expert <hi rend="italic">Craftsmen</hi>, the <lb/>just and upright <hi rend="italic">Man</hi>.</p>
-                <p>But the powers of eloquence are too feeble to <lb/>express with sufficient
-                    energy, the cordial warmth <lb/>with which our bosoms glow towards you–We
-                    <lb/>therefore most frevently wish–more ardently and <lb/>devoutly pray,
-                    that the Providence of the Most <lb/>High, may strengthen, establish and protect
-                    you <lb/>in your walk through life–and when you are <lb/>called off from
-                    your terrestrial labours, by com<lb break="no"/>mand of our <hi rend="smallcaps">divine grand master</hi>, and your <lb/>operations sealed with the mark of
-                    his approba<lb break="no"/>tion, may <hi rend="smallcaps">your soul</hi> be
-                    everlastingly refreshed <lb/>with the streams of living water which flow from
-                    <lb/>the right hand of <hi rend="smallcaps">God</hi>. And when the Supreme
-                    <lb/>Architect of all world's shall collect his most pre<lb break="no"/>cious
-                    jewels, as ornaments of the Celestial Jerusa<lb break="no"/>lem–may you
-                    eternally shine among those of the <lb/>brightest lustre."</p>
-                <p>To which the President returned the following <lb/>answer:– <lb/>"<hi rend="italic">Gentlemen</hi>, <lb/>"I receive the cordial welcome which you
-                    <lb/>are pleased to give me, with sincere gratitude. <lb/>My best ambition
-                    having aimed at the unbiassed <lb/>approbation of my fellow citizens, it is
-                    peculiarly <lb/>pleasing to find my conduct so affectionately ap<lb break="no"/>proved,, by a fraternity whose association is found<lb break="no"/>ed on
-                    justice and benevolence.</p>
-                <p>
-                    <lb/>In reciprocating the kind wishes contained in <lb/>your address, be
-                    persuaded, that I offer a <lb/>sincere prayer for your present and future
-                        happi<lb break="no"/>ness."</p>
-                <p>
-                    <pb n="4"/>
-                    <hi rend="center">
-               <hi rend="italic">George-Town. April</hi> 30.</hi>
-                </p>
-                <p>Yesterday morning, about one or two o'clock, <lb/>the ship Termagant, belonging
-                    to the house of <lb/>Messrs. Claggen, lying in the stream opposite <lb/>this
-                    town, was discovered on fire. The inhabi<lb break="no"/>tants of the town and
-                    the seamen in the harbour <lb/>speedily collected, but on account of a quantity
-                    <lb/>of powder that was on board, the efforts that o<lb break="no"/>therwise
-                    would have been exerted to extinguish <lb/>the flames were withholden. The first
-                    soon com<lb break="no"/>municated itself to the powder; and the explosion
-                    <lb/>was so severe as sensibly to shake mot of the <lb/>houses in the town. The
-                    cinders and pieces of <lb/>the ship were flying in every direction, and it
-                    <lb/>and it was with the greatest difficulty that in counting, <lb/>store and
-                    dwelling houses, on the water side, were <lb/>prevented from sharing a similar
-                    fate with the <lb/>ship. The extensive tobacco trade warehouse, <lb/>the
-                    property of Francis and Charles Loundes, si<lb break="no"/>tuated at some
-                    distance from the water, wherein <lb/>upwards of1000 hogsheads of tobacco were
-                        stor<lb break="no"/>ed, was several times, in different places, on fire,
-                    <lb/>ut happily extinguished without sustaining much <lb/>damage. The loss,
-                    occasioned by this alarming <lb/>element, must be great indeed, as the ship was
-                    <lb/>large and nearly new; besides, there were goods <lb/>to a considerable
-                    amount, and a pretty large sum <lb/>of money on board of her: all of which
-                        (except<lb break="no"/>ing a part of the money, which has since been
-                    <lb/>found) was destroyed. We are informed that <lb/>this accident proceeded
-                    from the steward's falling <lb/>to sleep and leaving a candle burning in the
-                        cab<lb break="no"/>bin, which by some means or other, set fire to <lb/>the
-                    sails that were stowed there. It had got far <lb/>advanced before it was
-                    discovered. Providenti<lb break="no"/>ally no lives were lost.</p>
-                <p>
-            <hi rend="italic">Pittsburgh, May</hi> 21. A letter received in this <lb/>town,
-                    on Sunday last, from Lieut. Jeffers, at <lb/>Fort Franklin, mentions, that an
-                    Indian had ar<lb break="no"/>rived there, who brought him intelligence that
-                    <lb/>300 warriors of the Chippawa and other nations <lb/>had set out for war and
-                    that they were determin<lb break="no"/>ed to strike on the Allegheny or Ohio,
-                    near Pe<lb break="no"/>tersburgh; that 1000 men were preparing, but <lb/>their
-                    destination was not known.</p>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="italic">Norfolk, April</hi>  11. This day arrived the ship <lb/>Albion, John Simmons, master, in 47 days from <lb/>Rotterdam; on the 8th lying to in a heavy gale <lb/>of wind, the Albion shipped a sea, which carried <lb/>away all her boats and every loose article from <lb/>the deck; there were three men of the watch, <lb/>one of whom is washed overboard and perished– <lb/>his name is John M'Naught, and belonged to <lb/>Greenock.</p>
+         <p>
+            <hi rend="italic">Extract of a letter from a gentleman at the falls of <lb/>the Ohio, to his relation in<supplied reason="copy blur">Winchester</supplied>, Virginia. <lb/>dated April</hi>  13, 1791.</p>
+         <p>"I wrote to you from Fort Pitt, which place <lb/>we left the 3d. inst. in company with two other <lb/>boats, and proceeded to Limestone, without <lb/>meeting or apprehending danger–at that place <lb/>we were informed of several disasters which had <lb/>befallen boats going down the river, and one to <lb/>a boat going up to a French station, loaded with <lb/>bacon, butter, &amp;c. The particulars relative to <lb/>the latter are as follow–The boat was attacked <lb/>by about 60 or 70 Indians, and the flankets that <lb/>were on shore as a guard were fired on by them. <lb/>–Immediately after firing, they gave the Indian <lb/>whoop, and rushing on the flankets, scalped them <lb/>every one (about 22)– they then fired at the <lb/>boat, but did no damage, as it required some <lb/>time to make their way into the river. After <lb/>the savages had executed this terrible act of bar<lb break="no"/>barity, they continued on the river watching for <lb/>other boats. In the course of about six days, five <lb/>or six boats happened to come down the river–the <lb/>savages attacked the foremost of them, in which <lb/>were two young ladies, of the name Macdonald, <lb/>a young gentleman, and some others, passengers, <lb/>and took it. Elevated with this easy capture, <lb/>they imagined themselves capable of taking every <lb/>boat they might fall in with–In a little time a <lb/>second boat hove in fight, which they attacked <lb/>with great fury–they were in three canoes, each <lb/>canoe containing about twenty–they moved to<lb break="no"/>wards the boat, as it came down, and commenced <lb/>firing; after discharging their guns, they retreat<lb break="no"/>ed, loading and came on a second time, fired and <lb/>repeated nine different times; as often as they <lb/>come on, there was a brisk firing kept up from <lb/>the boat, which contained nine fighting men;– <lb/>during the conflict two were killed, and five <lb/>wounded; two only remained to protect the boat, <lb/>and prevent the Indians from boarding it, which <lb/>every appearance of their conduct plainly indi<lb break="no"/>cated–These two brave fellows exerted themselves <lb/>in a peculiar manner–on a near approach of the <lb/>
+            <supplied reason="copy blur">???</supplied>, they threw billets of wood at them, and <lb/>one of them took up an ax, as a weapon of de<lb break="no"/>fence, should they persist in boarding, which the <lb/>Indians perceiving, and, as is supposed, their <lb/>ammunition being expended, they retreated, <lb/>without accomplishing their object.</p>
+         <p>"These inhuman monsters, previous to their <lb/>attacking the last mentioned boat, placed the <lb/>two young ladies in front of their canoes, <lb/>in which situation they were both killed. A few <lb/>days after this transaction, they fired at another <lb/>boat, and killed one young man. In short, every <lb/>boat tat has gone down the river lately, has <lb/>been fired at, except our's. We saw no Indians; <lb/>the places where the above depredation happen<lb break="no"/>ed we passed in the night."</p>
+         <p>
+            <hi rend="italic">Boston, May</hi>  4. It is supposed that the adven<lb break="no"/>tures of the town of Boston, lost 25,000 dollars in <lb/>the late lottery; besides 'wear and tear' of con<lb break="no"/>science.</p>
+         <p>
+            <hi rend="italic">Salem, May</hi>  31. His excellency our worthy <lb/>overnor perceiving, with his usual discernment, <lb/>that Lotteries have a tendency to withdraw the <lb/>people's attention from industry, the only certain <lb/>source of wealth and prosperity; and also that<cb/> 
+            <lb/>they operate as a<supplied reason="copy blur">??? ??? ???, ??? ???</supplied> 
+            <lb/>and embarrassed being<supplied reason="copy blur">??? the ??? a<lb break="no"/>
+            </supplied> 
+            <lb/>venturers; suggests, in<supplied reason="copy blur">??? ???</supplied> the <lb/>Legislature, the propriety of discontinuing this <lb/>mode of raising money.</p>
+         <p>The states of Connecticut and New Hampshire <lb/>have passed laws, prohibiting the sale of lottery <lb/>tickets of other states, in their states.</p>
+         <p>
+            <hi rend="italic">Bennington, May</hi>  30. A gentleman from the <lb/>northward informs, that the part at the British <lb/>post lately holden in this state, has recently been <lb/>recalled.</p>
+         <p>
+            <hi rend="italic">Baltimore, May</hi>  27. Colonel Jacob Webb, and <lb/>Captain Miller, formerly of Stamford, in Con<lb break="no"/>cecticut, Mr. John Carmel, of Philadelphia, mer<lb break="no"/>chant, and several other gentlemen, with a negro <lb/>boy, were drowned, on the 9th of March last, in <lb/>St. Mary's river (Georgia) occasioned by the o<lb break="no"/>versetting of a boat, in a sudden flaw of wind.</p>
+         <p>
+            <hi rend="italic">Boston, May</hi>  25. On Friday last, the vene<lb break="no"/>rable Mr. John Simonds, of Salem, entered the <lb/>
+            <hi rend="italic">one hundredth year of his age</hi> . He is the only <lb/>male person who has arrived at that great age <lb/>from the first settlement of the town by the Eng<lb break="no"/>lish, in 1629, to the present day.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">New York, June</hi>  9.</hi> 
+         </p>
+         <p>General Washington, on his tour to the South<lb break="no"/>ern Sates, landed at Charlestown, South Caro<lb break="no"/>lina, in a barge decorated for the purpose, with <lb/>colours and pendants, and rowed by twelve A<lb break="no"/>merican Captains and a Cockswain, all dressed in <lb/>blue silk jackets, black silk breeches, white stock<lb break="no"/>ings, and blue roses to their shoes. They had like<lb break="no"/>wife hold laced hats; with silk bandeaus, with the <lb/>motto,<hi rend="italic">Long live the President</hi> . An immense <lb/>number of people assembled near the Quay, and <lb/>on board the vessels in the river, which, as well <lb/>as works, saluted him with several discharges of <lb/>artillery. The day was afterwards devoted to <lb/>conviviality–The lodge of St. John addressed <lb/>his Excellency as follows:–</p>
+         <p>"<hi rend="italic">Right Worshipful Sir</hi> , <lb/>"We the<hi rend="smallcaps">Master, Officers and Members </hi>
+            <lb/>of St. John's Lodge, No. 2 of Newbern, beg <lb/>leave to hail you welcome with<hi rend="smallcaps">three times <lb/>three</hi> ! We approach you not with the language <lb/>works have proved you to be the true and faith<lb break="no"/>ful<hi rend="italic">Brother</hi> , the skilful and expert<hi rend="italic">Craftsmen</hi> , the <lb/>just and upright<hi rend="italic">Man</hi>.</p>
+         <p>But the powers of eloquence are too feeble to <lb/>express with sufficient energy, the cordial warmth <lb/>with which our bosoms glow towards you–We <lb/>therefore most frevently wish–more ardently and <lb/>devoutly pray, that the Providence of the Most <lb/>High, may strengthen, establish and protect you <lb/>in your walk through life–and when you are <lb/>called off from your terrestrial labours, by com<lb break="no"/>mand of our<hi rend="smallcaps">divine grand master</hi> , and your <lb/>operations sealed with the mark of his approba<lb break="no"/>tion, may<hi rend="smallcaps">your soul</hi>  be everlastingly refreshed <lb/>with the streams of living water which flow from <lb/>the right hand of<hi rend="smallcaps">God</hi> . And when the Supreme <lb/>Architect of all world's shall collect his most pre<lb break="no"/>cious jewels, as ornaments of the Celestial Jerusa<lb break="no"/>lem–may you eternally shine among those of the <lb/>brightest lustre."</p>
+         <p>To which the President returned the following <lb/>answer:– <lb/>"<hi rend="italic">Gentlemen</hi> , <lb/>"I receive the cordial welcome which you <lb/>are pleased to give me, with sincere gratitude. <lb/>My best ambition having aimed at the unbiassed <lb/>approbation of my fellow citizens, it is peculiarly <lb/>pleasing to find my conduct so affectionately ap<lb break="no"/>proved,, by a fraternity whose association is found<lb break="no"/>ed on justice and benevolence.</p>
+         <p> 
+            <lb/>In reciprocating the kind wishes contained in <lb/>your address, be persuaded, that I offer a <lb/>sincere prayer for your present and future happi<lb break="no"/>ness."</p>
+         <p>
+            <pb n="4"/>
+            <hi rend="center">
+               <hi rend="italic">George-Town. April</hi>  30.</hi> 
+         </p>
+         <p>Yesterday morning, about one or two o'clock, <lb/>the ship Termagant, belonging to the house of <lb/>Messrs. Claggen, lying in the stream opposite <lb/>this town, was discovered on fire. The inhabi<lb break="no"/>tants of the town and the seamen in the harbour <lb/>speedily collected, but on account of a quantity <lb/>of powder that was on board, the efforts that o<lb break="no"/>therwise would have been exerted to extinguish <lb/>the flames were withholden. The first soon com<lb break="no"/>municated itself to the powder; and the explosion <lb/>was so severe as sensibly to shake mot of the <lb/>houses in the town. The cinders and pieces of <lb/>the ship were flying in every direction, and it <lb/>and it was with the greatest difficulty that in counting, <lb/>store and dwelling houses, on the water side, were <lb/>prevented from sharing a similar fate with the <lb/>ship. The extensive tobacco trade warehouse, <lb/>the property of Francis and Charles Loundes, si<lb break="no"/>tuated at some distance from the water, wherein <lb/>upwards of1000 hogsheads of tobacco were stor<lb break="no"/>ed, was several times, in different places, on fire, <lb/>ut happily extinguished without sustaining much <lb/>damage. The loss, occasioned by this alarming <lb/>element, must be great indeed, as the ship was <lb/>large and nearly new; besides, there were goods <lb/>to a considerable amount, and a pretty large sum <lb/>of money on board of her: all of which (except<lb break="no"/>ing a part of the money, which has since been <lb/>found) was destroyed. We are informed that <lb/>this accident proceeded from the steward's falling <lb/>to sleep and leaving a candle burning in the cab<lb break="no"/>bin, which by some means or other, set fire to <lb/>the sails that were stowed there. It had got far <lb/>advanced before it was discovered. Providenti<lb break="no"/>ally no lives were lost.</p>
+         <p>
+            <hi rend="italic">Pittsburgh, May</hi>  21. A letter received in this <lb/>town, on Sunday last, from Lieut. Jeffers, at <lb/>Fort Franklin, mentions, that an Indian had ar<lb break="no"/>rived there, who brought him intelligence that <lb/>300 warriors of the Chippawa and other nations <lb/>had set out for war and that they were determin<lb break="no"/>ed to strike on the Allegheny or Ohio, near Pe<lb break="no"/>tersburgh; that 1000 men were preparing, but <lb/>their destination was not known.</p>
+      </body>
+   </text>
+</TEI>

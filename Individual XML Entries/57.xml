@@ -1,83 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>57</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>57</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-12-07"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>settlement description</item>
-                            <item>society</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="center">
-                        <hi rend="italic">Extract of a letter from a Gentleman at Charles</hi>
-                    </hi>
-                    <lb break="no"/>
+                  </pubPlace>
+                  <date when="1789-12-07"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>settlement description</item>
+                  <item>society</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="center">
+               <hi rend="italic">Extract of a letter from a Gentleman at Charles</hi> 
+            </hi> 
+            <lb break="no"/>
             <hi rend="right">
-                        <hi rend="italic">Town, South Carolina, September</hi> 2, 1789, <hi rend="italic">to<lb/>a friend in Bristol.</hi>
-            </hi>
-                </p>
-                <p>"My inclination has taken such a stubborn <lb/>longing after your side of the
-                    water, that I can<lb break="no"/>not enjoy tranquility here. So very wretched
-                    <lb/>have I been at times, that I can hardly support <lb/>the regret I feel,
-                    that I ever changed the bright <lb/>and alluring varieties of cultivation
-                    England, for <lb/>the dreary the desolate scenes of America.</p>
-                <p>"Happy are those who have quitted this land of <lb/>misery ; and I belive a
-                    situation here is not found <lb/>enviable by the greatest patriots in the State.
-                    <lb/>They are all in the secret, sighing for the com<lb break="no"/>forts of Old
-                    England. A bare pittance there, <lb/>would be preferable to the largest
-                    possessions here."</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="italic">Town, South Carolina, September</hi>  2, 1789,<hi rend="italic">to <lb/>a friend in Bristol.</hi> 
+            </hi> 
+         </p>
+         <p>"My inclination has taken such a stubborn <lb/>longing after your side of the water, that I can<lb break="no"/>not enjoy tranquility here. So very wretched <lb/>have I been at times, that I can hardly support <lb/>the regret I feel, that I ever changed the bright <lb/>and alluring varieties of cultivation England, for <lb/>the dreary the desolate scenes of America.</p>
+         <p>"Happy are those who have quitted this land of <lb/>misery ; and I belive a situation here is not found <lb/>enviable by the greatest patriots in the State. <lb/>They are all in the secret, sighing for the com<lb break="no"/>forts of Old England. A bare pittance there, <lb/>would be preferable to the largest possessions here."</p>
+      </body>
+   </text>
+</TEI>

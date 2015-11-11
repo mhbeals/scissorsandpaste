@@ -1,7 +1,1 @@
-Curious AdvertisementFrom the Pittsburgh Gazette*Pittsburgh, Dec.* 23, 1789. JULY the twenty-seventh day My wife Betsey ran away From bed and
-                    board,–and this did say, "She would no longer with me stay."
-                    Since she has left me without cause I'll give her time enough to
-                    pause. That she may see her grievous error, When I live happy with a
-                    fairer. So I forewarn both great and small To trust her any thing at
-                    all, For of her contracts from this day One farthing's worth I will
-                    not pay. Dennis O'Bryan
+Curious Advertisement From thePittsburgh Gazette*Pittsburgh, Dec.*  23, 1789. JULY the twenty-seventh day My wife Betsey ran away From bed and board,–and this did say, "She would no longer with me stay." Since she has left me without cause I'll give her time enough to pause. That she may see her grievous error, When I live happy with a fairer. So I forewarn both great and small To trust her any thing at all, For of her contracts from this day One farthing's worth I will not pay. Dennis O'Bryan

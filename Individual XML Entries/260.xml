@@ -1,113 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>260</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>260</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1836-07-16"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1836-07-16"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="smallcaps">Emigration</hi>
-                    <lb/>
-            <hi rend="smallcaps">Mr Walter</hi> moved, pursuant to notice, that "an
-                        hum<lb break="no"/>ble address be presented to his Majesty, praying that he
-                    will <lb/>be graciously pleased to issue his royal orders that a placard
-                    <lb/>entitled "Emigration to Van Diemen's Land," which the se<lb break="no"/>veral postmasters throughout the kingdom have been directed <lb/>to put in a
-                    conspicuous place in their several post-offices, and <lb/>to circulate among the
-                    clergy and the parochial authorities <lb/>be withdrawn." He had been assured y
-                    several gentlemen <lb/>who had returned from Van Diemen's land, that many of the
-                    <lb/>young females sent out by the Emigration committee had <lb/>been
-                    irrevocable consigned to prostitution, and that such as <lb/>obtained services
-                    found themselves placed among a very dif<lb break="no"/>ferent calss of persons
-                    to that which they had been accustom<lb break="no"/>ed to mix with in this
-                    country. The hon. member read an <lb/>extract from a Hobart Town paper, of the
-                    19th of February <lb/>last, in which it was stated that some of the females
-                    "thus <lb/>launched into the world," were not more than twelve of thir<lb break="no"/>teen years old.</p>
-                <p>
-            <hi rend="smallcaps">Mr Wakley</hi> seconded the motion. <lb/>
-            <hi rend="smallcaps">Sir G. Grey</hi> adverted to the extraordinary object of
-                    the <lb/>address, when the information desired had in fact already <lb/>been
-                    given on a former day. He hoped, whatever informa<lb break="no"/>tion, correct
-                    or erroneous, might be circulated on the subject <lb/>of emigration, that the
-                    people of England would not adopt <lb/>their notions from anonymous paragraphs
-                    in Hobart Town <lb/>newspapers. According to the hon. member there was a sys<lb break="no"/>tem in operation by which people were driven out of the
-                    <lb/>country–actually turned out of it, as if they were so many
-                    <lb/>slaves. Now he could declare that there could be no more <lb/>unfounded
-                    statement than this. Though much good had ari<lb break="no"/>sen to the colonies
-                    and individuals, yet it could not be denied <lb/>that, in some instances, youn
-                    women had turned out badly <lb/>They had these facts upon authority–that
-                    many of those fe<lb break="no"/>males obtained respectable places. The names of
-                    the indivi<lb break="no"/>duals who obtained them, the dates of their arrival,
-                    the <lb/>mode of their meployment, were all to be found int he papers <lb/>on
-                    the table of the house. In conclusion, he begged of the <lb/>hon. member and
-                    others, when statements relative to emi<lb break="no"/>gration were made, to
-                    receive them with caution and reserve.</p>
-                <p>
-            <hi rend="smallcaps">Mr C. Lushington</hi> defended the proceedigs of the Emi<lb break="no"/>
-                    <lb/>gration Committee. he mainted that by their labours the <lb/>greatest
-                    posible good had been accomplished, hear, hear.) <lb/>He would then ask of any
-                    one to look at the names of the gentle<lb break="no"/>men who were on that
-                    committee–to look at their charac<lb break="no"/>ters; and could any one
-                    who did so believe that the members <lb/>of that committee would be guilty of
-                    the sin of sendng out, <lb/>day after day, young females to the
-                    colonies–of thus duping <lb/>those unprotected creatures to their
-                    destruction? (hear, hear.)</p>
-                <p>
-            <hi rend="smallcaps">Mr Walter</hi> replied. He had not relied for his state<lb break="no"/>
-                    <lb/>ments upon newspapers, but upon official documents.</p>
-                <p>The motion was negatived without a division.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="smallcaps">Emigration </hi>
+            <lb/>
+            <hi rend="smallcaps">Mr Walter</hi>  moved, pursuant to notice, that "an hum<lb break="no"/>ble address be presented to his Majesty, praying that he will <lb/>be graciously pleased to issue his royal orders that a placard <lb/>entitled "Emigration to Van Diemen's Land," which the se<lb break="no"/>veral postmasters throughout the kingdom have been directed <lb/>to put in a conspicuous place in their several post-offices, and <lb/>to circulate among the clergy and the parochial authorities <lb/>be withdrawn." He had been assured y several gentlemen <lb/>who had returned from Van Diemen's land, that many of the <lb/>young females sent out by the Emigration committee had <lb/>been irrevocable consigned to prostitution, and that such as <lb/>obtained services found themselves placed among a very dif<lb break="no"/>ferent calss of persons to that which they had been accustom<lb break="no"/>ed to mix with in this country. The hon. member read an <lb/>extract from a Hobart Town paper, of the 19th of February <lb/>last, in which it was stated that some of the females "thus <lb/>launched into the world," were not more than twelve of thir<lb break="no"/>teen years old.</p>
+         <p>
+            <hi rend="smallcaps">Mr Wakley</hi>  seconded the motion. <lb/>
+            <hi rend="smallcaps">Sir G. Grey</hi>  adverted to the extraordinary object of the <lb/>address, when the information desired had in fact already <lb/>been given on a former day. He hoped, whatever informa<lb break="no"/>tion, correct or erroneous, might be circulated on the subject <lb/>of emigration, that the people of England would not adopt <lb/>their notions from anonymous paragraphs in Hobart Town <lb/>newspapers. According to the hon. member there was a sys<lb break="no"/>tem in operation by which people were driven out of the <lb/>country–actually turned out of it, as if they were so many <lb/>slaves. Now he could declare that there could be no more <lb/>unfounded statement than this. Though much good had ari<lb break="no"/>sen to the colonies and individuals, yet it could not be denied <lb/>that, in some instances, youn women had turned out badly <lb/>They had these facts upon authority–that many of those fe<lb break="no"/>males obtained respectable places. The names of the indivi<lb break="no"/>duals who obtained them, the dates of their arrival, the <lb/>mode of their meployment, were all to be found int he papers <lb/>on the table of the house. In conclusion, he begged of the <lb/>hon. member and others, when statements relative to emi<lb break="no"/>gration were made, to receive them with caution and reserve.</p>
+         <p>
+            <hi rend="smallcaps">Mr C. Lushington</hi>  defended the proceedigs of the Emi<lb break="no"/> 
+            <lb/>gration Committee. he mainted that by their labours the <lb/>greatest posible good had been accomplished, hear, hear.) <lb/>He would then ask of any one to look at the names of the gentle<lb break="no"/>men who were on that committee–to look at their charac<lb break="no"/>ters; and could any one who did so believe that the members <lb/>of that committee would be guilty of the sin of sendng out, <lb/>day after day, young females to the colonies–of thus duping <lb/>those unprotected creatures to their destruction? (hear, hear.)</p>
+         <p>
+            <hi rend="smallcaps">Mr Walter</hi>  replied. He had not relied for his state<lb break="no"/> 
+            <lb/>ments upon newspapers, but upon official documents.</p>
+         <p>The motion was negatived without a division.</p>
+      </body>
+   </text>
+</TEI>

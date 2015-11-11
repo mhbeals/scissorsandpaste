@@ -1,125 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>192</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>192</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1823-09-03"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1823-09-03"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>Naval Intelligence</p>
-                <p>
-                    <hi rend="smallcaps">East India Shipping</hi>
-                </p>
-                <p>
-            <hi rend="smallcaps">Cowes,</hi>
-            <hi rend="italic">August</hi> 28–One of
-                    our pilor boats landed yesterday at <lb/>Southampton some passengers out of the
-                    ship Triumph, from Bom<lb break="no"/>bay ; they reported having fallen in with
-                    Daphane, from Ba<lb break="no"/>tavia to Cowes, with damage to her sails, and
-                    having strained much <lb/>by experiencing a heavy gale off the Cape of Good
-                    Hope, which <lb/>lasted 32 days. Also spoke the Lord Wellington, Bengal to
-                        Lis<lb break="no"/>bon, 5th ult. lat. 17. S. lon. 3. W. and the Active of
-                    Salem, St <lb/>Helena to Cowes, 28th, lat. 15. lon. 28. Left the Aurora at
-                    <lb/>Bombay.</p>
-                <p>
-            <hi rend="smallcaps">Portsmouth,</hi>
-            <hi rend="italic">August</hi>
-                    28.–sailed the James Sibbald, Forbes, <lb/>for Bombay.</p>
-                <p>Atlas, Clifton, London, to Madras and Bengal, was spoken with <lb/>on the 5th
-                    June, lat. 6. N. by the Mary, arrived at Rio Janeiro. <lb/>The Princess of
-                    Wales, and Marquis Wellington, London to India, <lb/>was spoken with on the 6th
-                    June, lat. 37. lon. 18. by the Albion, <lb/>Hunter, which arrived at Demerara
-                    27th June from London.</p>
-                <p>The Ajax, Gillett, from the Cape of Good Hope, and David Scott, <lb/>Bunyan, from
-                    Bengal, arrived at Madras on the 28th March.</p>
-                <p>The David Clark, Falconer, from the Cape of Hope, arrived at <lb/>Bengal on the
-                    26th March, and the Ceres, Pridham, from Madras, <lb/>on the 28th.</p>
-                <p>The Isabella convict ship sailed from Cork on Thursday week, <lb/>for New South
-                    Wales. She took between three and four hundred <lb/>culprits, who had been
-                    sentenced for various crimes to transporta<lb break="no"/>tion.</p>
-                <p>
-                    <hi rend="smallcaps">Greenland Fishery.</hi>
-                </p>
-                <p>The Spencer, Keith, arrived at Montrose from the Greenland <lb/>seats on Tuesday
-                    last, with five small fish and one hundred and fifty <lb/>seals, supposed to
-                    boil fifty tuns of oil. Captain Keith and the crew <lb/>describe the season as
-                    very unfavourable. They saw many whales, <lb/>but the high winds and great
-                    quanities of ice rendered fishing in <lb/>many instances impossible. There has
-                    not been so much ice in <lb/>Greenland for the last twenty years.</p>
-                <p>The Gleaner, Shand, and Eclipse Sutter, the former with 13 <lb/>fish, 70 tuns,
-                    and the latter with 6 fish, 100 tuns, and the Jean, <lb/>Stafford, with three
-                    fish, 55 tuns, have arrived at Peterhead, from <lb/>the Greenland whale
-                    fishery.</p>
-                <p>On Tuesday last, a whale fishing ship, supposed to belong to <lb/>Hull, passed a
-                    vessel belonging to Aberden, off Redhead, and <lb/>broomed 9 fish.</p>
-                <p>
+         <p>
+            <hi rend="smallcaps">East India Shipping</hi> 
+         </p>
+         <p>
+            <hi rend="smallcaps">Cowes, </hi>
+            <hi rend="italic">August</hi>  28–One of our pilor boats landed yesterday at <lb/>Southampton some passengers out of the ship Triumph, from Bom<lb break="no"/>bay ; they reported having fallen in with Daphane, from Ba<lb break="no"/>tavia to Cowes, with damage to her sails, and having strained much <lb/>by experiencing a heavy gale off the Cape of Good Hope, which <lb/>lasted 32 days. Also spoke the Lord Wellington, Bengal to Lis<lb break="no"/>bon, 5th ult. lat. 17. S. lon. 3. W. and the Active of Salem, St <lb/>Helena to Cowes, 28th, lat. 15. lon. 28. Left the Aurora at <lb/>Bombay.</p>
+         <p>
+            <hi rend="smallcaps">Portsmouth, </hi>
+            <hi rend="italic">August</hi>  28.–sailed the James Sibbald, Forbes, <lb/>for Bombay.</p>
+         <p>Atlas, Clifton, London, to Madras and Bengal, was spoken with <lb/>on the 5th June, lat. 6. N. by the Mary, arrived at Rio Janeiro. <lb/>The Princess of Wales, and Marquis Wellington, London to India, <lb/>was spoken with on the 6th June, lat. 37. lon. 18. by the Albion, <lb/>Hunter, which arrived at Demerara 27th June from London.</p>
+         <p>The Ajax, Gillett, from the Cape of Good Hope, and David Scott, <lb/>Bunyan, from Bengal, arrived at Madras on the 28th March.</p>
+         <p>The David Clark, Falconer, from the Cape of Hope, arrived at <lb/>Bengal on the 26th March, and the Ceres, Pridham, from Madras, <lb/>on the 28th.</p>
+         <p>The Isabella convict ship sailed from Cork on Thursday week, <lb/>for New South Wales. She took between three and four hundred <lb/>culprits, who had been sentenced for various crimes to transporta<lb break="no"/>tion.</p>
+         <p>
+            <hi rend="smallcaps">Greenland Fishery.</hi> 
+         </p>
+         <p>The Spencer, Keith, arrived at Montrose from the Greenland <lb/>seats on Tuesday last, with five small fish and one hundred and fifty <lb/>seals, supposed to boil fifty tuns of oil. Captain Keith and the crew <lb/>describe the season as very unfavourable. They saw many whales, <lb/>but the high winds and great quanities of ice rendered fishing in <lb/>many instances impossible. There has not been so much ice in <lb/>Greenland for the last twenty years.</p>
+         <p>The Gleaner, Shand, and Eclipse Sutter, the former with 13 <lb/>fish, 70 tuns, and the latter with 6 fish, 100 tuns, and the Jean, <lb/>Stafford, with three fish, 55 tuns, have arrived at Peterhead, from <lb/>the Greenland whale fishery.</p>
+         <p>On Tuesday last, a whale fishing ship, supposed to belong to <lb/>Hull, passed a vessel belonging to Aberden, off Redhead, and <lb/>broomed 9 fish.</p>
+         <p>
             <hi rend="italic">
-               <hi rend="smallcaps">From Lloyd's List</hi>–August</hi>
-                    29</p>
-                <p>
-            <hi rend="smallcaps">Deal,</hi>
-            <hi rend="italic">August 28</hi>–The
-                    vessels belonging to the Corporation of <lb/>the Trinity House have this morning
-                    placed a buoy, with a staff <lb/>and vane, near the Goodwin South Sand Head,
-                    bearing by compass, <lb/>from the south end of this town, south by east.</p>
-                <p>
-            <hi rend="smallcaps">Smyrna</hi>, <hi rend="italic">July</hi> 17–His
-                    Majesty's ships Cambrian, Hind, and <lb/>Medina, are cruising in the Arthes. An
-                    Austrian brig of war, ar<lb break="no"/>rived here some days ago, with two
-                    pirates, a schooner and a large <lb/>tugsail boat. Another was destroyed by
-                    her.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="smallcaps">From Lloyd's List</hi> –August</hi>  29</p>
+         <p>
+            <hi rend="smallcaps">Deal, </hi>
+            <hi rend="italic">August 28</hi> –The vessels belonging to the Corporation of <lb/>the Trinity House have this morning placed a buoy, with a staff <lb/>and vane, near the Goodwin South Sand Head, bearing by compass, <lb/>from the south end of this town, south by east.</p>
+         <p>
+            <hi rend="smallcaps">Smyrna</hi> ,<hi rend="italic">July</hi>  17–His Majesty's ships Cambrian, Hind, and <lb/>Medina, are cruising in the Arthes. An Austrian brig of war, ar<lb break="no"/>rived here some days ago, with two pirates, a schooner and a large <lb/>tugsail boat. Another was destroyed by her.</p>
+      </body>
+   </text>
+</TEI>

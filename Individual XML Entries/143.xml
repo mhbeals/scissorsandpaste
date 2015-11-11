@@ -1,85 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>143</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>143</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1819-05-07"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-            <pb/>The brig Henry sailed from Cork on Wednes<lb break="no"/>day se'ennight,
-                    with about two hundred passen<lb break="no"/>gers for Aux Cayes, to join Sir
-                    Gregor M'Gre<lb break="no"/>gor, who lately landed on the Spanish Main with
-                    <lb/>a small force. General M'Gregor, it seems, left <lb/>authority with Colonel
-                    Eyre to recruit men for <lb/>his service, and to ship them as he best could.
-                    – <lb/>There are a number of idle gentlemen about <lb/>Dublin at present,
-                    and also many in the country, <lb/>who have been captivated with the speculation
-                    of <lb/>embarking in the Patriotic cause, and for some <lb/>time they have
-                    appeared in the streets in fanci<lb break="no"/>ful uniforms. We understand that
-                    Col. Eyre has <lb/>formed a Committee, who treat with such young <lb/>gentlemen
-                    as have the inclination to proceed on <lb/>the enterprise, and have money to pay
-                    for such <lb/>rank as they may wish to possess under M'Gre<lb break="no"/>gor.
-                    The money thus furnished is made a stock <lb/>purse to pay the freight of the
-                    vessel, and hence <lb/>it is necessary that the greater part of the adven<lb break="no"/>turers should be <hi rend="italic">officers</hi> ; for those who
-                    are con<lb break="no"/>tented with the humble station of privates are <lb/>not
-                    required to contribute and their passage, <lb/>subsistence, &amp;c. must be
-                    defrayed by the com<lb break="no"/>mon fund. Mr D'Evereaux, from the county
-                    <lb/>of Wexford, is also raising men for the same <lb/>service, but under
-                    different circumstances. He <lb/>professes to have authority from General Bo<lb break="no"/>
-                    <lb/>livar to grant commissions, and to ship the men <lb/>he may raise for
-                    head-quarters in Venezuela. Mr <lb/>D'Evereaux has not yet dispatched any men,
-                    and <lb/>Col. Eyre has certainly shewn more activity in <lb/>this respect.
-                    – <hi rend="italic">Dublin Journal</hi>.</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1819-05-07"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>The brig Henry sailed from Cork on Wednes<lb break="no"/>day se'ennight, with about two hundred passen<lb break="no"/>gers for Aux Cayes, to join Sir Gregor M'Gre<lb break="no"/>gor, who lately landed on the Spanish Main with <lb/>a small force. General M'Gregor, it seems, left <lb/>authority with Colonel Eyre to recruit men for <lb/>his service, and to ship them as he best could. – <lb/>There are a number of idle gentlemen about <lb/>Dublin at present, and also many in the country, <lb/>who have been captivated with the speculation of <lb/>embarking in the Patriotic cause, and for some <lb/>time they have appeared in the streets in fanci<lb break="no"/>ful uniforms. We understand that Col. Eyre has <lb/>formed a Committee, who treat with such young <lb/>gentlemen as have the inclination to proceed on <lb/>the enterprise, and have money to pay for such <lb/>rank as they may wish to possess under M'Gre<lb break="no"/>gor. The money thus furnished is made a stock <lb/>purse to pay the freight of the vessel, and hence <lb/>it is necessary that the greater part of the adven<lb break="no"/>turers should be<hi rend="italic">officers</hi>  ; for those who are con<lb break="no"/>tented with the humble station of privates are <lb/>not required to contribute and their passage, <lb/>subsistence, &amp;c. must be defrayed by the com<lb break="no"/>mon fund. Mr D'Evereaux, from the county <lb/>of Wexford, is also raising men for the same <lb/>service, but under different circumstances. He <lb/>professes to have authority from General Bo<lb break="no"/> 
+            <lb/>livar to grant commissions, and to ship the men <lb/>he may raise for head-quarters in Venezuela. Mr <lb/>D'Evereaux has not yet dispatched any men, and <lb/>Col. Eyre has certainly shewn more activity in <lb/>this respect. –<hi rend="italic">Dublin Journal</hi>.</p>
+      </body>
+   </text>
+</TEI>

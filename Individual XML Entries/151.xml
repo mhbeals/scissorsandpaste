@@ -1,97 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>151</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>151</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1819-08-16"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">Intended Colony at the Cape of <lb/>Good Hope.</hi>
-                </p>
-                <p>The following official circular has been [?] <lb/>from the Colonial Department,
-                    in answer[?] to[?] ap-[?] <lb/>plications for information on the subject[?]
-                    <lb/>referred to:–</p>
-                <p>"Downing Street <lb/>"<hi rend="smallcaps">Sir</hi>–In reply to your
-                    letter of the [?] [?] <lb/>by Earl Bathurst to inform you, that as the [?]
-                    <lb/>inctly specifies the nature and extent of the [?] <lb/>will be granted to
-                    individuals who may be [?] <lb/>as settlers of the Cape of Good Hope [?]
-                    <lb/>tions under which alone that as instance [?} <lb/>is only necessary to
-                    refer you to those [?] <lb/>that no proposal can be accepted which is not [?]
-                    <lb/>formity with the offer of his Majesty's Governance.</p>
-                <p>"With reference to your particular [?] <lb/>mode in which the views of the
-                    settlers may [?] <lb/>I have to acquaint you, that it is not in Earl Bathurst
-                    [?] <lb/>to communicate to you that species of [?] <lb/>can most properly be
-                    afforded by the practical [?] <lb/>or obtained upon the spot.</p>
-                <p>"The settlers will be located in the [?] <lb/>not far from the coast ; and in
-                    allotting to them [?] <lb/>Government have agreed to grant[?] them [?]
-                    <lb/>their wishes will be consulted, and attended [?] <lb/>be consistent with
-                    the public interests of the [?].</p>
-                <p>"The settlers will be enabled to purchase [?] <lb/>[?] of agricultural implements
-                    in the [?] <lb/>although they are not debarred from taking [?] <lb/>derte supply
-                    of these articles as well as [?] <lb/>will find no difficulty in purchasing seed
-                    corn[?] [?].</p>
-                <p>"The settlers will not find habitations ready [?] <lb/>ception.</p>
-                <p>"The person under whose direction a [?] <lb/>ceed is at liberty to secure their
-                    services by [?] <lb/>ment into which they may think proper [?]</p>
-                <p>"The new settlement will, of course, be [?] <lb/>ing to the laws in force in the
-                    colony.</p>
-                <p>"In conclusion, I beg to observe, that it [?] <lb/>persons taking out settlers to
-                    form their [?] <lb/>the amount of pecaniary[?] means with which [?] <lb/>be
-                    provided, in order to support the [?] <lb/>their directios, and ensure the
-                    success of [?]</p>
-                <p>"I am, Sir, your most obedient</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1819-08-16"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">Intended Colony at the Cape of <lb/>Good Hope.</hi> 
+         </p>
+         <p>The following official circular has been [?] <lb/>from the Colonial Department, in answer[?] to[?] ap-[?] <lb/>plications for information on the subject[?] <lb/>referred to:–</p>
+         <p>"Downing Street <lb/>"<hi rend="smallcaps">Sir</hi> –In reply to your letter of the [?] [?] <lb/>by Earl Bathurst to inform you, that as the [?] <lb/>inctly specifies the nature and extent of the [?] <lb/>will be granted to individuals who may be [?] <lb/>as settlers of the Cape of Good Hope [?] <lb/>tions under which alone that as instance [?} <lb/>is only necessary to refer you to those [?] <lb/>that no proposal can be accepted which is not [?] <lb/>formity with the offer of his Majesty's Governance.</p>
+         <p>"With reference to your particular [?] <lb/>mode in which the views of the settlers may [?] <lb/>I have to acquaint you, that it is not in Earl Bathurst [?] <lb/>to communicate to you that species of [?] <lb/>can most properly be afforded by the practical [?] <lb/>or obtained upon the spot.</p>
+         <p>"The settlers will be located in the [?] <lb/>not far from the coast ; and in allotting to them [?] <lb/>Government have agreed to grant[?] them [?] <lb/>their wishes will be consulted, and attended [?] <lb/>be consistent with the public interests of the [?].</p>
+         <p>"The settlers will be enabled to purchase [?] <lb/>[?] of agricultural implements in the [?] <lb/>although they are not debarred from taking [?] <lb/>derte supply of these articles as well as [?] <lb/>will find no difficulty in purchasing seed corn[?] [?].</p>
+         <p>"The settlers will not find habitations ready [?] <lb/>ception.</p>
+         <p>"The person under whose direction a [?] <lb/>ceed is at liberty to secure their services by [?] <lb/>ment into which they may think proper [?]</p>
+         <p>"The new settlement will, of course, be [?] <lb/>ing to the laws in force in the colony.</p>
+         <p>"In conclusion, I beg to observe, that it [?] <lb/>persons taking out settlers to form their [?] <lb/>the amount of pecaniary[?] means with which [?] <lb/>be provided, in order to support the [?] <lb/>their directios, and ensure the success of [?]</p>
+         <p>"I am, Sir, your most obedient</p>
+      </body>
+   </text>
+</TEI>

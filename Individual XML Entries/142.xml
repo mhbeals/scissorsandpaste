@@ -1,109 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>142</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>142</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1819-05-27"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">Emigration to America</hi>
-                </p>
-                <p>Important Extracts of a Letter from a very Intelligent and re<lb break="no"/>spectable Engineer in Louisville, dated January 20. 1819.</p>
-                <p>"The best time for coming to America I <lb/>should judge to be in the summer, to
-                    land in <lb/>September, so as to be able to get here before <lb/>the weather was
-                    too cold. It is safe to <lb/>settle in the beginning of winter or spring, so as
-                    <lb/>to inure to the climate by degrees. The best <lb/>plan for coming is to
-                    take a part of the steerage <lb/>of a vessel, and find your own provisions; you
-                    <lb/>will save more in this way, over a cabin passage, <lb/>than would buy a
-                    decent farm here. The lands <lb/>in this neighbourhood raise a crop of wheat and
-                    <lb/>one of corn alternately, and improve ; dung is <lb/>never applied, and is
-                    said to be hurtful. It is <lb/>without question what the land here is as good as
-                    <lb/>can be, and when to this is added the heat of <lb/>the summer, one ought to
-                    be able to raise crops <lb/>as heavy as they will stand. You wonder at 10
-                    <lb/>dollars being enough to clear an acre. It is not <lb/>cleared, all the
-                    trees under 12 inches are cut <lb/>down and burned on the ground, and the large
-                    <lb/>ones are killed by cutting round the bark. The <lb/>ground is then prepared
-                    for Indian corn by <lb/>scratching it with a hoe, or a kind of shuffle,
-                    <lb/>which, from the looseness and mellowness of the <lb/>soil, is easily done,
-                    and in this way sixty or <lb/>eighty bushels an acre are sometimes raised.
-                    – <lb/>the trees die in a few months, and in three or <lb/>four years
-                    fall down one by one, and the roots <lb/>will rot out in seven or eight years.
-                    It is a <lb/>great want of sense in any new settler not to <lb/>adopt the modes
-                    of this country, proven to be the <lb/>best adapted to the state of it by 200
-                    years ex<lb break="no"/>perience. The Americans, of all other people I <lb/>know
-                    of, are the most ingenious in adapting the <lb/>means to the end. I do not know
-                    if they have <lb/>more sense than other nations, but they certain<lb break="no"/>ly make it go farther. Every tools answers the <lb/>purpose most effectually.
-                    This is evident in their <lb/>axes. An American will cut down three times
-                    <lb/>more trees and square three times more timber <lb/>than the best of your
-                    wrights could do, and not <lb/>by more strength but by fitter tools. So it is
-                    <lb/>with cutting their grain ; a man will cut down <lb/>four acres of wheat in
-                    a day, what what he calls <lb/>a cradle scythe, and lay it as refular for
-                        bind<lb break="no"/>ing as reapers can do. Sixty bushels of Indian <lb/>corn
-                    is the average of Kentucky ; but 25 bushels <lb/>of wheat is about the average
-                    of an acre. It is <lb/>easier farming here than with you on sundry ac<lb break="no"/>counts ; the soil is free, few weeds make their <lb/>appearance,
-                    and when ploughed down are cer<lb break="no"/>tainly killed by the hot sun.
-                    There are no frosts <lb/>to injure the crop, and no wet weather to de<lb break="no"/>stroy it when cut. Hay is made in two days, <lb/>and grain is
-                    cut one day and stacked or housed <lb/>the next. From the shortness and mildness
-                    of <lb/>the winter, little provender is needed for the <lb/>stock. Swine are
-                    raised at no expence. They <lb/>breed and feed in the woods, and only want from
-                    <lb/>one to three bushels of corn to fatten for killing, <lb/>when they sell for
-                    five cents a lb. In the less <lb/>settled parts of the country, it is the
-                    practise to <lb/>give all the corn to swine and then send them to <lb/>market. A
-                    bushel of corn is equal in nutriment <lb/>to a bushel of wheat for man or
-                    beast.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1819-05-27"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">Emigration to America</hi> 
+         </p>
+         <p>Important Extracts of a Letter from a very Intelligent and re<lb break="no"/>spectable Engineer in Louisville, dated January 20. 1819.</p>
+         <p>"The best time for coming to America I <lb/>should judge to be in the summer, to land in <lb/>September, so as to be able to get here before <lb/>the weather was too cold. It is safe to <lb/>settle in the beginning of winter or spring, so as <lb/>to inure to the climate by degrees. The best <lb/>plan for coming is to take a part of the steerage <lb/>of a vessel, and find your own provisions; you <lb/>will save more in this way, over a cabin passage, <lb/>than would buy a decent farm here. The lands <lb/>in this neighbourhood raise a crop of wheat and <lb/>one of corn alternately, and improve ; dung is <lb/>never applied, and is said to be hurtful. It is <lb/>without question what the land here is as good as <lb/>can be, and when to this is added the heat of <lb/>the summer, one ought to be able to raise crops <lb/>as heavy as they will stand. You wonder at 10 <lb/>dollars being enough to clear an acre. It is not <lb/>cleared, all the trees under 12 inches are cut <lb/>down and burned on the ground, and the large <lb/>ones are killed by cutting round the bark. The <lb/>ground is then prepared for Indian corn by <lb/>scratching it with a hoe, or a kind of shuffle, <lb/>which, from the looseness and mellowness of the <lb/>soil, is easily done, and in this way sixty or <lb/>eighty bushels an acre are sometimes raised. – <lb/>the trees die in a few months, and in three or <lb/>four years fall down one by one, and the roots <lb/>will rot out in seven or eight years. It is a <lb/>great want of sense in any new settler not to <lb/>adopt the modes of this country, proven to be the <lb/>best adapted to the state of it by 200 years ex<lb break="no"/>perience. The Americans, of all other people I <lb/>know of, are the most ingenious in adapting the <lb/>means to the end. I do not know if they have <lb/>more sense than other nations, but they certain<lb break="no"/>ly make it go farther. Every tools answers the <lb/>purpose most effectually. This is evident in their <lb/>axes. An American will cut down three times <lb/>more trees and square three times more timber <lb/>than the best of your wrights could do, and not <lb/>by more strength but by fitter tools. So it is <lb/>with cutting their grain ; a man will cut down <lb/>four acres of wheat in a day, what what he calls <lb/>a cradle scythe, and lay it as refular for bind<lb break="no"/>ing as reapers can do. Sixty bushels of Indian <lb/>corn is the average of Kentucky ; but 25 bushels <lb/>of wheat is about the average of an acre. It is <lb/>easier farming here than with you on sundry ac<lb break="no"/>counts ; the soil is free, few weeds make their <lb/>appearance, and when ploughed down are cer<lb break="no"/>tainly killed by the hot sun. There are no frosts <lb/>to injure the crop, and no wet weather to de<lb break="no"/>stroy it when cut. Hay is made in two days, <lb/>and grain is cut one day and stacked or housed <lb/>the next. From the shortness and mildness of <lb/>the winter, little provender is needed for the <lb/>stock. Swine are raised at no expence. They <lb/>breed and feed in the woods, and only want from <lb/>one to three bushels of corn to fatten for killing, <lb/>when they sell for five cents a lb. In the less <lb/>settled parts of the country, it is the practise to <lb/>give all the corn to swine and then send them to <lb/>market. A bushel of corn is equal in nutriment <lb/>to a bushel of wheat for man or beast.</p>
+      </body>
+   </text>
+</TEI>

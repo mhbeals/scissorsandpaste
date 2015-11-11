@@ -1,100 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>118</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>118</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1816-07-08"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>census</item>
-                            <item>slavery</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1816-07-08"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>census</item>
+                  <item>slavery</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
             <hi rend="smallcaps">Colonial Population</hi>.</p>
-                <p>We lay before our readers the following ex<lb break="no"/>tracts from the latest
-                    official returns of populat<lb break="no"/>tion ordered to be printed by the
-                    House of Com<lb break="no"/>mons, July 12. 1815.</p>
-                <p>Governor Baines, of Dominica, reports, that <lb/>on the 19th February 1811, there
-                    were on the <lb/>island – <lb/>Slaves . . . . . . 21,783 <lb/>Whites . .
-                    . . . . 1,325 <lb/>Free persons of colour . . 2,988</p>
-                <p>Governor Bentinck, of Demerare, states the <lb/>population of this island to be
-                    – <lb/>Slaves . . . . . . 71,180 <lb/>Whites . . . . . . 2,871 <lb/>Free
-                    coloured . . . . 2,980</p>
-                <p>In the island of New Providence, one of the <lb/>Bahama islands, the population
-                    was, December <lb/>13. 1810 – <lb/>Whites . . . . . . 1,720 <lb/>Free
-                    Blacks . . . . . 565 <lb/>Free coloured . . . . . 509 <lb/>Black Slaves . . . .
-                    . 3,044 <lb/>Coloured Slaves . . . . 146 <lb/>Foreigners . . . . . 700
-                    <lb/>Grand Total . 6084</p>
-                <p>St Vincent island contains – <lb/>Whites . . . . . . . 827 <lb/>Free
-                    coloured . . . . 646 <lb/>Slaves . . . . . . . 22,020</p>
-                <p>The Grenadines contain – <lb/>Whites . . . . . . . 226 <lb/>Free coloured
-                    . . . . . 76 <lb/>Slaves . . . . . . . 2,000</p>
-                <p>Berumda contains – <lb/>Slaves . . . . . . . 4,794 <lb/>Whites . . . . . .
-                    . 4,755</p>
-                <p>Surinam contains – <lb/>Whites . . 2,029 <lb/>Free Coloured and Black
-                    3,075 <lb/>Slaves . . . 51,957</p>
-                <p>Curacoa contains – <lb/>Whites . . 2,781 <lb/>Free Coloured . . 2,161
-                    <lb/>Free Blacks . . 1,878 <lb/>Slaves Coloured . . 690 <lb/>Slaves Black . .
-                    5,336</p>
-                <p>Grenada contains – <lb/>Slaves . . . 29391 <lb/>Whites . . 771 <lb/>Free
-                    coloured . . 1,120</p>
-                <p>Martinique contains – <lb/>Slaves . . 77,977 <lb/>Whites . . . 9,206
-                    <lb/>Free Coloured . . 8,630</p>
-                <p>The births in this island in 1810 were – <lb/>Whites . . . 71 <lb/>Slaves
-                    . . 1,250 <lb/>Free Coloured . . 80</p>
-                <p>Berbice contains – <lb/>Whites . . . . 550 <lb/>Coloured . . 240
-                    <lb/>Blacks . . . 25,169</p>
-                <p>The slave popultion of Barbadoes exceeds <lb/>69,000 ; that of Jamaica, 319,912 ;
-                    and of An<lb break="no"/>tigua, in 1810, 30,568.</p>
-            </body>
-        </text>
-    </TEI>
+         <p>We lay before our readers the following ex<lb break="no"/>tracts from the latest official returns of populat<lb break="no"/>tion ordered to be printed by the House of Com<lb break="no"/>mons, July 12. 1815.</p>
+         <p>Governor Baines, of Dominica, reports, that <lb/>on the 19th February 1811, there were on the <lb/>island – <lb/>Slaves . . . . . . 21,783 <lb/>Whites . . . . . . 1,325 <lb/>Free persons of colour . . 2,988</p>
+         <p>Governor Bentinck, of Demerare, states the <lb/>population of this island to be – <lb/>Slaves . . . . . . 71,180 <lb/>Whites . . . . . . 2,871 <lb/>Free coloured . . . . 2,980</p>
+         <p>In the island of New Providence, one of the <lb/>Bahama islands, the population was, December <lb/>13. 1810 – <lb/>Whites . . . . . . 1,720 <lb/>Free Blacks . . . . . 565 <lb/>Free coloured . . . . . 509 <lb/>Black Slaves . . . . . 3,044 <lb/>Coloured Slaves . . . . 146 <lb/>Foreigners . . . . . 700 <lb/>Grand Total . 6084</p>
+         <p>St Vincent island contains – <lb/>Whites . . . . . . . 827 <lb/>Free coloured . . . . 646 <lb/>Slaves . . . . . . . 22,020</p>
+         <p>The Grenadines contain – <lb/>Whites . . . . . . . 226 <lb/>Free coloured . . . . . 76 <lb/>Slaves . . . . . . . 2,000</p>
+         <p>Berumda contains – <lb/>Slaves . . . . . . . 4,794 <lb/>Whites . . . . . . . 4,755</p>
+         <p>Surinam contains – <lb/>Whites . . 2,029 <lb/>Free Coloured and Black 3,075 <lb/>Slaves . . . 51,957</p>
+         <p>Curacoa contains – <lb/>Whites . . 2,781 <lb/>Free Coloured . . 2,161 <lb/>Free Blacks . . 1,878 <lb/>Slaves Coloured . . 690 <lb/>Slaves Black . . 5,336</p>
+         <p>Grenada contains – <lb/>Slaves . . . 29391 <lb/>Whites . . 771 <lb/>Free coloured . . 1,120</p>
+         <p>Martinique contains – <lb/>Slaves . . 77,977 <lb/>Whites . . . 9,206 <lb/>Free Coloured . . 8,630</p>
+         <p>The births in this island in 1810 were – <lb/>Whites . . . 71 <lb/>Slaves . . 1,250 <lb/>Free Coloured . . 80</p>
+         <p>Berbice contains – <lb/>Whites . . . . 550 <lb/>Coloured . . 240 <lb/>Blacks . . . 25,169</p>
+         <p>The slave popultion of Barbadoes exceeds <lb/>69,000 ; that of Jamaica, 319,912 ; and of An<lb break="no"/>tigua, in 1810, 30,568.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,76 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>219</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>219</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1831-06-29"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>agriculture</item>
-                            <item>trade</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1831-06-29"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>agriculture</item>
+                  <item>trade</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="italic">The Wool Trade.–London, Thursday
-                        Night.–</hi>
-                    <lb/>This afternoon the first sale of wools for a long time <lb/>past took place
-                    at Garraway's Coffee-house. The <lb/>quantity announced for sale to-day was
-                    nearly 200 bales, <lb/>consisting of about 100 bales of New South Wales
-                    <lb/>wool, 50 bales of Van Dieman's Land wools, &amp;c. The <lb/>New South Wales
-                    wool was first put up and went off <lb/>very briskly at prices averaging from 1s
-                    4 1/2d to 1s 10d <lb/>per lb., which quotations are higher than those last
-                    <lb/>obtained. The Van Dieman's Land wools were sold <lb/>by order of the Van
-                    Dieman's Land Company, being <lb/>a portion of the last arrivals from the
-                    Company's flocks. <lb/>They met a very ready sale, and the average prices ob<lb break="no"/>tained were from 1s 5d to 2s 1d per lb. The arrivals <lb/>from
-                    Germany and other places this year are expected <lb/>to be very great.</p>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="italic">The Wool Trade.–London, Thursday Night.– </hi>
+            <lb/>This afternoon the first sale of wools for a long time <lb/>past took place at Garraway's Coffee-house. The <lb/>quantity announced for sale to-day was nearly 200 bales, <lb/>consisting of about 100 bales of New South Wales <lb/>wool, 50 bales of Van Dieman's Land wools, &amp;c. The <lb/>New South Wales wool was first put up and went off <lb/>very briskly at prices averaging from 1s 4 1/2d to 1s 10d <lb/>per lb., which quotations are higher than those last <lb/>obtained. The Van Dieman's Land wools were sold <lb/>by order of the Van Dieman's Land Company, being <lb/>a portion of the last arrivals from the Company's flocks. <lb/>They met a very ready sale, and the average prices ob<lb break="no"/>tained were from 1s 5d to 2s 1d per lb. The arrivals <lb/>from Germany and other places this year are expected <lb/>to be very great.</p>
+      </body>
+   </text>
+</TEI>

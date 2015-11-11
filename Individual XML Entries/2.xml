@@ -1,75 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>2</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>2</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-01-05"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="plagiarism"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>trade</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="center">
-                        <hi rend="italic">From the </hi>
-                        <hi rend="smallcaps">Jamaica Royal Gazette. </hi>
+                  </pubPlace>
+                  <date when="1789-01-05"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="plagiarism"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>trade</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="center">
+               <hi rend="italic">From the </hi>
+               <hi rend="smallcaps">Jamaica Royal Gazette. </hi>
                <lb/>
-               <hi rend="italic">Kingston, Sept.</hi> 27</hi>
-                </p>
-                <p>The ship Nestor, belonging to Glasgow, seiz<lb break="no"/>ed several months ago
-                    by the officers of his Ma<lb break="no"/>jesty's customs at this port, for not
-                    being pro<lb break="no"/>
-            <lb/>vided with a register according to Act of Parlia<lb break="no"/>ment, was
-                    condemned at a Court of Vice Admi<lb break="no"/>ralty held in Spanish Town on
-                    Friday, last week. <lb/>She was sold for 1500L."</p>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="italic">Kingston, Sept.</hi>  27</hi> 
+         </p>
+         <p>The ship Nestor, belonging to Glasgow, seiz<lb break="no"/>ed several months ago by the officers of his Ma<lb break="no"/>jesty's customs at this port, for not being pro<lb break="no"/> 
+            <lb/>vided with a register according to Act of Parlia<lb break="no"/>ment, was condemned at a Court of Vice Admi<lb break="no"/>ralty held in Spanish Town on Friday, last week. <lb/>She was sold for 1500L."</p>
+      </body>
+   </text>
+</TEI>

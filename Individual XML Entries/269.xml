@@ -1,80 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>269</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>269</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1837-07-09"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>shipping news</item>
-                            <item>land speculation</item>
-                            <item>emigration</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1837-07-09"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>shipping news</item>
+                  <item>land speculation</item>
+                  <item>emigration</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="smallcaps">Highland Emigrants.</hi>–The ship " Midlo<lb break="no"/>thian" has just been fitted up at Leith for the reception
-                    <lb/>of Highland emigrants, which she is to take in at the <lb/>Isle of Skye for
-                    Sydney, New South Wales. These <lb/>emigrants are, we believw, to be carried out
-                    at a very <lb/>small cost to themselves, the largest portion of the <lb/>passage
-                    money being paid by Government out of the <lb/>land revenue of New South Wales,
-                    which is exclusive<lb break="no"/>ly appropriated towards the encouragement and
-                        promo<lb break="no"/>tion of emigration–the objects in view being, as
-                    well <lb/>the relief of those districts in this country which <lb/>are suffering
-                    from the want of employment and <lb/>subsistence, as by the introduction into
-                    that colony of <lb/>a body of well disposed and virtuous free emigrant fami<lb break="no"/>lies and individuals, the promotion of the moral welfare <lb/>of
-                    the colonists generally. The emigrants will, we be<lb break="no"/>lieve, receive
-                    employment in New South Wales as <lb/>farm-servants, shepherds, overseers,
-                    &amp;c. We had a <lb/>brief inspection of the " Midlothian" on Monday af<lb break="no"/>ternoon, and found it to be a very fine vessel, fitted <lb/>up
-                    in a manner the most comfortable and convenient <lb/>that could well be
-                    effected. She sails this afternoon <lb/>from Leith to the Isle of Skye.</p>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="smallcaps">Highland Emigrants.</hi> –The ship " Midlo<lb break="no"/>thian" has just been fitted up at Leith for the reception <lb/>of Highland emigrants, which she is to take in at the <lb/>Isle of Skye for Sydney, New South Wales. These <lb/>emigrants are, we believw, to be carried out at a very <lb/>small cost to themselves, the largest portion of the <lb/>passage money being paid by Government out of the <lb/>land revenue of New South Wales, which is exclusive<lb break="no"/>ly appropriated towards the encouragement and promo<lb break="no"/>tion of emigration–the objects in view being, as well <lb/>the relief of those districts in this country which <lb/>are suffering from the want of employment and <lb/>subsistence, as by the introduction into that colony of <lb/>a body of well disposed and virtuous free emigrant fami<lb break="no"/>lies and individuals, the promotion of the moral welfare <lb/>of the colonists generally. The emigrants will, we be<lb break="no"/>lieve, receive employment in New South Wales as <lb/>farm-servants, shepherds, overseers, &amp;c. We had a <lb/>brief inspection of the " Midlothian" on Monday af<lb break="no"/>ternoon, and found it to be a very fine vessel, fitted <lb/>up in a manner the most comfortable and convenient <lb/>that could well be effected. She sails this afternoon <lb/>from Leith to the Isle of Skye.</p>
+      </body>
+   </text>
+</TEI>

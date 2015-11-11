@@ -1,83 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>40</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>40</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-12-14"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>slavery</item>
-                            <item>slave rebellion</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb n="4"/>
-                    <hi rend="center">
+                  </pubPlace>
+                  <date when="1789-12-14"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>slavery</item>
+                  <item>slave rebellion</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="4"/>
+            <hi rend="center">
                <hi rend="italic">Extract of a letter from Dominica, Sept.
-                        </hi> 6.</hi>
-                </p>
-                <p>"This day week the most diabolical design that <lb/>that ever was formed, was
-                    discovered in Martinico : It <lb/>was an insurrection of the negroes, who were
-                    that <lb/>night to have set fire to the large and beautiful <lb/>town of St.
-                    Pierre ; while the white people were <lb/>all in confusion, and striving to
-                    escape the flames, <lb/>they were to be butchered indiscriminately, man
-                    <lb/>woman, and child.–The combustibles were laid <lb/>in upwards of 100
-                    houses, consisting of hemp dip<lb break="no"/>ped in turpentine. The plot was
-                    not discovered <lb/>till five o'clock in the evening, when a negro be<lb break="no"/>longing to an old lady, stung with remorse on <lb/>thinking that
-                    he must murder the woman who <lb/>brought him up form a child, disclosed it to
-                    her. <lb/>The Troops being thereupon assembled, 40 of the <lb/>negroes were
-                    taken, armed with a hanger and a <lb/>long knife, the insturments which were in
-                    a few <lb/>hours to have put a period to the existence of up<lb break="no"/>wards of 5000 people. All the inhabitants have <lb/>been under arms ever
-                    since, as they are afraid the <lb/>negroes will attemp to release the 40 who are
-                    in <lb/>gaol."</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+</hi>  6.</hi> 
+         </p>
+         <p>"This day week the most diabolical design that <lb/>that ever was formed, was discovered in Martinico : It <lb/>was an insurrection of the negroes, who were that <lb/>night to have set fire to the large and beautiful <lb/>town of St. Pierre ; while the white people were <lb/>all in confusion, and striving to escape the flames, <lb/>they were to be butchered indiscriminately, man <lb/>woman, and child.–The combustibles were laid <lb/>in upwards of 100 houses, consisting of hemp dip<lb break="no"/>ped in turpentine. The plot was not discovered <lb/>till five o'clock in the evening, when a negro be<lb break="no"/>longing to an old lady, stung with remorse on <lb/>thinking that he must murder the woman who <lb/>brought him up form a child, disclosed it to her. <lb/>The Troops being thereupon assembled, 40 of the <lb/>negroes were taken, armed with a hanger and a <lb/>long knife, the insturments which were in a few <lb/>hours to have put a period to the existence of up<lb break="no"/>wards of 5000 people. All the inhabitants have <lb/>been under arms ever since, as they are afraid the <lb/>negroes will attemp to release the 40 who are in <lb/>gaol."</p>
+      </body>
+   </text>
+</TEI>

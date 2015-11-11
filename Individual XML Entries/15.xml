@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>15</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>15</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-08-03"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>trade</item>
-                            <item>prices</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-            <pb n="3"/> From Quebec, June 10, we are informed, Ca<lb break="no"/>nada is at
-                    present greatly distressed; provisions <lb/>extremely dear ; beef, if good for
-                    any thing, 5[?] <lb/>per pound ; mutton, 7–d. butter, 15d. The
-                    <lb/>parishes in the upper country, about Niagara <lb/>and Montreal, have been
-                    without bread for four <lb/>months.</p>
-                <p>There are orders now in town for as many <lb/>goods for Quebec as will load ten
-                    ships; the <lb/>trade being so exceedingly brisk, and the people <lb/>giving the
-                    preference to European goods.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1789-08-03"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>trade</item>
+                  <item>prices</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="3"/> From Quebec, June 10, we are informed, Ca<lb break="no"/>nada is at present greatly distressed; provisions <lb/>extremely dear ; beef, if good for any thing, 5[?] <lb/>per pound ; mutton, 7–d. butter, 15d. The <lb/>parishes in the upper country, about Niagara <lb/>and Montreal, have been without bread for four <lb/>months.</p>
+         <p>There are orders now in town for as many <lb/>goods for Quebec as will load ten ships; the <lb/>trade being so exceedingly brisk, and the people <lb/>giving the preference to European goods.</p>
+      </body>
+   </text>
+</TEI>

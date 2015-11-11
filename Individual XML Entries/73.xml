@@ -1,102 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>73</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on 20130513 by <persName role="collection">M. H. Beals.</persName> Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitsed image available from
-                                Google News Archive</authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>73</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on 20130513 by<persName role="collection">M. H. Beals.</persName> Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1790-11-19"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="entertain"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>bequests</item>
-                            <item>charity</item>
-                            <item>religion</item>
-                            <item>Native Americans</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb n="2"/>
-                    <hi rend="smallcaps">Court of Chancery.</hi>
-                    <lb/>
+                  </pubPlace>
+                  <date when="1790-11-19"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="entertain"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>bequests</item>
+                  <item>charity</item>
+                  <item>religion</item>
+                  <item>Native Americans</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="2"/>
+            <hi rend="smallcaps">Court of Chancery. </hi>
+            <lb/>
             <hi rend="center">
-               <hi rend="italic">The</hi>
-               <hi rend="smallcaps">King</hi>, <hi rend="italic">at the relation of the</hi>
-               <hi rend="smallcaps">Bishop</hi>
-               <hi rend="italic">of</hi>
-               <hi rend="smallcaps">Lon<lb break="no"/>don</hi>, <hi rend="italic">versus</hi>
-               <hi rend="smallcaps">Anderson</hi>
-               <hi rend="italic">and</hi>
-               <hi rend="smallcaps">Gipps</hi>.</hi>
-                </p>
-                <p>On the 18th of June, 1692, the Hon. Mr. <lb/>Boyle left by will the sum of 5400l.
-                    to be laid <lb/>out in lands in Yorkshire, out of the rents of which <lb/>the
-                    sum of 90l. was to be paid annually to the <lb/>College of William and Mary, in
-                    New England, <lb/>to be applied for the purpose of propagating the
-                    <lb/>Christian religion amongst the Indians in the back <lb/>settlements in
-                    North America ; and likewise a <lb/>further sum of 45l. to be paid to the same
-                    College, <lb/>for the support of two missionaries to preach the <lb/>gospel. The
-                    city of London were left trustees, <lb/>and the management under the trust was,
-                    by the <lb/>will, committed to the care of the Bishop of Lon<lb break="no"/>don.
-                    The present Bishop instituted this suit, in <lb/>which the city, and a great
-                    number of other per<lb break="no"/>sons, were parties, for the single, and
-                    indeed novel <lb/>purpose of knowing, whether (as the teststor had
-                    <lb/>originally devised the several sums <hi rend="italic">for the use of</hi>
-                    <lb/>
-            <hi rend="italic">British subjects,</hi> and the Americans having ceased
-                    <lb/>to be in that situations <hi rend="italic">since</hi> their independence),
-                    <lb/>the annuity ought not to revert to this kingdom, <lb/>or to some other of
-                    his Majesty's colonies, to be <lb/>applied to similar purposes. This being the
-                    first <lb/>determination of that nature since the American <lb/>Revolution, the
-                    Lord Chancellor decided it with <lb/>that superior dignity of sentiment that
-                    always at<lb break="no"/>tends his decrees. Two phrases are sufficient–
-                    <lb/>"all charitable devices are to be held sacred– <lb/>we cannot rake
-                    up the ashes of the dead, in search <lb/>of latent intentions. The annuities and
-                    arrears <lb/>must be paid, and Messrs. Anderson and Gipps, <lb/>and likewise the
-                    city of London, must be paid <lb/>their costs." </p>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="italic">The </hi>
+               <hi rend="smallcaps">King</hi> ,<hi rend="italic">at the relation of the </hi>
+               <hi rend="smallcaps">Bishop </hi>
+               <hi rend="italic">of </hi>
+               <hi rend="smallcaps">Lon<lb break="no"/>don</hi> ,<hi rend="italic">versus </hi>
+               <hi rend="smallcaps">Anderson </hi>
+               <hi rend="italic">and </hi>
+               <hi rend="smallcaps">Gipps</hi> .</hi> 
+         </p>
+         <p>On the 18th of June, 1692, the Hon. Mr. <lb/>Boyle left by will the sum of 5400l. to be laid <lb/>out in lands in Yorkshire, out of the rents of which <lb/>the sum of 90l. was to be paid annually to the <lb/>College of William and Mary, in New England, <lb/>to be applied for the purpose of propagating the <lb/>Christian religion amongst the Indians in the back <lb/>settlements in North America ; and likewise a <lb/>further sum of 45l. to be paid to the same College, <lb/>for the support of two missionaries to preach the <lb/>gospel. The city of London were left trustees, <lb/>and the management under the trust was, by the <lb/>will, committed to the care of the Bishop of Lon<lb break="no"/>don. The present Bishop instituted this suit, in <lb/>which the city, and a great number of other per<lb break="no"/>sons, were parties, for the single, and indeed novel <lb/>purpose of knowing, whether (as the teststor had <lb/>originally devised the several sums<hi rend="italic">for the use of </hi>
+            <lb/>
+            <hi rend="italic">British subjects,</hi>  and the Americans having ceased <lb/>to be in that situations<hi rend="italic">since</hi>  their independence), <lb/>the annuity ought not to revert to this kingdom, <lb/>or to some other of his Majesty's colonies, to be <lb/>applied to similar purposes. This being the first <lb/>determination of that nature since the American <lb/>Revolution, the Lord Chancellor decided it with <lb/>that superior dignity of sentiment that always at<lb break="no"/>tends his decrees. Two phrases are sufficient– <lb/>"all charitable devices are to be held sacred– <lb/>we cannot rake up the ashes of the dead, in search <lb/>of latent intentions. The annuities and arrears <lb/>must be paid, and Messrs. Anderson and Gipps, <lb/>and likewise the city of London, must be paid <lb/>their costs."</p>
+      </body>
+   </text>
+</TEI>

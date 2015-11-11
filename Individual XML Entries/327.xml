@@ -1,223 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>327</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141012 by
-                            <persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H.
-                        Beals</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>327</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141012 by
+<persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
                </persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitsed image available from
-                                Google News Archive</authority>
-                            <pubPlace>
-                                <address>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1791-02-07"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>trade</item>
-                            <item>taxation</item>
-                            <item>war</item>
-                            <item>Native Americans</item>
-                            <item>agriculture</item>
-                            <item>colonial government</item>
-                            <item>foreign relations</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb n="2"/>
-                    <hi rend="center">CONGRESS.</hi>
-                    <lb/>
+                  </pubPlace>
+                  <date when="1791-02-07"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>trade</item>
+                  <item>taxation</item>
+                  <item>war</item>
+                  <item>Native Americans</item>
+                  <item>agriculture</item>
+                  <item>colonial government</item>
+                  <item>foreign relations</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="2"/>
+            <hi rend="center">CONGRESS. </hi>
+            <lb/>
             <hi rend="center">
-               <hi rend="italic">Wednesday, Dec.</hi> 8.</hi>
-                </p>
-                <p>
-                    <hi rend="center">
-                        <hi rend="italic">The SPEECH of</hi>
-                        <hi rend="smallcaps"> George Washington</hi>
-                        <hi rend="italic">, Esq;</hi>
-                    </hi>
-                    <lb/>
+               <hi rend="italic">Wednesday, Dec.</hi>  8.</hi> 
+         </p>
+         <p>
             <hi rend="center">
-                        <hi rend="italic">President of the Congress, on <supplied reason="copy blur">??? the ???</supplied>
-               </hi>
-                    </hi>
-                </p>
-                <p>
-                    <hi rend="italic">Fellow Citizens of the Senate, and</hi>
-                    <lb/>
-            <hi rend="italic">House of Representatives,</hi>
-                </p>
-                <p>
-            <hi rend="enlarged-capital">I</hi>N meeting you again, I feel much satisfac<lb break="no"/>
-                    <lb/>tion on being able to repeat my congratulations <lb/>on the favourable
-                    prospects which continue to di<lb break="no"/>tinguish our public affairs. The
-                    abundant fruits <lb/>of another year have blessed our country with plen<lb break="no"/>ty, and with the means of flourishing commerce. <lb/>The
-                    progress of the public credit is witnessed by <lb/>a considerable rise of
-                    American stock abroad, as <lb/>well as at home; and the revenues allotted for
-                    <lb/>this and other national purposes, have been pro<lb break="no"/>ductive
-                    beyond the calculation by which they were <lb/>regulated. This latter
-                    circumstance is the more <lb/>pleasing, as it is not only a proof the fertility
-                    of <lb/>our resources, but as it assures us of a further in<lb break="no"/>crease of the national respectability and credit; <lb/>and let me add, as it
-                    bears an honourable testi<lb break="no"/>mony to the patriotism and integrity of
-                    the ma<lb break="no"/>rine part of our citizens. The punctuality of the
-                    <lb/>former in discharging their engagements has <lb/>been exemplary.</p>
-                <p>"In conforming to the power vested in me <lb/>by acts of the last session, a loan
-                    of 3,000,,000 of <lb/>florins, towards which some provisional measures <lb/>had
-                    previously taken place, has been completed <lb/>in Holland.–As well the
-                        <supplied reason="copy blur">exchange</supplied> with which it <lb/>has been
-                    filled, as the nature of the terms (consi<lb break="no"/>dering the more than
-                    ordinary demand for bor<lb break="no"/>rowing, created by the situation of
-                    Europe) give <lb/>a reasonable hope that the further execution of <lb/>those
-                    powers, may proceed with advantage and <lb/>success. The secretary of the
-                    treasure has my <lb/>direction to communicate such further particu<lb break="no"/>lars as may be requisite for more precise infor<lb break="no"/>mation.</p>
-                <p>"Since your last sessions, I have received commu<lb break="no"/>nication, by
-                    which it appears, that the district <lb/>of Kentucke, at present a part of
-                    Virginia, has <lb/>concurred in certain propositions contained in a law of that
-                    state, in consequence of which the dis<lb break="no"/>trict is to become a
-                    distinct number of the Uni<lb break="no"/>on; in case the requisite sanction of
-                    Congress be <lb/>added. For this sanction application is now made. <lb/>I shall
-                    cause the papers on this very important <lb/>transaction to be laid before you.
-                    The liberality <lb/>and harmony with which it has been conducted, <lb/>will be
-                    found to do great honour to both the par<lb break="no"/>
-            <cb/>
-                    <lb/>ties; and the sentiments of warm attachment of <lb/>the Union and its
-                    present Government, expres<lb break="no"/>sed by our fellow-citizens of
-                    Kentucke, cannot <lb/>fail to add an affectionate concern for their par<lb break="no"/>ticular welfare, to the great national impressions <lb/>under
-                    which you will declare on the case sub<lb break="no"/>mitted to you.</p>
-                <p>"It has been heretofore known to Congress <lb/>that frequent incursions have been
-                    made on our <lb/>frontier settlements by certain banditti of Indians <lb/>from
-                    the north west side of the Ohio. These, <lb/>with some of the tribes dwelling on
-                    and near the <lb/>Wabash, have of late been particularly active in <lb/>their
-                    depredations; and, being emboldened by <lb/>the impunity of their crimes, and
-                    aided by such <lb/>parts of the neighbouring tribes as could be se<lb break="no"/>duced to join in their hostilities, or afford them <lb/>a retreat for their
-                    prisoners, and plunder, they <lb/>have, instead of listening to the humane
-                        invitati<lb break="no"/>ons and overtures made on the part of the Unit<lb break="no"/>ed States, renewed their violence with fresh ala<lb break="no"/>crity and greater effect–The lives of a number of <lb/>valuable
-                    citizens have thus been sacrificed, and <lb/>some of them under circumstances
-                    peculiarly <lb/>shocking, whilst others have been carried into a <lb/>deplorable
-                    captivity.</p>
-                <p>"These aggravated provocations rendered it es<lb break="no"/>sential to the
-                    safety of the western settlements, <lb/>that the aggressors should be made
-                    sensible that the <lb/>government of the Union is not less capable of
-                    <lb/>punishing their crimes, than it is disposed to <lb/>respect their rights
-                    and rewards their attachments. <lb/>As this object could not be effected by
-                    defensive <lb/>measures, it became necessary to put in force the <lb/>act which
-                    empowers the President to call out the <lb/>militia for the protection of the
-                    frontiers; and <lb/>I have accordingly authorised an expedition, in <lb/>which
-                    the regular troops in that quarter are com<lb break="no"/>bined with such drafts
-                    of militia as were sufficient. <lb/>The event of the measure is yet unknown to
-                    me, <lb/>The Secretary at War is directed to lay before <lb/>you a statement of
-                    the information on which it <lb/>is founded, as well as an estimate of the
-                    expence <lb/>with which it will be attended.</p>
-                <p>The disturbed situation of Europe, and parti<lb break="no"/>cularly the critical
-                    posture of the great maritime <lb/>powers, whilst it ought to make us more
-                        thank<lb break="no"/>ful for the general peace and security enjoyed by
-                    <lb/>the United States, reminds us at the same time <lb/>of the circumspection
-                    with which it becomes us <lb/>to preserve these blessings. It requires also that
-                    <lb/>we should not overlook the tendency of a war, <lb/>and even of preparations
-                    for war among the na<lb break="no"/>tions most concerned in active commerce with
-                    <lb/>this country, to abridge in means, and there <lb/>by enhance the prince of
-                    transporting its valuable <lb/>productions to their proper markets. I recom<lb break="no"/>mend it to your serious reflections, how far and <lb/>in what
-                    mode it may be expedient to guard a<lb break="no"/>gainst embarrassments from
-                    these contingencies, <lb/>by such encouragements to ur own navigation <lb/>as
-                    will render our commerce andagriculture less <lb/>dependant of foreign bottoms,
-                    which may fail us <lb/>in the moments most interesting to both of these
-                    <lb/>great objects. Our fisheries and the transporta<lb break="no"/>tion of our
-                    own produce, offers us abundant means <lb/>for guarding ourselves against this
-                    evil.</p>
-                <p>"Your attention seems to be not less due to <lb/>that particular branch of our
-                    trade which belongs <lb/>to the Mediterranean. So many circumstances <lb/>unite
-                    in rendering the present state of it destres<lb break="no"/>ful to us, that you
-                    will not think any deliberations <lb/>misemployed which may lead to its relief
-                    and <lb/>protection.</p>
-                <p>"The laws you have already passed for the esta<lb break="no"/>blishment of a
-                    judiciary system, have opened the <lb/>doors of justice to all descriptions of
-                    persons. <lb/>You will consider in your wisdom, whether im<lb break="no"/>provement of a judicatory system, have opened <lb/>the doors of justice to all
-                    descriptions of person. <lb/>Yu will consider in your wisdom, whether im<lb break="no"/>
-            <pb n="3"/> provements in that system may yet be made, and
-                    <lb/>particularly whether <supplied reason="copy blur">??? ???</supplied>process
-                    of exe<lb break="no"/>cution on sentences issuing from the Federal <lb/>Courts,
-                    be not desirable through all the States.</p>
-                <p>"The patronage of our commerce, of our <lb/>merchants and seamen, has called for
-                    the appoint<lb break="no"/>ment of Consuls in foreign countries. It seems
-                    <lb/>expedient to regulate by law the exercise of that <lb/>jurisdiction and
-                    those functions which are permit<lb break="no"/>ted them, either by express
-                    convention, or by a <lb/>friendly indulgence in the places of their residence.
-                    <lb/>The Consular Convention too, with his most <lb/>Christian Majesty, has
-                    stipulated in certain cases, <lb/>the aid of the National authority to his
-                    Consuls <lb/>established here. Some legislative provision is re<lb break="no"/>quisite to carry these stipulations into full effect.</p>
-                <p>"The establishment of the Militia, of a Mint, <lb/>of Standards of Weights and
-                    Measures, of the <lb/>Post Office and Post Roads, are subjects which <lb/>(I
-                    presume) you will resume of course, and which <lb/>are abundantly urged by their
-                    own importance.</p>
-                <p>"<hi rend="italic">Gentlemen of the House of Representatives</hi>, <lb/>"The
-                    sufficiency of the revenues you have es<lb break="no"/>tablished for the objects
-                    to which they are appro<lb break="no"/>priated, leaves no doubt that the
-                    residuary provi<lb break="no"/>sions will be commensurate to the other objects
-                    <lb/>for which the public faith stands now pledged. <lb/>Allow me moreover to
-                    hope, that it will be a <lb/>favourite policy with you, not merely to secure a
-                    <lb/>payment of the interest of the debt founded, but <lb/>as far and as fast as
-                    the growing resources of the <lb/>country will permit, to exonerate it of the
-                        prin<lb break="no"/>cipal itself. The appropriation you have made <lb/>of
-                    the western lands explain your dispositions on <lb/>this subject, and I am
-                    persuaded the sooner that <lb/>valuable fund can be made to contribute, along
-                    <lb/>with other means, to the actual reduction of the <lb/>public debt, the more
-                    salutary will the measure <lb/>be toe very public interest, as well as be more
-                    <lb/>satisfactory to our constituents.</p>
-                <p>"<hi rend="italic">Gentlemen of the Senate, and House of Re<lb break="no"/>presentatives</hi>,</p>
-                <p>"In perusing the various and weighty busi<lb break="no"/>ness of the present
-                    session, I indulge the fullest <lb/>persuasion that your consultations will be
-                    equally <lb/>marked with wisdom, and animated by the love <lb/>of your country.
-                    In whatever belongs to my <lb/>duty, you shall have all the co-operation which
-                    <lb/>an undiminished zeal for welfare can inspire. It <lb/>will be happy for us
-                    both, and our best reward, <lb/>if by a successful administration of our
-                    respective <lb/>trusts, we can make the established government <lb/>more and
-                    more instrumental in promoting the <lb/>good of our fellow citizens, and more
-                    and more <lb/>the object of their attachment and confidence. <lb/>
-            <hi rend="center">(Signed) GEORGE WASHINGTON."</hi>
-                    <lb/>
-            <hi rend="italic">United States, Dec</hi>. 8 1790.</p>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="italic">The SPEECH of </hi>
+               <hi rend="smallcaps"> George Washington </hi>
+               <hi rend="italic">, Esq;</hi> 
+            </hi>
+            <lb/>
+            <hi rend="center">
+               <hi rend="italic">President of the Congress, on<supplied reason="copy blur">??? the ???</supplied>
+               </hi> 
+            </hi> 
+         </p>
+         <p>
+            <hi rend="italic">Fellow Citizens of the Senate, and </hi>
+            <lb/>
+            <hi rend="italic">House of Representatives,</hi> 
+         </p>
+         <p>
+            <hi rend="enlarged-capital">I</hi> N meeting you again, I feel much satisfac<lb break="no"/> 
+            <lb/>tion on being able to repeat my congratulations <lb/>on the favourable prospects which continue to di<lb break="no"/>tinguish our public affairs. The abundant fruits <lb/>of another year have blessed our country with plen<lb break="no"/>ty, and with the means of flourishing commerce. <lb/>The progress of the public credit is witnessed by <lb/>a considerable rise of American stock abroad, as <lb/>well as at home; and the revenues allotted for <lb/>this and other national purposes, have been pro<lb break="no"/>ductive beyond the calculation by which they were <lb/>regulated. This latter circumstance is the more <lb/>pleasing, as it is not only a proof the fertility of <lb/>our resources, but as it assures us of a further in<lb break="no"/>crease of the national respectability and credit; <lb/>and let me add, as it bears an honourable testi<lb break="no"/>mony to the patriotism and integrity of the ma<lb break="no"/>rine part of our citizens. The punctuality of the <lb/>former in discharging their engagements has <lb/>been exemplary.</p>
+         <p>"In conforming to the power vested in me <lb/>by acts of the last session, a loan of 3,000,,000 of <lb/>florins, towards which some provisional measures <lb/>had previously taken place, has been completed <lb/>in Holland.–As well the
+<supplied reason="copy blur">exchange</supplied> with which it <lb/>has been filled, as the nature of the terms (consi<lb break="no"/>dering the more than ordinary demand for bor<lb break="no"/>rowing, created by the situation of Europe) give <lb/>a reasonable hope that the further execution of <lb/>those powers, may proceed with advantage and <lb/>success. The secretary of the treasure has my <lb/>direction to communicate such further particu<lb break="no"/>lars as may be requisite for more precise infor<lb break="no"/>mation.</p>
+         <p>"Since your last sessions, I have received commu<lb break="no"/>nication, by which it appears, that the district <lb/>of Kentucke, at present a part of Virginia, has <lb/>concurred in certain propositions contained in a law of that state, in consequence of which the dis<lb break="no"/>trict is to become a distinct number of the Uni<lb break="no"/>on; in case the requisite sanction of Congress be <lb/>added. For this sanction application is now made. <lb/>I shall cause the papers on this very important <lb/>transaction to be laid before you. The liberality <lb/>and harmony with which it has been conducted, <lb/>will be found to do great honour to both the par<lb break="no"/>
+            <cb/> 
+            <lb/>ties; and the sentiments of warm attachment of <lb/>the Union and its present Government, expres<lb break="no"/>sed by our fellow-citizens of Kentucke, cannot <lb/>fail to add an affectionate concern for their par<lb break="no"/>ticular welfare, to the great national impressions <lb/>under which you will declare on the case sub<lb break="no"/>mitted to you.</p>
+         <p>"It has been heretofore known to Congress <lb/>that frequent incursions have been made on our <lb/>frontier settlements by certain banditti of Indians <lb/>from the north west side of the Ohio. These, <lb/>with some of the tribes dwelling on and near the <lb/>Wabash, have of late been particularly active in <lb/>their depredations; and, being emboldened by <lb/>the impunity of their crimes, and aided by such <lb/>parts of the neighbouring tribes as could be se<lb break="no"/>duced to join in their hostilities, or afford them <lb/>a retreat for their prisoners, and plunder, they <lb/>have, instead of listening to the humane invitati<lb break="no"/>ons and overtures made on the part of the Unit<lb break="no"/>ed States, renewed their violence with fresh ala<lb break="no"/>crity and greater effect–The lives of a number of <lb/>valuable citizens have thus been sacrificed, and <lb/>some of them under circumstances peculiarly <lb/>shocking, whilst others have been carried into a <lb/>deplorable captivity.</p>
+         <p>"These aggravated provocations rendered it es<lb break="no"/>sential to the safety of the western settlements, <lb/>that the aggressors should be made sensible that the <lb/>government of the Union is not less capable of <lb/>punishing their crimes, than it is disposed to <lb/>respect their rights and rewards their attachments. <lb/>As this object could not be effected by defensive <lb/>measures, it became necessary to put in force the <lb/>act which empowers the President to call out the <lb/>militia for the protection of the frontiers; and <lb/>I have accordingly authorised an expedition, in <lb/>which the regular troops in that quarter are com<lb break="no"/>bined with such drafts of militia as were sufficient. <lb/>The event of the measure is yet unknown to me, <lb/>The Secretary at War is directed to lay before <lb/>you a statement of the information on which it <lb/>is founded, as well as an estimate of the expence <lb/>with which it will be attended.</p>
+         <p>The disturbed situation of Europe, and parti<lb break="no"/>cularly the critical posture of the great maritime <lb/>powers, whilst it ought to make us more thank<lb break="no"/>ful for the general peace and security enjoyed by <lb/>the United States, reminds us at the same time <lb/>of the circumspection with which it becomes us <lb/>to preserve these blessings. It requires also that <lb/>we should not overlook the tendency of a war, <lb/>and even of preparations for war among the na<lb break="no"/>tions most concerned in active commerce with <lb/>this country, to abridge in means, and there <lb/>by enhance the prince of transporting its valuable <lb/>productions to their proper markets. I recom<lb break="no"/>mend it to your serious reflections, how far and <lb/>in what mode it may be expedient to guard a<lb break="no"/>gainst embarrassments from these contingencies, <lb/>by such encouragements to ur own navigation <lb/>as will render our commerce andagriculture less <lb/>dependant of foreign bottoms, which may fail us <lb/>in the moments most interesting to both of these <lb/>great objects. Our fisheries and the transporta<lb break="no"/>tion of our own produce, offers us abundant means <lb/>for guarding ourselves against this evil.</p>
+         <p>"Your attention seems to be not less due to <lb/>that particular branch of our trade which belongs <lb/>to the Mediterranean. So many circumstances <lb/>unite in rendering the present state of it destres<lb break="no"/>ful to us, that you will not think any deliberations <lb/>misemployed which may lead to its relief and <lb/>protection.</p>
+         <p>"The laws you have already passed for the esta<lb break="no"/>blishment of a judiciary system, have opened the <lb/>doors of justice to all descriptions of persons. <lb/>You will consider in your wisdom, whether im<lb break="no"/>provement of a judicatory system, have opened <lb/>the doors of justice to all descriptions of person. <lb/>Yu will consider in your wisdom, whether im<lb break="no"/>
+            <pb n="3"/> provements in that system may yet be made, and <lb/>particularly whether<supplied reason="copy blur">??? ???</supplied>process of exe<lb break="no"/>cution on sentences issuing from the Federal <lb/>Courts, be not desirable through all the States.</p>
+         <p>"The patronage of our commerce, of our <lb/>merchants and seamen, has called for the appoint<lb break="no"/>ment of Consuls in foreign countries. It seems <lb/>expedient to regulate by law the exercise of that <lb/>jurisdiction and those functions which are permit<lb break="no"/>ted them, either by express convention, or by a <lb/>friendly indulgence in the places of their residence. <lb/>The Consular Convention too, with his most <lb/>Christian Majesty, has stipulated in certain cases, <lb/>the aid of the National authority to his Consuls <lb/>established here. Some legislative provision is re<lb break="no"/>quisite to carry these stipulations into full effect.</p>
+         <p>"The establishment of the Militia, of a Mint, <lb/>of Standards of Weights and Measures, of the <lb/>Post Office and Post Roads, are subjects which <lb/>(I presume) you will resume of course, and which <lb/>are abundantly urged by their own importance.</p>
+         <p>"<hi rend="italic">Gentlemen of the House of Representatives</hi> , <lb/>"The sufficiency of the revenues you have es<lb break="no"/>tablished for the objects to which they are appro<lb break="no"/>priated, leaves no doubt that the residuary provi<lb break="no"/>sions will be commensurate to the other objects <lb/>for which the public faith stands now pledged. <lb/>Allow me moreover to hope, that it will be a <lb/>favourite policy with you, not merely to secure a <lb/>payment of the interest of the debt founded, but <lb/>as far and as fast as the growing resources of the <lb/>country will permit, to exonerate it of the prin<lb break="no"/>cipal itself. The appropriation you have made <lb/>of the western lands explain your dispositions on <lb/>this subject, and I am persuaded the sooner that <lb/>valuable fund can be made to contribute, along <lb/>with other means, to the actual reduction of the <lb/>public debt, the more salutary will the measure <lb/>be toe very public interest, as well as be more <lb/>satisfactory to our constituents.</p>
+         <p>"<hi rend="italic">Gentlemen of the Senate, and House of Re<lb break="no"/>presentatives</hi>.</p>
+         <p>"In perusing the various and weighty busi<lb break="no"/>ness of the present session, I indulge the fullest <lb/>persuasion that your consultations will be equally <lb/>marked with wisdom, and animated by the love <lb/>of your country. In whatever belongs to my <lb/>duty, you shall have all the co-operation which <lb/>an undiminished zeal for welfare can inspire. It <lb/>will be happy for us both, and our best reward, <lb/>if by a successful administration of our respective <lb/>trusts, we can make the established government <lb/>more and more instrumental in promoting the <lb/>good of our fellow citizens, and more and more <lb/>the object of their attachment and confidence. <lb/>
+            <hi rend="center">(Signed) GEORGE WASHINGTON." </hi>
+            <lb/>
+            <hi rend="italic">United States, Dec</hi> . 8 1790.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,86 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>145</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>145</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1819-06-28"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="persuade"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1819-06-28"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="persuade"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
             <hi rend="smallcaps">Emigration</hi>.</p>
-                <p>The increased population of this country, as <lb/>well as the great difficult to
-                    which the mid<lb break="no"/>dling classes of society are exposed in their ef<lb break="no"/>forts to procure the ordinary means of suste<lb break="no"/>nance, has given rise to the formation of little <lb/>copartnerships, or joint
-                    stock companies of in<lb break="no"/>dividuals, who, being unable to command
-                        capi<lb break="no"/>tal enough singly, to encounter the expences of <lb/>a
-                    new settlement, have put their little funds to<lb break="no"/>gether, with a
-                    determination to sail for America, <lb/>and there jointly to labour for the
-                    general good <lb/>of the whole, until fortune shall so far favour <lb/>their
-                    efforts as to enable them to become inde<lb break="no"/>pendent of each other.
-                    By this means much less <lb/>than the hundred pounds stipulated by Mr Birk<lb break="no"/>beck as the proper stock for an emigrant to be<lb break="no"/>gin with, will be sufficient ; and thus a new im<lb break="no"/>petus will be
-                    given to that tide of huma beings <lb/>which is constantly flowing towards the
-                    new <lb/>world. Would it not be policy to give encou<lb break="no"/>ragement to
-                    these industrious swarms to settle in <lb/>our own colonies? We have heard with
-                    some <lb/>pleasure in rumour that several parishes have <lb/>taken into their
-                    serious consideration the pru<lb break="no"/>dence of establishing a fund for
-                    the encourage<lb break="no"/>ment of those poor persons who may be dispo<lb break="no"/>ed to seek a means of occupation in Canada ; <lb/>in furtherance
-                    of which laudable design, an ap<lb break="no"/>plication is to be made to
-                    Government for grants <lb/>of land in desirable siutations, especially in Up<lb break="no"/>per Canada, where the climate is described to be <lb/>of the
-                    finest description. There is no doubt that <lb/>many who are now pining in
-                    workhouses would <lb/>gladly accept of such an alternative, and who,
-                    <lb/>instead of being, as at present, a burthen to them<lb break="no"/>selves
-                    and to society, would, by their exertions, <lb/>be adding to the importance and
-                    stability of our <lb/>possessions in that quarter, as well as open<lb break="no"/>ing a new source for the consumption of our ma<lb break="no"/>nufactures.</p>
-            </body>
-        </text>
-    </TEI>
+         <p>The increased population of this country, as <lb/>well as the great difficult to which the mid<lb break="no"/>dling classes of society are exposed in their ef<lb break="no"/>forts to procure the ordinary means of suste<lb break="no"/>nance, has given rise to the formation of little <lb/>copartnerships, or joint stock companies of in<lb break="no"/>dividuals, who, being unable to command capi<lb break="no"/>tal enough singly, to encounter the expences of <lb/>a new settlement, have put their little funds to<lb break="no"/>gether, with a determination to sail for America, <lb/>and there jointly to labour for the general good <lb/>of the whole, until fortune shall so far favour <lb/>their efforts as to enable them to become inde<lb break="no"/>pendent of each other. By this means much less <lb/>than the hundred pounds stipulated by Mr Birk<lb break="no"/>beck as the proper stock for an emigrant to be<lb break="no"/>gin with, will be sufficient ; and thus a new im<lb break="no"/>petus will be given to that tide of huma beings <lb/>which is constantly flowing towards the new <lb/>world. Would it not be policy to give encou<lb break="no"/>ragement to these industrious swarms to settle in <lb/>our own colonies? We have heard with some <lb/>pleasure in rumour that several parishes have <lb/>taken into their serious consideration the pru<lb break="no"/>dence of establishing a fund for the encourage<lb break="no"/>ment of those poor persons who may be dispo<lb break="no"/>ed to seek a means of occupation in Canada ; <lb/>in furtherance of which laudable design, an ap<lb break="no"/>plication is to be made to Government for grants <lb/>of land in desirable siutations, especially in Up<lb break="no"/>per Canada, where the climate is described to be <lb/>of the finest description. There is no doubt that <lb/>many who are now pining in workhouses would <lb/>gladly accept of such an alternative, and who, <lb/>instead of being, as at present, a burthen to them<lb break="no"/>selves and to society, would, by their exertions, <lb/>be adding to the importance and stability of our <lb/>possessions in that quarter, as well as open<lb break="no"/>ing a new source for the consumption of our ma<lb break="no"/>nufactures.</p>
+      </body>
+   </text>
+</TEI>

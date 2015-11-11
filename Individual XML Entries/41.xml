@@ -1,101 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>41</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>41</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-12-14"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="entertain"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>newspapers</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="center">" Living out of the World"</hi>
-                </p>
-                <p>
+                  </pubPlace>
+                  <date when="1789-12-14"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="entertain"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>newspapers</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="center">" Living out of the World"</hi> 
+         </p>
+         <p>
             <hi rend="smallcaps">To the PRINTER</hi>.</p>
-                <p>
-                    <hi rend="smallcaps">Sir,</hi>
-                </p>
-                <p>
-            <hi rend="smallcaps">ABOUT</hi> two month ago I went to the coun<lb break="no"/>try to pay a visit to a friend in a remote <lb/>county; and though I am much
-                    of what may be called "a <hi rend="italic">newspaper man</hi>," I never thought
-                    of or<lb break="no"/>dering my papers to be sent down to me. To <lb/>my utter
-                    astonishment, my <hi rend="italic">rustic</hi> landlord did <lb/>not take in own
-                    newspaper; so there was I, stuck <lb/>down, with my friend in the
-                    country–knowing <lb/>no more of what passed in town than if I had
-                    <lb/>been in <hi rend="italic">Lapland</hi>. Intending every day should be
-                    <lb/>my last, I went on without ordering your, or any <lb/>other paper, till two
-                    months had passed away, at <lb/>which period I returned to town. And there,
-                    <lb/>Sir, I was quite a new man, and just as if I had <lb/>dropped down from the
-                    clouds. Every day I <lb/>heard people talking of occurrences of which I
-                    <lb/>knew nothing : Revolutions in France by <hi rend="italic">Fish<lb break="no"/>women</hi> ; and battles in Flanders, against the
-                    <lb/>Emperor, who I thought was fighting against <lb/>the Turks.</p>
-                <p>But even this was not the most distressing–for <lb/>one day meeting a
-                    friend, I inquired very cor<lb break="no"/>dially after his wife, who I found a
-                    few days af<lb break="no"/>terwards, had eloped just before with another
-                    <lb/>gentleman ; and meeting with a lady, I inquir<lb break="no"/>ed kindly for
-                    her sister, who I found had depart<lb break="no"/>ed to the other world a
-                    fortnight before.</p>
-                <p>On this account I never will stir again "out of <lb/>the world" unless your paper
-                    goes along with me. I <lb/>hold a newspaper to be a kind of <hi rend="italic">viaticum</hi> with <lb/>which every man should be provided, and which be<lb break="no"/>come the more necessary the further we remove <lb/>from town It.
-                    is the only way to keep pace with <lb/>what is going on every day in the
-                    fashionable or <lb/>literary world–and to prevent talking about dead
-                    <lb/>friends, or wives that have absconded.</p>
-                <p>In short, Sir, a newspaper is my <hi rend="italic">creed</hi>–and ne<lb break="no"/>ver will I again travel without my faith along with <lb/>me :
-                    having fully experienced the unpleasantness <lb/>of being sent back into the
-                    world as ignorant as <lb/>if I had been born again–<hi rend="italic">I
-                        hereby give notice</hi>– <lb/>"That if an <hi rend="italic">hottentot</hi> friend of mine invites me, <lb/>who does not take in your
-                    paper or some other– <lb/>I will not visit him."<hi rend="smallcaps">DICK
-                        DESPERATE</hi>.</p>
-            </body>
-        </text>
-    </TEI>
+         <p>
+            <hi rend="smallcaps">Sir,</hi> 
+         </p>
+         <p>
+            <hi rend="smallcaps">ABOUT</hi>  two month ago I went to the coun<lb break="no"/>try to pay a visit to a friend in a remote <lb/>county; and though I am much of what may be called "a<hi rend="italic">newspaper man</hi> ," I never thought of or<lb break="no"/>dering my papers to be sent down to me. To <lb/>my utter astonishment, my<hi rend="italic">rustic</hi>  landlord did <lb/>not take in own newspaper; so there was I, stuck <lb/>down, with my friend in the country–knowing <lb/>no more of what passed in town than if I had <lb/>been in<hi rend="italic">Lapland</hi> . Intending every day should be <lb/>my last, I went on without ordering your, or any <lb/>other paper, till two months had passed away, at <lb/>which period I returned to town. And there, <lb/>Sir, I was quite a new man, and just as if I had <lb/>dropped down from the clouds. Every day I <lb/>heard people talking of occurrences of which I <lb/>knew nothing : Revolutions in France by<hi rend="italic">Fish<lb break="no"/>women</hi>  ; and battles in Flanders, against the <lb/>Emperor, who I thought was fighting against <lb/>the Turks.</p>
+         <p>But even this was not the most distressing–for <lb/>one day meeting a friend, I inquired very cor<lb break="no"/>dially after his wife, who I found a few days af<lb break="no"/>terwards, had eloped just before with another <lb/>gentleman ; and meeting with a lady, I inquir<lb break="no"/>ed kindly for her sister, who I found had depart<lb break="no"/>ed to the other world a fortnight before.</p>
+         <p>On this account I never will stir again "out of <lb/>the world" unless your paper goes along with me. I <lb/>hold a newspaper to be a kind of<hi rend="italic">viaticum</hi>  with <lb/>which every man should be provided, and which be<lb break="no"/>come the more necessary the further we remove <lb/>from town It. is the only way to keep pace with <lb/>what is going on every day in the fashionable or <lb/>literary world–and to prevent talking about dead <lb/>friends, or wives that have absconded.</p>
+         <p>In short, Sir, a newspaper is my<hi rend="italic">creed</hi> –and ne<lb break="no"/>ver will I again travel without my faith along with <lb/>me : having fully experienced the unpleasantness <lb/>of being sent back into the world as ignorant as <lb/>if I had been born again–<hi rend="italic">I hereby give notice</hi> – <lb/>"That if an<hi rend="italic">hottentot</hi>  friend of mine invites me, <lb/>who does not take in your paper or some other– <lb/>I will not visit him."<hi rend="smallcaps">DICK DESPERATE</hi>.</p>
+      </body>
+   </text>
+</TEI>

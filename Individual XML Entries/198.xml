@@ -1,107 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>198</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>198</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1824-04-03"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">Scottish Intelligence.</hi>
-                </p>
-                <p>Repeated instances have lately occurred, in whcih dwelling<lb break="no"/>houses
-                    have suffered damage by fire, owing to the carelessnes of <lb/>servants and
-                    others, who, by way of economy, take off fires at <lb/>night and put the burning
-                    coals under the grate, not recollecting <lb/>that, in the construction of almost
-                    every house, the stone placed <lb/>under the grate is supported by timber,
-                    separated from the hearth <lb/>stone by some lime only. The wood underneath
-                    being once ig<lb break="no"/>nited, the fire will rapidly spread, and may in a
-                    few hours involve <lb/>the whole tenement in flames.</p>
-                <p>
-            <hi rend="smallcaps">Emigration to Australia.</hi>–We understand that the
-                        esta<lb break="no"/>blishment of an Australian Company has suggested to a
-                        num<lb break="no"/>ber of public spirited individuals the idea of forming a
-                    society to <lb/>aid deserving persons in their endeavours to emigrate and settle
-                    in <lb/>New South Wales and Van Dieman's Land, and that matters are
-                    <lb/>actually in progress for carrying this benevolent project into effect.
-                    <lb/>On Wednesday a meeting was held in the Freemasons' Hall, Niddry
-                    <lb/>Street, which was respectably attended, the Rev. Mr Lothian in <lb/>the
-                    Chair, when a series of resolutions were moved by William <lb/>Ellis, Esq. S. S.
-                    C., and seocnd by Robert Paul, Esq. of the <lb/>Commercial Bank. The principal
-                    object comprehended in those <lb/>were the security of the persons and property
-                    of emigrants on the <lb/>voyage–the maintenance of a regular
-                    communication with friends <lb/>left behind, and the insuring a friendly
-                    welcome, temporary ac<lb break="no"/>commodation, and facilities for permanent
-                    settlement in the country <lb/>of their adoption. It was also proposed to give
-                    assistance in <lb/>money to deserving emigrants, for the purpose of defraying
-                    the <lb/>expenses of freight and passage out–every applicant being first
-                    <lb/>well recommended, and his character subjected to strict scrutiny.
-                    <lb/>Masons, wrights, smiths, and other artisans, schoolmasters, farm<lb break="no"/> servants, and labourers, are the classes to which the
-                    principles of <lb/>the society specially apply.</p>
-                <p>According to the opinion of persons largely engaged in the silk<lb break="no"/>trade, the amount of drawback to be allowed on silk that has paid <lb/>the duty
-                    will be between t300,000 and t400,000.</p>
-                <p>On Sunday evening a disturbance took place in a house in <lb/>Tobago Street, and
-                    the Police were called, who, to make sure of <lb/>the rioter, secured the door ;
-                    at which a young woman, a servant, <lb/>became so much alarmed, that she leaped
-                    out of a window, situat<lb break="no"/>ed on the third floor, whereby her back
-                    was broken. She now lies <lb/>very ill in the Royal Infirmary.</p>
-                <p>
-            <hi rend="smallcaps">The Army</hi>–The several Recruiting Parties
-                    throughout <lb/>Great Britain and Ireland having received their instructions,
-                    are <lb/>now actively employed in raising men for the three new Regi<lb break="no"/>ments of the Line, whose establishments, it is expected, will be
-                    <lb/>in a very short time completed. The Head-quarters of the 97th <lb/>Regiment
-                    are changedfrom Gosport to Winchester.</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1824-04-03"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">Scottish Intelligence.</hi> 
+         </p>
+         <p>Repeated instances have lately occurred, in whcih dwelling<lb break="no"/>houses have suffered damage by fire, owing to the carelessnes of <lb/>servants and others, who, by way of economy, take off fires at <lb/>night and put the burning coals under the grate, not recollecting <lb/>that, in the construction of almost every house, the stone placed <lb/>under the grate is supported by timber, separated from the hearth <lb/>stone by some lime only. The wood underneath being once ig<lb break="no"/>nited, the fire will rapidly spread, and may in a few hours involve <lb/>the whole tenement in flames.</p>
+         <p>
+            <hi rend="smallcaps">Emigration to Australia.</hi> –We understand that the esta<lb break="no"/>blishment of an Australian Company has suggested to a num<lb break="no"/>ber of public spirited individuals the idea of forming a society to <lb/>aid deserving persons in their endeavours to emigrate and settle in <lb/>New South Wales and Van Dieman's Land, and that matters are <lb/>actually in progress for carrying this benevolent project into effect. <lb/>On Wednesday a meeting was held in the Freemasons' Hall, Niddry <lb/>Street, which was respectably attended, the Rev. Mr Lothian in <lb/>the Chair, when a series of resolutions were moved by William <lb/>Ellis, Esq. S. S. C., and seocnd by Robert Paul, Esq. of the <lb/>Commercial Bank. The principal object comprehended in those <lb/>were the security of the persons and property of emigrants on the <lb/>voyage–the maintenance of a regular communication with friends <lb/>left behind, and the insuring a friendly welcome, temporary ac<lb break="no"/>commodation, and facilities for permanent settlement in the country <lb/>of their adoption. It was also proposed to give assistance in <lb/>money to deserving emigrants, for the purpose of defraying the <lb/>expenses of freight and passage out–every applicant being first <lb/>well recommended, and his character subjected to strict scrutiny. <lb/>Masons, wrights, smiths, and other artisans, schoolmasters, farm<lb break="no"/> servants, and labourers, are the classes to which the principles of <lb/>the society specially apply.</p>
+         <p>According to the opinion of persons largely engaged in the silk<lb break="no"/>trade, the amount of drawback to be allowed on silk that has paid <lb/>the duty will be between t300,000 and t400,000.</p>
+         <p>On Sunday evening a disturbance took place in a house in <lb/>Tobago Street, and the Police were called, who, to make sure of <lb/>the rioter, secured the door ; at which a young woman, a servant, <lb/>became so much alarmed, that she leaped out of a window, situat<lb break="no"/>ed on the third floor, whereby her back was broken. She now lies <lb/>very ill in the Royal Infirmary.</p>
+         <p>
+            <hi rend="smallcaps">The Army</hi> –The several Recruiting Parties throughout <lb/>Great Britain and Ireland having received their instructions, are <lb/>now actively employed in raising men for the three new Regi<lb break="no"/>ments of the Line, whose establishments, it is expected, will be <lb/>in a very short time completed. The Head-quarters of the 97th <lb/>Regiment are changedfrom Gosport to Winchester.</p>
+      </body>
+   </text>
+</TEI>

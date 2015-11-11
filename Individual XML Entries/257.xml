@@ -1,400 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>257</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>257</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1836-04-09"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>meeitng</item>
-                            <item>law</item>
-                            <item>suffrage</item>
-                            <item>monuments</item>
-                            <item>weather</item>
-                            <item>theatre</item>
-                            <item>religion</item>
-                            <item>obituary</item>
-                            <item>emigration</item>
-                            <item>disease</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1836-04-09"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>meeting</item>
+                  <item>law</item>
+                  <item>suffrage</item>
+                  <item>monuments</item>
+                  <item>weather</item>
+                  <item>theatre</item>
+                  <item>religion</item>
+                  <item>obituary</item>
+                  <item>emigration</item>
+                  <item>disease</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="smallcaps">Sir George Clerk.</hi>–As the cawing of the
-                    rooks <lb/>portends a storm, it is worth while to mention that <lb/>the cunning
-                    baronet has come down from London, <lb/>and commenced a canvass in this county
-                    within these <lb/>few days. It is stated, we believe upon good autho<lb break="no"/>rity, that he accounts for this course of proceeding, <lb/>by
-                    referring to the great probability of the Lords <lb/>throwing out the Irish
-                    Municipal Bill.</p>
-                <p>
-            <hi rend="smallcaps">Burn's Monument.</hi>–We understand that there
-                    <lb/>is now an early prospect of the completion of this <lb/>monument, which has
-                    too long remained in an un<lb break="no"/>finished state, to the surprise of
-                    strangers, and the <lb/>discredit to our Modern Athens. The sum already <lb/>in
-                    the Treasurer's hands, aided by the profits of the <lb/>handsome musical work
-                    lately issued by Mr M'Leod, <lb/>which he has generously devoted to that
-                    purpose, is <lb/>now nearly sufficient to meet the calculations of the
-                    <lb/>expense requird for the railing in and decoration of <lb/>the ground around
-                    the monument. We expect, there<lb break="no"/>fore, that the work will forthwith
-                    be commenced, and <lb/>if a few pounds are still wanted, we have no doubt
-                    <lb/>there are hundreds in Edinburgh who would wil<lb break="no"/>lingly
-                    guarantee the Treasurer against any loss by <lb/>the immediate completion of the
-                    undertaking.</p>
-                <p>
-            <hi rend="italic">Annuity Tax.</hi>–We understand that deputations
-                    <lb/>from several places in the country, are expected to <lb/>attend the public
-                    meeting which is to be held on <lb/>Tuesday evening, for the purpose of
-                    petitioning Par<lb break="no"/>liament for the abolition of the Annuity Tax, in
-                    order <lb/>to testify their abhorrence of that system of politico<lb break="no"/> Christianity which requires distraint and imprison<lb break="no"/>ment for
-                    its support. We observe that Mr Gillon, of <lb/>Wallhouse, M.P. is to take the
-                    chair. The meeting <lb/>we doubt not, will be most numerously attended.</p>
-                <p>
-            <hi rend="smallcaps">Law of Scotland.</hi>–The prizes given by Pro<lb break="no"/>fessor Bell, for the greatest proficiency in the exami<lb break="no"/>nations, were yesterday awarded to Mr William Neish, <lb/>25,
-                    India Street, in the senior, and to William Spence, <lb/>31, Broughton Place, in
-                    the junior class. The fol<lb break="no"/>lowing gentlemen also distinguished
-                    themselves in the <lb/>competition : Mr John Fraser, James Gilchrist, <lb/>James
-                    Mason, James Scott, in the senior class; <lb/>James Oliver, David Gale, John R.
-                    Banks, James <lb/>Charles Murray, Wm. M'Naughton, in the junior.</p>
-                <p>
-            <hi rend="italic">Kilwinning, March</hi> 30.–The United Associate
-                    <lb/>Presbytery of Kilmarnock met at Kilwinning on <lb/>Tuesday, the 22d March,
-                    and ordained Mr A. Mac<lb break="no"/>gregor to the pastoral charge of the
-                    congregation in <lb/>that place. The Rev. D. Henderson, of Dalry, <lb/>preached
-                    and presided. The Rev. Mr Cairns, of <lb/>Stewarton, ordained, and the Rev D.
-                    Ronald, of Salt<lb break="no"/>coats, gave the charge to the minister and
-                        congrega<lb break="no"/>tion. On the Sabbath following, the Rev. Mr Tait,
-                    <lb/>of Barrhead, introduced Mr Macgregor to his con<lb break="no"/>gregation ;
-                    and there is every prospect that the hither<lb break="no"/>to long disappointed
-                    congregation of Kilwinning will <lb/>now prosper under the pastoral care of
-                    their much <lb/>esteemed and highly talented young minister.</p>
-                <p>
-            <hi rend="italic">Presentation of Plate.</hi>–Mr A. S. Walker, late of
-                    <lb/>the Commercial Bank of Scotland, at present manager <lb/>of the branch of
-                    the Commercial Bank of England, <lb/>at Uttoxeter, in Staffordshire, was lately
-                    presented <lb/>with an elegant tea service by the proprietors of that
-                    <lb/>establishment, bearing the following inscription :– <lb/>"Presented
-                    to Mr Archibald S. Walker, by the <lb/>Uttoxeter Proprietors of the Commercial
-                    Bank of <lb/>England, as a small acknowledgement of his faithful <lb/>and
-                    valuable services–March, 1836." This is ano<lb break="no"/>ther proof of
-                    the estimation in which many of the <lb/>young men are held who have been
-                    trained to the <lb/>banking system in this country. <cb/>
-                    <lb/>From a Return, just published, we find that the <lb/>emigration to Canada
-                    has been comparatively small <lb/>last year. The whole number of emigrants
-                    landed at <lb/>Quebec and Montreal in 1835, was 12,527 : in 1831 <lb/>and 1832
-                    four times, and in 1834 two times as many <lb/>were sent out. Of the 12,527,
-                    there were 5597 adult <lb/>males, 3866 females, and 3064 children under 14
-                    <lb/>years. Of the whole number, 1043 were sent out by <lb/>parochial aid. The
-                    numbers from the three king<lb break="no"/>doms were– <lb/>England, 3067
-                    <lb/>Ireland, 7,108 <lb/>Scotland, 2,127 <lb/>From Newfoundland, Nova Scotia,
-                    &amp;c. 225 <lb/>Settled in Lower Canada, 2,297 <lb/>Upper Canada, 9,800
-                    <lb/>Died at Grosse Isle and Quebec, 13 <lb/>Returned to the United Kingdom, 117
-                    <lb/>Removed to the United States, 300 <lb/>–12,527</p>
-                <p>But besides those who went to Canada, 16,749 <lb/>landed at New York, raising the
-                    whole number of <lb/>emigrants to 29,376. There were no less than three
-                    <lb/>vessels wrecked last year on their way to Quebec– <lb/>the William
-                    Ewing from Londonderry with 300 pas<lb break="no"/>sengers, all saved–the
-                    barque James from Newfound<lb break="no"/>land, all saved–and the
-                    Nathaniel Graham from <lb/>Cork, with 48 persons on board, passengers and crew,
-                    <lb/>of whom 41 were lost.</p>
-                <p>From another part of the Report, we find that 2764 <lb/>female emigrants were
-                    sent out to Australia last year, <lb/>under the superintendence of the
-                    Emigration Com<lb break="no"/>mittee. Of these 2105 had a free passage. The
-                        ar<lb break="no"/>rangements seem to have been ood ; for the mortality
-                    <lb/>was small, and few complaints were made. The fe<lb break="no"/>males were
-                    all of decent character, and due care was <lb/>taken on their arrival to get
-                    them disposed of as ser<lb break="no"/>vants, in situations where their morals
-                    would not be <lb/>exposed to unnecessary risk.</p>
-                <p>
-            <hi rend="smallcaps">Ulster Railway.</hi>–Length 36 miles, from Bel<lb break="no"/>fast to Armagh ; capital t600,000, in 12,000 shares, <lb/>of
-                    which t393,000 are subscribed. The number of <lb/>passengers expected is
-                    450,000; the expected income <lb/>is t93,000, of which t67,800 is from
-                    passengers ; <lb/>the estimated expense of the work is t539,000. The
-                    <lb/>steepest gradient is 1 in 200. There are 3 tunnels of <lb/>310, 320, and
-                    570 yards in length.</p>
-                <p>
-            <hi rend="smallcaps">East Lothian Railway.</hi>–We call attention
-                    <lb/>with great pleasure to the Prospectus of a railway <lb/>from Dunbar to
-                    Edinburgh, by Haddington and <lb/>Tranent, which appears in our first page. No
-                    one <lb/>can have travelled over the ground without observing <lb/>how admirably
-                    it is fitted for this species of commu<lb break="no"/>nication, by its
-                    remarkable uniformity of surface. We <lb/>should have doubted whether such a
-                    work would pay, <lb/>had it terminated at Edinburgh ; but as a part of an
-                    <lb/>unbroken line reaching across the most fertile and <lb/>populous parts of
-                    Scotland, from the German ocean <lb/>to the Atlantic, its chances of success are
-                    vastly in<lb break="no"/>creased.</p>
-                <p>
-            <hi rend="smallcaps">Dundee and Arbroath Railway.</hi>–The Com<lb break="no"/>mittee's report on this railway has reached us, but we <lb/>must
-                    confine ourselves to an abstract. The length <lb/>is 16 miles 5 furlongs and 90
-                    yards ; the capital <lb/>t100,000, divided into 4000 shares, which is all sub<lb break="no"/>scribed, but authority is taken to raise t40,000 more <lb/>by
-                    loan ; sum paid up t5000 ; subscribed by share<lb break="no"/>holders locally
-                    interested t88,900, by others t7150 : <lb/>there are three subscribers for t2000
-                    and upwards : <lb/>the expected income from passengers is t16,912, <lb/>goods
-                    t14,654, from both t31,566. There are no <lb/>tunnels, no inclined planes, and
-                    the steepest gradient <lb/>being only 1 in 1000, scarcely differs from a dead
-                    <lb/>level. It does not cross any highway or turnpike on a <lb/>level. The
-                    estimated expenses is t99,844.</p>
-                <p>
-            <hi rend="smallcaps">Statute Labour Acts.</hi>–It appears from the
-                    <lb/>votes of the House of Commons, that a Select Com<lb break="no"/>mittee has
-                    been appointed to investigate the Scottish <lb/>Statute Labour Acts, and to
-                    consider what amend<lb break="no"/>ments may be made thereon. It may be stated,
-                    that <lb/>by the present act for this county, proprietors of land, <lb/>and
-                    several other descriptions of people are totally <lb/>exempted from any burden,
-                    on account of the coaches, <lb/>chaises, gigs, or saddle horses they may keep,
-                    though <lb/>it is quite plain good roads are of as much advantage <lb/>to them
-                    as to the occupiers of land, upon whom almost <lb/>the sole burden is thrown. In
-                    many parishes a con<lb break="no"/>siderable addition would be made to the road
-                    funds, <lb/>were no such exemptions allowed. At present the <lb/>management is
-                    vested in heritors, rated at one hun<lb break="no"/>dred pounds Scots and
-                    upwards, though it is stated <lb/>with confidence, that were the occupiers of
-                    land in<lb break="no"/>cluded, beneficial consequences would follow.–<hi rend="italic">East-</hi>
-                    <lb/>
-            <hi rend="italic">Lothian Correspondent.</hi>
+            <hi rend="smallcaps">Sir George Clerk.</hi> –As the cawing of the rooks <lb/>portends a storm, it is worth while to mention that <lb/>the cunning baronet has come down from London, <lb/>and commenced a canvass in this county within these <lb/>few days. It is stated, we believe upon good autho<lb break="no"/>rity, that he accounts for this course of proceeding, <lb/>by referring to the great probability of the Lords <lb/>throwing out the Irish Municipal Bill.</p>
+         <p>
+            <hi rend="smallcaps">Burn's Monument.</hi> –We understand that there <lb/>is now an early prospect of the completion of this <lb/>monument, which has too long remained in an un<lb break="no"/>finished state, to the surprise of strangers, and the <lb/>discredit to our Modern Athens. The sum already <lb/>in the Treasurer's hands, aided by the profits of the <lb/>handsome musical work lately issued by Mr M'Leod, <lb/>which he has generously devoted to that purpose, is <lb/>now nearly sufficient to meet the calculations of the <lb/>expense requird for the railing in and decoration of <lb/>the ground around the monument. We expect, there<lb break="no"/>fore, that the work will forthwith be commenced, and <lb/>if a few pounds are still wanted, we have no doubt <lb/>there are hundreds in Edinburgh who would wil<lb break="no"/>lingly guarantee the Treasurer against any loss by <lb/>the immediate completion of the undertaking.</p>
+         <p>
+            <hi rend="italic">Annuity Tax.</hi> –We understand that deputations <lb/>from several places in the country, are expected to <lb/>attend the public meeting which is to be held on <lb/>Tuesday evening, for the purpose of petitioning Par<lb break="no"/>liament for the abolition of the Annuity Tax, in order <lb/>to testify their abhorrence of that system of politico<lb break="no"/> Christianity which requires distraint and imprison<lb break="no"/>ment for its support. We observe that Mr Gillon, of <lb/>Wallhouse, M.P. is to take the chair. The meeting <lb/>we doubt not, will be most numerously attended.</p>
+         <p>
+            <hi rend="smallcaps">Law of Scotland.</hi> –The prizes given by Pro<lb break="no"/>fessor Bell, for the greatest proficiency in the exami<lb break="no"/>nations, were yesterday awarded to Mr William Neish, <lb/>25, India Street, in the senior, and to William Spence, <lb/>31, Broughton Place, in the junior class. The fol<lb break="no"/>lowing gentlemen also distinguished themselves in the <lb/>competition : Mr John Fraser, James Gilchrist, <lb/>James Mason, James Scott, in the senior class; <lb/>James Oliver, David Gale, John R. Banks, James <lb/>Charles Murray, Wm. M'Naughton, in the junior.</p>
+         <p>
+            <hi rend="italic">Kilwinning, March</hi>  30.–The United Associate <lb/>Presbytery of Kilmarnock met at Kilwinning on <lb/>Tuesday, the 22d March, and ordained Mr A. Mac<lb break="no"/>gregor to the pastoral charge of the congregation in <lb/>that place. The Rev. D. Henderson, of Dalry, <lb/>preached and presided. The Rev. Mr Cairns, of <lb/>Stewarton, ordained, and the Rev D. Ronald, of Salt<lb break="no"/>coats, gave the charge to the minister and congrega<lb break="no"/>tion. On the Sabbath following, the Rev. Mr Tait, <lb/>of Barrhead, introduced Mr Macgregor to his con<lb break="no"/>gregation ; and there is every prospect that the hither<lb break="no"/>to long disappointed congregation of Kilwinning will <lb/>now prosper under the pastoral care of their much <lb/>esteemed and highly talented young minister.</p>
+         <p>
+            <hi rend="italic">Presentation of Plate.</hi> –Mr A. S. Walker, late of <lb/>the Commercial Bank of Scotland, at present manager <lb/>of the branch of the Commercial Bank of England, <lb/>at Uttoxeter, in Staffordshire, was lately presented <lb/>with an elegant tea service by the proprietors of that <lb/>establishment, bearing the following inscription :– <lb/>"Presented to Mr Archibald S. Walker, by the <lb/>Uttoxeter Proprietors of the Commercial Bank of <lb/>England, as a small acknowledgement of his faithful <lb/>and valuable services–March, 1836." This is ano<lb break="no"/>ther proof of the estimation in which many of the <lb/>young men are held who have been trained to the <lb/>banking system in this country.<cb/> 
+            <lb/>From a Return, just published, we find that the <lb/>emigration to Canada has been comparatively small <lb/>last year. The whole number of emigrants landed at <lb/>Quebec and Montreal in 1835, was 12,527 : in 1831 <lb/>and 1832 four times, and in 1834 two times as many <lb/>were sent out. Of the 12,527, there were 5597 adult <lb/>males, 3866 females, and 3064 children under 14 <lb/>years. Of the whole number, 1043 were sent out by <lb/>parochial aid. The numbers from the three king<lb break="no"/>doms were– <lb/>England, 3067 <lb/>Ireland, 7,108 <lb/>Scotland, 2,127 <lb/>From Newfoundland, Nova Scotia, &amp;c. 225 <lb/>Settled in Lower Canada, 2,297 <lb/>Upper Canada, 9,800 <lb/>Died at Grosse Isle and Quebec, 13 <lb/>Returned to the United Kingdom, 117 <lb/>Removed to the United States, 300 <lb/>–12,527</p>
+         <p>But besides those who went to Canada, 16,749 <lb/>landed at New York, raising the whole number of <lb/>emigrants to 29,376. There were no less than three <lb/>vessels wrecked last year on their way to Quebec– <lb/>the William Ewing from Londonderry with 300 pas<lb break="no"/>sengers, all saved–the barque James from Newfound<lb break="no"/>land, all saved–and the Nathaniel Graham from <lb/>Cork, with 48 persons on board, passengers and crew, <lb/>of whom 41 were lost.</p>
+         <p>From another part of the Report, we find that 2764 <lb/>female emigrants were sent out to Australia last year, <lb/>under the superintendence of the Emigration Com<lb break="no"/>mittee. Of these 2105 had a free passage. The ar<lb break="no"/>rangements seem to have been ood ; for the mortality <lb/>was small, and few complaints were made. The fe<lb break="no"/>males were all of decent character, and due care was <lb/>taken on their arrival to get them disposed of as ser<lb break="no"/>vants, in situations where their morals would not be <lb/>exposed to unnecessary risk.</p>
+         <p>
+            <hi rend="smallcaps">Ulster Railway.</hi> –Length 36 miles, from Bel<lb break="no"/>fast to Armagh ; capital t600,000, in 12,000 shares, <lb/>of which t393,000 are subscribed. The number of <lb/>passengers expected is 450,000; the expected income <lb/>is t93,000, of which t67,800 is from passengers ; <lb/>the estimated expense of the work is t539,000. The <lb/>steepest gradient is 1 in 200. There are 3 tunnels of <lb/>310, 320, and 570 yards in length.</p>
+         <p>
+            <hi rend="smallcaps">East Lothian Railway.</hi> –We call attention <lb/>with great pleasure to the Prospectus of a railway <lb/>from Dunbar to Edinburgh, by Haddington and <lb/>Tranent, which appears in our first page. No one <lb/>can have travelled over the ground without observing <lb/>how admirably it is fitted for this species of commu<lb break="no"/>nication, by its remarkable uniformity of surface. We <lb/>should have doubted whether such a work would pay, <lb/>had it terminated at Edinburgh ; but as a part of an <lb/>unbroken line reaching across the most fertile and <lb/>populous parts of Scotland, from the German ocean <lb/>to the Atlantic, its chances of success are vastly in<lb break="no"/>creased.</p>
+         <p>
+            <hi rend="smallcaps">Dundee and Arbroath Railway.</hi> –The Com<lb break="no"/>mittee's report on this railway has reached us, but we <lb/>must confine ourselves to an abstract. The length <lb/>is 16 miles 5 furlongs and 90 yards ; the capital <lb/>t100,000, divided into 4000 shares, which is all sub<lb break="no"/>scribed, but authority is taken to raise t40,000 more <lb/>by loan ; sum paid up t5000 ; subscribed by share<lb break="no"/>holders locally interested t88,900, by others t7150 : <lb/>there are three subscribers for t2000 and upwards : <lb/>the expected income from passengers is t16,912, <lb/>goods t14,654, from both t31,566. There are no <lb/>tunnels, no inclined planes, and the steepest gradient <lb/>being only 1 in 1000, scarcely differs from a dead <lb/>level. It does not cross any highway or turnpike on a <lb/>level. The estimated expenses is t99,844.</p>
+         <p>
+            <hi rend="smallcaps">Statute Labour Acts.</hi> –It appears from the <lb/>votes of the House of Commons, that a Select Com<lb break="no"/>mittee has been appointed to investigate the Scottish <lb/>Statute Labour Acts, and to consider what amend<lb break="no"/>ments may be made thereon. It may be stated, that <lb/>by the present act for this county, proprietors of land, <lb/>and several other descriptions of people are totally <lb/>exempted from any burden, on account of the coaches, <lb/>chaises, gigs, or saddle horses they may keep, though <lb/>it is quite plain good roads are of as much advantage <lb/>to them as to the occupiers of land, upon whom almost <lb/>the sole burden is thrown. In many parishes a con<lb break="no"/>siderable addition would be made to the road funds, <lb/>were no such exemptions allowed. At present the <lb/>management is vested in heritors, rated at one hun<lb break="no"/>dred pounds Scots and upwards, though it is stated <lb/>with confidence, that were the occupiers of land in<lb break="no"/>cluded, beneficial consequences would follow.–<hi rend="italic">East- </hi>
+            <lb/>
+            <hi rend="italic">Lothian Correspondent.</hi> 
          </p>
-                <p>
-            <hi rend="italic">Leith Mechanics' Friendly Assurance Society.</hi>–
-                    <lb/>The fifth annual meeting of this Institution was held <lb/>on Tuesday
-                    last–John Hutton, Esq., one of the <lb/>Honorary Members, President of
-                    the Society, in the <lb/>chair. A very satisfactory report for the last year was
-                    <lb/>read, and thanks were voted to the different Office<lb break="no"/>
-            <lb/>bearers. It appears that this society was established <lb/>under the
-                    countenance of the Magistrates and Minis<lb break="no"/>ters, and various
-                    influential individuals in Leith, and <lb/>is well deserving of encouragement,
-                    as affording the <lb/>benefits of mutual insurance to the working classes,
-                    <lb/>the lowest rates consistent with perfect security. <lb/>The funds, we
-                    understand, are in a prosperous state.</p>
-                <p>
-            <hi rend="italic">Hay and Straw.</hi>–In consequence of it having been
-                    <lb/>alleged last Wednesday, that higher prices were got <lb/>for straw than
-                    those quoted, we have made due in<lb break="no"/>quiry, and find there are no
-                    grounds for such an alle<lb break="no"/>gation. We have been further assured,
-                    that in re<lb break="no"/>porting the prices of hay and straw for these two
-                    years <lb/>past, the clerk of the corn market has never shown a <lb/>desire to
-                    favour the farm servants at the expense of <lb/>their employers, or to favour
-                    either party at the ex<lb break="no"/>pense of the public.</p>
-                <p>The Lords Commissioners of the Admiralty have <lb/>been pleased to grant by their
-                    warrant, dated the 6th <lb/>of April 1836, a distinguishing flag to be worn by
-                    the <lb/>respective vessels belonging to the Eastern Regatta <lb/>Club of
-                    Scotland, viz. a blue cornet flag, with a white <lb/>St Andrew's cross on the
-                    upper quarter on a red field.</p>
-                <p>
-            <hi rend="smallcaps">Heriot's Hospital.</hi>–At the meeting of the
-                    <lb/>Governors of George Heriot's Hospital, on Thursday <lb/>the 7th instant,
-                    the estimate of Messrs Trotter for <lb/>alterations and repairs on the chapel,
-                    amounting to <lb/>t935, was accepted, and it will gratify the friends of
-                    <lb/>economy to learn, that this is t65 under the sum <lb/>voted by a majority
-                    of the Governors for that purpose <lb/>some time ago. Thereafter a unanimous
-                    vote of <lb/>thanks was passed to Councillor Gillespie Graham, <lb/>for
-                    gratuitously furnishing a plan of the intended <lb/>improvements on the chapel,
-                    which was described by <lb/>Councillor Grant and others, as highly creditable to
-                    <lb/>the skill and good taste of that distinguished archi<lb break="no"/>tect.
-                    The Governors then proceeded to consider the <lb/>list of applications for
-                    admission of boys, preparatory <lb/>to the usual half-yearly election. There
-                    were 16 <lb/>vacancies and 37 applicants, who may be thus <lb/>classed
-                    :–</p>
-                <p>Those who have never received benefit from <lb/>George Heriot's Hospital, or any
-                    other insti<lb break="no"/>tution, 12 <lb/>Those who have received benefit for
-                    one <lb/>child, 13 <lb/>Do. for two children, 6 <lb/>Do. for three children, 5
-                    <lb/>Do. for five children, 1 <lb/>37</p>
-                <p>In considering cases the present practise of the Go<lb break="no"/>vernors is to
-                    give preference, first to children of wi<lb break="no"/>dows (being poor), then
-                    to those who have never re<lb break="no"/>ceived benefit, afterwards those who
-                    have had only <lb/>one child in, and so on. These were but three appli<lb break="no"/>cations for widow's children, and one for an orphan, <lb/>out of
-                    the above number, and it is therefore probable, <lb/>considering the large
-                    population of Edinburgh, that <lb/>it is not sufficiently known, that George
-                    Heriot, in <lb/>his will, expressly points out the <hi rend="italic">fatherless</hi> and <hi rend="italic">poor</hi>, <lb/>being children of
-                    burgesses and freemen, as the ob<lb break="no"/>jects of his
-                    charity–hence, if there be not a sufficient <lb/>numbers of really
-                    necessitous cases, the Governors, in <lb/>filling up the vacancies, may elect
-                    some that do not <lb/>appear to have strong claims, simply from those that
-                    <lb/>have such claims not coming forward in sufficient <lb/>numbers. <cb/>
-                    <lb/>
-            <hi rend="smallcaps">Political Economy.</hi>–On Thursday last the
-                    <lb/>course of lectures on Political Economy, delivered by <lb/>Dr Thomas
-                    Murray, in Elder Street Chapel, was <lb/>brought to a conclusion ; on which
-                    occasion the thanks <lb/>of the meeting were, on the motion of one of the mem<lb break="no"/>bers of committe, voted by acclamation to the lecturer <lb/>for
-                    his valuable services. After thanks had been re<lb break="no"/>turned by Dr
-                    Murray, Mr A. G. Hunter, merchant, <lb/>was called to the Chair, and some
-                    conversation having <lb/>taken place, the committee of management, who had
-                    <lb/>necessarily been self-elected, were confirmed by the <lb/>meeting in their
-                    office, and empowered to take such <lb/>steps as they might think expedient for
-                    obtaining <lb/>lectures to the industrious classes next winter. We
-                    <lb/>understand that Dr Murray is to be entertained at <lb/>supper, some evening
-                    next week, on the occasion of <lb/>being presented with a piece of silver
-                    plate.</p>
-                <p>It is with much regret we learn that John Grieve, <lb/>Esq. of Newington Cottage,
-                    died on Monday last. <lb/>He was beloved and esteemed for his estimable quali<lb break="no"/>ties by all who had the pleasure of his acquaintance, <lb/>and
-                    his death will be long and deeply regretted.</p>
-                <p>
-            <hi rend="italic">Rare Sights in London.</hi>–A young Scottish Miss,
-                    <lb/>who had voyaged the length of London on a pleasure <lb/>jaunt, returned the
-                    other day by one of the steamers, <lb/>and was met on landing by various members
-                    of her <lb/>family, who anxiously inquired what she had seen <lb/>in London. "
-                    Seen !" exclaimed the fair tourist <lb/>"I have seen such <hi rend="italic">sights !</hi> I saw the <hi rend="italic">Theological</hi>
-                    <lb/>Garden, and all the wild beasts in't!"</p>
-                <p>
-            <hi rend="smallcaps">The Theatre</hi>.–Mr C. Kean concluded his en<lb break="no"/>gagement on Thursday evening–an engagement <lb/>the
-                    longest and most brilliant of any that our <lb/>Theatre has witnessed for many
-                    years. Mr Kean <lb/>has been with us for a whole month, and has suc<lb break="no"/>ceeded in crowding the house almost every night. <lb/>We
-                    understand that upwards of 30,000 persons have <lb/>visited the theatre during
-                    his engagement–a number <lb/>beyond that of any former period of equal
-                    duration. <lb/>In that time he has appeared in some of the most <lb/>arduous and
-                    difficult of Shakespeare's characters <lb/>Hamlet, Richard, Macbeth, Othello,
-                    Shylock, and <lb/>King John, investing each with its own peculiar <lb/>charms
-                    and interest, and exciting the highest admira<lb break="no"/>tion and
-                    astonishment at the versatility and power of <lb/>his genius, which could give
-                    such individuality and <lb/>truth to so many dissimilar, distinct, and separate
-                    <lb/>classes of characters. The play with which his en<lb break="no"/>gagement
-                    concluded was Richard, which character he has <lb/>performed <hi rend="italic">seven</hi> times during his engagement ; the house <lb/>was, as usual,
-                    crowded in every part, and he exerted <lb/>himself most strenuously and
-                    successfully. At the con<lb break="no"/>clusion the cheers of the audience were
-                    loud and long, <lb/>and two laurel wreaths were thrown upon the stage <lb/>from
-                    different parts of the house. Mr K. being loud<lb break="no"/>ly called for,
-                    appeared in front of the stage, and de<lb break="no"/>livered the following very
-                    neat and appropriate ad<lb break="no"/>dress:–"<hi rend="italic">Ladies
-                        and Gentlemen,</hi>–I now stand before <lb/>you for the last time
-                    this season, but believe me <lb/>whichever way my pilgrimage may bend, my
-                    thoughts <lb/>will ever recur to Edinburgh as those of a child to <lb/>its
-                    distant home, fondly anticipating the hour when <lb/>he shall again stand upon
-                    its threshold. (Great cheer<lb break="no"/>ing.) Till that period permit me with
-                    a heavy, but a <lb/>grateful heart, to pronounce that melancholy word–
-                    <lb/>farewell." (Mr Kean then withdrew amidst reiterated <lb/>and enthusiastic
-                    plaudits from all parts of the house.) <lb/>–Mr K. we perceive, appears
-                    next in Aberdeen, <lb/>where the people are anticipating a rich treat from his
-                    <lb/>performances. The boxes there, we are told, are al<lb break="no"/>ready
-                    taken for several successive nights to come.– <lb/>Mrs Honey, from the
-                    Theatre Royal, Haymarket, <lb/>makes her appearance here on Monday first.</p>
-                <p>On Wednesday evening, Mr John G. Moxey, <lb/>baker, Castle Street, was
-                    entertained at supper, in <lb/>Menzie's Hotel and Tavern, Waterloo Place, by a
-                    <lb/>party of friends, of about fifty in number, previous to his <lb/>leaving
-                    this country for America, to which he is about <lb/>to emigrate. The company was
-                    very harmonious, and <lb/>the compliment must have been very gratifying to
-                    <lb/>Mr Moxey.</p>
-                <p>
-            <hi rend="italic">Qualifications of General Assembly Elders.</hi>–The
-                    <lb/>Presbytery of Cupar, at their meeting on the 29th ult. <lb/>elected the
-                    Earl of Leven and Melville, and Walter <lb/>Malcolm, Esq. Edinburgh, to
-                    represent them in the <lb/>ensuing Assembly. Mr Malcolm is factor for Cap<lb break="no"/>tain Hay of Mugdrum, who is principal heritor in <lb/>the parish
-                    of Newburgh, and was lately ordained an <lb/>elder there. Against his election
-                    to serve in the As<lb break="no"/>sembly a protest and appeal were taken, on the
-                    grounds, <lb/>as we understand, that he has no domicile within the <lb/>bounds
-                    of Presbytery, and is not an officiating elder; <lb/>the protesters allowing
-                    that his election, though con<lb break="no"/>sistent with the letter, is
-                    contrary to the spirit of an <lb/>act of Assembly passed in 1816. If the appeal
-                    is <lb/>sustained, it is evident that a large proportion of the <lb/>Assembly
-                    elders must vacate their seats. Intimation <lb/>also was given by D. Maitland
-                    M'Gill, Esq., that <lb/>when the commissions came to be attested, he would
-                    <lb/>move for evidence being produced that the elders-elect <lb/>maintain family
-                    worship. An amusing inquiry was <lb/>instituted in the Presbytery last year
-                    respecting the <lb/>Earl of Leven's habits of domestic devotion ; and a
-                    <lb/>clerical member had the candour to say, he should <lb/>wish to know how it
-                    was with the ministers themselves <lb/>in that respect.</p>
-                <p>The University of St Andrews has just conferred <lb/>the degree of Doctor of
-                    Divinity on the Rev. Professor <lb/>Paxton, of Edinburgh. In bestowing this
-                    public <lb/>honour on one, who, during a long and useful life, has <lb/>done so
-                    much for the cause of literature and religion, <lb/>the members of the College
-                    have done an act which <lb/>shows that they can appreciate real merit, and which
-                    <lb/>will entitle them to the gratitude of the religious pub<lb break="no"/>lic
-                    of Scotland. Those who have had the good for<lb break="no"/>tune to enjoy the
-                    public ministrations of Professor <lb/>Paxton, and even the general church-going
-                        commu<lb break="no"/>nity, are well aware of the rich and glowing eloquence,
-                    <lb/>of the pious and heartfelt warmth, and of the classical <lb/>elegance which
-                    have long characterised his public <lb/>preaching. Even beyond the religious
-                    body of which <lb/>he is the ornament, he is well known as one of the <lb/>most
-                    popular and impressive teachers of the day. In <lb/>his lectures on Theology, as
-                    Professor to the General <lb/>Associate Synod, and afterwards to the Associate
-                    <lb/>Synod, he displayed the results of an extensive and <lb/>profound critical
-                    study of the Scriptures, and of an <lb/>unwearied research into the Natural
-                    History, and the <lb/>manners and usages of the ancients nations. The <lb/>work
-                    by which he is chiefly known as an author– <lb/>
-            <hi rend="italic">The
-                        Illustrations of Scripture</hi>–will long bear testi<lb break="no"/>mony to the extent of his learning, and of his Orien<lb break="no"/>tal
-                    investigations, and to his powers of lucid and elo<lb break="no"/>quent
-                    composition. We understand that the attention <lb/>of the College was directed
-                    to Mr Paxton's merits by <lb/>the distinguished Professor of Oriental Languages.
-                    <lb/>This anxiety to do justice to a fellow labourer in the <lb/>same field of
-                    study, reflects high honour on the dis<lb break="no"/>crimination and the heart
-                    of Mr Tennant.</p>
-                <p>
-            <hi rend="italic">Public Dinner to Professor Dick.</hi>–On Tuesday
-                    <lb/>last, the Students ofthe Edinburgh Veterinary Col<lb break="no"/>lege and a
-                    number of Veterinary Surgeons and other <lb/>gentlemen (in all upwards of 70)
-                    from various parts <lb/>of Scotland, entertained Professor Dick to a public
-                    <lb/>dinner in the Waterloo Hotel. John Lambert, Esq. <lb/>in the Chair, and
-                    Alexander Gordon, jun Esq. crou<lb break="no"/>pier. The stewards were Ed.
-                    Pyper, Esq. of West <lb/>Craigs, J. R. Laing, Esq. jun of Dunkenny, Sa<lb break="no"/>muel Wordsworth, jun. Esq. W.S., Dr Malcolm, <lb/>James Miller,
-                    Esq. and George Rennie, Esq.– <lb/>Amongst the gentlemen present we
-                    observed Professors <lb/>Low and Lizars ; Drs Robertson, Spittal, Knox, and
-                    <lb/>Aitken, Mr Ferguson, surgeon ; J. B. Murdoch, <lb/>Esq. of Coldoch; Charles
-                    Gordon, Esq. Secretary <lb/>to the Highland Society of Scotland ; A. T. Black<lb break="no"/>wood, Esq. of Oggs Castle ; Mr Dick, senior &amp;c. <lb/>The
-                    cloth having been removed and the usual loyal <lb/>toasts drank, the chairman,
-                    in a neat and appropriate <lb/>speech, proposed the health of Professor Dick, to
-                    <lb/>whom the present meeting had assembled to do ho<lb break="no"/>nour, and
-                    who at once commanded their esteem as a <lb/>member of society and their
-                    admiration as a man of <lb/>talent, which toast was drank with the greatest
-                        en<lb break="no"/>thusiasm. The chairman then proposed his Grace <lb/>the
-                    Duke of Gordon and the Highland and Agricul<lb break="no"/>tural Society of
-                    Scotland, Patrons of the Edinburgh <lb/>Veterinary College, which was followed
-                    by a variety <lb/>of other appropriate toasts. Many excellent songs <lb/>were
-                    sung, and the conviviality of the evening was <lb/>kept up until a late
-                    hour.</p>
-                <p>
-            <hi rend="italic">Royal Infirmary</hi>–We understand that the Ste<lb break="no"/>wards of the late Fancy Ball for the benefit of the <lb/>Royal
-                    Infirmary have, by their judicious arrange<lb break="no"/>ments in the
-                    management of the ball, been enabled to <lb/>pay over to the trustees of that
-                    institution, (after de<lb break="no"/>ducting all expenses) the sum of t432, 7s.
-                    8d. The <lb/>managers of the Infirmary, as well as the public at <lb/>large, are
-                    certainly much indebted to the gentlemen <lb/>who acted as stewards upon that
-                    occasion, for their <lb/>valuable extertions, particularly at the present time,
-                    in <lb/>support of this great and useful institution, for the <lb/>relief of
-                    those labouring under the united calamities <lb/>of indigence and disease.</p>
-            </body>
-        </text>
-    </TEI>
+         <p>
+            <hi rend="italic">Leith Mechanics' Friendly Assurance Society.</hi> – <lb/>The fifth annual meeting of this Institution was held <lb/>on Tuesday last–John Hutton, Esq., one of the <lb/>Honorary Members, President of the Society, in the <lb/>chair. A very satisfactory report for the last year was <lb/>read, and thanks were voted to the different Office<lb break="no"/> 
+            <lb/>bearers. It appears that this society was established <lb/>under the countenance of the Magistrates and Minis<lb break="no"/>ters, and various influential individuals in Leith, and <lb/>is well deserving of encouragement, as affording the <lb/>benefits of mutual insurance to the working classes, <lb/>the lowest rates consistent with perfect security. <lb/>The funds, we understand, are in a prosperous state.</p>
+         <p>
+            <hi rend="italic">Hay and Straw.</hi> –In consequence of it having been <lb/>alleged last Wednesday, that higher prices were got <lb/>for straw than those quoted, we have made due in<lb break="no"/>quiry, and find there are no grounds for such an alle<lb break="no"/>gation. We have been further assured, that in re<lb break="no"/>porting the prices of hay and straw for these two years <lb/>past, the clerk of the corn market has never shown a <lb/>desire to favour the farm servants at the expense of <lb/>their employers, or to favour either party at the ex<lb break="no"/>pense of the public.</p>
+         <p>The Lords Commissioners of the Admiralty have <lb/>been pleased to grant by their warrant, dated the 6th <lb/>of April 1836, a distinguishing flag to be worn by the <lb/>respective vessels belonging to the Eastern Regatta <lb/>Club of Scotland, viz. a blue cornet flag, with a white <lb/>St Andrew's cross on the upper quarter on a red field.</p>
+         <p>
+            <hi rend="smallcaps">Heriot's Hospital.</hi> –At the meeting of the <lb/>Governors of George Heriot's Hospital, on Thursday <lb/>the 7th instant, the estimate of Messrs Trotter for <lb/>alterations and repairs on the chapel, amounting to <lb/>t935, was accepted, and it will gratify the friends of <lb/>economy to learn, that this is t65 under the sum <lb/>voted by a majority of the Governors for that purpose <lb/>some time ago. Thereafter a unanimous vote of <lb/>thanks was passed to Councillor Gillespie Graham, <lb/>for gratuitously furnishing a plan of the intended <lb/>improvements on the chapel, which was described by <lb/>Councillor Grant and others, as highly creditable to <lb/>the skill and good taste of that distinguished archi<lb break="no"/>tect. The Governors then proceeded to consider the <lb/>list of applications for admission of boys, preparatory <lb/>to the usual half-yearly election. There were 16 <lb/>vacancies and 37 applicants, who may be thus <lb/>classed :–</p>
+         <p>Those who have never received benefit from <lb/>George Heriot's Hospital, or any other insti<lb break="no"/>tution, 12 <lb/>Those who have received benefit for one <lb/>child, 13 <lb/>Do. for two children, 6 <lb/>Do. for three children, 5 <lb/>Do. for five children, 1 <lb/>37</p>
+         <p>In considering cases the present practise of the Go<lb break="no"/>vernors is to give preference, first to children of wi<lb break="no"/>dows (being poor), then to those who have never re<lb break="no"/>ceived benefit, afterwards those who have had only <lb/>one child in, and so on. These were but three appli<lb break="no"/>cations for widow's children, and one for an orphan, <lb/>out of the above number, and it is therefore probable, <lb/>considering the large population of Edinburgh, that <lb/>it is not sufficiently known, that George Heriot, in <lb/>his will, expressly points out the<hi rend="italic">fatherless</hi>  and<hi rend="italic">poor</hi> , <lb/>being children of burgesses and freemen, as the ob<lb break="no"/>jects of his charity–hence, if there be not a sufficient <lb/>numbers of really necessitous cases, the Governors, in <lb/>filling up the vacancies, may elect some that do not <lb/>appear to have strong claims, simply from those that <lb/>have such claims not coming forward in sufficient <lb/>numbers.<cb/> 
+            <lb/>
+            <hi rend="smallcaps">Political Economy.</hi> –On Thursday last the <lb/>course of lectures on Political Economy, delivered by <lb/>Dr Thomas Murray, in Elder Street Chapel, was <lb/>brought to a conclusion ; on which occasion the thanks <lb/>of the meeting were, on the motion of one of the mem<lb break="no"/>bers of committe, voted by acclamation to the lecturer <lb/>for his valuable services. After thanks had been re<lb break="no"/>turned by Dr Murray, Mr A. G. Hunter, merchant, <lb/>was called to the Chair, and some conversation having <lb/>taken place, the committee of management, who had <lb/>necessarily been self-elected, were confirmed by the <lb/>meeting in their office, and empowered to take such <lb/>steps as they might think expedient for obtaining <lb/>lectures to the industrious classes next winter. We <lb/>understand that Dr Murray is to be entertained at <lb/>supper, some evening next week, on the occasion of <lb/>being presented with a piece of silver plate.</p>
+         <p>It is with much regret we learn that John Grieve, <lb/>Esq. of Newington Cottage, died on Monday last. <lb/>He was beloved and esteemed for his estimable quali<lb break="no"/>ties by all who had the pleasure of his acquaintance, <lb/>and his death will be long and deeply regretted.</p>
+         <p>
+            <hi rend="italic">Rare Sights in London.</hi> –A young Scottish Miss, <lb/>who had voyaged the length of London on a pleasure <lb/>jaunt, returned the other day by one of the steamers, <lb/>and was met on landing by various members of her <lb/>family, who anxiously inquired what she had seen <lb/>in London. " Seen !" exclaimed the fair tourist <lb/>"I have seen such<hi rend="italic">sights !</hi>  I saw the<hi rend="italic">Theological </hi>
+            <lb/>Garden, and all the wild beasts in't!"</p>
+         <p>
+            <hi rend="smallcaps">The Theatre</hi> .–Mr C. Kean concluded his en<lb break="no"/>gagement on Thursday evening–an engagement <lb/>the longest and most brilliant of any that our <lb/>Theatre has witnessed for many years. Mr Kean <lb/>has been with us for a whole month, and has suc<lb break="no"/>ceeded in crowding the house almost every night. <lb/>We understand that upwards of 30,000 persons have <lb/>visited the theatre during his engagement–a number <lb/>beyond that of any former period of equal duration. <lb/>In that time he has appeared in some of the most <lb/>arduous and difficult of Shakespeare's characters <lb/>Hamlet, Richard, Macbeth, Othello, Shylock, and <lb/>King John, investing each with its own peculiar <lb/>charms and interest, and exciting the highest admira<lb break="no"/>tion and astonishment at the versatility and power of <lb/>his genius, which could give such individuality and <lb/>truth to so many dissimilar, distinct, and separate <lb/>classes of characters. The play with which his en<lb break="no"/>gagement concluded was Richard, which character he has <lb/>performed<hi rend="italic">seven</hi>  times during his engagement ; the house <lb/>was, as usual, crowded in every part, and he exerted <lb/>himself most strenuously and successfully. At the con<lb break="no"/>clusion the cheers of the audience were loud and long, <lb/>and two laurel wreaths were thrown upon the stage <lb/>from different parts of the house. Mr K. being loud<lb break="no"/>ly called for, appeared in front of the stage, and de<lb break="no"/>livered the following very neat and appropriate ad<lb break="no"/>dress:–"<hi rend="italic">Ladies and Gentlemen,</hi> –I now stand before <lb/>you for the last time this season, but believe me <lb/>whichever way my pilgrimage may bend, my thoughts <lb/>will ever recur to Edinburgh as those of a child to <lb/>its distant home, fondly anticipating the hour when <lb/>he shall again stand upon its threshold. (Great cheer<lb break="no"/>ing.) Till that period permit me with a heavy, but a <lb/>grateful heart, to pronounce that melancholy word– <lb/>farewell." (Mr Kean then withdrew amidst reiterated <lb/>and enthusiastic plaudits from all parts of the house.) <lb/>–Mr K. we perceive, appears next in Aberdeen, <lb/>where the people are anticipating a rich treat from his <lb/>performances. The boxes there, we are told, are al<lb break="no"/>ready taken for several successive nights to come.– <lb/>Mrs Honey, from the Theatre Royal, Haymarket, <lb/>makes her appearance here on Monday first.</p>
+         <p>On Wednesday evening, Mr John G. Moxey, <lb/>baker, Castle Street, was entertained at supper, in <lb/>Menzie's Hotel and Tavern, Waterloo Place, by a <lb/>party of friends, of about fifty in number, previous to his <lb/>leaving this country for America, to which he is about <lb/>to emigrate. The company was very harmonious, and <lb/>the compliment must have been very gratifying to <lb/>Mr Moxey.</p>
+         <p>
+            <hi rend="italic">Qualifications of General Assembly Elders.</hi> –The <lb/>Presbytery of Cupar, at their meeting on the 29th ult. <lb/>elected the Earl of Leven and Melville, and Walter <lb/>Malcolm, Esq. Edinburgh, to represent them in the <lb/>ensuing Assembly. Mr Malcolm is factor for Cap<lb break="no"/>tain Hay of Mugdrum, who is principal heritor in <lb/>the parish of Newburgh, and was lately ordained an <lb/>elder there. Against his election to serve in the As<lb break="no"/>sembly a protest and appeal were taken, on the grounds, <lb/>as we understand, that he has no domicile within the <lb/>bounds of Presbytery, and is not an officiating elder; <lb/>the protesters allowing that his election, though con<lb break="no"/>sistent with the letter, is contrary to the spirit of an <lb/>act of Assembly passed in 1816. If the appeal is <lb/>sustained, it is evident that a large proportion of the <lb/>Assembly elders must vacate their seats. Intimation <lb/>also was given by D. Maitland M'Gill, Esq., that <lb/>when the commissions came to be attested, he would <lb/>move for evidence being produced that the elders-elect <lb/>maintain family worship. An amusing inquiry was <lb/>instituted in the Presbytery last year respecting the <lb/>Earl of Leven's habits of domestic devotion ; and a <lb/>clerical member had the candour to say, he should <lb/>wish to know how it was with the ministers themselves <lb/>in that respect.</p>
+         <p>The University of St Andrews has just conferred <lb/>the degree of Doctor of Divinity on the Rev. Professor <lb/>Paxton, of Edinburgh. In bestowing this public <lb/>honour on one, who, during a long and useful life, has <lb/>done so much for the cause of literature and religion, <lb/>the members of the College have done an act which <lb/>shows that they can appreciate real merit, and which <lb/>will entitle them to the gratitude of the religious pub<lb break="no"/>lic of Scotland. Those who have had the good for<lb break="no"/>tune to enjoy the public ministrations of Professor <lb/>Paxton, and even the general church-going commu<lb break="no"/>nity, are well aware of the rich and glowing eloquence, <lb/>of the pious and heartfelt warmth, and of the classical <lb/>elegance which have long characterised his public <lb/>preaching. Even beyond the religious body of which <lb/>he is the ornament, he is well known as one of the <lb/>most popular and impressive teachers of the day. In <lb/>his lectures on Theology, as Professor to the General <lb/>Associate Synod, and afterwards to the Associate <lb/>Synod, he displayed the results of an extensive and <lb/>profound critical study of the Scriptures, and of an <lb/>unwearied research into the Natural History, and the <lb/>manners and usages of the ancients nations. The <lb/>work by which he is chiefly known as an author– <lb/>
+            <hi rend="italic">The Illustrations of Scripture</hi> –will long bear testi<lb break="no"/>mony to the extent of his learning, and of his Orien<lb break="no"/>tal investigations, and to his powers of lucid and elo<lb break="no"/>quent composition. We understand that the attention <lb/>of the College was directed to Mr Paxton's merits by <lb/>the distinguished Professor of Oriental Languages. <lb/>This anxiety to do justice to a fellow labourer in the <lb/>same field of study, reflects high honour on the dis<lb break="no"/>crimination and the heart of Mr Tennant.</p>
+         <p>
+            <hi rend="italic">Public Dinner to Professor Dick.</hi> –On Tuesday <lb/>last, the Students ofthe Edinburgh Veterinary Col<lb break="no"/>lege and a number of Veterinary Surgeons and other <lb/>gentlemen (in all upwards of 70) from various parts <lb/>of Scotland, entertained Professor Dick to a public <lb/>dinner in the Waterloo Hotel. John Lambert, Esq. <lb/>in the Chair, and Alexander Gordon, jun Esq. crou<lb break="no"/>pier. The stewards were Ed. Pyper, Esq. of West <lb/>Craigs, J. R. Laing, Esq. jun of Dunkenny, Sa<lb break="no"/>muel Wordsworth, jun. Esq. W.S., Dr Malcolm, <lb/>James Miller, Esq. and George Rennie, Esq.– <lb/>Amongst the gentlemen present we observed Professors <lb/>Low and Lizars ; Drs Robertson, Spittal, Knox, and <lb/>Aitken, Mr Ferguson, surgeon ; J. B. Murdoch, <lb/>Esq. of Coldoch; Charles Gordon, Esq. Secretary <lb/>to the Highland Society of Scotland ; A. T. Black<lb break="no"/>wood, Esq. of Oggs Castle ; Mr Dick, senior &amp;c. <lb/>The cloth having been removed and the usual loyal <lb/>toasts drank, the chairman, in a neat and appropriate <lb/>speech, proposed the health of Professor Dick, to <lb/>whom the present meeting had assembled to do ho<lb break="no"/>nour, and who at once commanded their esteem as a <lb/>member of society and their admiration as a man of <lb/>talent, which toast was drank with the greatest en<lb break="no"/>thusiasm. The chairman then proposed his Grace <lb/>the Duke of Gordon and the Highland and Agricul<lb break="no"/>tural Society of Scotland, Patrons of the Edinburgh <lb/>Veterinary College, which was followed by a variety <lb/>of other appropriate toasts. Many excellent songs <lb/>were sung, and the conviviality of the evening was <lb/>kept up until a late hour.</p>
+         <p>
+            <hi rend="italic">Royal Infirmary</hi> –We understand that the Ste<lb break="no"/>wards of the late Fancy Ball for the benefit of the <lb/>Royal Infirmary have, by their judicious arrange<lb break="no"/>ments in the management of the ball, been enabled to <lb/>pay over to the trustees of that institution, (after de<lb break="no"/>ducting all expenses) the sum of t432, 7s. 8d. The <lb/>managers of the Infirmary, as well as the public at <lb/>large, are certainly much indebted to the gentlemen <lb/>who acted as stewards upon that occasion, for their <lb/>valuable extertions, particularly at the present time, in <lb/>support of this great and useful institution, for the <lb/>relief of those labouring under the united calamities <lb/>of indigence and disease.</p>
+      </body>
+   </text>
+</TEI>

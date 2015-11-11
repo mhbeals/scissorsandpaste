@@ -1,369 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>373</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on <date when="20130608">
-                            20130608</date> by <persName role="collection">M. H. Beals</persName>.
-                        Transcribed on <date when="2015-02-27">20150227</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from
-                                    <ref target="http://news.google.com/newspapers?id=i0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=2491%2C610959"/>Google News Archive</authority>
-                            <pubPlace>
-                                <address> 
-                        <settlement>Glasgow</settlement> 
-                        <region>Scotland</region> 
-                        <country>United Kingdom</country> 
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>373</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on<date when="20130608"> 20130608</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2015-02-27">20150227</date> by<persName role="transcription">M. H. Beals</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitised image available from
+<ref target="http://news.google.com/newspapers?id=i0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=2491%2C610959"/>Google News Archive</authority>
+                  <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1794-01-27"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="composite"/>
-                    <derivation type="plagiarism"/>
-                    <domain type="public"/>
-                    <factuality type="fact"/>
-                    <interaction type="none" active="singular" passive="group"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>speeches</item>
-                            <item>trade</item>
-                            <item>Native Americans</item>
-                            <item>Anglo-American relations</item>
-                            <item>foreign relations</item>
-                            <item>embargoes</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <head>AMERICAN STATES</head>
-                <p>
-                    <pb n="1"/>
-                    <hi rend="center">FEDERAL LEGISLATURE.</hi>
-                </p>
-                <p>
-                    <hi rend="center">
+                  </pubPlace>
+                  <date when="1794-01-27"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="composite"/>
+            <derivation type="plagiarism"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none" active="singular" passive="group"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>speeches</item>
+                  <item>trade</item>
+                  <item>Native Americans</item>
+                  <item>Anglo-American relations</item>
+                  <item>foreign relations</item>
+                  <item>embargoes</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>AMERICAN STATES</head>
+         <p>
+            <pb n="1"/>
+            <hi rend="center">FEDERAL LEGISLATURE.</hi> 
+         </p>
+         <p>
+            <hi rend="center">
                <hi rend="smallcaps">House </hi>
                <hi rend="italic">of </hi>
-               <hi rend="smallcaps">Representatives</hi>. <hi rend="italic">Dec</hi>.
-                        3.</hi>
-                </p>
-                <p> THE Secretary of the Senate announced, that <lb/>the Members of the Senate were
-                    ready to ad<lb break="no"/>mit the Members of the House of Representatives
-                    <lb/>in the Senate Chamber, in order to receive the Pre<lb break="no"/>sident's
-                    communication. </p>
-                <p>
-                    <hi rend="center">FELLOW-CITIZENS OF THE SENATE AND OF <lb/>THE HOUSE OF
-                        REPRESENTATIVES,</hi>
-                </p>
-                <p> Since the commencement of the term for which I have<lb/>been again called into
-                    office, no fit occasion has arisen for <lb/>expressing to me fellow citizens at
-                    large, the deep and <lb/>respectful sense which I feel of the renewed testimony
-                    <lb/>of public approbation. While on the one hand it awaken<lb break="no"/>ed my
-                    gratitude for all those instances of affectionate par<lb break="no"/>tiality
-                    with which I have been honoured by my country; <lb/>on the other, it could not
-                    prevent an earnest wish for that <lb/>retirement, from which no private
-                    consideration should <lb/>ever have torn me. But influenced by the belief, that
-                    <lb/>my conduct would be estimated according to its real mo<lb break="no"/>tives; and that the people, and the authorities derived <lb/>from them, would
-                    support exertions having nothing per<lb break="no"/>sonal for their object, I
-                    have obeyed the suffrage which <lb/>commanded me to resume the executive power;
-                    and I <lb/>humbly implore that Being, on whose will the fate of <lb/>nations
-                    depends, to crown with success our mutual endea<lb break="no"/>vors for the
-                    general happiness.</p>
-                <p> As soon as the war in Europe had embraced those powers <lb/>with whom the United
-                    States have the most extensive re<lb break="no"/>lations there was reason to
-                    apprehend that our intercourse <lb/>with them might be interrupted, and our
-                    disposition for <lb/>peace drawn into question, by the suspicions too often
-                    <lb/>entertained by belligerent nations. It seemed therefore <lb/>to be my duty
-                    to admonish our citizens of the consequen<lb break="no"/>ces of a contraband
-                    trade, and of hostile acts to any of <lb/>the parties; and to obtain by a
-                    declaration of the exist<lb break="no"/>ing legal state of things, an easier
-                    admission of our right <lb/>to the immunities belonging to our situation. Under
-                    <lb/>these impressions, the proclamation, which will be laid before you, was
-                    issued.</p>
-                <p>In this posture of affairs, both new and delicate, I res<lb break="no"/>olved to
-                    adopt general rules which should conform to <lb/>the treaties and assert the
-                    privileges of the United <lb/>States. These were reduced into a system which
-                    will be <lb/>communicated to you. Although I have not thought <lb/>myself at
-                    liberty to forbid the sale of the prizes, permit<lb break="no"/>ted by our
-                    treaty of commerce with France, to be brought <lb/>into our ports; I have not
-                    refused to cause them to be <lb/>restored, when they were taken within the
-                    protection of <lb/>our territory, or by vessels commissioned, or equipped in
-                    <lb/>a warlike form within the limits of the United States.</p>
-                <p>It rests with the wisdom of Congress to correct, im<lb break="no"/>prove, or
-                    enforce this plan of procedure; and it will pro<lb break="no"/>bably be found
-                    expedient to extend the legal code, and<lb/>the jurisdiction of the Courts of
-                    the United States to ma<lb break="no"/>ny cases which, though dependent on
-                    principles already <lb/>recognized, demand some further provisions.</p>
-                <p> Where individuals shall, within the United States, ar<lb break="no"/>ray
-                    themselves in hostility against any of the powers at war, <lb/>or enter upon
-                    military expeditions or enterprizes within <lb/>the jurisdiction of the United
-                    States; or where the pe<lb break="no"/>nalties on violations of the law of
-                    nations may have been <lb/>indistinctly marked, or are inadequate; those
-                    offenses <lb/>cannot receive too early and close an attention, and require
-                    prompt and decisive remedies.</p>
-                <cb/>
-                <p>Whatsoever those remedies may be, they will be well <lb/>administered by the
-                    judiciary, who possess a long-esta<lb break="no"/>blished course of
-                    investigation, effectual process, and offi<lb break="no"/>cers in the habit of
-                    executing it. </p>
-                <p>In like manner, as several of the courts have doubted, <lb/>under particular
-                    circumstances, their power to liberate the <lb/>vessels of a nation at peace,
-                    and even of a citizen of the <lb/>United States, although seized under a false
-                    colour of be<lb break="no"/>ing hostile property; and have denied their power to
-                        liber<lb break="no"/>ate certain captures within the protection of our
-                        territo<lb break="no"/>ry; it would seem proper to regulate their
-                    jurisdiction in <lb/>these points. But if the executive is to be the resort in
-                    <lb/>either of the two last mentioned cases it is hoped that he will <lb/>be
-                    authorized by law to have facts ascertained by the courts, when, for his own
-                    information, he shall request it.</p>
-                <p>I can not recommend to your notice measures for the <lb/>fulfillment of our
-                    duties to the rest of the world, without a<lb break="no"/>gain pressing upon you
-                    the necessity of placing ourselves <lb/>in a condition of complete defense, and
-                    of exacting from <lb/>
-            <hi rend="italic">them</hi> the fulfillment of <hi rend="italic">their</hi> duties toward <hi rend="italic">us</hi>. The U<lb break="no"/>nited States ought not to indulge a persuasion, that, con<lb break="no"/>trary to the order of human events, they will for ever <lb/>keep
-                    at a distance those painful appeals to arms, with <lb/>which the history of
-                    every other nation abounds. There <lb/>is a rank due to the United States among
-                    nations, which <lb/>will be withheld, if not absolutely lost, by the reputation
-                    of weakness. If we desire to avoid insult, we must be <lb/>able to repel it; If
-                    we desire to secure peace, one of the <lb/>most powerful instruments of our
-                    rising prosperity, it <lb/>must be known that we are at all times ready for war.
-                    <lb/>The documents which will be presented to you will shew <lb/>the amount, and
-                    kinds of arms and military stores now <lb/>in our magazines and arsenals; and
-                    yet an addition even <lb/>to these supplies cannot with prudence be neglected,
-                    as it <lb/>would leave nothing to the uncertainty of procuring a <lb/>warlike
-                    apparatus in the moment of public danger.</p>
-                <p>Nor can such arrangements, with such objects, be ex<lb break="no"/>posed to the
-                    censure or jealousy of the warmest friends of <lb/>Republican Government. They
-                    are incapable of abuse <lb/>in the hands of the militia, who ought to possess a
-                    pride <lb/>in being the depository of the force of the Republic, and <lb/>may be
-                    trained to a degree of energy equal to every mi<lb break="no"/>litary exigency
-                    of the United States. But it is an en<lb break="no"/>quiry which cannot be too
-                    solemnly pursued, whether <lb/>the act, "more effectually to provide for the
-                    national <lb/>defense by establishing an uniform militia throughout <lb/>the
-                    United States," has organized them so as to produce <lb/>their full effect;
-                    whether your own experience in the se<lb break="no"/>veral States has not
-                    detected some imperfections in the <lb/>scheme; and whether a material feature
-                    in an improve<lb break="no"/>ment of it ought not to be to afford an opportunity
-                    for <lb/>the study of those branches of the military art which can <lb/>scarcely
-                    ever be attained by practice alone. </p>
-                <p>The connection of the United States with Europe has <lb/>become extremely
-                    interesting. The occurrences which <lb/>relate to it ,and have passed under the
-                    knowledge of the <lb/>Executive, will be exhibited to Congress in a subsequent
-                    <lb/>communication.</p>
-                <p>When we contemplate the war on our frontiers, it <lb/>may be truly affirmed that
-                    every reasonable effort has <lb/>been made to adjust the causes of dissension
-                    with the In<lb break="no"/>dians north of the Ohio. The instructions given to
-                    the <lb/>Commissioners evince a moderation and equity; proceed<lb break="no"/>ing from a sincere love of peace, and a liberality, having <lb/>no restriction
-                    but the essential interests and dignity of the <lb/>United States. The attempt,
-                    however, of an amicable <lb/>negotiation having been frustrated, the troops have
-                    <lb/>marched to act offensively. Although the proposed <lb/>treaty did not
-                    arrest the progress of military preparation, <lb/>it is doubtful how far the
-                    advance of the season, before <lb/>good faith justified active movements, may
-                    retard them, <lb/>during the remainder of the year. From the papers <lb/>and
-                    intelligence, which relate to this important subject, <cb/> you will determine
-                    whether the deficiency in the number <lb/>of troops granted by law shall be
-                    compensated by suc<lb break="no"/>cors of militia, or additional encouragements
-                    shall be proposed to recruits. </p>
-                <p>An anxiety has been also demonstrated by the Execu<lb break="no"/>tive for peace
-                    with the Creeks and the Cherokees. The for<lb break="no"/>mer have been relieved
-                    with corn and with clothing, and <lb/>offensive measures against them prohibited
-                    <lb/>during the recess of Congress. To satisfy the complaints of the
-                    <lb/>latter, prosecutions have been instituted for the violences <lb/>committed
-                    upon them. But the papers which will be <lb/>delivered to you, disclose the
-                    critical footing on which <lb/>we stand in regard to both those tribes; and it
-                    is with Congress to pronounce what shall be done.</p>
-                <p> After they shall have provided for the present emer<lb break="no"/>gency, it
-                    will merit their most serious labours to render <lb/>tranquillity with the
-                    savages permanent, by creating ties <lb/>of interest. Next to a rigorous
-                    execution of justice <lb/>on the violators of peace, the establishment of
-                    commerce <lb/>with the Indian nations in behalf of the United States, <lb/>is
-                    most likely to conciliate their attachment. But it <lb/>ought to be conducted
-                    without fraud, without extortion; with constant and plentiful supplies; with a
-                    ready mar<lb break="no"/>ket for the commodities of the Indians, and a stated
-                    price <lb/>for what they give in payment and receive in exchange.
-                    <lb/>Individuals will not pursue such a traffic, unless they be <lb/>allured by
-                    the hope of profit; but it will be enough for <lb/>the United States to be
-                    reimbursed only. Should this recommendation accord with the opinion of Congress,
-                    <lb/>they will recollect that it can not be accomplished by any <lb/>means yet
-                    in the hands of the Executive.</p>
-                <p>
-                    <hi rend="center">GENTLEMEN OF THE HOUSE OF <lb/>REPRESENTATIVES, </hi>
-                </p>
-                <p> The commissioners charged with the settlement of the <lb/>accounts between the
-                    United and Individual States con<lb break="no"/>cluded their important function
-                    within the limited time <lb/>by law; and the balances struck in their report,
-                    which <lb/>will be laid before congress, have been placed on the books <lb/>of
-                    the Treasury. </p>
-                <p>On the 1st day of June last, an installment of on mil<lb break="no"/>lion of
-                    florins became payable on the loans of the United <lb/>States in Holland. This
-                    was adjusted by a prolongation <lb/>of the period of reimbursement, in nature of
-                    a new loan, <lb/>at an interest of five per cent. for the term of ten years;
-                    <lb/>and the expenses of this operation were a commission of <lb/>three per
-                    cent.</p>
-                <p>The first installment of the loan of two millions of <lb/>dollars from the Bank
-                    of the United States, has been paid, <lb/>as was directed by law. For the second
-                    it is necessary <lb/>that provision be made.</p>
-                <p>No pecuniary consideration is more urgent, than the <lb/>redemption and discharge
-                    of the public debt: On none <lb/>can delay be more injurious, or an economy of
-                    time <lb/>more valuable.</p>
-                <p>The productiveness of the public revenues hitherto, <lb/>has continued to equal
-                    the anticipations which were form<lb break="no"/>ed of it; but it is not
-                    expected to prove <lb/>commensurate with all the objects which have been
-                    suggested. Some <lb/>auxiliary provisions will therefore, it is presumed, be
-                        re<lb break="no"/>quisite: and it is hoped that these may be made consis<lb break="no"/>tently with a due regard to the convenience of ourcitizens
-                    <lb/>who can not but be sensible of the true wisdom of encoun<lb break="no"/>tering a small present addition to their contributions to <lb/>obviate a
-                    future accumulation of burdens.</p>
-                <p>But here I can not forbear to recommend a repeal of <lb/>the tax on the
-                    transportation of public prints. There <lb/>is no resource so firm for the
-                    government of the United States as the affections of the People guided by an
-                        enligh<lb break="no"/>tened policy; and to this primary good, nothing can
-                    <lb/>conduce more than a faithful representation of public <lb/>proceedings,
-                    diffused, without restraint, throughout the United States. An estimate of the
-                    appropriations necessary for the <pb n="2"/> current service of the ensuing year
-                    and a statement of a <lb/>purchase of arms and military stores, made during the
-                        re<lb break="no"/>cess will be presented to Congress. </p>
-                <p>GENTLEMEN OF THE SENATE AND OF THE <lb/>HOUSE OF REPRESENTATIVES, </p>
-                <p> The several subjects, to which I have now referred, o<lb break="no"/>pen a wide
-                    range to your deliberations and involve <lb/>some of the choicest interests of
-                    our common country. Permit <lb/>me to bring to your remembrance the magnitude of
-                    your <lb/>task:–Without an unprejudiced coolness, the welfare of <lb/>the
-                    government may be hazarded; without harmony, as <lb/>far as consists with
-                    freedom of sentiment, its dignity may <lb/>be lost.–But as the
-                    legislative proceedings of the United <lb/>States will never, I trust, be
-                    reproached for the want of <lb/>temper or of candour, so shall not the public
-                    happiness lan<lb break="no"/>guish from the want of my strenuous and warmest
-                    cooperation. </p>
-                <p>
-                    <hi rend="right">GEORGE WASHINGTON.</hi>
-                </p>
-                <p>
-            <hi rend="italc">Philadelphia, Dec</hi>. 3, 1793</p>
-                <p>The President having withdrawn, the Members <lb/>of the House of Representatives
-                    returned to their <lb/>Chamber, where the President's Address was read, <lb/>and
-                    referred to a Committee to report the draft of an answer.</p>
-                <p>A Committee was then appointed to report the unfinished business of the last
-                    House.–Adjourned.</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">Thursday, Dec</hi>. 5.</hi>
-                </p>
-                <p>The Journal of the Commissioners for treating <lb/>with the Indians was read. It
-                    is minute and leng<lb break="no"/>thy. The definitive answer of the Indians
-                    contains <lb/>their reasons for rejecting the proposals of the
-                    <lb/>Commissioners, drawn up in a masterly manner, it <lb/>bears all the
-                    appearance of EUropean logic, faintly <lb/>clad in an Indian dress. All the
-                    documents relative <lb/>to this business were referred to a Committee of
-                    <lb/>the whole on the state of the Union.</p>
-                <p>A message was received from the President, com<lb break="no"/>munication sundry
-                    papers relative to our European <lb/>relations, and also the result of the
-                    proceedings of <lb/>the Commissioners appointed to settle the accounts <lb/>of
-                    the United States with the Individual States.</p>
-                <p>The first set of papers is introduced by a message, <lb/>of which the following
-                    is a copy:</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">United States</hi>, <hi rend="italic">Dec</hi>. 5, 1793<lb/>GENTLEMEN OF THE SENATE AND OF THE <lb/>HOUSE OF
-                        REPRESENTATIVES,</hi>
-                </p>
-                <p>As the present situations of the several nations of <lb/>Europe, and especially
-                    of those with whom the United <lb/>States have important relations, cannot but
-                    render the <lb/>state of things between them and us; matter of interest<lb/>ing
-                    enquiry to the Legislature, and may indeed give rise <lb/>to deliberations to
-                    which they alone are competent, I <lb/>have thought it my duty to communicate
-                    them certain <lb/>correspondencies which have taken place.</p>
-                <p>The Representatives and Executive Bodies of France <lb/>have manifested generally
-                    a friendly attachment to this <lb/>country; have given advantages to our
-                    commerce and <lb/>navigation, and have made overtures for placing these
-                    <lb/>advantages on permanent ground; a decree however of <lb/>the National
-                    Assembly, subjecting vessels laden with pro<lb break="no"/>visions to be carried
-                    into their ports and making enemy <lb/>goods lawful prize in the vessel of a
-                    friend, contrary to <lb/>our treaty, though revoked at one time, as to the
-                    United <lb/>States, has been since extended to their vessels also, as has
-                    <lb/>been recently stated to us. Representations on this sub<lb break="no"/>ject
-                    will be immediately given in charge to our Minister <lb/>there, and the result
-                    shall be communicated to the Legi<lb break="no"/>slature.</p>
-                <p>It is with extreme concern I have to inform you, that <lb/>the proceedings of the
-                    person whom they have unfortunately appointed their Minister Plenipotentiary
-                    here have <lb/>breathed nothing of the friendly spirit of that nation <lb/>which
-                    sent him; their tendency on the contrary has been <lb/>to involve us in a war
-                    abroad; and discord and anarchy <lb/>at home. So far as his acts or those of his
-                    agents, have <lb/>threatened our immediate commitment in the war, or
-                    <lb/>flagrant insult to the authority of the laws, their effect <lb/>has been
-                    counteracted by the ordinary cognizance of the <lb/>laws, and by an exertions of
-                    the powers confided to me.<lb/>Where their danger was not imminent, they have
-                    been <lb/>born with, from sentiments of regard to his nation, from <lb/>a sense
-                    of their friendship towards us, from a conviction <lb/>that they would not
-                    suffer us to remain long exposed to <cb/> the action of a person who has so
-                    little respectedour mu<lb/>tual dispositions, and, I will add, from a reliance
-                    on the <lb/>firmness of my fellow citizens in their principles of peace <lb/>and
-                    order. In the mean time, I have respected and pur<lb break="no"/>sued the
-                    stipulations of our treaties, according to what I <lb/>judge the true sense; and
-                    have withheld no act of <lb/>friendship which their affairs have called for from
-                    us, and <lb/>which justice to others let us free to perform. I have gone
-                    <lb/>further;–rather than employ force for the restitution of
-                    <lb/>certain vessels which I deemed the United States bound to <lb/>restore, I
-                    thought it more advisable to satisfy the parties, <lb/>by avowing it to be my
-                    opinion, that if restitution were <lb/>not made, it would be incumbent on the
-                    United States <lb/>to make compensation. The papers now communicated <lb/>will
-                    more particularly apprize you of these transactions.</p>
-                <p>The vexations and spolitation understood to have been <lb/>committed on our
-                    vessels and commerce by the cruizers <lb/>and officers of some of the
-                    belligerent powers, appeared to <lb/>require attention. The proofs of these
-                    however not hav<lb break="no"/>ing been brought forward, the description of
-                    citizens sup<lb break="no"/>posed to have suffered were notified, that on
-                    furnishing <lb/>them to the Executive Power, due measures would be <lb/>taken to
-                    obtain redress of the past, and more effectual provisions against the future.
-                    Should such documents <lb/>be furnished ,proper representations will be made
-                    thereon, <lb/>with a just resistance on a redress proportioned to eh ex<lb break="no"/>igency of the case.</p>
-                <p>The BRitish Government having undertaken by orders <lb/>to the commanders of
-                    their armed vessels to restrain ge<lb break="no"/>nerally our commerce in corn
-                    and other provisions to their <lb/>own ports and those of their friends, the
-                    instructions now <lb/>communicated were immediately forwarded to our Mi<lb break="no"/>nister at that court. In the mean time, some discussions <lb break="no"/>on the subject took place between him and them; these <lb/>are
-                    also laid before you; and I may expect to learn the <lb/>result of his special
-                    instructions in time to make it known <lb/>to the legislature during their
-                    present sessions.</p>
-                <p>Very early after the arrival of a British Minister here, <lb/>mutual explanation
-                    on the execution of the Treaty of <lb/>Peace were entered into with that
-                    Minister; these are <lb/>now laid before you for your information.</p>
-                <p>On the subjects of mutual interest between this coun<lb break="no"/>try and
-                    Spain, negociations and conferences are now de<lb break="no"/>pending. The
-                    public requiring that the present state of those should be made known to the
-                    legislature in con<lb break="no"/>fidence only, they shall be the subject of a
-                    separate and <lb/>subsequent communication.</p>
-                <p>
-                    <hi rend="right">G. WASHINGTON</hi>
-                </p>
-                <p>Mr. Madison reported the draft of an Answer <lb/>to the Address of the
-                    President.</p>
-                <p>The remainder of this sitting was employed in <lb/>beginning the reading of the
-                    papers received from <lb/>the President, which are voluminous. </p>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="smallcaps">Representatives</hi> .<hi rend="italic">Dec</hi> . 3.</hi> 
+         </p>
+         <p> THE Secretary of the Senate announced, that <lb/>the Members of the Senate were ready to ad<lb break="no"/>mit the Members of the House of Representatives <lb/>in the Senate Chamber, in order to receive the Pre<lb break="no"/>sident's communication.</p>
+         <p>
+            <hi rend="center">FELLOW-CITIZENS OF THE SENATE AND OF <lb/>THE HOUSE OF REPRESENTATIVES,</hi> 
+         </p>
+         <p> Since the commencement of the term for which I have <lb/>been again called into office, no fit occasion has arisen for <lb/>expressing to me fellow citizens at large, the deep and <lb/>respectful sense which I feel of the renewed testimony <lb/>of public approbation. While on the one hand it awaken<lb break="no"/>ed my gratitude for all those instances of affectionate par<lb break="no"/>tiality with which I have been honoured by my country; <lb/>on the other, it could not prevent an earnest wish for that <lb/>retirement, from which no private consideration should <lb/>ever have torn me. But influenced by the belief, that <lb/>my conduct would be estimated according to its real mo<lb break="no"/>tives; and that the people, and the authorities derived <lb/>from them, would support exertions having nothing per<lb break="no"/>sonal for their object, I have obeyed the suffrage which <lb/>commanded me to resume the executive power; and I <lb/>humbly implore that Being, on whose will the fate of <lb/>nations depends, to crown with success our mutual endea<lb break="no"/>vors for the general happiness.</p>
+         <p> As soon as the war in Europe had embraced those powers <lb/>with whom the United States have the most extensive re<lb break="no"/>lations there was reason to apprehend that our intercourse <lb/>with them might be interrupted, and our disposition for <lb/>peace drawn into question, by the suspicions too often <lb/>entertained by belligerent nations. It seemed therefore <lb/>to be my duty to admonish our citizens of the consequen<lb break="no"/>ces of a contraband trade, and of hostile acts to any of <lb/>the parties; and to obtain by a declaration of the exist<lb break="no"/>ing legal state of things, an easier admission of our right <lb/>to the immunities belonging to our situation. Under <lb/>these impressions, the proclamation, which will be laid before you, was issued.</p>
+         <p>In this posture of affairs, both new and delicate, I res<lb break="no"/>olved to adopt general rules which should conform to <lb/>the treaties and assert the privileges of the United <lb/>States. These were reduced into a system which will be <lb/>communicated to you. Although I have not thought <lb/>myself at liberty to forbid the sale of the prizes, permit<lb break="no"/>ted by our treaty of commerce with France, to be brought <lb/>into our ports; I have not refused to cause them to be <lb/>restored, when they were taken within the protection of <lb/>our territory, or by vessels commissioned, or equipped in <lb/>a warlike form within the limits of the United States.</p>
+         <p>It rests with the wisdom of Congress to correct, im<lb break="no"/>prove, or enforce this plan of procedure; and it will pro<lb break="no"/>bably be found expedient to extend the legal code, and <lb/>the jurisdiction of the Courts of the United States to ma<lb break="no"/>ny cases which, though dependent on principles already <lb/>recognized, demand some further provisions.</p>
+         <p> Where individuals shall, within the United States, ar<lb break="no"/>ray themselves in hostility against any of the powers at war, <lb/>or enter upon military expeditions or enterprizes within <lb/>the jurisdiction of the United States; or where the pe<lb break="no"/>nalties on violations of the law of nations may have been <lb/>indistinctly marked, or are inadequate; those offenses <lb/>cannot receive too early and close an attention, and require prompt and decisive remedies.</p>
+         <cb/>
+         <p>Whatsoever those remedies may be, they will be well <lb/>administered by the judiciary, who possess a long-esta<lb break="no"/>blished course of investigation, effectual process, and offi<lb break="no"/>cers in the habit of executing it.</p>
+         <p>In like manner, as several of the courts have doubted, <lb/>under particular circumstances, their power to liberate the <lb/>vessels of a nation at peace, and even of a citizen of the <lb/>United States, although seized under a false colour of be<lb break="no"/>ing hostile property; and have denied their power to liber<lb break="no"/>ate certain captures within the protection of our territo<lb break="no"/>ry; it would seem proper to regulate their jurisdiction in <lb/>these points. But if the executive is to be the resort in <lb/>either of the two last mentioned cases it is hoped that he will <lb/>be authorized by law to have facts ascertained by the courts, when, for his own information, he shall request it.</p>
+         <p>I can not recommend to your notice measures for the <lb/>fulfillment of our duties to the rest of the world, without a<lb break="no"/>gain pressing upon you the necessity of placing ourselves <lb/>in a condition of complete defense, and of exacting from <lb/>
+            <hi rend="italic">them</hi>  the fulfillment of<hi rend="italic">their</hi>  duties toward<hi rend="italic">us</hi> . The U<lb break="no"/>nited States ought not to indulge a persuasion, that, con<lb break="no"/>trary to the order of human events, they will for ever <lb/>keep at a distance those painful appeals to arms, with <lb/>which the history of every other nation abounds. There <lb/>is a rank due to the United States among nations, which <lb/>will be withheld, if not absolutely lost, by the reputation of weakness. If we desire to avoid insult, we must be <lb/>able to repel it; If we desire to secure peace, one of the <lb/>most powerful instruments of our rising prosperity, it <lb/>must be known that we are at all times ready for war. <lb/>The documents which will be presented to you will shew <lb/>the amount, and kinds of arms and military stores now <lb/>in our magazines and arsenals; and yet an addition even <lb/>to these supplies cannot with prudence be neglected, as it <lb/>would leave nothing to the uncertainty of procuring a <lb/>warlike apparatus in the moment of public danger.</p>
+         <p>Nor can such arrangements, with such objects, be ex<lb break="no"/>posed to the censure or jealousy of the warmest friends of <lb/>Republican Government. They are incapable of abuse <lb/>in the hands of the militia, who ought to possess a pride <lb/>in being the depository of the force of the Republic, and <lb/>may be trained to a degree of energy equal to every mi<lb break="no"/>litary exigency of the United States. But it is an en<lb break="no"/>quiry which cannot be too solemnly pursued, whether <lb/>the act, "more effectually to provide for the national <lb/>defense by establishing an uniform militia throughout <lb/>the United States," has organized them so as to produce <lb/>their full effect; whether your own experience in the se<lb break="no"/>veral States has not detected some imperfections in the <lb/>scheme; and whether a material feature in an improve<lb break="no"/>ment of it ought not to be to afford an opportunity for <lb/>the study of those branches of the military art which can <lb/>scarcely ever be attained by practice alone.</p>
+         <p>The connection of the United States with Europe has <lb/>become extremely interesting. The occurrences which <lb/>relate to it ,and have passed under the knowledge of the <lb/>Executive, will be exhibited to Congress in a subsequent <lb/>communication.</p>
+         <p>When we contemplate the war on our frontiers, it <lb/>may be truly affirmed that every reasonable effort has <lb/>been made to adjust the causes of dissension with the In<lb break="no"/>dians north of the Ohio. The instructions given to the <lb/>Commissioners evince a moderation and equity; proceed<lb break="no"/>ing from a sincere love of peace, and a liberality, having <lb/>no restriction but the essential interests and dignity of the <lb/>United States. The attempt, however, of an amicable <lb/>negotiation having been frustrated, the troops have <lb/>marched to act offensively. Although the proposed <lb/>treaty did not arrest the progress of military preparation, <lb/>it is doubtful how far the advance of the season, before <lb/>good faith justified active movements, may retard them, <lb/>during the remainder of the year. From the papers <lb/>and intelligence, which relate to this important subject,<cb/> you will determine whether the deficiency in the number <lb/>of troops granted by law shall be compensated by suc<lb break="no"/>cors of militia, or additional encouragements shall be proposed to recruits.</p>
+         <p>An anxiety has been also demonstrated by the Execu<lb break="no"/>tive for peace with the Creeks and the Cherokees. The for<lb break="no"/>mer have been relieved with corn and with clothing, and <lb/>offensive measures against them prohibited <lb/>during the recess of Congress. To satisfy the complaints of the <lb/>latter, prosecutions have been instituted for the violences <lb/>committed upon them. But the papers which will be <lb/>delivered to you, disclose the critical footing on which <lb/>we stand in regard to both those tribes; and it is with Congress to pronounce what shall be done.</p>
+         <p> After they shall have provided for the present emer<lb break="no"/>gency, it will merit their most serious labours to render <lb/>tranquillity with the savages permanent, by creating ties <lb/>of interest. Next to a rigorous execution of justice <lb/>on the violators of peace, the establishment of commerce <lb/>with the Indian nations in behalf of the United States, <lb/>is most likely to conciliate their attachment. But it <lb/>ought to be conducted without fraud, without extortion; with constant and plentiful supplies; with a ready mar<lb break="no"/>ket for the commodities of the Indians, and a stated price <lb/>for what they give in payment and receive in exchange. <lb/>Individuals will not pursue such a traffic, unless they be <lb/>allured by the hope of profit; but it will be enough for <lb/>the United States to be reimbursed only. Should this recommendation accord with the opinion of Congress, <lb/>they will recollect that it can not be accomplished by any <lb/>means yet in the hands of the Executive.</p>
+         <p>
+            <hi rend="center">GENTLEMEN OF THE HOUSE OF <lb/>REPRESENTATIVES,</hi> 
+         </p>
+         <p> The commissioners charged with the settlement of the <lb/>accounts between the United and Individual States con<lb break="no"/>cluded their important function within the limited time <lb/>by law; and the balances struck in their report, which <lb/>will be laid before congress, have been placed on the books <lb/>of the Treasury.</p>
+         <p>On the 1st day of June last, an installment of on mil<lb break="no"/>lion of florins became payable on the loans of the United <lb/>States in Holland. This was adjusted by a prolongation <lb/>of the period of reimbursement, in nature of a new loan, <lb/>at an interest of five per cent. for the term of ten years; <lb/>and the expenses of this operation were a commission of <lb/>three per cent.</p>
+         <p>The first installment of the loan of two millions of <lb/>dollars from the Bank of the United States, has been paid, <lb/>as was directed by law. For the second it is necessary <lb/>that provision be made.</p>
+         <p>No pecuniary consideration is more urgent, than the <lb/>redemption and discharge of the public debt: On none <lb/>can delay be more injurious, or an economy of time <lb/>more valuable.</p>
+         <p>The productiveness of the public revenues hitherto, <lb/>has continued to equal the anticipations which were form<lb break="no"/>ed of it; but it is not expected to prove <lb/>commensurate with all the objects which have been suggested. Some <lb/>auxiliary provisions will therefore, it is presumed, be re<lb break="no"/>quisite: and it is hoped that these may be made consis<lb break="no"/>tently with a due regard to the convenience of ourcitizens <lb/>who can not but be sensible of the true wisdom of encoun<lb break="no"/>tering a small present addition to their contributions to <lb/>obviate a future accumulation of burdens.</p>
+         <p>But here I can not forbear to recommend a repeal of <lb/>the tax on the transportation of public prints. There <lb/>is no resource so firm for the government of the United States as the affections of the People guided by an enligh<lb break="no"/>tened policy; and to this primary good, nothing can <lb/>conduce more than a faithful representation of public <lb/>proceedings, diffused, without restraint, throughout the United States. An estimate of the appropriations necessary for the<pb n="2"/> current service of the ensuing year and a statement of a <lb/>purchase of arms and military stores, made during the re<lb break="no"/>cess will be presented to Congress.</p>
+         <p>GENTLEMEN OF THE SENATE AND OF THE <lb/>HOUSE OF REPRESENTATIVES,</p>
+         <p> The several subjects, to which I have now referred, o<lb break="no"/>pen a wide range to your deliberations and involve <lb/>some of the choicest interests of our common country. Permit <lb/>me to bring to your remembrance the magnitude of your <lb/>task:–Without an unprejudiced coolness, the welfare of <lb/>the government may be hazarded; without harmony, as <lb/>far as consists with freedom of sentiment, its dignity may <lb/>be lost.–But as the legislative proceedings of the United <lb/>States will never, I trust, be reproached for the want of <lb/>temper or of candour, so shall not the public happiness lan<lb break="no"/>guish from the want of my strenuous and warmest cooperation.</p>
+         <p>
+            <hi rend="right">GEORGE WASHINGTON.</hi> 
+         </p>
+         <p>
+            <hi rend="italc">Philadelphia, Dec</hi> . 3, 1793</p>
+         <p>The President having withdrawn, the Members <lb/>of the House of Representatives returned to their <lb/>Chamber, where the President's Address was read, <lb/>and referred to a Committee to report the draft of an answer.</p>
+         <p>A Committee was then appointed to report the unfinished business of the last House.–Adjourned.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">Thursday, Dec</hi> . 5.</hi> 
+         </p>
+         <p>The Journal of the Commissioners for treating <lb/>with the Indians was read. It is minute and leng<lb break="no"/>thy. The definitive answer of the Indians contains <lb/>their reasons for rejecting the proposals of the <lb/>Commissioners, drawn up in a masterly manner, it <lb/>bears all the appearance of EUropean logic, faintly <lb/>clad in an Indian dress. All the documents relative <lb/>to this business were referred to a Committee of <lb/>the whole on the state of the Union.</p>
+         <p>A message was received from the President, com<lb break="no"/>munication sundry papers relative to our European <lb/>relations, and also the result of the proceedings of <lb/>the Commissioners appointed to settle the accounts <lb/>of the United States with the Individual States.</p>
+         <p>The first set of papers is introduced by a message, <lb/>of which the following is a copy:</p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">United States</hi> ,<hi rend="italic">Dec</hi> . 5, 1793 <lb/>GENTLEMEN OF THE SENATE AND OF THE <lb/>HOUSE OF REPRESENTATIVES,</hi> 
+         </p>
+         <p>As the present situations of the several nations of <lb/>Europe, and especially of those with whom the United <lb/>States have important relations, cannot but render the <lb/>state of things between them and us; matter of interest <lb/>ing enquiry to the Legislature, and may indeed give rise <lb/>to deliberations to which they alone are competent, I <lb/>have thought it my duty to communicate them certain <lb/>correspondencies which have taken place.</p>
+         <p>The Representatives and Executive Bodies of France <lb/>have manifested generally a friendly attachment to this <lb/>country; have given advantages to our commerce and <lb/>navigation, and have made overtures for placing these <lb/>advantages on permanent ground; a decree however of <lb/>the National Assembly, subjecting vessels laden with pro<lb break="no"/>visions to be carried into their ports and making enemy <lb/>goods lawful prize in the vessel of a friend, contrary to <lb/>our treaty, though revoked at one time, as to the United <lb/>States, has been since extended to their vessels also, as has <lb/>been recently stated to us. Representations on this sub<lb break="no"/>ject will be immediately given in charge to our Minister <lb/>there, and the result shall be communicated to the Legi<lb break="no"/>slature.</p>
+         <p>It is with extreme concern I have to inform you, that <lb/>the proceedings of the person whom they have unfortunately appointed their Minister Plenipotentiary here have <lb/>breathed nothing of the friendly spirit of that nation <lb/>which sent him; their tendency on the contrary has been <lb/>to involve us in a war abroad; and discord and anarchy <lb/>at home. So far as his acts or those of his agents, have <lb/>threatened our immediate commitment in the war, or <lb/>flagrant insult to the authority of the laws, their effect <lb/>has been counteracted by the ordinary cognizance of the <lb/>laws, and by an exertions of the powers confided to me. <lb/>Where their danger was not imminent, they have been <lb/>born with, from sentiments of regard to his nation, from <lb/>a sense of their friendship towards us, from a conviction <lb/>that they would not suffer us to remain long exposed to<cb/> the action of a person who has so little respectedour mu <lb/>tual dispositions, and, I will add, from a reliance on the <lb/>firmness of my fellow citizens in their principles of peace <lb/>and order. In the mean time, I have respected and pur<lb break="no"/>sued the stipulations of our treaties, according to what I <lb/>judge the true sense; and have withheld no act of <lb/>friendship which their affairs have called for from us, and <lb/>which justice to others let us free to perform. I have gone <lb/>further;–rather than employ force for the restitution of <lb/>certain vessels which I deemed the United States bound to <lb/>restore, I thought it more advisable to satisfy the parties, <lb/>by avowing it to be my opinion, that if restitution were <lb/>not made, it would be incumbent on the United States <lb/>to make compensation. The papers now communicated <lb/>will more particularly apprize you of these transactions.</p>
+         <p>The vexations and spolitation understood to have been <lb/>committed on our vessels and commerce by the cruizers <lb/>and officers of some of the belligerent powers, appeared to <lb/>require attention. The proofs of these however not hav<lb break="no"/>ing been brought forward, the description of citizens sup<lb break="no"/>posed to have suffered were notified, that on furnishing <lb/>them to the Executive Power, due measures would be <lb/>taken to obtain redress of the past, and more effectual provisions against the future. Should such documents <lb/>be furnished ,proper representations will be made thereon, <lb/>with a just resistance on a redress proportioned to eh ex<lb break="no"/>igency of the case.</p>
+         <p>The BRitish Government having undertaken by orders <lb/>to the commanders of their armed vessels to restrain ge<lb break="no"/>nerally our commerce in corn and other provisions to their <lb/>own ports and those of their friends, the instructions now <lb/>communicated were immediately forwarded to our Mi<lb break="no"/>nister at that court. In the mean time, some discussions<lb break="no"/>on the subject took place between him and them; these <lb/>are also laid before you; and I may expect to learn the <lb/>result of his special instructions in time to make it known <lb/>to the legislature during their present sessions.</p>
+         <p>Very early after the arrival of a British Minister here, <lb/>mutual explanation on the execution of the Treaty of <lb/>Peace were entered into with that Minister; these are <lb/>now laid before you for your information.</p>
+         <p>On the subjects of mutual interest between this coun<lb break="no"/>try and Spain, negociations and conferences are now de<lb break="no"/>pending. The public requiring that the present state of those should be made known to the legislature in con<lb break="no"/>fidence only, they shall be the subject of a separate and <lb/>subsequent communication.</p>
+         <p>
+            <hi rend="right">G. WASHINGTON</hi> 
+         </p>
+         <p>Mr. Madison reported the draft of an Answer <lb/>to the Address of the President.</p>
+         <p>The remainder of this sitting was employed in <lb/>beginning the reading of the papers received from <lb/>the President, which are voluminous.</p>
+      </body>
+   </text>
+</TEI>

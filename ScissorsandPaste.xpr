@@ -10,6 +10,33 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Templates/TEISAP_Template_glasgowadvertiser.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>TEICND1</String>
+                                        <String>TEICND</String>
+                                        <String>TEICND3</String>
+                                        <String>TEICND4</String>
+                                        <String>TEICNDLast - Copy</String>
+                                        <String>TEICND7</String>
+                                        <String>TEICND6</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>TEISAP.xml</String>
                                 </field>
                                 <field name="scenarioIds">

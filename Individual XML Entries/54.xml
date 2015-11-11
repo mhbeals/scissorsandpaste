@@ -1,100 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>54</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>54</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-12-04"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>transportation</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="center">
-               <hi rend="italic">Extract of a letter from Portsmouth,
-                            Nov</hi>. 23.</hi>
-                </p>
-                <p>"The convicts already arrived at this port <lb/>from Newfoundland, are near
-                    fourscore in num<lb break="no"/>ber; a few others are expected. These unhap<lb break="no"/>py wretches are almost destitute of every sort of <lb/>covering,
-                    and some of them are labouring under <lb/>sickness and infirmity. Their story is
-                        accurate<lb break="no"/>as follows: About the middle of last June, <lb/>this
-                    miserable class of beings, to the amount of <lb/>102 men and boys, and twelve
-                    women, all of <lb/>whom were convicts, were embarked at Dublin, <lb/>on board
-                    the Duke of Leinster transport, the <lb/>owners of which, who are Dublin
-                    merchants, <lb/>contracted with the Government of Ireland for <lb/>carrying the
-                    convicts to the North American <lb/>States.</p>
-                <p>"After the ship had been at sea five weeks, <lb/>part of which was foul weather,
-                    the provision is <lb/>said to have fallen short ; the master of the trans<lb break="no"/>port, Capt. Harrison, accordingly stood in for <lb/>Newfoundland
-                    and lay-to till night; when he <lb/>disembarked at Bull's Bay, and a little
-                    distance <lb/>from it, with as much secrecy as possible, his des<lb break="no"/>perate freight.</p>
-                <p>"To prevent this proceeding being too early <lb/>early known, he landed with them
-                    provision for the <lb/>immediate supply of their wants, and bore away <lb/>with
-                    a press of sail. The hungry victims lived <lb/>for three days in a state of
-                    warfare, quarrelling <lb/>about their food ; the strongest beat the weak,
-                    <lb/>and over a cask of rank butter or beef, there <lb/>was for a time as severe
-                    fighting as if a kingdom <lb/>had been at stake.</p>
-                <p>"They reached the town of St. John's on <lb/>the 20th of July ; and exhibited the
-                    most appal<lb break="no"/>ing procession ever seen in that country : the in<lb break="no"/>habitants had immediate councils; and the mili<lb break="no"/>tary and navy co-operating, a place of security <lb/>was fixed upon at a
-                    distance from the town, and <lb/>they were lodged ; here under a guard.</p>
-                <p>"Here the Irish howl was nightly sung in full <lb/>chorus, and the centinels were
-                    frequently fright<lb break="no"/>ed with the noise while on their posts. A
-                    battle <lb/>or two every half hour kept them festive all day; <lb/>and when the
-                    provision supplied to them by the <lb/>inhabitants was lessening, they broke
-                    away, and <lb/>laid hold of every thing that was eatable, with<lb break="no"/>out enquiring whether it had an owner.</p>
-                <p>"Some of these poor wretches were anxious <lb/>to be received into the service of
-                    the inhabitants <lb/>and probably might have reformed, if so fostered. <lb/>But
-                    all of them have a claim to the charity of <lb/>this country for that supply of
-                    raiment which is <lb/>necessary to guard them against the inclement
-                    <lb/>weather."</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1789-12-04"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>transportation</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="center">
+               <hi rend="italic">Extract of a letter from Portsmouth, Nov</hi> . 23.</hi> 
+         </p>
+         <p>"The convicts already arrived at this port <lb/>from Newfoundland, are near fourscore in num<lb break="no"/>ber; a few others are expected. These unhap<lb break="no"/>py wretches are almost destitute of every sort of <lb/>covering, and some of them are labouring under <lb/>sickness and infirmity. Their story is accurate<lb break="no"/>as follows: About the middle of last June, <lb/>this miserable class of beings, to the amount of <lb/>102 men and boys, and twelve women, all of <lb/>whom were convicts, were embarked at Dublin, <lb/>on board the Duke of Leinster transport, the <lb/>owners of which, who are Dublin merchants, <lb/>contracted with the Government of Ireland for <lb/>carrying the convicts to the North American <lb/>States.</p>
+         <p>"After the ship had been at sea five weeks, <lb/>part of which was foul weather, the provision is <lb/>said to have fallen short ; the master of the trans<lb break="no"/>port, Capt. Harrison, accordingly stood in for <lb/>Newfoundland and lay-to till night; when he <lb/>disembarked at Bull's Bay, and a little distance <lb/>from it, with as much secrecy as possible, his des<lb break="no"/>perate freight.</p>
+         <p>"To prevent this proceeding being too early <lb/>early known, he landed with them provision for the <lb/>immediate supply of their wants, and bore away <lb/>with a press of sail. The hungry victims lived <lb/>for three days in a state of warfare, quarrelling <lb/>about their food ; the strongest beat the weak, <lb/>and over a cask of rank butter or beef, there <lb/>was for a time as severe fighting as if a kingdom <lb/>had been at stake.</p>
+         <p>"They reached the town of St. John's on <lb/>the 20th of July ; and exhibited the most appal<lb break="no"/>ing procession ever seen in that country : the in<lb break="no"/>habitants had immediate councils; and the mili<lb break="no"/>tary and navy co-operating, a place of security <lb/>was fixed upon at a distance from the town, and <lb/>they were lodged ; here under a guard.</p>
+         <p>"Here the Irish howl was nightly sung in full <lb/>chorus, and the centinels were frequently fright<lb break="no"/>ed with the noise while on their posts. A battle <lb/>or two every half hour kept them festive all day; <lb/>and when the provision supplied to them by the <lb/>inhabitants was lessening, they broke away, and <lb/>laid hold of every thing that was eatable, with<lb break="no"/>out enquiring whether it had an owner.</p>
+         <p>"Some of these poor wretches were anxious <lb/>to be received into the service of the inhabitants <lb/>and probably might have reformed, if so fostered. <lb/>But all of them have a claim to the charity of <lb/>this country for that supply of raiment which is <lb/>necessary to guard them against the inclement <lb/>weather."</p>
+      </body>
+   </text>
+</TEI>

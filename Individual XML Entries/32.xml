@@ -1,98 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>32</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>32</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-12-11"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>settlement description</item>
-                            <item>religion</item>
-                            <item>demography</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-            <pb n="6"/>Mr. Ephraim Daniel, of Baker's-row, Mile<lb break="no"/>end, received
-                    the following letter from a friend <lb/>in Holland last week:</p>
-                <p>"Sir, your friend L–y, who is just come here <lb/>from the East Indies,
-                    desires me to inform you, <lb/>that your unfortunate relation who left you with
-                    <lb/>the transports for Botany Bay, was well in Fe<lb break="no"/>bruary last.
-                    He has settled at Port Jackson, and <lb/>has leave to teach the children of some
-                    of your <lb/>nation to read and write in your own way. The <lb/>place is much
-                    improved since you ahve had any <lb/>letters form it, as there was no person
-                    without a <lb/>habitation, and being in some order, when he <lb/>left it. Except
-                    wearing apparel, very little is <lb/>wanting but business ; but you may thank
-                    the <lb/>Dutch at Batavia for it, as they have brought <lb/>several useful
-                    things there. The last crops of <lb/>corn, and the garden grounds, were in very
-                    good <lb/>condition : and what makes the settlement more <lb/>convenient, one of
-                    the people who came in the <lb/>first fleet makes all forts of earthn ware for
-                    use <lb/>and ornament, as the clay is equally good as that <lb/>of Delft or
-                    elsewhere. He was surprised to see <lb/>so many people without hats or shoes,
-                    and houses <lb/>without windows, and full of wicker and rush <lb/>furniture,
-                    which is used in the place of almost <lb/>every thing else. If the smiths had a
-                    plentiful <lb/>supply of coal and iron, hardly any utensils would <lb/>be
-                    wanting. Your nephew has two children, and <lb/>says all that are born there are
-                    very healthy, and <lb/>more born than are buried or executed of grown
-                    <lb/>people. The Christians Church was quite finish<lb break="no"/>ed before he
-                    came away ; and he thinks if there <lb/>were enough of your people, they might
-                    have a <lb/>place to themselves. The farthest of the lines <lb/>was seldom
-                    visited by the savages ; and it was <lb/>reported when he came away, that as
-                    soon as <lb/>more troops and a new Governor comes over, <lb/>they would go
-                    farther than ever up the country, <lb/>when some valuable discovers are expected
-                    to be <lb/>made ; they have a gum which may be used for <lb/>gum arabic, which
-                    is veyr useful. He ex<lb break="no"/>pects several of your people will go from
-                    Batavia <lb/>to settle there very soon ; and wonders a way <lb/>for sending old
-                    clothes is not yet found out. <lb/>Norfolk Island is os thinly inhabited, that
-                    it is not <lb/>worth a stranger's while to land there ; and as lit<lb break="no"/>tle is said about it there, as if it was as far off as <lb/>Europe, &amp;c.
-                    &amp;c.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1789-12-11"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>settlement description</item>
+                  <item>religion</item>
+                  <item>demography</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="6"/>Mr. Ephraim Daniel, of Baker's-row, Mile<lb break="no"/>end, received the following letter from a friend <lb/>in Holland last week:</p>
+         <p>"Sir, your friend L–y, who is just come here <lb/>from the East Indies, desires me to inform you, <lb/>that your unfortunate relation who left you with <lb/>the transports for Botany Bay, was well in Fe<lb break="no"/>bruary last. He has settled at Port Jackson, and <lb/>has leave to teach the children of some of your <lb/>nation to read and write in your own way. The <lb/>place is much improved since you ahve had any <lb/>letters form it, as there was no person without a <lb/>habitation, and being in some order, when he <lb/>left it. Except wearing apparel, very little is <lb/>wanting but business ; but you may thank the <lb/>Dutch at Batavia for it, as they have brought <lb/>several useful things there. The last crops of <lb/>corn, and the garden grounds, were in very good <lb/>condition : and what makes the settlement more <lb/>convenient, one of the people who came in the <lb/>first fleet makes all forts of earthn ware for use <lb/>and ornament, as the clay is equally good as that <lb/>of Delft or elsewhere. He was surprised to see <lb/>so many people without hats or shoes, and houses <lb/>without windows, and full of wicker and rush <lb/>furniture, which is used in the place of almost <lb/>every thing else. If the smiths had a plentiful <lb/>supply of coal and iron, hardly any utensils would <lb/>be wanting. Your nephew has two children, and <lb/>says all that are born there are very healthy, and <lb/>more born than are buried or executed of grown <lb/>people. The Christians Church was quite finish<lb break="no"/>ed before he came away ; and he thinks if there <lb/>were enough of your people, they might have a <lb/>place to themselves. The farthest of the lines <lb/>was seldom visited by the savages ; and it was <lb/>reported when he came away, that as soon as <lb/>more troops and a new Governor comes over, <lb/>they would go farther than ever up the country, <lb/>when some valuable discovers are expected to be <lb/>made ; they have a gum which may be used for <lb/>gum arabic, which is veyr useful. He ex<lb break="no"/>pects several of your people will go from Batavia <lb/>to settle there very soon ; and wonders a way <lb/>for sending old clothes is not yet found out. <lb/>Norfolk Island is os thinly inhabited, that it is not <lb/>worth a stranger's while to land there ; and as lit<lb break="no"/>tle is said about it there, as if it was as far off as <lb/>Europe, &amp;c. &amp;c.</p>
+      </body>
+   </text>
+</TEI>

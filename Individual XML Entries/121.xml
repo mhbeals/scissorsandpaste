@@ -1,174 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>121</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>121</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1817-07-21"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="plagiarism"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="entertain"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>emigration</item>
-                            <item>weather</item>
-                            <item>agriculture</item>
-                            <item>prices</item>
-                            <item>economic migration</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1817-07-21"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="plagiarism"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="entertain"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>emigration</item>
+                  <item>weather</item>
+                  <item>agriculture</item>
+                  <item>prices</item>
+                  <item>economic migration</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
             <hi rend="smallcaps">Emigration to America</hi>.</p>
-                <p>[ Extracted from No.15 of Cobbet's Register, published on <lb/>Saturday, 12th
-                    instant ].</p>
-                <p>
-            <hi rend="smallcaps">Cobbett's arrival in America</hi>,&amp;c.</p>
-                <p>On Wednesday evening, the 27th March, <lb/>we embarked on board the Importer, D.
-                    <lb/>Ogden, master, bound to New York, where we <lb/>arrived on the 5th of May,
-                    with about 40 steer<lb break="no"/>age passengers, farmers, and tradesmen, who
-                    <lb/>were fleeing from ruin and starvation. In all re<lb break="no"/>spects that
-                    can be named our passage disa<lb break="no"/>greeable, and upon one occasion
-                    very perilous, <lb/>from lightning, which struck the ship twice, <lb/>shivered
-                    two of the masts, killed a man, struck <lb/>several people slightly, between two
-                    of whom I <lb/>was sitting, without at all feeling the blow.</p>
-                <p>Some of our fellow-passengers have found <lb/>great disappointment ; and, it is
-                    stated in some <lb/>of the public papers here, that many hundreds <lb/>have,
-                    during the last year, accepted of the offer <lb/>of our Consul at New York to go
-                    and settle in <lb/>Canada. You know that I have never advised any <lb/>body to
-                    emigrate. I have always said that it is <lb/>no place for manufacturers ; no
-                    place for men to <lb/>live without work ; no place for a farmer who <lb/>does
-                    not work himself ; no place in short, for <lb/>any one who is not able and
-                    willing to work <lb/>at the ordinary sorts of work ; but for such <lb/>men there
-                    is every where a plentiful, happy, <lb/>and easy life. None should come,
-                    however, <lb/>who have any views of idleness ; and even <lb/>for the industrious
-                    poor, I see no reason why <lb/>they should expend their last shilling, and
-                        under<lb break="no"/>go all the miseries and dangers of a sea voyage,
-                    <lb/>in order to save those who eat the taxes the ex<lb break="no"/>pence of
-                    their share of poor-rates ; a man and <lb/>his wife and a child or two cannot
-                    come under <lb/>the expence of 35 guineas, at least. A single <lb/>man 20
-                    guineas, before he gets into work again ; <lb/>and, as I always said, I never
-                    would, if I were <lb/>in the place of such a man, expend my earnings <lb/>on a
-                    sea voyage, and endure all its hardships, <lb/>in order to remove one eye sore
-                    out of the way <lb/>of corruption. Besides, there is the climate, <lb/>which is
-                    not so good as ours, though it is not <lb/>bad, and people often live to an old
-                    age. The <lb/>country is good, but it will easily be conceived, <lb/>that new
-                    face, an entire new scene, a separa<lb break="no"/>tion from every friend, work
-                    done in a quite dif<lb break="no"/>ferent way from it is in England ; it will
-                    <lb/>easily be conceived, that all this makes such a <lb/>dislocation in a man's
-                    mind as to make him very <lb/>unhappy for a while. Then, he cannot expect
-                    <lb/>to find work the first day. He must ask first, at <lb/>any rate. Englishmen
-                    are sheepish ; and, they <lb/>are sure to find rascals enough here to foster
-                    <lb/>their disgust, merely for the sake of serving the <lb/>cause of corruption
-                    at home. In short, I advice <lb/>nobody to emigrate, but I will truly describe
-                    <lb/>the country and the people. As to emigrating with <lb/>a view of settling
-                    and farming in the new countries, <lb/>it is neither more nor less than
-                    downright mad<lb break="no"/>ness. It is what our English farmers know no<lb break="no"/>thing at all about ; it is what they are not at all <lb/>fit for
-                    ; and the far greater part of all such spe<lb break="no"/>
-            <lb/>culations end in disappointment, if not in ruin <lb/>and premature death. I
-                    hope that our beloved <lb/>country will shortly be fit for an honest and in<lb break="no"/>dustrious man to live in ; but if any farmers come <lb/>with
-                    money in their pockets, my advice is, not <lb/>to give way either to
-                    enthusiastic admiration, or <lb/>to instant disgust. But, to stop a little ; to
-                    look <lb/>about them ; to see not only after good land, but <lb/>a good market
-                    for its products. The western <lb/>romance writers tell us, that the land in the
-                    <lb/>Ohio is too good ; but Mr Mellish, in his valu<lb break="no"/>able book,
-                    tells us, that beef and pork sell for <lb/>three halfpence a pound. An excellent
-                        coun<lb break="no"/>try for people who want to do nothing but eat. –
-                    <lb/>Give me Long Island, where the land is not too <lb/>good ; but where beef
-                    and pork sell for about <lb/>eightpence a pound (I speak of English money);
-                    <lb/>where good hay sells for five pounts a ton ; and <lb/>where there is a
-                    ready market for every species of <lb/>produce. One thing above all ; if an
-                    English far<lb break="no"/>mer (I mean by English, people of the whole of
-                    <lb/>the United Kingdom) comes here, with money <lb/>in his pocket, let him
-                    resolve to keep it there for <lb/>a year, and then he will be sure to do well.
-                    – <lb/>All that I see around me here is well calculated to <lb/>attract
-                    the attention and to please the sight of one, <lb/>like myself, brought up in
-                    the country, always <lb/>greatly delighted with, and somewhat skilled in,
-                    <lb/>various pleasing and healthful pursuits. The <lb/>The people are engaged
-                    busily in planting their In<lb break="no"/>dian corn. The cherry trees, of which
-                    there are <lb/>multitudes, planted in long avenues or rows, or <lb/>round the
-                    fields, have dropped their blossom and <lb/>begin to show their loads of fruit.
-                    The apple <lb/>and pear orchards, in extent from one to twenty <lb/>acres on
-                    each farm, are in full and beautiful <lb/>bloom. The farms are small in extent ;
-                    no ap<lb break="no"/>pearance of want amongst the labourers, who re<lb break="no"/>ceive, in the country, about two shillings and <lb/>threepence
-                    (our money) a-day, with board and <lb/>lodging, and which board consists of
-                    plenty of <lb/>excellent meat and fish of all sorts, the best of <lb/>bread,
-                    butter, cheese, and eggs. That you may <lb/>form some idea as to prices of
-                    living, I will state <lb/>a few facts, which have already come within my
-                    <lb/>own knowledge. We are at present at an inn, <lb/>thirteen miles from New
-                    York. It is on the <lb/>road to that city. Scarcely an hour in the <lb/>day
-                    passes without a carriage of some sort offer<lb break="no"/>ing for going
-                    thither, and to go by the regular <lb/>stage costs three shillings. Mind, I
-                    shall al<lb break="no"/>ways speak in English money, when I do not <lb/>speak of
-                    dollars. We lodge and board in <lb/>this inn, have each a bed-room and good
-                    <lb/>bed, have a room to sit in ourselves ; <lb/>we eat by ourselves ; and it
-                    really is eating. <lb/>– We have smoked fish, chops, butter, and eggs,
-                    <lb/>for breakfast, with bread (the very finest I ever <lb/>sa), crackers, sweet
-                    cakes ; and when I say <lb/>that we have such and such things, I do not
-                    <lb/>mean that we get them for show, or just enough <lb/>to smell to ; but in
-                    loads. Not an egg, but a <lb/>dish full of eggs. Not a snip of meat or of fish ;
-                    <lb/>but a plateful. Lump sugar for our tea and cof<lb break="no"/>fee ; not
-                    broke into little bits the size of a hazle <lb/>nut, but in good thumping
-                    pieces. For dinner, <lb/>we have the finest of fish, bass, mackerel, lob<lb break="no"/>sters ; of meat, lamb, veal, ham &amp;c. ; aspara<lb break="no"/>gus in plenty ; apple pieces (through in the middle <lb/>of May). The supper
-                    is like the breakfast, with <lb/>preserved peaches and other things. And with
-                    <lb/>all this an excellent cyder to drink, with the <lb/>kindest and most
-                    obliging treatment, on the part <lb/>of the landlord and landlady, and their
-                    sons and <lb/>daughters, we pay no more than 22s. 6d. a week <lb/>each. In
-                    England the same food and drink and <lb/>lodging at an inn would cost us nearly
-                    the same <lb/>sum every day. But there are two things which <lb/>no money can
-                    purchase any where. The first is, <lb/>no grumbling on the part of the landlady,
-                    except <lb/>on account of our eating and drinking too little ; <lb/>and the
-                    other is, that Mr Wiggins has no fasten<lb break="no"/>ing but a bit of chip run
-                    in over the latch of the <lb/>door, to a house which is full of valuable things
-                    <lb/>of all sorts, and about which we leave all our things <lb/>much more
-                    carelessly than we should do in our <lb/>own house in any part of England. Here,
-                    then <lb/>are we able to live at an inn, one of the most <lb/>respectable in the
-                    whole country, at the rate of <lb/>fifty pounds a year, while the pay of a
-                    common <lb/>farming man is not much short of that sum.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+         <p>[ Extracted from No.15 of Cobbet's Register, published on <lb/>Saturday, 12th instant ].</p>
+         <p>
+            <hi rend="smallcaps">Cobbett's arrival in America</hi> ,&amp;c.</p>
+         <p>On Wednesday evening, the 27th March, <lb/>we embarked on board the Importer, D. <lb/>Ogden, master, bound to New York, where we <lb/>arrived on the 5th of May, with about 40 steer<lb break="no"/>age passengers, farmers, and tradesmen, who <lb/>were fleeing from ruin and starvation. In all re<lb break="no"/>spects that can be named our passage disa<lb break="no"/>greeable, and upon one occasion very perilous, <lb/>from lightning, which struck the ship twice, <lb/>shivered two of the masts, killed a man, struck <lb/>several people slightly, between two of whom I <lb/>was sitting, without at all feeling the blow.</p>
+         <p>Some of our fellow-passengers have found <lb/>great disappointment ; and, it is stated in some <lb/>of the public papers here, that many hundreds <lb/>have, during the last year, accepted of the offer <lb/>of our Consul at New York to go and settle in <lb/>Canada. You know that I have never advised any <lb/>body to emigrate. I have always said that it is <lb/>no place for manufacturers ; no place for men to <lb/>live without work ; no place for a farmer who <lb/>does not work himself ; no place in short, for <lb/>any one who is not able and willing to work <lb/>at the ordinary sorts of work ; but for such <lb/>men there is every where a plentiful, happy, <lb/>and easy life. None should come, however, <lb/>who have any views of idleness ; and even <lb/>for the industrious poor, I see no reason why <lb/>they should expend their last shilling, and under<lb break="no"/>go all the miseries and dangers of a sea voyage, <lb/>in order to save those who eat the taxes the ex<lb break="no"/>pence of their share of poor-rates ; a man and <lb/>his wife and a child or two cannot come under <lb/>the expence of 35 guineas, at least. A single <lb/>man 20 guineas, before he gets into work again ; <lb/>and, as I always said, I never would, if I were <lb/>in the place of such a man, expend my earnings <lb/>on a sea voyage, and endure all its hardships, <lb/>in order to remove one eye sore out of the way <lb/>of corruption. Besides, there is the climate, <lb/>which is not so good as ours, though it is not <lb/>bad, and people often live to an old age. The <lb/>country is good, but it will easily be conceived, <lb/>that new face, an entire new scene, a separa<lb break="no"/>tion from every friend, work done in a quite dif<lb break="no"/>ferent way from it is in England ; it will <lb/>easily be conceived, that all this makes such a <lb/>dislocation in a man's mind as to make him very <lb/>unhappy for a while. Then, he cannot expect <lb/>to find work the first day. He must ask first, at <lb/>any rate. Englishmen are sheepish ; and, they <lb/>are sure to find rascals enough here to foster <lb/>their disgust, merely for the sake of serving the <lb/>cause of corruption at home. In short, I advice <lb/>nobody to emigrate, but I will truly describe <lb/>the country and the people. As to emigrating with <lb/>a view of settling and farming in the new countries, <lb/>it is neither more nor less than downright mad<lb break="no"/>ness. It is what our English farmers know no<lb break="no"/>thing at all about ; it is what they are not at all <lb/>fit for ; and the far greater part of all such spe<lb break="no"/> 
+            <lb/>culations end in disappointment, if not in ruin <lb/>and premature death. I hope that our beloved <lb/>country will shortly be fit for an honest and in<lb break="no"/>dustrious man to live in ; but if any farmers come <lb/>with money in their pockets, my advice is, not <lb/>to give way either to enthusiastic admiration, or <lb/>to instant disgust. But, to stop a little ; to look <lb/>about them ; to see not only after good land, but <lb/>a good market for its products. The western <lb/>romance writers tell us, that the land in the <lb/>Ohio is too good ; but Mr Mellish, in his valu<lb break="no"/>able book, tells us, that beef and pork sell for <lb/>three halfpence a pound. An excellent coun<lb break="no"/>try for people who want to do nothing but eat. – <lb/>Give me Long Island, where the land is not too <lb/>good ; but where beef and pork sell for about <lb/>eightpence a pound (I speak of English money); <lb/>where good hay sells for five pounts a ton ; and <lb/>where there is a ready market for every species of <lb/>produce. One thing above all ; if an English far<lb break="no"/>mer (I mean by English, people of the whole of <lb/>the United Kingdom) comes here, with money <lb/>in his pocket, let him resolve to keep it there for <lb/>a year, and then he will be sure to do well. – <lb/>All that I see around me here is well calculated to <lb/>attract the attention and to please the sight of one, <lb/>like myself, brought up in the country, always <lb/>greatly delighted with, and somewhat skilled in, <lb/>various pleasing and healthful pursuits. The <lb/>The people are engaged busily in planting their In<lb break="no"/>dian corn. The cherry trees, of which there are <lb/>multitudes, planted in long avenues or rows, or <lb/>round the fields, have dropped their blossom and <lb/>begin to show their loads of fruit. The apple <lb/>and pear orchards, in extent from one to twenty <lb/>acres on each farm, are in full and beautiful <lb/>bloom. The farms are small in extent ; no ap<lb break="no"/>pearance of want amongst the labourers, who re<lb break="no"/>ceive, in the country, about two shillings and <lb/>threepence (our money) a-day, with board and <lb/>lodging, and which board consists of plenty of <lb/>excellent meat and fish of all sorts, the best of <lb/>bread, butter, cheese, and eggs. That you may <lb/>form some idea as to prices of living, I will state <lb/>a few facts, which have already come within my <lb/>own knowledge. We are at present at an inn, <lb/>thirteen miles from New York. It is on the <lb/>road to that city. Scarcely an hour in the <lb/>day passes without a carriage of some sort offer<lb break="no"/>ing for going thither, and to go by the regular <lb/>stage costs three shillings. Mind, I shall al<lb break="no"/>ways speak in English money, when I do not <lb/>speak of dollars. We lodge and board in <lb/>this inn, have each a bed-room and good <lb/>bed, have a room to sit in ourselves ; <lb/>we eat by ourselves ; and it really is eating. <lb/>– We have smoked fish, chops, butter, and eggs, <lb/>for breakfast, with bread (the very finest I ever <lb/>sa), crackers, sweet cakes ; and when I say <lb/>that we have such and such things, I do not <lb/>mean that we get them for show, or just enough <lb/>to smell to ; but in loads. Not an egg, but a <lb/>dish full of eggs. Not a snip of meat or of fish ; <lb/>but a plateful. Lump sugar for our tea and cof<lb break="no"/>fee ; not broke into little bits the size of a hazle <lb/>nut, but in good thumping pieces. For dinner, <lb/>we have the finest of fish, bass, mackerel, lob<lb break="no"/>sters ; of meat, lamb, veal, ham &amp;c. ; aspara<lb break="no"/>gus in plenty ; apple pieces (through in the middle <lb/>of May). The supper is like the breakfast, with <lb/>preserved peaches and other things. And with <lb/>all this an excellent cyder to drink, with the <lb/>kindest and most obliging treatment, on the part <lb/>of the landlord and landlady, and their sons and <lb/>daughters, we pay no more than 22s. 6d. a week <lb/>each. In England the same food and drink and <lb/>lodging at an inn would cost us nearly the same <lb/>sum every day. But there are two things which <lb/>no money can purchase any where. The first is, <lb/>no grumbling on the part of the landlady, except <lb/>on account of our eating and drinking too little ; <lb/>and the other is, that Mr Wiggins has no fasten<lb break="no"/>ing but a bit of chip run in over the latch of the <lb/>door, to a house which is full of valuable things <lb/>of all sorts, and about which we leave all our things <lb/>much more carelessly than we should do in our <lb/>own house in any part of England. Here, then <lb/>are we able to live at an inn, one of the most <lb/>respectable in the whole country, at the rate of <lb/>fifty pounds a year, while the pay of a common <lb/>farming man is not much short of that sum.</p>
+      </body>
+   </text>
+</TEI>

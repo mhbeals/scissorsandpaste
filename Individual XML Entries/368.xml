@@ -1,115 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>368</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on <date when="2013-06-08">20130608
-                        </date> by <persName role="collection">M. H. Beals</persName>. Transcribed
-                        on <date when="2015-01-10">20150110</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from
-                                    <ref target="http://news.google.com/newspapers?id=q0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6300%2C5152642">Google News Archive</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>368</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on<date when="2013-06-08">20130608
+</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2015-01-10">20150110</date> by<persName role="transcription">M. H. Beals</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitised image available from
+<ref target="http://news.google.com/newspapers?id=q0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6300%2C5152642">Google News Archive</ref>
                   </authority>
-                            <pubPlace>
-                                <address> 
-                        <settlement>Glasgow</settlement> 
-                        <region>Scotland</region> 
-                        <country>United Kingdom</country> 
+                  <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1794-07-25"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="advertise"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>land speculation</item>
-                            <item>settlement description</item>
-                            <item>newspapers</item>
-                            <item>agriculture</item>
-                            <item>taxation</item>
-                            <item>education</item>
-                            <item>emigration</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <head n="Glasgow, Scotland, United Kingdom">Glasgow.</head>
-                <p>
-                    <pb n="8"/>
-                    <hi rend="center">LANDS in AMERICA for SALE.</hi>
-                </p>
-                <p> THESE two adjoining TRACKS of LAND in the <lb/>County of FAYETTE and State of
-                    KENTUCKY. <lb/>The one track consists of 7000 acres, and is divided into <lb/>15
-                    plantations of 500 acres each; eight of these plantations, <lb/>are still
-                    unsold, and are now offered at the low price of <lb/>137l. being only 5s. 6d.
-                    per acre. The other track coun<lb break="no"/>sists of 3086 acres, and is to be
-                    sold in one lot, at 5s. 6d. <lb/>per acre. There is a fine stream of water
-                    running through <lb/>these two tracks of land, which communicates with the
-                    <lb/>great river Ohio, so that Mills may be erect. </p>
-                <p> In Fayette County is Lexington, where the Courts of the <lb/>State of Kentucky
-                    are held, and where all public business <lb/>is transacted Lexington is in the
-                    neighbourhood of these <lb/>lands, and Fayette county is the nearest and most
-                    convenient <lb/>for Philadelphia, Baltimore, City of Washington, &amp;c. The
-                    <lb/>soil of Kentucky is deep and black, and lies upon a bed of <lb/>lime-stone
-                    and coal. THe natural grown of the country <lb/>are large walnuts, honey, poplar
-                    and sugar trees. The <lb/>surface is covered with blue grass, clover, and wild
-                    rye, <lb/>grape vines running to the tops of the trees. Shrubs and <lb/>plants
-                    grow spontaneously, and afford a beautiful blossom <lb/>of a rich and exquisite
-                    fragrance. Cotton and sugar are <lb/>manufactured to advantage. wheat ,barley,
-                    oats, flax, <lb/>and hemp, yield abundantly; indeed, it is assumed that
-                    <lb/>there have been raised 100 bushels upon one acre, but the <lb/>common
-                    produce is from 40 to 60 bushels an acre. </p>
-                <p> Owing to the peculiar richness of the soil, and fine cli<lb break="no"/>mate of
-                    the country, no part of America has been to re<lb break="no"/>pidly settled. The
-                    returns made to Congress, upon 1st May <lb/>1792 state them at 76 000. In March
-                    1793, there were upwards of 100,000. And, from their astonishing increase
-                    <lb/>since, they may be estimated at 200,000. Eleven years <lb/>ago, Kentucky
-                    lay in a forest, but now she exhibits an <lb/>extensive settlement, divided into
-                    seven populous counties, in <lb/>which are a great number of flourishing towns,
-                    and con<lb break="no"/>tains more inhabitants than are in Georgia, Delaware, and
-                    <lb/>Rhode Island States. There are about 70 churches in Ken<lb break="no"/>tucky and mostly PResbyterians. There is a College; and <lb/>Schools are
-                    established in every town. There is a Print<lb break="no"/>ing-office; a Weekly
-                    Gazette published. There are Pa<lb break="no"/>per Mills, O<supplied reason="copy blur">???</supplied> Mills, <supplied reason="copy blur">???</supplied>ing Mills, Saw Mills, and a great <lb/>number of Grist Mills.
-                    Considerable quantities of Sugar, <lb/>are made from the Sugar Trees. Salt-works
-                    are in every <lb/>part of the country, and the inhabitants are supplied at a
-                    <lb/>low price. </p>
-                <p> The taxes upon land are very low. Any person who <lb/>goes from Europe becomes
-                    an American Citizen on his ar<lb break="no"/>rival in this new State, and is
-                    entitled to be elected to any <lb/>office in the Commonwealth. </p>
-                <p> For farther particulars apply to MR. John Granger, wri<lb break="no"/>ter to the
-                    signet; David Niven, writer, Glasgow; or to <lb/>Mr. John Finlayson, writer,
-                    Cupar Fife; </p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1794-07-25"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="advertise"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>land speculation</item>
+                  <item>settlement description</item>
+                  <item>newspapers</item>
+                  <item>agriculture</item>
+                  <item>taxation</item>
+                  <item>education</item>
+                  <item>emigration</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head n="Glasgow, Scotland, United Kingdom">Glasgow.</head>
+         <p>
+            <pb n="8"/>
+            <hi rend="center">LANDS in AMERICA for SALE.</hi> 
+         </p>
+         <p> THESE two adjoining TRACKS of LAND in the <lb/>County of FAYETTE and State of KENTUCKY. <lb/>The one track consists of 7000 acres, and is divided into <lb/>15 plantations of 500 acres each; eight of these plantations, <lb/>are still unsold, and are now offered at the low price of <lb/>137l. being only 5s. 6d. per acre. The other track coun<lb break="no"/>sists of 3086 acres, and is to be sold in one lot, at 5s. 6d. <lb/>per acre. There is a fine stream of water running through <lb/>these two tracks of land, which communicates with the <lb/>great river Ohio, so that Mills may be erect.</p>
+         <p> In Fayette County is Lexington, where the Courts of the <lb/>State of Kentucky are held, and where all public business <lb/>is transacted Lexington is in the neighbourhood of these <lb/>lands, and Fayette county is the nearest and most convenient <lb/>for Philadelphia, Baltimore, City of Washington, &amp;c. The <lb/>soil of Kentucky is deep and black, and lies upon a bed of <lb/>lime-stone and coal. THe natural grown of the country <lb/>are large walnuts, honey, poplar and sugar trees. The <lb/>surface is covered with blue grass, clover, and wild rye, <lb/>grape vines running to the tops of the trees. Shrubs and <lb/>plants grow spontaneously, and afford a beautiful blossom <lb/>of a rich and exquisite fragrance. Cotton and sugar are <lb/>manufactured to advantage. wheat ,barley, oats, flax, <lb/>and hemp, yield abundantly; indeed, it is assumed that <lb/>there have been raised 100 bushels upon one acre, but the <lb/>common produce is from 40 to 60 bushels an acre.</p>
+         <p> Owing to the peculiar richness of the soil, and fine cli<lb break="no"/>mate of the country, no part of America has been to re<lb break="no"/>pidly settled. The returns made to Congress, upon 1st May <lb/>1792 state them at 76 000. In March 1793, there were upwards of 100,000. And, from their astonishing increase <lb/>since, they may be estimated at 200,000. Eleven years <lb/>ago, Kentucky lay in a forest, but now she exhibits an <lb/>extensive settlement, divided into seven populous counties, in <lb/>which are a great number of flourishing towns, and con<lb break="no"/>tains more inhabitants than are in Georgia, Delaware, and <lb/>Rhode Island States. There are about 70 churches in Ken<lb break="no"/>tucky and mostly PResbyterians. There is a College; and <lb/>Schools are established in every town. There is a Print<lb break="no"/>ing-office; a Weekly Gazette published. There are Pa<lb break="no"/>per Mills, O<supplied reason="copy blur">???</supplied> Mills,<supplied reason="copy blur">???</supplied>ing Mills, Saw Mills, and a great <lb/>number of Grist Mills. Considerable quantities of Sugar, <lb/>are made from the Sugar Trees. Salt-works are in every <lb/>part of the country, and the inhabitants are supplied at a <lb/>low price.</p>
+         <p> The taxes upon land are very low. Any person who <lb/>goes from Europe becomes an American Citizen on his ar<lb break="no"/>rival in this new State, and is entitled to be elected to any <lb/>office in the Commonwealth.</p>
+         <p> For farther particulars apply to MR. John Granger, wri<lb break="no"/>ter to the signet; David Niven, writer, Glasgow; or to <lb/>Mr. John Finlayson, writer, Cupar Fife;</p>
+      </body>
+   </text>
+</TEI>

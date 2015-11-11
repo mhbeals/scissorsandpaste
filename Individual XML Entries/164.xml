@@ -1,251 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>164</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>164</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1820-05-20"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="persuade"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">Necessity of Legislative Measures for <lb/>Relieving the
-                        Distress of the Labour<lb break="no"/>ing Classes.</hi>
-                </p>
-                <p>Salus populi suprema lex.</p>
-                <p>
-            <hi rend="enlarged-capital">T</hi>
-            <hi rend="smallcaps">here</hi> wasa time when
-                    it was held pure factiousness to <lb/>doubt whether the prosperity we enjoyed
-                    during the first ten <lb/>or twelve years of the late war, was perfectly sound
-                    and na<lb break="no"/>tural, and whether it would not ultimately entail upon us
-                    a <lb/>corresponding share of future calamity. But the most gloomy
-                    <lb/>anticipations of those who were most inclined to view the pic<lb break="no"/>ture on the dark side have certainly come infinitely short of <lb/>the full
-                    measure of distress and misery which have at length <lb/>fallen upon the
-                    country. It would be unjust to charge the <lb/>Government with any more of these
-                    evils than might have <lb/>been foreseen ; but now that they force themselves on
-                    the at<lb break="no"/>tention on all sides, it is perfectly fair to hold the
-                        Govern<lb break="no"/>ment accountable for all that it can remove or
-                    prevent, and <lb/>yet suffers to exist. This is the first time, we believe, in
-                        mo<lb break="no"/>dern history, when the evil of an excess, of population
-                    has come <lb/>so distinctly under the notice of a Government as to call for
-                    <lb/>a legislative remedy. The case is therefore new, and the <lb/>course to be
-                    pursued is the less obvious ; but the war was a <lb/>season of bold experiments,
-                    in which we surmounted many <lb/>difficulties once deemed insuperable : and if
-                    timidity tie up our <lb/>hands now, when humanity calls upon us to move, the
-                    world <lb/>may well say, that the boasted energy of the Government has <lb/>been
-                    entirely reserved for the supply of its own wants out of <lb/>the pockets of the
-                    people, but that, when a period of public <lb/>calamity requiress exertions of a
-                    more painful kind, it is start<lb break="no"/>led by the smallest difficulty,
-                    and will not even make such <lb/>a slight effort as might evince its sympathy
-                    with the sufferers.</p>
-                <p>During the late war, the industry of the country was stimu<lb break="no"/>lated
-                    into a state of unprecedented activity, by the monopoly <lb/>we obtained of the
-                    commerce of the world–by thirty or forty <lb/>millions of the capital of
-                    the country being annually melted <lb/>down and consumed–and by the
-                    continual rise of prices pro<lb break="no"/>duced by the depreciation of the
-                    currency. The great de<lb break="no"/>mand for labour, arising out of this state
-                    of things, with the <lb/>consequent increase of wages, caused a rapid
-                    augmentation in <lb/>the numbers of the people. In the ten years ending 1811,
-                    the <lb/>rate of increase in Britain was such as would have doubled the
-                    <lb/>population in fifty-two years; and in the great manufacturing
-                    <lb/>districts it probably equalled what takes place in a new colony. <lb/>When
-                    the peace came, and was followed by the destruction of <lb/>our commercial
-                    monopoly, the cessation of the annual loans, <lb/>and the diminuition of the
-                    paper issues, the sources of our fic<lb break="no"/>titious prosperity were
-                    dried up at once : a vast reduction took <lb/>place in the demand for labour ;
-                    profits and wages fell with <lb/>prices ; while the pressure of the taxes were
-                    doubled, and one<lb break="no"/>third added to their real amount by the rise in
-                    the value of <lb/>money. The laws, however, which regulate the multiplication
-                    <lb/>of human beings, cannot instantly bend to circumstances : a <lb/>long
-                    period necessarily elapses before the population accom<lb break="no"/>modates
-                    itself to the diminished demand for labour, and dur<lb break="no"/>ing this
-                    period the labouring classes must suffe extreme mi<lb break="no"/>sery. In this
-                    state we are at present, and time, from which <lb/>we hoped relief, has only
-                    aggravated the evil. There are but <lb/>three remedies upon which any dependence
-                    can be placed <lb/>– a reduction of taxation – a change in our
-                    commercial <lb/>system – and emigration. We have little hopes as to the
-                    first, <lb/>since this would require a sacrifice on the part of the Govern<lb break="no"/>ment of its own interest, real or supposed, which we see no
-                    <lb/>disposition to make. A relaxation in our restrictive commer<lb break="no"/>cial system has not the same obstacles to encounter, and we <lb/>have repeated
-                    shewn that it would be highly beneficial. The <lb/>reluctance of Ministers to
-                    attempt a change that may prejudice <lb/>the interest of some particular
-                    classes, might be considered as <lb/>a prudent caution, were it not observed,
-                    that when, instead of <cb/>
-                    <lb/>relieving the distress of the people, the object is to suppy the
-                    <lb/>necessities of the Treasury, none of this caution appears, but <lb/>the
-                    complaints of the sufferers are disregarded as vulgar cla<lb break="no"/>mour.
-                    But the crisis is now such, that tenderness to the in<lb break="no"/>terests of
-                    a few individuals may be cruelty to the public at <lb/>large. Though we shall
-                    preach free trade to other nations ra<lb break="no"/>ther with a bad grace, when
-                    we can no longer hold our mono<lb break="no"/>poly, it is so far well that our
-                    misfortunes are at last likely to <lb/>open our eyes to truths whch were
-                    familiar to philosophers <lb/>half a century ago. In our present circumstances,
-                    we may <lb/>perhaps almost be thankful, that a systematic error, which has
-                    <lb/>impeded our career, has kept this one resource open to us.</p>
-                <p>Emigration suggests itself so naturally as a remedy for a re<lb break="no"/>dundant population, that we are rather surprised there should <lb/>be much
-                    reluctance to have recourse to it. We need not <lb/>be afraid that the practise
-                    will continue longer than the ne<lb break="no"/>cessity which produces it. " The
-                        <hi rend="italic">vis intertiae</hi> of people in ge<lb break="no"/>neral,
-                    says <hi rend="smallcaps">Malthus</hi>, and their attachment to their homes,
-                    <lb/>are qualities so strong and general, that we may rest assured <lb/>they
-                    will not emigrate, unless, from political discontents or ex<lb break="no"/>treme
-                    poverty, they are in such a state, <hi rend="italic">as will make it as
-                        much</hi>
-                    <lb/>
-            <hi rend="italic">for the advantages of their country as of themselves that
-                        they</hi>
-                    <lb/>
-            <hi rend="italic">should go out of it.</hi>" We by no means underrate the
-                        difficul<lb break="no"/>ties that attend emigration upon a large scale, but
-                    these are <lb/>partly occasioned by the absurd practise of directing it exclu<lb break="no"/>sively to our own colonies. We have vast multitudes, whom
-                    <lb/>we can neither feed nor employ ; and surely the first and most
-                    <lb/>pressing object is to send them where they will find the means <lb/>of
-                    subsistence. There are many parts of the world besides our <lb/>own colonies
-                    open to receive them. And whether they go to <lb/>the United States, Brazil,
-                    Buenos Ayres, or to Canada, New <lb/>Holland, or the Cape of Good Hope, the
-                    advantage to this <lb/>country will be nearly the same. Among so many countries
-                    <lb/>of such extent, it would not be very difficult to dispose of half <lb/>a
-                    million of persons (young and old) within the course perhaps <lb/>of two years.
-                    But upon whatever scale emigration is conduct<lb break="no"/>ed it must be
-                    gradual; and this renders it the more important <lb/>to fix upon a plan early.
-                    Ministers have lately announced <lb/>that Canada cannot receive more emigrants
-                    at present with<lb break="no"/>out inconvenience. But had the intention of
-                    sending great <lb/>numbers to that colony been made public two years ago, corn
-                    <lb/>would have been raised for them, and men of some capital, <lb/>assured of
-                    finding abundance of labourers, would have gone <lb/>out and settled, and
-                    provided employment for those who have <lb/>not the means to establish
-                    themselves as farmers. The alarm <lb/>we feel of seeing manufactures raised up
-                    in other countries by <lb/>the skill of our expatriated artisans is very ill
-                    founded. Many <lb/>other advantges must be combined with the possession of
-                    <lb/>mechanical skill to make manufactures flourish ; and when the <lb/>former
-                    are found, able workmen will not be long wanting. Our <lb/>capital, our improved
-                    means of internal communication, our <lb/>coal fields, our laws for the
-                    protection of industry and proper<lb break="no"/>ty, the free, enlightened and
-                    active spirit of our people, with the <lb/>powers of combination resulting from
-                    the union of so many <lb/>advantages within so small a space, are better
-                    securities for <lb/>our superiority in manufactures, than attempts, which must
-                    be <lb/>nugatory, to retain a monopoly of operative skill and talent. <lb/>But
-                    the opinion which exists in foreign countries, as to the su<lb break="no"/>periority of our people in every branch of industry, will have <lb/>this good
-                    effect, that it will secure out emigrants a favourable <lb/>reception. Though
-                    the emigration, to afford any sensible re<lb break="no"/>lief to the whole
-                    country, would require to be upon an exten<lb break="no"/>sive scale, it is yet
-                    obvious, that even upon the smallest scale <lb/>it is beneficial. If six
-                    labourers are withdrawn from a small <lb/>village, or fifty from a country town,
-                    the situation of either <lb/>will be improved. The plan hitherto acted on by
-                    Government <lb/>of givingassistance to those only who could raise ten on fif<lb break="no"/>teen pounds, is chiefly objectionable, because it must restrict
-                    <lb/>the emigration within very narrow limits. If by sending away <lb/>men who
-                    are still able to subsist by their labour, others now <lb/>living on charity get
-                    employment, we are in effect relieved of <lb/>so many paupers. But the former
-                    are less disposed to leave <cb/>
-                    <lb/>the country ; and with regard to those who are or must soon <lb/>become
-                    paupers, it will certainly be found more economical to <lb/>pay ten or fiften
-                    pounds each to send them abroad, than to <lb/>maintain them permanently home. It
-                    is in vain, however, <lb/>to look to private charity for the funds necessary for
-                    such an <lb/>undertaking. These must be raised by the country at large ;
-                    <lb/>and whether a tax be imposed for the special purpose, or mo<lb break="no"/>ney destined for other objects be applied to this, the country, <lb/>we have
-                    no doubt, is ready to make the sacrifice. Suppose that <lb/>even so great a sum
-                    as five millions were required, this is but <lb/>the half of what England alone
-                    pays every year for poor rates ; <lb/>and what is such a sum, if it were to
-                    afford certain relief on <lb/>an emergency lke the present? If the French and
-                    Dutch should <lb/>again disagree about the navigation of the Scheldt, or if we
-                    should <lb/>quarrel with the French or Americans about the traffic in a few
-                    <lb/>hundred wild cat-skins on the other side of the globe, how <lb/>easily
-                    would a sum ten times as large be found? Nothing <lb/>more is requisite than to
-                    take on half of the sum for two <lb/>years, which Mr <hi rend="smallcaps">Vansittart</hi> allots for paying off the nation<lb break="no"/>al debt. We
-                    not only conceive that it would be wise and <lb/>creditable to divert a part, or
-                    the whole of the actual Sinking <lb/>Fund to this purpose ; but we go so far as
-                    to think, that it is lit<lb break="no"/>tle less than disgraceful to pay off any
-                    debt at all at this crisis <lb/>with funds wrung from the earnings of a starving
-                    population. <lb/>Whatever is done, it is of vast importance to understand, that
-                    <lb/>the most pressing evil, though not absolutely permanent in its <lb/>nature,
-                    cannot be expected to subside of itself for many years. <lb/>We have not only an
-                    excess of population to dispose of, but <lb/>we have to check the principle of
-                    increase, which is rapidly <lb/>aggravating the evil. In the five years ending
-                    1810, the po<lb break="no"/>pulation of England added one-seventieth part to its
-                    numbers <lb/>annually ; and if we suppose the ratio to have been the same
-                    <lb/>for the whole empire, each year must have had 250,000 indi<lb break="no"/>viduals more to provide for than the preceding. Till the <lb/>whole of this
-                    vast annual inrease is got rid of, the present <lb/>excess of numbers will not
-                    diminish but augment. And how <lb/>is it to be got rid of? Either the annual
-                    births must diminish <lb/>more than one-third, or famine and disease must
-                    destroy a <lb/>quarter of a million of human beings annually beyond the u<lb break="no"/>sual rate of mortality, or these two causes must operate toge<lb break="no"/>ther. Notwithstanding, therefore, the misery of the labouring
-                    <lb/>classes at this moment, we doubt whether the population is <lb/>not still
-                    on the increase, and whether still more afflicting <lb/>scenes are not awaiting
-                    us. Indeed, unless measures are taken <lb/>to do away the factitious stimulus
-                    which the English poor<lb break="no"/>laws give to the increase of population,
-                    the most abundant e<lb break="no"/>
-            <lb/>migration will prove but a feeble palliative. These are rather
-                    <lb/>discouraging circumstances ; but the evil must be dealt with in <lb/>some
-                    way, or it will ultimately overwhelm us. It has now be<lb break="no"/>come
-                    rather a question of humanitiy than of policy. One or <lb/>two millions of human
-                    beings have been suddenly deprived of <lb/>their means of subsistence by events
-                    over which they had no <lb/>control. With such a mass of individuals goaded to
-                        despera<lb break="no"/>tion by want–a deficient crop,–a sudden
-                    revulsion in trade– <lb/>a more general exclusion of our manufactures by
-                    the Ameri<lb break="no"/>cans,–any of those numerous casualties, in short
-                    to which e<lb break="no"/>very nation is exposed, would place us in a situation
-                    frightful <lb/>to contemplate. Plots and insurrections will keep up a con<lb break="no"/>tinual alarm. Neither persons nor property will be safe, and
-                    <lb/>capital will gradually leave the country. If theory were silent,
-                    <lb/>experience must now convince us, that time alone will produce <lb/>no
-                    material amelioration in our circumstances ; and the relief <lb/>which is may
-                    ultimately bring, will be obtained only through <lb/>the destruction of vast
-                    multitudes by famine and disease. In <lb/>the fifth year of peace, it is now
-                    time to look the evil in the <lb/>face, and either to make some great sacrifices
-                    for its removal, <lb/>or to brace our minds to bear the dreadful alternative. It
-                    is <lb/>in vain to disguise the matter to our own consciences. Those <lb/>who
-                    propose to leave things to what they call the course of <lb/>nature, are in
-                    substance recommending that thousands of their <lb/>fellow-creatures should be
-                    suffered to rot away from the effect <lb/>of absolute want. That such a thing
-                    should take place in the</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1820-05-20"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="persuade"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">Necessity of Legislative Measures for <lb/>Relieving the Distress of the Labour<lb break="no"/>ing Classes.</hi> 
+         </p>
+         <p>Salus populi suprema lex.</p>
+         <p>
+            <hi rend="enlarged-capital">T </hi>
+            <hi rend="smallcaps">here</hi>  wasa time when it was held pure factiousness to <lb/>doubt whether the prosperity we enjoyed during the first ten <lb/>or twelve years of the late war, was perfectly sound and na<lb break="no"/>tural, and whether it would not ultimately entail upon us a <lb/>corresponding share of future calamity. But the most gloomy <lb/>anticipations of those who were most inclined to view the pic<lb break="no"/>ture on the dark side have certainly come infinitely short of <lb/>the full measure of distress and misery which have at length <lb/>fallen upon the country. It would be unjust to charge the <lb/>Government with any more of these evils than might have <lb/>been foreseen ; but now that they force themselves on the at<lb break="no"/>tention on all sides, it is perfectly fair to hold the Govern<lb break="no"/>ment accountable for all that it can remove or prevent, and <lb/>yet suffers to exist. This is the first time, we believe, in mo<lb break="no"/>dern history, when the evil of an excess, of population has come <lb/>so distinctly under the notice of a Government as to call for <lb/>a legislative remedy. The case is therefore new, and the <lb/>course to be pursued is the less obvious ; but the war was a <lb/>season of bold experiments, in which we surmounted many <lb/>difficulties once deemed insuperable : and if timidity tie up our <lb/>hands now, when humanity calls upon us to move, the world <lb/>may well say, that the boasted energy of the Government has <lb/>been entirely reserved for the supply of its own wants out of <lb/>the pockets of the people, but that, when a period of public <lb/>calamity requiress exertions of a more painful kind, it is start<lb break="no"/>led by the smallest difficulty, and will not even make such <lb/>a slight effort as might evince its sympathy with the sufferers.</p>
+         <p>During the late war, the industry of the country was stimu<lb break="no"/>lated into a state of unprecedented activity, by the monopoly <lb/>we obtained of the commerce of the world–by thirty or forty <lb/>millions of the capital of the country being annually melted <lb/>down and consumed–and by the continual rise of prices pro<lb break="no"/>duced by the depreciation of the currency. The great de<lb break="no"/>mand for labour, arising out of this state of things, with the <lb/>consequent increase of wages, caused a rapid augmentation in <lb/>the numbers of the people. In the ten years ending 1811, the <lb/>rate of increase in Britain was such as would have doubled the <lb/>population in fifty-two years; and in the great manufacturing <lb/>districts it probably equalled what takes place in a new colony. <lb/>When the peace came, and was followed by the destruction of <lb/>our commercial monopoly, the cessation of the annual loans, <lb/>and the diminuition of the paper issues, the sources of our fic<lb break="no"/>titious prosperity were dried up at once : a vast reduction took <lb/>place in the demand for labour ; profits and wages fell with <lb/>prices ; while the pressure of the taxes were doubled, and one<lb break="no"/>third added to their real amount by the rise in the value of <lb/>money. The laws, however, which regulate the multiplication <lb/>of human beings, cannot instantly bend to circumstances : a <lb/>long period necessarily elapses before the population accom<lb break="no"/>modates itself to the diminished demand for labour, and dur<lb break="no"/>ing this period the labouring classes must suffe extreme mi<lb break="no"/>sery. In this state we are at present, and time, from which <lb/>we hoped relief, has only aggravated the evil. There are but <lb/>three remedies upon which any dependence can be placed <lb/>– a reduction of taxation – a change in our commercial <lb/>system – and emigration. We have little hopes as to the first, <lb/>since this would require a sacrifice on the part of the Govern<lb break="no"/>ment of its own interest, real or supposed, which we see no <lb/>disposition to make. A relaxation in our restrictive commer<lb break="no"/>cial system has not the same obstacles to encounter, and we <lb/>have repeated shewn that it would be highly beneficial. The <lb/>reluctance of Ministers to attempt a change that may prejudice <lb/>the interest of some particular classes, might be considered as <lb/>a prudent caution, were it not observed, that when, instead of<cb/> 
+            <lb/>relieving the distress of the people, the object is to suppy the <lb/>necessities of the Treasury, none of this caution appears, but <lb/>the complaints of the sufferers are disregarded as vulgar cla<lb break="no"/>mour. But the crisis is now such, that tenderness to the in<lb break="no"/>terests of a few individuals may be cruelty to the public at <lb/>large. Though we shall preach free trade to other nations ra<lb break="no"/>ther with a bad grace, when we can no longer hold our mono<lb break="no"/>poly, it is so far well that our misfortunes are at last likely to <lb/>open our eyes to truths whch were familiar to philosophers <lb/>half a century ago. In our present circumstances, we may <lb/>perhaps almost be thankful, that a systematic error, which has <lb/>impeded our career, has kept this one resource open to us.</p>
+         <p>Emigration suggests itself so naturally as a remedy for a re<lb break="no"/>dundant population, that we are rather surprised there should <lb/>be much reluctance to have recourse to it. We need not <lb/>be afraid that the practise will continue longer than the ne<lb break="no"/>cessity which produces it. " The<hi rend="italic">vis intertiae</hi>  of people in ge<lb break="no"/>neral, says<hi rend="smallcaps">Malthus</hi> , and their attachment to their homes, <lb/>are qualities so strong and general, that we may rest assured <lb/>they will not emigrate, unless, from political discontents or ex<lb break="no"/>treme poverty, they are in such a state,<hi rend="italic">as will make it as much </hi>
+            <lb/>
+            <hi rend="italic">for the advantages of their country as of themselves that they </hi>
+            <lb/>
+            <hi rend="italic">should go out of it.</hi> " We by no means underrate the difficul<lb break="no"/>ties that attend emigration upon a large scale, but these are <lb/>partly occasioned by the absurd practise of directing it exclu<lb break="no"/>sively to our own colonies. We have vast multitudes, whom <lb/>we can neither feed nor employ ; and surely the first and most <lb/>pressing object is to send them where they will find the means <lb/>of subsistence. There are many parts of the world besides our <lb/>own colonies open to receive them. And whether they go to <lb/>the United States, Brazil, Buenos Ayres, or to Canada, New <lb/>Holland, or the Cape of Good Hope, the advantage to this <lb/>country will be nearly the same. Among so many countries <lb/>of such extent, it would not be very difficult to dispose of half <lb/>a million of persons (young and old) within the course perhaps <lb/>of two years. But upon whatever scale emigration is conduct<lb break="no"/>ed it must be gradual; and this renders it the more important <lb/>to fix upon a plan early. Ministers have lately announced <lb/>that Canada cannot receive more emigrants at present with<lb break="no"/>out inconvenience. But had the intention of sending great <lb/>numbers to that colony been made public two years ago, corn <lb/>would have been raised for them, and men of some capital, <lb/>assured of finding abundance of labourers, would have gone <lb/>out and settled, and provided employment for those who have <lb/>not the means to establish themselves as farmers. The alarm <lb/>we feel of seeing manufactures raised up in other countries by <lb/>the skill of our expatriated artisans is very ill founded. Many <lb/>other advantges must be combined with the possession of <lb/>mechanical skill to make manufactures flourish ; and when the <lb/>former are found, able workmen will not be long wanting. Our <lb/>capital, our improved means of internal communication, our <lb/>coal fields, our laws for the protection of industry and proper<lb break="no"/>ty, the free, enlightened and active spirit of our people, with the <lb/>powers of combination resulting from the union of so many <lb/>advantages within so small a space, are better securities for <lb/>our superiority in manufactures, than attempts, which must be <lb/>nugatory, to retain a monopoly of operative skill and talent. <lb/>But the opinion which exists in foreign countries, as to the su<lb break="no"/>periority of our people in every branch of industry, will have <lb/>this good effect, that it will secure out emigrants a favourable <lb/>reception. Though the emigration, to afford any sensible re<lb break="no"/>lief to the whole country, would require to be upon an exten<lb break="no"/>sive scale, it is yet obvious, that even upon the smallest scale <lb/>it is beneficial. If six labourers are withdrawn from a small <lb/>village, or fifty from a country town, the situation of either <lb/>will be improved. The plan hitherto acted on by Government <lb/>of givingassistance to those only who could raise ten on fif<lb break="no"/>teen pounds, is chiefly objectionable, because it must restrict <lb/>the emigration within very narrow limits. If by sending away <lb/>men who are still able to subsist by their labour, others now <lb/>living on charity get employment, we are in effect relieved of <lb/>so many paupers. But the former are less disposed to leave<cb/> 
+            <lb/>the country ; and with regard to those who are or must soon <lb/>become paupers, it will certainly be found more economical to <lb/>pay ten or fiften pounds each to send them abroad, than to <lb/>maintain them permanently home. It is in vain, however, <lb/>to look to private charity for the funds necessary for such an <lb/>undertaking. These must be raised by the country at large ; <lb/>and whether a tax be imposed for the special purpose, or mo<lb break="no"/>ney destined for other objects be applied to this, the country, <lb/>we have no doubt, is ready to make the sacrifice. Suppose that <lb/>even so great a sum as five millions were required, this is but <lb/>the half of what England alone pays every year for poor rates ; <lb/>and what is such a sum, if it were to afford certain relief on <lb/>an emergency lke the present? If the French and Dutch should <lb/>again disagree about the navigation of the Scheldt, or if we should <lb/>quarrel with the French or Americans about the traffic in a few <lb/>hundred wild cat-skins on the other side of the globe, how <lb/>easily would a sum ten times as large be found? Nothing <lb/>more is requisite than to take on half of the sum for two <lb/>years, which Mr<hi rend="smallcaps">Vansittart</hi>  allots for paying off the nation<lb break="no"/>al debt. We not only conceive that it would be wise and <lb/>creditable to divert a part, or the whole of the actual Sinking <lb/>Fund to this purpose ; but we go so far as to think, that it is lit<lb break="no"/>tle less than disgraceful to pay off any debt at all at this crisis <lb/>with funds wrung from the earnings of a starving population. <lb/>Whatever is done, it is of vast importance to understand, that <lb/>the most pressing evil, though not absolutely permanent in its <lb/>nature, cannot be expected to subside of itself for many years. <lb/>We have not only an excess of population to dispose of, but <lb/>we have to check the principle of increase, which is rapidly <lb/>aggravating the evil. In the five years ending 1810, the po<lb break="no"/>pulation of England added one-seventieth part to its numbers <lb/>annually ; and if we suppose the ratio to have been the same <lb/>for the whole empire, each year must have had 250,000 indi<lb break="no"/>viduals more to provide for than the preceding. Till the <lb/>whole of this vast annual inrease is got rid of, the present <lb/>excess of numbers will not diminish but augment. And how <lb/>is it to be got rid of? Either the annual births must diminish <lb/>more than one-third, or famine and disease must destroy a <lb/>quarter of a million of human beings annually beyond the u<lb break="no"/>sual rate of mortality, or these two causes must operate toge<lb break="no"/>ther. Notwithstanding, therefore, the misery of the labouring <lb/>classes at this moment, we doubt whether the population is <lb/>not still on the increase, and whether still more afflicting <lb/>scenes are not awaiting us. Indeed, unless measures are taken <lb/>to do away the factitious stimulus which the English poor<lb break="no"/>laws give to the increase of population, the most abundant e<lb break="no"/> 
+            <lb/>migration will prove but a feeble palliative. These are rather <lb/>discouraging circumstances ; but the evil must be dealt with in <lb/>some way, or it will ultimately overwhelm us. It has now be<lb break="no"/>come rather a question of humanitiy than of policy. One or <lb/>two millions of human beings have been suddenly deprived of <lb/>their means of subsistence by events over which they had no <lb/>control. With such a mass of individuals goaded to despera<lb break="no"/>tion by want–a deficient crop,–a sudden revulsion in trade– <lb/>a more general exclusion of our manufactures by the Ameri<lb break="no"/>cans,–any of those numerous casualties, in short to which e<lb break="no"/>very nation is exposed, would place us in a situation frightful <lb/>to contemplate. Plots and insurrections will keep up a con<lb break="no"/>tinual alarm. Neither persons nor property will be safe, and <lb/>capital will gradually leave the country. If theory were silent, <lb/>experience must now convince us, that time alone will produce <lb/>no material amelioration in our circumstances ; and the relief <lb/>which is may ultimately bring, will be obtained only through <lb/>the destruction of vast multitudes by famine and disease. In <lb/>the fifth year of peace, it is now time to look the evil in the <lb/>face, and either to make some great sacrifices for its removal, <lb/>or to brace our minds to bear the dreadful alternative. It is <lb/>in vain to disguise the matter to our own consciences. Those <lb/>who propose to leave things to what they call the course of <lb/>nature, are in substance recommending that thousands of their <lb/>fellow-creatures should be suffered to rot away from the effect <lb/>of absolute want. That such a thing should take place in the</p>
+      </body>
+   </text>
+</TEI>

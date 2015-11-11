@@ -1,93 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>301</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>301</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1841-09-22"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">New Zealand Company</hi>
-                </p>
-                <p>A very lively and interesting scene occurred on Fri<lb break="no"/>day, off the
-                    West India Dock entrance, at Blackwall, <lb/>by the preparation for departure of
-                    three fine vessels <lb/>with "improvers" for "Nelson," the second colony of
-                    <lb/>New Zealand. The Directors of the Company and <lb/>several hundred persons
-                    of rank and wealth met there <lb/>to bid farewell to the enterprising emigrants,
-                    who ap<lb break="no"/>peared highly delighted with the honour extended to
-                    <lb/>them, and in high spirits with the anticipations of the <lb/>successful
-                    result of their mission. After viewing the <lb/>arrangeents made for the comfort
-                    of all on board, <lb/>the Directors returned to the West India Dock Tavern,
-                    <lb/>where a sumptuous breakfast was provided in the large <lb/>room. The Duke
-                    of Sussex took the chair, and was <lb/>supported on the right by the Earl of
-                    Devon, and on <lb/>the left by Jos. Somes, Esq., the Governor of the Com<lb break="no"/>
-                    <lb/>pany. Among the guests were the Duchess of Inver<lb break="no"/>ness, the
-                    Duke and Duchess of Somerset, Lords Cot<lb break="no"/>tenham, Sandon, Marcus
-                    Hill, Clements, Viscount <lb/>Ebrington, M.P., the Hon. Frederick Dundas, Hon.
-                    <lb/>Captain Drummon, Messrs P. Maxwell Stewart, M.P., <lb/>Gowen, G. F. Young,
-                    W. C. Young, and the Misses <lb/>Young; the Hon. Mrs Douglas, the Hon. Miss
-                    Petre, <lb/>Rev, Dr Hinds, J. E. Boulcott, Captain Hine, Sir Ro<lb break="no"/>bert and Lady Harland, Sir John Doxatt, M. D.; Mr, <lb/>Mrs, and Miss
-                    Pennington; Lieutenant Lean, her Ma<lb break="no"/>jesty's Emigration Agent;
-                    MEssrs Jordan, E. G. Wake<lb break="no"/>field, Dudley Costello, Mr and Mrs S.
-                    C. Brees, Captain <lb/>Sinclair, R.N.,&amp;c. &amp;c. The rapid progress which
-                    the <lb/>grand undertaking of colonizing New Zealand has <lb/>made, was more
-                    than once alluded to by his Royal <lb/>Highness and other distinguished speakers
-                    on both <lb/>sides of politics, and its many advantages were dwelt <lb/>upon
-                    with much sincerity of feeling. Several gentle<lb break="no"/>men of the first
-                    families go out with this expedition, <lb/>which will be closely followed by
-                    several first-rate <lb/>ships.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1841-09-22"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">New Zealand Company</hi> 
+         </p>
+         <p>A very lively and interesting scene occurred on Fri<lb break="no"/>day, off the West India Dock entrance, at Blackwall, <lb/>by the preparation for departure of three fine vessels <lb/>with "improvers" for "Nelson," the second colony of <lb/>New Zealand. The Directors of the Company and <lb/>several hundred persons of rank and wealth met there <lb/>to bid farewell to the enterprising emigrants, who ap<lb break="no"/>peared highly delighted with the honour extended to <lb/>them, and in high spirits with the anticipations of the <lb/>successful result of their mission. After viewing the <lb/>arrangeents made for the comfort of all on board, <lb/>the Directors returned to the West India Dock Tavern, <lb/>where a sumptuous breakfast was provided in the large <lb/>room. The Duke of Sussex took the chair, and was <lb/>supported on the right by the Earl of Devon, and on <lb/>the left by Jos. Somes, Esq., the Governor of the Com<lb break="no"/> 
+            <lb/>pany. Among the guests were the Duchess of Inver<lb break="no"/>ness, the Duke and Duchess of Somerset, Lords Cot<lb break="no"/>tenham, Sandon, Marcus Hill, Clements, Viscount <lb/>Ebrington, M.P., the Hon. Frederick Dundas, Hon. <lb/>Captain Drummon, Messrs P. Maxwell Stewart, M.P., <lb/>Gowen, G. F. Young, W. C. Young, and the Misses <lb/>Young; the Hon. Mrs Douglas, the Hon. Miss Petre, <lb/>Rev, Dr Hinds, J. E. Boulcott, Captain Hine, Sir Ro<lb break="no"/>bert and Lady Harland, Sir John Doxatt, M. D.; Mr, <lb/>Mrs, and Miss Pennington; Lieutenant Lean, her Ma<lb break="no"/>jesty's Emigration Agent; MEssrs Jordan, E. G. Wake<lb break="no"/>field, Dudley Costello, Mr and Mrs S. C. Brees, Captain <lb/>Sinclair, R.N.,&amp;c. &amp;c. The rapid progress which the <lb/>grand undertaking of colonizing New Zealand has <lb/>made, was more than once alluded to by his Royal <lb/>Highness and other distinguished speakers on both <lb/>sides of politics, and its many advantages were dwelt <lb/>upon with much sincerity of feeling. Several gentle<lb break="no"/>men of the first families go out with this expedition, <lb/>which will be closely followed by several first-rate <lb/>ships.</p>
+      </body>
+   </text>
+</TEI>

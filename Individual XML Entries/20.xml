@@ -1,117 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>20</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>20</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-10-09"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>weather</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <head>AMERICAN NEWS</head>
-                <p>
-                    <pb/>
-                    <hi rend="center">[<hi rend="italic">Continued from our last</hi>.]</hi>
-                    <lb/>
+                  </pubPlace>
+                  <date when="1789-10-09"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>weather</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>AMERICAN NEWS</head>
+         <p>
+            <pb/>
+            <hi rend="center">[<hi rend="italic">Continued from our last</hi> .] </hi>
+            <lb/>
             <hi rend="center">
-               <hi rend="italic">Carlisle, July</hi> 29.</hi>
-                </p>
-                <p>
-                    <lb/>
-            <hi rend="enlarged-capital">O</hi>N Saturday last between three and four
-                    <lb/>o'clock, P. M. happened the most violent <lb/>hurricane pest, or thunder
-                    storm (for we are at <lb/>a lost to determine its proper name) that was
-                    <lb/>ever known in this borough or its vicinity. We <lb/>can conceive of nothing
-                    but an earthquake, that <lb/>could be attended with more alarming circum<lb break="no"/>stances. The cloud from the west, or rather a <lb/>number of
-                    clouds of a lowering aspect, furiously <lb/>agitated, broken, and seemingly
-                    ready to fall– <lb/>attracted the attention, and prepared the mind
-                    <lb/>in some measure for what was to follow. The <lb/>lightening appeared to
-                    those who were at a dis<lb break="no"/>tance, remarkably red, and seemed to
-                    flash from <lb/>the cloud to the earth and back again, in quick <lb/>succession
-                    or some time, as to appear one sheet <lb/>of flame. This might have had a great
-                    effect on <lb/>the air, at some miles distance from town, to set <lb/>it in
-                    rapid motion, especially when pressed down <lb/>by a heavy cloud suddenly
-                    falling towards the <lb/>earth. A very considerable quantity of hail fell;
-                    <lb/>and the rain was so abundant that it seemed as <lb/>thrown from buckets,
-                    and being carried along <lb/>and dashed against every opposing object by a
-                    <lb/>most impetuous wind, darkened the air in such a <lb/>manner, that all
-                    surrounding objects seemed lost <lb/>in night. The storm threatened to lay the
-                    whole <lb/>town in ruins, with such irresistible force did the <lb/>column of
-                    air move on: happily however, the da<lb break="no"/>mages were much less than
-                    apprehended. The <lb/>The new brick house belonging to the Rev. Dr. Da<lb break="no"/>vidson, being an an elevated spot near the west <lb/>end of the
-                    town, and lying directly in the line of <lb/>march of this powerful column, was
-                    the first suf<lb break="no"/>ferer; all the parts of the building above the
-                    square <lb/>were suddenly borne off, and a great part of the <lb/>roof was
-                    carried over Mr. Paton's house, which <lb/>stood at a small distance on the
-                    east, striking it <lb/>forcibly, and injuring it greatly in its ways, and
-                    <lb/>fell on the adjoining lot. Mr. Paton's house is <lb/>left in much the same
-                    condition as the Doctor's. <lb/>After injruing some smaller buildings in its
-                    course <lb/>to the eastward, the next elevated object to which <lb/>it pointed
-                    its fury, was the presbyterian church <lb/>in the certain of town–a
-                    building of uncom<lb break="no"/>mon solidity, calculated, it was thought, to
-                    stand <lb/>for ages, admist all the war of the elements. A<lb break="no"/>bout a
-                    fourth part, however of the roof of the <lb/>north side was carried off, with
-                    the weighty cor<lb break="no"/>nice, and thrown to the ground at some hundred
-                    <lb/>yards distance on the east side of the open square <lb/>which is in the
-                    centre of this borough. After <lb/>leaving the town it beat its course to the
-                    public <lb/>buildings, and greatly injured that range nearest <lb/>the town.
-                    Many fences in the neighbourhood, <lb/>which were in the line of its direction,
-                    were also <lb/>thrown down; but how far it extended, or what <lb/>damages the
-                    farmers may have sustained we have <lb/>not yet learned. Let it, however, not be
-                        forgot<lb break="no"/>ten, that dreadful as the scene was, through the
-                    <lb/>good providence of God, not a single life was <lb/>lost or any personal
-                    injury, worth mentioning, <cb/>
-                    <lb/>received, and the buildings, it is hoped, will soon <lb/>be restored to as
-                    good a state as they were in be<lb break="no"/>fore.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="italic">Carlisle, July</hi>  29.</hi> 
+         </p>
+         <p> 
+            <lb/>
+            <hi rend="enlarged-capital">O</hi> N Saturday last between three and four <lb/>o'clock, P. M. happened the most violent <lb/>hurricane pest, or thunder storm (for we are at <lb/>a lost to determine its proper name) that was <lb/>ever known in this borough or its vicinity. We <lb/>can conceive of nothing but an earthquake, that <lb/>could be attended with more alarming circum<lb break="no"/>stances. The cloud from the west, or rather a <lb/>number of clouds of a lowering aspect, furiously <lb/>agitated, broken, and seemingly ready to fall– <lb/>attracted the attention, and prepared the mind <lb/>in some measure for what was to follow. The <lb/>lightening appeared to those who were at a dis<lb break="no"/>tance, remarkably red, and seemed to flash from <lb/>the cloud to the earth and back again, in quick <lb/>succession or some time, as to appear one sheet <lb/>of flame. This might have had a great effect on <lb/>the air, at some miles distance from town, to set <lb/>it in rapid motion, especially when pressed down <lb/>by a heavy cloud suddenly falling towards the <lb/>earth. A very considerable quantity of hail fell; <lb/>and the rain was so abundant that it seemed as <lb/>thrown from buckets, and being carried along <lb/>and dashed against every opposing object by a <lb/>most impetuous wind, darkened the air in such a <lb/>manner, that all surrounding objects seemed lost <lb/>in night. The storm threatened to lay the whole <lb/>town in ruins, with such irresistible force did the <lb/>column of air move on: happily however, the da<lb break="no"/>mages were much less than apprehended. The <lb/>The new brick house belonging to the Rev. Dr. Da<lb break="no"/>vidson, being an an elevated spot near the west <lb/>end of the town, and lying directly in the line of <lb/>march of this powerful column, was the first suf<lb break="no"/>ferer; all the parts of the building above the square <lb/>were suddenly borne off, and a great part of the <lb/>roof was carried over Mr. Paton's house, which <lb/>stood at a small distance on the east, striking it <lb/>forcibly, and injuring it greatly in its ways, and <lb/>fell on the adjoining lot. Mr. Paton's house is <lb/>left in much the same condition as the Doctor's. <lb/>After injruing some smaller buildings in its course <lb/>to the eastward, the next elevated object to which <lb/>it pointed its fury, was the presbyterian church <lb/>in the certain of town–a building of uncom<lb break="no"/>mon solidity, calculated, it was thought, to stand <lb/>for ages, admist all the war of the elements. A<lb break="no"/>bout a fourth part, however of the roof of the <lb/>north side was carried off, with the weighty cor<lb break="no"/>nice, and thrown to the ground at some hundred <lb/>yards distance on the east side of the open square <lb/>which is in the centre of this borough. After <lb/>leaving the town it beat its course to the public <lb/>buildings, and greatly injured that range nearest <lb/>the town. Many fences in the neighbourhood, <lb/>which were in the line of its direction, were also <lb/>thrown down; but how far it extended, or what <lb/>damages the farmers may have sustained we have <lb/>not yet learned. Let it, however, not be forgot<lb break="no"/>ten, that dreadful as the scene was, through the <lb/>good providence of God, not a single life was <lb/>lost or any personal injury, worth mentioning,<cb/> 
+            <lb/>received, and the buildings, it is hoped, will soon <lb/>be restored to as good a state as they were in be<lb break="no"/>fore.</p>
+      </body>
+   </text>
+</TEI>

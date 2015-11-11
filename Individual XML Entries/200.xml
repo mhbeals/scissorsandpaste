@@ -1,78 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>200</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>200</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1824-06-09"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1824-06-09"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="smallcaps">Mr Secretary Peel</hi>, in moving the commitment of the
-                        Trans<lb break="no"/>portation Bill, stated, that the objects of the bill
-                    were, first, to <lb/>continue the laws on transportation, that would expire
-                    before the <lb/>next session ; and next, to cimplify the law. In the last
-                    session <lb/>a bill had been passed to enable the Crown to make an experiment
-                    <lb/>of the union of the hulk and transportation system, by sending
-                    <lb/>convicts to Bermuda. There had been as yet hardly time to de<lb break="no"/>cide fully on the experiment, but, as far as it could be judged of, it
-                    <lb/>was satisfactory. It had been hithero complained that transporta<lb break="no"/>tion was a very esqual punishment, and certainly there was a
-                    great <lb/>different in the effect of the punishment upon a man of settled ha<lb break="no"/>bits, and with a family, and upon a man of no fixed habits, to
-                    whom, <lb/>as hitherto managed, it had scarcely been a punishment. He wish<lb break="no"/>ed it to be known, that arrangements had been made in New South
-                    <lb/>Wales, to send some of the convicts to a distant part of the set<lb break="no"/>tlement, where the punishment would be more severe. A selection
-                    <lb/>would be made from the convicts, so as to make the punishment
-                    <lb/>efficient against those to whom it had hitherto had no terror.–
-                    <lb/>He gave this statement because it was right the public should <lb/>know
-                    that transportation would be henceforward a real punishment.</p>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="smallcaps">Mr Secretary Peel</hi> , in moving the commitment of the Trans<lb break="no"/>portation Bill, stated, that the objects of the bill were, first, to <lb/>continue the laws on transportation, that would expire before the <lb/>next session ; and next, to cimplify the law. In the last session <lb/>a bill had been passed to enable the Crown to make an experiment <lb/>of the union of the hulk and transportation system, by sending <lb/>convicts to Bermuda. There had been as yet hardly time to de<lb break="no"/>cide fully on the experiment, but, as far as it could be judged of, it <lb/>was satisfactory. It had been hithero complained that transporta<lb break="no"/>tion was a very esqual punishment, and certainly there was a great <lb/>different in the effect of the punishment upon a man of settled ha<lb break="no"/>bits, and with a family, and upon a man of no fixed habits, to whom, <lb/>as hitherto managed, it had scarcely been a punishment. He wish<lb break="no"/>ed it to be known, that arrangements had been made in New South <lb/>Wales, to send some of the convicts to a distant part of the set<lb break="no"/>tlement, where the punishment would be more severe. A selection <lb/>would be made from the convicts, so as to make the punishment <lb/>efficient against those to whom it had hitherto had no terror.– <lb/>He gave this statement because it was right the public should <lb/>know that transportation would be henceforward a real punishment.</p>
+      </body>
+   </text>
+</TEI>

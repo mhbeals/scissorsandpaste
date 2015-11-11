@@ -1,112 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>154</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>154</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1819-10-11"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1819-10-11"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="smallcaps">Emigration to the Cape of Good Hope.</hi>
-                    <lb/>(<hi rend="smallcaps">Official Circular</hi>.)</p>
-                <p>The following circular has been addressed to <lb/>the parties whose lists of the
-                    individuals engaged <lb/>to proceed with them as settlers to the Cape of
-                    <lb/>Good Hope have been approved of by the Co<lb break="no"/>lonial Department:
-                    –</p>
-                <p>Downing Street, London, 30th Sept. 1819.</p>
-                <p>Sir – I am directed by Earl Batburst to acquaint you, that <lb/>he has
-                    under consideration your letter of, and <lb/>that he accepts the proposal which
-                    you have mde, to take a <lb/>party of able bodied settlers, with their families,
-                    to the Cape <lb/>of Good Hope, where a grant of land will accordingly be as<lb break="no"/>signed to you on your arrival, in conformity with the regula<lb break="no"/>tions laid down by his Majesty's Government.</p>
-                <p>I have therefore to request, that you will immediately <lb/>transmit to me three
-                    separate lists of the individuals who <lb/>have placed themselves under your
-                    direction, and I inclose to <lb/>you proper returns for that purpose ; at the
-                    same time, I deem <lb/>it necessary to mention, that it is absolutely requisite
-                    that the <lb/>details respecting the individuals of your party which you are
-                    <lb/>called upon to state in your returns should be correctly speci<lb break="no"/>fied, as any erroneous statement upon these heads, but more
-                    <lb/>particularly in respect of the age of the individuals, could not <lb/>fail
-                    to be productive of much inconvenience. Upon receiving <lb/>there returns, I
-                    shall lose no time in stating to you the amount <lb/>of the money which you will
-                    be required to deposit under <lb/>the existing regulations, and the mode in
-                    which the payment <lb/>is to be made.</p>
-                <p>I am, Sir, your most obedient servant,</p>
-                <p>(Signed)<hi rend="smallcaps">Henry Goulburn</hi>.</p>
-                <p>P.S. – If there be any Officers on the half pay of the army <lb/>or navy,
-                    or military of naval pensioners among the individuals <lb/>proceeding under your
-                    direction, it will be necessary that you <lb/>should transmit to me a (fourth)
-                    list, specifying their usual <lb/>place of residence, and the designation under
-                    which they are <lb/>respectively known at the War Office, and at the Admiralty,
-                    <lb/>in order that I may take the necessary measures to enable <lb/>them to
-                    receive their allowances in the colony.</p>
-                <p>These persons should, on their part, immediately apply to <lb/>the Secretary at
-                    War, and to the Secretary of the Admiralty, <lb/>stating their intention to
-                    emigrate to the Cape of Good Hope, <lb/>and requesting instructions for their
-                    guidance in respect to the <lb/>receipt of their allowances.</p>
-                <p>In making your arrangements for embarkation, it will be <lb/>necessary that you
-                    should bear in mind, that you will be al<lb break="no"/>lowed tonnage for the
-                    conveyance of the baggage of your <lb/>party, at the rate of one ton
-                    (measurement 40 cubic feet) for <lb/>each single able bodied individual, and two
-                    tons for each able <lb/>bodied individual who is accompanied by his family.</p>
-                <p>The above circular is accompanied by a form <lb/>of the required return ; the
-                    several heads of which <lb/>are distinguished in separate columns, as
-                    follows:</p>
-                <p>Return of settlers proceeding to the Cape of Good Hope, <lb/>under the direction
-                    of – <lb/>Names of the men – their age – profession or
-                    trade. <lb/>Names of the women – their age. <lb/>Names of the male
-                    children – their age. <lb/>Names of the female children – their
-                    age. <lb/>Deposit money payable by the respective settler.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="smallcaps">Emigration to the Cape of Good Hope. </hi>
+            <lb/>(<hi rend="smallcaps">Official Circular</hi> .)</p>
+         <p>The following circular has been addressed to <lb/>the parties whose lists of the individuals engaged <lb/>to proceed with them as settlers to the Cape of <lb/>Good Hope have been approved of by the Co<lb break="no"/>lonial Department: –</p>
+         <p>Downing Street, London, 30th Sept. 1819.</p>
+         <p>Sir – I am directed by Earl Batburst to acquaint you, that <lb/>he has under consideration your letter of, and <lb/>that he accepts the proposal which you have mde, to take a <lb/>party of able bodied settlers, with their families, to the Cape <lb/>of Good Hope, where a grant of land will accordingly be as<lb break="no"/>signed to you on your arrival, in conformity with the regula<lb break="no"/>tions laid down by his Majesty's Government.</p>
+         <p>I have therefore to request, that you will immediately <lb/>transmit to me three separate lists of the individuals who <lb/>have placed themselves under your direction, and I inclose to <lb/>you proper returns for that purpose ; at the same time, I deem <lb/>it necessary to mention, that it is absolutely requisite that the <lb/>details respecting the individuals of your party which you are <lb/>called upon to state in your returns should be correctly speci<lb break="no"/>fied, as any erroneous statement upon these heads, but more <lb/>particularly in respect of the age of the individuals, could not <lb/>fail to be productive of much inconvenience. Upon receiving <lb/>there returns, I shall lose no time in stating to you the amount <lb/>of the money which you will be required to deposit under <lb/>the existing regulations, and the mode in which the payment <lb/>is to be made.</p>
+         <p>I am, Sir, your most obedient servant,</p>
+         <p>(Signed)<hi rend="smallcaps">Henry Goulburn</hi>.</p>
+         <p>P.S. – If there be any Officers on the half pay of the army <lb/>or navy, or military of naval pensioners among the individuals <lb/>proceeding under your direction, it will be necessary that you <lb/>should transmit to me a (fourth) list, specifying their usual <lb/>place of residence, and the designation under which they are <lb/>respectively known at the War Office, and at the Admiralty, <lb/>in order that I may take the necessary measures to enable <lb/>them to receive their allowances in the colony.</p>
+         <p>These persons should, on their part, immediately apply to <lb/>the Secretary at War, and to the Secretary of the Admiralty, <lb/>stating their intention to emigrate to the Cape of Good Hope, <lb/>and requesting instructions for their guidance in respect to the <lb/>receipt of their allowances.</p>
+         <p>In making your arrangements for embarkation, it will be <lb/>necessary that you should bear in mind, that you will be al<lb break="no"/>lowed tonnage for the conveyance of the baggage of your <lb/>party, at the rate of one ton (measurement 40 cubic feet) for <lb/>each single able bodied individual, and two tons for each able <lb/>bodied individual who is accompanied by his family.</p>
+         <p>The above circular is accompanied by a form <lb/>of the required return ; the several heads of which <lb/>are distinguished in separate columns, as follows:</p>
+         <p>Return of settlers proceeding to the Cape of Good Hope, <lb/>under the direction of – <lb/>Names of the men – their age – profession or trade. <lb/>Names of the women – their age. <lb/>Names of the male children – their age. <lb/>Names of the female children – their age. <lb/>Deposit money payable by the respective settler.</p>
+      </body>
+   </text>
+</TEI>

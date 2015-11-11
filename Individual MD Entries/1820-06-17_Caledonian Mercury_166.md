@@ -1,55 +1,1 @@
-CanadaThe following is an extract of a private letter dated"Halifax, May 22 "At two o'clock this day the Earl of Dalhousie, Captain-General and Governor-in-Chief of British North America,
-                    attended by the Admiral, his Majesty's Council, the staff, naval
-                    and military officers, and the principal people of the place, attended
-                    to lay the first stone of a new college, to be erected at the north end of
-                    the grand parade. The whole of the freemasons of Halifax went in grand
-                    procession. They formed in lodges at their hall, and, preceded by a
-                    military band, and followed by another, they marched to the places
-                    prepared for them on the building."His Lordship came on the scaffolding at two o'clock, the grenadiers of the
-                    62d regiment being his guard of honour. Detachments from each regiment
-                    kept the ground."After a prayer by the Rev. Mr Twining, Grand Chaplain, Lord Dalhousie
-                    addressed the assembly in a speech, of which I have not time to give
-                    an outline ; but in it his Lordship mentioned, that the building
-                    was intendeed as a college upon the plan of that of Edinburgh, where all
-                    students who professed the Christian religion were eligible for
-                    admittance. Strangers residing here for a short time might also enjoy the
-                        benefit of the institution, and gentlemen in the army,
-                    the navy, and the military establishments. His Lordship concluded a
-                    most eloquent and animated address with his fervent wishes for
-                    the welfare and prosperity of the undertaking."A bottle with coins, and a tin case with parchments, &c. were then
-                    severally deposited in the recess made for them, and the stone was
-                    lowered into its place with all the requisite and due forms, under a
-                    royal salute from fort Charlotte ; after which the Rev. the
-                    Grand Chaplain closed the proceedings with a prayer, and the whole
-                    assembled multitude gave nine cheers.– The military and masonic
-                    processions then returned in the same order, in which they
-                    came.The day was beautiful, and a greater assemblage of people was
-                    never witnessed in Halifax."The Countess of Dalhousie and her two sons, Mrs Admiral Griffith and the
-                    Misses Wilson, and most of the fashionable ladies here witnessed the
-                    ceremony from a convenient scaffolding prepared for
-                    them."Lord Dalhousie purposes to leave Halifax for Quebec in his Majesty's ship
-                    Newcastle, on the 1st of June, without waiting for Sir James
-                    Kempt."Court of Chancery–June 10.Will of the Late Duke of QueensberryMr Head stated, that he had to present a petition from the annuitants
-                    and legates of the late Duke of Queensberry, praying that a
-                    fourth more of their claims might be paid, there now being sufficient funds
-                    in the hands of the Accountant-General for that purposes. The Learned
-                        Counsel said, that there was no less a sum than L.1,400,000
-                    accumulated and vested in the name of this officer, in Bank stock, for
-                    the benefit of the claimants, and he understood it was not
-                    intended to oppose the application, although the executors did
-                    not say they would give their consent to it. Some consultation had been had
-                    on the subject out of doors ; he therefore prayed that the prayer of
-                    the petition should be granted.The Attorney-General said, he had not received any instructions,
-                    nor had he been consulted.The several King's counsel in Court spoke in behalf of their respective
-                    clients.Mr Wingfield appeared for the Earl of Yarmouth, and said his Lordship was
-                    anxious that the business should be put in a train of settlement.The Lord Chancellor said, there was not a man existing that had a heart in
-                    him but must wish the legacies and annuities to be paid ; but, said his
-                    Lordship, the Marquis of Queensberry has commenced an action for the
-                    recovery of L.150,000 against the executor, and he certainly had a
-                    right so to do it ; it was, therefore, proper that the Court should
-                    see that no harm arose to the executors, before the funds were allowed to
-                    go out of Court. With respect to their not opposing the petition, that was
-                    very different to consenting to it ; it merely said to the Court, " Mind
-                    you do right."Mr Heald said, if his Lordship thought that one-fourth was too much, they
-                    would take an eight, or any part his Lordship pleased.The Lord Chancellor.–I will order it to stand first on the paper for
-                    Tuesday next, and in the mean time I will look over the petition.
+CanadaThe following is an extract of a private letter dated"Halifax, May 22 "At two o'clock this day the Earl of Dalhousie, Captain-General and Governor-in-Chief of British North America, attended by the Admiral, his Majesty's Council, the staff, naval and military officers, and the principal people of the place, attended to lay the first stone of a new college, to be erected at the north end of the grand parade. The whole of the freemasons of Halifax went in grand procession. They formed in lodges at their hall, and, preceded by a military band, and followed by another, they marched to the places prepared for them on the building."His Lordship came on the scaffolding at two o'clock, the grenadiers of the 62d regiment being his guard of honour. Detachments from each regiment kept the ground."After a prayer by the Rev. Mr Twining, Grand Chaplain, Lord Dalhousie addressed the assembly in a speech, of which I have not time to give an outline ; but in it his Lordship mentioned, that the building was intendeed as a college upon the plan of that of Edinburgh, where all students who professed the Christian religion were eligible for admittance. Strangers residing here for a short time might also enjoy the benefit of the institution, and gentlemen in the army, the navy, and the military establishments. His Lordship concluded a most eloquent and animated address with his fervent wishes for the welfare and prosperity of the undertaking."A bottle with coins, and a tin case with parchments, &c. were then severally deposited in the recess made for them, and the stone was lowered into its place with all the requisite and due forms, under a royal salute from fort Charlotte ; after which the Rev. the Grand Chaplain closed the proceedings with a prayer, and the whole assembled multitude gave nine cheers.– The military and masonic processions then returned in the same order, in which they came.The day was beautiful, and a greater assemblage of people was never witnessed in Halifax."The Countess of Dalhousie and her two sons, Mrs Admiral Griffith and the Misses Wilson, and most of the fashionable ladies here witnessed the ceremony from a convenient scaffolding prepared for them."Lord Dalhousie purposes to leave Halifax for Quebec in his Majesty's ship Newcastle, on the 1st of June, without waiting for Sir James Kempt."Court of Chancery –June 10.Will of the Late Duke of Queensberry Mr Head stated, that he had to present a petition from the annuitants and legates of the late Duke of Queensberry, praying that a fourth more of their claims might be paid, there now being sufficient funds in the hands of the Accountant-General for that purposes. The Learned Counsel said, that there was no less a sum than L.1,400,000 accumulated and vested in the name of this officer, in Bank stock, for the benefit of the claimants, and he understood it was not intended to oppose the application, although the executors did not say they would give their consent to it. Some consultation had been had on the subject out of doors ; he therefore prayed that the prayer of the petition should be granted.The Attorney-General said, he had not received any instructions, nor had he been consulted.The several King's counsel in Court spoke in behalf of their respective clients.Mr Wingfield appeared for the Earl of Yarmouth, and said his Lordship was anxious that the business should be put in a train of settlement.The Lord Chancellor said, there was not a man existing that had a heart in him but must wish the legacies and annuities to be paid ; but, said his Lordship, the Marquis of Queensberry has commenced an action for the recovery of L.150,000 against the executor, and he certainly had a right so to do it ; it was, therefore, proper that the Court should see that no harm arose to the executors, before the funds were allowed to go out of Court. With respect to their not opposing the petition, that was very different to consenting to it ; it merely said to the Court, " Mind you do right."Mr Heald said, if his Lordship thought that one-fourth was too much, they would take an eight, or any part his Lordship pleased.The Lord Chancellor.–I will order it to stand first on the paper for Tuesday next, and in the mean time I will look over the petition.

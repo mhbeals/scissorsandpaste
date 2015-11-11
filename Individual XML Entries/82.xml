@@ -1,86 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>82</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>82</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1790-11-29"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>shipping news</item>
-                            <item>war</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1790-11-29"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>shipping news</item>
+                  <item>war</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="italic">Extract of a letter from Dublin, Nov.</hi>23.</p>
-                <p>"The drafts at Cork yesterday received the a<lb break="no"/>greeable orders to
-                    return to their respective regi<lb break="no"/>ments immediately.</p>
-                <p>"The officers appointed to raise independent <lb/>companies in Ireland, have
-                    received orders to re<lb break="no"/>pair forthwith to England, with whatever
-                        com<lb break="no"/>plement of men already entered, but not to <lb/>proceed
-                    with the completion of their number : <lb/>in conference to this order, they are
-                    preparing <lb/>for their immediate departure.</p>
-                <p>"Last Tuesday two eminent merchants of <lb/>this city received orders, by way of
-                    a vessel ar<lb break="no"/>rived at Cork, from Mess de Fouseca Olivarez <lb/>and
-                    Co. at Seville, for the immediate exportation <lb/>of cotton, white linen, and
-                    mixed goods, to a <lb/>very large amount.</p>
-                <p>"Monday evening the Elizabeth and Mary, <lb/>Mark Purcell, master, arrived at
-                    Waterford from <lb/>Annapolis, in Maryland, after a long and dan<lb break="no"/>gerous passage, of 52 days, in which they had <lb/>nearly exhausted the whole
-                    of their provisions, <lb/>having been a very short allowance of half a
-                    <lb/>naggin of rum, diluted with one pint of bad wa<lb break="no"/>ter, for
-                    twenty-four hours. She is heavy laden, <lb/>having on board six hundread
-                    hogsheads of tobac<lb break="no"/>co, a large quantity of pipe staves, barrel
-                    hoops, <lb/>&amp;c. and has been expected more than two months. <lb/>Eight per
-                    cent was offered as insurance on ship <lb/>and cargo, but refused, on account of
-                    the then <lb/>probability of a war."</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="italic">Extract of a letter from Dublin, Nov.</hi> 23.</p>
+         <p>"The drafts at Cork yesterday received the a<lb break="no"/>greeable orders to return to their respective regi<lb break="no"/>ments immediately.</p>
+         <p>"The officers appointed to raise independent <lb/>companies in Ireland, have received orders to re<lb break="no"/>pair forthwith to England, with whatever com<lb break="no"/>plement of men already entered, but not to <lb/>proceed with the completion of their number : <lb/>in conference to this order, they are preparing <lb/>for their immediate departure.</p>
+         <p>"Last Tuesday two eminent merchants of <lb/>this city received orders, by way of a vessel ar<lb break="no"/>rived at Cork, from Mess de Fouseca Olivarez <lb/>and Co. at Seville, for the immediate exportation <lb/>of cotton, white linen, and mixed goods, to a <lb/>very large amount.</p>
+         <p>"Monday evening the Elizabeth and Mary, <lb/>Mark Purcell, master, arrived at Waterford from <lb/>Annapolis, in Maryland, after a long and dan<lb break="no"/>gerous passage, of 52 days, in which they had <lb/>nearly exhausted the whole of their provisions, <lb/>having been a very short allowance of half a <lb/>naggin of rum, diluted with one pint of bad wa<lb break="no"/>ter, for twenty-four hours. She is heavy laden, <lb/>having on board six hundread hogsheads of tobac<lb break="no"/>co, a large quantity of pipe staves, barrel hoops, <lb/>&amp;c. and has been expected more than two months. <lb/>Eight per cent was offered as insurance on ship <lb/>and cargo, but refused, on account of the then <lb/>probability of a war."</p>
+      </body>
+   </text>
+</TEI>

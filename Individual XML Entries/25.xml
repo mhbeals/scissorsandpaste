@@ -1,80 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>25</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>25</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-11-20"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>slavery</item>
-                            <item>slave rebellion</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-            <pb n="2"/> We have been favoured by a friend with the <lb/>following extract of
-                    a letter from Grenada, by <lb/>the last West India Packet.</p>
-                <p>"A Mr. C– has just arrive here from <lb/>Martinico, where he left the
-                    white inhabitants in <lb/>arms. The negroes there had conceived an idea,
-                    <lb/>that the Parliament of England had set the Eng<lb break="no"/>lish negroes
-                    free ; where upon those on several of <lb/>the most considerable estates
-                    assembled together <lb/>to the amount of 4000, and retired to the moun<lb break="no"/>tains, declaring, they would no longer be slaves ; <lb/>saying,
-                    that they had as good a right to be free, <lb/>as the negroes in the English
-                    islands. What has <lb/>been the event is unknown ; but some reports say
-                    <lb/>that they had arms, and had resisted the military <lb/>and the militia ;
-                    and that 400 had been taken <lb/>and condemned to die. It is a little singular
-                    that <lb/>such an alarming spirit of discontent should first <lb/>make its
-                    appearance among the French negroes, <lb/>if they are (as has been assented by
-                    several writers) <lb/>so much more civilized, so much better treated, <lb/>than
-                    those of the English islands. God knows <lb/>what bloodshed may soon follow,
-                    from the mis<lb break="no"/>taken humanity of some well meaning, but ill
-                    <lb/>informed leaders among you."</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1789-11-20"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>slavery</item>
+                  <item>slave rebellion</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="2"/> We have been favoured by a friend with the <lb/>following extract of a letter from Grenada, by <lb/>the last West India Packet.</p>
+         <p>"A Mr. C– has just arrive here from <lb/>Martinico, where he left the white inhabitants in <lb/>arms. The negroes there had conceived an idea, <lb/>that the Parliament of England had set the Eng<lb break="no"/>lish negroes free ; where upon those on several of <lb/>the most considerable estates assembled together <lb/>to the amount of 4000, and retired to the moun<lb break="no"/>tains, declaring, they would no longer be slaves ; <lb/>saying, that they had as good a right to be free, <lb/>as the negroes in the English islands. What has <lb/>been the event is unknown ; but some reports say <lb/>that they had arms, and had resisted the military <lb/>and the militia ; and that 400 had been taken <lb/>and condemned to die. It is a little singular that <lb/>such an alarming spirit of discontent should first <lb/>make its appearance among the French negroes, <lb/>if they are (as has been assented by several writers) <lb/>so much more civilized, so much better treated, <lb/>than those of the English islands. God knows <lb/>what bloodshed may soon follow, from the mis<lb break="no"/>taken humanity of some well meaning, but ill <lb/>informed leaders among you."</p>
+      </body>
+   </text>
+</TEI>

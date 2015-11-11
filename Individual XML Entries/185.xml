@@ -1,112 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>185</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Aberdeen Journal</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>185</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aberdeen Journal</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1821-11-07"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1821-11-07"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>Colonial Intelligence</p>
-                <p>In our last paper, we gave, from the Jamaiza Ga<lb break="no"/>zettes, an account
-                    of the dreadful drought which had <lb/>prevailed in that island for more than
-                    twelve months <lb/>and the consequences of which had been most calami<lb break="no"/>tous. We are now, however, most happy, in being <lb/>able to
-                    state, upon the authority of a Gentleman who <lb/>left Jamaica some days
-                    subsequently to the date of our <lb/>preceding advices, that this terible evil,
-                    in such a cli<lb break="no"/>mate particularly, had at length ceased. The
-                        follow<lb break="no"/>ing is the substance of the information which has been
-                    <lb/>communicated to us:–</p>
-                <p>"A few hours previous to my going on board the <lb/>Jamaica packet, on the 3d of
-                    September, the rain fell <lb/>in such torrents as to flood the streets of
-                    Kingston to <lb/>the depth of two feet, and it seemed to be general
-                    <lb/>throughout the district of Liguanea.</p>
-                <p>"Though too late to save the crop of sugar for the <lb/>present, or, perhaps, the
-                    ensuing year, this seasonable <lb/>change of weather would at least have the
-                    effect of <lb/>staying the mortality among the cattle. As such, those
-                    <lb/>interested in the island will receive the intelligence <lb/>with
-                    gratification. On some properties, the canes had <lb/>been cut as fodder to save
-                    the stock."</p>
-                <p>We have the Cape of Good Hope papers to the 6th Au<lb break="no"/>gust, and as
-                    they are unusually barren in their con<lb break="no"/>tents, it is fair to infer
-                    that every thing was proceeding <lb/>there in a satisfactory manner. The only
-                    article of <lb/>the slightest interest relates to the change the Governor
-                    <lb/>is gradually effecting in the currency, by removing <lb/>from it all the
-                    base metal, and substituting gold and <lb/>silver of standard value.</p>
-                <p>The <hi rend="italic">Gazette of Dordrecht</hi> publishes accounts from <lb/>Java
-                    to the 29th May. They confirm the statement of <lb/>the decrease of the malady,
-                    and mention, that it was <lb/>almost wholly subdued in the district of Samarang,
-                    <lb/>but that 18,000 persons, mostly Europeans, had fal<lb break="no"/>len
-                    victims. Batavia and Sourabaya were still in<lb break="no"/>fected.</p>
-                <p>
-            <hi rend="smallcaps">India</hi>–Extract of a letter from Calcutta, dated
-                    <lb/>June 20:–</p>
-                <p>"If the extension of foreign trading be considered with <lb/>you as a means
-                    suited to alleviate the pressure, and ease <lb/>the difficulties of Old England,
-                    which we read of here, <lb/>we imagine that India can furnish beneficial
-                    openings to <lb/>this kind of remedy. The use of articles of British pro<lb break="no"/>duction and exports is gaining ground rapidly here ; the
-                    <lb/>English printed cottons are now carried in considerable <lb/>quantities as
-                    far as Rajpootha, and find a ready sale, if <lb/>they be of handsome patterns.
-                    The warehouses now are <lb/>so far from being overstocked, that before the
-                    arrival of <lb/>two vessels from England in the last fortnight, all Euro<lb break="no"/>pean articles were exorbitantly high ; mustard flour sold
-                    <lb/>about 20s. a pound ; cheese 1[?] ; ham, three half crowns <lb/>the ld ; a
-                    common round hat, three guineas. These, <lb/>undoubtedly, were prices arising
-                    from an unusual scarci<lb break="no"/>ty ; but it surely cannot be so very bad a
-                    trading, <lb/>which admits, even, indicidentally, of such an exaggera<lb break="no"/>tion of price and profit. Government bonds are now at <lb/>six
-                    per cent premium, though they bear but half the <lb/>usual or legal interest of
-                    the country. This is a tolerable <lb/>evidence of the credit of the Company and
-                    the Govern<lb break="no"/>ment. There is a great and increasing prosperity in
-                        Hin<lb break="no"/>dostan. The augmented cultivation of the Upper Pro<lb break="no"/>vinces within these two years is surprising.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+         <p>In our last paper, we gave, from the Jamaiza Ga<lb break="no"/>zettes, an account of the dreadful drought which had <lb/>prevailed in that island for more than twelve months <lb/>and the consequences of which had been most calami<lb break="no"/>tous. We are now, however, most happy, in being <lb/>able to state, upon the authority of a Gentleman who <lb/>left Jamaica some days subsequently to the date of our <lb/>preceding advices, that this terible evil, in such a cli<lb break="no"/>mate particularly, had at length ceased. The follow<lb break="no"/>ing is the substance of the information which has been <lb/>communicated to us:–</p>
+         <p>"A few hours previous to my going on board the <lb/>Jamaica packet, on the 3d of September, the rain fell <lb/>in such torrents as to flood the streets of Kingston to <lb/>the depth of two feet, and it seemed to be general <lb/>throughout the district of Liguanea.</p>
+         <p>"Though too late to save the crop of sugar for the <lb/>present, or, perhaps, the ensuing year, this seasonable <lb/>change of weather would at least have the effect of <lb/>staying the mortality among the cattle. As such, those <lb/>interested in the island will receive the intelligence <lb/>with gratification. On some properties, the canes had <lb/>been cut as fodder to save the stock."</p>
+         <p>We have the Cape of Good Hope papers to the 6th Au<lb break="no"/>gust, and as they are unusually barren in their con<lb break="no"/>tents, it is fair to infer that every thing was proceeding <lb/>there in a satisfactory manner. The only article of <lb/>the slightest interest relates to the change the Governor <lb/>is gradually effecting in the currency, by removing <lb/>from it all the base metal, and substituting gold and <lb/>silver of standard value.</p>
+         <p>The<hi rend="italic">Gazette of Dordrecht</hi>  publishes accounts from <lb/>Java to the 29th May. They confirm the statement of <lb/>the decrease of the malady, and mention, that it was <lb/>almost wholly subdued in the district of Samarang, <lb/>but that 18,000 persons, mostly Europeans, had fal<lb break="no"/>len victims. Batavia and Sourabaya were still in<lb break="no"/>fected.</p>
+         <p>
+            <hi rend="smallcaps">India</hi> –Extract of a letter from Calcutta, dated <lb/>June 20:–</p>
+         <p>"If the extension of foreign trading be considered with <lb/>you as a means suited to alleviate the pressure, and ease <lb/>the difficulties of Old England, which we read of here, <lb/>we imagine that India can furnish beneficial openings to <lb/>this kind of remedy. The use of articles of British pro<lb break="no"/>duction and exports is gaining ground rapidly here ; the <lb/>English printed cottons are now carried in considerable <lb/>quantities as far as Rajpootha, and find a ready sale, if <lb/>they be of handsome patterns. The warehouses now are <lb/>so far from being overstocked, that before the arrival of <lb/>two vessels from England in the last fortnight, all Euro<lb break="no"/>pean articles were exorbitantly high ; mustard flour sold <lb/>about 20s. a pound ; cheese 1[?] ; ham, three half crowns <lb/>the ld ; a common round hat, three guineas. These, <lb/>undoubtedly, were prices arising from an unusual scarci<lb break="no"/>ty ; but it surely cannot be so very bad a trading, <lb/>which admits, even, indicidentally, of such an exaggera<lb break="no"/>tion of price and profit. Government bonds are now at <lb/>six per cent premium, though they bear but half the <lb/>usual or legal interest of the country. This is a tolerable <lb/>evidence of the credit of the Company and the Govern<lb break="no"/>ment. There is a great and increasing prosperity in Hin<lb break="no"/>dostan. The augmented cultivation of the Upper Pro<lb break="no"/>vinces within these two years is surprising.</p>
+      </body>
+   </text>
+</TEI>

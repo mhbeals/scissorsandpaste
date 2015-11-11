@@ -1,105 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>324</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by
-                            <persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H.
-                        Beals</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>324</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by
+<persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
                </persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitsed image available from
-                                Google News Archive</authority>
-                            <pubPlace>
-                                <address>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1791-01-21"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>war</item>
-                            <item>Native Americans</item>
-                            <item>colonial government</item>
-                            <item>agriculture</item>
-                            <item>filibustering</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb n="5"/>
-                    <hi rend="center">
-                        <hi rend="italic">Extract of a letter from Norfolk (Virginia)</hi>,</hi>
-                    <lb/>
+                  </pubPlace>
+                  <date when="1791-01-21"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>war</item>
+                  <item>Native Americans</item>
+                  <item>colonial government</item>
+                  <item>agriculture</item>
+                  <item>filibustering</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="5"/>
             <hi rend="center">
-               <hi rend="italic">Oct</hi>. 26.</hi>
-                </p>
-                <p>"We learn from the West Country, that the <lb/>Kentucky Convention has determined
-                    in favour <lb/>of a separation, and large preparations are mak<lb break="no"/>ing in the country for offensive operations against <lb/>the Indians, who have
-                    committed so many mur<lb break="no"/>ders, and harassed the country so much,
-                    that it <lb/>can no longer be endured. Such devastation may <lb/>shortly be
-                    expected to take place,that the name <lb/>of a <hi rend="italic">Shawenese</hi>
-                    nation will be no more.</p>
-                <p>"that on this side the Cumberland moun<lb break="no"/>tains, please prospects are
-                    in view; a general <lb/>peace is likely to take place with the Southern
-                    <lb/>Tribes; a regular and efficient system of govern<lb break="no"/>ment is
-                    about being established under the auspi<lb break="no"/>ces of Congress: one of
-                    the mildest seasons in a <lb/>temperate and salubrious climate, with the most
-                    <lb/>exuberantharvest, gives joy to the husband, and <lb/>animates the diligence
-                    and industry of all."</p>
-                <p>
+               <hi rend="italic">Extract of a letter from Norfolk (Virginia)</hi> , </hi>
+            <lb/>
             <hi rend="center">
-               <hi rend="italic">Extract of a letter from a Gentleman on the
-                            Ohio</hi>."</hi>
-                    <lb/>"Since my last, the Gentlemen I mentioned <lb/>to you are forming
-                    themselves into a Company, <lb/>for the purpose of building three vessels of
-                    force, <lb/>amounting from twenty to forty 24 pounders, <lb/>completely manned
-                    and quipped. They pur<lb break="no"/>pose loading with tobacco, flour, &amp;c.
-                    and pro<lb break="no"/>ceed tos ea by the gulph of Mexico, with a full
-                    <lb/>determination to punish severely every insult <lb/>which, in violation of
-                    treaties, may be offered to <lb/>the American flag, sailing down the
-                    Mississippi.</p>
-                <p>"It is generally supposed they will embark <lb/>between twelve and fifteen
-                    hundred men, in or<lb break="no"/>to <supplied reason="copy blur">???</supplied>
-                    America's <supplied reason="copy blur">???</supplied> to the navigation of
-                    <lb/>the Mississippi."</p>
-            </body>
-        </text>
-    </TEI>
+               <hi rend="italic">Oct</hi> . 26.</hi> 
+         </p>
+         <p>"We learn from the West Country, that the <lb/>Kentucky Convention has determined in favour <lb/>of a separation, and large preparations are mak<lb break="no"/>ing in the country for offensive operations against <lb/>the Indians, who have committed so many mur<lb break="no"/>ders, and harassed the country so much, that it <lb/>can no longer be endured. Such devastation may <lb/>shortly be expected to take place,that the name <lb/>of a<hi rend="italic">Shawenese</hi>  nation will be no more.</p>
+         <p>"that on this side the Cumberland moun<lb break="no"/>tains, please prospects are in view; a general <lb/>peace is likely to take place with the Southern <lb/>Tribes; a regular and efficient system of govern<lb break="no"/>ment is about being established under the auspi<lb break="no"/>ces of Congress: one of the mildest seasons in a <lb/>temperate and salubrious climate, with the most <lb/>exuberantharvest, gives joy to the husband, and <lb/>animates the diligence and industry of all."</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">Extract of a letter from a Gentleman on the Ohio</hi> ." </hi>
+            <lb/>"Since my last, the Gentlemen I mentioned <lb/>to you are forming themselves into a Company, <lb/>for the purpose of building three vessels of force, <lb/>amounting from twenty to forty 24 pounders, <lb/>completely manned and quipped. They pur<lb break="no"/>pose loading with tobacco, flour, &amp;c. and pro<lb break="no"/>ceed tos ea by the gulph of Mexico, with a full <lb/>determination to punish severely every insult <lb/>which, in violation of treaties, may be offered to <lb/>the American flag, sailing down the Mississippi.</p>
+         <p>"It is generally supposed they will embark <lb/>between twelve and fifteen hundred men, in or<lb break="no"/>to<supplied reason="copy blur">???</supplied> America's<supplied reason="copy blur">???</supplied> to the navigation of <lb/>the Mississippi."</p>
+      </body>
+   </text>
+</TEI>

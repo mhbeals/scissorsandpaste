@@ -1,99 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>69</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>69</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1790-08-16"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>trade</item>
-                            <item>Native Americans</item>
-                            <item>settlement description</item>
-                            <item>colonial politics</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-            <pb/>By recent letters from America we learn, that <lb/>the Congress of the nited
-                    States, after warm de<lb break="no"/>bates in both Houses, particularly in that
-                    of the <lb/>Representatives, passed an act for the purpose of <lb/>fixing
-                    permanently their seat of Government at <lb/>German Town in Pennsylvania.</p>
-                <p>The two new provinces in North America, <lb/>Kentucky and Vermont, whose
-                    population already <lb/>is so very considerable, were formed by the vast
-                    <lb/>numbers of inhabitants who fled from the destruc<lb break="no"/>tion and
-                    ravages of the unhappy contest between <lb/>Great Britain and her colonies, and
-                    though the <lb/>greatest part of them were then deemed loyalists, <lb/>yet they
-                    have now jooined the American confede<lb break="no"/>ration. Seated on the banks
-                    of the great river <lb/>Mississippi, far to the westward of all the other
-                    <lb/>states, they can either navigate northerly to the <lb/>lakes, or southerly
-                    to the Spanish settlements on <lb/>the coasts of the Gulf of Mexico, and carry
-                    on a <lb/>lucrative trade with the Indians. They are pos<lb break="no"/>sessed
-                    of as fertile a tract of country as any in the <lb/>world, the position of which
-                    they <supplied>???</supplied> also s<supplied>???</supplied>d <cb/>
-                    <lb/>by navigable rivers to Maryland, Virginia, and <lb/>Pennsylvania, and from
-                    thence, as their views <supplied>???</supplied>
-            <lb break="no"/>tend, to every
-                    country in Europe. Thus, from <lb/>the most distressed situation, to rise to
-                    opulence <lb/>and independence ina few years, must excite ad<lb break="no"/>miration.</p>
-                <p>Agriculture, at present, seems to be the pecu<lb break="no"/>liar province of
-                    American industry, from whence <lb/>wealth will flow into every part of that
-                    vast coun<lb break="no"/>try, as it abounds in large tracts of rich land,
-                    <lb/>level grounds, with a deep soil, and extended sa<lb break="no"/>vannahs;
-                    while to the northward the fisheries and <lb/>shipbuilding amply compensate for
-                    the want of <lb/>an equal fertility; and though not so abundant <lb/>in coin,
-                    yet the provinces produce the finest mea<lb break="no"/>dows, form whence a
-                    provision trade will be every <lb/>year increasing. The southern countries of
-                        Eu<lb break="no"/>rope, not affording sufficient crops of grain for <lb/>the
-                    support of their inhabitants, on account of <lb/>the remarkable encrease of
-                    population, and which <lb/>is still augmenting, as arts and manufacturers are
-                    <lb/>every where extended: America may, therefore, <lb/>be deemed, in future,
-                    the granary of this quarter <lb/>of the globe.</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1790-08-16"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>trade</item>
+                  <item>Native Americans</item>
+                  <item>settlement description</item>
+                  <item>colonial politics</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>By recent letters from America we learn, that <lb/>the Congress of the nited States, after warm de<lb break="no"/>bates in both Houses, particularly in that of the <lb/>Representatives, passed an act for the purpose of <lb/>fixing permanently their seat of Government at <lb/>German Town in Pennsylvania.</p>
+         <p>The two new provinces in North America, <lb/>Kentucky and Vermont, whose population already <lb/>is so very considerable, were formed by the vast <lb/>numbers of inhabitants who fled from the destruc<lb break="no"/>tion and ravages of the unhappy contest between <lb/>Great Britain and her colonies, and though the <lb/>greatest part of them were then deemed loyalists, <lb/>yet they have now jooined the American confede<lb break="no"/>ration. Seated on the banks of the great river <lb/>Mississippi, far to the westward of all the other <lb/>states, they can either navigate northerly to the <lb/>lakes, or southerly to the Spanish settlements on <lb/>the coasts of the Gulf of Mexico, and carry on a <lb/>lucrative trade with the Indians. They are pos<lb break="no"/>sessed of as fertile a tract of country as any in the <lb/>world, the position of which they<supplied>???</supplied> also s<supplied>???</supplied>d<cb/> 
+            <lb/>by navigable rivers to Maryland, Virginia, and <lb/>Pennsylvania, and from thence, as their views<supplied>???</supplied>
+            <lb break="no"/>tend, to every country in Europe. Thus, from <lb/>the most distressed situation, to rise to opulence <lb/>and independence ina few years, must excite ad<lb break="no"/>miration.</p>
+         <p>Agriculture, at present, seems to be the pecu<lb break="no"/>liar province of American industry, from whence <lb/>wealth will flow into every part of that vast coun<lb break="no"/>try, as it abounds in large tracts of rich land, <lb/>level grounds, with a deep soil, and extended sa<lb break="no"/>vannahs; while to the northward the fisheries and <lb/>shipbuilding amply compensate for the want of <lb/>an equal fertility; and though not so abundant <lb/>in coin, yet the provinces produce the finest mea<lb break="no"/>dows, form whence a provision trade will be every <lb/>year increasing. The southern countries of Eu<lb break="no"/>rope, not affording sufficient crops of grain for <lb/>the support of their inhabitants, on account of <lb/>the remarkable encrease of population, and which <lb/>is still augmenting, as arts and manufacturers are <lb/>every where extended: America may, therefore, <lb/>be deemed, in future, the granary of this quarter <lb/>of the globe.</p>
+      </body>
+   </text>
+</TEI>

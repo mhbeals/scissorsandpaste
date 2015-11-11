@@ -1,325 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>161</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>161</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1820-01-08"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">Proceedings of the Court</hi>
-                </p>
-                <p>Lord Provost <hi rend="smallcaps">Manderston</hi> having been called to the
-                    Chair, the <lb/>Clerk, Mr A. Boswell, read a very distinct report of the results
-                    and <lb/>general features of the transactions at the Infirmary and Queensber<lb break="no"/>ry House Hospital for the last year. The Lord Provost then named
-                    <lb/>a Committee to examine the Treasurer's accounts, &amp;c., and report to
-                    <lb/>the adjourned meeting to be held in February next.</p>
-                <p>
-            <hi rend="smallcaps">Mr John Witham</hi> junior then rose, and requested leave to
-                    submit <lb/>a few observations to the consideration of the Court. He stated in
-                    <lb/>substance that, though aware of its not being usual to vote thanks to
-                    <lb/>the Managers until their accounts have been examined, he was yet
-                    <lb/>anxious to embrace the first opportunity of expressing his conviction
-                    <lb/>that the exertions of the Managers had, at last, placed this valuable
-                    <lb/>Institution on a most desirable footing. Although he had not visited
-                    <lb/>the Hospital for the last twelve months, he had not ceased to take an
-                    <lb/>interest in its welfare ; and it was with great pleasure that he now
-                    <lb/>stated, that whether his inquiries were made of the medical attendants,
-                    <lb/>or of <hi rend="italic">recent patients,</hi> the answers were uniformly
-                    satisfactory. The <lb/>Hospital was favoured with a good Matron, between whom
-                    and the <cb/>
-                    <lb/>medical gentlemen the best understanding existed ; and the various
-                    <lb/>salutary regulations of the Managers have led to such a prosperous
-                    <lb/>state of things, as justly to entitle them to the gratitude of this Court
-                    <lb/>and the public. Still, however, he must say, that although the Hospi<lb break="no"/>tal was in a good state, yet, in his mind, Visitors could not
-                    fall to afford <lb/>that assistance to the Managers here, and that security
-                    against internal <lb/>abuses, which they had done in so many other similar
-                    institutions. It <lb/>was difficult to account for the prejudices which existed
-                    against this spe<lb break="no"/>cies of assistance in Edinburgh. At Leeds, in
-                    addition, to visitors of <lb/>our sex, there was a committee of ladies, who
-                    visisted the female wards, <lb/>and from the joint labours of both classes of
-                    visitors many and great <lb/>advantages had resulted. But in this city we had
-                    hospitals for fe<lb break="no"/>males, which are governed by men only, without
-                    seeking any help <lb/>from visitors of that sex, who are much better qualified
-                    to discharge <lb/>most of the duties. This view of these matters, he trusted,
-                    would yet <lb/>be attended to.–He must also crave the attention of the
-                        meet<lb break="no"/>ing to another matter, that of the L.11,700, for which
-                    the city of E<lb break="no"/>dinburgh pays only 4 1/2 per cent. He assured the
-                    Court, and its Ho<lb break="no"/>noured Chairman, that this subject was not
-                    introduced with the view <lb/>of touching upon, or insinuating any thing
-                    respecting the city's af<lb break="no"/>fairs. The money, he understood, was
-                    secured on the ale duty ; but <lb/>why should the Hospital lose one-half per
-                    cent, of interest? He had <lb/>once made a calculation, according to which the
-                    loss, from the be<lb break="no"/>ginning, had amounted to about L.10,000. It had
-                    been stated that <lb/>the Magistrates of Edinburgh had always been friendly to
-                    the Hos<lb break="no"/>pital ; but that was surely no reason for withholding
-                    L.59 of interest <lb/>that whatever former Magistrates had thought on the
-                    subject the <lb/>present would not submit to the idea of depriving the Hospital
-                    of any <lb/>part of its lawful interest. If the ground on which the Hospital was
-                    <lb/>built was alluded to, it was plain that town had already got more, <lb/>by
-                    the reduced interest than its original value. The town of Edin<lb break="no"/>burgh had also got L.8273 ; 17 ; 3 of invalid money from Govern<lb break="no"/>ment, on condition of paying <hi rend="italic">the interest</hi> to the
-                    Infirmary, <hi rend="italic">which inte-</hi>
-                    <lb/>
-            <hi rend="italic">rest</hi>, if paid at two terms in the years, should be
-                    restricted to 3 1/2 per <lb/>cent. And as the property tax–which the Town
-                    did not retain from <lb/>the Hospital, whether they did or did not pay it to
-                    Government,–is <lb/>now at an end, he could see no reason for withholding
-                    the usual rate <lb/>of interest. He concluded by suggesting the names of several
-                        gentle<lb break="no"/>men as a Committee, to lend out the sum of L.11,700 on
-                    interest at <lb/>5 per cent, if the Magistrates of Edinburgh should decline to
-                    pay that <lb/>rate of interest.</p>
-                <p>
-            <hi rend="smallcaps">Mr Alex. Cruishank</hi> seconded the motion</p>
-                <p>Col. <hi rend="smallcaps">Crichton</hi> regretted that the respectable gentlemen
-                    should have <lb/>introduced such a motion. He seldom visisted the Infirmary, but
-                    <lb/>when he sent patients to it ; but he could state, that when his servants
-                    <lb/>or workmen have been there from fever, the attention they received <lb/>was
-                    in every respect equal to what he, and he hoped he was a respec<lb break="no"/>table citizen, could command in his own house. But he could men<lb break="no"/>tion the testimony of one whose authority was much higher than his <lb/>own
-                    – that of a medical gentlemen of some eminence in his profes<lb break="no"/>sion, who lives abroad, and who was recently in this country.
-                    That <lb/>professional gentleman spoke the very highest terms both of the
-                    <lb/>medical treatment and the economy of the House. It was matter <lb/>of
-                    pride, he said, to every Scotsman, to hear the manner in which the
-                    <lb/>Infirmary of Edinburgh was spoke of in all the quarters of the globe.
-                    <lb/>It was the pattern of all that was excellent in such institutions, and a
-                    <lb/>nursery of the most skilfull practitioners ; for go where we will, the
-                    <lb/>answer to almost every question put with respect to improved hospi<lb break="no"/>
-                    <lb/>tal treatment is, that it was learned in the Infirmary of Edinburgh.
-                    <lb/>Whether, indeed, we thought of these things ; whether we looked at <lb/>the
-                    sublime inscriptions on the outside of the Hospital, and the Chris<lb break="no"/>tain doctrines and principles there inculcated or the treatement and
-                    <lb/>management within we could not fail to be struck with admiration <lb/>and
-                    without imputing any motives, which he was not entitled to do <lb/>he must say,
-                    it would be much more creditable to the respectable gen<lb break="no"/>tlemen if
-                    they should confine themselves to expressing their high o<lb break="no"/>pinion
-                    of the institution and tanking the Managers instead of oc<lb break="no"/>cupying
-                    the valuable time of this Honourable Court with quibbling <lb/>about trifles,
-                    which were every way contemptible. After a pause, <lb/>Col. Crichton made a
-                    counter motion, to get rid of Mr Wigham's.</p>
-                <p>Lord <hi rend="smallcaps">Meadowbank</hi> reminded the Court, that this matter of
-                        inte<lb break="no"/>rest had already been under the consideration of a
-                    Committee, and <lb/>decided on by the Court.</p>
-                <p>
-            <hi rend="smallcaps">Henry Jardine</hi>, Esq. begged to mention a fact that the
-                    Town of <lb/>Edinburgh had contributed L.50 to the Infirmary for the last
-                    year.</p>
-                <p>Mr <hi rend="smallcaps">Ritchie</hi> rose and said, that though perfectly aware
-                    of what the <lb/>result would be, he could not allow the matter to be settled
-                    without <lb/>giving Mr Wigham's motion his support. It gave him much pleasure
-                    <lb/>to find it was no longer unfashionable to allude to Christian doc<lb break="no"/>trines in such meetings as this,–a change from which he
-                    anticipated <lb/>much good. He concurred in what had been said on this subject
-                    by <lb/>the gentleman at the foot of the Table ; but he begged to remind him
-                    <lb/>that it was a great principle of Christianity, that nothing was too tri<lb break="no"/>fling to be attended to it it promised good; and the additional
-                    interest of <lb/>the money in question would obviously extend the means of <hi rend="italic">healing</hi>
-                    <lb/>
-            <hi rend="italic">the sick</hi>, the great object of the Institution.
-                    Nothing, indeed, which <lb/>had fallen from that gentleman, or the Learned Lord
-                    on the other <lb/>side, could meet or touch the simple proposition, that <hi rend="italic">five per cent</hi> is <lb/>the legal rate of interest, and
-                    that the Town of Edinburgh ought not <lb/>to pay less.</p>
-                <p>There was another subject alluded to by Mr Wigham, on which, if <lb/>Mr W. did
-                    not, he would submit a motion, namely, <hi rend="italic">Visitori</hi> 'And
-                    <lb/>this he conceived was the fittest time for appointing them. All sides
-                    <lb/>of the house were, now agreed that the Hospital was admirably con<lb break="no"/>ducted. It was impossible, therefore, to suppose that the
-                    measure <lb/>was proposed from any distrust of the Managers. If the management
-                    <lb/>was perfect now, it was too much to expect it could continue so ; and
-                    <lb/>this was the proper time for providing against the future. In other
-                    <lb/>places the highest characters in the land had acted with visitors ; and
-                    <lb/>much benefit had been derived from them in England, and even at
-                    <lb/>Glasgow. If human nature, therefore, was not different in Edin<lb break="no"/>burgh from wht it is on the other side of the Tweed, and in the
-                    west <lb/>of Scotland, it must be admitted that Visitors would be beneficial
-                    <lb/>here also. Besides, as the Managers were aware of their strength, <lb/>and
-                    that no measure could be carried here without their consent, the <lb/>granting
-                    of Visitors would be a <hi rend="italic">boon</hi> from themselves. He moved,
-                    <lb/>that this Court do annually name 24 or more Visitors to act month<lb break="no"/>ly by rotation, and minute such observations as shall occur to
-                    them <lb/>for the consideration of the Managers.</p>
-                <p>Mr <hi rend="smallcaps">Wigham</hi> seconded the motion ; but as the Court seemed
-                    averse <lb/>to entertain it, it was withdrawn.</p>
-                <p>Mr <hi rend="smallcaps">Ritchie</hi> then said, that as his last motion was
-                    intended chiefly <lb/>as a caveat to the Committee named by the Lord Provost, he
-                    would <lb/>also, with the same view, state the nature of a motion which he
-                        wish<lb break="no"/>ed to submit, but the merits of which he was not then
-                    fully prepared <lb/>to state. it was one, however, of which he was sure it would
-                    not be <lb/>said, that it was introduced for the purpose of giving trouble, or
-                        un<lb break="no"/>necessarily occupying the time of the Court. Its object
-                    was the pro<lb break="no"/>motion of medical science, and its nature would be
-                    understood by <lb/>his reading a single paragraph from the able Clinical Reports
-                    of Dr <lb/>Duncan junior. " Almost all hospitals (it is there stated,) publish
-                    <lb/>annual Reports; but in many cases they are intended only to fur<lb break="no"/>nish information as to the expenditure of the funds, and the
-                    names of <lb/>the office-bearers, and as a public acknowledgement of the support
-                    of <lb/>the subscribers. Such reports, however, are of no use in marking the
-                    <lb/>progress of disease, and, except for purposes mentioned above, do po<lb break="no"/>sitive harm, by causing hospital reports in general to be
-                    neglected as <lb/>utterly without value. This, however, is not the case ; and
-                    the re<lb break="no"/>ports we have of late years received from the Fever
-                    Hospitals of <lb/>Dublin and Cork are worthy of being imitated by hospitals of
-                    every <lb/>kind and in every place. Indeed, the public have a right to expect
-                    this <lb/>information in return for their liberality in supporting them. We have <cb/>
-                    <lb/>only to add, that the most valuable reports often proceed entirely from
-                    <lb/>the zeal of the reporters, and are only occasional. This leads <lb/>us to
-                    suggest, that the governors of hospitals should enjoin their regu<lb break="no"/>lar as a duty upon their medical officers ; and we will <lb/>venture to say,
-                    that where it has not yet been practised, its good ef<lb break="no"/>fects upon
-                    the institution in an economical as well as professional <lb/>points of view,
-                    will soon be apparent."–His motion went to carry this <lb/>suggestion
-                    into effect ; and without farther preface he should now <lb/>read it. The
-                    substance of it was, that in addition to the Journal kept <lb/>at present,
-                    Digest of the whole should be kept in a <hi rend="italic">tabular form</hi> but
-                    <lb/>especially of the date of admission, age, sex, and place of residence
-                    <lb/>of the patients ; date of commencement, crisis, termination and as<lb break="no"/>signed causes of their diseases ; with a diary of the
-                    temperatures and <lb/>moisture of the atmosphere, state of winds, prices of
-                    staple pro<lb break="no"/>visions &amp;c. ; with an annual medical report,
-                    taking notice of the in<lb break="no"/>crease or decrease of population, and of
-                    the employment, diet and ha<lb break="no"/>bits of the labouring classes, as far
-                    as practicable. Some of the mem<lb break="no"/>bers, he observed, seemed to be
-                    amused with this enumeration ; but <lb/>the medical gentlemen would be aware of
-                    what he pointed at. With <lb/>their peculiar and proper duties, he had no wish
-                    to interfere. They <lb/>knew them well, and discharged them faithfully and
-                    honourably. In <lb/>their practise they attended to every thing that was
-                    necessary ; but <lb/>their knowledge often died with him ; and his object was to
-                    preserve <lb/>the results of their skill and experience.</p>
-                <p>The <hi rend="smallcaps">Lord President</hi> said he hoped the gentlemen who had
-                    made <lb/>this motion, would see, on reflection, from the labour and time
-                        requi<lb break="no"/>site to carry it into effect, how very impracticable it
-                    would be in an <lb/>hospital like that of the Royal Infirmary, where the
-                    Managers had no <lb/>compulsory authority over the medical gentlemen, whose time
-                    was <lb/>so occupied with their own private avocations.</p>
-                <p>The Proposer of the motion said, that instead answering what had <lb/>fallen from
-                    the Right Honourable Judge in his own language, he <lb/>would beg leave to read
-                    another passage from Dr Duncan's volu<lb break="no"/>ble publication, and which,
-                    he hoped, would obviate some of the diffi<lb break="no"/>culties adverted to. "
-                    The trouble (says Dr Duncan,) of keeping <lb/>such tabular records, is not so
-                    great as might be supposed. It requires <lb/>only system and regularity; and
-                    when we see how easily it is done in <lb/>the military hospital, <hi rend="italic">we cannot help regretting that it is not also in-</hi>
-                    <lb/>
-            <hi rend="italic">troduced general into civil hospitals.</hi> If the
-                    practitioner himself has <lb/>not time to fill up the columns of the prescribed
-                    table, it would be <lb/>very little additional trouble to his clerk ; or if the
-                    time of that assis<lb break="no"/>tant would not easily permit him, <hi rend="italic">the duty would be very gladly taken</hi>
-                    <lb/>
-            <hi rend="italic">by another of the Hospital pupils.</hi>
+                  </pubPlace>
+                  <date when="1820-01-08"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">Proceedings of the Court</hi> 
          </p>
-                <p>Dr <hi rend="smallcaps">Hope</hi>, in a neat and eloquent speech, opposed the
-                    motion. The <lb/>Managers, he said, were willing to give due consideration to
-                    every <lb/>proposal from whatever quarter it might come. The present, how<lb break="no"/>ever, he considered as impractiable. To prepare tabular records
-                    of <lb/>the nature suggested, required great experience, much comprehens<lb break="no"/>ion and many talents. It was a task which every one was not
-                        qua<lb break="no"/>lified to discharge in a mnner could be beneficial to the
-                    public, <lb/>and one which gentlemen, who lived by their profession, could not
-                    be <lb/>expected to undertake. The case was different in military hospitals,
-                    <lb/>where the medical getlmen could devote the whole of their time to
-                    <lb/>their hospital duties. But it should be know, that the materials for
-                    <lb/>making up such tables are all recorded in the infirmary Journals ; and
-                    <lb/>that these Journals are open to <hi rend="italic">all the medical
-                        attendants;</hi> so that <lb/>whoever finds that he has time and talents for
-                    the performance of <lb/>such tasks, has the fullest opportunity for undertaking
-                    and complet<lb break="no"/>ing them. Accordingly we had had the very able
-                    reports of Dr <lb/>Duncan, and the useful work of Dr Welsh. The Institution has
-                    now <lb/>the benefit of Dr Duncan's services ; and he considered it better to
-                    <lb/>leave the completion of such works and reports to the zeal and talents
-                    <lb/>of individuals.</p>
-                <p>The <hi rend="italic">Mover</hi> then stated that he was perfectly aware of Dr.
-                    Welsh's <lb/>judicious publication as well as Dr Duncan's and he certainly would
-                    <lb/>never have introduced such a measure, had it not been suggested and
-                    <lb/>recommended by a much abler mind than his own. He had not un<lb break="no"/>dertaken the task from any idea that he was able to do it justice, or
-                    <lb/>that he could do it better, or even so well as many other members of
-                    <lb/>the Court ; but from the conviction, that if he had not introduced the
-                    <lb/>subject, it would be introduced at all. He had no wish, however <lb/>to
-                    give unnecessary trouble, and should, therefore, for the present, beg <lb/>leave
-                    to withdraw his motion.</p>
-                <p>
-                    <hi rend="smallcaps">Form of Process in the Justiciary</hi>
-                    <lb/>
-            <hi rend="smallcaps">Court.</hi>
-                </p>
-                <p>Our readers will learn with pleasure, that the Lord Advocate, <lb/>with a
-                    laudable anxiety for the honour of our criminal jurispru<lb break="no"/>dence,
-                    has announced officially, that the Clerk of Court "strikes the <lb/>Jury, by
-                    taking <hi rend="italic">45</hi> after <hi rend="italic">45, until they served
-                        in rotation.</hi>" They <lb/>consist of a " list of Jurymen furnished by the
-                    High Constables" <lb/>for Edinburgh and those "regularly required from the
-                    counties of <lb/>Linlithgow and Haddington," which names " were <hi rend="italic">then</hi> put up<lb break="no"/>on a roll, which was put into
-                    the bands of the Clerk of Court;"– <lb/>the Jurors thus struck being
-                    cited, not by a Sheriff officer, but by <lb/>a Macer of the Justiciary ourt. We
-                    are not aware of any law <lb/>which requires the Clerk of Court to take the
-                    Jurors by rotation ; <lb/>but it reflects great credit on his judgement that he
-                    resorts to this <lb/>unequivocal mode of displaying his impartiality. This is a
-                    virtue <lb/>which the law requires in all its officers ; and it is fortunate
-                    when <lb/>such rules are devised and adhered to as make the virtue incon<lb break="no"/>trovertibly visible. At such an advanced stage of society,
-                    honour <lb/>and public opinion will secure impartial justice ; but still, when
-                    <lb/>the possibility of some retrograde movement is adverted to, it <lb/>would
-                    be a wise measure to convert what all functionaries do at <lb/>present from
-                    principle, into specific rules for directing the conduct <lb/>of their
-                    successors. The Lord Advocate, it has been reported, is <lb/>about to introduce
-                    into Parliament a Bill or Bills respecting the <lb/>Judicatories of Scotland ;
-                    and his Lordship, it is obvious, might <lb/>obtain a well-merited popularity by
-                    throwing in some clauses to <lb/>fix the qualifications of a Juror in the
-                    different counties of Scot<lb break="no"/>land, and to regulate the times and
-                    the manner in which lists of <lb/>Jurors are to be made up, reduced into a penl
-                    of 45, and then to <lb/>a jury of 15. Ther is, if we mistake not, a cerain
-                    discretion on <lb/>more than one of these points left with functionaries, who,
-                    we <lb/>doubt not, would most readily part with it. To them it would be <lb/>a
-                    relief ; and though the arraigned might sometimes have less im<lb break="no"/>partial juries than at present, yet, if the ballot were introduced <lb/>here,
-                    as it has recently been in civil cases, the impartiality would <lb/>be more
-                    coguisable, and placed beyond the reach of doubt and <lb/>misrepresentation. It
-                    would be no disgrace to Scotland to bor<lb break="no"/>row in this respect from
-                    her sister kingdom, but an honour which <lb/>France seems willing to do herself
-                    at present, and which we very <lb/>lately did ourselves in modelling our Jury
-                    Court.</p>
-                <p>Mr Bywater has construced a small model of a ship in such <lb/>a manner as to
-                    exhibity, by actual experiment, the principal <lb/>magnetic phenomena mentioned
-                    by Captain Flinders, in his <lb/>voyage to New Holland. From a minute attention
-                    to the sub<lb break="no"/>ject, Mr B. has devised a plan, which, in all
-                    probability, will <lb/>remedy, by very simple means, the defect arising from the
-                        lo<lb break="no"/>cal attraction pointed out by Captain Flinders, and thus
-                    be of <lb/>real advantage to the science of navigation. A drawing of <lb/>this
-                    plan (as it will be important to ships of war) has been sent <lb/>to the
-                    Admiralty.</p>
-            </body>
-        </text>
-    </TEI>
+         <p>Lord Provost<hi rend="smallcaps">Manderston</hi>  having been called to the Chair, the <lb/>Clerk, Mr A. Boswell, read a very distinct report of the results and <lb/>general features of the transactions at the Infirmary and Queensber<lb break="no"/>ry House Hospital for the last year. The Lord Provost then named <lb/>a Committee to examine the Treasurer's accounts, &amp;c., and report to <lb/>the adjourned meeting to be held in February next.</p>
+         <p>
+            <hi rend="smallcaps">Mr John Witham</hi>  junior then rose, and requested leave to submit <lb/>a few observations to the consideration of the Court. He stated in <lb/>substance that, though aware of its not being usual to vote thanks to <lb/>the Managers until their accounts have been examined, he was yet <lb/>anxious to embrace the first opportunity of expressing his conviction <lb/>that the exertions of the Managers had, at last, placed this valuable <lb/>Institution on a most desirable footing. Although he had not visited <lb/>the Hospital for the last twelve months, he had not ceased to take an <lb/>interest in its welfare ; and it was with great pleasure that he now <lb/>stated, that whether his inquiries were made of the medical attendants, <lb/>or of<hi rend="italic">recent patients,</hi>  the answers were uniformly satisfactory. The <lb/>Hospital was favoured with a good Matron, between whom and the<cb/> 
+            <lb/>medical gentlemen the best understanding existed ; and the various <lb/>salutary regulations of the Managers have led to such a prosperous <lb/>state of things, as justly to entitle them to the gratitude of this Court <lb/>and the public. Still, however, he must say, that although the Hospi<lb break="no"/>tal was in a good state, yet, in his mind, Visitors could not fall to afford <lb/>that assistance to the Managers here, and that security against internal <lb/>abuses, which they had done in so many other similar institutions. It <lb/>was difficult to account for the prejudices which existed against this spe<lb break="no"/>cies of assistance in Edinburgh. At Leeds, in addition, to visitors of <lb/>our sex, there was a committee of ladies, who visisted the female wards, <lb/>and from the joint labours of both classes of visitors many and great <lb/>advantages had resulted. But in this city we had hospitals for fe<lb break="no"/>males, which are governed by men only, without seeking any help <lb/>from visitors of that sex, who are much better qualified to discharge <lb/>most of the duties. This view of these matters, he trusted, would yet <lb/>be attended to.–He must also crave the attention of the meet<lb break="no"/>ing to another matter, that of the L.11,700, for which the city of E<lb break="no"/>dinburgh pays only 4 1/2 per cent. He assured the Court, and its Ho<lb break="no"/>noured Chairman, that this subject was not introduced with the view <lb/>of touching upon, or insinuating any thing respecting the city's af<lb break="no"/>fairs. The money, he understood, was secured on the ale duty ; but <lb/>why should the Hospital lose one-half per cent, of interest? He had <lb/>once made a calculation, according to which the loss, from the be<lb break="no"/>ginning, had amounted to about L.10,000. It had been stated that <lb/>the Magistrates of Edinburgh had always been friendly to the Hos<lb break="no"/>pital ; but that was surely no reason for withholding L.59 of interest <lb/>that whatever former Magistrates had thought on the subject the <lb/>present would not submit to the idea of depriving the Hospital of any <lb/>part of its lawful interest. If the ground on which the Hospital was <lb/>built was alluded to, it was plain that town had already got more, <lb/>by the reduced interest than its original value. The town of Edin<lb break="no"/>burgh had also got L.8273 ; 17 ; 3 of invalid money from Govern<lb break="no"/>ment, on condition of paying<hi rend="italic">the interest</hi>  to the Infirmary,<hi rend="italic">which inte- </hi>
+            <lb/>
+            <hi rend="italic">rest</hi> , if paid at two terms in the years, should be restricted to 3 1/2 per <lb/>cent. And as the property tax–which the Town did not retain from <lb/>the Hospital, whether they did or did not pay it to Government,–is <lb/>now at an end, he could see no reason for withholding the usual rate <lb/>of interest. He concluded by suggesting the names of several gentle<lb break="no"/>men as a Committee, to lend out the sum of L.11,700 on interest at <lb/>5 per cent, if the Magistrates of Edinburgh should decline to pay that <lb/>rate of interest.</p>
+         <p>
+            <hi rend="smallcaps">Mr Alex. Cruishank</hi>  seconded the motion</p>
+         <p>Col.<hi rend="smallcaps">Crichton</hi>  regretted that the respectable gentlemen should have <lb/>introduced such a motion. He seldom visisted the Infirmary, but <lb/>when he sent patients to it ; but he could state, that when his servants <lb/>or workmen have been there from fever, the attention they received <lb/>was in every respect equal to what he, and he hoped he was a respec<lb break="no"/>table citizen, could command in his own house. But he could men<lb break="no"/>tion the testimony of one whose authority was much higher than his <lb/>own – that of a medical gentlemen of some eminence in his profes<lb break="no"/>sion, who lives abroad, and who was recently in this country. That <lb/>professional gentleman spoke the very highest terms both of the <lb/>medical treatment and the economy of the House. It was matter <lb/>of pride, he said, to every Scotsman, to hear the manner in which the <lb/>Infirmary of Edinburgh was spoke of in all the quarters of the globe. <lb/>It was the pattern of all that was excellent in such institutions, and a <lb/>nursery of the most skilfull practitioners ; for go where we will, the <lb/>answer to almost every question put with respect to improved hospi<lb break="no"/> 
+            <lb/>tal treatment is, that it was learned in the Infirmary of Edinburgh. <lb/>Whether, indeed, we thought of these things ; whether we looked at <lb/>the sublime inscriptions on the outside of the Hospital, and the Chris<lb break="no"/>tain doctrines and principles there inculcated or the treatement and <lb/>management within we could not fail to be struck with admiration <lb/>and without imputing any motives, which he was not entitled to do <lb/>he must say, it would be much more creditable to the respectable gen<lb break="no"/>tlemen if they should confine themselves to expressing their high o<lb break="no"/>pinion of the institution and tanking the Managers instead of oc<lb break="no"/>cupying the valuable time of this Honourable Court with quibbling <lb/>about trifles, which were every way contemptible. After a pause, <lb/>Col. Crichton made a counter motion, to get rid of Mr Wigham's.</p>
+         <p>Lord<hi rend="smallcaps">Meadowbank</hi>  reminded the Court, that this matter of inte<lb break="no"/>rest had already been under the consideration of a Committee, and <lb/>decided on by the Court.</p>
+         <p>
+            <hi rend="smallcaps">Henry Jardine</hi> , Esq. begged to mention a fact that the Town of <lb/>Edinburgh had contributed L.50 to the Infirmary for the last year.</p>
+         <p>Mr<hi rend="smallcaps">Ritchie</hi>  rose and said, that though perfectly aware of what the <lb/>result would be, he could not allow the matter to be settled without <lb/>giving Mr Wigham's motion his support. It gave him much pleasure <lb/>to find it was no longer unfashionable to allude to Christian doc<lb break="no"/>trines in such meetings as this,–a change from which he anticipated <lb/>much good. He concurred in what had been said on this subject by <lb/>the gentleman at the foot of the Table ; but he begged to remind him <lb/>that it was a great principle of Christianity, that nothing was too tri<lb break="no"/>fling to be attended to it it promised good; and the additional interest of <lb/>the money in question would obviously extend the means of<hi rend="italic">healing </hi>
+            <lb/>
+            <hi rend="italic">the sick</hi> , the great object of the Institution. Nothing, indeed, which <lb/>had fallen from that gentleman, or the Learned Lord on the other <lb/>side, could meet or touch the simple proposition, that<hi rend="italic">five per cent</hi>  is <lb/>the legal rate of interest, and that the Town of Edinburgh ought not <lb/>to pay less.</p>
+         <p>There was another subject alluded to by Mr Wigham, on which, if <lb/>Mr W. did not, he would submit a motion, namely,<hi rend="italic">Visitori</hi>  'And <lb/>this he conceived was the fittest time for appointing them. All sides <lb/>of the house were, now agreed that the Hospital was admirably con<lb break="no"/>ducted. It was impossible, therefore, to suppose that the measure <lb/>was proposed from any distrust of the Managers. If the management <lb/>was perfect now, it was too much to expect it could continue so ; and <lb/>this was the proper time for providing against the future. In other <lb/>places the highest characters in the land had acted with visitors ; and <lb/>much benefit had been derived from them in England, and even at <lb/>Glasgow. If human nature, therefore, was not different in Edin<lb break="no"/>burgh from wht it is on the other side of the Tweed, and in the west <lb/>of Scotland, it must be admitted that Visitors would be beneficial <lb/>here also. Besides, as the Managers were aware of their strength, <lb/>and that no measure could be carried here without their consent, the <lb/>granting of Visitors would be a<hi rend="italic">boon</hi>  from themselves. He moved, <lb/>that this Court do annually name 24 or more Visitors to act month<lb break="no"/>ly by rotation, and minute such observations as shall occur to them <lb/>for the consideration of the Managers.</p>
+         <p>Mr<hi rend="smallcaps">Wigham</hi>  seconded the motion ; but as the Court seemed averse <lb/>to entertain it, it was withdrawn.</p>
+         <p>Mr<hi rend="smallcaps">Ritchie</hi>  then said, that as his last motion was intended chiefly <lb/>as a caveat to the Committee named by the Lord Provost, he would <lb/>also, with the same view, state the nature of a motion which he wish<lb break="no"/>ed to submit, but the merits of which he was not then fully prepared <lb/>to state. it was one, however, of which he was sure it would not be <lb/>said, that it was introduced for the purpose of giving trouble, or un<lb break="no"/>necessarily occupying the time of the Court. Its object was the pro<lb break="no"/>motion of medical science, and its nature would be understood by <lb/>his reading a single paragraph from the able Clinical Reports of Dr <lb/>Duncan junior. " Almost all hospitals (it is there stated,) publish <lb/>annual Reports; but in many cases they are intended only to fur<lb break="no"/>nish information as to the expenditure of the funds, and the names of <lb/>the office-bearers, and as a public acknowledgement of the support of <lb/>the subscribers. Such reports, however, are of no use in marking the <lb/>progress of disease, and, except for purposes mentioned above, do po<lb break="no"/>sitive harm, by causing hospital reports in general to be neglected as <lb/>utterly without value. This, however, is not the case ; and the re<lb break="no"/>ports we have of late years received from the Fever Hospitals of <lb/>Dublin and Cork are worthy of being imitated by hospitals of every <lb/>kind and in every place. Indeed, the public have a right to expect this <lb/>information in return for their liberality in supporting them. We have<cb/> 
+            <lb/>only to add, that the most valuable reports often proceed entirely from <lb/>the zeal of the reporters, and are only occasional. This leads <lb/>us to suggest, that the governors of hospitals should enjoin their regu<lb break="no"/>lar as a duty upon their medical officers ; and we will <lb/>venture to say, that where it has not yet been practised, its good ef<lb break="no"/>fects upon the institution in an economical as well as professional <lb/>points of view, will soon be apparent."–His motion went to carry this <lb/>suggestion into effect ; and without farther preface he should now <lb/>read it. The substance of it was, that in addition to the Journal kept <lb/>at present, Digest of the whole should be kept in a<hi rend="italic">tabular form</hi>  but <lb/>especially of the date of admission, age, sex, and place of residence <lb/>of the patients ; date of commencement, crisis, termination and as<lb break="no"/>signed causes of their diseases ; with a diary of the temperatures and <lb/>moisture of the atmosphere, state of winds, prices of staple pro<lb break="no"/>visions &amp;c. ; with an annual medical report, taking notice of the in<lb break="no"/>crease or decrease of population, and of the employment, diet and ha<lb break="no"/>bits of the labouring classes, as far as practicable. Some of the mem<lb break="no"/>bers, he observed, seemed to be amused with this enumeration ; but <lb/>the medical gentlemen would be aware of what he pointed at. With <lb/>their peculiar and proper duties, he had no wish to interfere. They <lb/>knew them well, and discharged them faithfully and honourably. In <lb/>their practise they attended to every thing that was necessary ; but <lb/>their knowledge often died with him ; and his object was to preserve <lb/>the results of their skill and experience.</p>
+         <p>The<hi rend="smallcaps">Lord President</hi>  said he hoped the gentlemen who had made <lb/>this motion, would see, on reflection, from the labour and time requi<lb break="no"/>site to carry it into effect, how very impracticable it would be in an <lb/>hospital like that of the Royal Infirmary, where the Managers had no <lb/>compulsory authority over the medical gentlemen, whose time was <lb/>so occupied with their own private avocations.</p>
+         <p>The Proposer of the motion said, that instead answering what had <lb/>fallen from the Right Honourable Judge in his own language, he <lb/>would beg leave to read another passage from Dr Duncan's volu<lb break="no"/>ble publication, and which, he hoped, would obviate some of the diffi<lb break="no"/>culties adverted to. " The trouble (says Dr Duncan,) of keeping <lb/>such tabular records, is not so great as might be supposed. It requires <lb/>only system and regularity; and when we see how easily it is done in <lb/>the military hospital,<hi rend="italic">we cannot help regretting that it is not also in- </hi>
+            <lb/>
+            <hi rend="italic">troduced general into civil hospitals.</hi>  If the practitioner himself has <lb/>not time to fill up the columns of the prescribed table, it would be <lb/>very little additional trouble to his clerk ; or if the time of that assis<lb break="no"/>tant would not easily permit him,<hi rend="italic">the duty would be very gladly taken </hi>
+            <lb/>
+            <hi rend="italic">by another of the Hospital pupils.</hi> 
+         </p>
+         <p>Dr<hi rend="smallcaps">Hope</hi> , in a neat and eloquent speech, opposed the motion. The <lb/>Managers, he said, were willing to give due consideration to every <lb/>proposal from whatever quarter it might come. The present, how<lb break="no"/>ever, he considered as impractiable. To prepare tabular records of <lb/>the nature suggested, required great experience, much comprehens<lb break="no"/>ion and many talents. It was a task which every one was not qua<lb break="no"/>lified to discharge in a mnner could be beneficial to the public, <lb/>and one which gentlemen, who lived by their profession, could not be <lb/>expected to undertake. The case was different in military hospitals, <lb/>where the medical getlmen could devote the whole of their time to <lb/>their hospital duties. But it should be know, that the materials for <lb/>making up such tables are all recorded in the infirmary Journals ; and <lb/>that these Journals are open to<hi rend="italic">all the medical attendants;</hi>  so that <lb/>whoever finds that he has time and talents for the performance of <lb/>such tasks, has the fullest opportunity for undertaking and complet<lb break="no"/>ing them. Accordingly we had had the very able reports of Dr <lb/>Duncan, and the useful work of Dr Welsh. The Institution has now <lb/>the benefit of Dr Duncan's services ; and he considered it better to <lb/>leave the completion of such works and reports to the zeal and talents <lb/>of individuals.</p>
+         <p>The<hi rend="italic">Mover</hi>  then stated that he was perfectly aware of Dr. Welsh's <lb/>judicious publication as well as Dr Duncan's and he certainly would <lb/>never have introduced such a measure, had it not been suggested and <lb/>recommended by a much abler mind than his own. He had not un<lb break="no"/>dertaken the task from any idea that he was able to do it justice, or <lb/>that he could do it better, or even so well as many other members of <lb/>the Court ; but from the conviction, that if he had not introduced the <lb/>subject, it would be introduced at all. He had no wish, however <lb/>to give unnecessary trouble, and should, therefore, for the present, beg <lb/>leave to withdraw his motion.</p>
+         <p>
+            <hi rend="smallcaps">Form of Process in the Justiciary </hi>
+            <lb/>
+            <hi rend="smallcaps">Court.</hi> 
+         </p>
+         <p>Our readers will learn with pleasure, that the Lord Advocate, <lb/>with a laudable anxiety for the honour of our criminal jurispru<lb break="no"/>dence, has announced officially, that the Clerk of Court "strikes the <lb/>Jury, by taking<hi rend="italic">45</hi>  after<hi rend="italic">45, until they served in rotation.</hi> " They <lb/>consist of a " list of Jurymen furnished by the High Constables" <lb/>for Edinburgh and those "regularly required from the counties of <lb/>Linlithgow and Haddington," which names " were<hi rend="italic">then</hi>  put up<lb break="no"/>on a roll, which was put into the bands of the Clerk of Court;"– <lb/>the Jurors thus struck being cited, not by a Sheriff officer, but by <lb/>a Macer of the Justiciary ourt. We are not aware of any law <lb/>which requires the Clerk of Court to take the Jurors by rotation ; <lb/>but it reflects great credit on his judgement that he resorts to this <lb/>unequivocal mode of displaying his impartiality. This is a virtue <lb/>which the law requires in all its officers ; and it is fortunate when <lb/>such rules are devised and adhered to as make the virtue incon<lb break="no"/>trovertibly visible. At such an advanced stage of society, honour <lb/>and public opinion will secure impartial justice ; but still, when <lb/>the possibility of some retrograde movement is adverted to, it <lb/>would be a wise measure to convert what all functionaries do at <lb/>present from principle, into specific rules for directing the conduct <lb/>of their successors. The Lord Advocate, it has been reported, is <lb/>about to introduce into Parliament a Bill or Bills respecting the <lb/>Judicatories of Scotland ; and his Lordship, it is obvious, might <lb/>obtain a well-merited popularity by throwing in some clauses to <lb/>fix the qualifications of a Juror in the different counties of Scot<lb break="no"/>land, and to regulate the times and the manner in which lists of <lb/>Jurors are to be made up, reduced into a penl of 45, and then to <lb/>a jury of 15. Ther is, if we mistake not, a cerain discretion on <lb/>more than one of these points left with functionaries, who, we <lb/>doubt not, would most readily part with it. To them it would be <lb/>a relief ; and though the arraigned might sometimes have less im<lb break="no"/>partial juries than at present, yet, if the ballot were introduced <lb/>here, as it has recently been in civil cases, the impartiality would <lb/>be more coguisable, and placed beyond the reach of doubt and <lb/>misrepresentation. It would be no disgrace to Scotland to bor<lb break="no"/>row in this respect from her sister kingdom, but an honour which <lb/>France seems willing to do herself at present, and which we very <lb/>lately did ourselves in modelling our Jury Court.</p>
+         <p>Mr Bywater has construced a small model of a ship in such <lb/>a manner as to exhibity, by actual experiment, the principal <lb/>magnetic phenomena mentioned by Captain Flinders, in his <lb/>voyage to New Holland. From a minute attention to the sub<lb break="no"/>ject, Mr B. has devised a plan, which, in all probability, will <lb/>remedy, by very simple means, the defect arising from the lo<lb break="no"/>cal attraction pointed out by Captain Flinders, and thus be of <lb/>real advantage to the science of navigation. A drawing of <lb/>this plan (as it will be important to ships of war) has been sent <lb/>to the Admiralty.</p>
+      </body>
+   </text>
+</TEI>

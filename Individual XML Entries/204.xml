@@ -1,80 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>204</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>204</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1825-10-19"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1825-10-19"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="italic">Wesleyan Methodist Missions.</hi>–The twelfth
-                        anni<lb break="no"/>versary of the Methodist Missionary Society for the
-                    <lb/>Leeds District, commenced in Brunswick Chapel, on <lb/>Monday forenoon. Mr
-                    James Musgrave was called to <lb/>the chair. The Rev. Valentine Ward, on the
-                        Se<lb break="no"/>cretaries to the Society read the report, from which it
-                    <lb/>appears that in Ireland, the Society has 21 missionaries : <lb/>in France,
-                    Gibraltar, and Malta, eight missionaries, <lb/>and 230 members ; in Ceylon and
-                    Continental India, <lb/>27 missionaries, 511 members ; New South Wales, <lb/>Van
-                    Dieman's Land, New Zealand, and Tongataboo, <lb/>10 missionaires, 142 members ;
-                    Western and South<lb break="no"/>ern Africa, 16 missionaries, 1109 members ;
-                    Nova Scotia and New <lb/>Brunswick, 18 missionaries, 2134 members, exclusive of
-                    <lb/>upwards of 20 missionaries whom the Committee have <lb/>resolved to send
-                    out as soon as possible. The regular <lb/>hearers of the missionaries are
-                    two-thirds more than the <lb/>members, and there are 12,000 children educated in
-                    the <lb/>schools. The Report goes on to give every animating <lb/>views of
-                    missionary success, and concludes by recom<lb break="no"/>mending its interest
-                    to public support.</p>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="italic">Wesleyan Methodist Missions.</hi> –The twelfth anni<lb break="no"/>versary of the Methodist Missionary Society for the <lb/>Leeds District, commenced in Brunswick Chapel, on <lb/>Monday forenoon. Mr James Musgrave was called to <lb/>the chair. The Rev. Valentine Ward, on the Se<lb break="no"/>cretaries to the Society read the report, from which it <lb/>appears that in Ireland, the Society has 21 missionaries : <lb/>in France, Gibraltar, and Malta, eight missionaries, <lb/>and 230 members ; in Ceylon and Continental India, <lb/>27 missionaries, 511 members ; New South Wales, <lb/>Van Dieman's Land, New Zealand, and Tongataboo, <lb/>10 missionaires, 142 members ; Western and South<lb break="no"/>ern Africa, 16 missionaries, 1109 members ; Nova Scotia and New <lb/>Brunswick, 18 missionaries, 2134 members, exclusive of <lb/>upwards of 20 missionaries whom the Committee have <lb/>resolved to send out as soon as possible. The regular <lb/>hearers of the missionaries are two-thirds more than the <lb/>members, and there are 12,000 children educated in the <lb/>schools. The Report goes on to give every animating <lb/>views of missionary success, and concludes by recom<lb break="no"/>mending its interest to public support.</p>
+      </body>
+   </text>
+</TEI>

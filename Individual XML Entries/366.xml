@@ -1,74 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>366</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on <date when="2013-06-08">20130608
-                        </date> by <persName role="collection">M. H. Beals</persName>. Transcribed
-                        on <date when="2014-12-15"/> by <persName role="transcription">M. H.
-                            Beals</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from
-                                    <ref target="http://news.google.com/newspapers?id=ikpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6341%2C555484"> Google News Archive</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>366</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on<date when="2013-06-08">20130608
+</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2014-12-15"/> by<persName role="transcription">M. H. Beals</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitised image available from
+<ref target="http://news.google.com/newspapers?id=ikpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6341%2C555484"> Google News Archive</ref>
                   </authority>
-                            <pubPlace>
-                                <address> 
-                        <settlement>Glasgow</settlement> 
-                        <region>Scotland</region> 
-                        <country>United Kingdom</country> 
+                  <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1794-01-24"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>Native Americans</item>
-                            <item>war</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <head n="London, England, United Kingdom"/>
-                <p>
-                    <pb n="5"/>Letters from Quebec, dated Nov. 17, say, that <lb/>every thing was
-                    quiet in that province.</p>
-                <p>Some letters from Quebec were on Saturday re<lb break="no"/>ceived at the General
-                    Post Office, which state that <lb/>the American army under the command of
-                    General <lb/>Wayne had been routed by the Otoway Indians; an advanced party of
-                    200 men had been entirely <lb/>cut off: his army consisted of 400 regulars and
-                    <lb/>2,000 volunteers.</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1794-01-24"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>Native Americans</item>
+                  <item>war</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head n="London, England, United Kingdom"/>
+         <p>
+            <pb n="5"/>Letters from Quebec, dated Nov. 17, say, that <lb/>every thing was quiet in that province.</p>
+         <p>Some letters from Quebec were on Saturday re<lb break="no"/>ceived at the General Post Office, which state that <lb/>the American army under the command of General <lb/>Wayne had been routed by the Otoway Indians; an advanced party of 200 men had been entirely <lb/>cut off: his army consisted of 400 regulars and <lb/>2,000 volunteers.</p>
+      </body>
+   </text>
+</TEI>

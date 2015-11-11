@@ -1,78 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>74</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>74</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1790-11-19"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="plagiarism"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="entertain"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>marriage</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1790-11-19"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="plagiarism"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="entertain"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>marriage</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="smallcaps">Curious Advertisement</hi>
-                    <lb/>From the <hi rend="smallcaps">Pittsburgh Gazette</hi>
+            <hi rend="smallcaps">Curious Advertisement </hi>
+            <lb/>From the<hi rend="smallcaps">Pittsburgh Gazette</hi> 
          </p>
-                <p>
-            <hi rend="italic">Pittsburgh, Dec.</hi> 23, 1789.</p>
-                <p> JULY the twenty-seventh day <lb/>My wife Betsey ran away <lb/>From bed and
-                    board,–and this did say, <lb/>"She would no longer with me stay."
-                    <lb/>Since she has left me without cause <lb/>I'll give her time enough to
-                    pause. <lb/>That she may see her grievous error, <lb/>When I live happy with a
-                    fairer. <lb/>So I forewarn both great and small <lb/>To trust her any thing at
-                    all, <lb/>For of her contracts from this day <lb/>One farthing's worth I will
-                    not pay. <lb/>
-            <hi rend="smallcaps">Dennis O'Bryan</hi>
+         <p>
+            <hi rend="italic">Pittsburgh, Dec.</hi>  23, 1789.</p>
+         <p> JULY the twenty-seventh day <lb/>My wife Betsey ran away <lb/>From bed and board,–and this did say, <lb/>"She would no longer with me stay." <lb/>Since she has left me without cause <lb/>I'll give her time enough to pause. <lb/>That she may see her grievous error, <lb/>When I live happy with a fairer. <lb/>So I forewarn both great and small <lb/>To trust her any thing at all, <lb/>For of her contracts from this day <lb/>One farthing's worth I will not pay. <lb/>
+            <hi rend="smallcaps">Dennis O'Bryan</hi> 
          </p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+      </body>
+   </text>
+</TEI>

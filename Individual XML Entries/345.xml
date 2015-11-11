@@ -1,133 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>345</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on 20130506 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20131106 by
-                            <persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H.
-                        Beals</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>345</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on 20130506 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20131106 by
+<persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
                </persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitsed image available from
-                                Google News Archive</authority>
-                            <pubPlace>
-                                <address>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1790-05-24"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="entertain"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>trade</item>
-                            <item>fashion</item>
-                            <item>Native Americans</item>
-                            <item>textiles</item>
-                            <item>trade</item>
-                            <item>foreign relations</item>
-                            <item>foreign relations</item>
-                            <item>crime</item>
-                            <item>slavery</item>
-                            <item>Spanish Empire</item>
-                            <item>mining</item>
-                            <item>trade</item>
-                            <item>embargoes</item>
-                            <item>shipwreck</item>
-                            <item>textiles</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb n="4"/>
-                    <hi rend="italic">NOOTKA SOUND.</hi>
-                </p>
-                <p>The circumstances of thetrade and situation <lb/>of this part of North America
-                    being a matter of <lb/>such general conversation and great public mo<lb break="no"/>ment, we are particularly happy in being enabled <lb/>to give
-                    some further account of the transactions, <lb/>that have happened at Nootka
-                    Sounds, as well as <lb/>to point out the advantages that were likely to <lb/>be
-                    extended to other places by the means of this <lb/>trade.</p>
-                <p>It is necessary to remark that the skin of the <lb/>sea otter is worn only in the
-                    Northern regions of <lb/>China. Its fur, though beautiful and magnifi<lb break="no"/>cent, is too heavy for the sultry atmosphere of <lb/>the
-                    Southern Provinces.</p>
-                <p>Pekin is, therefore, the proper mart for this <lb/>valuable commodity, and in
-                    this immense city, <lb/>the consumption is so great, that the produce of
-                    <lb/>the voyage meets and immediate sale.</p>
-                <p>The Mandarins of the Court, and even the <lb/>Emperor himself, are fond of
-                    wearing this costly <lb/>fur. To a citizen of common rank, a sea otter's
-                    <lb/>collar to his vestment is a luxury.</p>
-                <p>The natives of the North West Coast of Ame<lb break="no"/>erica set so great a
-                    value on woollens of all kinds, <lb/>that all the blankets, cloths, hats, and
-                    stockings, <lb/>that could be procured in China, if English ma<lb break="no"/>nufacture, were sold to the Indians, with whose <lb/>Chiefs treaties of
-                    commerce had been formed.</p>
-                <p>An act of cruelty committed by an officer of <lb/>the Spanish Admiral Martiney's
-                    ship deserves to <lb/>be recorded.</p>
-                <p>The Spaniards discovering that Callicum, a <lb/>Chief, second in authority at
-                    Nootka Sound, was <lb/>in alliance with the English, he was shot through
-                    <lb/>the heart in the month of June 1789.?The wife <lb/>of Callicum, with an
-                    infant child, escaped, but <lb/>not till wounded.</p>
-                <p>Macquilla, the Chief, first in command, re<lb break="no"/>tired at the head of
-                    the allies of England, from <lb/>Nootka Sound, and to avoid the cruelty of the
-                    <lb/>Spaniards, they fled to distant parts. Such of <lb/>the natives as they
-                    could seize, the Spaniards <lb/>condemned to work as slaves on their
-                        fortifica<lb break="no"/>tions.</p>
-                <p>At this period it was in the contemplation of <lb/>the Spaniards to seize the
-                    Sandwich Islands, with <lb/>a view to deprive British ships of refreshments.
-                    <lb/>And we further add, on authority that amounts <lb/>nearly to demonstration,
-                    that on the very lands <lb/>purchased from the Nootka Chief by Captain
-                    <lb/>Mears, the Spaniards have already opened valuable <lb/>mines.</p>
-                <p>Another object of this enterprise wasto sup<lb break="no"/>ply the markets of
-                    Kamschatka, and other ports <lb/>belonging to the Russians, with the teas and
-                    other <lb/>produce of China. This promised to be an in<lb break="no"/>valuable
-                    channel of commerce, as the Chinese <lb/>have shut their ports against the
-                    Russians, who <lb/>
+                  </pubPlace>
+                  <date when="1790-05-24"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="entertain"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>trade</item>
+                  <item>fashion</item>
+                  <item>Native Americans</item>
+                  <item>textiles</item>
+                  <item>trade</item>
+                  <item>foreign relations</item>
+                  <item>foreign relations</item>
+                  <item>crime</item>
+                  <item>slavery</item>
+                  <item>Spanish Empire</item>
+                  <item>mining</item>
+                  <item>trade</item>
+                  <item>embargoes</item>
+                  <item>shipwreck</item>
+                  <item>textiles</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="4"/>
+            <hi rend="italic">NOOTKA SOUND.</hi> 
          </p>
-                <p>On this voyage of discovery and experiment, <lb/>one of our ships sailed and
-                    disposed of her cargo, <lb/>but was unfortunately lost on her return to
-                    China.</p>
-                <p>To these curious particulars we add, with a <lb/>patriot joy, that the
-                    consumption of the glorious <lb/>staple of England, her broad cloths, is
-                        astonish<lb break="no"/>ingly great in Japan and China: British hard<lb break="no"/>
-                    <lb/>ware, &amp;c. is also in great request.</p>
-                <p>From the friendship of Tiara to Captain Mears, <lb/>ships which touch at the
-                    Sandwich islands may <lb/>depend on the utmost attention and civility. <lb/>This
-                    Prince is six feet 4 1/2 inches high, of propor<lb break="no"/>tionate bulk.
-                </p>
-            </body>
-        </text>
-    </TEI>
+         <p>The circumstances of thetrade and situation <lb/>of this part of North America being a matter of <lb/>such general conversation and great public mo<lb break="no"/>ment, we are particularly happy in being enabled <lb/>to give some further account of the transactions, <lb/>that have happened at Nootka Sounds, as well as <lb/>to point out the advantages that were likely to <lb/>be extended to other places by the means of this <lb/>trade.</p>
+         <p>It is necessary to remark that the skin of the <lb/>sea otter is worn only in the Northern regions of <lb/>China. Its fur, though beautiful and magnifi<lb break="no"/>cent, is too heavy for the sultry atmosphere of <lb/>the Southern Provinces.</p>
+         <p>Pekin is, therefore, the proper mart for this <lb/>valuable commodity, and in this immense city, <lb/>the consumption is so great, that the produce of <lb/>the voyage meets and immediate sale.</p>
+         <p>The Mandarins of the Court, and even the <lb/>Emperor himself, are fond of wearing this costly <lb/>fur. To a citizen of common rank, a sea otter's <lb/>collar to his vestment is a luxury.</p>
+         <p>The natives of the North West Coast of Ame<lb break="no"/>erica set so great a value on woollens of all kinds, <lb/>that all the blankets, cloths, hats, and stockings, <lb/>that could be procured in China, if English ma<lb break="no"/>nufacture, were sold to the Indians, with whose <lb/>Chiefs treaties of commerce had been formed.</p>
+         <p>An act of cruelty committed by an officer of <lb/>the Spanish Admiral Martiney's ship deserves to <lb/>be recorded.</p>
+         <p>The Spaniards discovering that Callicum, a <lb/>Chief, second in authority at Nootka Sound, was <lb/>in alliance with the English, he was shot through <lb/>the heart in the month of June 1789.?The wife <lb/>of Callicum, with an infant child, escaped, but <lb/>not till wounded.</p>
+         <p>Macquilla, the Chief, first in command, re<lb break="no"/>tired at the head of the allies of England, from <lb/>Nootka Sound, and to avoid the cruelty of the <lb/>Spaniards, they fled to distant parts. Such of <lb/>the natives as they could seize, the Spaniards <lb/>condemned to work as slaves on their fortifica<lb break="no"/>tions.</p>
+         <p>At this period it was in the contemplation of <lb/>the Spaniards to seize the Sandwich Islands, with <lb/>a view to deprive British ships of refreshments. <lb/>And we further add, on authority that amounts <lb/>nearly to demonstration, that on the very lands <lb/>purchased from the Nootka Chief by Captain <lb/>Mears, the Spaniards have already opened valuable <lb/>mines.</p>
+         <p>Another object of this enterprise wasto sup<lb break="no"/>ply the markets of Kamschatka, and other ports <lb/>belonging to the Russians, with the teas and other <lb/>produce of China. This promised to be an in<lb break="no"/>valuable channel of commerce, as the Chinese <lb/>have shut their ports against the Russians, who <lb/>
+         </p>
+         <p>On this voyage of discovery and experiment, <lb/>one of our ships sailed and disposed of her cargo, <lb/>but was unfortunately lost on her return to China.</p>
+         <p>To these curious particulars we add, with a <lb/>patriot joy, that the consumption of the glorious <lb/>staple of England, her broad cloths, is astonish<lb break="no"/>ingly great in Japan and China: British hard<lb break="no"/> 
+            <lb/>ware, &amp;c. is also in great request.</p>
+         <p>From the friendship of Tiara to Captain Mears, <lb/>ships which touch at the Sandwich islands may <lb/>depend on the utmost attention and civility. <lb/>This Prince is six feet 4 1/2 inches high, of propor<lb break="no"/>tionate bulk.</p>
+      </body>
+   </text>
+</TEI>

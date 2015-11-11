@@ -1,105 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>178</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>178</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1821-05-03"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">Canada</hi>
-                </p>
-                <p>
-                    <hi rend="smallcaps">Provincial Parliament of Lower Canada</hi>
-                    <lb/>
-            <hi rend="smallcaps">Quebec Legislative Council–March 17.</hi>
-                </p>
-                <p>This day his Excellency the Governor in Chief made the <lb/>following[?] speech
-                    to both Houses:–</p>
-                <p>"Gentlemen of the Legislative Council and Gentlemen <lb/>of the House of
-                    Assembly,</p>
-                <p>"When the Parliament met for the dispatch of public <lb/>business[?], I did
-                    entertain a hope that the experience of the <lb/>[?] few years would have led
-                    you to a mature and serious <lb/>consideration[?] of the consequences that would
-                    inevitably <lb/>follow[?], if the then state of things should not be remedied ;
-                    <lb/>I[?] cannot therefore be surprised that I should now ex<lb break="no"/>press[?] not only my disappointment, but great concern that <lb/>[?] same
-                    question of constitutional principle should have <lb/>[?]ia disturbed the
-                    unanimity of your legislative proceed<lb break="no"/>ings[?].</p>
-                <p>"Upon this occasion I think it a duty which I owe to <lb/>[?] and to your country
-                    to call upon you to consider, du<lb break="no"/>ring[?] this summer, the result
-                    of the discussions of the ses<lb break="no"/>sesion[?] in all its bearings.</p>
-                <p>"You will see the administration of the civil govern<lb break="no"/>ment[?] left
-                    without any pecuniary means but what I shall <lb/>advance[?] upon my own
-                    personal responsibility ; you will <lb/>[?] individuals suffering under severe
-                    and unmerited hard<lb break="no"/>ships[?], caused by the wast of that
-                    constitutional authority <lb/>that[?] is necessary for the payment of the
-                    expences of the <lb/>civil[?] government. You will see the interior improve<lb break="no"/>ments[?] of the country nearly at a stand ; you will see, in
-                    <lb/>[?]ort, the executive government in a manner palsied and
-                    <lb/>powerless[?].</p>
-                <p>"When I shall again summon you to meet here in Par<lb break="no"/>liament[?], you
-                    will come to decide the important question, <lb/>whether[?] the Government shall
-                    be restored to its constitu<lb break="no"/>tional[?[ energy, or whether you are
-                    to deplore the prospect <lb/>[?] lasting misfortune, by a continuance in the
-                    present state <lb/>[?] things. Important as that question is, there can be no
-                    <lb/>difficulty[?[ in the decision. When the blessingsof the Bri<lb break="no"/>tish[?] constitution were granted to this province, you re<lb break="no"/>[?]ved with it the recorded experience of centuries of <lb/>[?]ctise. There is
-                    no question of doubt or of difficulty <lb/>[?]that may not find its precedent in
-                    the records of the Im<lb break="no"/>[?]Imperial Parliament ; and I cannot thik
-                    that any wiser <lb/>[?]guide need by desired."</p>
-                <p>After which, the Honourable Speaker of the Legislative <lb/>[?]council said, that
-                    it was the pleasure of his Excellency the <lb/>[?]Governor in Chief that the
-                    Provincial Parliament should <lb/>[?] prorogued until Thursday, the 26th of
-                    April next.</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1821-05-03"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">Canada</hi> 
+         </p>
+         <p>
+            <hi rend="smallcaps">Provincial Parliament of Lower Canada </hi>
+            <lb/>
+            <hi rend="smallcaps">Quebec Legislative Council–March 17.</hi> 
+         </p>
+         <p>This day his Excellency the Governor in Chief made the <lb/>following[?] speech to both Houses:–</p>
+         <p>"Gentlemen of the Legislative Council and Gentlemen <lb/>of the House of Assembly,</p>
+         <p>"When the Parliament met for the dispatch of public <lb/>business[?], I did entertain a hope that the experience of the <lb/>[?] few years would have led you to a mature and serious <lb/>consideration[?] of the consequences that would inevitably <lb/>follow[?], if the then state of things should not be remedied ; <lb/>I[?] cannot therefore be surprised that I should now ex<lb break="no"/>press[?] not only my disappointment, but great concern that <lb/>[?] same question of constitutional principle should have <lb/>[?]ia disturbed the unanimity of your legislative proceed<lb break="no"/>ings[?].</p>
+         <p>"Upon this occasion I think it a duty which I owe to <lb/>[?] and to your country to call upon you to consider, du<lb break="no"/>ring[?] this summer, the result of the discussions of the ses<lb break="no"/>sesion[?] in all its bearings.</p>
+         <p>"You will see the administration of the civil govern<lb break="no"/>ment[?] left without any pecuniary means but what I shall <lb/>advance[?] upon my own personal responsibility ; you will <lb/>[?] individuals suffering under severe and unmerited hard<lb break="no"/>ships[?], caused by the wast of that constitutional authority <lb/>that[?] is necessary for the payment of the expences of the <lb/>civil[?] government. You will see the interior improve<lb break="no"/>ments[?] of the country nearly at a stand ; you will see, in <lb/>[?]ort, the executive government in a manner palsied and <lb/>powerless[?].</p>
+         <p>"When I shall again summon you to meet here in Par<lb break="no"/>liament[?], you will come to decide the important question, <lb/>whether[?] the Government shall be restored to its constitu<lb break="no"/>tional[?[ energy, or whether you are to deplore the prospect <lb/>[?] lasting misfortune, by a continuance in the present state <lb/>[?] things. Important as that question is, there can be no <lb/>difficulty[?[ in the decision. When the blessingsof the Bri<lb break="no"/>tish[?] constitution were granted to this province, you re<lb break="no"/>[?]ved with it the recorded experience of centuries of <lb/>[?]ctise. There is no question of doubt or of difficulty <lb/>[?]that may not find its precedent in the records of the Im<lb break="no"/>[?]Imperial Parliament ; and I cannot thik that any wiser <lb/>[?]guide need by desired."</p>
+         <p>After which, the Honourable Speaker of the Legislative <lb/>[?]council said, that it was the pleasure of his Excellency the <lb/>[?]Governor in Chief that the Provincial Parliament should <lb/>[?] prorogued until Thursday, the 26th of April next.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,80 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>302</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>302</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1841-10-09"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1841-10-09"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="smallcaps">Emigration to South Australia</hi>
-                    <lb/>(<hi rend="italic">From Tuesday's Gazette</hi>)</p>
-                <p>Colonial Land and Emigration Office, 9 Park<lb break="no"/>street, Westminster,
-                    Oct. 1, 1841.–In reference <lb/>to the notice published in the <hi rend="italic">Royal Gazette</hi> of the <lb/>6th of August last, to the
-                    effect that all emigrants <lb/>in respect of whom bounty was to be claimed in
-                    <lb/>New South Wales, must have left this country by <lb/>the 1st of November
-                    next, the Commissioners of <lb/>Land and Emigration do hereby give further no<lb break="no"/>tice, in pursuance of directions from her Majesty's
-                    <lb/>Secretary of State for the Colonies, that in order <lb/>to prevent the
-                    consequences which must ensue <lb/>if vessels should continue to be engaged
-                    until too <lb/>late to be dispatched by the required date, no <lb/>ships can be
-                    permitted to sail with a claim to <lb/>bounty from the Colonial Government
-                    beyond <lb/>those which shall be forthwith returned to the <lb/>Commissioners of
-                    Colonial Lands and Emigration, <lb/>and proved to be already under engagement
-                    for <lb/>the purpose.–By order of the Board, <lb/>
-            <hi rend="smallcaps">John Gliddon, Assis.-Sec.</hi>
+            <hi rend="smallcaps">Emigration to South Australia </hi>
+            <lb/>(<hi rend="italic">From Tuesday's Gazette</hi>.</p>
+         <p>Colonial Land and Emigration Office, 9 Park<lb break="no"/>street, Westminster, Oct. 1, 1841.–In reference <lb/>to the notice published in the<hi rend="italic">Royal Gazette</hi>  of the <lb/>6th of August last, to the effect that all emigrants <lb/>in respect of whom bounty was to be claimed in <lb/>New South Wales, must have left this country by <lb/>the 1st of November next, the Commissioners of <lb/>Land and Emigration do hereby give further no<lb break="no"/>tice, in pursuance of directions from her Majesty's <lb/>Secretary of State for the Colonies, that in order <lb/>to prevent the consequences which must ensue <lb/>if vessels should continue to be engaged until too <lb/>late to be dispatched by the required date, no <lb/>ships can be permitted to sail with a claim to <lb/>bounty from the Colonial Government beyond <lb/>those which shall be forthwith returned to the <lb/>Commissioners of Colonial Lands and Emigration, <lb/>and proved to be already under engagement for <lb/>the purpose.–By order of the Board, <lb/>
+            <hi rend="smallcaps">John Gliddon, Assis.-Sec.</hi> 
          </p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+      </body>
+   </text>
+</TEI>

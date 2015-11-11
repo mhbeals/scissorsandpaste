@@ -1,71 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>331</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by
-                            <persName role="transcription">
-                  <ref target="http://www.mhbeals.com/about">M. H.
-                        Beals</ref>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>331</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on 20130531 by<persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by
+<persName role="transcription">
+                  <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
                </persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitsed image available from
-                                Google News Archive</authority>
-                            <pubPlace>
-                                <address>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1791-07-18"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>Native Americans</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-            <pb n="5"/> A letter from Philadelphia <supplied reason="copy blur">???</supplied>, that the <lb/>most active preparations were making
-                        <supplied reason="copy blur">??? ???</supplied> of <lb/>the United States
-                    for recommencing the war with <lb/>the Miami Indians. Upwards of 1000 volunteers
-                    <lb/>had been raised in the States of Pennsylvania, <lb/>Jersey, and Delaware,
-                    in the course of six weeks, <lb/>and rendezvoused at Fort Pitt, from whence they
-                    <lb/>were to commence their warlike oeprations.</p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1791-07-18"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>Native Americans</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb n="5"/> A letter from Philadelphia<supplied reason="copy blur">???</supplied>, that the <lb/>most active preparations were making
+<supplied reason="copy blur">??? ???</supplied> of <lb/>the United States for recommencing the war with <lb/>the Miami Indians. Upwards of 1000 volunteers <lb/>had been raised in the States of Pennsylvania, <lb/>Jersey, and Delaware, in the course of six weeks, <lb/>and rendezvoused at Fort Pitt, from whence they <lb/>were to commence their warlike oeprations.</p>
+      </body>
+   </text>
+</TEI>

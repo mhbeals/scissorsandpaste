@@ -1,75 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>209</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>209</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1828-08-09"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>botany</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1828-08-09"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>botany</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>
-            <hi rend="italic">Bervic.</hi>–There has been raised this season on
-                    the <lb/>high lands of the farm of Hallgreen, belonging to Mr <lb/>Blair, a few
-                    acres of <hi rend="italic">Rib-grass</hi>, a native plant of New <lb/>South
-                    Wales. It was imported to this country two <lb/>years ago by a man who had
-                    served his time in Van <lb/>Dieman's Land. Its[?] favourite soil seems to be
-                    high <lb/>land or muir country, and is so rapid in growth, that it <lb/>appears
-                    not only to choke but to extirpate[?] every weed <lb/>with which it comes in
-                    contact. It is said to be the <lb/>best plant in the world both for feeding
-                    cattle, and for <lb/>producing mik from cows, of the best and richest qua<lb break="no"/>lity. Were the propiertors and tenants of the Highland
-                    <lb/>country to follow the enterprising conduct of Mr Blair, <lb/>we would soon
-                    see their hills covering with a truly useful <lb/>plant, instead of the useless
-                    heath, with at present, even <lb/>at best, only adorns them.</p>
-            </body>
-        </text>
-    </TEI>
+            <hi rend="italic">Bervic.</hi> –There has been raised this season on the <lb/>high lands of the farm of Hallgreen, belonging to Mr <lb/>Blair, a few acres of<hi rend="italic">Rib-grass</hi> , a native plant of New <lb/>South Wales. It was imported to this country two <lb/>years ago by a man who had served his time in Van <lb/>Dieman's Land. Its[?] favourite soil seems to be high <lb/>land or muir country, and is so rapid in growth, that it <lb/>appears not only to choke but to extirpate[?] every weed <lb/>with which it comes in contact. It is said to be the <lb/>best plant in the world both for feeding cattle, and for <lb/>producing mik from cows, of the best and richest qua<lb break="no"/>lity. Were the propiertors and tenants of the Highland <lb/>country to follow the enterprising conduct of Mr Blair, <lb/>we would soon see their hills covering with a truly useful <lb/>plant, instead of the useless heath, with at present, even <lb/>at best, only adorns them.</p>
+      </body>
+   </text>
+</TEI>

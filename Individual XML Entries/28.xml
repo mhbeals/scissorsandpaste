@@ -1,89 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>28</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>28</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-11-23"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>Native Americans</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="center">
-                        <hi rend="italic">Extract of a letter from a gentleman in
-                            Danville,<lb/>(Kentucky) to his friend in Baltimore</hi>
-                    </hi>
-                </p>
-                <p>"It is with great concern I communicate to <lb/>you the following truly
-                    melancholy intelligence: <lb/>–About three weeks ago, Mr. Richard
-                        Cheno<lb break="no"/>weth, had six or eight men allowed him, by the
-                    <lb/>officer of the garrison at the Falls, to guard his <lb/>exposed plantation,
-                    in Bear Crab Settlement, be<lb break="no"/>low the Falls. In the evening of
-                    their arrival, <lb/>before they had taken their station as a guard, <lb/>a
-                    number of Indians rushed into Mr. Chenoweth's <lb/>house, killed two of the
-                    soldiers, and three of Mr. <lb/>Chenoweth's children, and tomahawked and
-                        scalp<lb break="no"/>ed his wife, leaving her on the floor for dead–
-                    <lb/>Mr. Chenoweth, (who had his arm broke by the <lb/>savages) with the rest of
-                    the men, made their <lb/>escape.–There was one of Mr. Chenoweth's
-                    <lb/>children sick, in a chamber, and, it is reported, <lb/>she never heard any
-                    thing of the dreadful massacre; <lb/>but, next morning, crawling down stairs,
-                    she was <lb/>inexpressibly shocked at the sight of a beloved pa<lb break="no"/>rent almost breathless–Mr. Chenoweth returned <lb/>next day to his
-                    house, and carried his wife to a <lb/>neighbouring plantation, where they are
-                    both <lb/>likely to recover, and, what is remarkable, she <lb/>wants to return
-                    to her own house.–The savages <lb/>have been very troublesome in this
-                    neighbourhood. <lb/>–A small company are gone to White River, to
-                    <lb/>extirpate 80 or 90 Indians, who, as spies have in<lb break="no"/>formed,
-                    have upwards of 300 horses, &amp;c. at that <lb/>place."</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1789-11-23"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>Native Americans</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="center">
+               <hi rend="italic">Extract of a letter from a gentleman in Danville, <lb/>(Kentucky) to his friend in Baltimore</hi> 
+            </hi> 
+         </p>
+         <p>"It is with great concern I communicate to <lb/>you the following truly melancholy intelligence: <lb/>–About three weeks ago, Mr. Richard Cheno<lb break="no"/>weth, had six or eight men allowed him, by the <lb/>officer of the garrison at the Falls, to guard his <lb/>exposed plantation, in Bear Crab Settlement, be<lb break="no"/>low the Falls. In the evening of their arrival, <lb/>before they had taken their station as a guard, <lb/>a number of Indians rushed into Mr. Chenoweth's <lb/>house, killed two of the soldiers, and three of Mr. <lb/>Chenoweth's children, and tomahawked and scalp<lb break="no"/>ed his wife, leaving her on the floor for dead– <lb/>Mr. Chenoweth, (who had his arm broke by the <lb/>savages) with the rest of the men, made their <lb/>escape.–There was one of Mr. Chenoweth's <lb/>children sick, in a chamber, and, it is reported, <lb/>she never heard any thing of the dreadful massacre; <lb/>but, next morning, crawling down stairs, she was <lb/>inexpressibly shocked at the sight of a beloved pa<lb break="no"/>rent almost breathless–Mr. Chenoweth returned <lb/>next day to his house, and carried his wife to a <lb/>neighbouring plantation, where they are both <lb/>likely to recover, and, what is remarkable, she <lb/>wants to return to her own house.–The savages <lb/>have been very troublesome in this neighbourhood. <lb/>–A small company are gone to White River, to <lb/>extirpate 80 or 90 Indians, who, as spies have in<lb break="no"/>formed, have upwards of 300 horses, &amp;c. at that <lb/>place."</p>
+      </body>
+   </text>
+</TEI>

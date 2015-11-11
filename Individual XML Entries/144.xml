@@ -1,109 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>144</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Aberdeen Journal</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>144</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aberdeen Journal</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1819-06-02"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>colonial government</item>
-                            <item>law</item>
-                            <item>military</item>
-                            <item>post</item>
-                            <item>rebellion</item>
-                            <item>shipping news</item>
-                            <item>timber trade</item>
-                            <item>weather</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1819-06-02"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>colonial government</item>
+                  <item>law</item>
+                  <item>military</item>
+                  <item>post</item>
+                  <item>rebellion</item>
+                  <item>shipping news</item>
+                  <item>timber trade</item>
+                  <item>weather</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>Colonial Intelligence</p>
-                <p>Advices have been received again from the Cape of <lb/>Good Hope of 6th March,
-                    which are several days later <lb/>than those acquired formerly. Of the rising of
-                    the <lb/>Caffres there remains no doubt, although it does <lb/>not appear that
-                    Government have as yet received of<lb break="no"/>ficial information regarding
-                    it. The private accounts <lb/>state that two valuable officers had lost their
-                    lives, and <lb/>also a great number of men. The Governor himself <lb/>in order
-                    by his presence the sooner to suppress the Caf<lb break="no"/>fres, had, with a
-                    competent force, proceeded to the in<lb break="no"/>terior. Great inconvenience
-                    was experienced for the <lb/>want of cavalry in so extensive a country ; had not
-                    this <lb/>been the case, it was believed that in a very few days
-                    <lb/>tranquility would have been restored.</p>
-                <p>We are sorry to state that another hurricane has ta<lb break="no"/>ken place in
-                    the Isle of France ; it commenced on the <lb/>25th January, and has done great
-                    mischief to the ship<lb break="no"/>ping, and also to the plantations of that
-                    ill-fated Is<lb break="no"/>land.</p>
-                <p>A Dutch mail has arrived, with papers to the 19th <lb/>inst. At Batavia, two of
-                    the leaders of the late distur<lb break="no"/>bances have been tried and
-                    execute, and that degree <lb/>of tranquility which terror produces has been
-                    restored. <lb/>In the administration of their colonies in the east, the
-                    <lb/>conduct of the Dutch has always been cruel and op<lb break="no"/>pressive ;
-                    and it is to be regretted that the extensive <lb/>and fertile island of Java
-                    should have been surrendered <lb/>to their rapacity. During the short time that
-                    it was in <lb/>possession of this country, various important improve<lb break="no"/>ments were introduced into its domestic administration ;
-                    <lb/>the practise of torture, according to the humane and <lb/>enlightened
-                    maxims of British jurisprudence, was abo<lb break="no"/>lished ; new and better
-                    modes of collecting the revenue <lb/>were adopted ; and a spirit of mildness and
-                    of regard <lb/>for the interests of all the various classes of which the
-                    <lb/>population is composed, was evinced, which made the <lb/>British Government
-                    highly popular.</p>
-                <p>Considerable anxiety prevails among the merchants <lb/>for the safety of the
-                    Queen Charlotte, Jamaica packet. <lb/>She sailed from Jamaica the 29th March,
-                    and had a <lb/>great quantity of specie on board. No things have <lb/>since been
-                    received of her. Several vessels sailed since <lb/>her departure, and have
-                    arrived safe. The Ocean quit<lb break="no"/>ted Jamaica on the 6th of April, and
-                    arrived here se<lb break="no"/>veral days since.</p>
-                <p>Several passengers landed at Portsmouth on Thurs<lb break="no"/>day from Jamaica,
-                    bring Port Royal Papers to the <lb/>25th of March. The 50th Regiment had arrived
-                    at <lb/>Kingston, from Cork ; and the 2nd West India Regi<lb break="no"/>ment
-                    was about to embark for Sierra Leone to be dis<lb break="no"/>banded.</p>
-            </body>
-        </text>
-    </TEI>
+         <p>Advices have been received again from the Cape of <lb/>Good Hope of 6th March, which are several days later <lb/>than those acquired formerly. Of the rising of the <lb/>Caffres there remains no doubt, although it does <lb/>not appear that Government have as yet received of<lb break="no"/>ficial information regarding it. The private accounts <lb/>state that two valuable officers had lost their lives, and <lb/>also a great number of men. The Governor himself <lb/>in order by his presence the sooner to suppress the Caf<lb break="no"/>fres, had, with a competent force, proceeded to the in<lb break="no"/>terior. Great inconvenience was experienced for the <lb/>want of cavalry in so extensive a country ; had not this <lb/>been the case, it was believed that in a very few days <lb/>tranquility would have been restored.</p>
+         <p>We are sorry to state that another hurricane has ta<lb break="no"/>ken place in the Isle of France ; it commenced on the <lb/>25th January, and has done great mischief to the ship<lb break="no"/>ping, and also to the plantations of that ill-fated Is<lb break="no"/>land.</p>
+         <p>A Dutch mail has arrived, with papers to the 19th <lb/>inst. At Batavia, two of the leaders of the late distur<lb break="no"/>bances have been tried and execute, and that degree <lb/>of tranquility which terror produces has been restored. <lb/>In the administration of their colonies in the east, the <lb/>conduct of the Dutch has always been cruel and op<lb break="no"/>pressive ; and it is to be regretted that the extensive <lb/>and fertile island of Java should have been surrendered <lb/>to their rapacity. During the short time that it was in <lb/>possession of this country, various important improve<lb break="no"/>ments were introduced into its domestic administration ; <lb/>the practise of torture, according to the humane and <lb/>enlightened maxims of British jurisprudence, was abo<lb break="no"/>lished ; new and better modes of collecting the revenue <lb/>were adopted ; and a spirit of mildness and of regard <lb/>for the interests of all the various classes of which the <lb/>population is composed, was evinced, which made the <lb/>British Government highly popular.</p>
+         <p>Considerable anxiety prevails among the merchants <lb/>for the safety of the Queen Charlotte, Jamaica packet. <lb/>She sailed from Jamaica the 29th March, and had a <lb/>great quantity of specie on board. No things have <lb/>since been received of her. Several vessels sailed since <lb/>her departure, and have arrived safe. The Ocean quit<lb break="no"/>ted Jamaica on the 6th of April, and arrived here se<lb break="no"/>veral days since.</p>
+         <p>Several passengers landed at Portsmouth on Thurs<lb break="no"/>day from Jamaica, bring Port Royal Papers to the <lb/>25th of March. The 50th Regiment had arrived at <lb/>Kingston, from Cork ; and the 2nd West India Regi<lb break="no"/>ment was about to embark for Sierra Leone to be dis<lb break="no"/>banded.</p>
+      </body>
+   </text>
+</TEI>

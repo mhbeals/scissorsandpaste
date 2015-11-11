@@ -1,102 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>298</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Scotsman</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>298</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotsman</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1841-03-31"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">New South Wales</hi>
-                </p>
-                <p>
-            <hi rend="smallcaps">Mr Grote</hi> rose to move a series of resolutions in con<lb break="no"/>
-                    <lb/>demnation of the application of a part of the Land and Emi<lb break="no"/>gration Fund of New South Wales to the maintenance of <lb/>gaols and police in
-                    that colony. It was in 1831 that this ex<lb break="no"/>pense, antecedently
-                    borne by the Home Government, was <lb/>for the first time thrown upon the
-                    colony, whose revenues <lb/>were then found to yield considerable surplus of
-                    revenue <lb/>beyond expenditure. The charge so imposed at that time was
-                    <lb/>calculated to be about t25,000 a year ; and had that been all <lb/>the
-                    colony would have borne it without a murmur; but in <lb/>fact it had ever since
-                    averaged nearly t60,000. It was not <lb/>reasonable to impose such a charge on
-                    the colony, on account <lb/>of gaols and police, constituted not the ordinary
-                    uses of <lb/>a colonial society, but for the peculiar purposes of our trans<lb break="no"/>portation system. The argument urged by the Home Govern<lb break="no"/>ment was, that the expense was chiefly caused by the extensive
-                    <lb/>distribution of convicts by assignment throughout the colony, <lb/>whose
-                    settlers drew a proportional profit from the labour so <lb/>assigned. But that
-                    assignment was a gain, not more to the <lb/>colonists, who obtained the labour,
-                    than to the mother country, <lb/>which saved the expense of maintaing the
-                    labourers. What<lb break="no"/>ever value the mother country might be entitled
-                    to claim <lb/>for the labour of the convicts, ought in strictness to fall, not
-                    <lb/>on the colony at large, but on the individual employers; and <lb/>if there
-                    were valid reasons against an exaction of premium <lb/>from them, still it was
-                    unjust to throw the obligation upon <lb/>the colony at large. That was to pay
-                    private wages out of <lb/>public rates. This one charge on the oclony was
-                    sufficient <lb/>on account for all that embarassment in its finances which
-                    <lb/>had been growing for the last six years. It had been enabled <lb/>to defray
-                    the impact, only by resorting to the emigra<lb break="no"/>tion fund, and thus
-                    checking emigration itself. No <lb/>less than t260,000 had been abstracted from
-                    that fund to <lb/>meet these costs of jails and police. The diversion of that
-                    <lb/>fund from emigration was a great evil, both to the colony, <lb/>where
-                    labour is so pressingly needed, and to the poor of this <lb/>country, to whom
-                    that refuge is so material. He considered <lb/>the emigration fund as held by
-                    the Government in trust for <lb/>the united intersts of the colony and of the
-                    mother country. <lb/>The great extent of sales of land in the colony had been
-                    <lb/>[?] owing to the belief of the colonists that the proceed<lb break="no"/>[?] would be applied to emigration.</p>
-                <p>The hon. member was proceeding to cite the opinions of <lb/>various persons in
-                    favour of this strict application, when a mo<lb break="no"/>tion was made to
-                    count the House, and it adjourned for want <lb/>of its quorum[?] of 40 members.
-                </p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1841-03-31"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">New South Wales</hi> 
+         </p>
+         <p>
+            <hi rend="smallcaps">Mr Grote</hi>  rose to move a series of resolutions in con<lb break="no"/> 
+            <lb/>demnation of the application of a part of the Land and Emi<lb break="no"/>gration Fund of New South Wales to the maintenance of <lb/>gaols and police in that colony. It was in 1831 that this ex<lb break="no"/>pense, antecedently borne by the Home Government, was <lb/>for the first time thrown upon the colony, whose revenues <lb/>were then found to yield considerable surplus of revenue <lb/>beyond expenditure. The charge so imposed at that time was <lb/>calculated to be about t25,000 a year ; and had that been all <lb/>the colony would have borne it without a murmur; but in <lb/>fact it had ever since averaged nearly t60,000. It was not <lb/>reasonable to impose such a charge on the colony, on account <lb/>of gaols and police, constituted not the ordinary uses of <lb/>a colonial society, but for the peculiar purposes of our trans<lb break="no"/>portation system. The argument urged by the Home Govern<lb break="no"/>ment was, that the expense was chiefly caused by the extensive <lb/>distribution of convicts by assignment throughout the colony, <lb/>whose settlers drew a proportional profit from the labour so <lb/>assigned. But that assignment was a gain, not more to the <lb/>colonists, who obtained the labour, than to the mother country, <lb/>which saved the expense of maintaing the labourers. What<lb break="no"/>ever value the mother country might be entitled to claim <lb/>for the labour of the convicts, ought in strictness to fall, not <lb/>on the colony at large, but on the individual employers; and <lb/>if there were valid reasons against an exaction of premium <lb/>from them, still it was unjust to throw the obligation upon <lb/>the colony at large. That was to pay private wages out of <lb/>public rates. This one charge on the oclony was sufficient <lb/>on account for all that embarassment in its finances which <lb/>had been growing for the last six years. It had been enabled <lb/>to defray the impact, only by resorting to the emigra<lb break="no"/>tion fund, and thus checking emigration itself. No <lb/>less than t260,000 had been abstracted from that fund to <lb/>meet these costs of jails and police. The diversion of that <lb/>fund from emigration was a great evil, both to the colony, <lb/>where labour is so pressingly needed, and to the poor of this <lb/>country, to whom that refuge is so material. He considered <lb/>the emigration fund as held by the Government in trust for <lb/>the united intersts of the colony and of the mother country. <lb/>The great extent of sales of land in the colony had been <lb/>[?] owing to the belief of the colonists that the proceed<lb break="no"/>[?] would be applied to emigration.</p>
+         <p>The hon. member was proceeding to cite the opinions of <lb/>various persons in favour of this strict application, when a mo<lb break="no"/>tion was made to count the House, and it adjourned for want <lb/>of its quorum[?] of 40 members.</p>
+      </body>
+   </text>
+</TEI>

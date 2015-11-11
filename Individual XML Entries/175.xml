@@ -1,144 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>175</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Aberdeen Journal</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>175</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aberdeen Journal</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1821-01-31"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1821-01-31"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>Colonial Intelligence</p>
-                <p>
-            <hi rend="italic">Success of the Cutch Expedition against the Sindeans</hi>
-                    <lb/>–The following extract of a letter from Bombay <lb/>bringing this
-                    intelligence, we copy from Carrick's <lb/>Post, which appears to have exclusive
-                    means of obtain<lb break="no"/>ing information on India affairs:–</p>
-                <p>"Bombay, Sept. 12, 1820. <lb/>"While I was seeing the last of your goods on
-                    <lb/>board, last night, a vessel arrived in the harbour hav<lb break="no"/>ing
-                    on board an officer from Cutch, who was the hear<lb break="no"/>er of the
-                    official intelligence of the complete success <lb/>of Sir Charles Culville's
-                    expedition against the Sin<lb break="no"/>deans. The expedition consisted of
-                    12,000 men, <lb/>commanded by his Excellency the Commander in <lb/>Chief ; from
-                    all I could clean of intellience from the <lb/>followers, it appeared there had
-                    been some hard fight<lb break="no"/>ing for five days ; but it ended, as might
-                    be anticipat<lb break="no"/>ed, from the imposing force sent against the
-                    Sindeans. <lb/>The moment the officer (who is one of the Staff, and <lb/>an
-                    Irishman) landed, he set out for the Government <lb/>House, to inform Lady
-                    Colville of the event, as it <lb/>must be supposed she was in a state og
-                    anxiety, her <lb/>husband being the commander, and her brother, and <lb/>her
-                    uncle, Colonel T. Blair, being also on the expe<lb break="no"/>dition. At
-                    day-light this morning orders arrived from <lb/>the Government House, to secure
-                    a passage and pri<lb break="no"/>vate cabin for the officer in th ship which
-                    takes this <lb/>to England, but there was no such accomodation, as <lb/>the
-                    cabins were all full ; and as another vessel will not <lb/>sail from thence
-                    about ten days, this and will be off <lb/>to-day, the chance is, you will have
-                    this letter at least <lb/>six weeks before the officers can reach England with
-                    <lb/>the official intelligence. All kinds of European pro<lb break="no"/>duce
-                    are a drug hee, paricularly fine goods ; and <lb/>rum, brandy, and geneva, are
-                    for a song. The cho<lb break="no"/>lera has rather abated, but still rages in a
-                    frightful <lb/>manner."</p>
-                <p>The Rio Janeiro packet arrived on Tuesday with let<lb break="no"/>ters to the
-                    21st of November. Advices had been re<lb break="no"/>ceived from Rio Grande,
-                    stating that Artigas had been <lb/>taken prisoner. The Portuguese frigate,
-                    Union, had <lb/>captured two insurgent privateers which had been com<lb break="no"/>mitting depredations on the coast. The events in Por<lb break="no"/>tugal, owing to which, as well as to the idea that the <lb/>King
-                    would be prudent enough to sanction what had <lb/>taken place in Portugal, the
-                    prices of produce had ex<lb break="no"/>perienced very trifling alteration,
-                    though, if the con<lb break="no"/>trary should be the case, a considerable rise
-                    was anti<lb break="no"/>cipated. The following relates to what is passing in
-                    <lb/>Peru :–</p>
-                <p>Extract of a letter from Rio Janeiro, dated Novem<lb break="no"/>ber 20
-                    :–" The Chilians have at length carried into <lb/>effect their boasted
-                    expedition, which left Valparaiso <lb/>on the 21st August, and arrived at Pisco
-                    at the begin<lb break="no"/>ning of September. San Martin landed 4,500 men,
-                    <lb/>but the blacks, cattle, &amp;c. had all been previously sent <lb/>away from
-                    the estates in that quarter, so that they will <lb/>be disappointed in meeting
-                    with partisans ; indeed the <lb/>slaves and lower orders, whom they expected to
-                    find <lb/>favourable to their views, are the most irritated against <lb/>the
-                    insurgents. We have letters from Lima to the 12th <lb/>September, which speaks
-                    of the little apprehensions en<lb break="no"/>tertained of San Martin and his
-                    troops, the Viceroy <lb/>having a formidable force, in the capital and vicinity,
-                    <lb/>of 8,000 men, commanded by good officers. The <lb/>Viceroy, is
-                    Commander-in-Chief, La Serna, second, <lb/>and La Mar and O'Reilly command
-                    divisions. They <lb/>were observin San Martin's movements who already
-                    <lb/>experienced the difficulties of subsisting his men. The <lb/>Marquis of
-                    Vallembrozo was on his flank, with a <lb/>strong detachment of cavalry, with a
-                    view to prevent <lb/>him from sending emissaries into the interior, and col<lb break="no"/>lecting horses. It is thought the insurgents will soon <lb/>have
-                    to re-embark ; for, as soon as they are a little <lb/>pressed for provisions,
-                    and fighting comes on, num<lb break="no"/>bers will desert. Those who have
-                    already come over <lb/>describe their situation as very critical. Two vessels,
-                    <lb/>one an English, and the other a French, were prepar<lb break="no"/>ing to
-                    sail from Callao for this place, and by them we <lb/>shall receive further
-                    particulars. The most enthusias<lb break="no"/>tic preparations were making in
-                    Lima to proclaim the <lb/>constitution in a formal manner, for which purpose
-                    <lb/>orders had been received from Madrid. This of itself <lb/>is sufficient to
-                    defeat all views Cochrane and San Mar<lb break="no"/>tin may have on the
-                    country, except, as before, a lit<lb break="no"/>tle plunder on the open and
-                    defenceless parts of the <lb/>coast.</p>
-                <p>Letters from Sierra Leone, dated the 24th of Nov. <lb/>mention that the whole
-                    squadron was lying there.– <lb/>The Pheasant, Myrmidon, Snapper, and
-                    Thistle, were <lb/>lying off the Cape, waiting for the Morgiana to com<lb break="no"/>plete her water, provisions, &amp;c. which ship was oblig<lb break="no"/>ed to be assisted by the squadron, in consequence of <lb/>her
-                    very sickly state. She had recently arrived from <lb/>the River Gambia, whither
-                    she had proceeded in dread <lb/>of attack by the natives on our infant colony
-                    there. <lb/>A letter of thanks had been voted to Captain Finlason, <lb/>by the
-                    merchants of that colony, for the very able man<lb break="no"/>ner in which he
-                    brought to an amicable conclusion the <lb/>differences between the Native Chiefs
-                    and the British <lb/>interests in the Gambia. The Morgania brought from <lb/>the
-                    Gambia, Dr Dochard and forty-six men belong<lb break="no"/>ing to the mission
-                    under Major Gray, for exploring <lb/>Africa. Dr D. had been at Sago ; but, in
-                        conse<lb break="no"/>quence of internal wars, he was unable to proceed
-                    <lb/>further. Major Gray was there with very few men ; <lb/>he will not proceed
-                    further for some time.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+         <p>
+            <hi rend="italic">Success of the Cutch Expedition against the Sindeans </hi>
+            <lb/>–The following extract of a letter from Bombay <lb/>bringing this intelligence, we copy from Carrick's <lb/>Post, which appears to have exclusive means of obtain<lb break="no"/>ing information on India affairs:–</p>
+         <p>"Bombay, Sept. 12, 1820. <lb/>"While I was seeing the last of your goods on <lb/>board, last night, a vessel arrived in the harbour hav<lb break="no"/>ing on board an officer from Cutch, who was the hear<lb break="no"/>er of the official intelligence of the complete success <lb/>of Sir Charles Culville's expedition against the Sin<lb break="no"/>deans. The expedition consisted of 12,000 men, <lb/>commanded by his Excellency the Commander in <lb/>Chief ; from all I could clean of intellience from the <lb/>followers, it appeared there had been some hard fight<lb break="no"/>ing for five days ; but it ended, as might be anticipat<lb break="no"/>ed, from the imposing force sent against the Sindeans. <lb/>The moment the officer (who is one of the Staff, and <lb/>an Irishman) landed, he set out for the Government <lb/>House, to inform Lady Colville of the event, as it <lb/>must be supposed she was in a state og anxiety, her <lb/>husband being the commander, and her brother, and <lb/>her uncle, Colonel T. Blair, being also on the expe<lb break="no"/>dition. At day-light this morning orders arrived from <lb/>the Government House, to secure a passage and pri<lb break="no"/>vate cabin for the officer in th ship which takes this <lb/>to England, but there was no such accomodation, as <lb/>the cabins were all full ; and as another vessel will not <lb/>sail from thence about ten days, this and will be off <lb/>to-day, the chance is, you will have this letter at least <lb/>six weeks before the officers can reach England with <lb/>the official intelligence. All kinds of European pro<lb break="no"/>duce are a drug hee, paricularly fine goods ; and <lb/>rum, brandy, and geneva, are for a song. The cho<lb break="no"/>lera has rather abated, but still rages in a frightful <lb/>manner."</p>
+         <p>The Rio Janeiro packet arrived on Tuesday with let<lb break="no"/>ters to the 21st of November. Advices had been re<lb break="no"/>ceived from Rio Grande, stating that Artigas had been <lb/>taken prisoner. The Portuguese frigate, Union, had <lb/>captured two insurgent privateers which had been com<lb break="no"/>mitting depredations on the coast. The events in Por<lb break="no"/>tugal, owing to which, as well as to the idea that the <lb/>King would be prudent enough to sanction what had <lb/>taken place in Portugal, the prices of produce had ex<lb break="no"/>perienced very trifling alteration, though, if the con<lb break="no"/>trary should be the case, a considerable rise was anti<lb break="no"/>cipated. The following relates to what is passing in <lb/>Peru :–</p>
+         <p>Extract of a letter from Rio Janeiro, dated Novem<lb break="no"/>ber 20 :–" The Chilians have at length carried into <lb/>effect their boasted expedition, which left Valparaiso <lb/>on the 21st August, and arrived at Pisco at the begin<lb break="no"/>ning of September. San Martin landed 4,500 men, <lb/>but the blacks, cattle, &amp;c. had all been previously sent <lb/>away from the estates in that quarter, so that they will <lb/>be disappointed in meeting with partisans ; indeed the <lb/>slaves and lower orders, whom they expected to find <lb/>favourable to their views, are the most irritated against <lb/>the insurgents. We have letters from Lima to the 12th <lb/>September, which speaks of the little apprehensions en<lb break="no"/>tertained of San Martin and his troops, the Viceroy <lb/>having a formidable force, in the capital and vicinity, <lb/>of 8,000 men, commanded by good officers. The <lb/>Viceroy, is Commander-in-Chief, La Serna, second, <lb/>and La Mar and O'Reilly command divisions. They <lb/>were observin San Martin's movements who already <lb/>experienced the difficulties of subsisting his men. The <lb/>Marquis of Vallembrozo was on his flank, with a <lb/>strong detachment of cavalry, with a view to prevent <lb/>him from sending emissaries into the interior, and col<lb break="no"/>lecting horses. It is thought the insurgents will soon <lb/>have to re-embark ; for, as soon as they are a little <lb/>pressed for provisions, and fighting comes on, num<lb break="no"/>bers will desert. Those who have already come over <lb/>describe their situation as very critical. Two vessels, <lb/>one an English, and the other a French, were prepar<lb break="no"/>ing to sail from Callao for this place, and by them we <lb/>shall receive further particulars. The most enthusias<lb break="no"/>tic preparations were making in Lima to proclaim the <lb/>constitution in a formal manner, for which purpose <lb/>orders had been received from Madrid. This of itself <lb/>is sufficient to defeat all views Cochrane and San Mar<lb break="no"/>tin may have on the country, except, as before, a lit<lb break="no"/>tle plunder on the open and defenceless parts of the <lb/>coast.</p>
+         <p>Letters from Sierra Leone, dated the 24th of Nov. <lb/>mention that the whole squadron was lying there.– <lb/>The Pheasant, Myrmidon, Snapper, and Thistle, were <lb/>lying off the Cape, waiting for the Morgiana to com<lb break="no"/>plete her water, provisions, &amp;c. which ship was oblig<lb break="no"/>ed to be assisted by the squadron, in consequence of <lb/>her very sickly state. She had recently arrived from <lb/>the River Gambia, whither she had proceeded in dread <lb/>of attack by the natives on our infant colony there. <lb/>A letter of thanks had been voted to Captain Finlason, <lb/>by the merchants of that colony, for the very able man<lb break="no"/>ner in which he brought to an amicable conclusion the <lb/>differences between the Native Chiefs and the British <lb/>interests in the Gambia. The Morgania brought from <lb/>the Gambia, Dr Dochard and forty-six men belong<lb break="no"/>ing to the mission under Major Gray, for exploring <lb/>Africa. Dr D. had been at Sago ; but, in conse<lb break="no"/>quence of internal wars, he was unable to proceed <lb/>further. Major Gray was there with very few men ; <lb/>he will not proceed further for some time.</p>
+      </body>
+   </text>
+</TEI>

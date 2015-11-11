@@ -1,113 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>156</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Aberdeen Journal</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>156</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aberdeen Journal</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1819-11-10"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1819-11-10"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>Colonial Intelligence</p>
-                <p>
-            <hi rend="smallcaps">Spanish Town, Jamaica</hi>–August 31.</p>
-                <p>The mail will convey to you sufficiently afflicting <lb/>news of the voyages
-                    which the fever is committing <lb/>amongst us. Part of the 92nd and 50th have
-                    made <lb/>their escape on board the Serapis 64, which has been <lb/>roofed to,
-                    and most handsomely and humanely given <lb/>up by the Admiral for the use of the
-                    troops. The <lb/>loss in men stands about thus: 59th[?], 200[?] ; 92d, 120.
-                    <lb/>The 58th and 81st are scattered[?] ; but from all I can <lb/>learn, their
-                    loss is not great. The following is a list <lb/>of the officers and their
-                    relatives who have fallen vic<lb break="no"/>tims in the course of this month :
-                    –</p>
-                <p>Lieut.-Colonel Sparrow, Deputy Adjt.-General. <lb/>Lieut.-Colonel [?], 52d
-                    regiment. <lb/>Lieut.-Colonel Hill th[?] regiment. <lb/>Major Rowe, 50th
-                    regiment, son-in-law of Pay<lb break="no"/>master Montgomery, of the 50th.
-                    <lb/>Mrs Rowe, wife of Major Rowe, whom she surviv<lb break="no"/>ed but a few
-                    hours, and daughter of Paymaster Mont<lb break="no"/>gomery. <lb/>Major
-                    Montgomery, 50th, son of Paymaster Mont<lb break="no"/>gomery. <lb/>Mrs
-                    Montgomery, wife of ditto. <lb/>Assistant Surgeon Brown, 50th, son in-law of do.
-                    <lb/>Lieut. Richardson, 50th. <lb/>Lieut. North[?], 50th. <lb/>Lieut. and
-                    Adjutant Lyon, 50th. <lb/>Two Misses Lyon, daughter of Adjutant Lyon.
-                    <lb/>Lieuts. R. M'Donald and George Mackie, 92d. <lb/>Ensign [?] [?]th
-                    <lb/>Doctor [?], Medical Staff. <lb/>Captain and Paymaster Turner, 58th.
-                    <lb/>The Misses Baxter, daughters of Quarter-Master <lb/>Baxter[?].</p>
-                <p>The scenes that have occurred during this awful <lb/>mortality have been most
-                    distressing. It has not been <lb/>confined to the military, for the inhabitants
-                    have even <lb/>out numbered them.</p>
-                <p>
-            <hi rend="italic">The Quebec Mercury</hi> of the [?] gives long extracts
-                    <lb/>from the American papers, respecting the [?] of a <lb/>large tract of
-                    country by the [?] Indians, to the <lb/>British Government, 2,748,000 acres,
-                    stretching from <lb/>the upper part of the midland[?] district towards the lower
-                    <lb/>part of the province, in the rear of the old settlements <lb/>on the
-                    Ottawa, and not in any manner coming into <lb/>contact with or approach within
-                    many miles of the <lb/>boundary of Louisiana. Yet, upon the supposition
-                    <lb/>that Great Britain is thus extending her Canadian ter<lb break="no"/>ritory, the American Papers are loud in their invectives <lb/>against this
-                    country.</p>
-                <p>Letters have been received from Mogadoru[?], dated <lb/>the 28th September, which
-                    mention, that the plague <lb/>which had been for some time in the vicinity, had
-                    at <lb/>length broken out in that town. We are happy to add <lb/>however, that
-                    the deaths at that period were only three <lb/>or four each day, and it was then
-                    confined to the <lb/>Moors ; none of the Christians or Jews having fallen
-                    <lb/>victims to the pestilence. The weather being extreme<lb break="no"/>ly
-                    cold, great hopes were entertained that the further <lb/>progress of the disease
-                    would speedily be put a stop to <lb/>when trade, which then at a stand, would
-                    renew <lb/>its wanted[?] activity. The whole population of Moga<lb break="no"/>doru is between 10 and 12,000 persons ; by far the <lb/>greater part of whom
-                    consider it contrary to their reli<lb break="no"/>gious tenets to use any
-                    caution to prevent their taking <lb/>the infection ; and, in the event of their
-                    having it <lb/>would not, for the same reason, have recourse to any <lb/>means
-                    to counteract it.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+         <p>
+            <hi rend="smallcaps">Spanish Town, Jamaica</hi> –August 31.</p>
+         <p>The mail will convey to you sufficiently afflicting <lb/>news of the voyages which the fever is committing <lb/>amongst us. Part of the 92nd and 50th have made <lb/>their escape on board the Serapis 64, which has been <lb/>roofed to, and most handsomely and humanely given <lb/>up by the Admiral for the use of the troops. The <lb/>loss in men stands about thus: 59th[?], 200[?] ; 92d, 120. <lb/>The 58th and 81st are scattered[?] ; but from all I can <lb/>learn, their loss is not great. The following is a list <lb/>of the officers and their relatives who have fallen vic<lb break="no"/>tims in the course of this month : –</p>
+         <p>Lieut.-Colonel Sparrow, Deputy Adjt.-General. <lb/>Lieut.-Colonel [?], 52d regiment. <lb/>Lieut.-Colonel Hill th[?] regiment. <lb/>Major Rowe, 50th regiment, son-in-law of Pay<lb break="no"/>master Montgomery, of the 50th. <lb/>Mrs Rowe, wife of Major Rowe, whom she surviv<lb break="no"/>ed but a few hours, and daughter of Paymaster Mont<lb break="no"/>gomery. <lb/>Major Montgomery, 50th, son of Paymaster Mont<lb break="no"/>gomery. <lb/>Mrs Montgomery, wife of ditto. <lb/>Assistant Surgeon Brown, 50th, son in-law of do. <lb/>Lieut. Richardson, 50th. <lb/>Lieut. North[?], 50th. <lb/>Lieut. and Adjutant Lyon, 50th. <lb/>Two Misses Lyon, daughter of Adjutant Lyon. <lb/>Lieuts. R. M'Donald and George Mackie, 92d. <lb/>Ensign [?] [?]th <lb/>Doctor [?], Medical Staff. <lb/>Captain and Paymaster Turner, 58th. <lb/>The Misses Baxter, daughters of Quarter-Master <lb/>Baxter[?].</p>
+         <p>The scenes that have occurred during this awful <lb/>mortality have been most distressing. It has not been <lb/>confined to the military, for the inhabitants have even <lb/>out numbered them.</p>
+         <p>
+            <hi rend="italic">The Quebec Mercury</hi>  of the [?] gives long extracts <lb/>from the American papers, respecting the [?] of a <lb/>large tract of country by the [?] Indians, to the <lb/>British Government, 2,748,000 acres, stretching from <lb/>the upper part of the midland[?] district towards the lower <lb/>part of the province, in the rear of the old settlements <lb/>on the Ottawa, and not in any manner coming into <lb/>contact with or approach within many miles of the <lb/>boundary of Louisiana. Yet, upon the supposition <lb/>that Great Britain is thus extending her Canadian ter<lb break="no"/>ritory, the American Papers are loud in their invectives <lb/>against this country.</p>
+         <p>Letters have been received from Mogadoru[?], dated <lb/>the 28th September, which mention, that the plague <lb/>which had been for some time in the vicinity, had at <lb/>length broken out in that town. We are happy to add <lb/>however, that the deaths at that period were only three <lb/>or four each day, and it was then confined to the <lb/>Moors ; none of the Christians or Jews having fallen <lb/>victims to the pestilence. The weather being extreme<lb break="no"/>ly cold, great hopes were entertained that the further <lb/>progress of the disease would speedily be put a stop to <lb/>when trade, which then at a stand, would renew <lb/>its wanted[?] activity. The whole population of Moga<lb break="no"/>doru is between 10 and 12,000 persons ; by far the <lb/>greater part of whom consider it contrary to their reli<lb break="no"/>gious tenets to use any caution to prevent their taking <lb/>the infection ; and, in the event of their having it <lb/>would not, for the same reason, have recourse to any <lb/>means to counteract it.</p>
+      </body>
+   </text>
+</TEI>

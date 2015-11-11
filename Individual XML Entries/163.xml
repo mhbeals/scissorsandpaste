@@ -1,87 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>163</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Caledonian Mercury</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>163</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonian Mercury</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Edinburgh</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1820-04-24"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="smallcaps">Emigration</hi>
-                </p>
-                <p>Among the emigrants proceeding to seek ano<lb break="no"/>ther country on the
-                    shores of Southern Africa, <lb/>four vessels, containing above 600 souls, have
-                    <lb/>sailed from Liverpool, bound to the Cape of <lb/>Good Hope; three of them
-                    under the command <lb/>and direction of a naval officer, and one under
-                    <lb/>private superintendance. The public agent was <lb/>instructed to provide
-                    every accomodation which <lb/>could minister to the health or comfort of the
-                        fa<lb break="no"/>milies who were to embark</p>
-                <p>Thursday afternoon, the brig Alexander <lb/>sailed from Greenock with emigrants
-                    for Prince <lb/>Edward's island. This vessel had 85 pas<lb break="no"/>sengers
-                    on board, of which 17 were children.</p>
-                <p>On Friday the ship Alexander, Young, sailed <lb/>from Greenock for Quebec with 96
-                    passengers.</p>
-                <p>Extract of a letter, dated in Perth, Upper <lb/>Canada, 18th January –
-                    "Liberty and Equality <lb/>are the predominant principles here. A common
-                    <lb/>labourer from Scotland is entitled to a lot of <lb/>land. Whenever he finds
-                    he can subsist upon <lb/>his farm, he becomes as high as the best in the
-                    <lb/>township. Every settler, though ever so poor, <lb/>has a vote for the
-                    member for the township, <lb/>and has full liberty to speak at every meeting.
-                    <lb/>– It is nothing uncommon to see a poor Glasgow <lb/>weaver, who came
-                    among us with scarce a stitch <lb/>to cover his nakedness, strutting between the
-                    <lb/>stumps of his trees as pompous as an Ediburgh <lb/>Magistrate."</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1820-04-24"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="smallcaps">Emigration</hi> 
+         </p>
+         <p>Among the emigrants proceeding to seek ano<lb break="no"/>ther country on the shores of Southern Africa, <lb/>four vessels, containing above 600 souls, have <lb/>sailed from Liverpool, bound to the Cape of <lb/>Good Hope; three of them under the command <lb/>and direction of a naval officer, and one under <lb/>private superintendance. The public agent was <lb/>instructed to provide every accomodation which <lb/>could minister to the health or comfort of the fa<lb break="no"/>milies who were to embark</p>
+         <p>Thursday afternoon, the brig Alexander <lb/>sailed from Greenock with emigrants for Prince <lb/>Edward's island. This vessel had 85 pas<lb break="no"/>sengers on board, of which 17 were children.</p>
+         <p>On Friday the ship Alexander, Young, sailed <lb/>from Greenock for Quebec with 96 passengers.</p>
+         <p>Extract of a letter, dated in Perth, Upper <lb/>Canada, 18th January – "Liberty and Equality <lb/>are the predominant principles here. A common <lb/>labourer from Scotland is entitled to a lot of <lb/>land. Whenever he finds he can subsist upon <lb/>his farm, he becomes as high as the best in the <lb/>township. Every settler, though ever so poor, <lb/>has a vote for the member for the township, <lb/>and has full liberty to speak at every meeting. <lb/>– It is nothing uncommon to see a poor Glasgow <lb/>weaver, who came among us with scarce a stitch <lb/>to cover his nakedness, strutting between the <lb/>stumps of his trees as pompous as an Ediburgh <lb/>Magistrate."</p>
+      </body>
+   </text>
+</TEI>

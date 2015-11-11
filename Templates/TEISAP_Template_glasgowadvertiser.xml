@@ -3,13 +3,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>382</title>
             </titleStmt>
             <publicationStmt>
-                <authority> Collected from a digital image on <date when="">
-                </date> by <persName role="collection">M. H. Beals</persName>.
-                    Transcribed on <date when="2015-01-"></date> by 
-                    <persName role="transcription">M. H. Beals</persName>.</authority>
+                <authority> Collected from a digital image on <date when="2013-02-25">20130225</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-11-11">20151111</date> by <persName role="transcription">M. H. Beals</persName>.
+                </authority>
                 <availability>
                     <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
                 </availability>
@@ -28,7 +26,7 @@
                                 <country>United Kingdom</country>
                             </address>
                         </pubPlace>
-                        <date when=""/>
+                        <date when="1789-09-28"/>
                     </publicationStmt>
                 </biblFull>
             </sourceDesc>
@@ -37,17 +35,19 @@
             <textDesc>
                 <channel mode="w"/>
                 <constitution type="single"/>
-                <derivation type="original"/>
+                <derivation type="plagiarism"/>
                 <domain type="public"/>
                 <factuality type="mixed"/>
-                <interaction type="none" active="corporate" passive="world"/>
+                <interaction type="none" active="single" passive="unknown"/>
                 <preparedness type="revised"/>
-                <purpose type=""/>
+                <purpose type="inform"/>
             </textDesc>
             <textClass>
                 <keywords>
                     <list>
-                        <item></item>
+                        <item>trade</item>
+                        <item>Anglo-American relations</item>
+                        <item>colonial government</item>
                     </list>
                 </keywords>
             </textClass>
@@ -55,9 +55,8 @@
     </teiHeader>
     <text>
         <body>
-            <p>
-                <pb n=""/>
-            </p>
+            <p><pb n="7"/><hi ref="italic"><supplied reason="copy missing">Extra</supplied>ct of a letter from London, Sept</hi>. 24.</p>
+            <p><supplied reason="copy missing">???</supplied> the new duties established by Congress <lb/><supplied reason="copy missing">???</supplied> on goods are the same through all the <lb/><supplied reason="copy missing">???</supplied> States, are so trifling are they in com<lb break="no"/><supplied reason="copy missing">parison o</supplied>f the taxes placed in any part of Eu<lb break="no"/><supplied reason="copy missing">rope o</supplied>n goods imported from Britain&#x2013;many <lb/><supplied reason="copy missing">are onl</supplied>y a 1-half per cent, and the highest <lb/><supplied reason="copy missing">??? percent</supplied>. Some very few articles except<lb break="no"/><supplied reason="copy missing">ed ???</supplied> clearly point out, that without British <lb/><supplied reason="copy missing">??? customs</supplied> they cannot subsist. Our merchants <lb/><supplied reason="copy missing">???</supplied>ly are exporting immense quantities of <lb/><supplied reason="copy missing">these to</supplied> the Thirteen United States, not only <lb/><supplied reason="copy missing">from Lon</supplied>don, but from Liverpool, Bristol, &amp;c. <lb/><supplied reason="copy missing">it is doub</supplied>tful but that many of the adventurers <lb/><supplied reason="copy missing">???</supplied>de may be obliged to bring back their <lb/><supplied reason="copy missing">???</supplied> sell them far below their cost in Eng<lb break="no"/><supplied reason="copy missing">land and</supplied> thereby ruin themselves.&#x2013;It is a pity <lb/><supplied reason="copy missing">Gove</supplied>rnment could put a stop to these expor<lb break="no"/><supplied reason="copy missing">ts ???</supplied> when they exceed the consumption of<lb/><supplied reason="copy missing">???</supplied></p>
         </body>
     </text>
 </TEI>

@@ -1,318 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>371</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority> Collected from a digital image on <date when="2013-06-08">20130608</date> by <persName role="collection">M. H. Beals</persName>.
-                        Transcribed on <date when="2015-02-11">20150215</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from
-                                    <ref target="http://news.google.com/newspapers?id=OFk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=2349%2C7966975"/>Google News Archive</authority>
-                            <pubPlace>
-                                <address> 
-                        <settlement>Glasgow</settlement> 
-                        <region>Scotland</region> 
-                        <country>United Kingdom</country> 
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>371</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority> Collected from a digital image on<date when="2013-06-08">20130608</date> by<persName role="collection">M. H. Beals</persName>. Transcribed on<date when="2015-02-11">20150215</date> by<persName role="transcription">M. H. Beals</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain. Digitised image available from
+<ref target="http://news.google.com/newspapers?id=OFk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=2349%2C7966975"/>Google News Archive</authority>
+                  <pubPlace>
+                     <address>
+                        <settlement>Glasgow</settlement>
+                        <region>Scotland</region>
+                        <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1793-12-13"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="plagiarism"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>Native Americans</item>
-                            <item>Anglo-American relations</item>
-                            <item>disease</item>
-                            <item>obituary</item>
-                            <item>crime</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <head>AMERICAN STATES.</head>
-                <p>
-                    <pb n="1"/>
-                    <hi rend="center">
-               <hi rend="italic">Extracts from the</hi>
-                        <hi rend="smallcaps">New-York Daily Advertiser</hi>.</hi>
-                </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">Pittsburgh</hi>, <hi rend="italic">Sept</hi>. 7.</hi>
-                </p>
-                <p>SUNDAY last arrived an express in this town from the <lb/>commissioners who were
-                    sent to treat with the Indians: <lb/>he had left the commissioners on this side
-                    of Lake Erie, that <lb/>day eight days. They had been met at Niagara by Indian
-                    <lb/>commissioners, and with them had sailed in separate vessels <lb/>to the
-                    mouth of Detroit river 18 miles from Detroit, where <lb/>our commissioners were
-                    directed to remain, until an as<lb break="no"/>swer should be brought from the
-                    great council of In<lb break="no"/>dian nations assembled at the rapids of the
-                    Miami and the <lb/>Lake. On the 2d of August an answer was brought to <lb/>this
-                    effect that the only terms onw hich peace could be <lb/>made was our ceding the
-                    country on the west of the Ohio <lb/>and Allegheny rivers. The commissioners
-                    suggested the <lb/>impossibilities of doing this, as the lands had been sold by
-                    the Congress, and people had settled on them, but that the <lb/>United States
-                    would be willing to give more goods than <lb/>they had given at any other time.
-                    The Indians replied <lb/>that if the Congress would give one half these goods to
-                    the people that had settled, the would leave the land, and <lb/>remove the
-                    difficulty. Our commissioners replied that the <lb/>land they must have, and
-                    would not give it up. The In<lb break="no"/>dians said it was well, and there
-                    need no more be said. <lb/>However desired them to remain if they thought proper
-                    <lb/>until they returned to the council, and laid this before them. <lb/>On the
-                    16th of August two Indians came and informed that the final result of their
-                    deliberations was the country <lb/>in question or war. The express is of opinion
-                    from the <lb/>language of individual Indians in private, and from other
-                    <lb/>circumstances, that the British wholly conduct their council, <lb/>and
-                    dictate their demands. </p>
-                <p> By the arrival of some person from Fort Washington on <lb/>Monday last, we are
-                    informed, that the Indians still conti<lb break="no"/>ue hovering about our
-                    garrisons, and occasionally stealing <lb/>horses, that the army is in high
-                    spirits, anxiously waiting <lb/>the event of the treaty, and hoping that a
-                    campaign will <lb/>take place, as no idea of peace is entertained by any one;
-                    <lb/>that the greatest pains has been taken by the commander <lb/>in chief, in
-                    training his men in the act wood fighting, <lb/>and that from their proficiency,
-                    and the <supplied reason="copy blur">???</supplied>imity pre<lb break="no"/>vailing throughout the whole army, success may be expec<lb break="no"/>ted
-                    should a campaign take place. </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">New York</hi>, <hi rend="italic">Sept</hi>. 17.</hi>
-                </p>
-                <p> A Mr. Spier was removed from his lodgings in this city <lb/>on Sunday last to
-                    Governors Island, where he died this <lb/>morning. He arrived from Philadelphia
-                    last Thursday, <lb/>was seized with Fever on Friday.–The Doctors pro<lb break="no"/>nounced it the malignant putrid fever, and the event prov<lb/>ed
-                    their opinion to be just. </p>
-                <p> According to a list published of the births and deaths in <lb/>the several
-                    religious societies of Philadelphia it appears that <lb/>from August 1, 1792 to
-                    August 1, 1793, the Births a<lb break="no"/>mounted to 2511, and the Death to
-                    1467." </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">Philadelphia</hi>, <hi rend="italic">Sept</hi>. 21.</hi>
-                </p>
-                <p> The stages for New-York returned to this city, with all <lb/>the passengers
-                    (mortified and fatigued.) One of the dri<lb break="no"/>vers had a very narrow
-                    escape with his life, being cruelly <lb/>fired upon at Trenton; the ball passing
-                    within a few inch<lb break="no"/>es of his head! The ladies, &amp;. have been
-                    without any re<lb break="no"/>freshment on the road, as the panic and terror
-                    with which every mind is possessed, by the writings and measures a<lb break="no"/>bove alluded to, prevented their obtaining any accommo<lb break="no"/>dations
-                    on the road–<hi rend="italic">O tell it not in Gath! declare it not in
-                        <lb/>the streets of Askelon</hi>! Ye <hi rend="italic">New Yorkers</hi> and
-                    ye <hi rend="italic">Baltimorians</hi>, <lb/>you have been generous to
-                    strangers; but forgot the cha<lb break="no"/>ritable and fraternal attention due
-                    to your own fellow-ci<lb break="no"/>tizens!" </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">Sept</hi>. 25.</hi>
-                </p>
-                <p>
-                    <hi rend="center">Extract of a letter from a gentleman who lately left his
-                        <lb/>city, on his way to the southward.</hi>
-                </p>
-                <p> "We were stopped about seven miles from Baltimore <lb/>by armed men, who used us
-                    with every indignity and hat<lb break="no"/>red, truly indicative of <hi rend="smallcaps">malice prepense</hi>. These detain<lb break="no"/>ed us in
-                    the stage from five to the afternoon until ten the <cb/>ensuing morning; during
-                    this interval, one of these ruffi<lb break="no"/>ans, who appeared to be a
-                    German, snapped his piece at <lb/>one of this party who seemed inclined to leave
-                    the stage <lb/>with an apparent design to go among the bushes nears the
-                    <lb/>road; this guard, in <hi rend="italic">their tender mercy</hi>, wre pleased
-                    to <lb/>hand us a piece of dry cheese, on the end of a pitch-fork. <lb/>After
-                    this quarantine, we were permitted to go to Gray's <lb/>Garden, and there to
-                    perform another, for the space of <lb/>two days and nights." </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">New-York</hi>, <hi rend="italic">Sept</hi>. 28.</hi>
-                </p>
-                <p>
-                    <hi rend="center">Extract of a letter from Philadelphia to a gentleman in <lb/>Baltimore, dated the 20th instant.</hi>
-                </p>
-                <p> "You request I would endeavour to give you a parti<lb/>cular account of the
-                    state of the city in general and the <lb/>rise and progress of the malignant
-                    fever now raging here. </p>
-                <p> "I believe it will be difficult precisely to determine its <lb/>origin; but it
-                    is generally admitted to have been imported <lb/>from Cape-Francois, in a vessel
-                    which came to a wharf be<lb break="no"/>twen Arch and Race-street, beause the
-                    infection broke <lb/>out ina house connected with that vessel, and it was
-                        after<lb break="no"/>wards traced to that vessel. The disorder overtook
-                    several <lb/>families thereabouts. But most people apprehended it to <lb/>be the
-                    general fall-fever, which acted severly on those who <lb/>had the
-                    influenza–To that there was no material danger <lb/>apprehended until the
-                    death of Peter Ashton, in Vine-street, <lb/>who after a short illness, died
-                    about one month past; af<lb break="no"/>ter which the disorder was clearly
-                    discovered to be the putrid <lb/>or yellow fever, and each person became after
-                    of his neighbours, insomuch that if any became sick they were a<lb break="no"/>voided, and many fled from the sick, leaving them in a <lb break="no"/>destitute situation, perhaps shut up in a house, and the <lb/>neighbours
-                    alarmed, merchants and housekeepers moved in<lb break="no"/>to the country, and
-                    fear was stamped on every counte<lb break="no"/>nance–infirmness
-                    possessed the hearts of the people–little business was done except
-                    packing up–engaging waggons to <lb/>move goods into the country, and
-                    searching for shelter for <lb/>their families; many families set off without
-                    having a par<lb break="no"/>ticular place to go to. Thus the country became
-                        alarm<lb break="no"/>ed. Individuals died in the country–but I cannot
-                    learn <lb/>
-            <supplied reason="copy missing">?</supplied>hat it spread there. </p>
-                <p>"The overseers duty became exceedingly heavy, and <lb/>several of them were taken
-                    sick; others abandoned their <lb/>post, and the business bore very hard on the
-                    remaining few. <lb/>Finding deaths increasingly abundantly, they procured car<lb break="no"/>penters to make coarse coffins by the do<supplied reason="copy blur">???</supplied>. The malady <lb/>still increasing in
-                    Water, Front, Race and Vine-street, <lb/>threatened desolation in those
-                    quarters. The overseers, <lb/>moved by the distresses of the helpless, took
-                    possession of <lb/>Bush-Hill mansion (it being empty) and erected a hospital,
-                    <lb/>employed some physicians and nurses; sent out some ac<lb break="no"/>comadations, and provided for interring the dead. </p>
-                <p> "The overseers became inadequate to the business by <lb/>reason fo fear; few in
-                    number, and the funds exhausted; <lb/>added to this the extravagant wages of the
-                    nurses, two <lb/>and three dollars per day, most of the magistrates fled;
-                    <lb/>the house of employment and hospital shut their doors a<lb break="no"/>gainst all indigent and indisposed persons. Thus were the <lb/>people, who had
-                    been private patientes on the poor list, a<lb break="no"/>bandoned and had no
-                    sheltering place, and those who were <lb/>slightly indisposed, were sent to
-                    Bush-Hill and became vic<lb break="no"/>tims with many others. </p>
-                <p> "The inhabitants were requested to meet by public <lb/>advertisement, and a
-                    committee of 40 was appointed to <lb/>take charge of the Bush-Hill hospital, and
-                    to relieve the <lb/>distressed in the city and its vicinity they became
-                    organized, Ianto693 negociated a loan in the bank, two of the number volunta<lb break="no"/>rily offered their service to see the business of Bush-Hill
-                    <lb/>properly conducted; bedsteads were procured, the house <lb/>cleaned,
-                    matrons appointed and nurses under their direc<lb break="no"/>tion; an
-                    apothecary, with medicine, &amp;c. and four physi<lb break="no"/>cians to attend
-                    once a day. </p>
-                <p> The remainder of the committee attend at the State <lb/>House, receive
-                    information from the committee at Bush-<lb/>Hill, and supply their demands;
-                    receive all sheets, shirts, <lb/>&amp;c. &amp;c. at the State-House, also keep a
-                    supply of <lb/>ready made coffins to furnish as occasion required. Se<lb break="no"/>veral carts are procured for the various purposes of carry<lb break="no"/>ing out the sick whom the doctors pronounce to have the
-                    <lb/>fever, of disposing the corps,and for carrying provisions <cb/>and other
-                    necessaries to and from the hospital. THere is <lb/>also a house fitted up, and
-                    under the care of a matron, to <lb/>be for the use of those children whose
-                    parents have died <lb/>with the fever; as all their relations and neighbours are
-                    <lb/>shy of them; the governor has directed the State Treasury <lb/>to be open
-                    for their use, and they to be accountable to him <lb/>for their
-                    expenditures.–The city seems quite solitary, and <lb/>business at a
-                    stand; deaths numerous, and no parade at <lb/>the interment of any; the bells do
-                    not ring, nor is there <lb/>any invitations to the funeral of any. I think about
-                    1000 <lb/>have died since the disorder first made its appearance, but <lb/>it
-                    cannot be ascertained with precision; and we think be<lb break="no"/>tween 15
-                    and 20,000 removed from their habitations. </p>
-                <p> "The doctors suppose the disorder a little checked by <lb/>the cool weather; how
-                    that is I know now." </p>
-                <p> By a passenger, arrived from Albany this morning, we <lb/>learn that, in order
-                    to prevent the introduction of the Yel<lb break="no"/>low Fever in Albany, they
-                    have formed Committees, and <lb/>fixed a Gun-Boat at some distance from the
-                    city, where all <lb/>vessels are stopt till the Doctors examine the
-                    passengers–<lb/>And, that Colonel Hamilton and Lady were arrived, but
-                    <lb/>were denied admittance into the city, and had taken lod<lb break="no"/>gings at a Mr. M'Gown's, at Green-Bush. </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">October</hi> 2.</hi>
-                </p>
-                <p>
-                    <hi rend="center">Extract of a letter from a gentleman in Philadelphia, to
-                        <lb/>the Printers of this PAper, dated September 28.</hi>
-                </p>
-                <p> "The papers must have amply informed you of the me<lb break="no"/>lancholy
-                    situation of this city, for five or six weeks past. <lb/>Grave digging has been
-                    the only business carrying on; and <lb/>ndeed I may say of late Pit digging,
-                    where people are <lb/>interred indiscriminately in three tiers of coffins. From
-                    the <lb/>most accurate observations I can make upon matters, I <lb/>think I
-                    speak within bounds, when I Say eighteen hundred <lb/>persons have perished (I
-                    do not say all of the yellow fever) <lb/>since its first appearance on the 3d of
-                    August, in North <lb/>Water-street; others think a larger number–but I
-                    confess <lb/>we are a good deal in the dark on the subject at present, <lb/>and
-                    it will take some time to have accurate returns made. </p>
-                <p> "People have been hitherto so panic struck, that little <lb/>has been attnded to
-                    but the means of self-preservation; <lb/>gloom and melancholy is on every
-                    persons countenance; <lb/>nothing but the yellow fever is talked of; the street
-                    are <lb/>often seen without a passenger; the wharfs are deserted, <lb/>the
-                    markets miserable and uncommonly high, and nearly <lb/>one half the citizens
-                    departed. The city is truly republi<lb break="no"/>can; pomp and distinction
-                    have in a great measure disad<lb break="no"/>peared, and bad Plato himself come
-                    among us to preach <lb/>up the practice of true republicansim, his lectures
-                    could <lb/>not have had a greater effect upon the minds of men than <lb/>the
-                    present mortality. </p>
-                <p> "We make use of no other precaution for avoiding the <lb/>contagion, than not
-                    going into infected houses–keeping <lb/>our own well aired, clean, and
-                    frequently having the walls, <lb/>white-washed. considering the general terro, I
-                    have <lb/>more than once felt my pulse, to discover whether I was <lb/>really
-                    alive or not; however I now begin to hoep we may <lb/>escape, as cool weather is
-                    fast approaching, and one-street <lb/>in general healthy. </p>
-                <p>"Of all things, this yellow fever is the most insidious–<lb/>its
-                    approaches are generally gradual–a person imagines <lb/>himself well when
-                    he is dying–other loss the use of rea<lb break="no"/>son entirely, and
-                    die in that situations. with those few <lb/>that recover its effects are long
-                    left. It acts like a steel<lb break="no"/>trap–when once it gets hold of
-                    a person, it does not ea<lb break="no"/>sily let him get off. </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">Philadelphia</hi>, <hi rend="italic">Oct</hi>. 7.</hi>
-                </p>
-                <p>Died of Sunday the 29th ult. Samuel Powell, Esq. <lb/>Speaker of the Senate of
-                    this commonwealth, a gentleman <lb/>of a benevolent disposition, an improved
-                    mind, a sound <lb/>understanding, and an honest heart.</p>
-                <p>Died, on Friday evening, after a short illness, with the <lb/>present maligant
-                    fever at Mrs. Grant's,–Mr Chase a yong <lb/>gentleman of respectable
-                    connections of Baltimore.</p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">Winchester</hi>, <hi rend="italic">Sept</hi>. 20.</hi>
-                </p>
-                <p>Extract of a letter from our correspondent at <supplied reason="copy blur">???</supplied>
-                    <lb/>Creek Territory, South of the Ohio, dated Sept. 4. </p>
-                <p>"Times here were but a gloomy aspect. The <supplied reason="copy blur">???</supplied>
-            <lb break="no"/>le daily harassed by the Indians. On the 27th
-                    of August <lb/>a party, consisting of about 300, killed Lieut. Janks Ted<cb break="no"/>ford, of the United States troops, and a Mr. JAckson, as
-                    <lb/>they were gathering corn in a field for their horses, near <lb/>Henry's
-                    stations–They have lately burnt many houses on <lb/>the Nine Mile, and
-                    destroyed a prodigious quantity of <lb/>wheat, rye and corn. WE hope Governor
-                    Blount on his return to this territory, will be invested with power to des<lb break="no"/>stroy these barbarous tribes." </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="italic">From the same, dated Sept</hi>. 14.</hi>
-                </p>
-                <p> "On the 30th of August, some Indians killed one young <lb/>woman and scalped
-                    another, in Washington county; and <lb/>on the 5th instant, a part of them
-                    wounded four per<lb break="no"/>sons, and scalped one, about nine miles from
-                    Green Court-<lb/>House; a house was also attacked by them, but they were
-                    <lb/>forced to retreat by the owner thereof and one of his <lb/>daughters, who
-                    fired several rounds, and wounded some of <lb/>them. On the 16th, another party
-                    of the savages killed a <lb/>woman and child, on Nine-Mile." </p>
-                <p>
-                    <hi rend="center">
-               <hi rend="smallcaps">New-York</hi>, <hi rend="italic">Oct</hi>. 16.</hi>
-                </p>
-                <p> Monday evening last, a number of persons assembled in <lb/>the fields, when they
-                    commenced the demolition of Mo<lb break="no"/>ther Cay's house, which in a short
-                    time was intirely re<lb break="no"/>sed to the ground floor; the furniture,
-                    beds, clothing, &amp;c. were all destroyed. another house of ill fame tenanted
-                    by <lb/>Mother Giles, under went a similar fate. It is aid that three persons
-                    <lb/>were wounded, one dangerously, from the firing of small <lb/>arms, by some
-                    persons who were placed in the house for <lb/>its defence.–We lament that
-                    our worthy Mayor, received <lb/>some injury, in endeavouring to disperse the
-                    people. </p>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1793-12-13"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="plagiarism"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>Native Americans</item>
+                  <item>Anglo-American relations</item>
+                  <item>disease</item>
+                  <item>obituary</item>
+                  <item>crime</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>AMERICAN STATES.</head>
+         <p>
+            <pb n="1"/>
+            <hi rend="center">
+               <hi rend="italic">Extracts from the </hi>
+               <hi rend="smallcaps">New-York Daily Advertiser</hi> .</hi> 
+         </p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">Pittsburgh</hi> ,<hi rend="italic">Sept</hi> . 7.</hi> 
+         </p>
+         <p>SUNDAY last arrived an express in this town from the <lb/>commissioners who were sent to treat with the Indians: <lb/>he had left the commissioners on this side of Lake Erie, that <lb/>day eight days. They had been met at Niagara by Indian <lb/>commissioners, and with them had sailed in separate vessels <lb/>to the mouth of Detroit river 18 miles from Detroit, where <lb/>our commissioners were directed to remain, until an as<lb break="no"/>swer should be brought from the great council of In<lb break="no"/>dian nations assembled at the rapids of the Miami and the <lb/>Lake. On the 2d of August an answer was brought to <lb/>this effect that the only terms onw hich peace could be <lb/>made was our ceding the country on the west of the Ohio <lb/>and Allegheny rivers. The commissioners suggested the <lb/>impossibilities of doing this, as the lands had been sold by the Congress, and people had settled on them, but that the <lb/>United States would be willing to give more goods than <lb/>they had given at any other time. The Indians replied <lb/>that if the Congress would give one half these goods to the people that had settled, the would leave the land, and <lb/>remove the difficulty. Our commissioners replied that the <lb/>land they must have, and would not give it up. The In<lb break="no"/>dians said it was well, and there need no more be said. <lb/>However desired them to remain if they thought proper <lb/>until they returned to the council, and laid this before them. <lb/>On the 16th of August two Indians came and informed that the final result of their deliberations was the country <lb/>in question or war. The express is of opinion from the <lb/>language of individual Indians in private, and from other <lb/>circumstances, that the British wholly conduct their council, <lb/>and dictate their demands.</p>
+         <p> By the arrival of some person from Fort Washington on <lb/>Monday last, we are informed, that the Indians still conti<lb break="no"/>ue hovering about our garrisons, and occasionally stealing <lb/>horses, that the army is in high spirits, anxiously waiting <lb/>the event of the treaty, and hoping that a campaign will <lb/>take place, as no idea of peace is entertained by any one; <lb/>that the greatest pains has been taken by the commander <lb/>in chief, in training his men in the act wood fighting, <lb/>and that from their proficiency, and the<supplied reason="copy blur">???</supplied>imity pre<lb break="no"/>vailing throughout the whole army, success may be expec<lb break="no"/>ted should a campaign take place.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">New York</hi> ,<hi rend="italic">Sept</hi> . 17.</hi> 
+         </p>
+         <p> A Mr. Spier was removed from his lodgings in this city <lb/>on Sunday last to Governors Island, where he died this <lb/>morning. He arrived from Philadelphia last Thursday, <lb/>was seized with Fever on Friday.–The Doctors pro<lb break="no"/>nounced it the malignant putrid fever, and the event prov <lb/>ed their opinion to be just.</p>
+         <p> According to a list published of the births and deaths in <lb/>the several religious societies of Philadelphia it appears that <lb/>from August 1, 1792 to August 1, 1793, the Births a<lb break="no"/>mounted to 2511, and the Death to 1467."</p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">Philadelphia</hi> ,<hi rend="italic">Sept</hi> . 21.</hi> 
+         </p>
+         <p> The stages for New-York returned to this city, with all <lb/>the passengers (mortified and fatigued.) One of the dri<lb break="no"/>vers had a very narrow escape with his life, being cruelly <lb/>fired upon at Trenton; the ball passing within a few inch<lb break="no"/>es of his head! The ladies, &amp;. have been without any re<lb break="no"/>freshment on the road, as the panic and terror with which every mind is possessed, by the writings and measures a<lb break="no"/>bove alluded to, prevented their obtaining any accommo<lb break="no"/>dations on the road–<hi rend="italic">O tell it not in Gath! declare it not in <lb/>the streets of Askelon</hi> ! Ye<hi rend="italic">New Yorkers</hi>  and ye<hi rend="italic">Baltimorians</hi> , <lb/>you have been generous to strangers; but forgot the cha<lb break="no"/>ritable and fraternal attention due to your own fellow-ci<lb break="no"/>tizens!"</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">Sept</hi> . 25.</hi> 
+         </p>
+         <p>
+            <hi rend="center">Extract of a letter from a gentleman who lately left his <lb/>city, on his way to the southward.</hi> 
+         </p>
+         <p> "We were stopped about seven miles from Baltimore <lb/>by armed men, who used us with every indignity and hat<lb break="no"/>red, truly indicative of<hi rend="smallcaps">malice prepense</hi> . These detain<lb break="no"/>ed us in the stage from five to the afternoon until ten the<cb/>ensuing morning; during this interval, one of these ruffi<lb break="no"/>ans, who appeared to be a German, snapped his piece at <lb/>one of this party who seemed inclined to leave the stage <lb/>with an apparent design to go among the bushes nears the <lb/>road; this guard, in<hi rend="italic">their tender mercy</hi> , wre pleased to <lb/>hand us a piece of dry cheese, on the end of a pitch-fork. <lb/>After this quarantine, we were permitted to go to Gray's <lb/>Garden, and there to perform another, for the space of <lb/>two days and nights."</p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">New-York</hi> ,<hi rend="italic">Sept</hi> . 28.</hi> 
+         </p>
+         <p>
+            <hi rend="center">Extract of a letter from Philadelphia to a gentleman in <lb/>Baltimore, dated the 20th instant.</hi> 
+         </p>
+         <p> "You request I would endeavour to give you a parti <lb/>cular account of the state of the city in general and the <lb/>rise and progress of the malignant fever now raging here.</p>
+         <p> "I believe it will be difficult precisely to determine its <lb/>origin; but it is generally admitted to have been imported <lb/>from Cape-Francois, in a vessel which came to a wharf be<lb break="no"/>twen Arch and Race-street, beause the infection broke <lb/>out ina house connected with that vessel, and it was after<lb break="no"/>wards traced to that vessel. The disorder overtook several <lb/>families thereabouts. But most people apprehended it to <lb/>be the general fall-fever, which acted severly on those who <lb/>had the influenza–To that there was no material danger <lb/>apprehended until the death of Peter Ashton, in Vine-street, <lb/>who after a short illness, died about one month past; af<lb break="no"/>ter which the disorder was clearly discovered to be the putrid <lb/>or yellow fever, and each person became after of his neighbours, insomuch that if any became sick they were a<lb break="no"/>voided, and many fled from the sick, leaving them in a<lb break="no"/>destitute situation, perhaps shut up in a house, and the <lb/>neighbours alarmed, merchants and housekeepers moved in<lb break="no"/>to the country, and fear was stamped on every counte<lb break="no"/>nance–infirmness possessed the hearts of the people–little business was done except packing up–engaging waggons to <lb/>move goods into the country, and searching for shelter for <lb/>their families; many families set off without having a par<lb break="no"/>ticular place to go to. Thus the country became alarm<lb break="no"/>ed. Individuals died in the country–but I cannot learn <lb/>
+            <supplied reason="copy missing">?</supplied>hat it spread there.</p>
+         <p>"The overseers duty became exceedingly heavy, and <lb/>several of them were taken sick; others abandoned their <lb/>post, and the business bore very hard on the remaining few. <lb/>Finding deaths increasingly abundantly, they procured car<lb break="no"/>penters to make coarse coffins by the do<supplied reason="copy blur">???</supplied>. The malady <lb/>still increasing in Water, Front, Race and Vine-street, <lb/>threatened desolation in those quarters. The overseers, <lb/>moved by the distresses of the helpless, took possession of <lb/>Bush-Hill mansion (it being empty) and erected a hospital, <lb/>employed some physicians and nurses; sent out some ac<lb break="no"/>comadations, and provided for interring the dead.</p>
+         <p> "The overseers became inadequate to the business by <lb/>reason fo fear; few in number, and the funds exhausted; <lb/>added to this the extravagant wages of the nurses, two <lb/>and three dollars per day, most of the magistrates fled; <lb/>the house of employment and hospital shut their doors a<lb break="no"/>gainst all indigent and indisposed persons. Thus were the <lb/>people, who had been private patientes on the poor list, a<lb break="no"/>bandoned and had no sheltering place, and those who were <lb/>slightly indisposed, were sent to Bush-Hill and became vic<lb break="no"/>tims with many others.</p>
+         <p> "The inhabitants were requested to meet by public <lb/>advertisement, and a committee of 40 was appointed to <lb/>take charge of the Bush-Hill hospital, and to relieve the <lb/>distressed in the city and its vicinity they became organized, Ianto693 negociated a loan in the bank, two of the number volunta<lb break="no"/>rily offered their service to see the business of Bush-Hill <lb/>properly conducted; bedsteads were procured, the house <lb/>cleaned, matrons appointed and nurses under their direc<lb break="no"/>tion; an apothecary, with medicine, &amp;c. and four physi<lb break="no"/>cians to attend once a day.</p>
+         <p> The remainder of the committee attend at the State <lb/>House, receive information from the committee at Bush -<lb/>Hill, and supply their demands; receive all sheets, shirts, <lb/>&amp;c. &amp;c. at the State-House, also keep a supply of <lb/>ready made coffins to furnish as occasion required. Se<lb break="no"/>veral carts are procured for the various purposes of carry<lb break="no"/>ing out the sick whom the doctors pronounce to have the <lb/>fever, of disposing the corps,and for carrying provisions<cb/>and other necessaries to and from the hospital. THere is <lb/>also a house fitted up, and under the care of a matron, to <lb/>be for the use of those children whose parents have died <lb/>with the fever; as all their relations and neighbours are <lb/>shy of them; the governor has directed the State Treasury <lb/>to be open for their use, and they to be accountable to him <lb/>for their expenditures.–The city seems quite solitary, and <lb/>business at a stand; deaths numerous, and no parade at <lb/>the interment of any; the bells do not ring, nor is there <lb/>any invitations to the funeral of any. I think about 1000 <lb/>have died since the disorder first made its appearance, but <lb/>it cannot be ascertained with precision; and we think be<lb break="no"/>tween 15 and 20,000 removed from their habitations.</p>
+         <p> "The doctors suppose the disorder a little checked by <lb/>the cool weather; how that is I know now."</p>
+         <p> By a passenger, arrived from Albany this morning, we <lb/>learn that, in order to prevent the introduction of the Yel<lb break="no"/>low Fever in Albany, they have formed Committees, and <lb/>fixed a Gun-Boat at some distance from the city, where all <lb/>vessels are stopt till the Doctors examine the passengers– <lb/>And, that Colonel Hamilton and Lady were arrived, but <lb/>were denied admittance into the city, and had taken lod<lb break="no"/>gings at a Mr. M'Gown's, at Green-Bush.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">October</hi>  2.</hi> 
+         </p>
+         <p>
+            <hi rend="center">Extract of a letter from a gentleman in Philadelphia, to <lb/>the Printers of this PAper, dated September 28.</hi> 
+         </p>
+         <p> "The papers must have amply informed you of the me<lb break="no"/>lancholy situation of this city, for five or six weeks past. <lb/>Grave digging has been the only business carrying on; and <lb/>ndeed I may say of late Pit digging, where people are <lb/>interred indiscriminately in three tiers of coffins. From the <lb/>most accurate observations I can make upon matters, I <lb/>think I speak within bounds, when I Say eighteen hundred <lb/>persons have perished (I do not say all of the yellow fever) <lb/>since its first appearance on the 3d of August, in North <lb/>Water-street; others think a larger number–but I confess <lb/>we are a good deal in the dark on the subject at present, <lb/>and it will take some time to have accurate returns made.</p>
+         <p> "People have been hitherto so panic struck, that little <lb/>has been attnded to but the means of self-preservation; <lb/>gloom and melancholy is on every persons countenance; <lb/>nothing but the yellow fever is talked of; the street are <lb/>often seen without a passenger; the wharfs are deserted, <lb/>the markets miserable and uncommonly high, and nearly <lb/>one half the citizens departed. The city is truly republi<lb break="no"/>can; pomp and distinction have in a great measure disad<lb break="no"/>peared, and bad Plato himself come among us to preach <lb/>up the practice of true republicansim, his lectures could <lb/>not have had a greater effect upon the minds of men than <lb/>the present mortality.</p>
+         <p> "We make use of no other precaution for avoiding the <lb/>contagion, than not going into infected houses–keeping <lb/>our own well aired, clean, and frequently having the walls, <lb/>white-washed. considering the general terro, I have <lb/>more than once felt my pulse, to discover whether I was <lb/>really alive or not; however I now begin to hoep we may <lb/>escape, as cool weather is fast approaching, and one-street <lb/>in general healthy.</p>
+         <p>"Of all things, this yellow fever is the most insidious– <lb/>its approaches are generally gradual–a person imagines <lb/>himself well when he is dying–other loss the use of rea<lb break="no"/>son entirely, and die in that situations. with those few <lb/>that recover its effects are long left. It acts like a steel<lb break="no"/>trap–when once it gets hold of a person, it does not ea<lb break="no"/>sily let him get off.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">Philadelphia</hi> ,<hi rend="italic">Oct</hi> . 7.</hi> 
+         </p>
+         <p>Died of Sunday the 29th ult. Samuel Powell, Esq. <lb/>Speaker of the Senate of this commonwealth, a gentleman <lb/>of a benevolent disposition, an improved mind, a sound <lb/>understanding, and an honest heart.</p>
+         <p>Died, on Friday evening, after a short illness, with the <lb/>present maligant fever at Mrs. Grant's,–Mr Chase a yong <lb/>gentleman of respectable connections of Baltimore.</p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">Winchester</hi> ,<hi rend="italic">Sept</hi> . 20.</hi> 
+         </p>
+         <p>Extract of a letter from our correspondent at<supplied reason="copy blur">???</supplied> 
+            <lb/>Creek Territory, South of the Ohio, dated Sept. 4.</p>
+         <p>"Times here were but a gloomy aspect. The<supplied reason="copy blur">???</supplied>
+            <lb break="no"/>le daily harassed by the Indians. On the 27th of August <lb/>a party, consisting of about 300, killed Lieut. Janks Ted<cb break="no"/>ford, of the United States troops, and a Mr. JAckson, as <lb/>they were gathering corn in a field for their horses, near <lb/>Henry's stations–They have lately burnt many houses on <lb/>the Nine Mile, and destroyed a prodigious quantity of <lb/>wheat, rye and corn. WE hope Governor Blount on his return to this territory, will be invested with power to des<lb break="no"/>stroy these barbarous tribes."</p>
+         <p>
+            <hi rend="center">
+               <hi rend="italic">From the same, dated Sept</hi> . 14.</hi> 
+         </p>
+         <p> "On the 30th of August, some Indians killed one young <lb/>woman and scalped another, in Washington county; and <lb/>on the 5th instant, a part of them wounded four per<lb break="no"/>sons, and scalped one, about nine miles from Green Court -<lb/>House; a house was also attacked by them, but they were <lb/>forced to retreat by the owner thereof and one of his <lb/>daughters, who fired several rounds, and wounded some of <lb/>them. On the 16th, another party of the savages killed a <lb/>woman and child, on Nine-Mile."</p>
+         <p>
+            <hi rend="center">
+               <hi rend="smallcaps">New-York</hi> ,<hi rend="italic">Oct</hi> . 16.</hi> 
+         </p>
+         <p> Monday evening last, a number of persons assembled in <lb/>the fields, when they commenced the demolition of Mo<lb break="no"/>ther Cay's house, which in a short time was intirely re<lb break="no"/>sed to the ground floor; the furniture, beds, clothing, &amp;c. were all destroyed. another house of ill fame tenanted by <lb/>Mother Giles, under went a similar fate. It is aid that three persons <lb/>were wounded, one dangerously, from the firing of small <lb/>arms, by some persons who were placed in the house for <lb/>its defence.–We lament that our worthy Mayor, received <lb/>some injury, in endeavouring to disperse the people.</p>
+      </body>
+   </text>
+</TEI>

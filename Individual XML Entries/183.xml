@@ -1,145 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>183</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Aberdeen Journal</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>183</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aberdeen Journal</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Aberdeen</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1821-08-15"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>undefined</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
+                  </pubPlace>
+                  <date when="1821-08-15"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>undefined</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
             <pb/>Colonial Intelligence</p>
-                <p>
-            <hi rend="smallcaps">Africa.</hi>–Extract of a Letter from Capt. Colliver,
-                    <lb/>a Gentlemen belonging to the county of Cornwall, <lb/>and who is an Officer
-                    in the service of the African <lb/>Comapny:–</p>
-                <p>Cape Coast Castle, April 21, 1821. <lb/>By the time you have received this, it is
-                    probable the <lb/>African Company will have ceased to exist ; we have
-                    <lb/>received orders to hold ourselves in readiness to deliver <lb/>up the
-                    Forsts and Settlements here to Government. It <lb/>is understood they are to be
-                    put on the same footing as <lb/>Sierra Leone. A list has been furnished to
-                        Govern<lb break="no"/>ment by the Company's Committee, of their Officers,
-                    <lb/>their age, length of service, the situations they fill ; <lb/>their
-                    emoluments[?], &amp;c. We have been blockaded here, <lb/>since the 10th of
-                    February, by the Ashantees[?] (an Afri<lb break="no"/>can tribe), who have
-                    commenced hostilities against us. <lb/>On the day before mentioned, our Governor
-                    received <lb/>intelligence that a black man belonging to Cape Coast, <lb/>where
-                    the people are under our protection, had been <lb/>cruelly murdered by a Chief
-                    of the Fantes[?], at a place <lb/>about six miles from Cape Coast, called
-                    Moree[?]. I was <lb/>immediately ordered to assemble all the soldiers I
-                    <lb/>could, in five minutes, and proceed to Moree to seize <lb/>the murderer. I
-                    quickly set off with four officers and <lb/>85 soliders. A little before we
-                    entered the town of <lb/>Moree, where the savages, between 2 and 3,000 in
-                    <lb/>number, were assembled, we saw the mangled remains <lb/>of their unforunate
-                    victim. The town stands near the <lb/>top of a hill, on the summit of which is
-                    an old Dutch <lb/>Fort. As soon as we entered the town, a fire was <lb/>opened
-                    upon us ; but as my orders were to seize the <lb/>murderer, if possible, without
-                    bloodshed, I did not for <lb/>some time allow the men to return the fire.
-                    However, <lb/>perceiving they were resolved to oppose us, I gave di<lb break="no"/>rections to my little party to give them a volley and <lb/>then
-                    to charge. The negroes retired as we advanced, <lb/>and in less than an hour we
-                    gained the hill, from which <lb/>our opponents fled in every firection. We
-                    demanded <lb/>the keys of the fort from the principal man belonging <lb/>to
-                    Moree ; who not being engaged in the affair had re<lb break="no"/>mained, and
-                    who immediately gave them up. In the <lb/>fort, which has a draw-bridge, we were
-                    perfectly se<lb break="no"/>cure from the attack of the negroes. The body we
-                        de<lb break="no"/>feated were Fantees, who were assembled to assist the
-                    <lb/>Ashantees in enforcing some very unjust demands <lb/>made by them on the
-                    people of Cape Coast. As soon <lb/>as the Ashantees, who reside near Cape Coast,
-                    learned <lb/>that the Governor had sent an armed force against their
-                    <lb/>friends, their drum beat to arms, and they hastened <lb/>after us ;
-                    fortunately we had defeated our opponents <lb/>before they arrived. However,
-                    they rallied the Fan<lb break="no"/>tees, and took a position about half a mile
-                    from the <lb/>town, with a determination to oppose our little party. <lb/>The
-                    Governor, apprised of our situation, assembled <lb/>all the forces he could
-                    muster, and speedily about 500 <lb/>of the Cape Coast people, headed by our
-                    officers, and <lb/>carrying the British flag, were seen approaching. The
-                    <lb/>enemy immediatel retired, and we were relieved from <lb/>our disagreeable
-                    situation, after having been from nine <lb/>in the morning till four in the
-                    afternoon exposed to a <lb/>burning sun, without refreshment. The negroes had
-                    <lb/>47 killed, and upwards of 100 wounded in this affair ; <lb/>we had one
-                    soldier killed, and four wounded. Since <lb/>the affair, we have not seen one of
-                    the Ashantees or the <lb/>Fantees here ; and a total stoppage of trade has taken
-                    <lb/>place. We have not learned how the King of Ashan<lb break="no"/>tee intends
-                    to act, nor is it safe to venture out of our <lb/>limits, except in large
-                    parties.</p>
-                <p>
-            <hi rend="smallcaps">New South Shetland</hi>–The Lord Melville, J.
-                    <lb/>Clark, master has arrived in the London Docks from <lb/>the New South
-                    Shetland fishery, which he left on the <lb/>31st of March, having on board the
-                    following persons, <lb/>belogning to the crews of the undermentioned vessels,
-                    <lb/>which had been wrecked, and whom he landed at <lb/>Buenos Ayres, on the
-                    21st of April, viz.</p>
-                <p>From the Hannah, Captain Johnson–J. Knowles <lb/>(cooper), R. Thompson
-                    (joiner), J. Colditch, W. <lb/>Jones, T. Lewis, H. Pearman, J. Boyd, A. Pringle,
-                    <lb/>R. Richards, and W. Martin.</p>
-                <p>From the Minerva, Captain Burn–J. Stephens, R. <lb/>Pearson, J. Collilice,
-                    W. Wisslock, W. Pile, and J. <lb/>Wallar.</p>
-                <p>From the Lady Troubridge, Captain Sherrard–J. <lb/>Forsham (first mate),
-                    D. Humphreys (seaman), J. <lb/>Wolin, G. Martin, G. Inglefield, M. Swallow, T.
-                    <lb/>Williams, J. Parsonage, W. Rome, W. Dead, J. <lb/>Williams and J.
-                    Williams.</p>
-                <p>Captain Clark, also carried to Buenos Ayres the <lb/>crew of the American
-                    schooner Venus, Capt. Nappue. <lb/>He sailed from the River Plate on the 28th of
-                    April, <lb/>and reached the Downs on the 31st ult. Capt. Clark <lb/>left a small
-                    colony at Easter Harbour, consisting of <lb/>the following
-                    individuals:–R. Gibbs, of London <lb/>first officer of the Lord Melville
-                    ; G. Robertson, of <lb/>Hamburgh, second officer of the Minerva, a vessel re<lb break="no"/>ported lost, but since arrived in the Brazils ; J. Jor<lb break="no"/>nan, of Leith, boatswain of the Lord Melville ; P. <lb/>Howson,
-                    of Carron, carpenter ; J. Lockey, of Essex ; <lb/>J. Semple, of Dundee ; J. Ash,
-                    of Liverpool ; J. <lb/>Wares, a Portuguese ; William South of Aberden ; <lb/>J.
-                    Roberts, of Liverpool ; and J. Havers, of Har<lb break="no"/>wich,
-                    seamen.–They were left in good health and <lb/>spirits, with a stock of
-                    twelve months provisions, and <lb/>all the materials necessary for erecting
-                    three or four <lb/>houses.</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+         <p>
+            <hi rend="smallcaps">Africa.</hi> –Extract of a Letter from Capt. Colliver, <lb/>a Gentlemen belonging to the county of Cornwall, <lb/>and who is an Officer in the service of the African <lb/>Comapny:–</p>
+         <p>Cape Coast Castle, April 21, 1821. <lb/>By the time you have received this, it is probable the <lb/>African Company will have ceased to exist ; we have <lb/>received orders to hold ourselves in readiness to deliver <lb/>up the Forsts and Settlements here to Government. It <lb/>is understood they are to be put on the same footing as <lb/>Sierra Leone. A list has been furnished to Govern<lb break="no"/>ment by the Company's Committee, of their Officers, <lb/>their age, length of service, the situations they fill ; <lb/>their emoluments[?], &amp;c. We have been blockaded here, <lb/>since the 10th of February, by the Ashantees[?] (an Afri<lb break="no"/>can tribe), who have commenced hostilities against us. <lb/>On the day before mentioned, our Governor received <lb/>intelligence that a black man belonging to Cape Coast, <lb/>where the people are under our protection, had been <lb/>cruelly murdered by a Chief of the Fantes[?], at a place <lb/>about six miles from Cape Coast, called Moree[?]. I was <lb/>immediately ordered to assemble all the soldiers I <lb/>could, in five minutes, and proceed to Moree to seize <lb/>the murderer. I quickly set off with four officers and <lb/>85 soliders. A little before we entered the town of <lb/>Moree, where the savages, between 2 and 3,000 in <lb/>number, were assembled, we saw the mangled remains <lb/>of their unforunate victim. The town stands near the <lb/>top of a hill, on the summit of which is an old Dutch <lb/>Fort. As soon as we entered the town, a fire was <lb/>opened upon us ; but as my orders were to seize the <lb/>murderer, if possible, without bloodshed, I did not for <lb/>some time allow the men to return the fire. However, <lb/>perceiving they were resolved to oppose us, I gave di<lb break="no"/>rections to my little party to give them a volley and <lb/>then to charge. The negroes retired as we advanced, <lb/>and in less than an hour we gained the hill, from which <lb/>our opponents fled in every firection. We demanded <lb/>the keys of the fort from the principal man belonging <lb/>to Moree ; who not being engaged in the affair had re<lb break="no"/>mained, and who immediately gave them up. In the <lb/>fort, which has a draw-bridge, we were perfectly se<lb break="no"/>cure from the attack of the negroes. The body we de<lb break="no"/>feated were Fantees, who were assembled to assist the <lb/>Ashantees in enforcing some very unjust demands <lb/>made by them on the people of Cape Coast. As soon <lb/>as the Ashantees, who reside near Cape Coast, learned <lb/>that the Governor had sent an armed force against their <lb/>friends, their drum beat to arms, and they hastened <lb/>after us ; fortunately we had defeated our opponents <lb/>before they arrived. However, they rallied the Fan<lb break="no"/>tees, and took a position about half a mile from the <lb/>town, with a determination to oppose our little party. <lb/>The Governor, apprised of our situation, assembled <lb/>all the forces he could muster, and speedily about 500 <lb/>of the Cape Coast people, headed by our officers, and <lb/>carrying the British flag, were seen approaching. The <lb/>enemy immediatel retired, and we were relieved from <lb/>our disagreeable situation, after having been from nine <lb/>in the morning till four in the afternoon exposed to a <lb/>burning sun, without refreshment. The negroes had <lb/>47 killed, and upwards of 100 wounded in this affair ; <lb/>we had one soldier killed, and four wounded. Since <lb/>the affair, we have not seen one of the Ashantees or the <lb/>Fantees here ; and a total stoppage of trade has taken <lb/>place. We have not learned how the King of Ashan<lb break="no"/>tee intends to act, nor is it safe to venture out of our <lb/>limits, except in large parties.</p>
+         <p>
+            <hi rend="smallcaps">New South Shetland</hi> –The Lord Melville, J. <lb/>Clark, master has arrived in the London Docks from <lb/>the New South Shetland fishery, which he left on the <lb/>31st of March, having on board the following persons, <lb/>belogning to the crews of the undermentioned vessels, <lb/>which had been wrecked, and whom he landed at <lb/>Buenos Ayres, on the 21st of April, viz.</p>
+         <p>From the Hannah, Captain Johnson–J. Knowles <lb/>(cooper), R. Thompson (joiner), J. Colditch, W. <lb/>Jones, T. Lewis, H. Pearman, J. Boyd, A. Pringle, <lb/>R. Richards, and W. Martin.</p>
+         <p>From the Minerva, Captain Burn–J. Stephens, R. <lb/>Pearson, J. Collilice, W. Wisslock, W. Pile, and J. <lb/>Wallar.</p>
+         <p>From the Lady Troubridge, Captain Sherrard–J. <lb/>Forsham (first mate), D. Humphreys (seaman), J. <lb/>Wolin, G. Martin, G. Inglefield, M. Swallow, T. <lb/>Williams, J. Parsonage, W. Rome, W. Dead, J. <lb/>Williams and J. Williams.</p>
+         <p>Captain Clark, also carried to Buenos Ayres the <lb/>crew of the American schooner Venus, Capt. Nappue. <lb/>He sailed from the River Plate on the 28th of April, <lb/>and reached the Downs on the 31st ult. Capt. Clark <lb/>left a small colony at Easter Harbour, consisting of <lb/>the following individuals:–R. Gibbs, of London <lb/>first officer of the Lord Melville ; G. Robertson, of <lb/>Hamburgh, second officer of the Minerva, a vessel re<lb break="no"/>ported lost, but since arrived in the Brazils ; J. Jor<lb break="no"/>nan, of Leith, boatswain of the Lord Melville ; P. <lb/>Howson, of Carron, carpenter ; J. Lockey, of Essex ; <lb/>J. Semple, of Dundee ; J. Ash, of Liverpool ; J. <lb/>Wares, a Portuguese ; William South of Aberden ; <lb/>J. Roberts, of Liverpool ; and J. Havers, of Har<lb break="no"/>wich, seamen.–They were left in good health and <lb/>spirits, with a stock of twelve months provisions, and <lb/>all the materials necessary for erecting three or four <lb/>houses.</p>
+      </body>
+   </text>
+</TEI>

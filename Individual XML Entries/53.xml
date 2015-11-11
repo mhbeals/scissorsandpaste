@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>53</title>
-                </titleStmt>
-                <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H.
-                            Beals</persName>. Transcribed by <persName role="transcription">Max
-                            Templer</persName>.</authority>
-                    <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0
-                            International License</licence>
-                    </availability>
-                </publicationStmt>
-                <sourceDesc>
-                    <biblFull>
-                        <titleStmt>
-                            <title>Glasgow Advertiser</title>
-                        </titleStmt>
-                        <publicationStmt>
-                            <authority>Text within the public domain. </authority>
-                            <pubPlace>
-                                <address>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>53</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Collected from a digital image by<persName role="collection">M. H. Beals</persName>. Transcribed by<persName role="transcription">Max Templer</persName>.</authority>
+            <availability>
+               <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glasgow Advertiser</title>
+               </titleStmt>
+               <publicationStmt>
+                  <authority>Text within the public domain.</authority>
+                  <pubPlace>
+                     <address>
                         <settlement>Glasgow</settlement>
                         <region>Scotland</region>
                         <country>United Kingdom</country>
                      </address>
-                            </pubPlace>
-                            <date when="1789-12-04"/>
-                        </publicationStmt>
-                    </biblFull>
-                </sourceDesc>
-            </fileDesc>
-            <profileDesc>
-                <textDesc>
-                    <channel mode="w"/>
-                    <constitution type="single"/>
-                    <derivation type="original"/>
-                    <domain type="public"/>
-                    <factuality type="mixed"/>
-                    <interaction type="none" active="corporate" passive="world"/>
-                    <preparedness type="revised"/>
-                    <purpose type="inform"/>
-                </textDesc>
-                <textClass>
-                    <keywords>
-                        <list>
-                            <item>slave rebellion</item>
-                        </list>
-                    </keywords>
-                </textClass>
-            </profileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <p>
-                    <pb/>
-                    <hi rend="center">
-               <hi rend="italic">Extract of a letter from
-                            Carricou,Grenada,Sept</hi>. 5.</hi>
-                </p>
-                <p>"By a vessel which arrived here yesterday from <lb/>Martinique, we are informed,
-                    that there is an in<lb break="no"/>surrection of the slaves in that island ; at
-                    one pe<lb break="no"/>riot it was supposed that there was not less than <lb/>ten
-                    thousand of them assembled in one body, and <lb/>there are now above four
-                    thousand encamped in <lb/>the neighbourhood of St. Pierre's. The busi<lb break="no"/>ness, it is said, has originated from an idea they <cb/>
-                    <lb/>have got, that all the slaves in the British colo<lb break="no"/>nies are
-                    to be liberated, and they are resolved to <lb/>be upon the same footing."</p>
-                <p/>
-            </body>
-        </text>
-    </TEI>
+                  </pubPlace>
+                  <date when="1789-12-04"/>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textDesc>
+            <channel mode="w"/>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="mixed"/>
+            <interaction type="none" active="corporate" passive="world"/>
+            <preparedness type="revised"/>
+            <purpose type="inform"/>
+         </textDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>slave rebellion</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <pb/>
+            <hi rend="center">
+               <hi rend="italic">Extract of a letter from Carricou,Grenada,Sept</hi> . 5.</hi> 
+         </p>
+         <p>"By a vessel which arrived here yesterday from <lb/>Martinique, we are informed, that there is an in<lb break="no"/>surrection of the slaves in that island ; at one pe<lb break="no"/>riot it was supposed that there was not less than <lb/>ten thousand of them assembled in one body, and <lb/>there are now above four thousand encamped in <lb/>the neighbourhood of St. Pierre's. The busi<lb break="no"/>ness, it is said, has originated from an idea they<cb/> 
+            <lb/>have got, that all the slaves in the British colo<lb break="no"/>nies are to be liberated, and they are resolved to <lb/>be upon the same footing."</p>
+      </body>
+   </text>
+</TEI>
