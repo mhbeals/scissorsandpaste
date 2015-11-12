@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>102</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1802-07-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="plural" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>agriculture</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">New South Wales</hi>
+            </p>
+                <p>The following particulars respecting this flou<lb break="no"/>rishing colony will not be unacceptable to our <lb/>readers :–</p>
+                <p>"We are informed by Lieutenant Grant, <lb/>who is lately arrived from New South Wales, <lb/>of the flourishing state of that colony ; he left <lb/>Port Jackson in November last, when the crops <lb/>were very luxuriant and beginning to be cut <lb/>down, without having suffered that year from <lb/>the floods.</p>
+                <p>"Governor King had opened a communica<lb break="no"/>tion with Otaheite, for the purpose of supplying <lb/>the colony with pork, in which he had been <lb/>singularly successful his Majesty's armed ship <lb/>Porpoise having made one trip, and the Norfolk <lb/>brig having sailed on the same employ previous <lb/>to Mr Grant's leaving Sydney.</p>
+                <p>"The most friendly understanding exists be<lb break="no"/>tween the natives of Otaheite and the settle<lb break="no"/>ment of New South Wales. We are happy to <lb/>hear that the latter country is longer in want <lb/>of a staple commodity, the article of coals, of an <lb/>excellent kind, being found in abundance in <lb/>Hunter's River, together with plenty of wood, <lb/>well qualified for the masting of shipping. Mr <lb/>Grant made his passage to the Cape of Good <lb/>Hope, round Cape Horn, in the brig Anna Jo<lb break="no"/>sepha, loaded with spars for masts, and coals, <lb/>which latter sold immediately at the Cape, at <lb/>36 rix dollars per ton (nearly 6l. sterling.)</p>
+                <p>"Governor King had formed a small settle<lb break="no"/>ment at Hunter's River, for the purpose of work<lb break="no"/>ing the coal, which is of the same nature with <lb/>that of Newcastle.</p>
+                <p>"Mr Grant entered this river in the Lady <lb/>Nelson, in order to obtain the survey of it. He <lb/>penetrated in his boats nearly seventy miles up <lb/>the same, accompanied by Lieutenant Colonel <lb/>Paterson, without being able at that time, to <lb/>discover its source. A wood resembling<supplied reason="copy blur">sustic</supplied> 
+               <lb/>had also been found.</p>
+                <p>"Mr Grant in his passage from England to <lb/>Port Jackson, in the Lady Nelson, a vessel of <lb/>only 60 tons burthen, with three sliding keels, <lb/>and built on Captain Schank's construction, was <lb/>the first that passed through the straits which se<lb break="no"/>parate Van Diemens Land from New Holland, <lb/>and sailed along a great extent of coast to the <lb/>westward of any land before seen by those who <lb/>had visited that country, going into no higher <lb/>latitude than 39. 30. fourth ; and observes, that <lb/>the fourth cape of New Holland lies in 39. 2. <lb/>fourth. He found those he sailed along bold, <lb/>with very deep water, wherever he attempted to <lb/>land ; and, in general, he had, with a very mo<lb break="no"/>derate offing, from 50 10 45, and 30 fathoms <lb/>water, fine land, and sometimes shells.</p>
+                <p>"By order of Governor King, he returned <lb/>into those straits, and obtained the survey of the <lb/>coast from Wilson's Promontory to Western <lb/>Port, with the survey of that harbour, which is <lb/>well sheltered, and capable of containing many <lb/>sail of shipping. There is abundance of wood <lb/>easily to be got, and plenty of water ; though the <lb/>latter is rather difficult to be procured, on ac<lb break="no"/>count of the distance, and from several shoals <lb/>lying in the way, which render it necessary to <lb/>take advantage of tide. Mr Grant gives a very <lb/>favourable report of that part of the country.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

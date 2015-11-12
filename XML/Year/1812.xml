@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>104</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1812-08-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+                    <head>
+                  <hi rend="smallcaps">Canada</hi>
+                    </head>
+            </p>
+                <p>Montreal, July 4</p>
+                <p>This city has been for a few days past in a state of <lb/>agitation occasioned by an event which has taken <lb/>place at Pointe Claire ; and as this matter will be <lb/>clothed, no doubt, in all the dress of misrepresentata<lb break="no"/>tion by our neighbouring enemies, from the informa<lb break="no"/>tion they may receive of it, we consider it a duty, we <lb/>owe to the community at large in this country, to <lb/>state the circumstances as they occurred, in a fair, <lb/>open, and candid manner.</p>
+                <p>By the late militia law, 2000 young men are to be <lb/>drafted from the general militia of the province for <lb/>three months to be properly trained, and of course, <lb/>a certain proportion of this number is to be furnished <lb/>by each particular district. Some those drafted <lb/>from the Parish of Pointe Claire refused to march to <lb/>Lapraire, for the purpose of joining the division sta<lb break="no"/>tioned there ; in consequence of which, Major, Lep<lb break="no"/>rohon, belonging to this particular battalion, was sent <lb/>on Tuesday last, with 22 attendants, to apprehend <lb/>these refractory persons as deserters.</p>
+                <p>They apprehended four with some opposition ; and <lb/>on their way to town with them, they were follow<lb break="no"/>ed by a considerable number of persons who rescued <lb/>one prisoner, and threatened that they would next <lb/>day proceed to the depot at Lapraire, and bring <lb/>away by force from thence the young men of the <lb/>parish, who were there on duty. Accordingly, on <lb/>Wednesday, a large body of these people assembled <lb/>at La Chine, with the intention of carrying their <lb/>threats into execution.</p>
+                <p>Thomas M'Cord, Esq. one of the Police Magi<lb break="no"/>strates, about four o'clock in the afternoon, left town, <lb/>accompanied by the light infantry of the 49th regi<lb break="no"/>ment, and a detachment of the royal artillery, with <lb/>two field-pieces, under the command of Major <lb/>Plenderleath, and took post on a point opposite to <lb/>the insurgents (consisting of about 400 persons, 87 <lb/>of whom appeared to be armed) and at the distance[?] <lb/>of about two acres. Mr M'Cord, with some other <lb/>respectable citizens, pointed out the impropriety of <lb/>their conduct, and the fate that would unfortunately <lb/>await their perseverance ; urging them, by every per<lb break="no"/>suasion, to disperse and return peaceably to their horses <lb/>and obey the law.</p>
+                <p>They replied, that they did not consider the mi<lb break="no"/>litia bill as fully passed–that they were informed it <lb/>had not received the Royal sanction ; and that al<lb break="no"/>though it might have passed the House of Assem<lb break="no"/>bly, where it originated, it had not obtained the ap<lb break="no"/>probation of the other branches of the Legislate ; <lb/>that the law, if really enacted, had not been proma<lb break="no"/>gated amongst them, and that they were not properly <lb/>made acquainted with it ; as such, they could not <lb/>pay obedience to it.</p>
+                <p>Under this false and unfortunate impression, these <lb/>deluded people persisted ; but at the same time de<lb break="no"/>clared, with shouts of <hi rend="italic">Vive le Roi</hi>  that if the Govern<lb break="no"/>ment wanted their services at any time, they were <lb/>ready, one and all, to come forward with their lives <lb/>in the defence of their country, and that they would <lb/>prove themselves, in the hour of danger, to be faithful <lb/>subjects to a Government to which they were firmly <lb/>attached by every principle.</p>
+                <p>Finding, however, that they still persisted in their <lb/>determination on this particular object, Mr M'Cord, <lb/>in his Magisterial capacity, read the riot act to them <lb/>and ordered them to disperse ; which not being com<lb break="no"/>plied with, a round shot was fired by the artillery, <lb/>but elevated above injury, which was returned by the <lb/>insurgents in a spirited fire with ball, deserving of a <lb/>better cause. The troops then fired a volley with ball <lb/>and grape, but still too much elevated to do any harm <lb/>which was also returned by another discharge from <lb/>the mob, upon which a few direct shots were fired <lb/>at them (it being nearly dark) by the military, which <lb/>made them disperse, and one man was found killed <lb/>and another wounded, it is feared mortally.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>105</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1812-10-03"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="plural" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                            <item>colonial government</item>
+                            <item>speeches</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Upper Canada </hi>
+               <lb/>York, July, 28.</p>
+                <p>Yesterday, at an early hour, his Honour, Isaac <lb/>Brock, Esq. administering the Government of Up<lb break="no"/>per Canada, and Major-General, commanding his <lb/>Majesty's forces therein, arrived at this place from <lb/>Fort-George, and accompanied by a numerous suite <lb/>proceeded to the Government Building at four <hi rend="smallcaps">p.m. </hi>
+               <lb/>when he opened the present extra session of the Le<lb break="no"/>gislature, and delivered the following speech to both <lb/>houses :–</p>
+                <p>"Honourable Gentlemen of the Legislature, Council <lb/>and Gentlemen of the House of Assembly,</p>
+                <p>"The urgency of the present crisis is the only considera<lb break="no"/>tion which would have induced me to call you together, at a <lb/>time when public as well as private duties elsewhere demand <lb/>your care and attention.</p>
+                <p>"But, Gentlemen, when invaded by an enemy whose <lb/>avowed object is the entire conquest of this province, the <lb/>voice of loyalty, as well as of interest, calls aloud to every <lb/>person, in the sphere in which he is placed, to defend his <lb/>country.</p>
+                <p>"Our militia have heard that voice and have obeyed it ; <lb/>they have evinced, by the promptitude and loyalty of their <lb/>conduct, that they are worthy of the King whom they serve <lb/>and of the constitution which they enjoy ; and it affords me <lb/>particular satisfaction, that, while I address you as Legisla<lb break="no"/>tors, I speak to mean who, in the day of danger, will be <lb/>ready to assist, not only with their counsels, but with their <lb/>arms.</p>
+                <p>"We look, Gentlemen, to our militia, as well as to the <lb/>regular forces, for our protection ; but I should be wanting to <lb/>that important trust committed to my care, if I attempted to <lb/>conceal (what experience, the great instructor of mankind, <lb/>especially of legislators, has discovered) that amendment <lb/>in our militia laws is necessary to render them efficient. It is <lb/>for you to consider what further improvements they still may <lb/>require.</p>
+                <p>"Honourable Gentlemen of the Legislative Council, <lb/>and Gentlemen of the House of Assembly,</p>
+                <p>"From the history and experience of our mother country, <lb/>we learn, that in times of actual invasion or internal commo<lb break="no"/>tion the ordinary course of criminal laws has been found in <lb/>adequate to secure his Majesty's Government from private <lb/>treachery, as well as from open disaffection ; and that at such <lb/>times its Legislature has found it expedient to enact laws re<lb break="no"/>straining, for a limited period, the liberty of individuals, in <lb/>many cases where it would be dangerous to expose the parti<lb break="no"/>culars of the charge ; and although the actual invasion of the <lb/>province might justify me in the exercise of the full power re<lb break="no"/>posed in me on such an emergency, yet it will be more agree<lb break="no"/>able to me to receive the sanction of the Houses.</p>
+                <p>"A few traitors have already joined the enemy–have been <lb/>suffered to come into the country with impunity–and have <lb/>been harboured and concealed in the interior ; yet the general <lb/>spirit of loyalty which appears to pervade the inhabitants of <lb/>this province, is such as to authorise a just expectation that <lb/>their efforts to mislead and deceive will be unavailing– <lb/>The disaffected, I am convinced, are few–To protect and <lb/>defend the loyal inhabitants from the machinations, is an ob<lb break="no"/>ject worthy of your most serious deliberations."</p>
+                <p>The speech concludes with a call for supplies.</p>
+                <p>
+               <hi rend="smallcaps">Proclamation</hi>
+            </p>
+                <p>The unprovoked declaration of war by the United <lb/>States of America, against the united kingdom of <lb/>Great Britain and Ireland, and its dependencies, has <lb/>been followed by the actual invasion of this province <lb/>in a remote frontier of the western districts, by a <lb/>detachment of the United States. The officer com<lb break="no"/>manding that detachment has thought proper to in<lb break="no"/>vite his Majesty's subjects, not merely to a quiet and <lb/>unresisting submission, but insults them with a call <lb/>to seek voluntarily the protection of his Govern<lb break="no"/>ment.</p>
+                <p>Without condescending to repeat the illiberal <lb/>epithets bestowed in this appeal of the American <lb/>Commander to the people of Upper Canada, on the <lb/>administration of his Majesty, every inhabitant of <lb/>the province is desired to seek the confutation of <lb/>such indecent slander in the review of his own par<lb break="no"/>ticular cirumstances. Where is the Canadian sub<lb break="no"/>ject, who can truly affirm to himself that he has <lb/>been injured by the Government in his person, his <lb/>property, or his liberty? Where is to be found, in <lb/>any part of the world, a growth so paid in pros<lb break="no"/>perity and wealth as this colony exhibits? Settled <lb/>not thirty years by a band of veterans, exiled from <lb/>their former possessions on account of their loyalty, <lb/>not a descendant of these brave people it to be found, <lb/>who, under the fostering liberality of their Sovereign, <lb/>has not acquired a property and means of enjoyment, <lb/>superior to what were possessed by their ancestors. <lb/>This unequalled prosperity would not have been at<lb break="no"/>tained by the utmost liberality of the Government, <lb/>or the persevering industry of the people, had not <lb/>the maritime power of the mother country secured <lb/>to its colonists a safe access to every market where <lb/>the produce of their labour was in request. The <lb/>unavoidable and immediate consequence of a sepa<lb break="no"/>ration from Great Britain, must be the loss of this <lb/>inestimable advantage, and what is offered to you in <lb/>exchange? To become a territory of the United <lb/>States, and share with them that exclusion from the <lb/>ocean which the policy of their Government en<lb break="no"/>forces ; you are not even flattered with a participa<lb break="no"/>tion of their boasted independence ; and it is but <lb/>too obvious, that once exchanged from the power<lb break="no"/>ful protection of the United Kingdom, you must be <lb/>re-annexed to the dominion of France, from which <lb/>the provinces of Canada were wrested by the arms <lb/>of Great Britain at vast expence of blood and <lb/>treasure, from no other motive than to relieve her <lb/>ungrateful children from the oppression of a cruel <lb/>neighbour ; the restitution of Canada to the empire <lb/>of France, was the stipulated reward for the aid af<lb break="no"/>forded to the revolted colonies, now the United <lb/>States ; the debt is still due, and there can be no <lb/>doubt but the pledge has been renewed as a consi<lb break="no"/>deration for commercial advantages, or rather for an <lb/>expected relaxation in the tyranny of France over <lb/>the commercial world. Are you prepared, inhabit<lb break="no"/>ants of Canada, to become willing subjects, or <lb/>rather slaves to the despot who rules the nation of <lb/>Europe with a rod of iron? If not, arise in a body, <lb/>exert your energies, co-operate cordially with the <lb/>King's regular forces, to repel the invader, and do <lb/>not give cause to your children, when groaning <lb/>under the oppression of a foreign master, to reproach <lb/>you with having too easily parted with the richest in<lb break="no"/>heritance of this earth–a participation in the name, <lb/>character, and freedom of Britain.</p>
+                <p>[The proclamation concludes with a declaration, <lb/>that should the Americans refused quarter in conse<lb break="no"/>quence of Indians being found in Canadian ranks, <lb/>that a severe and rigorous retaliation will take <lb/>place.]</p>
+                <p>
+               <hi rend="smallcaps">Isaac Brock</hi>, Major-Gen. and President <lb/>Head-quarters, Fort George, July 22, 1812.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>106</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1812-10-03"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="govt"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="plural" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>speeches</item>
+                            <item>military</item>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Quebec Papers</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Provincial Parliament of Lower Canada </hi>
+               <lb/>
+               <hi rend="smallcaps">Legislative Council</hi> –Aug 1.</p>
+                <p>This day at two o'clock, his Excellency the <lb/>Governor in Chief went in the usual state to the <lb/>Legislative Council Chamber, and being seated on <lb/>the Throne, the Gentlemen Usher of the Black <lb/>Rod was sent to command the presence of the As<lb break="no"/>sembly, which being come up, the Honourable <lb/>Speaker of the Assembly said–</p>
+                <p>"May it please your Excellency,</p>
+                <p>"His Majesty's faithful subjects, the representatives of <lb/>the province of Lower Canada, have passed a bill, intituled, <lb/>"An Act of facilitate the Circulation of Army Bills." Their <lb/>loyalty, and the happiness of this province in being connected <lb/>with, and powerfully protected by the British nation, are the <lb/>basis of their constitution, and the just grounds which gave <lb/>rise to the formation of the militia, and the firm determina<lb break="no"/>tion to defend this country against the unexpected and unjust <lb/>war that the United States have lately declared ; they are, <lb/>therefore, under the greatest obligation to your Excellency <lb/>for having communicated to them your wise precautions, on <lb/>the means to ameliorate and insure for several years, the <lb/>punctual payment of the army, by circulating bills, the reim<lb break="no"/>bursement of which is guaranteed in England. To give them <lb/>greater credit, the bill limits the sums necessary, and, more<lb break="no"/>over, provides for the interest, the advantages accruing there<lb break="no"/>from, and even for the payment of the principal in specie in <lb/>this province, which has become expressly bound for the <lb/>same at a fixed period, to any person whatever, who, from <lb/>the state of his private affairs, would prefer such payment.</p>
+                <p>"In full confidence that, under the present and any un<lb break="no"/>foreseen circumstance, your Excellency is invested with all <lb/>necessary authority, the representatives of the province and <lb/>their constituents rely on the wisdom already experienced of <lb/>your administration, and in the name of the Commons of <lb/>Lower Canada, I have the honour to present this bill to your <lb/>Excellency, humbly requesting thereto his Majesty's assent."</p>
+                <p>His Excellency was pleased to signify the Royal <lb/>assent.</p>
+                <p>His Excellency then addressed both Houses, <lb/>and the Provincial Parliament was prorogued to the <lb/>16th of September.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>107</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1812-11-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+                    <head>
+                  <hi rend="smallcaps">War in Canada</hi>
+                    </head>
+            </p>
+                <p>
+               <hi rend="smallcaps">Extract of a letter from Montreal Sept. 25</hi>
+            </p>
+                <p>"Our Friend Mr – arrived in town from New <lb/>York a few days ago. On his way he passed three <lb/>days at Plattsburgh, the head-quarters of the Ame<lb break="no"/>rican army, which, from ocular observation, he states <lb/>to consist of 8 or 10,000 men, under the command <lb/>of General Bloomfield, Mooar, and Petit. This <lb/>force is composed of 3 or 4000 regulars, about the <lb/>same number of militia, and some volunteers from the <lb/>southward. The militia is almost all from the state <lb/>of New York, for the Yankees still refuse to march. <lb/>with this force no doubt is entertained here but they <pb/>will make an attack ; and if they mean to make it <lb/>this season, they must be prompt in their movements, <lb/>for the weather is getting cold, and they are not well <lb/>clothed or appointed. Mr –, indeed, states <lb/>half of them to be without shoes or stockings, <lb/>which will never do for a winter campaign in this <lb/>country. To repel the threatened attack, we are <lb/>making every preparation in our power, and the Ca<lb break="no"/>nadians seem well disposed to second the Govern<lb break="no"/>ment. Sir George Prevost has established a cordon, <lb/>the left of which is at Chambly, and extending to <lb/>Chateaguny ; the main encampment is half way be<lb break="no"/>tween St John's and La Prairie. Colonel Murray <lb/>is at St John's with a battalion ; and the Isle-au<lb break="no"/>Noix is strongly fortified, with a boom and a chain <lb/>secured across the river. This line of defence is <lb/>composed of four regiments of the line, and 2000 <lb/>drafted militia, with a corps of about 400 Canadian <lb/>voltigeurs, raised last spring. The Royals, a very <lb/>strong battalion, lately arrived from the West Indies, <lb/>are now marching to join the camp. The citizens, <lb/>both here and at Quebec, mount guard, and do <lb/>garrison : indeed there are in this island <lb/>(Montreal) five battalions of militia, say 3 to <lb/>4000 men, pretty well disciplined, and who on an <lb/>alarm could march to this cordon in half a day.– <lb/>A new regiment of embodied militia has late<lb break="no"/>ly been formed by drafts from the different regi<lb break="no"/>ments of inrolled militia in this island, and old Major <lb/>Murray is appointed Lieutenant-Colonel. The gen<lb break="no"/>tlemen of the North-west Company army are forming <lb/>a corps of their voyageurs, who will be most useful <lb/>troops to act in advance with the Indians. The <lb/>number originally proposed was 200, but the men <lb/>have come forward so handsomely, that they are to <lb/>consist of 500. Mr M'Gillivray is Lieutenant-Co<lb break="no"/>lonel Commandant of this corps, Mr Shaw, Major, <lb/>and the other partners of the Company are Captains <lb/>and subalterns ; so that the men being commanded <lb/>by those whom they have accustomed to obey, may <lb/>be considered as already disciplined, at least in point <lb/>of subordination.</p>
+                <p>"Sir George confines his operations to mere de<lb break="no"/>fence. La Motte, with about 70 Indians, advanced <lb/>through the woods, about ten days ago, within hear<lb break="no"/>ing of this redoubtable army, and set up a war whoop, <lb/>which so completely terrified them that though they <lb/>could see no enemy, they lay on their arms for two <lb/>two successive nights, in no expectation of an attack–to <lb/>prevent which, they cut down their best bridge, and <lb/>destroyed all the roads by which I suppose they mean <lb/>to invade us. Mr –, who was several days at <lb/>their headquarters, and who was offered the rank of <lb/>Lieutenant-Colonel in the army, has, it is said, pro<lb break="no"/>posed to Sir George to destroy their camp with 500 <lb/>men ; and Sir George is said to have replied, that his <lb/>plan was fixed, not to make any attack nor to send a <lb/>man across the line.</p>
+                <p>"This forebearance, which the Yankees impute to <lb/>fear or weakness, tends only to increase their insolent <lb/>swaggering, and their enmity is to inveterate to be <lb/>allayed by any thing but hard knocks."</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

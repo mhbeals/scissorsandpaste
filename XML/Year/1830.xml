@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>216</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1830-04-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                            <item>nationalism</item>
+                            <item>emigration</item>
+                            <item>disease</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">The King's Health.</hi>
+            </p>
+                <p>It will be seen from our private letter, that unfavou<lb break="no"/>rable accounts respecting his Majesty's health were cir<lb break="no"/>culating in London at 7 o'clock on Wednesday even<lb break="no"/>ing. In our last we alluded to the suspicions which <lb/>the non-appearance of bulletins for four days after the <lb/>first, gave rise to. On Monday a second bulletin ap<lb break="no"/>peared, certainly not of a character to remove the pub<lb break="no"/>lic anxiety, and this has been followed by two days' <lb/>silence. Every one naturally puts the question, "If <lb/>his Majesty is better, why not state this in a bulletin, <lb/>that the thousand discouraging rumours in circulation <lb/>may be put to rest?" The <hi rend="italic">Morning Chronicle </hi>
+               <lb/>says, that the high officers of State are not much <lb/>better informed on the subject than others, and that <lb/>a knowledge of his Majesty's real condition is <lb/>confined to the very few immediately around his <lb/>person. In the absence of correct information, infe<lb break="no"/>rences are drawn from every passing circumstance. It <lb/>was observed that Sir Henry Halford very shortly after <lb/>his return from Windsor on Tuesday morning had a <lb/>long interview with the Duke of Wellington ; and it <lb/>has not escaped notice, that his Majesty's sister, the <lb/>Duchess of Gloucester, had been sent for to visit him. <lb/>The <hi rend="italic">Globe</hi>  says, that according to reports which are <lb/>circulated in high quarters, his Majesty's illness ex<lb break="no"/>cites considerable alarm, and that gout in the <lb/>stomach is complicated with dropsical symptoms. <lb/>What credit may be due to these statements, we <lb/>cannot tell; but whether they be true or false, <lb/>they furnish a reason for the publication of offi<lb break="no"/>cial intelligence. The King's health is a matter <lb/>which concerns the public deeply, and all mystery and <lb/>deception on the subject are most reprehensible. We <lb/>refer to our London head for a variety of articles upon <lb/>the subject ; and if this night's mail bring any addi<lb break="no"/>tional information of importance we shall publish it <lb/>in a secoond edition.</p>
+                <p>The two Houses of Parliament meet again on <lb/>Monday.</p>
+                <p>We publish the address of the Birmingham Union <lb/>to day, and meant to accompany it with some remarks, <lb/>but have only time at present to express out regret <lb/>that so masterly a paper, dealing in great and immu<lb break="no"/>table principles, should have its value lessened by <lb/>being so much mixed up with ephemeral matters, and <lb/>with false or questionable doctrines respecting cur<lb break="no"/>rency.</p>
+                <p>The passion for emigrating to Swan River has not <lb/>received any check. There are four ships now at Lon<lb break="no"/>don, and as many more at other ports, which are pre<lb break="no"/>paring to sail for the settlement with passengers. In<lb break="no"/>deed the numbers who are flying from the country at <lb/>this moment who are, we believe, quite unprecedented. <lb/>Within the last ten days we have seen notices of fifteen <lb/>ships that were loading with emigrants at Hull, twelve <lb/>at Waterford, and several at Bristol, Liverpool, and <cb/>Greenock, all destined, we think, for the United States, <lb/>or British America. The exportation of human beings <lb/>from the British Isles, to different quarters of the <lb/>world, must now be proceeding at the rate of one or <lb/>two thousand per week.</p>
+                <p>It will be remembered, that according to reports <lb/>from India received some time ago, Lord William <lb/>Bentick had issued an order, abolishing those horrid <lb/>human sacrifices, the <hi rend="italic">Suttees</hi>. Doubts were thrown <lb/>upon this intelligence when the subject was lately <lb/>talked of in Parliament ; but we are happy to say, that <lb/>its accuracy is confirmed by the arrival of the official <lb/>document. It is disgraceful to the British Indian Go<lb break="no"/>vernment, that it has been hitherto either so callous, <lb/>that it overlooked this enormity, or so ignorant of its <lb/>own resources, and the true state of the people under <lb/>its authority, as to believe that it had not power to <lb/>effect its abolition.</p>
+                <p>The report of a revolution having taken place in <lb/>Chili, is confirmed in letters from Bogota. The <lb/>constitutional Director, Pinto, has been driven out of <lb/>the capital by General Prieto with an armed force, and <lb/>great excesses are said to have been committed.</p>
+                <p>A small fleet sailed lately from Cadiz for Havannah, <lb/>with 2000 soldiers on board. The expedition is sup<lb break="no"/>posed by some to be intended for the invasion of <lb/>Mexico ; but it is more likely to find employment in <lb/>keeping down the elements of insurrection in Cuba– <lb/>The plot to which we alluded in our last, seems to have <lb/>excited much alarm. Some of the most opulent fa<lb break="no"/>milies in the island, with several lawyers and official <lb/>persons, were concerned in it. Their object was, as we <lb/>conjectured, to convert the island into an independent <lb/>republic.</p>
+                <p>From a detailed list published in the French papers, <lb/>it appears that the expedition against Algiers is to be <lb/>composed of 34,000 men, infantry, cavalray, and artil<lb break="no"/>lery.</p>
+                <p>Farther intelligence has been received from the ca<lb break="no"/>pital of Colombia to the 14th of February. A warm <lb/>address had been presented by the Congress to Bolivar, <lb/>entreating him not to abandon the republic at a mo<lb break="no"/>ment when its existence was menaced by conspiracies; <lb/>and he seems to have once more consented to remain <lb/>in office. Commissioners had been appointed to pro<lb break="no"/>ceed to Valentia, and endeavour to accomodate the <lb/>differences between the people of Venezuela and the <lb/>central government, by peaceable means. If these <lb/>failed it was determined to employ force. The Congress <lb/>was in session at Bogota, and was proceeding to fulfil the <lb/>object for which it had been assembled, by drawing up <lb/>a new constitution. The bases are published, and though <lb/>the present only an imperfect sketch of its plan, <lb/>they disclose one or two features which seem to be cha<lb break="no"/>racteristic. The government is to be <hi rend="italic">central</hi>, as it has <lb/>hitherto been, not <hi rend="italic">federal</hi>  like that of the United States, <lb/>which has served as a model to Mexico, Guatemala, <lb/>and La Plata. In the one case the supreme authority <lb/>is vested in a single legislature, which meets in the ca<lb break="no"/>pital ; in the other it is divided among a number of <lb/>local assemblies, while the general congress represent<lb break="no"/>ing the whole, wields no other powers than what is ne<lb break="no"/>cessary to hold the separate members in a state of <lb/>union. The federal system, which leaves to every pro<lb break="no"/>vince the management of its own concerns, has ad<lb break="no"/>vantages for a settled and enlightened community ; but <lb/>whether it is equally adapted to the circumstances of <lb/>an ignorant people newly escaped from political con<lb break="no"/>vulsions, is very questionable. There seems, how<lb break="no"/>ever, to be a partiality for the federal system in the <lb/>new world ; and to humour this feeling, the new con<lb break="no"/>stitution provides, that "Chambers of Districts" shall <lb/>be established, with powers to decide on all municipal <lb/>and local affairs. The difficulty will be, to give these <lb/>bodies the powers necessary to develope the industry <lb/>and resources of the country, without permitting them <lb/>to impose taxes, and exercise other legislative functions, <lb/>which will interfere with the business of the general <lb/>government. Another articl state, that the members <lb/>of the Senate and House of Representatives are to hold <lb/>their seats for a considerable time, in order " to avoid <lb/>the inconveniences resulting from frequent changes, or <lb/>the repeated election of the same person." In the <lb/>mouth of an English statesman, we should consider <lb/>this vile sophistry ; but allowance must be made <lb/>for the <hi rend="italic">res dur? novitas regni</hi>, in a new <lb/>state like Colombia, formed of heterogenous ele<lb break="no"/>ments, among which it is not easy to establish <lb/>any principle of cohesion. One the same grouns, the <lb/>Columbian legislators may be pardoned for resolving <lb/>that the Catholic religion is that of the state, and that <lb/>no other shall be permitted. This is merely a conces<lb break="no"/>cession for the sake of peace, to prejudice which the <lb/>government is not strong enough to subdue, and can<lb break="no"/>not defy without great danger. Nothing is said about <lb/>the mode of election, or the power of the President, two <lb/>points of vital consequence, which may give a new <lb/>complexion to the whole scheme. We have made <lb/>these remarks on the proposed constitution, because it <lb/>probably holds out the last chance of composing the <lb/>trouble of Columbia. If it does not satisfy the people <lb/>other provinces will soon follow the example of Vene<lb break="no"/>zuela, and all the address and influence of Bolivar will <lb/>not prevent the republic from splitting into four or <lb/>five independent communities, whose mutual jealousness <lb/>and wars will crush the librties, and destroy the pro<lb break="no"/>sperity of the whole.</p>
+                <p>
+               <hi rend="smallcaps">Private Correspondence. </hi>
+               <lb/>
+               <hi rend="italic">London, Wednesday Evening. </hi>
+               <lb/>
+               <hi rend="smallcaps">The King's Health</hi>
+            </p>
+                <p>We are sorry to state that the private accounts re<lb break="no"/>ceived from Windsor this afternoon, do not speak so <lb/>favourably of his Majesty's health as the Court Circu<lb break="no"/>lar, and most of the assertions of the papers published <lb/>this afternoon. There having, however, been no bul<lb break="no"/>letin issued up to the present hour (7 o'clock) must</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>217</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1830-10-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Swan River Settlement.</hi> –On the 13th inst. the <lb/>Swedish ship <hi rend="italic">Sterling</hi>, Captain D. E. Hogan, with a <lb/>Swedish crew, sailedfrom Gottenburgh, Sept. 22, for <lb/>the settlement in Swan River. Among the cargo are <lb/>eleven wooden houses, built here, and consisting of <lb/>four to ten rooms, which have been taken to pieces and <lb/>will be easily put up again, all the pieces being mark<lb break="no"/>ed. It is probable that many similar cargoes will fol<lb break="no"/>low, as timber and labour are so cheap in this country.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>218</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1830-11-10"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>shipping news</item>
+                            <item>emigration</item>
+                            <item>settlement description</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Messrs Marshall have made a most interesting addi<lb break="no"/>tion to their beautiful Panorama of Botany Bay, Al<lb break="no"/>giers, &amp;c. of several Views illustrative of the principal <lb/>events of the late Revolution in Paris, and from the <lb/>brilliant and effective style in which they are got up, <lb/>must draw the attention of the Public in no ordinary <lb/>manner.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

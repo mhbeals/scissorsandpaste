@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>219</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1831-06-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">The Wool Trade.–London, Thursday Night.– </hi>
+               <lb/>This afternoon the first sale of wools for a long time <lb/>past took place at Garraway's Coffee-house. The <lb/>quantity announced for sale to-day was nearly 200 bales, <lb/>consisting of about 100 bales of New South Wales <lb/>wool, 50 bales of Van Dieman's Land wools, &amp;c. The <lb/>New South Wales wool was first put up and went off <lb/>very briskly at prices averaging from 1s 4 1/2d to 1s 10d <lb/>per lb., which quotations are higher than those last <lb/>obtained. The Van Dieman's Land wools were sold <lb/>by order of the Van Dieman's Land Company, being <lb/>a portion of the last arrivals from the Company's flocks. <lb/>They met a very ready sale, and the average prices ob<lb break="no"/>tained were from 1s 5d to 2s 1d per lb. The arrivals <lb/>from Germany and other places this year are expected <lb/>to be very great.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>220</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1831-06-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>religion</item>
+                            <item>shipping news</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The brig Stirling Castle, Captain Fraser, sailed from <lb/>Greenock on Wednesday morning, for Sidney, New <lb/>South Wales, having on board the Rev. J. D. Lang, <lb/>minister of the Scots Church, in Sydney, and two other <lb/>Presbyterian Ministers ordained to new stations in that <lb/>colony ; also three Professors, intended for which a liberal Go<lb break="no"/>vernment grant has been obtained. There are also on <lb/>board above 40 respectable mechanics with their fami<lb break="no"/>lies, consisting chiefly of joiners, masons, and others <lb/>required for the building of the College, and a good <lb/>many of whom are fromthis town, making the num<lb break="no"/>ber of passengers in all about 140, of whom above 20 <lb/>and cabin passengers.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>221</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1831-07-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>THE EQUALITY OF SEXES.–The <hi rend="italic">Examiner</hi>  of Sa<lb break="no"/>turday las has some witty remarks on the plaint which <lb/>appeared in our paper on the excess of females over <lb/>males in the census, which he assures us is entirely <lb/>owing to the lives of females being prolonged by their <lb/>better regularity. This is a sly censure upon the ha<lb break="no"/>bit of our countrymen, one-fifth, or sixth part of whom <lb/>we were supposed by implication to be cut off perma<lb break="no"/>nently by intemperance! We admit that a few hearty <lb/>fellows do go off in apoplexy; but we deny that the <lb/>number bears any proportion to the amount supposed; <lb/>we have two other remarks to make on his state<lb break="no"/>ment. First, since our manners were corrupted by im<lb break="no"/>itating <hi rend="italic">English</hi>  fashions, it is whispered, we hope un<lb break="no"/>, that there are such things as tippling women in <lb/>country, some of whom do disappear suddenly–no <lb/>matter how; and secondly, we wish our London friend <lb/>inform us how it happens, that while all Broad <lb/>England has only an excess of 11 1/2 per cent females, <lb/>Edinburgh should have no less than 24! We under<lb break="no"/>stand that since this astounding fact was brought out, <lb/>there has been a great efflux of ladies from the city to <lb/>the adjoining counties. We know a number who have <lb/>or are flying to Fife and the north. A friend, who <lb/>careful observer, compares it to the dispersion of <lb/>the Jews. The ladies, he says, attribute their flight to <lb/>
+               <hi rend="italic">Cholera Maribus!</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>222</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1831-12-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The Ann Jameson, Alexander, sailed from Leith <lb/>Roads on Tuesday morning for Bombay, Van Die<lb break="no"/>men's Land, and New South Wales, with a full cargo, <lb/>between twenty and thirty passengers, consisting mostly <lb/>of young ladies.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>223</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1831-02-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>transportation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">The Machine Breakers.</hi> –A convict ship at Ports<lb break="no"/>mouth is on the point of sailing for Van Diemen's <lb/>Land, with between two and three hundred convicts on <lb/>board, who have been lately convicted for machine<lb break="no"/>breaking, extorting money, and other offences com<lb break="no"/>mitted in the disturbed counties. Another ship, with <lb/>convicts of the same description, will be dispatched for <lb/>New South Wales, in about a fortnight. These con<lb break="no"/>victs have been kept entirely separate from all other <lb/>prisoners, and an accurate report will be made to the <lb/>Governors of the Colonies, as to their former character, <lb/>their trades and employments, and the recommenda<lb break="no"/>tions which have been made in their favour subsequent<lb break="no"/>ly to their trials. The capital convicts whose lives <lb/>have been spared, are to be transported for life; and <lb/>the convicts, sentenced and recommended by the Judges <lb/>for transportation, are to be transported according to <lb/>their respective sentences.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

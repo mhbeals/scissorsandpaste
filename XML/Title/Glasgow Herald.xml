@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>162</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-04-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Upper Canada</hi>
+            </p>
+                <p>Extract from " A Visit to the Province of Upper Canada, <lb/>in 1819," By <hi rend="smallcaps">James Strachan.</hi>
+            </p>
+                <p>[?] the Stream of Emigration now chiefly to the <lb/>United States, and not to Canada.</p>
+                <p>The greater number are decieved; they know no<lb break="no"/>[?] of this country. Many leave Great Britain from <lb/>[?] discontents; and such the province is better. <lb/>[?]. Lately the notes of Mr. Birkbeck have ex<lb break="no"/>[?] much consideration; and all his assertions have <lb/>[?] believed, without investigation. Though I <lb/>[?] [?] a bad man (I know him only from his <lb/>[?] yet he is much to be pitied, for his choice is <lb/>[?]; and by this time he begins to feel it. <lb/>[?] Birkbeck, accustomed to all the comforts, and, <lb/>[?], much of the elegance of life, plunges, <lb/>[?[ family, into a forest, where they have fre<lb break="no"/>[?] to sleep under the canopy of heaven with a <lb/>[?]. He is forced to take the axe in his hand, <lb/>[?] in felling the pines of which he is to make <lb/>[?], which he builds at a great distance <lb/>[?] neighbour–opening to a wet plain, in <lb/>[?] and an impenetrable forest in the rear. This <lb/>[?] covered with bark–it has no floor but <lb/>[?] as the surrounding country is flat, there <lb/>[?], and no boards to be had. Mr Birk<lb break="no"/>[?] date not leave home, for any distance, with<lb break="no"/>[?] guide; and his children cannot go twenty <lb/>[?] from the house, without being lost. He gets <lb/>[?] pressing of his wants supplied at an enor<lb break="no"/>mous[?] expense. And now, that he is on his land. <lb/>[?] shall he do; it is covered with trees, or it is <lb/>[?] unhealthy; and if he hire people to work, <lb/>[?] of the farm will never pay them: but <lb/>[?] bae servants, and he is obliged to sit down <lb/>[?] them, and to become their companion. Mr. <lb/>Birkbeck[?], who was accustomed to go from one field <lb/>to another, admiring his crops and his cattle, and <lb/>thing to do but to give the servants their orders <lb/>the day, and saw all his works proceeding as ra<lb break="no"/>[?] as he wished, now finds himself an insulated <lb/>[?], surrounded by a few miserable fiels, taken <lb/>[?] the bog, and full of musquetoes; his children <lb/>[?] sick from this unhealthy situation; and, in <lb/>[?] severe disease, beyond the reach of medical <lb/>assistance. It is possible to believe that, under such <lb/>circumstances, he does not regret the country he has <lb/>[?]. And let me not be told that the prospect of <lb/>[?]] his children a rich inheritance will turn the <lb/>[?] into sweet–he is not that sort of man; nor do <lb/>[?] any law of nature which urges a parent to <lb/>[?] his own happiness, in order to confer a doubt<lb break="no"/>[?] upon his children. We allow that, after a <lb/>[?], he will be surrounded with neighbours; <lb/>[?] their society is not very agreeable; it is indeed <lb/>[?], as Mr Birkbeck himself admits. After <lb/>[?] his connexions, his country, all his early <lb/>[?] and pleasing recollections, his ease and <lb/>[?] what does he gain? Some landed property, <lb/>[?] he dies in improving, in an unhealthy situa<lb break="no"/>tion[?]. He may not be able to leave a farm to each of his <lb/>children[?]; but of what use will they be if not culti<lb break="no"/>vated[?]? And he will discover in the bitterness of <lb/>[?], that this legacy is not equal to the placing <lb/>[?] upon a farm, though taken at a rack-rent. <lb/>[?] different the situation of a loyal farer, pos<lb break="no"/>[?] of Mr. Birkbeck's substance, if he should <lb/>[?] this province[?]![?] He need not go ten miles from <lb/>[?] settlement, even if he went at once up<lb break="no"/>[?] lands granted him by the crown. But, if he <lb/>[?] an improved farm, his privations will be <lb/>[?] compared to those which he must suffer in <lb/>[?] to the back settlements of the United States, as <lb/>[?] still more fully appear.</p>
+                <p>It should not, however, be forgotten, that, with <lb/>[?] possible advantage of soil, neighbourhood, <lb/>[?] climate, emigration to America, a country so <lb/>[?] from Great Britain, is a matter of deep and <lb/>[?] consideration. The persons emigrating <lb/>[?] civil in their property, break up all commerce, <lb/>[?], and connexions in the country they are leav<lb break="no"/>[?] and if they find their expectations disappoint<lb break="no"/>[?] the country of their choice, they are ashamed, <lb/>perhaps unable, to return. Emigrants often fail, <lb/>[?] they have never examined their subjects pro<lb break="no"/>[?] and find, on trial, that they do not possess <lb/>qualities to insure success.–The habits, <lb/>knowledge, and accomodation of manners, <lb/>[?] this new life requires, are not, perhaps, na<lb break="no"/>[?] to them–they have not the strength, the <lb/>[?] and perseverance, which their new situation <lb/>[?]. The emigrant is not prepared to meet the <lb/>difficulties[?] which the climate, new manner of living, <lb/>[?] or vermin, may bring upon him; and which, <lb/>[?] of all his exertions, may frequently destroy <lb/>[?]. It is, therefore, the greatest cruelty to <lb/>[?] the matter partially; and, while the advantages <lb/>[?] from the old to the new world are drawn <lb/>[?] most fascinating colours, to conceal the priva<lb break="no"/>[?] and sacrifices which must be made, and the <lb/>[?] of failure which may be opposed to <lb/>of success.</p>
+                <p>We[?] shall have occasion to prove, by the most un<lb break="no"/>[?] the evidence, that Upper Canada offers to emi<lb break="no"/>[?] advantages, vastly superior to any portion of <lb/>[?] United States; but we would still admonish <lb/>[?] thinking to leave their native country, <lb/>[?] the matter with severe minuteness, not <lb/>[?] away by golden dreams; and to prepare <lb/>[?] should they decide upon going, to meet <lb/>[?] [?] from sickness, from different <lb/>[?], [?] labour, and privations of various <lb/>[?] Yet though no step can be so important as <lb/>[?] leaving one native's country for ever, it is to <lb/>[?] that such a step is taken without due con<lb break="no"/>[?]. The fancy is deluded with goldren dreams; <lb/>farmers[?] in America are owners of the soil on <lb/>[?] they live; they have no rents to pay, no tax<lb break="no"/>[?] their doors; possessing a noble indepen<lb break="no"/>[?] they acknowledge no superiority but genius <lb/>[?]. These are high sounding things, but <lb/>[?] than solid. Before a man allows him<lb break="no"/>[?] deluded by them, he should remember, <lb/>[?] no great hardship to pay rent, if his pro<lb break="no"/>[?] three times the price in England that it <lb/>[?] America; that the difficulty of bringing <lb/>[?] to maret, a tax, not perhaps inferior <lb/>[?] he had paid at home, and attended with <lb/>difficulties[?] which he never experience; that <lb/>[?] of intercourse by good roads and canals, <lb/>[?] time, and the tear and wear of his car<lb break="no"/>[?] amd cattle are worth a very considerable sum; <lb/>in removing from his native country, he is <lb/>[?] the improvements of a thousand years, to en<lb break="no"/>[?] all the rudeness of nature; that he is risking <lb/>[?] happiness, and that of his children, by a <lb/>[?] [?] be retraced, and plunging into <lb/>[?] whose manner and habits are differ<lb break="no"/> 
+               <cb/>ent from his own; and that he will have every thing <lb/>to learn in the midst of strangers.</p>
+                <p>When a man has, after mature deliberation, de<lb break="no"/>termined to emigrate, which various considerations <lb/>may, in particular cases, render prudent, his next <lb/>question is, Where shall he go–to the United States <lb/>or to Canada? We shall suppose the persons emi<lb break="no"/>grating to be friends to the British constitution; for <lb/>if they are not, there is no question; because level<lb break="no"/>lers and democrats will find themselves in a bad <lb/>situation in coming to Canada, as they will find no <lb/>kindred spirits there. But though we can willing<lb break="no"/>ly spare such as these, to lose good subjects is a <lb/>serious evil to the empire; and to lose them through <lb/>ignorance, and the want of that information which <lb/>it is in our power to give, is a folly, as well as <lb/>all evil.</p>
+                <p>I am persuaded, that all emigrants, of the descrip<lb break="no"/>tion we mention, would rather prefer to remain un<lb break="no"/>due their own government, than to live under and <lb/>swear allegiances to another, provided no greater <lb/>sacrifices were required in going to the one than to <lb/>the other. I am indeed quite certain, that many <lb/>would consent willing to a considerable sacrifice <lb/>for this advantage, so agreeable to their feelings and <lb/>habits; but we shall shew that no such sacrifice is <lb/>required, and that their interest, as well as inclina<lb break="no"/>tion, when duly considerd, will lead them to Upper <lb/>Canada.</p>
+                <p>In going to the United States, we have Mr. Birk<lb break="no"/>beck's authority, that 'no good settlement can be <lb/>made cast of the Alleghany mountains, or in the <lb/>Atlantic States.' The lands are now so dear, as to <lb/>be in general, far beyond the reach of common <lb/>emigrants, who have seldom much left after landing <lb/>in America.</p>
+                <p>Suppose two families to land in America–one at <lb/>New York, or Philadelphia, on the way to Mr Birk<lb break="no"/>beck's settlement; and one at Quebec, on the way to <lb/>Upper Canada.</p>
+                <p>
+               <hi rend="italic">Miles </hi>
+               <lb/>From Philadelphia to Pittsburgh 320 <lb/>From Pittsburgh down the Ohio, to Shawanoe <lb/>Town, 1200 <lb/>From Shawanoe Town to Mr Birkbeck's settle<lb break="no"/>ment, 50 <lb/>1570</p>
+                <p>Expense of a family travelling this route, suppos<lb break="no"/>ing the family to consist of ten persons, and to carry <lb/>with them two tons of goods:</p>
+                <p>
+               <hi rend="italic">Dollars. </hi>
+               <lb/>From Philadelphia to Pittsburgh, at eight dollars <lb/>per cwt. 320 <lb/>The expense of the family, who accompany the <lb/>waggon, at one dollar each per day 100 <lb/>From Pittsburgh to Shawanoe, by water, down <lb/>the Ohio, 1200 miles. An ark, or large scow, <lb/>must be purchased, hands hired to go down, <lb/>and they must be paid to return, as much from <lb/>Philadelphia to Pittsburgh, 420 <lb/>From Shawanoe Town to Mr Birkbeck, for bag<lb break="no"/>gage and person, 100 <lb/>940 <lb/>To purchase two hundred acres of land, at two <lb/>dollars per acre 400 <lb/>Total expenses 1310</p>
+                <p>The same family, landed at Quebec, <lb/>Pays, to Montreal, 200 miles, two dollars each, 20 <lb/>For the good[?] 12 <lb/>From Montreal to Kingston, 220 miles, up the <lb/>river St. Lawrence, goods and persons, for the <lb/>batteau can take all, 100 <lb/>If the family proceed to York, which is seldom <lb/>necessary as Kingston 150 miles within the <lb/>province, and lands in its neighbourhoods to be <lb/>sold or granted, there will be an additiona ex<lb break="no"/>pense of 80 <lb/>To such a family, possessed of property, govern<lb break="no"/>ment might grant 200 acres, on paying fees, <lb/>about 70 <lb/>Or it may be purchased at two dollars per acres, 130 <lb/>Total expenses, 412</p>
+                <p>From this calculation it is seen, that the settler, <lb/>with his large family, by coming to Upper Canada, <lb/>instead of joining Mr. Birkbeck, even if he purchases <lb/>his lands at the same price, saves 928 dollars, which <lb/>will enable him to clear a large portion of his farm, <lb/>stock it, and build a comfortable house; and if he <lb/>be granted the land, instead of purchasing it, there <lb/>is a further saving of 130 dollars.</p>
+                <p>Let us now see what the product at Mr. Birkbeck's <lb/>settlement in the Illinois, and in Upper Canada, will <lb/>command in the market; for, notwithstanding the <lb/>greatness of the first saving in coming to Upper <lb/>Canada, if the markets be inferior it might soon be <lb/>balanced.</p>
+                <p>Illinois Upper Canada <lb/>Wheat, per bushel t0 3 9 Wheat, per bushel t0 5 0 <lb/>India corn, 0 1 1 India corn, 0 4 0 <lb/>Oats, 0 1 6 Oats, 0 2 6 <lb/>Hay, per ton 1 19 0 Hay, per ton 2 10 0 <lb/>Butter, per lb. 0 0 7 Butter, per lb. 0 1 3 <lb/>Cheese 0 1 3 Cheese 0 0 10 <lb/>Fowls, per couple, 0 1 7 Fowls, per couple, 0 1 6 <lb/>t2 8 9 t3 5 1 <lb/>N.B. These prices, taken from Mr. Birkbeck's book, are <lb/>t50 per cent, above the truth.</p>
+                <p>From this table it is manifest, that the produce <lb/>raised in Upper Canada sells at an advance of up<lb break="no"/>wards of 30 per cent on what the same can be sold <lb/>in the Illinois territory, supposing Mr. Birkbeck's <lb/>prices correct, which they are not, being much too <lb/>high. The vast advantage, therefore, in coming to <lb/>Upper Canada, must appear manifest.</p>
+                <p>It may by some be said, that the families are too <lb/>numerous, as there are few that consist of ten per<lb break="no"/>sons; but the results will be proportionally the same, <lb/>whatever the number be; and if we suppose them <lb/>to consist of persons in comfortable circumstances in <lb/>their own country, they will commonly bring ser<lb break="no"/>vants with them, by which the average will be still <lb/>greater. But this is of no moment; the difference <lb/>of expense in travelling 500 miles, or 1570, is suf<lb break="no"/> 
+               <lb/>ficiently clear.</p>
+                <p>We must add, to the disadvantage of Mr. Birk<lb break="no"/>beck's farmer, the dearness of all those articles which <lb/>he has to purchase; for his distance from the sea<lb break="no"/>coast and market operates in two ways to his disad<lb break="no"/>vantage. 'His produce is low, and the goods from <lb/>are dear: the shopkeeper, who is at a great <lb/>distance from the place where the articles he deals <lb/>in are procured, will add to the price, when he dis<lb break="no"/>poses of the, the additional expense of bringing, <lb/>and the time lost in procuring them. To him who <lb/>is obliged to take a journey of 1600 miles to procure <lb/>his articles of merchandize, the cost and trouble must <lb/>be very great; and all this he makes the consumer <lb/>pay. The journey which Mr. Birkbeck's merchant <lb/>is obliged to take is a very serious one, compared to <lb/>that of the merchant of York or Niagara. The lat<lb break="no"/>ter, in consequence of this situation, can trade with <lb/>a smaller capital than the former; because he can <lb/>at any time procure a fresh supply in a few days, <lb/>while the former can lay in a stock of goods only <lb/>once a-year. Now, all these difficulties are to be <lb/>paid for by the farmers and mechanics, who con<lb break="no"/>sume the articles imported; the difference to them, <lb/>in the course of a twelvemonth, by receiving less for <cb/>the articles they sell, and paying more for those they <lb/>purchase will be found to be very great.</p>
+                <p>'It is not merely the quantum he shall raise, but <lb/>the sun he shall get for it, which constitutes the <lb/>farmer's advantage. It is not simply to get enough <lb/>to eat and drink that is to bound the desires of the <lb/>farmer; it is to procure the means of converting his <lb/>log-cabin into a handsome and convenient house– <lb/>to erect a large barn for his grain, and suitable build<lb break="no"/>ings for his cattle–to educate his children–and, <lb/>as he grows old, to enjoy the satisfaction of finding <lb/>that his industry has supplied the comforts of life, <lb/>and enabled him to satisfy the wants of society– <lb/>wants to which we are indebted for amelioration <lb/>of mankind.'</p>
+                <p>In the selection of a place to residence in a new <lb/>country, it is very important to take into view the <lb/>ultimate market for the farmer's produce. While <lb/>the country is settling, there will be no difficulty; <lb/>for the increasing population will demand all the <lb/>supplies that can be raised. But the prudent set<lb break="no"/>tler will look beyond that period, and consider what <lb/>he shall do when every one raises more grain than <lb/>he will be able to consume. In that case, vicinity <lb/>to market, and facility of transportation, are all im<lb break="no"/>portant. Now, the produce of Upper Canada can <lb/>be sent to Montreal, one of the best markets in A<lb break="no"/>merica in five or six days, at a trifling expense, <lb/>which is yearly diminishing as the waters are im<lb break="no"/>proved. Very different is the case with the farmer <lb/>in the western division of the United States: the im<lb break="no"/>mense distance which grain has to be sent, occasions <lb/>the expense to be so great, as frequently to equal, and <lb/>sometimes exceed, the price offered when it reaches <lb/>the market. The more that this statement is exa<lb break="no"/>mined, the more correct it will be found, and the <lb/>superior advantages of Canada will appear in a strong<lb break="no"/>er light; but, having been a landholder, it is time <lb/>to instruct the emigrant how he is to make his living <lb/>out of it.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>165</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-05-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>disease</item>
+                            <item>shipping news</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="4"/> Extract of a letter received from Calcutta, dated <lb/>22d November, 1819:--"An afflicting circumstance <lb/>has recently taken place. The Captain of the Bengal, <lb/>a Liverpool trader, very lately gave a ball on board <lb/>his ship, which was about to sail for England. The <lb/>party was very small, and more than half were taken <lb/>ill with a violent fever immediately afterwards. I <lb/>buried the Captain and the Surgeon a few days after <lb/>it; not less than ten of the part died within as many <lb/>days, all younger persons. Only one officer survives <lb/>of those who left England in the ship, and he is just <lb/>recovering in the Hospital. All sorts of conjectures <lb/>were made, but it turns out that there were 17,000 <lb/>undressed buffalo horns in the hold, in a complete <lb/>state of putrefaction. This vessel has sailed for Eng<lb break="no"/>land in this state without a Surgeon. I question <lb/>whether it will ever arrive; it ought not to be ad<lb break="no"/>mitted among other shipping if it does;–the opening <lb/>of the hold will be death to him who does it, and per<lb break="no"/>haps to many more."--In consequence of this disas<lb break="no"/>trous information, Ministers have issued an order for <lb/>the vessel, on her arrival at Liverpool, or any other <lb/>part, to undergo quarantine.– <hi rend="italic">London Paper.</hi>
+            </p>
+                <p>All apprehension on the above subject is complete<lb break="no"/>ly done away by the following letter from Liverpool, <lb/>May 14:–</p>
+                <p>"I noticed a paragraph in the London papers, <lb/>respecting the Bengal, of this port, at Calcutta, stat<lb break="no"/>ing that a number of deaths had taken place, sup<lb break="no"/>posed in consequence of the Infectious vapours arising <lb/>from some buffalo horns.–The Bengal arrived here <lb/>April 5, and has been discharged without any of <lb/>those dreadful consequences which the medical gen<lb break="no"/>tlemen of Calcutta prognosticated.–I should rather <lb/>suppose that the fatal consequences which ensued <lb/>to those individuals who attended the ball given on <lb/>board this vessel at Calcutta, would be none justly <lb/>attributed to the exposure to night air."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>177</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-03-30"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration to Canada</hi>
+            </p>
+                <p>The following is an extract of a letter from a tradesman <lb/>belonging to Glasgow, who has been six years in Upper Ca<lb break="no"/>nada, to a friend in this city :–</p>
+                <p>" <hi rend="italic">York, Upper Canada, 14th November</hi>, 1820. <lb/>"You wish to be informed of the encouragement that you <lb/>might meet with by an emigration to this country; and as <lb/>you have determined to place the most implicit confidence <lb/>in what I may advance. I shall therefore state to you the <lb/>"truth, and nothing but tl[?] truth, so help me <hi rend="italic">God</hi>."– <lb/>In the first place, you wish to know what might be the va<lb break="no"/>lue of a hundred acres of land, with six or eight acres of <lb/>improvement. This is a question that I cannot give a de<lb break="no"/>cided answer to, as it depends entirely on the situation <lb/>where you wish to purchase; but I may with safety aver<lb break="no"/>age wild land, in this Upper Province, say at 4 to 6 dol<lb break="no"/>lars per acre, and the clearing or improving of each acre <lb/>will cost you from 16 to 20dollars.–In the next place, you <lb/>wish to know the price of cattle. They have never been <lb/>known to be cheaper than at the present time. A cow can <lb/>be purchased at 20 dollars, a pair of working oxen at 40 <lb/>dollars; a good cart horse at 50 dollars,; sheep, 2 dollars a<lb break="no"/>piece. In regard to farming utensils, there are but few <lb/>used in this country at any time, and a new settler may be <lb/>some years in the woods before we want any more than an <lb/>axe, (3 dollars) a plough, (10 dollars) and a harrow, (5 dol<lb break="no"/>lars.)–You wish to know the nature of a Government <lb/>grant; that has now become no object, as the charges made <lb/>by Government exceed in many cases what you can pur<lb break="no"/>chase land for; and by buying land you have the advan<lb break="no"/>tage of choosing a situation agreeable to your mind; but <lb/>the reverse is the case when you accept of a grant from Go<lb break="no"/>vernment, for you must then take your chance by drawing <lb/>by lottery; and as the land is already taken up for forty <lb/>miles round this place, you will then be obliged to go back <lb/>into the woods, and out of the world. You are at liberty <lb/>to sell it as soon as you receive the grant; formerly you <lb/>could.–You wish to know what sum you could estab<lb break="no"/>lish yourself for in this country as a farmer. There is one <lb/>thing obvious–the more you bring the less miseries and <lb/>difficulties you will have to undergo. But as a true friend, <lb/>I would advise you not to think of leaving home with a <lb/>sum less than t200 sterling with a sum less than this you <lb/>undoubtedly subject yourself to hardships and troubles <lb/>that you have no idea of. Though many have settled here <lb/>for nothing, their fate has been such that it is beyond my <lb/>pend to describe; and my greatest enemy I should not ad<lb break="no"/>vise to come to this country, with the intention of farming, <lb/>with less capital than I have no stated to you. Many <lb/>may flatter you, and stuff your head with golden dreams <lb/>about this country; but you must allow the experience that <lb/>I have had to outweigh the statements of many that you <lb/>may have had an opportunity of talking with, who may pre<lb break="no"/>tend to have some knowledge of this country, for there <lb/>are but few settlements between Montreal and the falls of <lb/>Niagara (a distance of nearly 600 miles,) that I have not <lb/>visited.–As to the necessaries wanted for a family who may <lb/>think of coming to this country, I should entirely confine <lb/>myself to wearing apparel, as clothes are the highest article <lb/>in this country; and should you think of farming, I would <lb/>advise you to bring but few fine clothes, but principally <lb/>coarse and stout. Heavy luggage of any kind becomes very <lb/>expensive and cumbersome bringing you up the river so far as <lb/>this, and is often liable to be damaged, in consequence of <lb/>the repeated re-shipping. The rate of charge of the trans<lb break="no"/>portation of good from Montreal to Kingston (200 miles) <lb/>is 2 dollars per cwt.; and from Kingston to York (200 <lb/>miles) they charge 1 dollar for each barrel bulk; and from <lb/>Montreal to York you may get a passage for 10 dollars for <lb/>each grown person.–By the by, you wish to know the po<lb break="no"/>pulation of this town: it is indeed small in comparison to <lb/>some of your towns; but I might say that the inhabitants of <lb/>York might amount to 3000 people. But there is no place <lb/>that I have visited in my travels that is more thriving than <lb/>this town; and as a proof, I can safely say that it is now <lb/>twice the size that it was when I came here, (now three <lb/>years), and still continuing to increase greatly in buildings; <lb/>but all wood.–You wish to know the different branches of <lb/>business carried on here. They are principally house car<lb break="no"/>penters; and various other mechanics are also employed <lb/>here.–You wish to know if any of the emigrants have ar<lb break="no"/>rived in this place. There are but very few I understand <lb/>come thus far, the greater part of them having stopped at a <lb/>settlement called Perth, about miles below Kingston. <lb/>–Since I have now given answers to all your different <lb/>queries, let me now give my candid opinion respecting this <lb/>country. In the first instance, a farmer may live by hard <lb/>labour; that is, he may acquire a livelihood; but cash[?] is a <lb/>complete hidden treasure, and is as forbidden fruit to the <lb/>farmer of this country; and in some places you may live <lb/>for years and not even behold, a silver dollar through a glass <lb/>darkly, as all is done by barter in the country. The next <lb/>evil is the mixture of society; a very few good, intermixed <lb/>with a multitude of a very different character; but in many <lb/>places you will be divested of all society, either of a good <lb/>or bad quality; in either of which situations I am afraid you <lb/>will find yourself uncomfortable, in consequence of its <lb/>being so much different to what you have been accus<lb break="no"/>tomed to; and the opportunity of spending the sabbath <lb/>in a religious worship you will also find wanting. And <lb/>above all evils the fever and ague, that none escape, is <lb/>the ruin of many a family in this country. But should <lb/>you think of coming to this country, in order to avoid this <lb/>disease I would advise you to come no farther up the coun<lb break="no"/>try than Perth settlement, where this loathsome sickness <lb/>is seldom known. Now, my friend, by what I have stated <lb/>here I neither mean to advise or dissuade you from com<lb break="no"/>ing to this country; but take it into serious consideration <lb/>before you embark upon this important."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>186</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-02-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>colonial economy</item>
+                            <item>colonial government</item>
+                            <item>land speculation</item>
+                            <item>prices</item>
+                            <item>taxation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration</hi>.</p>
+                <p>The following is an extract of a letter dated <lb/>Louisville, August 12th, 1820, from a Scotchman <lb/>who has been long settled in America, to his friend, <lb/>a Scotch Farmer, who rents 500 acres of land in the <lb/>County of Middlesex.</p>
+                <p>"The circumstances in which this country is <lb/>placed at present are truly melancholy, when com<lb break="no"/>pared to what they have been ; yet still it is a better <lb/>country to live in than Britain. It is not easy to <lb/>make money by farming, at present, in the United <lb/>States, for the want of a market; and I am of opi<lb break="no"/>nion that things will not mend, in this respect, for <lb/>some years, for all are sellers and none buyers. All <lb/>kinds of produce are selling, or rather offered for <lb/>sale, at one-third of what prices were two years ago. <lb/>Land, of course, has fallen in the same ratio. The <lb/>best of cleared land, within from 5 to 10 miles of <lb/>this town, is offered for them from 10 to 20 dollars an <lb/>acre. You will thence conclude that this is a fa<lb break="no"/>vourable time to purchase – and that for a man <lb/>who has a little money, and a large family able and <lb/>willing to labour with their hands, this is a most <lb/>excellent country, as he can easily raise on this cheap <lb/>land all the necessaries, and many of the luxuries, of <lb/>life. He will find it difficult to get gold or silver, <lb/>or even our own bad bank notes; but a man cannot <lb/>be badly off with more beef, mutton, pork and <lb/>grain, than he can dispose of. He has no rent to <lb/>make up by term day: his taxes are next to no<lb break="no"/>thing, and although he may grumble to have to turn <lb/>his pigs into his corn field to save the expense of reap<lb break="no"/>ing it, or to see his apples rotting under his trees by <lb/>barn-fulls because he has not room or use for them, <lb/>yet still these are beatable distresses compared to those <lb/>of the poor farmers in our native land, and as I sup<lb break="no"/>pose in England. To the wealthier farmer the change <lb/>is not beneficial or desirable. It is true that if he <lb/>stays long in Britain he will soon become less weal<lb break="no"/>thy; yet still he would for some time regret the change. <lb/>He would miss many things made necessary by habit; <lb/>he would find his servants more lazy, and less obe<lb break="no"/>dient ; and he would even experience pain because the <lb/>modes of farming he is accustomed to will not do <lb/>here; but when he gets over these things, he <lb/>will find the advantage of the change. To say no<lb break="no"/>thing of the difference of the Government, and the sat<lb break="no"/>isfaction of chusing one's own rulers, there are many <lb/>desirable things here. I estimate, as the greatest, <lb/>the ease of providing for one's family. A man may, <lb/>with very little exertion, leave to all his children <lb/>land enough to make them independent. Hence that <lb/>sickening anxiety about the future fate of a family <lb/>is little known here."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>187</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1822-01-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="1"/>
+               <hi rend="center">SOUTH AMERICA. </hi>
+               <lb/>
+               <hi rend="center">Extract of a letter from an Englishman, dated Lima, Sep<lb break="no"/>tember 10, 1821.</hi>
+            </p>
+                <p>"Lima is what an Englishman would call a dirty colo<lb break="no"/>nial town; 6000 inhabitants is the outside of its population; <lb/>the whites are about 1200 Europeans, and not as many <lb/>born in the country; the rest are blacks and mulattoes. <lb/>Of the mulattoes there are eight various shades. I never <lb/>saw such a wretched herd as Lima incloses; more poverty <lb/>and miserty than in any town of the size in the world.– <lb/>There are some few splendid houses, but the rest so dis<lb break="no"/>gustingly filthy that you cannot go into them without being <lb/>covered with dust and vermin. The streets, as in all A<lb break="no"/>merican towns, run at right angles; a powerful stream of <lb/>water in each : the town is capable of great improvement. <lb/>The climate must be bad, for the whole population look as <lb/>if turned out of the hospitals for a day's air; a half-born <lb/>race–melancholy in their faces. On the whole coast of <lb/>Peru we made the same observation; the ague very gene<lb break="no"/>ral, with fever–their habits and manner of living increase <lb/>the evil: thin clothing and vegetable diet–nights very cold <lb/>–I sleep under a heavy blanket, and could bear another; a <lb/>thick fog prevents the sun from coming out in winter; the <lb/>heat however is not excessive during summer; on the whole <lb/>not an oppressive climate, if the people had any idea of living <lb/>in a rational way. Very few families cook at home–they <lb/>buy their greasy messes boiled in the streets, in pulperias, <lb/>and in the squares: not six families in Lima that have wine <lb/>on their tables: they drink brandy at all hours, and excuse <lb/>themselves for not having any thing that is expensive, by <lb/>saying it gives the ague; the same person who denies him<lb break="no"/>self a glass of wine will lay twenty doubloons on a card in <lb/>the evening. Their money goes in gambling, debauchery, <lb/>and dress; every woman, high and low, has her price; a lady <lb/>take no offence at her frailty being exposed; she tells you <lb/>she is quite as good as her neighbours, and needs be no bet<lb break="no"/>ter. The Spanish nation and Government are the cause <lb/>of all the degradation of South America: every Viceroy, <lb/>from Pizarro to Pezuela, was a plunderer, a teacher of <lb/>immorality in words and deeds. The miserable state of <lb/>this people seems incredible–one must see to believe it : <lb/>scarcely a young lady can read or write, or use a needle; <lb/>few houses that the Devil has not appeared in; and a de<lb break="no"/>vout lady is accompanied in her carriage by the Virgin <lb/>Mary. Thus is ignorance imposed upon by knaves : as to <lb/>priestcraft, it reigns here in all its glory : a third part of <lb/>Lima is covered with churches, some of them very splen<lb break="no"/>did. The whole trade of this part of Peru depends on the <lb/>single mine of the mountain of Pasco for returns : if this <lb/>is worked to advantage, it will produce six millions of <lb/>produce. Mining may be carried to any extent, it is true; <lb/>but this requires tranquility and good government. Peo<lb break="no"/>ple in Europe have the most erroneous ideas of Peru; <lb/>every traveller and historian who has written or talked a<lb break="no"/>bout it ought to be made to stand in the pillory for a liar.</p>
+                <p>"Arica, the second port of Peru, and the great outlet to <lb/>Upper Peru, is a wretched village of hovels covered with <lb/>mud–about 400 Mulattoes and Indians–placed on a sand <lb/>bank–the pepole all in the ague–not a boat or ship of any <lb/>sort. The harbour-master came off on a bulsa, (two blad<lb break="no"/>ders lashed together,) paddled by an Indian. We could not <lb/>get a basket of fruit or vegetables for money. Their culti<lb break="no"/>vation was three leagues off, but they were too lazy to <lb/>fetch any thing, though a seventy-four and a frigate lay-to <lb/>twenty hours, offering them any price for their tropical <lb/>fruits.</p>
+                <p>"I hire a small room for 12 dollars a month, and sleep on <lb/>the ground; borrowed a chair, and bought some crockery <lb/>No such thing as a tavern : never was. Letters of no use; <lb/>no one asks me to his house. I go to bed at eight o'clock <lb/>to kill time. A play twice a week : the most fashionable <lb/>ladies stand up in the front boxes, and light a segar by the <lb/>chandlier; the house filled with smoke.</p>
+                <p>"There are 82 titled familes, mostly idiots–all reduced <lb/>to poverty by the emancipation of their slaves. If the war <lb/>be continued a year, Peru will be the most wretched coun<lb break="no"/>try on the globe; indeed the Indians will regain their em<lb break="no"/>pire, and exterminate all other colours. The number of <lb/>blacks in the viceroyalty is estimated at seventy thousand– <lb/>25,000 in Lima and adjacent villages; the total population <lb/>of Peru about three millions–three-fourths Indians.</p>
+                <p>"About the town there are many fine gardens with pretty <lb/>country houses. Provisions of all sorts excellent, and in <lb/>the greatest variety; fruits of all climates in the market<lb break="no"/>place, the produce of the sea-shore and the Cordillera.– <lb/>Beef and mutton excellent–the chief supplies come from <lb/>Jauja an other vallies in the Cordillera. The sea-shore <lb/>produce is contiued to little vallies badly cultivated; those <lb/>about the town would disgrace the free negroes of Caro<lb break="no"/>lina. Most valuable land a league from the town, half <lb/>cultivated and half abandoned; every thing left to starved <lb/>slaves; such famished objects I never behald; no other hands <lb/>to cultivate. When emancipation becomes general, they <lb/>will not work, and famine must ensue. "</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>367</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2012-05-11">20120511
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-01-05">20150105</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="http://news.google.com/newspapers?id=UJREAAAAIBAJ&amp;sjid=qrUMAAAAIBAJ&amp;pg=5088%2C256889"/>Google News Archive
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1822-01-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="singular" passive="single"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>national characteristics</item>
+                            <item>slavery</item>
+                            <item>trade</item>
+                            <item>society</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head>SOUTH AMERICA</head>
+                <p>
+               <pb n="1"/>
+               <hi rend="center">Extract of a letter from an Englishman, dated Lima, Sep<lb break="no"/>temper 10, 1821</hi>
+            </p>
+                <p>"Lima is what an Englishman would call a dirty colo<lb break="no"/>nial town; 6000 inhabitants is the outside of its population; <lb/>the whites are about 1200 Europeans, and not as many <lb/>born in the country; the rest are blacks and mulattoes. <lb/>Of the mulattoes there are eight various shades. I never <lb/>saw such a wretched herd as Lima incloses; more poverty <lb/>and misery than in any town of the size in the world.– <lb/>There are some few splendid houses, but the rest so dis<lb break="no"/>gustingly filthy that you cannot go into them without being covered with dust and vermin. The streets, as in all A<lb break="no"/>merican towns, run at right angles; a powerful stream of <lb/>water in each; the town is capable of great improvement. <lb/>The climate must be bad, for the whole population look as <lb/>if turned out of the hospitals for a day's air; a half-born <lb/>race–melancholy in their faces. On the whole coast of <lb/>Peru we made the same observation; the ague very gene<lb break="no"/>ral, with fever–their habits and manner of living increase <lb/>the evil; thin clothing and vegetable diet–nights very cold <lb/>–I sleep under a heavy blanket, and could bear another; a <lb/>thick fog prevents the sun from coming out in winter; the <lb/>heat however is not excessive during summer; on the whole <lb/>not an oppressive climate, if the people had any idea of living <lb/>in a rational way. Very few families cook at home℃they <lb/>buy their greasy messes boiled in the streets, in pulperias, <lb/>and in the squares; not six families in Lima that have wine <lb/>on their tables; they drink brandy at all hours, and excuse <lb/>themselves for not having any thing that is expensive by <lb/>saying it gives the ague; the same person who denies him<lb break="no"/>self a glass of wine will lay twenty doubloons on a card in <lb/>the evening. Their money goes in gambling, debauchery, <lb/>and dress; every woman, high and low, has her price; a lady <lb/>takes no offence at her frailty being exposed; she tells you <lb/>she is quite at good as her neighbours, and needs be no bet<lb break="no"/>ter. The Spanish nation and Government are the cause <lb/>of all the degradation of South America; every Viceroy, <lb/>from Pizarro to Pezuela, was a plunderer, a teacher of <lb/>immorality in words and deeds. The miserable state of <lb/>this people seems incredible–one must see to believe it; <lb/>scarcely a young lady can read or write, or use a needle; <lb/>few houses that the Devil has not appeared in; and a de<lb break="no"/>vout lady is accompanied in her carriage by the Virgin <lb/>Mary. Thus is ignorance imposed upon by knaves; as to <lb/>priestcraft, it reigns here in all its glory; a third part of <lb/>Lima is covered with churches, some of them very splen<lb break="no"/>did. The whole trade of this part of Peru depends on the <lb/>single mine of the mountain of Pasco for returns; if this <lb/>is worked to advantage, it will produce six millions of <lb/>dollars; but if the country is disturbed by war, not a dollar <lb/>will they have. The exports of Peru, in ordinary times, <lb/>were five millions of dollars in pecie, and one million in <lb/>produce. Mininng may be carried to any extent, it is true; <lb/>but this requires tranquillity and good government. Peo<lb break="no"/>ple in Europe have the most erroneous ideas or Peru; <lb/>every traveller and historian who has written or talked a<lb break="no"/>bout it ought to be made to stand in the pillory for a liar."</p>
+                <p>"Arica, the second port of Peru, and the great outlet to <lb/>Upper Peru, is a wretched village of hovels covered with <lb/>mud–about 400 Mulattoes and Indians–placed on a sand <lb/>bank–the people all in the ague–not a boat or ship of any <lb/>sort. The harbour-master came off on bulsa, (two blad<lb break="no"/>ders lashed together,) paddled by an Indian. We could not <lb/>get a basket of fruit or vegetablse for money. Their cultu<lb break="no"/>vation was three leagues off, but they were too lazy to <lb/>fetch any thing, though a seventy-four and a frigate lay-to <lb/>twnety hours, offering them any price for their tropical <lb/>fruits.</p>
+                <p>"I hire a small room for 12 dollars a month, and sleep on <lb/>the ground; borrowed a chair, and bought some crockery. <lb/>No such thing as a tavern; never was. Letters of no use; <lb/>no one asks me to his house. I go to bed at eight o'clock <lb/>to kill time. A play twice a week; the most fashionable <lb/>ladies stand up in the front boxes, and light a segar by the <lb/>chandelier; the house filled with smoke.</p>
+                <p>"There are 82 titled families, mostly idiots–all reduced <lb/>to poverty by the emancipation of their slaves. If the war <lb/>be continued a year, Peru will be the most wretched coun<lb break="no"/>try on the globe; indeed the Indians will regain their em<lb break="no"/>pire, and exterminate all other colours. the number of <lb/>blacks in the viceroyalty is estimated at seventy thousand– <lb/>25,000 in Lima and adjacent village, the total population <lb/>of Peru about three millions–three-fourths Indians.</p>
+                <p>"About the town there are many fine gardens with pretty <lb/>country houses. Provisions of all sorts excellent, and in <lb/>the greatest variety; fruits of all climates in the market<lb break="no"/>place, the produce of the sea-shore and the Cordillera.– <lb/>Beef and mutton excellent–the chief supplies come from <lb/>Janja and other vallies in the Cordillera. The sea-shore <lb/>produce is continued to little vallies badly cultivated; those <lb/>about the town would disgrace the free negroes of Caro<lb break="no"/>lina. Most valuable land a league from the town, half <lb/>cultivated and half abandoned; every thing left to starved <lb/>slaves; such famished objects I never beheld; no other hands <lb/>to cultivate. When emancipation becomes general, they <lb/>will not work, and famine must ensue."</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

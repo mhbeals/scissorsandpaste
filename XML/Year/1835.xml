@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>247</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1835-05-13"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Emigration.</hi> –The <hi rend="italic">Venus</hi>  steam-boar left the Steam <lb/>Packet Wharf, St Katherine's Dock, yesterday morn<lb break="no"/>ing, with from 230 to 240 female emigrants to take <lb/>their passage on board the ship Canton, for Sydney. <lb/>The emigrants were, for the most part, fine healthy <lb/>looking girls, some of them of exceedingly interesting <lb/>appearance, and almost all of a class much above that <lb/>in which the distress which prompts to emigration <lb/>would be supposed to exist.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>248</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1835-07-08"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>transportation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>A new principle has been recognised in the regula<lb break="no"/>tions attendant upon the transportation of convicts <lb/>from this country to New South Wales. Boys of six <lb/>and girls of ten years will be allowed to accompany <lb/>their parents to that distant colony.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>249</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1835-08-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration</hi> –We observe from an advertisement <lb/>in our paper of to-day, that another ship is fitting out <lb/>by Government, for the free conveyance of females to <lb/>Van Dieman's Land ; and as we understand that many <lb/>applications were made too late for the last ship, we <lb/>would recommend those anxious to take advantage of <lb/>this opportunity, to lose no time in making the necces<lb break="no"/>sary application at Leith,–the number being strictly <lb/>limited, and being the last ship to sail this year. We <lb/>consider it of great advantage to females of respecta<lb break="no"/>bility, that none are admitted without a strict investi<lb break="no"/>gation into their moral character by the Emigration <lb/>Committee ; and that those of a superior class, as <lb/>governesses, &amp;c. are provided a small sum, to defray the ex<lb break="no"/>pense of the extra outfit.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>250</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1835-08-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>female emigration</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Free Emigration of Females</hi>
+            </p>
+                <p>
+               <hi rend="enlarged-capital">T </hi>
+               <hi rend="smallcaps">he Emigration Committee</hi>  (acting <lb/>under the authority of the Secretary of State for <lb/>the Colonies), HEREBY GIVES NOTICE, That <lb/>the "BOADICEA," a fine new ship of 500 Tons, <lb/>fitted expressly for the conveyance of Females, will <lb/>sail from GRAVESEND on T <hi rend="smallcaps">hursday</hi>  the 1st day <lb/>of O <hi rend="smallcaps">ctober</hi>  for HOBART TOWN.</p>
+                <p>Single Females, of good character, between 15 and <lb/>30 years of age, will be admitted to a <hi rend="italic">Free</hi>  Passage, <lb/>by making application, accompanied with certificates, <lb/>to Lieut. F <hi rend="smallcaps">orrest</hi>, R.N., his Majesty's Agent for <lb/>Emigration, Custom-house, Leith, from whom par<lb break="no"/>ticulars may be obtained.</p>
+                <p>A limited number of MARRIED AGRICUL<lb break="no"/>TURAL LABOURERS and MECHANICS, and <lb/>their Failies, will be sent by this Vessel on liberal <lb/>terms ; but none need apply without certificates of <lb/>moral character.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>251</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1835-09-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>navy</item>
+                            <item>colonial politics</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>On Thursday evening a dinner was given to Cap<lb break="no"/>tain Hindmarsh R.N., to celebrate the circumstance <lb/>of his Majesty having graciously expressed his appro<lb break="no"/>bation of the choice of that gentleman to be the Go<lb break="no"/>vernor of the new colony in South Australia. The <lb/>entertainment took place at the Albion Tavern.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>252</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1835-11-21"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">South Australia.</hi> –The act of Parliament for found<lb break="no"/>ing this colony will now come into full operation ; the <lb/>Commissioners having complied with the conditions <lb/>precedent, by the sale of t35,000 worth of land, and <lb/>by raisingthe required loan for the government of the <lb/>colony. We may therefore expect shortly to see the <lb/>names of the various officers gazetted (some of them <lb/>have been long ago nominated) ; and we understand <lb/>that active preparations are making with a view to the <lb/>immediate departure of the officers and a small body <lb/>of emigrants. This first expedition will be placed un<lb break="no"/>der the command of Captain Hindmarsh, R.N., the <lb/>Governor ; who, with the assistance of the Surveyors <lb/>and other qualified persons, will carefully examine the <lb/>various harbours in the colony, the quality of the <lb/>neighbouring soil, the supply of water, &amp;c. ; and will <lb/>select that site which, all things considered, is most <lb/>desirable for the first town. We believe it is the in<lb break="no"/>tention of the Commissions not to send out the main <lb/>body of emigrants until the next spring, so as to allow <lb/>ample time for the necessary preparations for their re<lb break="no"/>ception.– <hi rend="italic">Spectator.</hi>
+            </p>
+                <p>There have been 300 convents suppressed within <lb/>the last three years. The example was set by the <lb/>Emperor of Russia, who, was by an ukase, dated 31st <lb/>July 1832, abolished 187 convents of monks. This <lb/>was followed by the King of Prussia, who, by a royal <lb/>order, secularised all the convents in the Duchy of <lb/>Posen. In 1834, Don Pedro put down 300 convents, <lb/>and Spain has lately abolished 1800.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

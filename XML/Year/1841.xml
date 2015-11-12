@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>297</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-03-20"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>On Monday a discussion of some interest took <lb/>place in the House of Commons relative to the <lb/>affairs of South Australia. Owing to certain de<lb break="no"/>fects in its government, that colony has fallen <lb/>into a state of financial embarassment requiring <lb/>immediate relief. Lord John Russell traced the <lb/>history of the settlement from its foundation, and <lb/>stated that, while its revenue does not exceed <lb/>t20,000 its expenditure has increased to the <lb/>enormous sum of t130,000 a year ! At present <lb/>its affairs are managed by commissioners, the re<lb break="no"/>sponsible Ministers of the Crown having no di<lb break="no"/>rect control over its expenditure. This is mani<lb break="no"/>festly an evil, and must form the subject of future <lb/>legislation, but in the meantime it is necessary to <lb/>provide for the payment of certain bills now <lb/>over-due. Accordingly, Lord John Russell pro<lb break="no"/>posed that her Majesty should be authorized to <lb/>guarantee a loan of t210,000 for this purpose. <lb/>Lord Stanley concurred generally in the views of <lb/>the noble Secretary for the Colonies, but though <lb/>that the Government ought not to demand a <lb/>loan until they had brought in a bill to explain <lb/>distinctly the principles on which they proposed <lb/>that the colony should henceforth be governed. <lb/>Sir Robert Peel suggested that the Govern<lb break="no"/>ment should ask a vote of credit for the sum re<lb break="no"/>quired, which, as it met the urgency of the case, <lb/>was ultimately agreed upon, and the subject was <lb/>deferred till Friday.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>298</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-03-31"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">New South Wales</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Mr Grote</hi>  rose to move a series of resolutions in con<lb break="no"/> 
+               <lb/>demnation of the application of a part of the Land and Emi<lb break="no"/>gration Fund of New South Wales to the maintenance of <lb/>gaols and police in that colony. It was in 1831 that this ex<lb break="no"/>pense, antecedently borne by the Home Government, was <lb/>for the first time thrown upon the colony, whose revenues <lb/>were then found to yield considerable surplus of revenue <lb/>beyond expenditure. The charge so imposed at that time was <lb/>calculated to be about t25,000 a year ; and had that been all <lb/>the colony would have borne it without a murmur; but in <lb/>fact it had ever since averaged nearly t60,000. It was not <lb/>reasonable to impose such a charge on the colony, on account <lb/>of gaols and police, constituted not the ordinary uses of <lb/>a colonial society, but for the peculiar purposes of our trans<lb break="no"/>portation system. The argument urged by the Home Govern<lb break="no"/>ment was, that the expense was chiefly caused by the extensive <lb/>distribution of convicts by assignment throughout the colony, <lb/>whose settlers drew a proportional profit from the labour so <lb/>assigned. But that assignment was a gain, not more to the <lb/>colonists, who obtained the labour, than to the mother country, <lb/>which saved the expense of maintaing the labourers. What<lb break="no"/>ever value the mother country might be entitled to claim <lb/>for the labour of the convicts, ought in strictness to fall, not <lb/>on the colony at large, but on the individual employers; and <lb/>if there were valid reasons against an exaction of premium <lb/>from them, still it was unjust to throw the obligation upon <lb/>the colony at large. That was to pay private wages out of <lb/>public rates. This one charge on the oclony was sufficient <lb/>on account for all that embarassment in its finances which <lb/>had been growing for the last six years. It had been enabled <lb/>to defray the impact, only by resorting to the emigra<lb break="no"/>tion fund, and thus checking emigration itself. No <lb/>less than t260,000 had been abstracted from that fund to <lb/>meet these costs of jails and police. The diversion of that <lb/>fund from emigration was a great evil, both to the colony, <lb/>where labour is so pressingly needed, and to the poor of this <lb/>country, to whom that refuge is so material. He considered <lb/>the emigration fund as held by the Government in trust for <lb/>the united intersts of the colony and of the mother country. <lb/>The great extent of sales of land in the colony had been <lb/>[?] owing to the belief of the colonists that the proceed<lb break="no"/>[?] would be applied to emigration.</p>
+                <p>The hon. member was proceeding to cite the opinions of <lb/>various persons in favour of this strict application, when a mo<lb break="no"/>tion was made to count the House, and it adjourned for want <lb/>of its quorum[?] of 40 members.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>299</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-04-14"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+                    <head>
+                  <hi rend="smallcaps">Emigration To New South  <lb/>Wales. </hi>
+                    </head>
+            </p>
+                <p>We have received a copy of a Series of Resolu<lb break="no"/>tions passed, on the 23d of October 1840, by the <lb/>Legislative Cuncil of New South Wales, on the <lb/>subject of immigration into colony. The <lb/>object of these resolutions is to encourage emigra<lb break="no"/>tion from the mother country, by showing the <lb/>demand for labour in New South Wales, and the <lb/>advantages offered to the immigrant. We have <lb/>only room for a few of the more important resolu<lb break="no"/>tions :</p>
+                <p>Resolved. That there exists throughout the colony <lb/>an urgent and increasing want of working hands, in <lb/>every branch of industry ; that there is ample employ<lb break="no"/>ment for emigrants, at highly renumerating wages <lb/>without the interruption, in this mild climate, experi<lb break="no"/>enced in colder countries during the winter months ; <lb/>and that, even during the worst period of the past <lb/>severe drought, no persons able and willing to work <lb/>found any difficult in procuring advantageous employ<lb break="no"/>ment.</p>
+                <p>Resolved. That, in the opinion of this Council, there <lb/>can be no more advantageous field for the employment <lb/>of industry than is presented in New South Wales– <lb/>experience proving, that able-bodied, sober, indus<lb break="no"/>trious and careful emigrants may, within a few years <lb/>after their arrival, rise form the condition of labourers <lb/>to be themselves employers of labour; by which pro<lb break="no"/>cess, and by the progressive increase of the flocks and <lb/>herds of the colony, a constant demand for additional <lb/>labourers is created, sufficient to remove all apprehen<lb break="no"/>sion of a dearth of employment for as many as may <lb/>arise.</p>
+                <p>Resolved. That this Council would particulary in<lb break="no"/>stance the large and increasing sums at the credit of <lb/>the working classes in the Savings Bank of New South <lb/>Wales, as affording gratifying evidence of their pros<lb break="no"/>perous condition, the deposits having increased from <lb/>t24,469, the amount on 31st December 1835, to t127,000 <lb/>on 31st August 1840.</p>
+                <p>Resolved. That great additiona advantage must <lb/>accrue to the mother country from the large consump<lb break="no"/>tion in this colony of British produce and manufac<lb break="no"/>tures, the declared value of which, from 1826 to 1839, <lb/>according to the official returns for that period, <lb/>amounted to more than eight millions sterling, having <lb/>progressively increased from t280,000, the amount in <lb/>1826, to t1,251,969 in 1839 ; whilst the exports from <lb/>the colony, including the produce of the fisheries, in<lb break="no"/>creased from t106,600 in the former year, to t948,776 <lb/>in the latter–the total amount being t6,187,530 for the <lb/>whole period.</p>
+                <p>Resolved. That the trade between the mother coun<lb break="no"/>try and this colony, together with the whale fisheries <lb/>in the adjourning seas, also affords a valuable nursery <lb/>for seamen, important in this respect, in proportion to <lb/>the distance from Great Britain, and calculated to <lb/>strengthen and secure her maritime power ; and that <lb/>this field for the employment of British shipping must <lb/>increase with the growing prosperity of the colony– <lb/>considerations which appear to this Council to consti<lb break="no"/>tute a strong additional claim, on the part of the colony, <lb/>to the fostering care of the British Government.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>300</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-04-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>economic migration</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration to New Zealand.</hi> –On Friday the <lb/>Tyne left the London Dock, and proceeded down the <lb/>river on her voyage to Port Nicholson, New Zealand. <lb/>The Tyne is a fine new vessel, and she takes out 50 <lb/>mechanics and labourers, with their families, from the <lb/>Emigration Depot at Deptford, besides a number of <lb/>other passengers, amongst whom are Mr Swainson, <lb/>Chief Justice, and Mr Martin, Attorney-General, of <lb/>the new colony, to which sations they have been re<lb break="no"/>cently appointed. The arrangements for the comfort <lb/>of the emigrants on board were certainly very com<lb break="no"/>plete ; and it must be gratifying to know that those <lb/>persons sent out by the company will be provided <lb/>with a large proportion of their provisions fresh, a <lb/>great quantity of patent preserved provisions being <lb/>shipped for that purpose on board the Tyne. There <lb/>are a greater number of children than usual in the <lb/>Emigration Depot–many of the families consisting of <lb/>from eight to twelve individuals. The Prince Rupert, <lb/>which now lies in the London Dock, will clear out on <lb/>the 10th inst ; and it is supposed she will pretty well <lb/>clear the depot of its present inmates.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>301</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-09-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">New Zealand Company</hi>
+            </p>
+                <p>A very lively and interesting scene occurred on Fri<lb break="no"/>day, off the West India Dock entrance, at Blackwall, <lb/>by the preparation for departure of three fine vessels <lb/>with "improvers" for "Nelson," the second colony of <lb/>New Zealand. The Directors of the Company and <lb/>several hundred persons of rank and wealth met there <lb/>to bid farewell to the enterprising emigrants, who ap<lb break="no"/>peared highly delighted with the honour extended to <lb/>them, and in high spirits with the anticipations of the <lb/>successful result of their mission. After viewing the <lb/>arrangeents made for the comfort of all on board, <lb/>the Directors returned to the West India Dock Tavern, <lb/>where a sumptuous breakfast was provided in the large <lb/>room. The Duke of Sussex took the chair, and was <lb/>supported on the right by the Earl of Devon, and on <lb/>the left by Jos. Somes, Esq., the Governor of the Com<lb break="no"/> 
+               <lb/>pany. Among the guests were the Duchess of Inver<lb break="no"/>ness, the Duke and Duchess of Somerset, Lords Cot<lb break="no"/>tenham, Sandon, Marcus Hill, Clements, Viscount <lb/>Ebrington, M.P., the Hon. Frederick Dundas, Hon. <lb/>Captain Drummon, Messrs P. Maxwell Stewart, M.P., <lb/>Gowen, G. F. Young, W. C. Young, and the Misses <lb/>Young; the Hon. Mrs Douglas, the Hon. Miss Petre, <lb/>Rev, Dr Hinds, J. E. Boulcott, Captain Hine, Sir Ro<lb break="no"/>bert and Lady Harland, Sir John Doxatt, M. D.; Mr, <lb/>Mrs, and Miss Pennington; Lieutenant Lean, her Ma<lb break="no"/>jesty's Emigration Agent; MEssrs Jordan, E. G. Wake<lb break="no"/>field, Dudley Costello, Mr and Mrs S. C. Brees, Captain <lb/>Sinclair, R.N.,&amp;c. &amp;c. The rapid progress which the <lb/>grand undertaking of colonizing New Zealand has <lb/>made, was more than once alluded to by his Royal <lb/>Highness and other distinguished speakers on both <lb/>sides of politics, and its many advantages were dwelt <lb/>upon with much sincerity of feeling. Several gentle<lb break="no"/>men of the first families go out with this expedition, <lb/>which will be closely followed by several first-rate <lb/>ships.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>302</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-10-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration to South Australia </hi>
+               <lb/>( <hi rend="italic">From Tuesday's Gazette</hi>.</p>
+                <p>Colonial Land and Emigration Office, 9 Park<lb break="no"/>street, Westminster, Oct. 1, 1841.–In reference <lb/>to the notice published in the <hi rend="italic">Royal Gazette</hi>  of the <lb/>6th of August last, to the effect that all emigrants <lb/>in respect of whom bounty was to be claimed in <lb/>New South Wales, must have left this country by <lb/>the 1st of November next, the Commissioners of <lb/>Land and Emigration do hereby give further no<lb break="no"/>tice, in pursuance of directions from her Majesty's <lb/>Secretary of State for the Colonies, that in order <lb/>to prevent the consequences which must ensue <lb/>if vessels should continue to be engaged until too <lb/>late to be dispatched by the required date, no <lb/>ships can be permitted to sail with a claim to <lb/>bounty from the Colonial Government beyond <lb/>those which shall be forthwith returned to the <lb/>Commissioners of Colonial Lands and Emigration, <lb/>and proved to be already under engagement for <lb/>the purpose.–By order of the Board, <lb/>
+               <hi rend="smallcaps">John Gliddon, Assis.-Sec.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>304</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-11-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>shipping news</item>
+                            <item>society</item>
+                            <item>settlement description</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Wellington, New Zealand, June 18.– </hi>
+               <lb/>( <hi rend="italic">From a private letter.</hi> )–"Among the latest ar<lb break="no"/>rivals is Mr Swainson, F.R.S., the eminent natu<lb break="no"/>ralist, by the Jane, from London. He has pur<lb break="no"/>chased a house, and intends to reside here with <lb/>his family. The Governor, Captain Hobson, is <lb/>daily expected from Auckland on a visit to Colo<lb break="no"/>nel Wakefield, the company's agent. Several <lb/>emigrant ships have lately reached us. The Ka<lb break="no"/>therine Stewart, Forbes, from London, has just <lb/>entered the harbour."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>305</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-11-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration.</hi> –The following data will show <lb/>the number of emigrants from the United King<lb break="no"/>dom, with their destination, during the year 1840 <lb/>derived from official sources:–</p>
+                <p>To N. American Col. 27,025 To Van Diem. Land 281 <lb/>United States 38,495 West Australia 233 <lb/>West Indies 1,938 Port-Philip 3,201 <lb/>Cape of G. Hope 513 South Australia 2,911 <lb/>Sydney 7,811 New Zealand 1,330 <lb/>Total 83,746</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>306</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-12-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Tailors.</hi> –In 1836 the number of tailors and slop<lb break="no"/>makers in the town was 500, and these were fully em<lb break="no"/>ployed; at present there are only 250, and these but <lb/>partially employed; leaving 250 who are unemployed. <lb/>Some have left the town, and others are gone to Ame<lb break="no"/>rica or Australia.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>307</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-12-25"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>census</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration.</hi>
+            </p>
+                <p>A Return, just published, shows that emigra<lb break="no"/>tion is still proceeding upon a gigantic scale:–</p>
+                <p>
+               <hi rend="smallcaps">Emigrants from the United Kingdom in 1840. </hi>
+               <lb/>England. Scotland. Ireland. Total. <lb/>To North American <lb/>colonies, 5,303 3,053 23,935 32,293 <lb/>United States, 35,309 1,246 4,087 40,0 <lb/>Other parts of Ame<lb break="no"/>rica, 44 – – 44 <lb/>West Indies, 745 687 159 1,591 <lb/>The Cape, 315 8 – 323 <lb/>Australia and New <lb/>Zealand, 14,495 817 538 15,850 <lb/>56,213 5,811 28,719 90,743</p>
+                <p>We have not the previous Returns at hand, <lb/>but we believe that a larger number of emigrants <lb/>never left the shores of the British Isles in one <lb/>year than the above. It is startling to think, <lb/>that 1800 persons quit the kingom every week <lb/>never to return. The natural increase of the <lb/>people must be about 1100 per day, of whom emi<lb break="no"/>gration carries off 250, leaving 850 to swell the <lb/>Census.</p>
+                <p>The emigration to our North American colo<lb break="no"/>nies was as follows:–</p>
+                <p>To Canada, 21,209 <lb/>–New Brunswick, 8,056 <lb/>– Newfoundland, 387 <lb/>–Nova Scotia, 972 <lb/>–Cape Breton, 437 <lb/>Prince Edward's Island, 1,214 <lb/>Hudson's Bay, 18 <lb/>32,293</p>
+                <p>To Australia it was:– <lb/>Swan River, 224 <lb/>South Australia, 2,748 <lb/>Port Philip, 3,473 <lb/>Sydney, 7, <lb/>Van Diemen's Land, 299 <lb/>14,392</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>308</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-12-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>crime</item>
+                            <item>agriculture</item>
+                            <item>bequests</item>
+                            <item>fire</item>
+                            <item>religion</item>
+                            <item>settlement description</item>
+                            <item>society</item>
+                            <item>theatre</item>
+                            <item>trade</item>
+                            <item>weather</item>
+                            <item>monuments</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Theatre Royal.</hi> –The Pantomine, we ob<lb break="no"/>serve, is postponed till Friday. Meanwhile, the <lb/>theatre is crowded nightly, the public being ad<lb break="no"/>mitted at second price from the commencement <lb/>of the performances.</p>
+                <p>
+               <hi rend="smallcaps">Music Hall.</hi> –We stated, about two month <lb/>ago, that, in connection with other improvements <lb/>in the Assembly Rooms, a plan was under consi<lb break="no"/>deration for erecting a Music Hall. We are now <lb/>happy to announce, that at a meeting of the pro<lb break="no"/>prietors of the Rooms last week, full pwers were <lb/>given to the Directors to take the requisite steps <lb/>for carrying the design into execution. The de<lb break="no"/>sire so long felt by the cultivators of music here, <lb/>will soon be realisd, by the erection of a splendid <lb/>hall, constructed with a due regard to the accom<lb break="no"/>modation both of professional men and the public, <lb/>and with a minute attention to the most recent <lb/>improvements, by which full effect is secured to <lb/>musical performances when conducted on a grand <lb/>scale. By what may be called a propitious coin<lb break="no"/>cidence, Mr Bishop, the new Professor of Music, <lb/>arrived in Edinburgh on the very day when this <lb/>resolution was come to.</p>
+                <p>
+               <hi rend="smallcaps">Martin's Paintings.</hi> –The exhibition of <lb/>these celebrated paintings in this city has already, <lb/>we believe, attracted many visitors. They are <lb/>truly wonderful creations, and possess a power <lb/>and grandeur of which the engravings, so familiar <lb/>to the public, convey but a faint conception. In <lb/>contemplating " the Deluge," the spectator is so <lb/>[?] [?] [?] <lb/>the scene, that he is apt to overlook the details; <lb/>but these will be found on inspection to be among <lb/>the most interesting features of the picture. The <lb/>groups of perishing beings are exquisitely wrought, <lb/>while everything is made to contribute to the <lb/>terrific grandeur of the catastrophe. The other <lb/>two pictures–"Pandemonium" and "the Rivers <lb/>of Bliss," are smaller in size, but equally indica<lb break="no"/>tive of the high poetic genius of the artist. No<lb break="no"/>thing could be more striking than the contrast <lb/>these pictures present to each other–the one fear<lb break="no"/>ful beyond expression, the other exhibiting a <lb/>heavenly serenity and loveliness on which the <lb/>eye rests with delight. There are several other <lb/>valuable paintings in this collection, amongst <lb/>which is "The Offering Up of Isaac," a Rem<lb break="no"/>brandt in fine preservation.</p>
+                <p>
+               <hi rend="smallcaps">Gordon's British Diorama.</hi> –This beautiful <lb/>exhibition opened on Saturday last, and has, we <lb/>understand, been crowded with visitors ever since. <lb/>It will be seen by Mr Gordon's advertisement in <lb/>to-day's paper, that the view of the Tower of <lb/>London during the recent conflagration (to which <lb/>we alluded in our last) has now arrived, and is <lb/>being exhibited along with the other views.</p>
+                <p>
+               <hi rend="smallcaps">Broughton-place Congregation</hi>.–We <lb/>understand that the call given by Broughton<lb break="no"/>Place Congregation to the Rev. Mr Croon, San<lb break="no"/>quhar, to be colleague to the Rev. Dr. Brown, <lb/>has not been accepted, owing to the strong claims <lb/>which the affectionate people among whom he <lb/>presently labours have to continuance of his <lb/>services, and his unfitness, as he alleges, for a <lb/>charge so laborious; a result which, we learn, has <lb/>caused among the members of Broughton-Place <lb/>extreme and general regret.</p>
+                <p>
+               <hi rend="smallcaps">Cooke's Equestrian Amphitheatre, </hi>
+               <lb/>
+               <hi rend="smallcaps">Leith.</hi> –Mr Cooke has generously handed over <lb/>to the Provost, for the benefit of the Destitute <lb/>Sick Society, the handsome sum of t15; being <lb/>the free proceeds of Friday evening's entertain<lb break="no"/>ment, which took place under the patronage of <lb/>the Provost and Magistrates.</p>
+                <p>
+               <hi rend="smallcaps">Captain Ross' Discoveries.</hi> –Extracts from <lb/>Captain Ross' despatches have been published in <lb/>a Parliamentary paper. From the map which <lb/>accompanies the paper, we gain a more distinct <lb/>idea of his track than the previous article copied <lb/>from the <hi rend="italic">Athenean[?]</hi>  afforded. South Victoria <lb/>Land, which he discovered, extends in latitude <lb/>from 70 1/2 south to 79, how much farther is un<lb break="no"/>known; and in longitude its eastern coast lies <lb/>between 163 and 171. Its position is directly <lb/>south from New Zealand, and at the distance of <lb/>1500 geographical miles. The length of the part <lb/>seen was fully 500 miles. It was girt with a bor<lb break="no"/>der of ice many miles in breadth, which rendered <lb/>it inaccessible. The passage southward was closed <lb/>at latitude 78 by a barrier of ice 150 feet high, <lb/>which was traced for 300 miles east from Victoria <lb/>Land. Icebergs were encountered in numbers <lb/>after they passed parallel of 63, and pack ice <lb/>at 66. The land " rose in lofy peaks from 9000 <lb/>to 12,000 feet in height, perfectly covered with <lb/>eternal snow; the <hi rend="italic">glaciers</hi>  descended from <lb/>near the mountain summits, <hi rend="italic">project many miles </hi>
+               <lb/>
+               <hi rend="italic">into the ocean,</hi>  and presented a perpendicular face <lb/>of lofty cliffs." They could not reach the main<lb break="no"/>land, but landed on an island, which they found <lb/>to consist of volcanic rocks. On 28th January, <lb/>in latitude 77 1/2, longitude 169 E., they discovered <lb/>a magnificent volcano, emitting smoke and flame <lb/>in a splendid profusion," and named it Mount <lb/>Erebus. An extinct one near it was named after <lb/>the other vessel, Mount Terror. At the distance <lb/>of less than half a mile from the ice cliffs which <lb/>barred their progress southward, they had sound<lb break="no"/> 
+               <lb/>ings with 318 fathoms. These cliffs, no doubt, <lb/>reached the bottom, and, including the 150 feet <lb/>above water, <hi rend="italic">must have had an elevation fo 2000 feet </hi>
+               <lb/>of thereabout. The observations on the dip and <lb/>declination induced them to place the South Mag<lb break="no"/>netic Pole in latitude 76, and east longitude <lb/>153; and they considered its position as well as<lb break="no"/>certained as if they had reached it, though their <lb/>nearest approach to it was a point 160 miles from <lb/>it, on the east coast of Victoria Land. The pole <lb/>is probably within that region, though this can<lb break="no"/>not be positively affirmed, as its western boun<lb break="no"/>dary is unknown. The highest latitude they <lb/>reached 78. 4. They were therefore only 12 <lb/>degrees from the pole and about 4 degrees nearer <lb/>to it than Captain Weddel[?], the most successful <lb/>of their predecessors. <cb/>
+               <hi rend="smallcaps">The Non-intrusion Disclosures.</hi> –In the <lb/>
+               <hi rend="italic">Advertiser</hi>  of yesterday there is a letter from J. <lb/>M. Hog, Esq. of Newliston, and another from <lb/>the Rev. Dr Simpson of Kirknewton, both ex<lb break="no"/>pressing their extreme surprise at the letter of <lb/>Mr Hamilton (which appeared in our last), and <lb/>strongly disclaiming all connexion with it on the <lb/>part of the General Assembly's Committee.</p>
+                <p>
+               <hi rend="smallcaps">Sabbath Observance–The Sweetie Case. </hi>
+               <lb/>–We understand that the Government of Prus<lb break="no"/>sia, thinking that the mode of keeping the Sab<lb break="no"/>bath in that country was in some respects too lax, <lb/>recently sent over a person to this country, to <lb/>learn whether our practise in Britain would not <lb/>furnish hints for improvement. Unluckily, the <lb/>very first specimens of our piety which met him <lb/>were the sweetie case, and that of the poor man <lb/>Key who was excommunicated for burying his <lb/>child on Sunday. These will of course figure in <lb/>the very front of the officer's report as the na<lb break="no"/>tural fruits of our system, and we may guess <lb/>what their effect will be in reconciling the Ger<lb break="no"/>mans to a stricter observance of Sunday! We <lb/>can, moreover, inform Butters' prosecutors, that <lb/>the fame of their exploits has already travelled, by <lb/>the aid of the Teutonic newspapers, to the utter<lb break="no"/>most parts of Germany, to the infinite amusement <lb/>of the Swabian farmers, the Saxon miners, and <lb/>the shepherds of the Riesengeberge. Key's case is <lb/>no doubt destined to enjoy equal celebrity.</p>
+                <p>
+               <hi rend="smallcaps">Airdrie–Anti-Corn-Law Conference.</hi> – <lb/>On Monday last, the members of the United <lb/>Secession Church, Airdrie, favourable to a repeal <lb/>of the Corn and Provision Laws, met, in compli<lb break="no"/>ance with the request of the Committee taking <lb/>the active management of the Conference to be <lb/>held in Edinburgh on the second week in Janu<lb break="no"/>ary next on that subject, when they unanimous<lb break="no"/>ly appointed their pastor, the Rev. Matthew <lb/>M'Gavin, A.M., Mr John Craig Waddell, pro<lb break="no"/>prietor, and Mr James Forrester, merchant in <lb/>Airdrie, to represent their sentiments at that <lb/>meeting, which is looked forward to with great <lb/>interest by the liberal portion of the inhabitants <lb/>of the burgh. The Rev. Mr Taylor, with Messrs <lb/>Adam Nimmo, contractor, and John Young, <lb/>bookseller, will represent the Independent con<lb break="no"/>gregation; and Mr Thomas Muir, pastor of the <lb/>Baptist church, will represent that body on that <lb/>occasion.</p>
+                <p>
+               <hi rend="smallcaps">Kirkcudbright–Address to the Dean </hi>
+               <lb/>
+               <hi rend="smallcaps">of Faculty,</hi> –We learn that at a meeting, held <lb/>on the 17th current, of the Clerks and Procura<lb break="no"/>tors of the Steward and COmmissary Courts, an <lb/>address was voted to Alexander Wood, Esq. on <lb/>his appointment to the office of Dean of Faculty, <lb/>and his retirement from that of Steward of <lb/>Kirkcudbright.</p>
+                <p>
+               <hi rend="smallcaps">Distress in Paisley.</hi> –We understand that <lb/>the Bookbinders of Edinburgh purpose to give <lb/>a Grand Musical Melange in a few days, the <lb/>proceeds of which are to be handed over to the <lb/>committee for the distressed weavers in Paisley.</p>
+                <p>
+               <hi rend="smallcaps">Musselburgh.</hi> –Mr Wilson, Treasurer to the <lb/>"Honest Town," has, by the hands of the district <lb/>committeesm collected from the contributors to <lb/>the Prince of Wales fund, nearly t100; and the <lb/>committees have already distributed 130 tons of <lb/>coals to the necessitous families in the neigh<lb break="no"/>bourhood.</p>
+                <p>
+               <hi rend="smallcaps">Presbytery of Dalkeith–Case of Mr </hi>
+               <lb/>
+               <hi rend="smallcaps">Monroe.</hi> –This Presbytery met on Tuesday the <lb/>21st current. At a former meeting an agent ap<lb break="no"/>peared for Mr Monroe, presentee to Fala, and <lb/>laid on the table of Presbytery a presentation <lb/>in his favour to the parish of Fala. It having <lb/>been objected that the presentation, and some <lb/>other papers relative thereton, bore, that Mr Mon<lb break="no"/>roe was presented merely to the parish of Fala, <lb/>and not to the united parishes of Fala and Soutra, <lb/>the agent made his appearance again at the meet<lb break="no"/>ing, which was held on Tuesday, with a supple<lb break="no"/>mentary presentation, and also a letter accept<lb break="no"/>ance from Mr Monroe. The agent, when asked, <lb/>admitted that he had not with him a Presbyterial <lb/>certificate; and he stated, that he would not ask <lb/>the Presbytery to sustain the presentation with <lb/>relative papers at that meeting. But he intimated, <lb/>that he intended to appear at the next meeting, <lb/>which is appointed to be held on the 22d of <lb/>February, and he expected to be able to show <lb/>that the Presbytery should then sustain the pre<lb break="no"/>sentation and relative documents.</p>
+                <p>
+               <hi rend="smallcaps">Splendid Meteor.</hi> –On Tuesday evening, <lb/>about eight o'clock, a meteor of unusal size and <lb/>splendour was witnessed in this quarter. The <lb/>evening was very clear, the sky being without a <lb/>cloud, and the moon shining brightly. Suddenly, <lb/>a dazzling blaze of light burst from the sky, illu<lb break="no"/>minating Benlomond and the distant hills, the <lb/>Curse around Craigforth, and, indeed, the earth <lb/>and air on every side as far as the eye could reach, <lb/>with all the brilliancy of noon-day. The pheno<lb break="no"/>menon appeared like a ball of fire, of an oblong <lb/>shape, and apparently almost twice the size of <lb/>the moon, having at the time somewhat of the <lb/>same silvery appearance as that luminary, but <lb/>flaming with a brilliancy so intense as almost to <lb/>dazzle the eyes. A tail of fire somewhat re<lb break="no"/>sembling that of a rocket, but composed of the <lb/>most beautifully varied colours, streamed behind <lb/>it for a short distance, adding much to its spen<lb break="no"/>dour, and giving the whole an appearance at once <lb/>singularly magnificent and sublime. Before it <lb/>disappeared, it assumed a red glowing appear<lb break="no"/>ance, and then burst for an instant enve<lb break="no"/>loping the earth and sky in a blaze as bright and <lb/>dazzling as the most vivid lightning. It appeared <lb/>to pass from the south to the north, inclining to<lb break="no"/>wards the earth. To the eye it seemed to burst <lb/>and disappeared above Gargunnock. Another me<lb break="no"/>teor of the same kind, but much less in size, <lb/>brilliancy, and splendour, was observed falling in <lb/>a quartr rather farther to the south, a few mi<lb break="no"/>nutes previously. It is a coincidence worthy of <lb/>notice, that a meteor, of the same nature with <lb/>that first described in the above, was seen at the <lb/>same hour in Glasgow.– <hi rend="italic">Stirly Journal.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Glasgow.</hi> –The collection made on Sabbath <lb/>afternoon last, by the Rev. Mr Macfarlane's con<lb break="no"/>gregation, Nicholson Street, Glasgow, amounted <lb/>to t46, 7s. 6d. This sum is the more praiseworthy <lb/>when it is considered that this congregation has <lb/>within a few months subscribed among themselves <lb/>nearly t1000 for the erection of their beautiful <lb/>place of worship to be called "Erskine Church," <lb/>of which they are erelong to take possession.</p>
+                <p>
+               <hi rend="smallcaps">The Unemployed in Paisley</hi>.–The number <lb/>of unemployed in Paisley has last week decreased <lb/>by 43. In Kilbarchan and Barrhead they were still <lb/>on the increase. The following is the official re<lb break="no"/>port of yesterday for Paisley and Barrhead :–</p>
+                <p>
+               <hi rend="smallcaps">Paisley. </hi>
+               <lb/>Males, 1865 <lb/>Dependants, 4662 <lb/>–6527 <lb/>Females, 1680 <lb/>Dependants, 3360 <lb/>–5040 <lb/>Total, 11,567 <lb/>
+               <hi rend="smallcaps">Barrhead. </hi>
+               <lb/>December 17, 287 <lb/>... 23, 346 <lb/>Increase, 59 <lb/>– <hi rend="italic">Paisley Advertiser.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">The Paisley Manufacturing Committee. </hi>
+               <lb/>–This Committee continue to carry on their <lb/>operations with energy and zeal. The amount <lb/>of the fund now exceeds t8000, and is still on <lb/>the increase. They have given out about 700 <lb/>webs already, and are as busy as possible prepar<lb break="no"/>ing more. Unable to get a sufficiency of webs <lb/>warped in Paisley, they have sent for assistance <lb/>in this respect both to Glasgow and Johnstone. <lb/>A good deal of work has this week been given to <lb/>warpers, winders and heddle-casters. They have <lb/>taken much more spacious premises in Gilmour <lb/>Street, in order that they may the more easily <lb/>supply both town and country weavers. It is <lb/>desirable that the implement fund should be <lb/>somewhat enlarged, as the other funds of the <lb/>Committee are not trenched on for that purpose <lb/>– <hi rend="italic">Ibid.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Ducal Generosity</hi>.–After the late county <lb/>meeting at Hamilton, at which addresses were <lb/>voted to the Queen and Prince Albert, his Grace <lb/>the Duke of Hamilton and several of those who <lb/>had attended the meeting visited the jail. One <lb/>respectable looking female attracted his Grace's <lb/>attention; and on inquiry he was told that she was <lb/>the widow of a respectable wood merchant, now <lb/>deceased, and had been confined for upwards of a <lb/>year, at the instance of a law agent in Edinburgh, <lb/>for costs incurred in a suit in the Court of Session. <lb/>His Grace immediately caused the truth of the <lb/>poor woman's story to be investigated, and on <lb/>being satisfied of the facts he caused the debt to <lb/>be paid by his factor, and procured the woman's <lb/>liberation, who has thus through his Grace's <lb/>generosity been restored to liberty and to the <lb/>superintendence of her young family.– <hi rend="italic">Reformers' </hi>
+               <lb/>
+               <hi rend="italic">Gazette.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Presentation.</hi> –A number of the members <lb/>of the United Secession Church, Airdrie, met in <lb/>their vestry on the evening of Wednesday the <lb/>22d inst. when Councillor Brown, in name of the <lb/>congregation, presented the Rev. M. M'Gavin, <lb/>A.M., their pastor, with a handsome pulpit gown <lb/>and cassock, as a mark of their respect and <lb/>esteem; after which a number of the influential <lb/>members of the congregation entertained him to <lb/>supper supper in Mr Witherspoon's King's Arms Inn– <lb/>Mr Daniel Gray, collector, Coltness Railway, in <lb/>the chair, and Dr Clarkson, croupier–when the <lb/>evening was spent in the most friendly, happy, <lb/>and intellectual manner.</p>
+                <p>
+               <hi rend="smallcaps">A Rescue</hi>.–Last week, while the Duke of <lb/>Hamilton was riding along the wood leading from <lb/>Hamilton to Bothwell, he heard the screams of a <lb/>female, and on looking towards the place whence <lb/>the cries came, he perceived a stout Irishman be<lb break="no"/>labouring a woman in a most unmerciful style. <lb/>No sooner did he observe this, than he rode up to <lb/>the scene of cruelty, dismounted from his horse, <lb/>knocked the savage down, rescued the woman, <lb/>and sent her home rejoicing, with more money in <lb/>her pocket than it may have been her lot to possess <lb/>for a long time. When we recollect that his <lb/>Grace was born so long ago as October 1767, and <lb/>so is in his 75th year, we cannot sufficiently ad<lb break="no"/>mire his gallantry, humanity, and intrepidity– <lb/>
+               <hi rend="italic">Glasgow Chronicle.</hi> 
+               <cb/>
+               <hi rend="smallcaps">Town Council.</hi> –The usual meeting of Coun<lb break="no"/>cil did not take place yesterday in consequence of <lb/>the Christmas holidays.</p>
+                <p>
+               <hi rend="smallcaps">House of Industry.</hi> –We understand that <lb/>Miss Grace Bailie had left a legacy to the Edin<lb break="no"/>burgh House of Industry of ten pounds sterling.</p>
+                <p>
+               <hi rend="smallcaps">Old Church</hi>.–The Lords of her Majesty's <lb/>Treasury have officially intimated to the parties <lb/>interested their intention to adhere to the original <lb/>arrangement made with the Town Council, for <lb/>altering the Assembly Aisle, and rendering it fit <lb/>to be permanently used as a place of worship <lb/>for the accomodation of one of the city congre<lb break="no"/>gations.</p>
+                <p>
+               <hi rend="smallcaps">Prince of Wales Fund.</hi> –In the table of <lb/>sums subscribed in the different Wards of Police, <lb/>published in our paper of Saturday last, that indi<lb break="no"/>cated for the 26th Ward was t120, 12s. 9d. Mr <lb/>Lindores, the General Commissioner, requests us <lb/>to state, that the sum subscribed in his Ward was <lb/>t275, 12s. 9d., and that the difference between the <lb/>two sums is the amount of the very handsome <lb/>subscriptions by the Banks in St Andrew Square, <lb/>and which were drawn by the Treasurer.</p>
+                <p>
+               <hi rend="smallcaps">Presentation of Plate.</hi> –On Friday after<lb break="no"/>noon, about fifty citizens entertained Mr William <lb/>Donaldson, of the Albion Cloth Company, to an <lb/>elegant dinner and dessert, in the Turf Hotel, <lb/>Princes Street, for the purpose of presenting him <lb/>with a testimonial of their esteem, subscribed for <lb/>by the members of the Celtic Lodge, and other <lb/>private friends. Mr William Wright, hat manu<lb break="no"/>facturer, was in the chair, supported on the right <lb/>and left by the guest of the evening, Mr Pritchard <lb/>of the Theatre-Royal, and other gentlemen. Mr <lb/>Dick of the Albion officiated as croupier. After <lb/>the usual loyal and preliminary toasts had been <lb/>given, the chairman called for a <hi rend="italic">bona fide</hi>  bumper <lb/>for the toast of the evening, and, after passing <lb/>a handomse eulogium on those various quali<lb break="no"/>ties of their guest which had endeared him to <lb/>all his friends, neighbours, and acquaintances, <lb/>far and wide, presented to Mr Donaldson, in the <lb/>name of the subscribers, a very elegant and <lb/>massive silver tea set, of the value of t50. Mr <lb/>Donaldon's health was then proposed and drunk <lb/>with warm and friendly enthusiasm. The pre<lb break="no"/>sentee replied to the compliment in modest and <lb/>appropriate terms. The company spent an ex<lb break="no"/>ceedingly happy and convivial night; the chair<lb break="no"/>man and croupier taking care that there should <lb/>be no flagging in the jovialty. The toasts were <lb/>suitable to the occasion. Mr Mackenzie's instru<lb break="no"/>mental band played appropriate airs to the va<lb break="no"/>rious toasts and sentiments; and vocal music, <lb/>from amateurs, was never wanting; the guest <lb/>himself being a host in that department. The <lb/>following inscription is neatly engraved on the <lb/>various pieces of playe :–"To Mr William Don<lb break="no"/>aldson, R.W.M. of the Lodge Celtic of Edinburgh <lb/>and Leith, from a number of Masonic and other <lb/>Friends.–24th Dec. 1841."</p>
+                <p>
+               <hi rend="smallcaps">Theft and Recovery of a Pony.</hi> –At a late <lb/>hour on Sunday night a gentleman residing in <lb/>the southern part of the town dismounted from <lb/>his pony at his own gate, and proceeding inwards, <lb/>leaving the animal to follow, as he was wont to <lb/>do, to the stable. On looking about, he observed <lb/>a young man, whom he supposed to be his son, <lb/>take the reins and mount the pony. Shortly <lb/>afterwards the son came into the house, and the <lb/>question of "Where is the pony?" soon convinced <lb/>the parties that it was stolen. They immediately <lb/>proceeded in search, and while the gentleman <lb/>was giving information at the Police-Office, his <lb/>son discovered the pony with a rider on the North <lb/>Bridge. He immediately seized the reins and <lb/>made a clutch at the thief; but the latter very <lb/>adroitly threw himself off at the opposite side, <lb/>ran down the Fleshmarket stairs, and escaped.</p>
+                <p>
+               <hi rend="smallcaps">Providential Recovery.</hi> –One day last <lb/>week, a fine little child, about five years of age, <lb/>belonging to one of the villagers at Ratho, having <lb/>dandered[?] away with another little play-fellow, <lb/>like himself, to a little distance from the house, <lb/>fell into a deep well. His companion was found <lb/>standing weeping at the edge. The apparently <lb/>dead body of the little one being got out, was <lb/>taken home, and all hopes of its recovery given <lb/>up, when Dr Pringle, and excellent young gentle<lb break="no"/>man, who is presently assistant of Dr Craig at <lb/>Ratho, made his appearance, and, by applying <lb/>himself with indefatiguable perseverance, succeed<lb break="no"/>ed in recalling the apparently extinguished spark. <lb/>The next the little romp was as lively as <lb/>ever.</p>
+                <p>
+               <hi rend="smallcaps">Mungo Park.</hi> –A public meeting was held in <lb/>the town hall of Selkirk, on Monday the 26th <lb/>current, the Chief Magistrate in the chair; when <lb/>various resolutions were adopted with the view <lb/>of erecting a monument or other permanent <lb/>mark of respect for the memory of this celebrat<lb break="no"/>ed traveller.</p>
+                <p>
+               <hi rend="smallcaps">Thimble-Riggers.</hi> –A band of thimble-rig<lb break="no"/>gers from Edinburgh have for several weeks past <lb/>been infesting the roads in the neighbourhood of <lb/>Glasgow. They are six in number and one of <lb/>them, an old man of rather respectable appear<lb break="no"/>ance, is generally in advance of the party, and <lb/>having got into conversation with a passenger on <lb/>the road, and the others running up, and desiring <lb/>the old man to try his luck; he does so, and win<lb break="no"/>ning a trifle, he easily persuades the person with <lb/>whom he has been ingratiating himself to try <lb/>also, and he is soon robbed of his whole spare <lb/>cash. Information having, on Wednesday last, <lb/>been given to the Procurator-Fiscal at Pollok<lb break="no"/>shaws, and the gang were on the new Kilmar<lb break="no"/>nock Road, he immediately despatched two rural <lb/>police officers in pursuit of them. On the officers <lb/>coming up to the gang, they separated and ran <lb/>off, but the officers captured two of them (the old <lb/>man and another), who were safely lodged in <lb/>Pollokshaws Jail; and having been brought be<lb break="no"/>fore two of the Justices, and several person hav<lb break="no"/>ing sworn to being defrauded by them of their <lb/>money, they were sentenced tothirty days' im<lb break="no"/>prisonment in Paisley House of Correction, with <lb/>hard labour, as rogues and vagabonds; and an <lb/>active look-out is made by the police for the re<lb break="no"/>mainder of the gang.</p>
+                <p>
+               <hi rend="smallcaps">Stoppage of Payments by the Town of </hi>
+               <lb/>
+               <hi rend="smallcaps">Paisley.</hi> –Partly on account of the great depres<lb break="no"/>sion of trade, and partly on account of a run raised <lb/>by the circulation of malicious and false state<lb break="no"/>ments regarding the affairs of the community of <lb/>Paisley, theTown Council, at a meeting on Wed<lb break="no"/>nesday evening, ordered the Chamberlain to sus<lb break="no"/>spend receipt or payment of deposits, in the mean<lb break="no"/>time, but to proceed with all possible despatch in <lb/>realizing the outstanding debts due to the com<lb break="no"/>munity for the regular payment of the interest on <lb/>the money borrowed, and other current engage<lb break="no"/>ments of the burgh. It is pretty generally <lb/>known that a small portion of the would-be-po<lb break="no"/>litical leaders of the town who have not the <lb/>influence to get themselves placed in municipal <lb/>authority, have for a good number of years endea<lb break="no"/>voured to embarass the party in power, by attack<lb break="no"/>ing the credit of the community. The unfavour<lb break="no"/>about state of trade and the leniency of the Coun<lb break="no"/>cil in not enforcing during the last year the ex<lb break="no"/>actions on the owners of property, for entries, &amp;c. <lb/>falling due, caused a deficiency of nearly t300 <lb/>in the usual amount of revenue. This simple <lb/>circumstance was taken advantage of, though <lb/>nothing was lost thereby, and statements prejudi<lb break="no"/>cial to the town's credit were placed in the hands <lb/>of every credito that could be found by the indi<lb break="no"/>viduals referred to, and thus uncalled for alarm <lb/>raised. In addition to this, the adherents of the <lb/>same party in the Council during the last five <lb/>days gave currency to another statement which <lb/>they knew to be quite untrue, about the late Pro<lb break="no"/>vost having commenced to secure himself by <lb/>drawing a thousand pounds, when the fact was he <lb/>had not drawn out a penny. From the position <lb/>to which which the affiars the town are now driven <lb/>a full and public exposure of these matters will <lb/>soon be submitted to the creditors. The Council <lb/>have been negotiating for such a loan of money <lb/>as will pay off those who are dissatisfied, which <lb/>in the ordinary state of the money market they <lb/>would long since have obtained, though at present <lb/>that is difficult. As regards risk to the creditors, <lb/>from the best informed quarters we are assured <lb/>there is none. More than one-third of the whole <lb/>debts of the town are due to the Bank and the <lb/>members of Council, or their immediate friends, <lb/>and fully a half of the debt against the river is due <lb/>to the same parties. This we should conceive the <lb/>strongest proof that could be adduced of the con<lb break="no"/>fidence of those who should best know the state <lb/>of the town's affairs.– <hi rend="italic">Glasgow Chronicle.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Disgraceful Trick</hi>.–At a late wake in the <lb/>country, a short way from Crieff, a waggish fel<lb break="no"/>low tied a cord secretly to the neck of the corpse <lb/>and while a number of young men and women <lb/>present were going on merrily with some sport <lb/>the wag pulled the cord, when corpse started <lb/>up in the bed, making the clothes to fly off; the <lb/>whole party rushed to the door, crying for mercy <lb/>upon them, and knocking each other over in the <lb/>hurry, when at length some people came to their <lb/>assistance, who afterwards discovered the cause <lb/>of their terror.– <hi rend="italic">Perth Courier.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">The Church Question.</hi> –Long ago, Dr Chal<lb break="no"/>mers let out the secret of the clerical movement, <lb/>by declaring that very little of Non-intrustion <lb/>would satisfy him and his friends, provided the <lb/>independent power of the Church were secured. <lb/>Now, this <hi rend="italic">liberum arbitrium</hi>  does nothing at all <lb/>for Non-intrusion; but it does a great deal for <lb/>Church Independence. It confers no privilege on <lb/>the laity; but it adds immeasurably to the power <lb/>of the clergy. It is, in fact, the very worst part <lb/>of the claims that have been advanced by the <lb/>Church; and its effects would simply be to sacri<lb break="no"/>fice the lay Non-intrusionists on the one hand, <lb/>and clerical Moderates on the other. It <lb/>means literally uncontrolled power to the Church <cb/>
+               <hi rend="smallcaps">The</hi>  General Steam Navigation Company's ship <lb/>Monarch, Captain Fraser, arrived at Granton from <lb/>London on Monday evening at half-past nine <lb/>o'clock.</p>
+                <p>
+               <hi rend="smallcaps">Election of a Minister for Old Monk- </hi>
+               <lb/>
+               <hi rend="smallcaps">land.</hi> –The election of a minster took place at <lb/>Old Monkland Church, on Thursday the 23d inst., <lb/>and the right of patronage being vested in the <lb/>Heritors and Kirk-Session, the election might be <lb/>considered a popular one. About 150 voters at<lb break="no"/>tended the meeting, and a decided wish having <lb/>been expressed by, it is understood, the whole of <lb/>the heritors that no candidate known to be con<lb break="no"/>nected with the Non-intrusion party in the Church <lb/>should be chosen, the meeting, acting upon this <lb/>principle, unanimously agreed to elect the Rev. <lb/>Mr Johnston, Greenock, as minister of the parish. <lb/>Considering the number of voters, the unanimity <lb/>that prevailed among the electors, it is believed, <lb/>is without precedent and stongly marks the <lb/>sentiments and feelings of a large and very popu<lb break="no"/>lous parish on the present proceedings of the do<lb break="no"/>minant party in th Church. Mr Johnston was <lb/>proposed by General Pye Douglass of Rosehall, <lb/>seconded by Mr M'Caul of Daldowie, and unani<lb break="no"/>mously elected.– <hi rend="italic">Reformers' Gazette.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Destructive Fire.</hi> –About three o'clock on <lb/>the morning of the 25th curt., an alarm of fire <lb/>was given at Balmangan Mill, in the parish of <lb/>Rerwick. The premises are occupied by Mr <lb/>Kissock, and despite the great exertions of him<lb break="no"/>self, servants and neighbours, the work of de<lb break="no"/>struction proceeded with a degree of rapidity <lb/>that rendered it impossible to save a single arti<lb break="no"/>cle. The flames in their fury having charred the <lb/>rafters, the roof fell in with a loud crash; and, <lb/>before long, the entire mill, with the exception <lb/>of the side walls, became an unbroken mass of <lb/>ruins. The building contained a considerable <lb/>quantity of grain and oatmeal, the property of <lb/>the tacksman, all of which was unforunately de<lb break="no"/>stroyed. As the premises were found quite safe <lb/>a very few hours previously, suspicion of incen<lb break="no"/>diarism have naturally arisen, but no clue thus <lb/>far has been found attaching guilt to a single in<lb break="no"/>dividual. The fire, if wilful, implies the blackest <lb/>malice, and it is sad to think that any one could <lb/>have been so wicked as to destroy what thousands <lb/>are in want of, and would gladly toil for, if they <lb/>only knew how–daily bread– <hi rend="italic">Dumfries Courier.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Hamilton.</hi> –Some influential persons in Ha<lb break="no"/>milton and the neighbourhood have subscrib<lb break="no"/>ed to build an Episcopal chapel in that town. <lb/>We have been informed that all the requisite <lb/>arrangements have been made for carrying <lb/>the views of the subscribers into effect. This <lb/>is one effect of the conduct of the rebellious <lb/>majority of the General Assembly. Many of <lb/>thsoe now friendly to the scheme, never dreamed <lb/>of espousing Episcopacy, till they have been <lb/>driven in disgust from the Church of their fathers, <lb/>by the conduct of their ministers; men who exist <lb/>in their offices by law, and yet set that very <lb/>law at defiance, in virtue of which they hold offices, <lb/>and draw their "temporalities," as they cantingly <lb/>term their good things, which alone induce some <lb/>of them, at least, to remain members of the vene<lb break="no"/>rable Establishment. Who would have believed, <lb/>some years ago, that "Black Prelacy" was about <lb/>to be established within sight of Bothwell Brigg!</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>309</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-12-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Another New Field for Emi </hi>
+               <lb/>
+               <hi rend="smallcaps">gration</hi>
+            </p>
+                <p>The <hi rend="italic">Falkland Islands</hi>  have been nominally a <lb/>British colony for some years; but, in conse<lb break="no"/>quence of representations made to Government by <lb/>various persons interested in the trade to the South <lb/>Seas, a plan has at least been drawn up for esta<lb break="no"/>blishing a body of settlers in these islands. It <lb/>was submitted to the late Ministers, who referred <lb/>it to the Commissioners of Emigration and the <lb/>Lords of the Admiralty, by both of whom it was <lb/>approved. Rules were prepared by the Com<lb break="no"/>missioners of Emigration ; a vote of t3750 was <lb/>put into the estimates for the first year's ex<lb break="no"/>pense, and, we suppose, passed. If steps have <lb/>not been taken already to send out emigrants, we <lb/>presume they will be taken about the beginning <lb/>of next winter, which is their summer.</p>
+                <p>These islands are about 300 miles from the <lb/>south extremity of the American continent, in a <lb/>latitude corresponding with that of London. <lb/>Their climate, however, very closely resembles <lb/>that of Shetland. They have cold summers and <lb/>mild winters. Snow seldom lies in them; but <lb/>owing to their humidity and want of sunshine, <lb/>and the stormy winds which blow almost con<lb break="no"/>stantly, wheat of barley could not be raised in <lb/>them, and even oats might turn out to be a pre<lb break="no"/>carious crop. It is doubted also if wood will <lb/>grow, and at present there is not a single tree in <lb/>the islands. Turnips and potatoes succeed well, <lb/>and there is an abundance of good grass, upon which <lb/>some thousands of black cattle, horses, and hogs, <lb/>thrive in the wild state, and sheep have been in<lb break="no"/>troduced and found to do well. Extensive peat<lb break="no"/>bogs exist, which will afford a sufficient supply of <lb/>fuel. The present population consists of twenty<lb break="no"/>five persons, young and old–one-half of them <lb/>British, the other Gauchos, South American In<lb break="no"/>dians of a semi-civilised description. They are <lb/>all stationed at Port-Louis, a fine natural har<lb break="no"/>bour, where a British officer resides.</p>
+                <p>The islands are numerous, but all very small <lb/>except two, whose area is estimated at 13,000 <lb/>square miles, or nearly half the extent of Scot<lb break="no"/>land. They are deeply perforated by arms of the <lb/>sea, and probably afford a greater number of fine <lb/>natural harbours than any country of equal ex<lb break="no"/>tent in the world. Their shores afford excellent <lb/>fish of many kinds, and seals are exceedingly <lb/>numerous.</p>
+                <p>The great object in establishing a colony here <lb/>is to provide a harbour of refuge and place of re<lb break="no"/>fitment for our ships frequenting the South Seas, <lb/>which are yearly increasing in number. Every <lb/>vessel going to the Pacific Ocean, or coming from <lb/>it, passes within sight of these islands, or near <lb/>them. At present 60 or 70 British ships pass <lb/>these islands annually coming from Chili or Peru, <lb/>and 20 more engaged in the whale fishery. The <lb/>trade to New South Wales employs 236 vessels, <lb/>most of which return to England by this route, <lb/>which will also be preferred by vessels trading to <lb/>New Zealand, Van Diemen's Land, Port Philip, <lb/>and probably South Australia. From Sydney or <lb/>Hort Town the distance is nearly the same by <lb/>Cape Horn or the Cape of Good Hope, but the <lb/>prevalence of westerly winds in the parallel be<lb break="no"/>yond the 30th, renders the latter route the more <lb/>advantageous on the outward voyage, and the <lb/>former on the return. The Falkland Islands are <lb/>about half as distant from Britain as New South <lb/>Wales.</p>
+                <p>The Emigration Board recommend that Govern<lb break="no"/>ment should send out two surveyors to select an <lb/>eligible site for a town, and to lay out the land in <lb/>blocks of half a square mile, which may be subdivid<lb break="no"/>ed. It is proposed to sell the land to emigrants at <lb/>12s. per acre, and to expend part of the money in <lb/>carrying out additional settlers, part in defraying <lb/>the colonial outlay. There are 40,000 wild cattle in <lb/>the largest island, the privilege of shooting which, <lb/>or catching and taming them, might be sold to <lb/>the settlers or a company. The climate is unin<lb break="no"/>viting, but there is little doubt that persons ac<lb break="no"/>customed to grazing or sheep farming, or to seal<lb break="no"/>hunting, or deep-sea fishery, might drive a profit<lb break="no"/>able trade here. A vast number of ships, making <lb/>long voyages, American, French, Dutch, as well <lb/>as British, pass the islands, and to these it would <lb/>be a great accommodation to find supplies of pro<lb break="no"/>visions and the means of refitting here. Some of <lb/>our starving population in the North of Scotland <lb/>or the Islands, might better their circumstances <lb/>by removing to the Falkland Islands.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>310</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1841-02-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">New Zealand.</hi>
+            </p>
+                <p>( <hi rend="italic">From the Morning Chronicle.</hi>.</p>
+                <p>The dinner given on Saturday by the New Zea<lb break="no"/>land Company to Lord John Russell will serve to re<lb break="no"/>move all apprehensions, if any are yet entertained, <lb/>with regard to the relations between that colony and <lb/>the Government of the parent state. Many of the first <lb/>names in the country honoured this splendid banquet <lb/>by their presence ; and men of all parties, Tories, <lb/>Whigs, and Radicals, appeared to be actuated only <lb/>by one common feeling.</p>
+                <p>The public are now tolerably familiar with the <lb/>natural advantages of New Zealand, which appears <lb/>destined to be in the Souther Ocean what Great <lb/>Britain is in the Northern. Lord Ashburton, with <lb/>must felicity, observed, " that the position of the New <lb/>Zealand islands on the map, their climate, fertility, <lb/>abundant harbours surrounded with the seas most <lb/>suited to the whale fisheries, and, above all, the <lb/>character to the native population, led him to antici<lb break="no"/>pate that these islands were likely to become the <lb/>great seat of wealth and naval power." Lord John <lb/>Russell was justly complimented, on all hands, for <lb/>adding these important islands to the great colonial <lb/>empire of this country.</p>
+                <p>The speech of Lord John Russell was much and <lb/>deservedly applauded.</p>
+                <p>"I believe," said his lordship, "that the foundation <lb/>of this colony of New Zealand will tend to the honour <lb/>and dignity of the Crow, and will tend to the pros<lb break="no"/>perity and future greatness of the nation (cheers). It <lb/>was on this ground, and for these reasons, that I lent <lb/>my humble efforts in support of those exertions that <lb/>had been made, and were about to be made, by the <lb/>New Zealand Company. Gentlemen, in so doing, I <lb/>should be unworthy of your approbation if I took <lb/>any extraordinary merit to myself ; for, in the <lb/>first place, the principle of colonization, the value of <lb/>colonies to this country, the means they afford of aug<lb break="no"/>menting her strength, of adding to her power, of pro<lb break="no"/>moting her wealth, and of increasing her prosperity– <lb/>all this has been ascertained and demonstrated by the <lb/>enlightened discussions of past years (hear, hear). With <lb/>regard to the best mode of colonization, likewise, we <lb/>have had the advantage and assistance of the most en<lb break="no"/>lightened opinions, and the most adverse discussion <lb/>I, therefore, can only take to myself the merit of not <lb/>being blind to the importance and value of those opi<lb break="no"/>nions and discussions (hear, and cheers)"</p>
+                <p>But though his lordship speaks thus humbly of his <lb/>own merits, in recommending the adoption of these <lb/>islands by the Crown, it was perfectly well understood <lb/>by all present that, for his conduct with respect to <lb/>his colony, he has truly entitled himself to the grati<lb break="no"/>tude of his country. Lord Ashburton only paid him <lb/>a deserved tribute when he complimented him for the <lb/>sagacity with which he had appreciated the import<lb break="no"/>ance of these islands, so soon as he had entered on the <lb/>administration of colonial affairs, and for the judicious <lb/>measure of setting up the British flag in them.</p>
+                <p>We may observe that the health of her Majesty's <lb/>Ministers, proposed by Mr Hutt, M.P., was received <lb/>with loud and universal cheering, and that Mr La<lb break="no"/>bouchere's speech, which was a very good one, was <lb/>well received. Upon the whole, Lord John's visit to <lb/>the City on this occasion is calculated to gain the <lb/>Government favour among the commercial classes. <lb/>His lordship may well be proud, that though New <lb/>Zealand was formally taken possession of in the name <lb/>of the Sovereign of this country many years ago, it <lb/>was reserved for him to make it a British colony.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

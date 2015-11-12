@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>227</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-05-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>trade</item>
+                        <item>price</item>
+                        <item>agriculture</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Trade</hi>
+            </p>
+                <p>
+               <hi rend="italic">Wool</hi> –The accounts received in Lond from New <lb/>South Wales to the 8th of January, state that the produce <lb/>of the last year's clip of wool in Australia will be greatest <lb/>than that of the preceding year, and the the quali<lb break="no"/>ty has also considerably improved. From Van Die<lb break="no"/>man's Land it is now ascertained that the supply this <lb/>year will be short, but the general quality is very supe<lb break="no"/>rior. In the course of about a week or ten days, large <lb/>arrivals of wool are looked for from New South Wales <lb/>and the private contract business is expected to be very <lb/>active. The public sales of wools went off on Friday <lb/>very well, and at full prices. The arrivals of this week <lb/>have consisted of about 708 bales, of which about 292 <lb/>bales were Van Dieman's Land wools, and the rest Ger<lb break="no"/>man. There is a steady demand, and as it is under<lb break="no"/>stood that the manufacturers are short of stock, the an<lb break="no"/>ticipations are that trade will son be greatly improved.</p>
+                <p>
+               <hi rend="italic">York Wool Market, May</hi>  23.–The market com<lb break="no"/>menced here for this season this day, with only a small <lb/>show of wool, and not many buyers. The holders ask<lb break="no"/>ing very high prices caused part to be left unsold. <lb/>The following are the prices ; Hogs from 18s to 19s ; <lb/>Hogs and Ewes 16s 6d to 17s 6d ; Locks 11s to <lb/>12s, 6d per stone of 16lbs.</p>
+                <p>
+               <hi rend="italic">Bradford Market</hi> –The supply of Merinos in the <lb/>markets on Thursday evening, was by no means equal <lb/>to the demand–all qualities in six quarter wide Me<lb break="no"/>rinoes were eagerly bought up, and in some instances <lb/>a farther advance was obtained ; three quarter wide <lb/>Merinoes run much in demand, but a very scanty sup<lb break="no"/>ply ; the advance on six quarter wide Merinoes is from <lb/>4s to 6s per piece, compared with what was given at <lb/>the beginning of the year, and three quarter wide are <lb/>proportionably higher. Unless a reduction takes place <lb/>in the price of wool, the manufacturers state they must <lb/>have a further advance.</p>
+                <p>
+               <hi rend="italic">Rochdale Flannel Market.</hi> –The market today was <lb/>very lively for this season of the yar ; low goods both <lb/>for white and for dyeing were of very ready sale, and <lb/>in some instances a little advance was obtained ; several <lb/>sales were effected in fine qualities, and if the demand <lb/>proves permanent, the prospect for the coming season is <lb/>very promising.</p>
+                <p>
+               <hi rend="italic">Liverpool Cotton Market.</hi> –There has been but a <lb/>limited inquiry for cotton during the week ; the sales <lb/>are only about 10,000 bugs, at declining prices.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>228</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-06-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Emigration.</hi> –Within these few days, other three <lb/>vessels left Leith for America and Australia with emi<lb break="no"/>grants. The Marjory, Stocks, sailed on Friday for <lb/>Quebec and Montreal, with about 30 passengers ; and <lb/>the Economist, Slocombe, on Sunday for Piciou and <lb/>Quebec, with about 70. The Scotis, Watson, also <lb/>sailed on Sunday for Van Diemen's Land, &amp;c. with <lb/>about 40 passengers.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>229</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-07-10"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>We have received Sydney papers to the 26th Feb., <lb/>They contain reports of themost satisfactory nature as <lb/>to the harvest at the Swan River Settlement; the pro<lb break="no"/>mise of abundance had been fully realized, and the <lb/>result is that the settlers have obtained from their own <lb/>land five months' consumption of agricultural produce; <lb/>thus affording well founded hopes that in two or three <lb/>years they will be independent of foreign supply.– <lb/>
+               <hi rend="italic">Globe</hi>.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>230</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-08-03"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>transportation</item>
+                        <item>shipping news</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>On Tuesday thirty-one male convicts were embarked <lb/>at Leith for the hulks in the Thames, preparatory to <lb/>their transhipment for New South Wales, except those <lb/>in whose cases a commutation of punishment may take place.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>231</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-08-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Edward Thorpe, a young lad, was remitted to the <lb/>Sheriff, for having, broken into the New Market at <lb/>Stocksbridge, and stolen a quantity of meat and other <lb/>articles. He pled guilty; and we understand he has <lb/>stated that he is anxious to get a free passage to <lb/>New South Wales, as he is tired of living in this <lb/>country.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>232</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-09-25"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>prices</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">The Wool Trade.</hi> –The whole of the London public <lb/>sales of Colonial and other woold having now been <lb/>gone through, the wool trade is in a more settled state, <lb/>and transactions by private contract are conducted on a <lb/>more extensive scale. The total amount of the late <lb/>sales, the last of which took place on Tuesday, was <lb/>4,000 bales, and the colonial wools were taken by the <lb/>manufactures at the extreme advance realized at the <lb/>previous sales in July. In some cases, indeed, quota<lb break="no"/>tions from 2d to 3d per lb. in advance were obtained. <lb/>The sales on Saturday was most fully attended, and in<lb break="no"/>creased boldness was observed. The colonial wools <lb/>offered on that day fetched excellent prices. Some few <lb/>bales were also offered, forming a part of the second <lb/>clip of wools in the new colony on the Swan River. <lb/>They were much better in quality than those last re<lb break="no"/>ceived. Some German lambs' wool also commanded <lb/>attention, and sold as high as 3s 10d to 4s per lb. The <lb/>sale on Tuesday (the last of the series,) was not quite <lb/>so fully attended as those of last wekk, but, according <lb/>to quality, full prices were obtained. The sale consisted <lb/>of 437 bales New South Wales and Van Diemen's <lb/>Land wool, 96 bales of Portugal wool, 54 Spanish, and <lb/>72 bales of Cape, German, Russian, and other wools. <lb/>The best fleece of Amsterdam offered fetched 2s 10d to <lb/>3s 2d, and seconds 2s 3d to 2s 7 1/2d per lb ; the <lb/>best Portugal 1s 2d to 1s 11d ; the best Spanish 2s 5d <lb/>to 2s 8d ; the best Cape 1s 4d to 1s 8d ; the best Van <lb/>Diemen's Land 1s 8d to 1s 10d ; and the best German <lb/>2s to 2s 3d per lb. The result of these sales is to esta<lb break="no"/>blish a much firmer market for wools of all descriptions <lb/>than previously existed. The arrivals of wool are <lb/>limited, and this week only 575 bales of German wool, <lb/>and abotu 375 bales of Neapolitan wool have been en<lb break="no"/>tered at the custom house.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>233</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-10-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/>
+               <hi rend="smallcaps">Emigration.</hi>
+            </p>
+                <p>The returns to the House of Commons, on the motion <lb/>of Mr Stewart Mackenzie, relative to emigration, con<lb break="no"/>tain some curious and important information. The re<lb break="no"/>turns are three in number.</p>
+                <p>1. Return of the number of person who have emi<lb break="no"/>grated from Great Britain and Ireland to the British <lb/>colonies and to the United States of America, in each <lb/>year from 1827 to the 31st of December 1832 ; distin<lb break="no"/>guishing the ports from which they have sailed, and the <lb/>countries to which such emigration took place.</p>
+                <p>Of this return the following is the result:–</p>
+                <p>1827. 1828. 1829. 1830. 1831. 1832. <lb/>To the British Co<lb break="no"/>lonies in Ame<lb break="no"/>rica,. 12,646 12,081 13,307 30,574 59,067 66,339 <lb/>To the Cape of <lb/>Good Hope,. 114 135 197 201 114 196 <lb/>To the Australian <lb/>Colonies, 715 1,056 2,010 1,242 1,561 3,733 <lb/>To the United <lb/>States, 14,526 12,817 15,678 24,887 23,418 32,872 <lb/>Total, 28,003 26,092 31,198 56,907 83,160 103,410</p>
+                <p>2. Return of the number of families who emi<lb break="no"/>grated to New South Wales and Van Dieman's Land <lb/>since the formation of the Board of Emigration up to <lb/>the present time, having received loans from Govern<lb break="no"/>ment to enable them to emigrate ; specifying, first, the <lb/>colony to which such emigration took place ; second, the <lb/>number of persons in each family ; third the amount of <lb/>assistance granted. To New South Wales, the number <lb/>of families is 397, of persons 1,538, amount of money <lb/>expended t7,831. To Van Dieman's Land–number <lb/>of families, 422 ; of persons 1,571 ; amount of money <lb/>expended, t8406.</p>
+                <p>3. Return of the number of young unmarried fe<lb break="no"/>males, not forming part of the above return, who have <lb/>emigrated to New South Wales and Van Dieman's <lb/>Land, during the same time, having accepted assist<lb break="no"/>ance by way of loan from Government ; specifying, <lb/>first, the colony to which such emigration took place ; <lb/>second, the amount of assistance granted :–To New <lb/>South Wales–number of females, 761 ; amount of mo<lb break="no"/>ney granted to them, t9,812. To Van Dieman's Land <lb/>–number of females, 509 ; amount of money granted to <lb/>them, t7,114.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>234</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-12-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration</hi>
+            </p>
+                <p>
+               <hi rend="enlarged-capital">T</hi> he subject of emigration is rising in importance <lb/>from year to year, and cannot lose its interest as long <lb/>as much misery or much discontent exists among our <lb/>working classes. Upper Canada, the great recipient of <lb/>our surplus population, is 4000 miles from Britain, a <lb/>distance which looks extremely formidable ; but such <lb/>is the amazing economy of water carriage, when se<lb break="no"/>conded by good arrangements, that the voyage by sea <lb/>to Montreal can be made at as small expense as the <lb/>journey by land to Manchester ! The passage money <lb/>from Dublin to Montreal or Quebec (exclusive of food) <lb/>has been as low as 30s ; and it would not be higher <lb/>probably from Leith or Greenock, if the emigrants <lb/>were in sufficient numbers, and so prompt in their ar<lb break="no"/>rangements, that the vessel lost no time beyond what <lb/>was strictly necessary for taking her full compliment <lb/>aboard. If the ship is detained a month before this is <lb/>got, the owners must, of course, be indemnified for the <lb/>detention by a higher fare. Four stone of oatmeal, <lb/>with a little ham or salt fish for variety, will subsist a <lb/>man or woman on the voyage ; and thus a human be<lb break="no"/>ing can be conveyed over a distance equal to one-sixth <lb/>part of the circumference of the globe, and six times <lb/>longer, we dare say, than the wanderings of Ulysses, at <lb/>the small coast of 45s !</p>
+                <p>In an article in May 1832, we pointed out the rapid <lb/>strides with which emigration was advancing ; and <lb/>some Parliamentary papers we have received since, ex<lb break="no"/>hibit new proofs of its extraordinary progress. It <lb/>has, in fact, outstripped the expectations of the most <lb/>sanguine.</p>
+                <p>The following table shows the number of person who <lb/>have emigrated in the last eight years to North America, <lb/>the Cape, and Australia :–</p>
+                <p>British America. United States. Cape of G. Hope. Australia. Total. <lb/>1825 8,714 5,551 114 485 14,891 <lb/>1826 12,818 7,063 116 903 20,900 <lb/>1827 12, 14,526 114 715 28,003 <lb/>1828 12,084 12,817 135 1,056 26,092 <lb/>1829 13,307 15,678 197 2,916 31,198 <lb/>1830 30,574 24,887 204 1,242 56,907 <lb/>1831 58,067 23,418 11 1,561 83,160 <lb/>1832 66,339 32,872 196 3,733 103,140</p>
+                <p>It will be seen from this table how steady the in<lb break="no"/>crease of emigration has been, especially to Canada. <lb/>It must be observed, that a great proportion, probably <lb/>more than a half of those who sailed for the United <lb/>States, were destined for the British colonies, and only <lb/>chose that route as the most eligible, on account of the <lb/>facilities which the Hudson and its associated canals <lb/>present for travelling to the upper province. Canada <lb/>and Nova Scotia must have drawn at least 80,000 set<lb break="no"/>tlers from Britain last year ; and yet, such are the ca<lb break="no"/>pacities of these colonies for absorbing population, that <lb/>the price of labour was not lowered in the least degree ; <lb/>and from the previous arrangements made, it is an<lb break="no"/>nounced that a much larger number of persons could <lb/>have been received without inconvenience ! Sanguine <lb/>as we were upon the subject, we did not anticipate that <lb/>emigration could be conducted on such a scale, with <lb/>the extraordinary ease, certainty, and economy now ex<lb break="no"/>emplified. Those who reflect on the distress and <lb/>perplexity which would be produced by land<lb break="no"/>ing the <hi rend="italic">sixth-part</hi>  of eighty thousand strangers on <lb/>the shores of Britain in one summer, will appreciate <lb/>the extremely dissimilar condition of a colony which, <lb/>with less than a million inhabitants, can take in <lb/>eighty-thousand new settlers in the same period without <lb/>embarassment or confusion.</p>
+                <p>The general result is, that Britain sent off 103,000 <lb/>souls from her population last year, of whom a[?] number <lb/>sailed 7000 miles, a number 14,000, and those who <lb/>made the shortest voyage, 4000 miles. The annals of <lb/>emigration afford nothing approaching to this in any <lb/>part of the world ; and yet we may reasonably expect to <lb/>see still greater things atcheived.</p>
+                <p>It appears from the various census since 1801, that <lb/>the annual increase in Britain, if no persons left it, <lb/>would be about 350,000; or we may place the fact in <lb/>a more striking light by stating, that <hi rend="italic">there are about a </hi>
+               <lb/>
+               <hi rend="italic">thousand persons more in the three kingdoms every </hi>
+               <lb/>
+               <hi rend="italic">day than there was on the day before</hi>. If by raising <lb/>the habits and ideas of the labouring classes, we could <lb/>get this daily increase reduced one half, and the <lb/>other half could be carried off by emigration–if we <lb/>could by this means keep the supply of labour station<lb break="no"/>ary while capital was increasing, a great improvement <lb/>would be effected in the state of the population. Now <lb/>from what has been stated it appears that the emigrants <lb/>who leave our shores annually amount to nearly one<lb break="no"/>third of the annual excess already ; and in a year or <lb/>two there is every probability that it will amount to <lb/>one-half.</p>
+                <p>Of 51,200 emigrants who landed at Quebec and <lb/>Montreal last year, 17,500 went from England, <lb/>28,200 from Ireland, and 5,500 from Scotland. In <lb/>the year 1831, the numbers were, from England 10,300, <lb/>Ireland 34,100, Scotland 5,300.</p>
+                <p>Of the emigrants from Scotland last year, 1716 sail<lb break="no"/>ed from Greenock, 1145 from Leith, 638 from Cro<lb break="no"/>marty, 478 from Aberdeen, 439 from Dundee, 231 <lb/>from Alloa, 181 from Islay, 175 from Anna, 160 from <lb/>Glasgow, 112 from Leven, 110 from Campbeltown, <lb/>and numbers under 100 from Stanraer, Peterhead, and <lb/>Irvine.</p>
+                <p>Of the emigrants to the United States last year <lb/>15,754 sailed from Liverpool, 5,546 from London <lb/>2,742 from Bristol, 2,613 from Londonderry, and <lb/>1,711 from Greenock.</p>
+                <p>Mr Buchanan, the Government agent at Quebec, <lb/>states in his Report, that "the general description of <lb/>emigrants who arrived last year ; many respectable and wealthy fa<lb break="no"/>milies came from all part of the united kingdom ; and <lb/>the extent of property and specie brought into the <lb/>country by them is exceedingly great, fully amounting <lb/>to from t600,000 to t700,000 sterling." About 5000 <lb/>persons were sent out by pecuniary aid from parishes <lb/>or landlords ; and there were 1700 "commuted pen<lb break="no"/>sioners" (military, we believe), many of them men of <lb/>irregular habits, and ill fitted for the situation of set<lb break="no"/>tlers. Of these, about 100 returned to Britain. The <lb/>fear of cholera was a considerable check to emigration. <lb/>It appeared in Quebec on the 8th of June, and the <lb/>persons who arrived after that, suffered much from <lb/>the difficulty of procuring lodgings even for a day ; <lb/>but Mr Buchanan estimates the whole number of emi<lb break="no"/>grants who fell victims to the disease, at no more than</p>
+                <p>"The demand for all classes of working people <lb/>(says the Report,) has never been exceeded in the Ca<lb break="no"/>nadas, particularly since the abatement of the cholera, <lb/>and I can assure your Lordship that, during my late <lb/>tour through the districts and settlements of Upper <lb/>Canada, I did not see an industrious emigrant who <lb/>could not meet with emplyment. The number of <lb/>that class arrived this year is not adequate to supply <lb/>the demand created by the more wealthy emigrants. <lb/>This was particularly felt in the Western and London <lb/>districts of the upper province, where the want of la<lb break="no"/>bourers was so great that it was found necessary to en<lb break="no"/>courage a number to come over from Ohio and Pen<lb break="no"/>nsylvania." This was written on the 12th Dec. 1832, <lb/>and the arrival of emigrants closed in October.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>235</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-02-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Another cargo of females is now shipping on board <lb/>the Ann, Captain Herd, in the London Docks, for <lb/>Sydney. These ladies are going out in serarch of hus<lb break="no"/>bands, and to supply the lamentable scarcity of the fair <lb/>sex in our Australian dominions. There is a bounty of <lb/>t8 given by government towards defraying the expen<lb break="no"/>ses of the voyage ; and the ladies must be between 15 <lb/>and 30, with good characters and sound constitutions. <lb/>Ass servants they are much wanting among the respec<lb break="no"/>table inhabitants of Sydney and the other towns in the <lb/>colony.</p>
+                <p>
+               <hi rend="italic">Emigration.</hi> –The governors of the Refuge for the <lb/>Destitute, in the Hackney Road, have announced that <lb/>it is their intention to send out a ship to New South <lb/>Wales in the ensuing spring with 500 unmarried wo<lb break="no"/>men or widows, between the ages of 18 and 30 years, <lb/>as emigrants to New South Wales. It is intended to <lb/>place the emigrants in divers situations, and leave them <lb/>free and not bound to an employer.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>236</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1833-02-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>female emigration</item>
+                            <item>emigration</item>
+                            <item>emigration scheme</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Emigration.</hi> –The governors of the Refuge for the <lb/>Destitute, in the Hackney Road, have announced that <lb/>it is their intention to send out a ship to New South <lb/>Wales in the ensuing spring with 500 unmarried wo<lb break="no"/>men or widows between the age of 18 and 30 years, <lb/>as emigrants to New South Wales. It is intended to <lb/>place the emigrants in divers situations, and leave them <lb/>free and not bound to an employer.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

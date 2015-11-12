@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>360</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Morning Chronicle</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from British Library Newspapers Online</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <region>England</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1817-01-03"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>cannibalism</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="4"/>
+               <hi rend="center">
+                  <supplied reason="copy fade">A</supplied>NOTHER DREADFUL MASSACRE BY THE NATIVES OF </hi>
+               <lb/>
+               <hi rend="center">THE MARQUESAS ISLANDS. </hi>
+               <lb/>
+               <hi rend="center">( <hi rend="italic">From the Sydney Gazette, Nov</hi>. 8, 1815.) </hi>
+               <lb/>
+            </p>
+                <p>By the Governor Macquarrie are arrived Captain <lb/>Fowler, and part of the crew of the Indian brig Ma<lb break="no"/>tilda, which sailed from this colony in August, 1813, <lb/>bound on a voyage to the Derwent and Eastern Islands, <lb/>and from thence to China; but was cut off and plun<lb break="no"/>dered on the night of the 10th of April last, while lying <lb/>at anchor in Duff's Bay, at the Island of Rooapoah, <lb/>one of the Marquesas, on a sandal wood voyage. Five <lb/>of the crew (Poomootoo men) had previously deserted, <lb/>and joining with some of the Rooapoah natives, took <lb/>the opportunity of a dark night, and the wind blowing <lb/>fresh right on the land, to cut the vessel adrift; by <lb/>which means she drove ashore through a heavy surf, <lb/>and was soon bilged and filled with water. When the <lb/>cannibal natives saw that it was impracticable to get the <lb/>vessel afloat, they concurred universally in the design <lb/>of putting the whole of her crew to death, which ap<lb break="no"/>pears to have been a constant practise among the dif<lb break="no"/>ferent natives towards one another, when their canoes <lb/>happen to fall upon a strange shore, through stress of <lb/>weather, or from any other accident.</p>
+                <p>Captain Fowler had formed an intimacy with their <lb/>Chief, or King, Nooahetu, who presided at the horrible <lb/>tribunal that had devoted the unfortunate mariners to in<lb break="no"/>stant slaughter. He withheld his assent to the mur<lb break="no"/>der; but had no hesitation in permitting the plunder of <lb/>the vessel. The crew were informed by such expres<lb break="no"/>sions as they could understand, as well as by gesticula<lb break="no"/>tions that accompanied their vehement debate on the <lb/>occasion, that their lives were dependent on the issue; <lb/>the good chief was opposed by many other Chiefs, <lb/>who, though somewhat inferior in rank, were very far <lb/>superior in number, supported by the common usages <lb/>of the island, from which the exhibition of clemency <lb/>appeared an insufferable deviation. He was seated, <lb/>with his son by his side, on a mat in his own dwelling; <lb/>he had been called to the supremacy of the island by the <lb/>general wish of the people, as it was not a hereditary <lb/>right, but an elective dignity. His people pressed their <lb/>solicitations earnestly, and at length peremptorily de<lb break="no"/>manded his assent to the sacrifice; which he for a length <lb/>of time opposed by the force of words, which not seem<lb break="no"/>ing likely to prevail, he adopted a method which si<lb break="no"/>lenced the whole in an instant, and saved the lives of <lb/>Captain Fowler and his crew. Finding that all his ex<lb break="no"/>postulations were defeated upon the principle of unde<lb break="no"/>viating custom, he deliberately took up two ropes that <lb/>were near him, and fixing one round the neck of his <lb/>son, and the other round his own, called to the Chief <lb/>next in command, who immediately approached him. <lb/>His conference was short and decisive; he first pointed <lb/>to the cord that encircled the neck of his son, and then <lb/>to the other which he had entwined around his own. <lb/>"These strangers are doomed to death," said he, "by <lb/>my chiefs and my people: and it is not fit that I, who <lb/>am their King, should live to see so vile a deed perpe<lb break="no"/>trated. Let my child and myself be strangled before it <lb/>is performed and then it never will be said that we <lb/>sanctioned, even with our eye-sight, the destruction of <lb/>these unoffending people."</p>
+                <p>The magnanimity of such a conduct could not do <lb/>less than produce, even in the mind of the unenlighten<lb break="no"/>ed savage, a paroxysm of surprise, mingled with a sen<lb break="no"/>timent of admiration in which the untaught man may <lb/>possibly excel his fellow creature, whose conceptions <lb/>are moulded by tenets calculated to guard him from the <lb/>extremes of passion. For a moment the people looked <lb/>wildly upon their King, whose person they adored, be<lb break="no"/>cause that his principles were good, and his government <lb/>just and mild. They saw the obedient chief, to whom <lb/>the order of strangulation had been imparted, staring <lb/>with horror and amazement at the change which a few <lb/>moments had produced; the mandate that had proceed<lb break="no"/>ed from the King's own lips must be obeyed: and <lb/>commanded to perform the dreadful office, he proceed<lb break="no"/>ed to obey–when a sudden shout from the multitude <lb/>awed him to forbearance. "The King! the King!" from <lb/>every lip burst forth:–"What! kill the King! <lb/>No, no, let all the strangers live–no man shall kill the <lb/>King!"–Thus were their lives preserved and the <lb/>vessel plundered of every thing on board her.</p>
+                <p>The floor of the Greenwich, which was burnt at <lb/>Nooaheva, still remains, and is dry at low water. All <lb/>her iron and copper have been taken out by the natives, <lb/>who have a thorough knowledge of the use of these m<lb break="no"/>aterials. That they are cannibals is well ascertained. <lb/>They form distinct factions, and make war upon the <lb/>ruling Chief; the rebels are denominated the Typees; <lb/>and the opposite parties are horribly sanguinary towards <lb/>each. Six of the adverse party were killed, and de<lb break="no"/>voured by the rebels while Captain Fowler was among <lb/>them, and the following detestable circumstance oc<lb break="no"/>curred on the occasion:–A native man belonging to <lb/>Port Anna Maria, who was not tattooed, and in conse<lb break="no"/>quence prohibited from the eating of human flesh, on <lb/>pain of death, impatient of the restraint, fell upon one <lb/>of the murdered bodies, and darting his teeth into it in <lb/>all the madness of a voracious fury, exhaled the crimson <lb/>moisture, which had not yet coagulated.</p>
+                <p>The Chief of Port Anna Maria, who is very friendly <lb/>to Europeans, is named Ke-atta-nooe, the first part of <lb/>the name implying the outrigger of a canoe, and the <lb/>latter signifying great. The dress, of the men consists <lb/>merely of a wrapper about the waist; the women are <lb/>covered from the shoulders downwards to the ancles, <lb/>and are generally fairer than the Taheitan women. The <lb/>Chiefs have no distinguishing mark or ornament, but in <lb/>the mode of wearing their hair; which the common <lb/>orders wear tied up in a large knot on each side of the <lb/>head, a stripe of which, extending from the forehead to <lb/>the hollow of the neck, is kept shorn, which practice <lb/>the Chiefs do not adopt. Captain Fowler supposes the <lb/>worms to be more prevalent and destructive to the ships' <lb/>bottoms there, than he has anywhere else witnessed; and to <lb/>this cause attributes the caution of the natives in draw<lb break="no"/>ing up their largest canoes, some of which contain from <lb/>80 to 100 warriors. They are anxious after every <lb/>kind of property carried among them for barter, and <lb/>this is supposed their chief inducement for attacking <lb/>vessels when they can do so with a probability of ac<lb break="no"/>complishing their object. They have no knowledge of <lb/>the use of muskets, and have none among them except <lb/>a few at Port Anna Maria. A gentleman, at this <lb/>time in Sydney, who resided among them about 15 <lb/>years ago in a missionary capacity, describes them as <lb/>a people constantly employing their thoughts on plunder, <lb/>and devising schemes for taking advantage of strangers. <lb/>Their population is very numerous; which he remarked <lb/>to some of them, to whom he gave a description of <lb/>Otaheite, observing, at the same time, that its inhabit<lb break="no"/>ants were less numerous:–"Cannot we go and take <lb/>them? What is there to hinder us?"–was immediately <lb/>demanded. This anecdote we notice as a specimen of <lb/>their natural inclination to hostility, in which, all ac<lb break="no"/>counts respecting them correspond.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>381</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Morning Chronicle</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <region>England</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1810-01-06"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>crime</item>
+                            <item>obituary</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <bibl corresp="380" type="succeeding">
+                    <title key="Examiner"/>
+                    <date when="1810-01-17"/>
+                </bibl>
+                <bibl corresp="379" type="succeeding">
+                    <title key="Trewman's Exeter Flying Post"/>
+                    <date when="1810-01-11"/>
+                </bibl>
+                <p>
+               <pb n="3"/>
+               <hi rend="small-caps">Coroner's Inquest</hi>.–At half past two o'clock <lb/>yesterday, an Inquest was held at the Nag's Head, <lb/>Orange-court, Leicester-fields, before Anthony Gell, <lb/>Esq. Coroner for Westminster, on the body of Mada<lb break="no"/>moiselle Ann Paris, then lying dead at No. 4, St. Mar<lb break="no"/>tin's-street, Leicester-fields.</p>
+                <p>
+               <hi rend="italic">Sarah Upton</hi>  deposed, that she is housemaid to the <lb/>place; that the deceased had lodged about seven <lb/>weeks in the house, during which time the witness at<lb break="no"/>tended more particularly than any other servant about the <lb/>person of the deceased. She had frequently observed <lb/>that the unfortunate young lady appeared to be rather <lb/>flighty and tiresome in her manner, such as ringing the <lb/>bell violently, giving orders and almost immediately <lb/>after giving counter-orders; at other times she would <lb/>ring with equal violence, and when any of the servants <lb/>inquired what she wanted, she would tell them she <lb/>wanted nothing. She was also extremely incoherent in <lb/>her discourse, rambling from one subject to another <lb/>with the utmost rapidity, and without there being the <lb/>least connection between each.</p>
+                <p>In answer to a question from one of the Jurymen, the <lb/>witness said that the deceased was by no means in the <lb/>habit of drinking, but that on the day on which the un<lb break="no"/>fortunate affair took place, she thought the deceased <lb/>appeared wild, as if she had been drinking.</p>
+                <p>At one time the deceased told the witness that some one <lb/>had said she was mad; another time she gave the wit<lb break="no"/>ness a shilling to buy her some laudanum. The witness <lb/>said " Good God, Miss, you surely must be mad to <lb/>think of such a thing; besides you know it is contrary <lb/>to law, and I can't procure it." She then set down <lb/>and wept bitterly; she said she could get it in a minute; <lb/>she had been used to take it for a pain in her bowels.– <lb/>The witness replied, "Very well, Miss, you may kill <lb/>yourself, but I shall not give my assistance to the deed." <lb/>At other times, the poor young lady would be to all <lb/>appearances in excellent spirits, when all of a sudden <lb/>she would burst into tears, without any thing being <lb/>said or done at the time to occasion it. She would <lb/>sometimes fiddle with her clothes, like a person who <lb/>was beside herself; she would collect a few flowers and <lb/>deck her hair with them, and a thousand other little <lb/>tricks that appeared to to the witness to be the most mani<lb break="no"/>fest proofs of a deranged intellect. On Wednesday, she <lb/>went out at two, and returned at half after six o'clock. <lb/>She then said, that she had given a coachman a 1l. <lb/>note at Brompton, she had to pay the man only 2s. <lb/>but she would not wait for her change, as she thought <lb/>it was much better to lose money than time. She <lb/>went out about a quarter of an hour, after the <lb/>time of her coming home, and returned again <lb/>at eight o'clock, having her bonnet all bedizened <lb/>with artificial flowers. She got a candle, went up <lb/>to her own apartments, and returned in about seven <lb/>minutes time; she refused to take tea with two <lb/>ladies that were in the parlour at the time; she sat down <lb/>at first in an extremely pensive manner, then, in the <lb/>course of a minute or two, with the utmost wildness in <lb/>her countenance, she exclaimed, "Oh, I shall never <lb/>see him again! I have done the job–I have taken <lb/>good care that the laudanum I took should do the busi<lb break="no"/>ness." The witness was instantly alarmed, knowing <lb/>that the deceased had ordered her to get some laudanum <lb/>for her before then. She ran up stairs in the utmost <lb/>consternation, and saw the phials in the lady's chamber. <lb/>Upon her return she endeavoured to get some explana<lb break="no"/>tion for the poor young lady as to what induced her to <lb/>commit such an act of desperation, but in vain–she <lb/>looked wild, and continued raving for some time, and <lb/>then fell into a state of stupefaction. Immediately <lb/>on the unfortunate occurrence being known, medi<lb break="no"/>cal assistance was sent for; three Professional Gen<lb break="no"/>tlemen attended, but they could afford her no relief. <lb/>She died before daylight on Thursday morning. The <lb/>witness knew nothing of any particular visitor to the de<lb break="no"/>ceased; neither had she the least knowledge of <lb/>any of her relations or friends.</p>
+                <p>
+               <hi rend="italic">Mr. Emanuel Gristock</hi>, of Wardour-street, surgeon, <lb/>stated, that between ten and eleven on Wednesday <lb/>night he saw the deceased; she refused all medicine that <lb/>was offered her for the purpose of expelling the poison; <lb/>with some difficulty, however, the witness forced part of <lb/>an emetic down her throat; she said she new she had <lb/>done wrong; and in disjointed sentences and in broken <lb/>accents raved something about her loving a young man. <lb/>Upon examining her apartment the witness found one <lb/>small bottle full of laudanum, and two others empty, <lb/>which evidently had contained the same sort of poison<lb break="no"/>ous liquid; their contents must have been between two <lb/>and three ounces. He left the patient at twelve, being <lb/>under the necessity of attending another at Knights - <lb/>bridge.</p>
+                <p>Mr. <hi rend="italic">James Wilkes</hi>, of the Haymarket, surgeon, saw <lb/>the deceased at half after two on Thursday morning; <lb/>she was then in a state of actual torpor, the nervous <lb/>system appeared to be totally deranged, and she was <lb/>incapable of making the least exertion with her body <lb/>or limbs. She appeared to be past all hopes of recovery <lb/>from the moment the witness saw her. However, hav<lb break="no"/>ing been previously apprised of the situations of the pa<lb break="no"/>tient, the witness had taken a bottle containing an eme<lb break="no"/>tic in his pocket. With the utmost difficulty he forced <lb/>part of it down her throat, but it had no effect–the <lb/>patient continued in the same torpid state until five <lb/>o'clock in the morning, when she expired. Dr. Hoop<lb break="no"/>er prescribed some other medicines, which we at<lb break="no"/>tempted to be administered, ut in vain; the patient <lb/>was totally incapable of swallowing them.</p>
+                <p>A jeweller had known the young lady for a consi<lb break="no"/>derable length of time; he had served her with a va<lb break="no"/>riety of trinkets in his line of business, and was in the <lb/>constant habit of attending her two or three times a <lb/>week. He had frequently observed the poor unfortu<lb break="no"/>nate young lady act with the utmost inconsistency and <lb/>wildness; he had repeatedly known her to burst into <lb/>tears in the midst of apparent merriment; he had known <lb/>her to order clothes to dress for going out, then turn <lb/>short and saw she would not go out that day; and he <lb/>had known her once ,after sitting for some time in the <lb/>most pensive mode imaginable, start up suddenly, and <lb/>exclaim, "No, I will not stand this." She was be<lb break="no"/>tween 17 and 18 years of age; he understood that she <lb/>was born in France, but she spoke English as well as <lb/>French. The day before the occurance of the me<lb break="no"/>lancholy transaction, which was the subject of the prev<lb break="no"/>sent consideration of the Jury, she had, with frenzy de<lb break="no"/>picted in her countenance, exclaimed, "Well, if my <lb/>wishes are not fulfilled, I shall hang or drown myself." <lb/>The witness had not the least knowledge of what she <lb/>alluded to neither had he ever heard that she had any <lb/>relations in London. He was most decidedly of opi<lb break="no"/>nion that she was deranged in her intellects.</p>
+                <p>The Jury without a moment's hesitation, returned <lb/>their verdict– <hi rend="italic">Insanity</hi>.</p>
+                <p>The history of this poor young creature is at once <lb/>romantic and interesting. She is the daughter of a <lb/>Monsieur Paris, who was well known in the commence<lb break="no"/>ment of the Revolution, and in which he suffered.– <lb/>Madame Paris, with her infant daughter, took refuge <lb/> 
+               <cb/> in this country, and in the ruin of her fortune, became <lb/>a governess in a noble family in Scotland. After this <lb/>she had a house in the New-road; and, about two years <lb/>ago died of the rupture of a blood vessel. Her daugh<lb break="no"/>ter had been placed at an eminent boarding-school near <lb/>one of the new squares; and on the death of her mother <lb/>was placed under the guardianship of a Member of Par<lb break="no"/>liament, who, with the most liberal and benevolent at<lb break="no"/>tention to her destitute situation, resolved to compleat <lb/>her education; and she had every master of eminence in <lb/>all the elegant arts. She spoke French and Italian; <lb/>touched the piano with great execution; sung with <lb/>taste; and had read beyond her years.</p>
+                <p>About six or eight months ago, she was met in the <lb/>square, when walking with the other young ladies by a <lb/>young man in the dress of a midshipman, who followed <lb/>her to the door, and who wrote to her under the name <lb/>of Jones. A correspondence took place. Her ima<lb break="no"/>gination was fired; and she eloped with him under a <lb/>promise of marriage. His address was found in her <lb/>box, and they were traced by her guardian, and sepa<lb break="no"/>rated. Jones declared that she was virtuous, and his in<lb break="no"/>tentions were honourable; and as a proof of it he was <lb/>ready to marry her with her guardian's consent. In <lb/>effect they were married, and she was completely un<lb break="no"/>done. In about a fortnight or three weeks Jones <lb/>threw off his disguise, and fairly told her his real <lb/>character,– that he was no sailor, but lived by his <lb/>shifts; that he had married her only for the sum, <lb/>her Protector had paid him, and that she must provide <lb/>for herself. She was abandoned; and the shock <lb/>had such an effect on her imagination, that she has <lb/>ever since shewed signs of a disordered intellect. With <lb/>a heart that shrunk from vice, she was flung on the <lb/>world without a friend, or a home; and in this deplo<lb break="no"/>rable state she became the victim of necessity.</p>
+                <p>About three weeks ago she saw an officer, who is <lb/>distinguished for his gallantries, and who by his ad<lb break="no"/>dress and attentions so won upon her affections, that <lb/>she could neither speak nor think of any other object. <lb/>This fatal attachment absorbed her whole soul. They <lb/>entered into engagements to live and die only for one <lb/>another; and in the frenzy of this passion, or under the <lb/>idea that she could not be his, and his alone, she took the <lb/>desperate resolution of dying for him. She had pre<lb break="no"/>pared three phials of opium, who of which she swal<lb break="no"/>lowed; and she died with a spirit of heroism; for no <lb/>persuasion nor force could make her, when seized <lb/>with the nausea of the poison, take any antidote to the <lb/>draughts. She would not suffer the medical men to <lb/>approach her–and though after stupefaction came on <lb/>they administered every known medicine, they all fail<lb break="no"/>ed of effect.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

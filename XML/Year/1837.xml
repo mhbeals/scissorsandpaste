@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>266</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1837-05-10"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">New Holland.</hi> –The Government intend to move <lb/>in the House of Commons the grant of t1000, to de<lb break="no"/>fray a portion of the charge of an expedition, to be de<lb break="no"/>spatched for the purpose of " exploring the north-west <lb/>part of New Holland," agreeably to recommendations <lb/>of the Royal Geographical Society, "to ascertain the <lb/>existence, or the contrary, of any great river" in the <lb/>north-west portion of New Holland.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>267</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1837-06-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Religion in Australia.</hi> –An Act of Council has <lb/>passed to the effect, that whenever t300 are raised <lb/>for the erection of a church and parsonage, the Go<lb break="no"/>vernment may advance the same sum–and that if one <lb/>hundred adults sign a declaration of their wish for <lb/>a clergyman, a salary of t100 may be given–if two <lb/>hundred a salary of t150, and if five hundred, a <lb/>salary of t200. Already nine clergyman are wanted.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>268</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1837-07-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The <hi rend="italic">Mid-Lothian</hi>, which lately came home from <lb/>China, is at present being fitted up to convey settlers <lb/>from the Isle of Skye to Australia. She has been char<lb break="no"/>tered by Government; and will acommodate upwards <lb/>of three hundred emigrants.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>269</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1837-07-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>shipping news</item>
+                            <item>land speculation</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Highland Emigrants.</hi> –The ship " Midlo<lb break="no"/>thian" has just been fitted up at Leith for the reception <lb/>of Highland emigrants, which she is to take in at the <lb/>Isle of Skye for Sydney, New South Wales. These <lb/>emigrants are, we believw, to be carried out at a very <lb/>small cost to themselves, the largest portion of the <lb/>passage money being paid by Government out of the <lb/>land revenue of New South Wales, which is exclusive<lb break="no"/>ly appropriated towards the encouragement and promo<lb break="no"/>tion of emigration–the objects in view being, as well <lb/>the relief of those districts in this country which <lb/>are suffering from the want of employment and <lb/>subsistence, as by the introduction into that colony of <lb/>a body of well disposed and virtuous free emigrant fami<lb break="no"/>lies and individuals, the promotion of the moral welfare <lb/>of the colonists generally. The emigrants will, we be<lb break="no"/>lieve, receive employment in New South Wales as <lb/>farm-servants, shepherds, overseers, &amp;c. We had a <lb/>brief inspection of the " Midlothian" on Monday af<lb break="no"/>ternoon, and found it to be a very fine vessel, fitted <lb/>up in a manner the most comfortable and convenient <lb/>that could well be effected. She sails this afternoon <lb/>from Leith to the Isle of Skye.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>270</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1837-11-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Thus the British Government is multiplying its <lb/>colonies round the shores of New Holland. Exclusive <lb/>of Van Diemen's Land, which forms a separate island, <lb/>we have first on the eastern shore the old settlement of <lb/>Port Jackson ; a second recently formed at Port Philip, <lb/>500 miles south from Sidney ; a third just described, at <lb/>St. Vincent's Gulf, 500 miles west from Port Philip ; <lb/>a fourth at King George's Sound, 1100 miles west <lb/>from St Vincent's Gulf ; a fifth at Swan River, 250 <lb/>miles north from King George's South. All these <lb/>colonies are in the temperate zone, between the lati<lb break="no"/>tudes of 30 and 38, and will have nearly the <lb/>same climate. We had one at Melville Island, <lb/>on the north coast, within the torried zone, in latitude <lb/>12 ; but it was found to be very unhealthy, and was <lb/>abandoned, after a short trial, ten years ago.</p>
+                <p>Though the interior of New Holland, so far as <lb/>hitherto explored, is one of the most barren and un<lb break="no"/>promising lands in the world, there is a margin of <lb/>good soil round the greater part of its coasts, capabale <lb/>[?] of supporting twenty or thirty or fifty mil<lb break="no"/> 
+               <cb/>lions of inhabitants; and there is little doubt that, in <lb/>the course of three centuries, it will be the seat of a <lb/>great and powerful nation, cultivating the arts, and <lb/>speaking the language of Britain, and contributing <lb/>powerfully to spread civilisation over the Southern <lb/>Hemisphere.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

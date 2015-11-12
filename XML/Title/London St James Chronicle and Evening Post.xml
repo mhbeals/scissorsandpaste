@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>364</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>London St James Chronicle and Evening Post</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Newspaper Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <region>England</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1817-01-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>cannibalism</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/>
+               <hi rend="center">
+                  <hi rend="italic">British Vessel plundered by the Natives of the Mar
+                           <lb break="no"/>quesas Islands.  </hi>
+                  <lb/>[ <hi rend="italic">From the Sydney Gazette, Nov</hi>. 8, 1815.]</hi>
+            </p>
+                <p>By the Governor Macquarrie are arrived Captain Fow<lb break="no"/>ler, and part of the crew of the Indian brig Matilda, <lb/>which sailed from this colony in August 1813, bound <lb/>on a voyage to the Derwent and Eastern Islands, and from thence to China; but was cut off and plundered <lb/>on the night of the 10th of April last, while lying at <lb/>anchor in Duff's Bay, at the Island of Rooapoah, one <lb/>of the Marquesas, on a sandal-wood voyage. Five of <lb/>the crew (Poomootoo men) had previously deserted, <lb/>and joining with some of the Rooapoah natives, took the opportunity of a dark night, and the wind blowing <lb/>fresh right on the land, to cut the vessel adrift; by <lb/>which means she drove ashore through a heavy surf, <lb/>and was soon bilged and filled with water. When the <lb/>cannibal natives saw that it was impracticable to get <lb/>the vessel afloat, they concurred universally in the de<lb break="no"/>sign of putting the whole of her crew to death; which <lb/>appears to have been a constant practise among the dif<lb break="no"/>ferent natives towards one another, when their canoes <lb/>happen to fall upon a strange shore, through stress <lb/>of weather, or from any other accident.</p>
+                <p>Capt. Fowler had formed an intimacy with their <lb/>Chief, or King, Nooahetu, who presided at the horri<lb break="no"/>ble tribunal that had devoted the unfortunate mariners <lb/>to instant slaughter. He withheld his assent to the <lb/>murder; but had no hesitation in permitting the plun<lb break="no"/>der of the vessel. The crew were informed by such ex<lb break="no"/>pressions as they could understand, as well as by gesti<lb break="no"/>culations that accompanied their vehement debate on <lb/>the occasion, that their lives were dependent on the <lb/>issue; the good Chief was opposed by many other <lb/>Chiefs, who, though somewhat inferior in rank, were <lb/>very far superior in number, supported by the common <lb/>usages of the island, from which the exhibition of cle<lb break="no"/>mency appeared an insufferable deviation. He was <lb/>seated, with his son by his side, on a mat in his own <lb/>dwelling; he had been called to the supremacy of the <lb/>island by the general wish of the people, as it was not <lb/>an hereditary right, but an elective dignity. His peo<lb break="no"/>ple pressed their solicitations earnestly, and at length <lb/>peremptorily demanded his assent to the sacrifice; which <lb/>he for a length of time opposed by the force of words, <lb/>which not seeming likely to prevail, <lb/>he adopted a method which silenced the whole in an instant, and saved <lb/>the lives of Capt. Fowler and his crew. Finding that <lb/>all his expostulations were defeated upon the principle <lb/>of undeviating custom, he deliberately took up two <lb/>ropes that were near him, and fixing one round the <lb/>neck of his son, and the other round his own, called to <lb/>the Chief next in command, who immediately approach<lb break="no"/>ed him. His conference was short and decisive; he <lb/>first pointed to the cord that encircled the neck of his <lb/>son, and then to the other, which he had entwined <lb/>round his own. "These strangers are doomed to <lb/>death," said he, "by my Chiefs and my people, and <lb/>it is not fit that I, who am their King, should live to <lb/>see so vile a deed perpetrated. Let my child and my<lb break="no"/>self be strangled before it is performed; and then it <cb/>never will be said that we sanctioned, even with <lb/>our eye-sight, the destruction of these unoffending <lb/>people."</p>
+                <p>The magnanimity of such a conduct could not do <lb/>less than produce, even in the mind of the unenlighten<lb break="no"/>ed savage, a paroxysm of surprise, mingled with a <lb/>sentiment of admiration, in which the untaught man <lb/>may possibly excel his fellow-creature, whose concep<lb break="no"/>tions are moulded by tenets calculated to guard him <lb/>from the extremes of passion. For a moment the people <lb/>looked wildly upon their King, whose person they <lb/>adored, because that his principles were good, and his <lb/>government just and mild. They saw the obedient <lb/>chief, to whom the order of strangulation had been im<lb break="no"/>parted, staring with horror and amazement at the <lb/>change which a few moments had produced; the man<lb break="no"/>date that had proceeded from the King's own lips <lb/>must be obeyed; and commanded to perform the dread<lb break="no"/>ful office, he proceeded to obey–when a sudden shout <lb/>from the multitude awed him to forbearance. "The <lb/>King! the King!" from every lip burst forth– "What! <lb/>kill the King! No, no, let all the strangers live –no <lb/>man shall kill the King!" Thus were their lives pre<lb break="no"/>served–and the vessel plundered of every thing on <lb/>board her.</p>
+                <p>The floor of the Greenwich, which was burnt at <lb/>Nooaheva, still remains, and is dry at low water. All <lb/>her iron and copper have been taken out by the natives, <lb/>who have a thorough knowledge of the use of these ma<lb break="no"/>terials. That they are cannibals is well ascertained. <lb/>They form distinct factions, and make war upon the rul<lb break="no"/>ing Chief; the rebels are denominated the Typees; and <lb/>the opposite parties are horribly sanguinary towards each <lb/>other. Six of the adverse party were killed, and devour<lb break="no"/>ed by the rebels while Capt. Fowler was among them, <lb/>and the following detestable circumstance occurred on <lb/>the occasion:–A native man belonging to Port Anna <lb/>Maria, who was not tattooed, and in consequence pro<lb break="no"/>hibited from the eating of human flesh, on pain of <lb/>death, impatient of the restraint, fell upon one of the <lb/>murdered bodies, and darting his teeth into it in all the <lb/>madness of a voracious fury, exhaled the crimson mois<lb break="no"/>ture, which had not yet coagulated.</p>
+                <p>The Chief of Port Anna Maria, who is very friendly <lb/>to Europeans, is named Ke-atta-nooe, the first part <lb/>of the name implying the outrigger of a canoe, and the <lb/>latter signifying great. The dress of the men consists <lb/>merely of a wrapper about the waist; the women are <lb/>covered from the shoulders downwards to the ancles, <lb/>and are generally fairer than the Taheitan women. The <lb/>Chiefs have no distinguishing mark or ornament, but <lb/>in the mode of wearing their hair; which the common <lb/>orders wear tied up in a large knot on each side of the <lb/>head, a stripe of which, extending from the forehead to <lb/>the hollow of the neck, is kept shorn, which practice <lb/>the Chiefs do not adopt. Captain Fowler supposes the <lb/>worms to be more prevalent and destructive to the ships' <lb/>bottoms there, than he has anywhere else witnessed; and to <lb/>this cause attributes the caution of the natives in draw<lb break="no"/>ing up their largest canoes, some of which contain from <lb/>80 to 100 warriors. They are anxious after every kind <lb/>of property carried among them for barter, and this is <lb/>supposed their chief inducement for attacking vessels <lb/>when they can do so with a probability of accomplishing <lb/>their object. They have no knowledge of the use of <lb/>muskets, and have none among them except a few at <lb/>Port Anna Maria. A gentleman, at this time in Syd<lb break="no"/>ney, who resided among them about 15 years ago, in a <lb/>missionary capacity, describes them as a people con<lb break="no"/>stantly employing their thoughts on plunder, and devis<lb break="no"/>ing schemes for taking advantage of strangers. Their <lb/>population is very numerous; which he remarked to <lb/>some of them, to whom he gave a description of Ota<lb break="no"/>heite; observing, at the same time, that its inhabitants were less numerous:–"Cannot we go and take them? <lb/>What is there to hinder us?"–was immediately de<lb break="no"/>manded. This anecdote we notice as a specimen of <lb/>their natural inclination to hostility, in which, all ac<lb break="no"/>counts respecting them correspond.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

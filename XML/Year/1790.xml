@@ -1,0 +1,2522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>59</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-01-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>economic migration</item>
+                            <item>colonial economy</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>of the scarcity of money and general distress at <lb/>Calcutta. The multitude are out of employ, and <lb/>who cannot get into any situations by which they <lb/>might support themselves, is truly deplorable. If <lb/>a place falls vacant, a croud of necessitous candi<lb break="no"/>dates immediately urge their distresses, and it is <lb/>certainly a fact, that, for one appointment, there <lb/>are thirty Englishmen who would be happy to <lb/>obtain it, so many have gone out lately to India, <lb/>for whom there is no employment.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>60</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140908 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-01-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>nationalism</item>
+                            <item>songs</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Boston, October</hi>  26.</hi>
+            </p>
+                <p>Saturday, between the hours of two and <lb/>three, arrived in town from New-York, the <lb/>PRESIDENT of the United States.</p>
+                <p> 
+               <lb/>The inhabitants of this metropolis have now <lb/>the happiness to felicitate themselves on having <lb/>among them the virtuous General, who delivered <lb/>their capital from the oppression of a British foe; <lb/>and in the same person the magnanimous Presi<lb break="no"/>dent of the United States of America.–The <lb/>President left New-York on Thursday the 15th <lb/>instant, to visit the Eastern States, attended ou<lb break="no"/>ly by his two private secretaries and servants– <lb/>Actuated by the principles of a true republican Pa<lb break="no"/>triot, and considing in the ardent affections of <lb/>the citizens in the States through which he had <lb/>to pass, he had it in vic<supplied reason="copy blur">???</supplied> travel without the</p>
+                <p> 
+               <cb/>temporary parade which his dignified station might <lb/>justly clam but wherever he came his merits were <lb/>already known, and the people, with heartfelt joy, <lb/>and high approbation of his virtues, saluted him <lb/>the Defender of their Freedom and Independence. <lb/>–The worthy Governor of this Commonwealth <lb/>haivng an exalted estimation of the virtuous Pre<lb break="no"/>sident, and although much indisposed as to his <lb/>health, was determined to shew the President the <lb/>honours of the government in a stile suitable to <lb/>his dignity; accordingly he ordered the troops of <lb/>Middlesex horse to escort him through that coun<lb break="no"/>ty, and permitted General brooks to exhibit to <lb/>the President on Cambridge Common, as he pas<lb break="no"/>sed, a fine body of the militia of the 3d division, <lb/>consisting of about 1000 men, all in complete u<lb break="no"/>niform and equipment. The President was ho<lb break="no"/>noured with a salute as he passed them. The <lb/>Governor requested the Lieutenant Governor and <lb/>the Council, to meet the President at Cambridge <lb/>(and would have accompanied them himself hand <lb/>his health permitted) whither they were escorted <lb/>by col. Tyler's corps of the horse. The Lieu<lb break="no"/>tenant governor and Council met him there, and <lb/>preceded the President under the escort of horse, <lb/>and introduced him to the capital of the common<lb break="no"/>wealth.</p>
+                <p>From the best accounts we are able to collect, <lb/>we present the following as the</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Order of Procession.</hi>
+               </hi> 
+               <lb/>
+               <hi rend="center">The Independent company of Light Infantry </hi>
+               <lb/>
+               <hi rend="center">commanded by Major Otis. </hi>
+               <lb/>
+               <hi rend="center">The Independent Fusiliers, commanded by Cap- </hi>
+               <lb/>
+               <hi rend="center">tain-lieutenant Laughton. </hi>
+               <lb/>
+               <hi rend="center">The Independent Cadets, under the command of </hi>
+               <lb/>
+               <hi rend="center">Major Scollay. </hi>
+               <lb/>
+               <hi rend="center">Company of Artillery, commanded by Captain </hi>
+               <lb/>
+               <hi rend="center">Johnson. </hi>
+               <lb/>
+               <hi rend="center">/[Altogether commaned by Colonel Bradford.] </hi>
+               <lb/>
+               <hi rend="center">Music. </hi>
+               <lb/>
+               <hi rend="center">Constables of the town. </hi>
+               <lb/>
+               <hi rend="center">Deputy-Sheriffs. </hi>
+               <lb/>
+               <hi rend="center">The Select-Men. </hi>
+               <lb/>
+               <hi rend="center">Town-Clerk. </hi>
+               <lb/>
+               <hi rend="center">Committee of Arrangements. </hi>
+               <lb/>
+               <hi rend="center">The High Sheriff. </hi>
+               <lb/>
+               <hi rend="center">the Council of the Commonwealth. </hi>
+               <lb/>
+               <hi rend="center">The Lieutenant-Governor </hi>
+               <lb/>
+               <hi rend="center">Marshal of Massachusetts District. </hi>
+               <lb/>
+               <hi rend="center">The PRESIDENT on horseback; </hi>
+               <lb/>
+               <hi rend="center">with his Suite. </hi>
+               <lb/>
+               <hi rend="center">Overseers of the Poor. </hi>
+               <lb/>
+               <hi rend="center">Town-Treasurer. </hi>
+               <lb/>
+               <hi rend="center">Magistrates. </hi>
+               <lb/>
+               <hi rend="center">Consul of Holland. </hi>
+               <lb/>
+               <hi rend="center">The Reverend Clergy. </hi>
+               <lb/>
+               <hi rend="center">Physicians, &amp;c. </hi>
+               <lb/>
+               <hi rend="center">Lawyers. </hi>
+               <lb/>
+               <hi rend="center">Merchants, shopkeepers, and Traders. </hi>
+               <lb/>Then followed the Artizans, Tradesmen, <lb/>nufacturers, &amp;c. of the town, in order, with flags, <lb/>&amp;c.</p>
+                <p>On the President's arrival at the State-house, <lb/>he ascended a temporary balcony, adjoining the <lb/>gallery, where were a select choir of singers, who, <lb/>upon the President's appearance, sang the follow<lb break="no"/>ing</p>
+                <p> 
+               <lb/>
+               <hi rend="center">
+                  <hi rend="italic">ODE to Columbia's Favourite SON.</hi>
+               </hi> 
+               <lb/>
+               <hi rend="center">1. </hi>
+               <lb/>
+               <hi rend="smallcaps">Great Washington</hi>, The Hero's come, <lb/>Each heart exulting hearts the sound, <lb/>Thousands to their Deliverer throng, <lb/>And shout him welcome all around! <lb/>Now its full chorus join the songs, <lb/>And shout aloud great <hi rend="smallcaps">Washington</hi>.</p>
+                <p>
+               <hi rend="center">2. </hi>
+               <lb/>There view columbia's favourie Son, <lb/>Her Father, Saviour, Friend, and Guide! <lb/>There see th' immortal <hi rend="smallcaps">Washington</hi> ! <lb/>His Country Glory, Boast, and Pride <lb/>Now in full chorus, &amp;c. <cb/>
+               <hi rend="center">3. </hi>
+               <lb/>When the impending storm of War, <lb/>Think clouds and darkness hid our way, <lb/>Great <hi rend="smallcaps">Washington</hi>, our Polar Star, <lb/>Arose; and all was light as day. <lb/>Now in full chorus, &amp;c.</p>
+                <p>
+               <hi rend="center">4. </hi>
+               <lb/>'Twas on your plains they valour rose, <lb/>And ran like fire from man to man; <lb/>'Twas here thou humbled Paria's foes, <lb/>And chac'd whole legions to the main! <lb/>Now in full corus, &amp;c.</p>
+                <p>
+               <hi rend="center">5. </hi>
+               <lb/>Thro' countless dangers, toils and<supplied reason="copy blur">???</supplied> 
+               <lb/>Our Hero led us safely on– <lb/>With matchless skill directs the wars, <lb/>'Till Vict'ry cried–The day's his own! <lb/>Now in full chorus,&amp;c.</p>
+                <p>
+               <hi rend="center">5. </hi>
+               <lb/>His country sav'd, the contest o'er, <lb/>Sweet peace restor'd his toils to crown, <lb/>The Warrior to his native shore <lb/>Returns, and this his fertile ground. <lb/>Now in full chorus, &amp;c.</p>
+                <p>
+               <hi rend="center">7. </hi>
+               <lb/>But soon Columbia call'd him forth <lb/>Again to save her sinking fame, <lb/>To take the helm, and by his worth <lb/>To make her an immortal name! <lb/>Now in full chorus, &amp;c.</p>
+                <p>
+               <hi rend="center">8. </hi>
+               <lb/>Nor yet alone thro' Paria's shores <lb/>Her fame, her might trumpt blown; <lb/>E'en Europe, Afric, Asia, hears, <lb/>And emulate the deed he's done! <lb/>Now in full chorus, &amp;c.</p>
+                <p>After which, the procession passed by the Pre<lb break="no"/>sident, under the gallery, and then dispersed, high<lb break="no"/>ly satisfied with the occasion of their assembling, <lb/>and fully participating in the joy of the day.</p>
+                <p>The Independent Companies then escorted the <lb/>President to his residence in Court-street–fired <lb/>three vollies, and then dismissed.</p>
+                <p>In the evening the several public houses in <lb/>State-street were illuminated, the Coffee House, <lb/>Bunch of Grapes, Eastern Coffee House, &amp;c. <lb/>together, which mad a beautiful appearance.</p>
+                <p>Fire works were also displayed in the said street.</p>
+                <p>Rockets were likewise thrown from the French <lb/>ships in the harbour, and from Castle William.</p>
+                <p>Two French frigates, L'Active and Le Sensi<lb break="no"/>ble, were delightfully illuminated, the former <lb/>with several hundred lamps, judiciously arraign<lb break="no"/> 
+               <lb/>ed.</p>
+                <p>It is supposed the number assembled upon the <lb/>above occasion, amounted to 24,000 persons. <lb/>No unfavourable accident happened during the <lb/>whole scene–that we have heard of.</p>
+                <p>The regularity and good order in the proces<lb break="no"/>sion afforded to the marhals the highest satisfac<lb break="no"/>tion, as well as to the numerous spectators.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>61</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140908 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-01-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Boston, October</hi>  9. </hi>
+               <lb/>Yesterday were executed William Donnoffee, <lb/>William Smith, and Rachel Wall, pursuant to <lb/>their sentence for highway robbery.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>62</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140908 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-01-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <hi rend="italic">October</hi>  31. We are informed by very respec<lb break="no"/>table authority, that Mr. M'Gillvry has written <lb/>to the President of the United States, a full and <lb/>sensible account of the rise and progress of the <lb/>disputes subsisting between the Georgians; from <lb/>which statement he expected to prove, to a de<lb break="no"/>monstration, that he has not acted the inconsistent <lb/>part which some have alleged, neither has there <lb/>been such cruelties committed by the Indians.</p>
+                <p>From Mr. M'Gillevry's abilities, and consi<lb break="no"/>dering he was educated in Europe, being the son <lb/>of a Scotchman and Indian women, we have no <lb/>reason to expect any savage cruelties from an of <lb/>his people; but, on the contrary, it is rather to <lb/>be presumed that his proposals, which are contain<lb break="no"/>ed in his letter to the President, are of a rational <lb/>nature, and many probably bring about a final and <lb/>an advantageous treaty with the United States.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>63</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140910 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-01-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>society</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <hi rend="italic">November</hi>  12. On Thursday last the Viscount de <lb/>Ponteves gave a surperb entertainment and ball to <lb/>a number of respectable ladies of gentleman of <lb/>this town on board l'Illustre, of seventy-four guns. <lb/>The boats of the fleet, the state yacht and barge, <lb/>received the company at Foster's wharf, before <lb/>12 o'clock–and on the appearance of the first <lb/>boat having ladies on board, a signal gun was fir<lb break="no"/>ed from l'Illustre, and in an instant the squadron <lb/>was beautifully arrayed with the flags of all na<lb break="no"/>tions. On arriving at the ship, the company <lb/>were very politely received by the Viscount, and <lb/>conducted to the state room–the marines saluting <lb/>as the company passed them. At one o'clock <lb/>the whole sat down to a table liberally spread with <lb/>a profusion of luxuries and delicacies, in a hall e<lb break="no"/>rected for the occasion, which was very fancifully <lb/>decorated. At the head of the table was a castle <lb/>of pastry, having thirteen metal guns, by which <lb/>from tubes that communicated through the table, <lb/>and the company were saluted with a f–deral dis<lb break="no"/> 
+               <lb/>charge. On the top of the castle waved a small <lb/>white ensign–the device, <hi rend="italic">two hearts</hi> –the motto, <lb/>" <hi rend="italic">The United hearts of America and France</hi>." <lb/>The head of the hall was ornamented with a <hi rend="italic">heart </hi>
+               <lb/>pieced with arrows–and in the motton, " <hi rend="italic">Ho<lb break="no"/>mage to the fair daughters of America</hi>," a fine com<lb break="no"/>pliment made by the noble Viscount to his fe<lb break="no"/>male guests. After dinner, the ball began, and <lb/>closed before nine o'clock, and on departure, his <lb/>Excellency was saluted with thirteen rockets let <lb/>off from a boat moored at some distance from the <lb/>ship.</p>
+                <p>Rhode Island and North Carolina yet remain a<lb break="no"/>verse to the new government; they refuse alle<lb break="no"/>giance to all acts of the States, and, of course, do <lb/>not participate in any privilee; they are treated <lb/>in respect to port entries, &amp;c. as foreign States.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>64</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-04-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>No fewer than <hi rend="italic">nine</hi>  young ladies are going to <lb/>the <hi rend="italic">Market</hi>  of <hi rend="italic">Love</hi>  in India, on board the Wil<lb break="no"/>liam Pitt ! What a disgrace to our young men at <lb/>home !</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>65</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="revision"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>prices</item>
+                            <item>colonial government</item>
+                            <item>female emigration</item>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/> By the last letters from India, we understand <lb/>they were going on in the plodding way, with <lb/>nothing new or important.–The markets are <lb/>overstocked with British goods, so as to enable <lb/>our countrymen to supply themselves with most <lb/>articles at a cheaper rate than if they were at <lb/>home ; the credit of the revenue rather upon the <lb/>increase ; Lord Cornwallis is as strict as ever, <lb/>who is expected to remain another year among <lb/>them, to the no small regret of those who left <lb/>England for the sake of Oriental wealth.</p>
+                <p>Our <hi rend="italic">female adventurers</hi>  have also found it a bad <lb/>market ; <hi rend="italic">British beauty</hi>  never fails of finding its <lb/>admirers ; but the late restriction in the East <lb/>have rendered <hi rend="italic">wives</hi>  forbidden fruit, of which <lb/>neither <hi rend="italic">civil</hi>  nor <hi rend="italic">military</hi>  dare to think of tasting.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>67</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>gender</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Character </hi>
+               <hi rend="italic">of the </hi>
+               <hi rend="smallcaps">Female Sex. </hi>
+               <lb/>
+               <hi rend="italic">By Mr. </hi>
+               <hi rend="smallcaps">Ledyard</hi>, <hi rend="italic">a celebrated traveller.</hi>
+            </p>
+                <p>I have always remarked that women, in all <lb/>countries, are civil, obliging, tender, and humane; <lb/>that they are ever inclined to be gay and cheer<lb break="no"/>ful, timorous and modest : and that they do not <lb/>hesitate, like men, to perform a generous action. <lb/>Not haughty, not arrogant, not supercilious, they <lb/>are full of courtesy, and fond of society ; more <lb/>liable in general to err than man, but in general <lb/>also more virtuous, and performing more good <lb/>actions than he. To a woman, whether civiliz<lb break="no"/>ed or savage, I never addressed myself in the lan<lb break="no"/>guage of decency and friendship, without receiv<lb break="no"/>ing a decent and friendly answer. With men it <lb/>has been otherwise.</p>
+                <p>In wandering over the <hi rend="italic">barren</hi>  plains of <hi rend="italic">inhos- </hi>
+               <lb/>
+               <hi rend="italic">pitable Denmark,</hi>  through <hi rend="italic">honest Sweden</hi>  and <hi rend="italic">fro- </hi>
+               <lb/>
+               <hi rend="italic">zen Lapland, rude, and churlish Finland, unprin- </hi>
+               <lb/>
+               <hi rend="italic">cipled Russia,</hi>  and the <hi rend="italic">widespread regions</hi>  of the <lb/>
+               <hi rend="italic">wandering Tartar ;</hi>  if hungry, dry, cold, wet, <lb/>or sick, the women have ever been friendly to <lb/>me, and uniformly so ; and to add to this virtue <lb/>(so worthy the appellation of benevolence) these <lb/>actions have been performed in so free and so <lb/>kind a manner, that if I was dry I drank the <lb/>sweetest draught, and if hungry I eat the coarse <lb/>morsel with a double relish.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>68</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140928 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-07-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>Anglo-American relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="7"/> We have this day received Quebec newspapers <lb/>down to the 24th May, from which the following <lb/>is extracted:–</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Quebec, May</hi>  20.</hi>
+            </p>
+                <p>We hear late accounts from Niagara mention, <lb/>that the Indians in that quarter are much alarm<lb break="no"/>ed in consequence of a message said to be received <lb/>by them from the States, that they had now rais<lb break="no"/>ed an army to take their own for Niagara, and <lb/>that two thousand men of that army were now on <lb/>their way from New York–desiring the Indians <lb/>to lye still and look on, and that they would pu<lb break="no"/>nish those that should interfere.</p>
+                <p>It was also said, that the people of New York <lb/>were determined of themselves to lay open the post <lb/>of Oswego, and that emissaries had been employ<lb break="no"/>ed to persuade the Indians they would be greatly <lb/>benefited by that event.</p>
+                <p>We are rather inclined to believe the Indians <lb/>are too sensible of the great benefits already con<lb break="no"/>ferred upon them by our neighbours in buying <lb/>their lands from them, to think of accepting any <lb/>more from that quarter, and we would recom<lb break="no"/>mend it to the new-born Sovereignty on this side <lb/>the Atlantic, before they testify their impatience, <lb/>that national treaties, like private agreements, are <lb/>not to be infringed by one and performed by the <lb/>other party–Pay and you shall receive.</p>
+                <p>[As to the Americans making an attempt up<lb break="no"/>on Niagara, they have long had it in contempla<lb break="no"/>tion to get possession of <hi rend="italic">our posts</hi>  upon the lakes <lb/>in Canada.]</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">May</hi>  24.</hi>
+            </p>
+                <p>The concerned in the ship Columbia and sloop <lb/>Washington, have received letters from the Captain <lb/>Kendrick, dated at Nootka in July last; he in<lb break="no"/>forms them, that he passed the winter preceding <lb/>on the north-west coast of America; that he was <lb/>then bound on a voyage further northward, and <lb/>from thence intended to proceed to Canton.– <lb/>The letters were forwarded to Mexico by a Spa<lb break="no"/>nish fleet that had been at Nootka, and from thence <lb/>to the Spanish Charge des Affaires at New York. <lb/>They were covered to the President of the United <lb/>States of America.</p>
+                <p>[From what appeared in our paper of Friday <lb/>last, <hi rend="italic">(see Glasgow Intelligence, p</hi>. 424 <hi rend="italic">)</hi>  and what is <lb/>mentioned above, it seems very probable that the <lb/>affair of <hi rend="italic">Nootka Sound</hi>  had been a preconcerted <lb/>scheme between the Americans and Spaniards, <lb/>as Capt. Kendrick addresses his dispatches for the <lb/>President of the States without making the least <lb/>mention (from what is made public) of any <hi rend="italic">Bri<lb break="no"/>tish ships</hi>  being then at Nootka Sound.]</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>69</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-08-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>Native Americans</item>
+                            <item>settlement description</item>
+                            <item>colonial politics</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>By recent letters from America we learn, that <lb/>the Congress of the nited States, after warm de<lb break="no"/>bates in both Houses, particularly in that of the <lb/>Representatives, passed an act for the purpose of <lb/>fixing permanently their seat of Government at <lb/>German Town in Pennsylvania.</p>
+                <p>The two new provinces in North America, <lb/>Kentucky and Vermont, whose population already <lb/>is so very considerable, were formed by the vast <lb/>numbers of inhabitants who fled from the destruc<lb break="no"/>tion and ravages of the unhappy contest between <lb/>Great Britain and her colonies, and though the <lb/>greatest part of them were then deemed loyalists, <lb/>yet they have now jooined the American confede<lb break="no"/>ration. Seated on the banks of the great river <lb/>Mississippi, far to the westward of all the other <lb/>states, they can either navigate northerly to the <lb/>lakes, or southerly to the Spanish settlements on <lb/>the coasts of the Gulf of Mexico, and carry on a <lb/>lucrative trade with the Indians. They are pos<lb break="no"/>sessed of as fertile a tract of country as any in the <lb/>world, the position of which they<supplied>???</supplied> also s<supplied>???</supplied>d <cb/>by navigable rivers to Maryland, Virginia, and <lb/>Pennsylvania, and from thence, as their views<supplied>???</supplied>
+               <lb break="no"/>tend, to every country in Europe. Thus, from <lb/>the most distressed situation, to rise to opulence <lb/>and independence ina few years, must excite ad<lb break="no"/>miration.</p>
+                <p>Agriculture, at present, seems to be the pecu<lb break="no"/>liar province of American industry, from whence <lb/>wealth will flow into every part of that vast coun<lb break="no"/>try, as it abounds in large tracts of rich land, <lb/>level grounds, with a deep soil, and extended sa<lb break="no"/>vannahs; while to the northward the fisheries and <lb/>shipbuilding amply compensate for the want of <lb/>an equal fertility; and though not so abundant <lb/>in coin, yet the provinces produce the finest mea<lb break="no"/>dows, form whence a provision trade will be every <lb/>year increasing. The southern countries of Eu<lb break="no"/>rope, not affording sufficient crops of grain for <lb/>the support of their inhabitants, on account of <lb/>the remarkable encrease of population, and which <lb/>is still augmenting, as arts and manufacturers are <lb/>every where extended: America may, therefore, <lb/>be deemed, in future, the granary of this quarter <lb/>of the globe.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>70</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-09-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>marriage</item>
+                            <item>female emigration</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="1"/>
+               <hi rend="italic">A humorous Adventure of a Marriage negotiated by  <lb/>a Bill of Exchange, in one of the English West </hi>
+               <lb/>India Islands.</p>
+                <p>
+               <hi rend="enlarged-capital">A</hi>  Merchant, originally from London, having <lb/>acquired a great fortune in this island, con<lb break="no"/>cluded with himself he could not be happy in the <lb/>enjoyment of it, unless[?] he shared[?] it with a wo<lb break="no"/>man of merit ; and knowing none to his fancy <lb/>he resolved to write to a worthy correspondent of <lb/>his in London. He know no other [?] than <lb/>that he used in his trade ; therefore treating af<lb break="no"/>fairs of love as he did his business, after giving <lb/>his friend in a letter several comissions, and re<lb break="no"/>serving this for the last, he went on thus : <hi rend="italic">Item[?], </hi>
+               <lb/>seeing that I have taken a resolution to marry, <lb/>and that I do not find a suitable match for me <lb/>here, do not fail to send me by next ship bound <lb/>hither, a young woman of the qualifications and <lb/>form following: As for a portion I demand none ; <lb/>let her be of an honest family ; between 20 and 25 <lb/>years of age ; of a middle stature, and well pro<lb break="no"/>portioned ; her face agreeable, her temper mild, <lb/>her character blameless, her heatlh good, and her <lb/>constitution strong enough to bear the change of <lb/>the climate, that there may be no occasion to <lb/>look out for a second through lack of the [?] <lb/>soon after she comes to hand ; which must be pro<lb break="no"/>vided against as much as possible, considering the <lb/>great distance and dangers of the sea. If she <lb/>arrives, and conditioned as abovesaid, with the <lb/>present letter endorsed by you, or, at least, an at<lb break="no"/>tested copy thereof, that there may be no mistake <lb/>or imposition, I hereby oblige and engage myself <lb/>satisfy the said letter, by marrying the [?] <lb/>at 15 days [?]. In witness [?] [?] I [?] <lb/>[?], [?]."</p>
+                <p>The London correspondent read over and <lb/>over the odd article, which put the future [?] <lb/>on the same footing with the bales of good he <lb/>was to send to his friend ; and after adressing[?] the <lb/>prudent exactness of the naturalized Creole, and <lb/>his laconic stile, in enumerating the qualifications <lb/>he insisted on, he endeavoured to serve him <lb/>to his mind ; and after many enquiries, he judged <lb/>he had found a lady fit for his purpose, in a <lb/>young person of a reputable family, but no for<lb break="no"/>tune ; of good humour, and of a polite educa<lb break="no"/>tion ; well shaped, and more than tolerably hand<lb break="no"/>some. He made the proposal to her as his friend has <lb/>directed, and the young gentlewoman, who had <lb/>no subsistence but from a cross old aunt, who <lb/>gave her a great deal of uneasiness, accepted it. <lb/>A ship bound for the West Indies was then fitting <lb/>out at Bristol ; the gentlewoman went on board <lb/>the same, together with the bales of goods, being <lb/>well provided with all necessaries, and particularly <lb/>with a certificate in due form, and indorsed by <lb/>the correspondent. She was also included in the <lb/>invoice, the last article of which ran thus : "Item, <lb/>a maid of 21 years of age, of the quality, shape <lb/>and conditioned as per order ; as appears by the <lb/>affadavits and certificates she has to produce." <lb/>Writings, which were thought necessary to so <lb/>exact a man as the future husband, were an extract <lb/>from the parish register ; a certificate of her cha<lb break="no"/>racter, signified by the curate ; an attestation of <lb/>her neighbours, setting forth that she had for the <lb/>space of three years lived with an old aunt who was <lb/>intolerably peevish, and that she had not, during <lb/>all that time, given her said aunt, the least occasion <lb/>of complaint. And li[?]y, the goodness of her <lb/>consitution was certified after [?] by <lb/>[?] [?]. [?] [?] <lb/>departure the London correspondent sent seve<lb break="no"/>ral letters of advice by other ships to his friend, <lb/>whereby he informed him that per such a [?] <lb/>he sent him a young woman of such an age, cha<lb break="no"/>racter, and condition &amp;c. in a word, such [?] <lb/>desired to marry. The letters of advice, the <lb/>bales, and the gentlewoman came safe to the <lb/>port ; and our Creole, who happened to be one[?] <lb/>of the foremost on the pier and the lady's landing <lb/>was charmed to see a handsome person, who hav<lb break="no"/>ing heard him called by his name, told him, <lb/>"Sir, I have a bill of exchange upon you, and you <lb/>know that it is not usually for people to carry a <lb/>great deal of money about them in such a long <lb/>voyage as I have made ; I beg the favour you will <lb/>pleased to pay it." At the same time she gave <lb/>him his correspondent's letter, on the back of <lb/>which was wrote, " The bearer of this is the <lb/>spouse you ordered me to send you." Ha, [?]<lb break="no"/>[?] ! said the Creole, I never yet suffered my <lb/>bills to be protested, and I swear this shall not be <lb/>the first : I shall reckon myself the most fortunate <lb/>of all men, if you allow me to discharge it." <lb/>Yes, Sir, replied she, and the more willingly, <lb/>since I am apprized of your character. We have <lb/>several persons of honour on board, who knew <lb/>you very well, and who, during my passage <lb/>have answered all the questions I asked them con<lb break="no"/>cerning you, in so advantageous a manner, that <lb/>it has raised in me [?] for you." <lb/>This first interview was in a few days after follow<lb break="no"/>ed by the nuptials, which were very magnificent. <lb/>The new married couple are satisfied with their <lb/>happy union made by [?] of exchange, which <lb/>was the most fortunate that had happened in that <lb/>island for many years.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>71</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140923 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-10-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="abridgement"/>
+                    <domain type="business"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="single" passive="unknown"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Extract of a letter from New York, Aug.</hi>  3.</hi>
+            </p>
+                <p>"Our harvest is over westward and through <lb/>the southern counties of this State. This week <lb/>will finish it in the northern, and I am confident <lb/>we have not had so fine a crop since 1774, and all <lb/>gathered without a drop of rain, which will ren<lb break="no"/>der wheat fit for exportation in OCtober. The <lb/>Summer grains are also abundant, and those on <lb/>the ground, especially Indian corn, equally pro<lb break="no"/>mising. Should Europe require wheat at even <lb/>two thirds of the prices given last year, we shall <lb/>draw a very large balance from them in specie.</p>
+                <p>The public debt of this country having in <lb/>course of a few days been funded, brought many <lb/>foreigners into deep speculations, which reduced <lb/>bills of exchange to par.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>72</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-15"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>A <hi rend="italic">Transfer of </hi>
+               <hi rend="smallcaps">Conjugal Love.</hi>
+            </p>
+                <p>On Monday last was married at Stockport, an <lb/>inhabitant of Macclesfield, to a female on whom <lb/>he had fixed his <hi rend="italic">affections</hi>. It is to be observed, <lb/>that he did not toil through the tedious forms of <lb/>courtship, but at once got a wife, as others some<lb break="no"/>times get good places, by <hi rend="italic">purchase</hi> –and, as we <lb/>are informed, the lady was valued at eight guineas <lb/>and thirty yards of Irish cloth, at 2s. 6d. per <lb/>yard–which property he deposited in exchange <lb/>for <hi rend="italic">earthly treasure.</hi> –Whether a wife may be <lb/>cheap or dear at that price, time will shew. Her <lb/>former husband, having seen military service, was <lb/>not to be discomposed at <hi rend="italic">trifles</hi>, and his <hi rend="italic">philosophy </hi>
+               <lb/>probably being strengthened on the occasion, he <lb/>attended the happy pair to church, and saw the <lb/>marriage ceremony ; after which they spent the <lb/>evening at the bridegroom's house, where all was <lb/>gaity. The first husband parted with an help<lb break="no"/>mate had <hi rend="italic">borne his sorrows twelve years ;</hi>  and <lb/>the second husband received a <hi rend="italic">partner of his joys, </hi>
+               <lb/>after having buried a former one <hi rend="italic">just a week.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>73</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130513 by <persName role="collection">M. H. Beals.</persName> Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-19"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>bequests</item>
+                            <item>charity</item>
+                            <item>religion</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/>
+               <hi rend="smallcaps">Court of Chancery. </hi>
+               <lb/>
+               <hi rend="center">
+                  <hi rend="italic">The </hi>
+                  <hi rend="smallcaps">King</hi>, <hi rend="italic">at the relation of the </hi>
+                  <hi rend="smallcaps">Bishop </hi>
+                  <hi rend="italic">of </hi>
+                  <hi rend="smallcaps">Lon
+                           <lb break="no"/>don </hi>, <hi rend="italic">versus </hi>
+                  <hi rend="smallcaps">Anderson </hi>
+                  <hi rend="italic">and </hi>
+                  <hi rend="smallcaps">Gipps</hi>.</hi>
+            </p>
+                <p>On the 18th of June, 1692, the Hon. Mr. <lb/>Boyle left by will the sum of 5400l. to be laid <lb/>out in lands in Yorkshire, out of the rents of which <lb/>the sum of 90l. was to be paid annually to the <lb/>College of William and Mary, in New England, <lb/>to be applied for the purpose of propagating the <lb/>Christian religion amongst the Indians in the back <lb/>settlements in North America ; and likewise a <lb/>further sum of 45l. to be paid to the same College, <lb/>for the support of two missionaries to preach the <lb/>gospel. The city of London were left trustees, <lb/>and the management under the trust was, by the <lb/>will, committed to the care of the Bishop of Lon<lb break="no"/>don. The present Bishop instituted this suit, in <lb/>which the city, and a great number of other per<lb break="no"/>sons, were parties, for the single, and indeed novel <lb/>purpose of knowing, whether (as the teststor had <lb/>originally devised the several sums <hi rend="italic">for the use of </hi>
+               <lb/>
+               <hi rend="italic">British subjects,</hi>  and the Americans having ceased <lb/>to be in that situations <hi rend="italic">since</hi>  their independence), <lb/>the annuity ought not to revert to this kingdom, <lb/>or to some other of his Majesty's colonies, to be <lb/>applied to similar purposes. This being the first <lb/>determination of that nature since the American <lb/>Revolution, the Lord Chancellor decided it with <lb/>that superior dignity of sentiment that always at<lb break="no"/>tends his decrees. Two phrases are sufficient– <lb/>"all charitable devices are to be held sacred– <lb/>we cannot rake up the ashes of the dead, in search <lb/>of latent intentions. The annuities and arrears <lb/>must be paid, and Messrs. Anderson and Gipps, <lb/>and likewise the city of London, must be paid <lb/>their costs."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>74</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-19"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Curious Advertisement </hi>
+               <lb/>From the <hi rend="smallcaps">Pittsburgh Gazette</hi>
+            </p>
+                <p>
+               <hi rend="italic">Pittsburgh, Dec.</hi>  23, 1789.</p>
+                <p> JULY the twenty-seventh day <lb/>My wife Betsey ran away <lb/>From bed and board,–and this did say, <lb/>"She would no longer with me stay." <lb/>Since she has left me without cause <lb/>I'll give her time enough to pause. <lb/>That she may see her grievous error, <lb/>When I live happy with a fairer. <lb/>So I forewarn both great and small <lb/>To trust her any thing at all, <lb/>For of her contracts from this day <lb/>One farthing's worth I will not pay. <lb/>
+               <hi rend="smallcaps">Dennis O'Bryan</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>76</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>military</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>On Tuesday afternoon the six Cherokee Chiefs <lb/>visited the Cathedral of St. Paul's, which they <lb/>explain with an equal degree of curiosity and</p>
+                <p>
+               <pb/>amazement. They were asked whether they <lb/>would not attend the evening service, which they <lb/>readily complied, and seemed particularly de<lb break="no"/>lighted with the organ.</p>
+                <p>The Cherokee Chiefs having made us an offer <lb/>of 20,000 men, gratitude obliges us to make <lb/>them some acknowledgement, whether we accept <lb/>their offer or not.–We can very well spare them <lb/>the members of the <hi rend="italic">Halter Club</hi>,–all our house<lb break="no"/>breakers, highwaymen, pick pockets, swindlers, <lb/>Faro and E O Table keepers,–and all their ac<lb break="no"/>complices to an amazing number.</p>
+                <p>Such a collection would be a truly valuable <lb/>present.–Among them are found dispersedly all <lb/>the qualities of able Generals,–skilful Financiers, <lb/>–able Negotiators, active Citizens,–and men <lb/>highly expert at a <hi rend="italic">Coup de Main</hi>.</p>
+                <p>Were we to add the Pugilistic tribe,–the <lb/>Cherokee Chiefs might on their return to their <lb/>own country enter into a boxing war against their <lb/>enemies–with a certainty of the most brilliant <lb/>success.</p>
+                <p>Trading Justices and Lawyers they would per<lb break="no"/>haps be glad to have ; and it is the opinion of <lb/>most people, that a few thousands of the latter <lb/>description of men might be spared.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>78</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-26"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>By letters from the New York Packet, dated <lb/>October 6, from Philadelphia, we learn that <lb/>there has been a very fine harvest in the South<lb break="no"/>ern States, and that the wheat has been wonder<lb break="no"/>fully productive. A very large quantity had <lb/>been bought up for the Spanish markets. The <lb/>quality of European goods, imported the last <lb/>season was immense, goods selling for consider<lb break="no"/>able loss ; and such will always be the case when <lb/>the Merchants in England anticipate a ray of <lb/>fruitfulness of the American Soil.–The appear<lb break="no"/>ance of a Spanish war had given them great pro<lb break="no"/>spects of commercial advantages, and a seven <lb/>years war is what the Americans were all earnest<lb break="no"/>ly wishing for.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>80</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-26"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>theatre</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>When the Cherokee Chiefs first visited Covent<lb break="no"/>garden Theatre, one of them appeared much de<lb break="no"/>lighted with the splendid appearance of an In<lb break="no"/>dian cap worn by one of the pantomime actors; <lb/>this being observed, the performer was directed <lb/>the performance; the Chief, amazed at the offer <lb/>of the magnificent present, said, through his in<lb break="no"/>terpreter, " that even in his won country he <lb/>should be unable to repay it ; however, at pre<lb break="no"/>sent he would do the utmost in his power ;" on <lb/>this he ordered the actor to approach him, and <lb/>then lighting his Cherokee pipe stuffed with a <lb/>variety of nauseous combustibles, he too three <lb/>whiffs himself, and presenting the tube, desired <lb/>the actor to take three whiffs also–the greatest <lb/>favour a Cherokee could confer ; the actor, a<lb break="no"/>astonished at the singularity of this unexpected ho<lb break="no"/>nour, reluctantly complied with the request,to the <lb/>great entertainment of the Dramatic circle.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>81</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>slave rebellion</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/>
+               <hi rend="center">
+                  <hi rend="italic">DOMINICA.</hi>
+               </hi> 
+               <lb/>
+               <hi rend="center">
+                  <hi rend="italic">St. Pierre, Martinico, Sept.</hi>  11</hi>
+            </p>
+                <p>This Colony is in a perfect state of anarchy ; <lb/>is so much that we have had thoughts of quitting <lb/>the island, and going to Trinidad, taking the ne<lb break="no"/>groes with us. Unless some speedy and effectual <lb/>succours arrive, the colony is utterly ruined. The <lb/>greater part of the colonists, this day, assembled <lb/>at Gros-morne.–The grenadiers, who were in <lb/>the fort of Trinity, with twenty three officers of <lb/>the regiment, were glad to make their escape.– <lb/>There are 1500 men in the FOrt Bourbon, many <lb/>of whom are from Dominica, Guadaloupe, and <lb/>other colonies, an supposed to have been sent by <lb/>Martinico refugees.–The firing of cannon is heard <lb/>incessantly ; at this rate the magazine of powder <lb/>will soon be consumed.</p>
+                <p>The Municipality of Fort Royal, have been <lb/>obliged to promise and sign whatever the insur<lb break="no"/>gents have been please to dictate.–The soldiers <lb/>run about the streets and oblige the inhabitants to <lb/>give them money.–Imagine, in short, a scene of <lb/>confusion and terror, and you will then have some <cb/>idea of the persent [?] of Fort Bourbon and <lb/>Fort Royal.</p>
+                <p>The town of St. Pierre swarms with strangers, <lb/>who come here from all parts. M. Chabrol, Co<lb break="no"/>lonel of the regiment which has been sent here, <lb/>together with a company of Chaffeurs, has been <lb/>appointed comandant o the NAtional troops.</p>
+                <p>The women, confident that it is in his power <lb/>to re-establish tranquility, prostrate themselves be<lb break="no"/>fore him, strew the ground on which he walks <lb/>with flowers, and affectionately embrace him.– <lb/>He seems willing to comply with their wishes.</p>
+                <p>The Colonial Assembly sits at Gros-morne <lb/>guarded by an army of 4000 men, under the com<lb break="no"/>mand of M. Dumoise, appointed by the General.</p>
+                <p>We are assured, that the insurgents are arming <lb/>four privateers with which they mean to attack <lb/>Trinity. Some soldiers attempted to penetrate <lb/>among them, but were repulsed by the Mulattoes.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>82</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>shipping news</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Extract of a letter from Dublin, Nov.</hi> 23.</p>
+                <p>"The drafts at Cork yesterday received the a<lb break="no"/>greeable orders to return to their respective regi<lb break="no"/>ments immediately.</p>
+                <p>"The officers appointed to raise independent <lb/>companies in Ireland, have received orders to re<lb break="no"/>pair forthwith to England, with whatever com<lb break="no"/>plement of men already entered, but not to <lb/>proceed with the completion of their number : <lb/>in conference to this order, they are preparing <lb/>for their immediate departure.</p>
+                <p>"Last Tuesday two eminent merchants of <lb/>this city received orders, by way of a vessel ar<lb break="no"/>rived at Cork, from Mess de Fouseca Olivarez <lb/>and Co. at Seville, for the immediate exportation <lb/>of cotton, white linen, and mixed goods, to a <lb/>very large amount.</p>
+                <p>"Monday evening the Elizabeth and Mary, <lb/>Mark Purcell, master, arrived at Waterford from <lb/>Annapolis, in Maryland, after a long and dan<lb break="no"/>gerous passage, of 52 days, in which they had <lb/>nearly exhausted the whole of their provisions, <lb/>having been a very short allowance of half a <lb/>naggin of rum, diluted with one pint of bad wa<lb break="no"/>ter, for twenty-four hours. She is heavy laden, <lb/>having on board six hundread hogsheads of tobac<lb break="no"/>co, a large quantity of pipe staves, barrel hoops, <lb/>&amp;c. and has been expected more than two months. <lb/>Eight per cent was offered as insurance on ship <lb/>and cargo, but refused, on account of the then <lb/>probability of a war."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>84</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-08"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>marriage</item>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/> The Indian ships lately returned from Madras <lb/>and Bengal, gives unfavourable accounts of all the <lb/>branches of commerce, except that of matrimony, <lb/>which has succeeded wonderfully in the last <hi rend="italic">female </hi>
+               <lb/>
+               <hi rend="italic">exportations.</hi>  Out of eleven ladies, who embarked <lb/>on a <hi rend="italic">marriage venture</hi>  on board the Chesterfield, <lb/>Captain Burgess, nine were <hi rend="italic">connubially</hi>  linked to <lb/>weakly husbands within three months after their <lb/>arrival and the other two were left in a way to <lb/>complete this fortunate band of <hi rend="italic">hymeneal adventu- </hi>
+               <lb/>
+               <hi rend="italic">rers.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>85</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20142708 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-12-13"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>theatre</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="center">
+                  <hi rend="italic">THE INDIANS</hi>.</hi>
+            </p>
+                <p> IT is our wish, in imitation of other newswrit<lb break="no"/>ters, to give now and then an account of such <lb/>new publications as deserve the attention of the <lb/>public; but in a paper, published only twice a <lb/>week, where so much naturally occurs under the <lb/>article of temporary news, it is but seldom we can <lb/>find room for this purpose:–when, however, a<lb break="no"/>ny ting remarkable appears in the literary world, <lb/>we never fail to notice it, although it may not be <lb/>in our power to give an extensive and critical ac<lb break="no"/>count of its excellencies. We take up the pen <lb/>with real pleasure at present to announce the pu<lb break="no"/>blication of a tragedy, intitled THE INDIANS, the <lb/>reputed offspring of a learned Professor in this U<lb break="no"/>niversity. The great applause with which this <lb/>play was received, when performed at Richmond <lb/>Theatre, has raised the expectations of those who <lb/>were not present at the performance to the high<lb break="no"/>est pitch; and we think we may take upon our<lb break="no"/>selves to assert, that upon perusing it, even their <lb/>highest expetations will not be disappointed.– <lb/>The plot of the piece is taken from a well known <lb/>story published at the end of a volum of poems, <lb/>written by the same gentleman. In the choice <lb/>of a plot, where so many dramatic writers of re<lb break="no"/>spectable talents have erred, our author is peculiar<lb break="no"/>ly happy. He ha strictly observed the advice of <lb/>Horace:</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Denique sit quid vis, simplex dumtaxat et unum</hi>.</hi>
+            </p>
+                <p>
+               <pb/>It is simple, and yet it does not disgust by an <lb/>appearance of nakedness.–It is one, for the com<lb break="no"/>plaints of Maraino, and the return of Oniyo, form <lb/>a beginning; the machinations of Yerdal and <lb/>Neidan to prevent their meeting a middle; and <lb/>defeat of those arts, an end, which combin<lb break="no"/>ed wake up a compleat and connected whole. In <lb/>the delineation of character the author has, on al<lb break="no"/> 
+               <lb/>every occasion, attended to the " <hi rend="italic">quid quemque </hi>
+               <lb/>
+               <hi rend="italic">decent</hi> "–there are hoever some few parts, which <lb/>the critic halts to consider, but which amidst so <lb/>many beauties, he blushes to censure–Some lines, <lb/>for instance in the character of Ononthio, do not <lb/>strike us at first as strictly natural. Is so much <lb/>humanity found inthe breast of an Inan Sachem, <lb/>as to prompt him to spare a victim, about to be <lb/>destroyed accoridng to the custom of the country; <lb/>that victim a captive of war, and not only so, but <lb/>a Briton, who has been fighting against his coun<lb break="no"/>trymen, amongst whom was his only son, whom <lb/>he bleived slain? Would he exert himself so much <lb/>in favour of a stranger and a foe, at the risk of dis<lb break="no"/>pleasing the village, and consequently of losing <lb/>his power? Or is it likely that he would have <lb/>greater influence with the superstitious crowd, <lb/>than he, who was deemed of skill to bend to his <lb/>purpose the demons that sway the fortune of <lb/>mankind?–Another question concenring O<lb break="no"/>nonthio, and we leave him. Is it consistent with <lb/>the philosophic firmness of the Sachem, so to de<lb break="no"/>spair on receiving news of his son's death, as to <lb/>declare that he should know no comfort, but to <lb/>die? or is it consistent with his humanity to leave <lb/>Maraino at such a period of distress, when she most <lb/>stood in need of his kind offices?–The first, and <lb/>best supported character in the piece is that of <lb/>Maraino. Her mind seems intended as the seat <lb/>of every amiable virtue. Her grateful reverence <lb/>of Ononthio, her unaffected piety, and her huma<lb break="no"/>nity, in interfering to save an unknown captive <lb/>from death, are pleasing
+<supplied>???</supplied> which give<supplied>???</supplied> 
+               <lb/>an insight into her nature. In the breast of Ma<lb break="no"/>riano every thing is subordinate to her love for <lb/>Onaiyo: this leading feature in her caracter is <lb/>properly kept in view during the course of the <lb/>piece. But even in this master-piece the author, <lb/>has, perhaps, once deviated a little from nature. <lb/>The sentiments Maraino utters during the con<lb break="no"/>versation with Sydney, in the fifth act, are rather <lb/>those of a Phiosopher and Divine, than a young <lb/>creature, the chorus of whole heart are tuned to <lb/>the sweetest strains of tenderness and love. Can <lb/>she, who had lately discovered a long lost brother, <lb/>talk so coldly in his presence; Can she, who had <lb/>so lately heard of the safety of an adored-husband, <lb/>so entirely banish his image from her mind, as to <lb/>converse on matters so indifferent? Can the gen<lb break="no"/>tle Maraino become the cold moralist?–With this <lb/>one exception, the part of which we are speaking <lb/>is finely drawn and highly interesting.–The lan<lb break="no"/>guage of the piece is every where elegant, and in <lb/>many places, where the sentiment requires it, <lb/>sublime. The author has frequently dignified his <lb/>verse by the introduction of obsolete words; this <lb/>in general produces a good effect–but there is a <lb/>danger of using them too often, and of chusing <lb/>them too ancient. it is a dangerous and difficult <lb/>talk where all is so excellent, to refer to any par<lb break="no"/>ticular passage of scene as deserving most notice: <lb/>it requires no small degree of taste and judgement. <lb/>If there is any preference to be given, it is per<lb break="no"/>haps to that scene in the 2d act, where Onaiyo <lb/>gives an account of the battle at Quebec; and <lb/>the scene in the 4th act, where Maraino is prompt<lb break="no"/>ed by Neidan to slay her brother,–who proves <lb/>his innocence by the production of her husband's <lb/>belt, the sight of which draws an elegant speech <lb/>from the enraptured fair. This scene, however, <lb/>would be improved did it conclude with some<lb break="no"/>thing more apt to the joyful moment, than the so<lb break="no"/>lemn sounds of Ononthio: a speech excellent in <lb/>itself, and containing a very fine sentiment, <lb/>
+               <hi rend="center">
+                  <hi rend="italic">Sed nunc non erat his locus.–</hi>
+               </hi>
+            </p>
+                <p>Upon the whole, the tragedy, upon which we <lb/>have, guided by impartiality, spoken so freely, is <lb/>in our opinion far superior to most of those plays <lb/>which have appeared of late years:–it is devoid <lb/>of bombast:–it is nature–and she must inevita<lb break="no"/>bly please.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>86</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140902 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-02-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Advice from Charlestown, South Carolina, <lb/>says that the Indians in Washington county com<lb break="no"/>mit the most horrid depredations and cruelties. <lb/>They have set fire to several houses; and a wo<lb break="no"/>man, who had a sick husband, telling them from <lb/>a window, of her calamity, they shot her dead on <lb/>the spot, and then set fire to the spot. The sick <lb/>man was consequently burnt.</p>
+                <p>A Colonel Harling has greatly exerted and <lb/>distinguished himself in opposing the Indians on <lb/>a part of the American frontiers. This gentle<lb break="no"/>man, with two hundred men, even went into the <lb/>very heart of an Indian settlement, and defeated <lb/>the savages. He then penetrated the country, <lb/>destroying all before him, and returned without <lb/>the loss of a man. Every possible acknowledge<lb break="no"/>ment was made of his services and bravery, and <lb/>a liberal subscription made for his gallant little <lb/>army.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>314</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140928 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>weather</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="3"/>
+               <hi rend="center">
+                  <hi rend="italic">Kentucky, May,</hi>  19.<supplied reason="copy folded">17</supplied>90.</hi>
+            </p>
+                <p>We arrived safe at this place<supplied reason="copy folded">???</supplied> beginning of <lb/>April from Pittsburgh, and a<supplied reason="copy folded">dre</supplied>adful passage <lb/>we had of it. The waters of<supplied reason="copy folded">???</supplied> river Ohio, <lb/>which had risen rapidly since M<supplied reason="copy folded">arc</supplied>h, now pour<lb break="no"/>ed down in a perfect torrent;<supplied reason="copy folded">???</supplied> we were in as <lb/>much danger of foundering at<supplied reason="copy folded">???</supplied> rapids, as we <lb/>would have been in the middle<supplied reason="copy folded">t</supplied>he Atlantic in <lb/>a severe gale. We were frequen<supplied reason="copy folded">tl</supplied>y too, in the <lb/>most imminent danger of our li<supplied reason="copy folded">fe</supplied> from the limbs <lb/>of trees hanging just above the<supplied reason="copy folded">???</supplied>; and through <lb/>which we were often hurried<supplied reason="copy folded">???</supplied> rate of seven <lb/>miles an hour, but the impetuo<supplied reason="copy folded">???</supplied> of the stream. <lb/>If any of the canoes had been tangled among <lb/>these branches (which in many
+<supplied reason="copy folded">pl</supplied>aces hang very <lb/>thick over the river), they<supplied reason="copy blur">???</supplied> inevitably have <lb/>been overturned, and<supplied reason="copy blur">???</supplied>
+               <supplied reason="copy folded">???</supplied> buried in the <lb/>
+               <supplied reason="copy blur">???</supplied> of the Ohio; fortunately<supplied reason="copy blur">???</supplied> accident <lb/>happened to us.</p>
+                <p>Our apprehensions of drowning were equalled <lb/>by those of an attack from the
+<supplied reason="copy folded">In</supplied>dians, who in<lb break="no"/>fest the river, and who inhabit<supplied reason="copy folded">???</supplied> banks: Some <lb/>time ago they killed a Mr. W<supplied reason="copy folded">???</supplied> Browne, and a <lb/>Mr. Allison, who were return<supplied reason="copy folded">ing</supplied> to Lexington <lb/>from Miami. The barbaritie<supplied reason="copy folded">s th</supplied>ey commit are <lb/>wanton and inhuman to the l<supplied reason="copy folded">???</supplied> degree. On the <lb/>3d ult. they attacked a boat<supplied reason="copy folded">???</supplied> few miles from <lb/>Limestone, and killed three<supplied reason="copy folded">???</supplied>sons, two men <lb/>and a woman; a few days af<supplied reason="copy folded">ter</supplied> this they killed <lb/>two men on Licking river, a<supplied reason="copy folded">nd</supplied> took a boy pri<lb break="no"/>soner, and on their return at<supplied reason="copy folded">???</supplied>ed a boat below <lb/>the Scioto, as it came to sh<supplied reason="copy folded">???</supplied> and killed four <lb/>men, and took one man and t<supplied reason="copy folded">wo</supplied> women prisoners. <lb/>About three weeks ago they<supplied reason="copy folded">???</supplied>ed on a boat and <lb/>a canoe, above the Scioto,<supplied reason="copy folded">???</supplied> both sides of the <lb/>river at the same time, by<supplied reason="copy folded">wh</supplied>ich means they <lb/>killed two men; and in sho<supplied reason="copy folded">???</supplied> to such a degree <lb/>have they carried these inh<supplied reason="copy folded">???</supplied> practices, that <lb/>it is dangerous to stir from<supplied reason="copy folded">ho</supplied>me, but in large <lb/>parties, and properly prepar<supplied reason="copy folded">???</supplied> to receive them.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>315</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130514 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140929 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="5"/> Yesterday forenoon arrived at Spithead, the <lb/>Lord Dorcester merchantman, Edward Howe, <lb/>master, bound from Halifax for London.</p>
+                <p>In this ship came six Cherokee Chiefs, of the <lb/>first rank, one of them born in England.</p>
+                <p>As soon as their arrival was announced in form, <lb/>Sir Andrew Douglas, Commander of the Alcide, <lb/>of 74 guns, sent his barge to bring them ashore <lb/>to Portsmouth; and, upon landing, they went to <lb/>Bradley's, the crown Inn.</p>
+                <p>The object of these Chiefs coming to this coun<lb break="no"/>try is, to endeavour to form a connection with the <lb/>English Government, in order to attempt the re<lb break="no"/>duction of Mexico, near which place they have <lb/>20,000 men in arms, and can raise 30,000 more <lb/>in a short time.</p>
+                <p>The Cherokees have menaced that country for <lb/>these last three years, and are favoured by great <lb/>number of the inhabitants in the Spanish settle<lb break="no"/>ments; should they, therefore, procure respectable <lb/>assistance from England, the New World will be <lb/>a certain conquest, and open a source of trade and <lb/>wealth to this nation, that will more than com<lb break="no"/>pensate for the loss of America, and the expence <lb/>of attaining that grand object.</p>
+                <p>These Indian Chiefs are dressed in the habit of <lb/>their country, with their faces painted in an ex<lb break="no"/>traordinary manner. They waited on Colonel <lb/>Trigge, of the 12th regiment of foot, and some <lb/>other officers of distinction. One of them, who <lb/>was born in England, named Bowles, speaks Eng<lb break="no"/>lish indifferently well, and is extremely communi<lb break="no"/>cative. He went over to America with his pa<lb break="no"/>rents, who were in the army, when a boy, and by <lb/>some means strayed to an Indian camp, where he <lb/>was most hospitably received, and afterwards rais<lb break="no"/> 
+               <lb/>ed to the highest honours of their nation.</p>
+                <p>The Cherokee Chiefs are expected in town this <lb/>day, to deliver their
+<supplied reason="copy blur">???</supplied> to Mr. Secretary <lb/>Grenville.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>321</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130514 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141005 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="5"/> The Indian Chiefs lately arrived in town are six <lb/>in number. They have been indiscriminately styl<lb break="no"/>ed Cherokees, but three of them only are of that <lb/>nation, and three are Creek Indians.–They are <lb/>all handsome men, not exceeding in age twenty - <lb/>five or twenty-six. These six Chiefs have 20,000 <lb/>warriors ready to take the field, and have the <lb/>strongest wish to act in conjunction with the Eng<lb break="no"/>lish. They travelled 3000 miles before the reach<lb break="no"/>ed Halifax, and were near 12 months in perform<lb break="no"/>ing the journey. From Halifax they went in an <lb/>English frigate to Quebec to Lord Dorchester, <lb/>by whom they were sent over to England to con<lb break="no"/>cert their plans in person with the Ministry.</p>
+                <p>The object of their coming to this country may <lb/>be easily guessed at. They long to make an at<lb break="no"/>tack upon the Spanish settlements. One of them <lb/>was heard last night in the playhouse to say, he <lb/>hoped in six months from this time to be in the <lb/>heart of Mexico.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>322</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130514 by <persName role="collection">M. H. Beals.</persName> Transcribed on 21041005 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-08"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Spanish Empire</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/> When hostilities are once commenced, a for<lb break="no"/> 
+               <lb/>fidable armament will unquestionable be sent a<lb break="no"/>gainst the Spanish South American colonies. Of <lb/>its success there cannot be a doubt, when we shall <lb/>be aided by an army of 20,000 Indian warriors, <lb/>beside the active support of those Mexicans now <lb/>
+               <supplied reason="copy blur">???</supplied> under the tyranous yoke of Spain.</p>
+                <p>
+               <pb n="3"/> So determined are the Cherokees, the Creeks, <lb/>and other nations of Indians in the Southern parts <lb/>of America, to strip the Spaniards of their pos<lb break="no"/>sessions on that Continent, that they will unque<lb break="no"/>stionably attempt the glorious achievement, even <lb/>though the policy of this country should prevent <lb/>us from lending them effectual assistance.</p>
+                <p>The rich silver mines at Potosi, in Peru, were <lb/>accidentally discovered in 1545, by an Indian, as <lb/>he was clambering up the mountain, in pursuit <lb/>of a Lama, which had strayed from his flock. <lb/>Soon after, the mines, of Sacotecas, in New <lb/>Spain, little inferior to the other in value, were <lb/>opened. From that time successive discoveries <lb/>have been made in both colonies, and silver mines <lb/>are now so numerous that the working of them, <lb/>and of some few mines of gold in the provinces <lb/>of Terra Firm, and the new Kingdom of Gre<lb break="no"/>nada, has become the capital occupation of the <lb/>Spaniards, and is reduced into the system no less <lb/>complicated than interesting.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>326</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-09-20"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>weather</item>
+                            <item>shipping news</item>
+                            <item>accidents</item>
+                            <item>earthquake</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="3"/>
+               <hi rend="center">
+                  <hi rend="italic">New York, August</hi>  4.</hi>
+            </p>
+                <p>On Monday the 12th ult. there was a violent <lb/>tempest at Leominster, Massachusetts, attended <lb/>with hail which was of such a size, and fell with <lb/>such velocity, that the stoutest Indian corn was <lb/>beaten into shreds–vast quantities of apples were <lb/>beaten from the trees–not only the fruit but the <lb/>trees received great injury, the bark being brok<lb break="no"/>en from their limbs; the windows broken in the <lb/>house, and the fences renewed such impressions, <lb/>as to be discovered at 90 yards distance. Many <lb/>of the hailstones were as large as hens eggs–the <lb/>common size was a little more than an inch in di<lb break="no"/>ameter. Twenty-give hours after it fell, banks <lb/>of it were measured at the foot of a hill, and <lb/>found to be 20 inches deep.</p>
+                <p>The Saturday following great damage was <lb/>
+               <supplied reason="copy blur">???</supplied> by hail at Shrewsbury, country of Worces<lb break="no"/>ster.</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">August</hi>  15. </hi>
+               <lb/>On Sunday the 25th July, a violent hail storm <lb/>commenced a few miles to the westward of Wil<lb break="no"/>mington, Delaware, which did great damage to <lb/>many fields of grain, and blew down, in many <lb/>places, an immense quantity of timber. The <lb/>hail in this storm was of an extraordinary appear<lb break="no"/>ance; part of it being about two inches long, <lb/>and of a very considerable circumference.</p>
+                <p>On Saturday, the 1st inst. arrived at Wilming<lb break="no"/>ton, Delaware, the brig Maria, Capt. fort, from <lb/>Londonderry, with 200 passengers.</p>
+                <p>On the 4th inst. arrived at Philadelphia, the <lb/>Happy Return, Capt. Ewing, in 8 weeks <lb/>from Londonderry, brought 340 passengers in <lb/>good health: Capt. Ewing parted, near the <lb/>Capes of Delaware, with the ship Sally, Capt. <lb/>Miller, with passengers from Londonderry for <lb/>that port also.</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Pennsylvania, July</hi>  21. </hi>
+               <lb/>Last Sunday evening Mr. John Garrison, son <lb/>of William Garrison, of Newbury township, in <lb/>this county, was killed by lightning in his own <lb/>house. The lightning struck in at the gable and <lb/>just at the instant that Mr. Garrison was in the <lb/>centre of the floor, walking towards the window; <lb/>his brother was standing within two yards of him <lb/>when he fell, but providentially received not the <lb/>smallest hurt.</p>
+                <p>We also learn, that Patrick M'Sherry, of Lit<lb break="no"/>tle's-town, in this county, had two cows killed <lb/>by lightning, the same evening.</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">New London, July</hi>  30. </hi>
+               <lb/>A slight shock of an earthquake was fel tin this <lb/>and the neighhbouring towns, on Sunday morning <lb/>last, about thirty minutes past five o'clock.</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Middletown, July</hi>  25. </hi>
+               <lb/>About five o'clock this morning, a noise was <lb/>heard that seemed to pass over this city, which is <lb/>thought to have come from a north-westerly direc<lb break="no"/>tion and proceeded to a south-easterly one. The <lb/>noise was equal to loud heavy thunder, and the <lb/>commotion occasioned by it very sensible in the <lb/>shaking of houses, but no damage was done.– <lb/>The Tuesday preceding, about six or seven miles <lb/>to the southward of this place, a similar but hea<lb break="no"/>vier noise was heard, attended with the like com<lb break="no"/>motion.</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Extract of a letter from Dartmouth, (Connecticut)</hi>
+               </hi> 
+               <lb/>
+               <hi rend="center">
+                  <hi rend="italic">July</hi>  26.</hi>
+            </p>
+                <p>"Some days ago a house near the college, <lb/>was struck by lightning, and a child therein kill<lb break="no"/>ed. Since that a woman was killed by the same <lb/>means in Cornish, a town adjoining Dartmouth, <lb/>as she sat in her house at work. Later still at <lb/>Hampton, in New York state, a yoke of oxen <lb/>were killed, both by one flash of lightning.–From <lb/>what reason we cannot tell, but the lightning has <lb/>been peculiarly destructive in many of our settle<lb break="no"/>
+               <pb n="4"/> 
+               <lb/>ments during the present summer. It would ap<lb break="no"/>however, that nature is willing to repair <lb/>those losses; accounts having just come to hand, <lb/>that on last Monday morning a woman in FPlain<lb break="no"/>field was safely delivered of four girls at a<supplied reason="copy blur">???</supplied>; <lb/>one of whom died the night following, the rest <lb/>likely to do well."</p>
+                <p>Saturday, at a tavern near the market, the <lb/>following specimen of gormandising was<supplied reason="copy blur">???</supplied> 
+               <lb/>ed :–A person, not for any bet, or without <lb/>any other inducement, than the craving of the <lb/>stomach,eat, at one meal, a shoulder of roast lamb, <lb/>3 slices of bacon, three quarters of a pound of <lb/>cheese, 15 large cucumbers, one half of an 8d <lb/>wheat loaf, a plate of cold potatoes, and drank <lb/>a quarter of cider.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>340</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141026 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-06-21"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Native Americans</item>
+                            <item>navy</item>
+                            <item>settlement description</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/> The brig Virginia Planter, James Merrifield, <lb/>Master, arrived at Liverpool, brings information <lb/>that on the 5th of May, General Wayne, with <lb/>two thousand provincials, had attacked to<lb break="no"/>tally destroyed most of the Indian towns at the <lb/>back of Georgia, for near two hundred miles a<lb break="no"/>round the river. That M'Gilvray, and his ar<lb break="no"/>my of savages, after an unsuccessful and bloody <lb/>engagement, had fled to the woods, where the <lb/>General left them, and returned to Savannah.– <lb/>This expedition was undertaken about the begin<lb break="no"/>ning of March, winch has been crowned with the <lb/>expected catastrophe, and though the Cherokee, <lb/>Miami, and Chiquesaw tribes, may mediate re<lb break="no"/>venge at some future period; it is not likely they <lb/>will be in a condition to disturb the settlers for <lb/>some years to come.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>341</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130505 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141027 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-02-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>slave rebellion</item>
+                            <item>weather</item>
+                            <item>shipping news</item>
+                            <item>shipping news</item>
+                            <item>Native Americans</item>
+                            <item>trade</item>
+                            <item>foreign relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/>
+               <hi rend="center">
+                  <hi rend="italic">From the </hi>
+                  <hi rend="smallcaps">Jamaica Royal Gazette</hi>. </hi>
+               <lb/>
+               <hi rend="center">
+                  <hi rend="italic">Kingston, Nov</hi>. 28.</hi>
+            </p>
+                <p>By late arrivals from Hispaniola we learn, that <lb/>the people are in quietness, but still armed; and <lb/>that the Governor, who had been suffered to re<lb break="no"/>main, but the Intendent only having fled, is per<lb break="no"/>fectly submissive to the will of the people.</p>
+                <p>For several days last week the weather at the <lb/>north side, and in some of the Liguanea Moun<lb break="no"/>tains blew in most alarming gusts, and the cold <lb/>is said to have been peculiarly sever; some plan<lb break="no"/>tain trees have been thrown down, but we have <lb/>yet heard of no material damage.</p>
+                <p>The sloop Resolution has brought into port a <lb/>part of his Majesty's 10th regiment of foot, con<lb break="no"/>sisting of a serjeant, and 29 privates, having re<lb break="no"/>ceived them from on board the ship Commerce, <lb/>Foot, from London, off the East End on Thurs<lb break="no"/>day last, the Commerce being destined for Savan<lb break="no"/>na la Mar.</p>
+                <p>
+               <hi rend="italic">Dec</hi>. 26. Late on Thursday evening his Ma<lb break="no"/>jesty's ship Amphion, Captain Nichols, returned <lb/>to Port-Royal from the Spanish American coast. <lb/>The Amphion was bound to Carthagena, but was <lb/>prevented by the jealousy of the Spaniards from <lb/>entering that port. Accounts are said to be re<lb break="no"/>ceived by her that a revolt has taken place a<lb break="no"/>mongst the Indians in that quarter, and that the <lb/>Spaniards are demolishing the fortifications <lb/>throughout the country, which it has cost them <lb/>so much labour and expence to raise; so appre<lb break="no"/> 
+               <lb/>hensive are they of the numbers and force of the <lb/>malcontents, should they possess themselves of any <lb/>of those strong holds.</p>
+                <p>We learn from Georgia, that the treaty with <lb/>the Indians, to negotiate with Commissioners <lb/>were appointed by the President of the United <lb/>States, has been broken off; and that Mr. M'Gil<lb break="no"/>livray and his warriors have declared, that nothing <lb/>short of a cession of the territory between the ri<lb break="no"/>vers St. Mary and Altamaha will satisfy them; <lb/>adding, that no equivalent can be given to the <lb/>Georgians for relinquishing their claim to the di<lb break="no"/>strict in question, as it is founded in usurpation. <lb/>The views of Mr. M'Gillivray in making this re<lb break="no"/>quisition are evident, as it is known that he wish<lb break="no"/>es to establish a sea-port at St Mary's, as well <lb/>for thecommercial emolument, as for the civili<lb break="no"/>zation of his countrymen, by an intercourse with <lb/>foreign States.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>342</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130512 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141106 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="6"/>Letters from Alexandria, in Virginia, dated <lb/>the 9th May last, mention, that General Wayne <lb/>had been dispatched, in the beginning of March, <lb/>on an expedition against the Cherokee Miamis <lb/>and Chickesau Indians, who have, for some time <lb/>past, had as their chief warrior, one Macgillivray, <lb/>a Scotchman, who has long resided among these <lb/>Indians. General Wayne, at the head of two <lb/>thousand Provincials, had completely routed them <lb/>after a great slaughter. After the battle, Mac<lb break="no"/>gillivray and his savages took refuge in the woods. <lb/>General Wayne has destroyed the most part of <lb/>the habitation of these Indians in the extent of <lb/>200 English miles along the river, which is the <lb/>boundary of Georgia, after which he returned to <lb/>Savannah. This defeat is so total, that it will put <lb/>it out of the power of these Indians to be again <lb/>troublesome to the State of Virginia.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>343</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130507 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141106 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-06-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                            <item>trade</item>
+                            <item>border dispute</item>
+                            <item>war</item>
+                            <item>trade</item>
+                            <item>privateering</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="3"/>The American States having now gained their <lb/>independence, have no cause of quarrel let with <lb/>this country; but matters are very different be<lb break="no"/>tween them and Spain. It is well known, that <lb/>the Indians on the back settlements have been <lb/>regularly supplied with arms and ammunition <cb/>from the Spanish magazines in the West-Indies, <lb/>to enable them to distress the Americans, and <lb/>prove at least a hindrance to their growing pro<lb break="no"/>sperity.The free navigation of the Mississippi <lb/>has been denied them?and the Spaniards, now <lb/>in possession of the Floridas, have been continual<lb break="no"/>ly quarrelling with them about their boundaries.</p>
+                <p>It may therefore be considered as almost cer<lb break="no"/>tain, that the American states will take an active <lb/>part against Spain. This will be a great acquisi<lb break="no"/>tion to Britain in every point of view; for though <lb/>American cannot furnish money, she can furnish <lb/>men and provisions; and afree intercourse with <lb/>her ports must prove of infinite advantage for the <lb/>security of our West-India Islands. Their pri<lb break="no"/>vateers, too, will be able to take their runs so <lb/>speedily, that the Spanish trade must be very <lb/>materially injured thereby.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>344</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130506 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141106 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-05-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>disease</item>
+                            <item>earthquake</item>
+                            <item>shipping news</item>
+                            <item>slavery</item>
+                            <item>mutiny</item>
+                            <item>Native Americans</item>
+                            <item>shipping news</item>
+                            <item>slavery</item>
+                            <item>rebellion</item>
+                            <item>shipwreck</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="2"/>
+               <hi rend="center">
+                  <hi rend="italic">Kingston, Feb</hi>. 6.</hi>
+            </p>
+                <p>By a St. Christopher's paper of the 25th ult. <lb/>we learn, that the small-pox raged lately at &gt;Su<lb break="no"/>rinam, to such a degree that, within the space of <lb/>two months, upwards of 2500 persons had perish<lb break="no"/>ed by that disorder.</p>
+                <p>A very severe shock of an earthquake was felt <lb/>between give and six on the evening of last Thurs<lb break="no"/>day se'ennight, at the settlements near the Blue <lb/>Mountains.</p>
+                <p>On Wednesday the 3d instant, arrived at Luc<lb break="no"/>ca, the ship Pitt, Captain Hunter, from Africa <lb/>with154 Gold-Coast Negroes. On the passage <lb/>from Africa, nine of the seamen mutined, whom <lb/>Captain Hunter has brought confined in irons, <lb/>and they are to be tried at a Court of Admiral<lb break="no"/>ty Sessions.</p>
+                <p>
+               <hi rend="italic">Feb</hi>. 20. Very strong suspicions are entertain<lb break="no"/>ed by the Americans, that the Indian Chief M' <lb/>Gilveray, and the nations under his immediate <lb/>controul, or in alliance with him, are subsidied <lb/>by the King of Spain. It is a well known fact, <lb/>that they are regularly supplied with cloathing, <lb/>arms and ammunition, from the Royal Maga<lb break="no"/>zines at St. Augustine and Pensacola, and there<lb break="no"/>fore in all probability; the sword not the olive <lb/>branch, will be the most speedy and effectual <lb/>agent for terminating the disputes.</p>
+                <p>
+               <hi rend="italic">March</hi>  6. Tuesday last arrived in the harbour <lb/>of Port Royal, from Cork, his Majesty's ship <lb/>Chichester, of 44 guns, armed <hi rend="italic">en flute</hi>, Lieute<lb break="no"/>nant Craven, Commander, having on board the <lb/>first battalion of the first or Royal Regiment of <lb/>of foot, commanded by Lieutenant-Colonel Dundas. <lb/>The other Officers are–Captains, Duncan, Fra<lb break="no"/>ner, Pemberton, and Mannoch; Lieutenants, <lb/>Sir W. Jas. Cockburne, Bart. Nicholson, Pux<lb break="no"/>ley, Clunes, Browne, Clarke, Drummond, and <lb/>Graham; Adjutant, Sir. W. J. Cockburne, Bart. <lb/>Quartermaster, Mr. Davidson, Surgeon, MR. <lb/>Young; Ma<supplied reason="copy blur">?</supplied>e, Mr. Bolton.</p>
+                <p>The troops in the Chicester amount to 500 <lb/>men, exch<supplied reason="copy blur">??</supplied>e of 100 women and children.</p>
+                <p>Colonel Hunter is appointed superintendent of <lb/>the settlement at the Bay of Honduras, in the <lb/>room of Colonel Despard, recalled.</p>
+                <p>Col. Hunter came out with the earl of Effing<lb break="no"/>ham; it is therefore probable that the dis<lb break="no"/>putes which have so long subsisted between Lieu<lb break="no"/>tenant Colonel Despard and the inhabitants of <lb/>the Bay of Honoduras, will be brought to a speedy <lb/>determination.</p>
+                <p>At the sale of the late Peter Heningson's e<lb break="no"/>state,a negro blacksmith was sold for the extra<lb break="no"/>ordinary sum of two hundred and sixty pounds!</p>
+                <p>At two o'clock on Tuesday morning the 3d <lb/>regiment quitted the barracks in this town and <lb/>at Up Park Camp, and embarked on board the <lb/>Chichester for Great Britain; the 14th at the <lb/>same time taking possession of their quarters.</p>
+                <p>Advice is received from St. Mark's in Hispani<lb break="no"/>ola, that, on the 1st of this month, a number of <lb/>free people of colour, to the amount of 700 and <lb/>upwards, having possessed themselves of several <lb/>field pieces, formed a camp in that districh, and <lb/>exhibited an appearance of hostility highly alarm<lb break="no"/>ing. A deputation of five gentlemen being sent <lb/>from the Assembly to demand the reason of so <lb/>extraordinary a proceeding, the insurgents de<lb break="no"/>manded, that a remonstrance which they then <lb/>delivered to the deputies, should be presented im<lb break="no"/>immediately to the general, and that an answer <lb/>thereto should be given without delay. The pa<lb break="no"/>per being conveyed as they desired, proved to be <lb/>a sensible and well written detail of the various <lb/>claims the free people of colour had on what they <lb/>termed the justice of the whites, with whom they <lb/>demanded an equal participation of all rights and <pb n="3"/> immunities whatsoever–the privilege of repre<lb break="no"/>sentation, and of qualifying for all the learned <lb/>professions–and concluding with the avowal of <lb/>a determination to proceed to extremities should <lb/>their demands be treat with neglect.</p>
+                <p>On the perusal of this paper, it was judged ad<lb break="no"/>viseable to assemble a body of the militia, who <lb/>headed by the General, immediately went against <lb/>the camp. On their arrival the insurgents fired <lb/>and fled to the mountains; three or four of the <lb/>whites were killed, and one of the ringleaders was <lb/>taken and instantly beheaded.</p>
+                <p>A proclamation was then issued, offering a re<lb break="no"/>ward of 50 half joes for the head of any principal <lb/>offender, and in the course of a few days not less <lb/>than twenty seven were brought in. On Sunday <lb/>the 7th instant, a very great majority of those <lb/>who had formed the camp, finding all their at<lb break="no"/>tempts completely frustrated, came in and took <lb/>the oath of allegiance to the nation. One or two <lb/>of the principals, for whom high rewards are of<lb break="no"/>fered, are not yet taken.</p>
+                <p>From Port Maria we have received the disagree<lb break="no"/>able account of the loss of the ship Lion, Capt. <lb/>Smith, belonging to Liverpool: a violent breeze <lb/>on the 5th instant drove her from her anchors, <lb/>and she now lies stranded on the beach.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>345</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130506 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20131106 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-05-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>fashion</item>
+                            <item>Native Americans</item>
+                            <item>textiles</item>
+                            <item>trade</item>
+                            <item>foreign relations</item>
+                            <item>foreign relations</item>
+                            <item>crime</item>
+                            <item>slavery</item>
+                            <item>Spanish Empire</item>
+                            <item>mining</item>
+                            <item>trade</item>
+                            <item>embargoes</item>
+                            <item>shipwreck</item>
+                            <item>textiles</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="4"/>
+               <hi rend="italic">NOOTKA SOUND.</hi>
+            </p>
+                <p>The circumstances of thetrade and situation <lb/>of this part of North America being a matter of <lb/>such general conversation and great public mo<lb break="no"/>ment, we are particularly happy in being enabled <lb/>to give some further account of the transactions, <lb/>that have happened at Nootka Sounds, as well as <lb/>to point out the advantages that were likely to <lb/>be extended to other places by the means of this <lb/>trade.</p>
+                <p>It is necessary to remark that the skin of the <lb/>sea otter is worn only in the Northern regions of <lb/>China. Its fur, though beautiful and magnifi<lb break="no"/>cent, is too heavy for the sultry atmosphere of <lb/>the Southern Provinces.</p>
+                <p>Pekin is, therefore, the proper mart for this <lb/>valuable commodity, and in this immense city, <lb/>the consumption is so great, that the produce of <lb/>the voyage meets and immediate sale.</p>
+                <p>The Mandarins of the Court, and even the <lb/>Emperor himself, are fond of wearing this costly <lb/>fur. To a citizen of common rank, a sea otter's <lb/>collar to his vestment is a luxury.</p>
+                <p>The natives of the North West Coast of Ame<lb break="no"/>erica set so great a value on woollens of all kinds, <lb/>that all the blankets, cloths, hats, and stockings, <lb/>that could be procured in China, if English ma<lb break="no"/>nufacture, were sold to the Indians, with whose <lb/>Chiefs treaties of commerce had been formed.</p>
+                <p>An act of cruelty committed by an officer of <lb/>the Spanish Admiral Martiney's ship deserves to <lb/>be recorded.</p>
+                <p>The Spaniards discovering that Callicum, a <lb/>Chief, second in authority at Nootka Sound, was <lb/>in alliance with the English, he was shot through <lb/>the heart in the month of June 1789.?The wife <lb/>of Callicum, with an infant child, escaped, but <lb/>not till wounded.</p>
+                <p>Macquilla, the Chief, first in command, re<lb break="no"/>tired at the head of the allies of England, from <lb/>Nootka Sound, and to avoid the cruelty of the <lb/>Spaniards, they fled to distant parts. Such of <lb/>the natives as they could seize, the Spaniards <lb/>condemned to work as slaves on their fortifica<lb break="no"/>tions.</p>
+                <p>At this period it was in the contemplation of <lb/>the Spaniards to seize the Sandwich Islands, with <lb/>a view to deprive British ships of refreshments. <lb/>And we further add, on authority that amounts <lb/>nearly to demonstration, that on the very lands <lb/>purchased from the Nootka Chief by Captain <lb/>Mears, the Spaniards have already opened valuable <lb/>mines.</p>
+                <p>Another object of this enterprise wasto sup<lb break="no"/>ply the markets of Kamschatka, and other ports <lb/>belonging to the Russians, with the teas and other <lb/>produce of China. This promised to be an in<lb break="no"/>valuable channel of commerce, as the Chinese <lb/>have shut their ports against the Russians, who <lb/>
+            </p>
+                <p>On this voyage of discovery and experiment, <lb/>one of our ships sailed and disposed of her cargo, <lb/>but was unfortunately lost on her return to China.</p>
+                <p>To these curious particulars we add, with a <lb/>patriot joy, that the consumption of the glorious <lb/>staple of England, her broad cloths, is astonish<lb break="no"/>ingly great in Japan and China: British hard<lb break="no"/> 
+               <lb/>ware, &amp;c. is also in great request.</p>
+                <p>From the friendship of Tiara to Captain Mears, <lb/>ships which touch at the Sandwich islands may <lb/>depend on the utmost attention and civility. <lb/>This Prince is six feet 4 1/2 inches high, of propor<lb break="no"/>tionate bulk.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>346</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130513 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141107 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-10-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>manufacturing</item>
+                            <item>wages</item>
+                            <item>land speculation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="6"/>
+               <hi rend="italic">Extract of a letter from Philadelphia, July</hi>  22.</p>
+                <p>"Trade is brisk at present, from the high pri<lb break="no"/>ces and great sales of grain to Europe. Our far<lb break="no"/>mers and giving above 6 s. currency (about 3s. <lb/>sterling) to workmen per day and their meat, to <lb/>enable them to take in new grounds, which is a <lb/>great discouragement to our rising manufactories, <lb/>which are obliged to give high wages to their <lb/>journeymen on that account.</p>
+                <p>"A Mr. Doylden from Europe has lately pur<lb break="no"/>chased two millions of acres of lands from Con<lb break="no"/>gress, Mr. Scriba, merchant in New York, has pur<lb break="no"/>chased four millions of acres, all from Congress, <lb/>a society of gentlemen, with whom, it is said, <lb/>some Dutch houses in Amsterdam are concerned, <lb/>have purchased from the State of Georgia about <lb/>fifteen millions of land on the frontiers of that <lb/>State. The very highest price paid for any of <lb/>these purchases has been twenty cents per acre, <lb/>(about ten-pence British money) payable by in<lb break="no"/>stallments at different periods, and that in Con<lb break="no"/>gress money."</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>380</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Examiner</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>London</settlement>
+                                    <region>England</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1810-01-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>crime</item>
+                            <item>obituary</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <bibl corresp="381" type="original">
+                    <title key="Morning Chronicle"/>
+                    <date when="1810-01-06"/>
+                </bibl>
+                <bibl corresp="381" type="preceding">
+                    <title key="Morning Chronicle"/>
+                    <date when="1810-01-06"/>
+                </bibl>
+                <head>
+               <hi rend="italic">AFFECTING INSTANCE OF SELF-MURDER</hi>
+            </head>
+                <p>
+               <pb n="15"/> On Friday, an Inquest was held at the Nag's Head, Leices<lb break="no"/>ter-fields, on the body of Madamoiselle Ann Paris, then lying <lb/>dead at No. 4, St. Martin's-street, Leicester-fields.– <hi rend="italic">Sarah Upton</hi>  deposed, that she is housemaid to the place. She had <lb/>frequently observed that the unfortunate young lady appeared <lb/>to be rather flighty and tiresome in her manner, such as ringing <lb/>the bell violently, giving orders, and almost immediately after <lb/>giving counter-orders; at other times she would ring with equal <lb/>violence, and when any of the servants inquired what she want<lb break="no"/>ed, she would tell them she wanted nothing. At one time the <lb/>deceased gave the witness a shilling to buy her some laudanum. <lb/>The witness said, "Good God, Miss, you surely must be mad <lb/>to think of such a thing; besides you know it is contrary to <lb/>law, and I can't procure it." She then set down and wept bit<lb break="no"/>terly; she said she could get it in a minute; she had been used <lb/>to take it for a pain in her bowels.–The witness replied, <lb/>"Very well, miss, you may kill yourself, but I shall not give <lb/> 
+               <cb/> my assistance to the deed." On Wednesday, she went out at <lb/>two, and returned at half after six o'clock. She then said, that <lb/>she had given a coachman a 1 <hi rend="itali">l</hi>. note at Brompton, she had to <lb/>pay the man only 2s. but she would not wait for her change, as <lb/>she thought it was much better to lose money than time. She <lb/> went out about a quarter of an hour, after the time of her com<lb break="no"/>ing home, and returned again at eight o'clock, having her bon<lb break="no"/>net all bedizened with artificial flowers. She got a candle, <lb/>went up to her own apartments, and returned in about seven <lb/> minutes time; she refused to take tea with two ladies that were <lb/>in the parlour at the time; she sat down at first in an extreme<lb break="no"/>ly pensive manner, then, in the course of a minute or two, with <lb/>the utmost wildness in her countenance, she exclaimed, "Oh, I <lb/>shall never see him again! I have done the job–I have taken <lb/>good care that the laudanum I took should do the business." <lb/>The witness was instantly alarmed, knowing that the deceased <lb/>had ordered her to get some laudanum for her before then. She <lb/>ran up stairs in the utmost consternation, and saw the phials in <lb/>the lady's chamber. Upon her return, she endeavoured to get <lb/>some explanation for the poor young lady as to what induced <lb/>her to commit such an act of desperation, but in vain–she look<lb break="no"/>ed wild, and continued raving for some time, and then fell into <lb/>a state of stupefaction. Medical assistance was sent for; three <lb/>Professional Gentlemen attended, but they could afford her no <lb/>relief. She died before day light on Thursday morning. The <lb/>witness knew nothing of any particular visitor to the deceased; neither had she the least knowledge of any of her relations or <lb/>friends. The Jury returned the verdict– <hi rend="italic">Insanity</hi>.</p>
+                <p>The history of this poor young creature is at once romantic <lb/>and interesting. She is the daughter of a Monsieur Paris, who <lb/>was well known in the commencement of the Revolution, and <lb/>in which he suffered.–Madame Paris, with her infant daugh<lb break="no"/>ter, took refuge in this country, and in the ruin of her fortune, <lb/>became a governess in a noble family in Scotland. After this, <lb/>she had a house in the New Road; and about two years ago <lb/>died of the rupture of a blood vessel. Her daughter had been <lb/>placed at an eminent boarding-school near one of the new <lb/>squares; and on the death of her mother was placed under the <lb/>guardianship of a Member of Parliament, who, with the most <lb/>liberal and benevolent attention to her destitute situation, re<lb break="no"/>solved to complete her education, and she had every master of <lb/>eminence in all the elegant arts. She spoke French and Ita<lb break="no"/>lian; touched the piano with great execution; sung with taste; <lb/>and had read beyond her years.–About six or eight months <lb/>ago, she was met in the square, when walking with the other <lb/>young ladies, by a young man in the dress of a Midshipman, <lb/>who followed her to the door, and who wrote to her under the <lb/>name of Jones. A correspondence took place; her imagina<lb break="no"/>tion was fired, and she eloped with him under a promise of <lb/>marriage. His address was found in her box, and they were <lb/>traced by her guardian, and separated. Jones declared that <lb/>she was virtuous, and his intentions were honourable, and as a <lb/>proof of it he was ready to marry her with her guardian's con<lb break="no"/>sent. In effect, they were married, and she was undone. In <lb/>about a fortnight or three weeks Jones threw off his disguise, <lb/>and fairly told her his real character,– that he was no sailor, <lb/>but lived by his shifts; that he had married her only for the <lb/>sum her protector had paid him, and that she must provide for <lb/>herself. She was abandoned; and the shock had such an <lb/>effect on her imagination, that she has ever since shewed signs <lb/>of A DISORDERED INTELLECT! With a heart that shrunk <lb/>from vice, she was flung on the world without a friend, or a <lb/>home; and in this deplorable state she became the victim of <lb/>necessity. About three weeks ago she saw an officer, who is <lb/>distinguished for his gallantries, and who by his address and <lb/>attentions so won upon her affections, that she could neither <lb/>speak nor think of any other object. This fatal attachment <lb/>absorbed her whole soul. They entered into engagements to <lb/>live and die only for one another; and in the frenzy of this <lb/>passion, or under the idea that she could not be his, and his <lb/>alone, she took the desperate resolution of dying for him. She <lb/>had prepared three phials of opium, who of which she swal<lb break="no"/>lowed; and she died with a spirit of heroism; for no per<lb break="no"/>suasion nor force could make her, when seized with the nausea <lb/>
+               <pb n="16"/> of the poison, take any antidote to the draughts. She would <lb/>not suffer the medical men to approach her–and though after <lb/>stupefaction came on they administered every known medicine, <lb/>they all failed of effect. <lb/>
+            </p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

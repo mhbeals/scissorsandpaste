@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>173</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-01-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>We have received letters and papers, from the Cape <lb/>of Good Hope, to the 22d October, and they are sa<lb break="no"/>tisfactory in all points of view, but especially with re<lb break="no"/>ference to the new settlement at Algoa Bay. His <lb/>Excellency, the Governor, Sir R. S. Donkin, was <lb/>taking some effectual measures to place the coinage <lb/>of the colony upon a better footing, and on the 13th <lb/>of October he issued a Proclamation for destroying a <lb/>very large quantity of base money. He has also taken <lb/>measure to communicate to the new settlers from <lb/>England the full benefit ofthe Courts of Justice es<lb break="no"/>blished in that quarter of the world.</p>
+                <p>We have received an account of the loss of the A<lb break="no"/>beona[?] transport, bound to the Cape of Good Hope, <lb/>with settlers. The following is an extract of a letter <lb/>from the Agent to Lloyd's, dated Lisbon, 20th Dec. <lb/>"The Condessa da Ponte, which arrived on the 20th <lb/>inst. from Marenham[?], has brought 49 persons, who <lb/>escaped from the Abeona transport, bound to the Cape <lb/>of Good Hope, which took fire and was burnt on the <lb/>25th ult. in lat. 5 N. long–and 113 lives were lost. <lb/>The Agent, Lieut. Madge, the Captain, Surgeon, 21 <lb/>men, 16 boys, 4 women, and 5 girls, got into three <lb/>boats, and fortunately fell in with the Condessa da <lb/>Ponte, the morning after the fatal event."</p>
+                <p>Demerara Gazettes to a late date have been received, <lb/>which give detailed accounts of the number and state <lb/>of the slaves in that part of the West Indies. The re<lb break="no"/>port is given by James Robertson, Esq. the new Slave <lb/>Registrat of the United Colony. It is a triennial <lb/>statement of the slave population, and the Reporter <lb/>makes some judicious comparative remarks. It ap<lb break="no"/>pears that there has been a large decrease of the num<lb break="no"/>ber by deaths, but the Creoles are greatly increased as <lb/>compared with the former year. Births have been in <lb/>the proportion of one to forty-six. The Report de<lb break="no"/>fends the [?] of the West India Planters, and ob<lb break="no"/>serves that the state of the Black population serves[?] <lb/>to evil for little or no [?] ; so great is the <lb/>kindness, the liberality, and induglent care of pro<lb break="no"/>piertors. It adds, that their own interests is a perpe<lb break="no"/>tual[?] evil[?] upon their humanity. In the colony there <lb/>[?] [?] [?] <lb/>[?] [?] [?] <lb/>[?] [?] [?] <lb/>slaves on the island, [?] Africans[?] and Creoles <lb/>and there are 38,910 female slaves of the same dono<lb break="no"/>mination, making a total of 76,929. The slave po<lb break="no"/>pulation in 1817, amounted in the whole to 77,867.– <lb/>The number of births which have occurred since that <lb/>period is 5,317, and deaths 7,140. The Report con<lb break="no"/>cludes with some gratifying observations upon the <lb/>flourishing state of the colony.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>174</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-01-26"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration.–Official</hi>
+            </p>
+                <p>Enquiries and applications having been addressed to the Colonial <lb/>Department respecting emigration to His Majesty's foreign posses<lb break="no"/>sions, it has been deemed convenient, with a view to the information <lb/>and guidance of individuals interest in this subject, to state, that, <lb/>1 <hi rend="italic">stly</hi>, Persons are not provided with passages, at the public expense <lb/>to any of his Majesty's settlements. <lb/>2 <hi rend="italic">dly</hi>, Persons proceeding at their own expense to North America, <lb/>and to the Cape of Good Hope, and desirous of settling there, require <lb/>no previous authority from his Majesty's Secretary of State to enable <lb/>them to obtain grants of land, the Governor of those settlements be<lb break="no"/>ing fully empowered to assign lands to applicants, proportioned to <lb/>the means which they actually possess for bringing them into a state <lb/>of cultivation. The extent of these grants must depend upon their <lb/>quality, position, and other circumstances, which can only be ascer<lb break="no"/>tained in the Colony. <lb/>3 <hi rend="italic">dly</hi>, Persons desirous of settling in New South Wales or Van <lb/>Diemen's Land must be provided with the sanction of his Majesty's <lb/>Secretary of State ; and this can only be obtained upon written appli<lb break="no"/>cation, accompanied by references to two or more respectable persons, <lb/>as to the character of the applicant, and the extent of his capital, which <lb/>must amount to Five Hundred Pounds, at the least.</p>
+                <p>
+               <hi rend="smallcaps">Colonial Department, London. </hi>
+               <lb/>
+               <hi rend="italic">January</hi>, 1822.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>175</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-01-31"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>
+               <hi rend="italic">Success of the Cutch Expedition against the Sindeans </hi>
+               <lb/>–The following extract of a letter from Bombay <lb/>bringing this intelligence, we copy from Carrick's <lb/>Post, which appears to have exclusive means of obtain<lb break="no"/>ing information on India affairs:–</p>
+                <p>"Bombay, Sept. 12, 1820. <lb/>"While I was seeing the last of your goods on <lb/>board, last night, a vessel arrived in the harbour hav<lb break="no"/>ing on board an officer from Cutch, who was the hear<lb break="no"/>er of the official intelligence of the complete success <lb/>of Sir Charles Culville's expedition against the Sin<lb break="no"/>deans. The expedition consisted of 12,000 men, <lb/>commanded by his Excellency the Commander in <lb/>Chief ; from all I could clean of intellience from the <lb/>followers, it appeared there had been some hard fight<lb break="no"/>ing for five days ; but it ended, as might be anticipat<lb break="no"/>ed, from the imposing force sent against the Sindeans. <lb/>The moment the officer (who is one of the Staff, and <lb/>an Irishman) landed, he set out for the Government <lb/>House, to inform Lady Colville of the event, as it <lb/>must be supposed she was in a state og anxiety, her <lb/>husband being the commander, and her brother, and <lb/>her uncle, Colonel T. Blair, being also on the expe<lb break="no"/>dition. At day-light this morning orders arrived from <lb/>the Government House, to secure a passage and pri<lb break="no"/>vate cabin for the officer in th ship which takes this <lb/>to England, but there was no such accomodation, as <lb/>the cabins were all full ; and as another vessel will not <lb/>sail from thence about ten days, this and will be off <lb/>to-day, the chance is, you will have this letter at least <lb/>six weeks before the officers can reach England with <lb/>the official intelligence. All kinds of European pro<lb break="no"/>duce are a drug hee, paricularly fine goods ; and <lb/>rum, brandy, and geneva, are for a song. The cho<lb break="no"/>lera has rather abated, but still rages in a frightful <lb/>manner."</p>
+                <p>The Rio Janeiro packet arrived on Tuesday with let<lb break="no"/>ters to the 21st of November. Advices had been re<lb break="no"/>ceived from Rio Grande, stating that Artigas had been <lb/>taken prisoner. The Portuguese frigate, Union, had <lb/>captured two insurgent privateers which had been com<lb break="no"/>mitting depredations on the coast. The events in Por<lb break="no"/>tugal, owing to which, as well as to the idea that the <lb/>King would be prudent enough to sanction what had <lb/>taken place in Portugal, the prices of produce had ex<lb break="no"/>perienced very trifling alteration, though, if the con<lb break="no"/>trary should be the case, a considerable rise was anti<lb break="no"/>cipated. The following relates to what is passing in <lb/>Peru :–</p>
+                <p>Extract of a letter from Rio Janeiro, dated Novem<lb break="no"/>ber 20 :–" The Chilians have at length carried into <lb/>effect their boasted expedition, which left Valparaiso <lb/>on the 21st August, and arrived at Pisco at the begin<lb break="no"/>ning of September. San Martin landed 4,500 men, <lb/>but the blacks, cattle, &amp;c. had all been previously sent <lb/>away from the estates in that quarter, so that they will <lb/>be disappointed in meeting with partisans ; indeed the <lb/>slaves and lower orders, whom they expected to find <lb/>favourable to their views, are the most irritated against <lb/>the insurgents. We have letters from Lima to the 12th <lb/>September, which speaks of the little apprehensions en<lb break="no"/>tertained of San Martin and his troops, the Viceroy <lb/>having a formidable force, in the capital and vicinity, <lb/>of 8,000 men, commanded by good officers. The <lb/>Viceroy, is Commander-in-Chief, La Serna, second, <lb/>and La Mar and O'Reilly command divisions. They <lb/>were observin San Martin's movements who already <lb/>experienced the difficulties of subsisting his men. The <lb/>Marquis of Vallembrozo was on his flank, with a <lb/>strong detachment of cavalry, with a view to prevent <lb/>him from sending emissaries into the interior, and col<lb break="no"/>lecting horses. It is thought the insurgents will soon <lb/>have to re-embark ; for, as soon as they are a little <lb/>pressed for provisions, and fighting comes on, num<lb break="no"/>bers will desert. Those who have already come over <lb/>describe their situation as very critical. Two vessels, <lb/>one an English, and the other a French, were prepar<lb break="no"/>ing to sail from Callao for this place, and by them we <lb/>shall receive further particulars. The most enthusias<lb break="no"/>tic preparations were making in Lima to proclaim the <lb/>constitution in a formal manner, for which purpose <lb/>orders had been received from Madrid. This of itself <lb/>is sufficient to defeat all views Cochrane and San Mar<lb break="no"/>tin may have on the country, except, as before, a lit<lb break="no"/>tle plunder on the open and defenceless parts of the <lb/>coast.</p>
+                <p>Letters from Sierra Leone, dated the 24th of Nov. <lb/>mention that the whole squadron was lying there.– <lb/>The Pheasant, Myrmidon, Snapper, and Thistle, were <lb/>lying off the Cape, waiting for the Morgiana to com<lb break="no"/>plete her water, provisions, &amp;c. which ship was oblig<lb break="no"/>ed to be assisted by the squadron, in consequence of <lb/>her very sickly state. She had recently arrived from <lb/>the River Gambia, whither she had proceeded in dread <lb/>of attack by the natives on our infant colony there. <lb/>A letter of thanks had been voted to Captain Finlason, <lb/>by the merchants of that colony, for the very able man<lb break="no"/>ner in which he brought to an amicable conclusion the <lb/>differences between the Native Chiefs and the British <lb/>interests in the Gambia. The Morgania brought from <lb/>the Gambia, Dr Dochard and forty-six men belong<lb break="no"/>ing to the mission under Major Gray, for exploring <lb/>Africa. Dr D. had been at Sago ; but, in conse<lb break="no"/>quence of internal wars, he was unable to proceed <lb/>further. Major Gray was there with very few men ; <lb/>he will not proceed further for some time.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>176</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-03-14"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>Sierra Leone Gazettes to the 16th of December have <lb/>been received. It is satisafactory to learn that some <lb/>more effectual measures, than any before adopted by <lb/>the French Government, to prevent slave trading are <lb/>now in a course of execution. The French brig of <lb/>war, Le Huron, of 22 guns, Commodore Du Pres<lb break="no"/>sit, is employed in cruizing for that purpose.</p>
+                <p>
+               <hi rend="smallcaps">Earthquake at Zante</hi>, Jan. 8.–The last week <lb/>has been a scene of horror and destruction at Zante.– <lb/>At four o'clock, on the morning of the 29th of Dec. <lb/>we had a violent shock of an earthquake, which lasted <lb/>nearly half a minute ; this was followed by eight other <lb/>shocks, between four and six o'clock, which threw <lb/>down one thousand three hundred houses. Providen<lb break="no"/>tially, the first shock did not throw down many, so <lb/>that the inhabitants had time to escape before succeed<lb break="no"/>ing shocks, otherwise theloss would have been dread<lb break="no"/>ful. Only ten lives have been lost, but not a house <lb/>in the town has escaped without some injury. The <lb/>town is still in a complete state of confusion ; one <lb/>thousand give hundred houses more, being so much in<lb break="no"/>jured as to be marked in order to be pulled down ; all <lb/>the steeples in the place must be taken down. The <lb/>streets are almost impassable from the fallen houses ; <lb/>and great caution is required, in walking, to avoid the <lb/>ruins that are still falling.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>177</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-03-30"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration to Canada</hi>
+            </p>
+                <p>The following is an extract of a letter from a tradesman <lb/>belonging to Glasgow, who has been six years in Upper Ca<lb break="no"/>nada, to a friend in this city :–</p>
+                <p>" <hi rend="italic">York, Upper Canada, 14th November</hi>, 1820. <lb/>"You wish to be informed of the encouragement that you <lb/>might meet with by an emigration to this country; and as <lb/>you have determined to place the most implicit confidence <lb/>in what I may advance. I shall therefore state to you the <lb/>"truth, and nothing but tl[?] truth, so help me <hi rend="italic">God</hi>."– <lb/>In the first place, you wish to know what might be the va<lb break="no"/>lue of a hundred acres of land, with six or eight acres of <lb/>improvement. This is a question that I cannot give a de<lb break="no"/>cided answer to, as it depends entirely on the situation <lb/>where you wish to purchase; but I may with safety aver<lb break="no"/>age wild land, in this Upper Province, say at 4 to 6 dol<lb break="no"/>lars per acre, and the clearing or improving of each acre <lb/>will cost you from 16 to 20dollars.–In the next place, you <lb/>wish to know the price of cattle. They have never been <lb/>known to be cheaper than at the present time. A cow can <lb/>be purchased at 20 dollars, a pair of working oxen at 40 <lb/>dollars; a good cart horse at 50 dollars,; sheep, 2 dollars a<lb break="no"/>piece. In regard to farming utensils, there are but few <lb/>used in this country at any time, and a new settler may be <lb/>some years in the woods before we want any more than an <lb/>axe, (3 dollars) a plough, (10 dollars) and a harrow, (5 dol<lb break="no"/>lars.)–You wish to know the nature of a Government <lb/>grant; that has now become no object, as the charges made <lb/>by Government exceed in many cases what you can pur<lb break="no"/>chase land for; and by buying land you have the advan<lb break="no"/>tage of choosing a situation agreeable to your mind; but <lb/>the reverse is the case when you accept of a grant from Go<lb break="no"/>vernment, for you must then take your chance by drawing <lb/>by lottery; and as the land is already taken up for forty <lb/>miles round this place, you will then be obliged to go back <lb/>into the woods, and out of the world. You are at liberty <lb/>to sell it as soon as you receive the grant; formerly you <lb/>could.–You wish to know what sum you could estab<lb break="no"/>lish yourself for in this country as a farmer. There is one <lb/>thing obvious–the more you bring the less miseries and <lb/>difficulties you will have to undergo. But as a true friend, <lb/>I would advise you not to think of leaving home with a <lb/>sum less than t200 sterling with a sum less than this you <lb/>undoubtedly subject yourself to hardships and troubles <lb/>that you have no idea of. Though many have settled here <lb/>for nothing, their fate has been such that it is beyond my <lb/>pend to describe; and my greatest enemy I should not ad<lb break="no"/>vise to come to this country, with the intention of farming, <lb/>with less capital than I have no stated to you. Many <lb/>may flatter you, and stuff your head with golden dreams <lb/>about this country; but you must allow the experience that <lb/>I have had to outweigh the statements of many that you <lb/>may have had an opportunity of talking with, who may pre<lb break="no"/>tend to have some knowledge of this country, for there <lb/>are but few settlements between Montreal and the falls of <lb/>Niagara (a distance of nearly 600 miles,) that I have not <lb/>visited.–As to the necessaries wanted for a family who may <lb/>think of coming to this country, I should entirely confine <lb/>myself to wearing apparel, as clothes are the highest article <lb/>in this country; and should you think of farming, I would <lb/>advise you to bring but few fine clothes, but principally <lb/>coarse and stout. Heavy luggage of any kind becomes very <lb/>expensive and cumbersome bringing you up the river so far as <lb/>this, and is often liable to be damaged, in consequence of <lb/>the repeated re-shipping. The rate of charge of the trans<lb break="no"/>portation of good from Montreal to Kingston (200 miles) <lb/>is 2 dollars per cwt.; and from Kingston to York (200 <lb/>miles) they charge 1 dollar for each barrel bulk; and from <lb/>Montreal to York you may get a passage for 10 dollars for <lb/>each grown person.–By the by, you wish to know the po<lb break="no"/>pulation of this town: it is indeed small in comparison to <lb/>some of your towns; but I might say that the inhabitants of <lb/>York might amount to 3000 people. But there is no place <lb/>that I have visited in my travels that is more thriving than <lb/>this town; and as a proof, I can safely say that it is now <lb/>twice the size that it was when I came here, (now three <lb/>years), and still continuing to increase greatly in buildings; <lb/>but all wood.–You wish to know the different branches of <lb/>business carried on here. They are principally house car<lb break="no"/>penters; and various other mechanics are also employed <lb/>here.–You wish to know if any of the emigrants have ar<lb break="no"/>rived in this place. There are but very few I understand <lb/>come thus far, the greater part of them having stopped at a <lb/>settlement called Perth, about miles below Kingston. <lb/>–Since I have now given answers to all your different <lb/>queries, let me now give my candid opinion respecting this <lb/>country. In the first instance, a farmer may live by hard <lb/>labour; that is, he may acquire a livelihood; but cash[?] is a <lb/>complete hidden treasure, and is as forbidden fruit to the <lb/>farmer of this country; and in some places you may live <lb/>for years and not even behold, a silver dollar through a glass <lb/>darkly, as all is done by barter in the country. The next <lb/>evil is the mixture of society; a very few good, intermixed <lb/>with a multitude of a very different character; but in many <lb/>places you will be divested of all society, either of a good <lb/>or bad quality; in either of which situations I am afraid you <lb/>will find yourself uncomfortable, in consequence of its <lb/>being so much different to what you have been accus<lb break="no"/>tomed to; and the opportunity of spending the sabbath <lb/>in a religious worship you will also find wanting. And <lb/>above all evils the fever and ague, that none escape, is <lb/>the ruin of many a family in this country. But should <lb/>you think of coming to this country, in order to avoid this <lb/>disease I would advise you to come no farther up the coun<lb break="no"/>try than Perth settlement, where this loathsome sickness <lb/>is seldom known. Now, my friend, by what I have stated <lb/>here I neither mean to advise or dissuade you from com<lb break="no"/>ing to this country; but take it into serious consideration <lb/>before you embark upon this important."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>178</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-05-03"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Canada</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Provincial Parliament of Lower Canada </hi>
+               <lb/>
+               <hi rend="smallcaps">Quebec Legislative Council–March 17.</hi>
+            </p>
+                <p>This day his Excellency the Governor in Chief made the <lb/>following[?] speech to both Houses:–</p>
+                <p>"Gentlemen of the Legislative Council and Gentlemen <lb/>of the House of Assembly,</p>
+                <p>"When the Parliament met for the dispatch of public <lb/>business[?], I did entertain a hope that the experience of the <lb/>[?] few years would have led you to a mature and serious <lb/>consideration[?] of the consequences that would inevitably <lb/>follow[?], if the then state of things should not be remedied ; <lb/>I[?] cannot therefore be surprised that I should now ex<lb break="no"/>press[?] not only my disappointment, but great concern that <lb/>[?] same question of constitutional principle should have <lb/>[?]ia disturbed the unanimity of your legislative proceed<lb break="no"/>ings[?].</p>
+                <p>"Upon this occasion I think it a duty which I owe to <lb/>[?] and to your country to call upon you to consider, du<lb break="no"/>ring[?] this summer, the result of the discussions of the ses<lb break="no"/>sesion[?] in all its bearings.</p>
+                <p>"You will see the administration of the civil govern<lb break="no"/>ment[?] left without any pecuniary means but what I shall <lb/>advance[?] upon my own personal responsibility ; you will <lb/>[?] individuals suffering under severe and unmerited hard<lb break="no"/>ships[?], caused by the wast of that constitutional authority <lb/>that[?] is necessary for the payment of the expences of the <lb/>civil[?] government. You will see the interior improve<lb break="no"/>ments[?] of the country nearly at a stand ; you will see, in <lb/>[?]ort, the executive government in a manner palsied and <lb/>powerless[?].</p>
+                <p>"When I shall again summon you to meet here in Par<lb break="no"/>liament[?], you will come to decide the important question, <lb/>whether[?] the Government shall be restored to its constitu<lb break="no"/>tional[?[ energy, or whether you are to deplore the prospect <lb/>[?] lasting misfortune, by a continuance in the present state <lb/>[?] things. Important as that question is, there can be no <lb/>difficulty[?[ in the decision. When the blessingsof the Bri<lb break="no"/>tish[?] constitution were granted to this province, you re<lb break="no"/>[?]ved with it the recorded experience of centuries of <lb/>[?]ctise. There is no question of doubt or of difficulty <lb/>[?]that may not find its precedent in the records of the Im<lb break="no"/>[?]Imperial Parliament ; and I cannot thik that any wiser <lb/>[?]guide need by desired."</p>
+                <p>After which, the Honourable Speaker of the Legislative <lb/>[?]council said, that it was the pleasure of his Excellency the <lb/>[?]Governor in Chief that the Provincial Parliament should <lb/>[?] prorogued until Thursday, the 26th of April next.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>179</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-06-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>We have received letters this morning from New South <lb/>Wales, which announce that the <hi rend="italic">Skelton</hi>  from Leith arrived <lb/>at Hobart Town, Van Dieman's Land, on the 27th of Nov. <lb/>last, with her numerous settlers, all well, and in good spirits.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>180</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-06-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>We have received Canada Papers to the 10th May. <lb/>The active exertions of the Governor to improve the <lb/>inland navigation had given very general satisfaction. <lb/>In the course of the Session of the Colonial Parlia<lb break="no"/>ment, which was prorogued on the 14th April, no less <lb/>than three Addresses were presented to Earl Dalhou<lb break="no"/>sie, to be forwarded to the King ; one respecting the <lb/>allowance of half-pay to the Militia ; another respect<lb break="no"/>ing the duties imposed in British ports on lumber from <lb/>Canada ; and third related to the losses sustained <lb/>by the people of Canada, during the late war. His <lb/>excellency the Governor had intimated, that no objec<lb break="no"/>tion would be made to the repeal of the grant of 2,500l <lb/>on account of the Civil List for the Colony, provided <lb/>the salaray of the Chief retired Justice, the Receiver<lb break="no"/>General, and that of the Speaker of the House of As<lb break="no"/>sembly, should be continued, in the whole amounting <lb/>to 1,800l. The grant has for some time been a pro<lb break="no"/>minent subject of complaint in the Colonial Parlia<lb break="no"/>ment.</p>
+                <p>The 37th Regiment for three years stationed in <lb/>Lower Canada is about to leave the Colony for Eng<lb break="no"/>land. The Staff Corps was to proceed to the Otta<lb break="no"/>wa, to carry into effect the intended plan for removing <lb/>the obstructions in that river.</p>
+                <p>An article from Montreal, dated May 5, states, that <lb/>a messenger was leaving that place to announce the <lb/>union of the North and Hudson's Bay Compa<lb break="no"/>nies, at their respective establishments. The former <lb/>of these companies was under control of Lord Sel<lb break="no"/>kirk, and the schism that has so long reigned between <lb/>them, with its fatal consequences, is well know to <lb/>the Public.</p>
+                <p>By Letters from Bombay we learn that 20 ships <lb/>have been taken up by the vigilant Governor, on board <lb/>of which 5000 troops are embarked, destined to the <lb/>Persian Gulph, to repair the disaster suffered by the <lb/>surprise of the detachment left by Sir Wm. Kier, un<lb break="no"/>der the direction of a young man. The gallant Gen. <lb/>Lionel Smith has been selected for this important ser<lb break="no"/>vice ; and we have no doubt but that he will convince <lb/>the Arabs of the impolicy of their treacherous proceed<lb break="no"/>ings, and justify the high confidence which the Go<lb break="no"/> 
+               <lb/>vernment of Bombay have in his talents and valour.– <lb/>His Excellency Mr. Elphinstone, completely recover<lb break="no"/>ed, is gone on a tour to Kutch, to settle all disputes, <lb/>and to ascertain the true situation of the country.– <lb/>How important it is for the Heads of the Presidencies, <lb/>thus to judge from actual observation, instead of trust<lb break="no"/>ing to mere reports. This proves the benefits of ap<lb break="no"/>pointing men of experience and energy in the conduct <lb/>of our Indian Empire–which is now, throuh the <lb/>admirable conduct of the Governor General, and the two <lb/>other Presidencies, in a state of unexampled, tranqui<lb break="no"/>lity and prosperity.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>181</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-06-09"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Van Dieman's Land</hi>
+            </p>
+                <p>We have been favoured with the following ex<lb break="no"/>tract of a letter from Captain Dixon, of the ship <lb/>Skelton, dated Hobert Town, Van Dieman's <lb/>Land, 29th November 1820 :–</p>
+                <p>"We arrived here on the 27th inst. all in good health.– <lb/>This colony surpasses my expectation–climate very simi<lb break="no"/>lar to England, soil capable of any thing, where an industrious <lb/>manhas every thing to hope and nothing to fear ; the assist<lb break="no"/>ance given to settlers liberal, and grants of land to the a<lb break="no"/>mount of from 400 to 2000 acres given them, generally of ex<lb break="no"/>cellent quality. This colony in fact is the only country that <lb/>an Englishman should come to, he neither changes climate <lb/>not habits, for here every thing hat occurs to him is the <lb/>same, except burning wood for coals. The country on the <lb/>sea coast is very woody, but much easier cleared than Ame<lb break="no"/>rica and about ten miles in the interior several miles of ex<lb break="no"/>tent have no wood at all. The ships behaves beautifully, sails <lb/>well, and is easy ; we have never close reefed and not above <lb/>twice double reefed, and not strained a rope yarn nor <lb/>split a sail."</p>
+                <p>Extract of a letter received by My Leyden, <lb/>R. N. Leith, from his Son, Mate of the ship <lb/>Skelton, dated Sullivan's Cove, off Hobart Town, <lb/>29th November 1820 :–</p>
+                <p>"I take this opportunity of sending you a few lines by the <lb/>ship Guildford, which is to sail tomorrow for Baravia, and <lb/>then homewards. We left the Table Bay on 18th October, <lb/>and arrived here on 28th November, making a very good <lb/>passage. Did not see any vessel on the passage–made the <lb/>island of Amsterdam and St Paul's on 28 November–went <lb/>ashore on the island of Amsterdam for two or three hours, <lb/>found it to be barren entirely–only inhabited by give or six <lb/>people from the Isle of France, for the purpose of sealing. <lb/>When we came near the land, fell in with various winds <lb/>and calms–made the river on Sunday about twelve o'clock, <lb/>and brought up off Hobart, at three P M on Monday. The <lb/>country has a very fine prospect, a great deal of wood, but <lb/>interspersed with fields all in green, for it is the spring here <lb/>now–the pease are in full bloom. This town is very irregu<lb break="no"/> 
+               <lb/>larly built, just like a Norwegian village–a deal of wooden <lb/>houses–the appearance of the country pleases the eye greatly <lb/>of the passengers, and the visit they had from the Deputy <lb/>Governor was very favourable. Governor M'Quarrie is to <lb/>be here from Sidney in the course of a fortnight or three <lb/>weeks to survey the Government works. The passengers <lb/>are in great suspense whether they will forward themselves <lb/>to Sydney, or wait until he comes. Butter sells at 4s, a lb ; <lb/>coarse ship biscuits 35s. a cwt ; a pair of ashets, middle size, <lb/>21s. and every thing in like proportion. Salted pork would <lb/>have sold very well–could clear L130 a cwt. Beef is about <lb/>6d. a lb. If you buy any here, and pay in produce, you pay <lb/>more than in hard cash. There are few bush rangers now, <lb/>they were mostly all shot in the woods. No encouragement <lb/>here for pickpockets. Some of the richest and most power<lb break="no"/>ful men here have once been sent out as convicts, but, from <lb/>their good behaviour, got their emancipation. The Midship <lb/>Leith, upon the pier, is here ; he is master of a colonial brig <lb/>trading between Sydney and here. Our passengers tell me <lb/>they can chuse what land they like ; but not the quality ; they <lb/>must apply the saw and the hatchet a great deal. A hatchet <lb/>costs 7s. 6d. a lb. Very few people have female servants, as they <lb/>can't trust them ; as those who come out are convicts, and <lb/>get soon married, so they have all men servants."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>182</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-07-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">American Papers.</hi>
+            </p>
+                <p>New York, May 8. <lb/>The sloop Hero, Capt. Palmer, arrived at <lb/>Stonington, last Tuesday, in seventy-three days <lb/>from New South Iceland, with a cargo of oil. <lb/>ON the 28th of March, in lat. 21. S. long. 35. W. <lb/>spokethe Brig Wilner, of London, from Buenos <lb/>Ayres, bound to Falmouth, England ; the Cap<lb break="no"/>tain of which informed Capt. P. that the Chilian <lb/>army, near Peru, had fought two battles with the <lb/>Royal army, in both of which the Chilian army <lb/>was victorious ; and it was supposed would cause <lb/>the surrender of Peru soon to the Chilians.</p>
+                <p>May 15. <lb/>The gigantic projects that occupy the atten<lb break="no"/>tion of our countrymen are truly surprising. A <lb/>plan is now forming, for example, to establish a <lb/>settlement at the mouth of the river Columbia, <lb/>for the purpose of importing teas direct from the <lb/>East Indies. It is then proposed to transport <lb/>this article of merchandize up the Columbia, un<lb break="no"/>til it reaches the rocky mountains, and then to <lb/>proceed by land to the navigable branch of the <lb/>Missouri. This embraces a space of three <lb/>hundred and forty miles in extent. Of this dis<lb break="no"/>tance 200 miles are represented by travellers as <lb/>constituting an excellent road ; the remaining <lb/>one hundred and forty comprehend the moun<lb break="no"/>tain barrier, which must be passed by the intre<lb break="no"/>pidity and labour of man. The merchandize <lb/>will then, by the aid of the Missouri and its <lb/>subsidiary streams, supply the whole western <lb/>continent with the refreshing beverage. This <lb/>shows the varied changes of commerse ; the <lb/>Atlantic States have heretofore been the medium <lb/>of supplying our western States with the pro<lb break="no"/>ductions of China ; but if this plan should be <lb/>carried into effect, we may receive our supply <lb/>from that country through the western States.</p>
+                <p>May 16. <lb/>It is worthy of remark, that among the nu<lb break="no"/>merous arrivals at this port yesterday, were three <lb/>British brigs from Dundee. This makes good <lb/>the remark of a late Scotch gazette, that <lb/>Dundee was becoming a place of considerable <lb/>trade.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>183</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-08-15"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>
+               <hi rend="smallcaps">Africa.</hi> –Extract of a Letter from Capt. Colliver, <lb/>a Gentlemen belonging to the county of Cornwall, <lb/>and who is an Officer in the service of the African <lb/>Comapny:–</p>
+                <p>Cape Coast Castle, April 21, 1821. <lb/>By the time you have received this, it is probable the <lb/>African Company will have ceased to exist ; we have <lb/>received orders to hold ourselves in readiness to deliver <lb/>up the Forsts and Settlements here to Government. It <lb/>is understood they are to be put on the same footing as <lb/>Sierra Leone. A list has been furnished to Govern<lb break="no"/>ment by the Company's Committee, of their Officers, <lb/>their age, length of service, the situations they fill ; <lb/>their emoluments[?], &amp;c. We have been blockaded here, <lb/>since the 10th of February, by the Ashantees[?] (an Afri<lb break="no"/>can tribe), who have commenced hostilities against us. <lb/>On the day before mentioned, our Governor received <lb/>intelligence that a black man belonging to Cape Coast, <lb/>where the people are under our protection, had been <lb/>cruelly murdered by a Chief of the Fantes[?], at a place <lb/>about six miles from Cape Coast, called Moree[?]. I was <lb/>immediately ordered to assemble all the soldiers I <lb/>could, in five minutes, and proceed to Moree to seize <lb/>the murderer. I quickly set off with four officers and <lb/>85 soliders. A little before we entered the town of <lb/>Moree, where the savages, between 2 and 3,000 in <lb/>number, were assembled, we saw the mangled remains <lb/>of their unforunate victim. The town stands near the <lb/>top of a hill, on the summit of which is an old Dutch <lb/>Fort. As soon as we entered the town, a fire was <lb/>opened upon us ; but as my orders were to seize the <lb/>murderer, if possible, without bloodshed, I did not for <lb/>some time allow the men to return the fire. However, <lb/>perceiving they were resolved to oppose us, I gave di<lb break="no"/>rections to my little party to give them a volley and <lb/>then to charge. The negroes retired as we advanced, <lb/>and in less than an hour we gained the hill, from which <lb/>our opponents fled in every firection. We demanded <lb/>the keys of the fort from the principal man belonging <lb/>to Moree ; who not being engaged in the affair had re<lb break="no"/>mained, and who immediately gave them up. In the <lb/>fort, which has a draw-bridge, we were perfectly se<lb break="no"/>cure from the attack of the negroes. The body we de<lb break="no"/>feated were Fantees, who were assembled to assist the <lb/>Ashantees in enforcing some very unjust demands <lb/>made by them on the people of Cape Coast. As soon <lb/>as the Ashantees, who reside near Cape Coast, learned <lb/>that the Governor had sent an armed force against their <lb/>friends, their drum beat to arms, and they hastened <lb/>after us ; fortunately we had defeated our opponents <lb/>before they arrived. However, they rallied the Fan<lb break="no"/>tees, and took a position about half a mile from the <lb/>town, with a determination to oppose our little party. <lb/>The Governor, apprised of our situation, assembled <lb/>all the forces he could muster, and speedily about 500 <lb/>of the Cape Coast people, headed by our officers, and <lb/>carrying the British flag, were seen approaching. The <lb/>enemy immediatel retired, and we were relieved from <lb/>our disagreeable situation, after having been from nine <lb/>in the morning till four in the afternoon exposed to a <lb/>burning sun, without refreshment. The negroes had <lb/>47 killed, and upwards of 100 wounded in this affair ; <lb/>we had one soldier killed, and four wounded. Since <lb/>the affair, we have not seen one of the Ashantees or the <lb/>Fantees here ; and a total stoppage of trade has taken <lb/>place. We have not learned how the King of Ashan<lb break="no"/>tee intends to act, nor is it safe to venture out of our <lb/>limits, except in large parties.</p>
+                <p>
+               <hi rend="smallcaps">New South Shetland</hi> –The Lord Melville, J. <lb/>Clark, master has arrived in the London Docks from <lb/>the New South Shetland fishery, which he left on the <lb/>31st of March, having on board the following persons, <lb/>belogning to the crews of the undermentioned vessels, <lb/>which had been wrecked, and whom he landed at <lb/>Buenos Ayres, on the 21st of April, viz.</p>
+                <p>From the Hannah, Captain Johnson–J. Knowles <lb/>(cooper), R. Thompson (joiner), J. Colditch, W. <lb/>Jones, T. Lewis, H. Pearman, J. Boyd, A. Pringle, <lb/>R. Richards, and W. Martin.</p>
+                <p>From the Minerva, Captain Burn–J. Stephens, R. <lb/>Pearson, J. Collilice, W. Wisslock, W. Pile, and J. <lb/>Wallar.</p>
+                <p>From the Lady Troubridge, Captain Sherrard–J. <lb/>Forsham (first mate), D. Humphreys (seaman), J. <lb/>Wolin, G. Martin, G. Inglefield, M. Swallow, T. <lb/>Williams, J. Parsonage, W. Rome, W. Dead, J. <lb/>Williams and J. Williams.</p>
+                <p>Captain Clark, also carried to Buenos Ayres the <lb/>crew of the American schooner Venus, Capt. Nappue. <lb/>He sailed from the River Plate on the 28th of April, <lb/>and reached the Downs on the 31st ult. Capt. Clark <lb/>left a small colony at Easter Harbour, consisting of <lb/>the following individuals:–R. Gibbs, of London <lb/>first officer of the Lord Melville ; G. Robertson, of <lb/>Hamburgh, second officer of the Minerva, a vessel re<lb break="no"/>ported lost, but since arrived in the Brazils ; J. Jor<lb break="no"/>nan, of Leith, boatswain of the Lord Melville ; P. <lb/>Howson, of Carron, carpenter ; J. Lockey, of Essex ; <lb/>J. Semple, of Dundee ; J. Ash, of Liverpool ; J. <lb/>Wares, a Portuguese ; William South of Aberden ; <lb/>J. Roberts, of Liverpool ; and J. Havers, of Har<lb break="no"/>wich, seamen.–They were left in good health and <lb/>spirits, with a stock of twelve months provisions, and <lb/>all the materials necessary for erecting three or four <lb/>houses.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>184</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-10-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>
+               <hi rend="smallcaps">Alarming Fires in the Woods of Main and </hi>
+               <lb/>
+               <hi rend="smallcaps">New Brunswick</hi>.–A gentleman, who arrived here on <lb/>Thursday, in the schooner Active, from Eastport, in<lb break="no"/>forms, that the drought in the neighbourhood of St. <lb/>Croix river, the present season, has been unusually <lb/>severe, and that the fires in the woods have raged to a <lb/>more alarming extent than ever before known. Se<lb break="no"/>veral buildings have been burnt at the parish of St. <lb/>Stephen's on the British side of the river, others were <lb/>saved with a great difficulty. From Calais to Eastport, <lb/>about a fortnight since, the vessel in which our infor<lb break="no"/>mant took passage was entirely enveloped in smoke.– <lb/>In various places, the fires have been burning for six <lb/>weeks ; there had been no rain for eight weeks to wet <lb/>the ground.– <hi rend="italic">Boston Paper</hi>.</p>
+                <p>Extract of a letter to a Lady in the vicinity of <lb/>Chelmsford, dated New Essex, Graham's Town, on <lb/>the frontiers of Africa, June 21, 1821:–</p>
+                <p>"I am seven hundred miles from the Cape <lb/>of Good Hope, and should not receive intelligence of <lb/>an arrival there for at least three weeks ; but my cor<lb break="no"/>respondent at Cape Town will procure comfortable <lb/>lodgings, &amp;c. until a ship sails for Algoa Bay, which <lb/>is distant from me one hundred and thirty miles.– <lb/>Few ships from England proceed farther than the <lb/>Cape. Good ploughmen are wanted, and good foot<lb break="no"/>ploughs, with spare wrought-iron shares and coulters, <lb/>which are very expensive here ; iron-work nothing <lb/>under 1s. per lb. Ransome's ploughs sell for 14l. <lb/>each. Ploughmen will find plenty of employers, at <lb/>from 2l. to 8l. per month and their board. Meat <lb/>sells at 2d. per lb ; wheat 12s. bushel ; and bar<lb break="no"/>ley 6s. Other articles of housekeeping are about the <lb/>same price as in England ; but, on the other hand, we <lb/>are in one of the healthiest climates in the world, and <lb/>free from rent, tithes, and taxes of every descrip<lb break="no"/>tion. Any one may live here as well with 500l. as in <lb/>his native land with 5000l. The farming work is still[?] <lb/>done with oxen, which are very fine, and bought at <lb/>3l. each ; cows are 30s. ; and sheep, 6s. a-head (hav<lb break="no"/>ing tails that weight 8lb., a complete lump of fat) ; <lb/>clothes, linen, and all English goods, very dear.– <lb/>Good mechanics, of any description, have very high <lb/>wages. A cargo of Ladies would make a good specu<lb break="no"/>lation, in proceeding to the New Settlement ; for all <lb/>that came out with the settlers have got husbands."</p>
+                <p>By letters received from the Cape of Good Hope, <lb/>we understand that the Royal African corps was dis<lb break="no"/>banded there on the 26th of June last.</p>
+                <p>By letters from Bombay, dated the 24 of May, <lb/>we learn that the Governor, the Honourable Mr. El<lb break="no"/>phinstone, has returned to the Presidency, after a five <lb/>months' tour to the northward. He must minutely <lb/>examined all the judicial and revenue systems–furnish<lb break="no"/>ing the Collectors and Agents of Government with par<lb break="no"/>ticular instructions for their guidance. He also sent <lb/>out strong detachments to reduce some predatory hordes <lb/>who have long plundered the country, and been a ter<lb break="no"/>ror to the peaceable natives. Those plunderers are <lb/>are called Bheels[?]. They live in the hills and woods, and <lb/>descend in bands to commit their depredations. By <lb/>these letters we learn, what is essential for young men <lb/>going out to India to know, that Writers and Cadets <lb/>now undergo an examination as to their knowledge of <lb/>the native languages ; and no youth has a chance of <lb/>success who is ignorant of the Hindoustanee[?]. The <lb/>highest respect is entertained for the able manner in <lb/>which the disinterested Dr. Gilchrist prepares young <lb/>men for the services. We rejoice to learn that the <lb/>Cholera Morbus has abated its rigour in the Deccan.</p>
+                <p>Batavia journals of the 28th April give an account <lb/>of a terrible earthquake which took place on the 29th <lb/>December last, on the south coast of Celebes. It did <lb/>immense damage, especially at Budekomba[?], where <lb/>the sea rose several times to a prodigious height, and <lb/>then falling in with the incredible rapidity, alternately <lb/>deluged and left the shore, destroying all the planta<lb break="no"/>tions from Bontain to Boelekomba[?]. Many hundred <lb/>have lost their lives. The fort of Boelekom-[?] <lb/>ba was much damaged, that of Bontain less so. On <lb/>the 4th of January this year, there was another shock <lb/>of an earthquake, but we do not learn that it did any <lb/>damage. <cb/>It is with much regret we lay before our readers the <lb/>following details of a most calamitous fire which broke <lb/>out at Halifax, Nova Scotia, on the 17th ult. :</p>
+                <p>" <hi rend="smallcaps">Halifax</hi>, Sept. 17. <lb/>"The conflagration this morning was one of the <lb/>most awful and destructive every witness in Halifax. <lb/>It originated in Sackville-street, in the Bakery occu<lb break="no"/>pied by Shay and Milany, and before it was discover<lb break="no"/>ed, had gained an alarming height. It was near two <lb/>o'clock when the bells were rung. The troops, sea<lb break="no"/>mean of his Majesty's ships, and inhabitants, soon as<lb break="no"/>sembled ; the engines were judiciously placed, lines <lb/>formed to different reservoirs of water, and every exer<lb break="no"/>tion made to extinguish the fire, but we regret to state, <lb/>that before any check could be given to it, the whole <lb/>block of buildings, with the exception of a house situ<lb break="no"/>ated at the corner of Sackville and Blowers'-streets, <lb/>occupied by Mr H. Croskill, the houses occupied by <lb/>Mrs. Neilson and Mr T. Muirhead, on Barrington<lb break="no"/>street, and a stable belonging to J. W. Johnston, Esq. <lb/>in Granville-street, were consumed.</p>
+                <p>"For some time great apprehensions were entertain<lb break="no"/>tained that the fire would extend to the houses on the op<lb break="no"/>posite side of the streets, but fortunately it did not. <lb/>Of the property burnt only about t1500 were insured, <lb/>and the calamity has mostly fallen where it will long <lb/>be severely felt–upon windows and orphan children– <lb/>upon industrious tradesmen, whose whole stock of <lb/>worldly wealth was invested in the tenements they oc<lb break="no"/>cupied.</p>
+                <p>"To the troops, and the seamen of the ships of war, <lb/>the town is, as usual, greatly indebted for the exertions <lb/>made by them. Twenty-one houses were consumed, <lb/>with other valuable property."</p>
+                <p>America appears to be very unhealthy just now– <lb/>The accounts from Long Island, Baltimore, Amelia <lb/>Island, and Norfolk, are extremely calamitous. The <lb/>whole of Amelia Island is a perfect hospital, not one <lb/>family being well, and in many instances not one to <lb/>assist another. So dreadful, indeed, is the disease, <lb/>that there is not one sentinel to do duty. A New <lb/>York Paper of the 30th ult. says–</p>
+                <p>We are sorry to perceive from the <hi rend="italic">Franklin Gazette</hi>, <lb/>that the malignant fever continues to make serious ra<lb break="no"/>vages among our fellow citizens at Baltimore. Four <lb/>full victims to it in the 24 hours ending on Sunday <lb/>morning ; and six during the 24 hours ending Monday <lb/>morning.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>185</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-11-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>In our last paper, we gave, from the Jamaiza Ga<lb break="no"/>zettes, an account of the dreadful drought which had <lb/>prevailed in that island for more than twelve months <lb/>and the consequences of which had been most calami<lb break="no"/>tous. We are now, however, most happy, in being <lb/>able to state, upon the authority of a Gentleman who <lb/>left Jamaica some days subsequently to the date of our <lb/>preceding advices, that this terible evil, in such a cli<lb break="no"/>mate particularly, had at length ceased. The follow<lb break="no"/>ing is the substance of the information which has been <lb/>communicated to us:–</p>
+                <p>"A few hours previous to my going on board the <lb/>Jamaica packet, on the 3d of September, the rain fell <lb/>in such torrents as to flood the streets of Kingston to <lb/>the depth of two feet, and it seemed to be general <lb/>throughout the district of Liguanea.</p>
+                <p>"Though too late to save the crop of sugar for the <lb/>present, or, perhaps, the ensuing year, this seasonable <lb/>change of weather would at least have the effect of <lb/>staying the mortality among the cattle. As such, those <lb/>interested in the island will receive the intelligence <lb/>with gratification. On some properties, the canes had <lb/>been cut as fodder to save the stock."</p>
+                <p>We have the Cape of Good Hope papers to the 6th Au<lb break="no"/>gust, and as they are unusually barren in their con<lb break="no"/>tents, it is fair to infer that every thing was proceeding <lb/>there in a satisfactory manner. The only article of <lb/>the slightest interest relates to the change the Governor <lb/>is gradually effecting in the currency, by removing <lb/>from it all the base metal, and substituting gold and <lb/>silver of standard value.</p>
+                <p>The <hi rend="italic">Gazette of Dordrecht</hi>  publishes accounts from <lb/>Java to the 29th May. They confirm the statement of <lb/>the decrease of the malady, and mention, that it was <lb/>almost wholly subdued in the district of Samarang, <lb/>but that 18,000 persons, mostly Europeans, had fal<lb break="no"/>len victims. Batavia and Sourabaya were still in<lb break="no"/>fected.</p>
+                <p>
+               <hi rend="smallcaps">India</hi> –Extract of a letter from Calcutta, dated <lb/>June 20:–</p>
+                <p>"If the extension of foreign trading be considered with <lb/>you as a means suited to alleviate the pressure, and ease <lb/>the difficulties of Old England, which we read of here, <lb/>we imagine that India can furnish beneficial openings to <lb/>this kind of remedy. The use of articles of British pro<lb break="no"/>duction and exports is gaining ground rapidly here ; the <lb/>English printed cottons are now carried in considerable <lb/>quantities as far as Rajpootha, and find a ready sale, if <lb/>they be of handsome patterns. The warehouses now are <lb/>so far from being overstocked, that before the arrival of <lb/>two vessels from England in the last fortnight, all Euro<lb break="no"/>pean articles were exorbitantly high ; mustard flour sold <lb/>about 20s. a pound ; cheese 1[?] ; ham, three half crowns <lb/>the ld ; a common round hat, three guineas. These, <lb/>undoubtedly, were prices arising from an unusual scarci<lb break="no"/>ty ; but it surely cannot be so very bad a trading, <lb/>which admits, even, indicidentally, of such an exaggera<lb break="no"/>tion of price and profit. Government bonds are now at <lb/>six per cent premium, though they bear but half the <lb/>usual or legal interest of the country. This is a tolerable <lb/>evidence of the credit of the Company and the Govern<lb break="no"/>ment. There is a great and increasing prosperity in Hin<lb break="no"/>dostan. The augmented cultivation of the Upper Pro<lb break="no"/>vinces within these two years is surprising.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>186</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1821-02-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>agriculture</item>
+                            <item>colonial economy</item>
+                            <item>colonial government</item>
+                            <item>land speculation</item>
+                            <item>prices</item>
+                            <item>taxation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration</hi>.</p>
+                <p>The following is an extract of a letter dated <lb/>Louisville, August 12th, 1820, from a Scotchman <lb/>who has been long settled in America, to his friend, <lb/>a Scotch Farmer, who rents 500 acres of land in the <lb/>County of Middlesex.</p>
+                <p>"The circumstances in which this country is <lb/>placed at present are truly melancholy, when com<lb break="no"/>pared to what they have been ; yet still it is a better <lb/>country to live in than Britain. It is not easy to <lb/>make money by farming, at present, in the United <lb/>States, for the want of a market; and I am of opi<lb break="no"/>nion that things will not mend, in this respect, for <lb/>some years, for all are sellers and none buyers. All <lb/>kinds of produce are selling, or rather offered for <lb/>sale, at one-third of what prices were two years ago. <lb/>Land, of course, has fallen in the same ratio. The <lb/>best of cleared land, within from 5 to 10 miles of <lb/>this town, is offered for them from 10 to 20 dollars an <lb/>acre. You will thence conclude that this is a fa<lb break="no"/>vourable time to purchase – and that for a man <lb/>who has a little money, and a large family able and <lb/>willing to labour with their hands, this is a most <lb/>excellent country, as he can easily raise on this cheap <lb/>land all the necessaries, and many of the luxuries, of <lb/>life. He will find it difficult to get gold or silver, <lb/>or even our own bad bank notes; but a man cannot <lb/>be badly off with more beef, mutton, pork and <lb/>grain, than he can dispose of. He has no rent to <lb/>make up by term day: his taxes are next to no<lb break="no"/>thing, and although he may grumble to have to turn <lb/>his pigs into his corn field to save the expense of reap<lb break="no"/>ing it, or to see his apples rotting under his trees by <lb/>barn-fulls because he has not room or use for them, <lb/>yet still these are beatable distresses compared to those <lb/>of the poor farmers in our native land, and as I sup<lb break="no"/>pose in England. To the wealthier farmer the change <lb/>is not beneficial or desirable. It is true that if he <lb/>stays long in Britain he will soon become less weal<lb break="no"/>thy; yet still he would for some time regret the change. <lb/>He would miss many things made necessary by habit; <lb/>he would find his servants more lazy, and less obe<lb break="no"/>dient ; and he would even experience pain because the <lb/>modes of farming he is accustomed to will not do <lb/>here; but when he gets over these things, he <lb/>will find the advantage of the change. To say no<lb break="no"/>thing of the difference of the Government, and the sat<lb break="no"/>isfaction of chusing one's own rulers, there are many <lb/>desirable things here. I estimate, as the greatest, <lb/>the ease of providing for one's family. A man may, <lb/>with very little exertion, leave to all his children <lb/>land enough to make them independent. Hence that <lb/>sickening anxiety about the future fate of a family <lb/>is little known here."</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

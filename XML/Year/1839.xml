@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>275</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>. Keyword tagged by <persName role="metadata">John Levin</persName>
+               </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-04-10"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>transportation</item>
+                            <item>religion</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">The Wesleyan Mission Ship.</hi> –The Committee <lb/>of this Society have purchased a vessel, to be employed <lb/>exclusively under their direction in conveying mission<lb break="no"/>aries and stores between the colonies of New South <lb/>Wales and Van Dieman's Land, the Friendly Islands, <lb/>the Fejees, and other groups and islands of the Great <lb/>South Pacific Ocean.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>276</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-04-03"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>land speculation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonel Wyndham has sent out a commission to <lb/>Canada to purchase an estate of 10,000 acres, and <lb/>intends furnishing the same assistance to persons <lb/>desirous of emigrating from his estates to Australia <lb/>and Canada, as was given by the late Earl of Egre<lb break="no"/>mont.– <hi rend="italic">Morning Herald.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>277</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-05-11"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>land speculation</item>
+                            <item>shipping news</item>
+                            <item>Pacific Islanders</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">New Zealand.</hi> –A vessel selected to carry out <lb/>emigrants to New Zealand, under the auspices of a <lb/>company formed in this country, will sail in about a <lb/>fortnight. She is called the <hi rend="italic">Tory</hi>, and measures <lb/>about 480 tons. A <hi rend="italic">dejeuner</hi>  was given on Saturday <lb/>by the proprietors on board, in the West India Docks, <lb/>at which Lord Durham, Lord Petre, Sir G. Sinclair <lb/>and several other distinguished persons were present. <lb/>She is a fine vessel, well armed, and ample prepara<lb break="no"/>tions have been made for the voyage. The company <lb/>have purchased 600,000 acres of land from the native <lb/>chiefs.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>278</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-06-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>obituary</item>
+                            <item>religion</item>
+                            <item>botany</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Daryanthus Excelsa</hi> –This most magnificent <lb/>and gigantic plant is now in full bloom in one of the <lb/>hothouses at Dunkeld gardens. It is a native of New <lb/>South Wales, and to be met with in this country in <lb/>very few collections–this being the third plant of the <lb/>kind that has flowered in Great Britain. It is one of <lb/>the four plants which were sent from New Holland to <lb/>the Duchess of Atholl, twelve years ago, and the only <lb/>one that has survived the voyage. The seapus or <lb/>stem is upwards of twelve feet in heigh, from the top <lb/>of which diverge seven stalks, each bearing nine large <lb/>flowers of a deep crimson and pink colour. The for<lb break="no"/>mation of the stalks and outer petals of the flower, re<lb break="no"/>mind one of the Crinum Amabile, but much larger. <lb/>We had no communication as a guide to its culture, <lb/>but kept it at all times, and in all season, associated <lb/>with the most hardy green-houseplants.– <hi rend="italic">Dunkeld </hi>
+               <lb/>
+               <hi rend="italic">Gardens, 24th May.</hi>
+            </p>
+                <p>By the death of Sir James Montgomery, the office <lb/>of Presenter of Signatures in Scotland has become va<lb break="no"/>cant. We understand that this office is no longer to <lb/>be conducted by deputy.</p>
+                <p>On Thursday the 23d ult. the United Associate <lb/>Congregation, Kendal, gave a unanimous call to Mr <lb/>William Ritchie, preacher, to be their pastor.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>279</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>. Keyword tagged by <persName role="metadata">Bill Peschel</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-10"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>shipping news</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The ship St Mungo, Captain Robert Smith Orr, <lb/>sailed from Leith Roads on Thursday forenoon last, <lb/>bound to Port Philip and Sydney, New South Wales, <lb/>having on board fifty-eight passengers, chiefly settlers <lb/>for the former of these settlements.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>280</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>accidents</item>
+                            <item>emigration</item>
+                            <item>shipwreck</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Collision at Sea.</hi> –We are sorry to learn that <lb/>the fine new ship Palmyra, which sailed from Green<lb break="no"/>ock on her first voyage for Sydney, New South Wales, <lb/>on Wednesday week, having a large number of re<lb break="no"/>spectable emigrants on board, came in dreadful colli<lb break="no"/>sion when at sea, on Sunday evening, with another <lb/>vessel, and had her bulwark driven in and some of <lb/>the masts dismantled, but providentially no lives were <lb/>lost. She was towed back to Greenock on Wednes<lb break="no"/>day morning, and the utmost exertions are making <lb/>for her re-sailing from Greenock early next week.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>281</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-25"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration to South Australia,</hi> –On Satur<lb break="no"/>day last, about twenty-five persons, male and female, <lb/>left this town and neighbourhood, under the direction <lb/>of Mr G. Rae, agent for her Majesty's Colonisation <lb/>Commissioners for South Australia, and sailed that <lb/>afternoon from Leith to London, to be there embarked <lb/>on board the Lloyds, and were to sail for their adopted <lb/>land on Thursday last. Their passage was paid by <lb/>the Commissioner from Leith to London.– <hi rend="italic">Stirling </hi>
+               <lb/>
+               <hi rend="italic">Observer.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>282</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Meeting on Emigration in Dublin.</hi> –One of <lb/>the largest and msot influential meetings that we ever <lb/>remember, says the <hi rend="italic">Dublin Monitor</hi>  of Thursday, took <lb/>place on Wednesday, at the Rotunda, to form an As<lb break="no"/>sociation for the Promotion of Emigration to South <lb/>Australia. In rank and numbers it was not surpassed. <lb/>There could not be less than two thousand persons in <lb/>the room. Colonel Torrens dwelt at considerable <lb/>length on the causes of Irish misery, and proved fully, <lb/>at least to our satisfaction, that a powerful and effi<lb break="no"/>cacious remedy was applicable in the objects of the <lb/>meeting. The subject seemed to tell powerfully on <lb/>the meeting ; the speakers were heard with great at<lb break="no"/>tention, and the applauses they received told that the <lb/>public feeling was deeply identified with the future <lb/>colony of New Ireland.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>283</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Australia.</hi> –The splendid ship Superb, Captain <lb/>Shannon, 1000 tons burthen, left Greenock on Satur<lb break="no"/>day morning last, with 160 passengers and a valuable <lb/>cargo of goods. A very considerable number of the <lb/>passengers were from East Lothian, who all expressed <lb/>themselves highly gratified with their accommodation. <lb/>The owners, Messrs Andrew Steward &amp; Co., spared <lb/>no expense which might add to the comfort of the <lb/>emigrants ; and the kind of attentions of Mr Adamson, <lb/>Colonization Company's agent, were much appreciated <lb/>by them all [?]</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>284</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-06"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">A Man Shot.</hi> –On Tuesday evening a deliverate <lb/>attempt at murder by shooting took palce at Greenock. <lb/>A young man from Edinburgh, an intended emigrant <lb/>for New South Wales, by the Palmyra, drew from his <lb/>pocked a pistol, and shot in the head a person who had <lb/>been appointed by his friends to see him on board, and <lb/>to look to his affairs before the sailing of the vessel. <lb/>The wounded man was taken to the Infirmary in a <lb/>very dangerous state, and the assailant to the jail. <lb/>It appears that the young man has for some time past <lb/>been behaving in a manner which made his friends <lb/>chary of intrusting him with money in this country, <lb/>and that they had employed the individual referred to, <lb/>to see him on board for Australia, before leaving any <lb/>under his charge. This indignity is supposed to have <lb/>lain heavy on his mind, and led to the commission of <lb/>the act above recorded.– <hi rend="italic">Ibid.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>285</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-08-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">First Scotch Colony for New Zealand</hi> – <lb/>A numerous party of emigrants, under this title, are <lb/>now making the necessary arrangements for embark<lb break="no"/>ing in the Bengal Merchant, to sail from Greenock <lb/>in September. The committee for the west of Scot<lb break="no"/>land, and their agents, are now employed in selecting <lb/>eligible persons as settlers, and, judging from the <lb/>number of applications, the directors will be called on <lb/>to send a second vessel from the Clyde. A clergy<lb break="no"/>man of the Scotch Church, who accompanies the <lb/>colony, will officiate as chaplain on board. It is in<lb break="no"/>tended that the Clude shall be made the principal <lb/>shipping port of Scotland for New Zealand, and that <lb/>the strictest regulations shall be put in force in order <lb/>to ensure the comfort, safety, and convenience of the <lb/>passengers.– <hi rend="italic">New Zealand Gazette.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>286</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-09-11"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Selected Poetry</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">The Woodland, </hi>
+               <lb/>
+               <hi rend="smallcaps">By the Late Robert Nicoll.</hi>
+            </p>
+                <p>The woodland wild ! – wilt thou go with me, <lb/>Where the squirrel is perchen on his oaken tree,– <lb/>where the yellow fern doth wave its head,– <lb/>Where the hands of night the dew hath laid,– <lb/>And the winds, that wander to and fro, <lb/>Kiss the brown leaflets as they go,– <lb/>Where the morning sun peeps in, so mild, <lb/>To the dark green nooks of the woodland wild ? <lb/>The woodland wild ! –where the dun deer roam, <lb/>And the song-birds build them a happy home,– <lb/>Where the grass is green, and the turf so sweet, <lb/>Seems shorn by the tread of fairy feet,– <lb/>Where the daylight comes, so richly dim, <lb/>And the cushat's coo seems a hermit's hymn, <lb/>The care-worn heart might be self-beguiled <lb/>To forget its woes in the woodland wild ! <lb/>The woodland wild ! –where the hazels grow, <lb/>Where the ladye-broom doth its branches throw,– <lb/>Where the God-built sky is in patches seen <lb/>Through the roof of leaves. There aye hath been <lb/>The home of those wild and fairy flowers <lb/>That gladden all Nature's life and ours, <lb/>As they bloom by the stream,–that prattling child, <lb/>That wanders along through the woodland wild ! <lb/>The woodland wild !–If thy heart be pure, <lb/>If thy faith in the right be firm and sure, <lb/>Go, wander the woodlands parth within, <lb/>And the love of Nature woo and win; <lb/>Drink of the cup of beauty there, <lb/>Where the breath of Omnipotence scents the air; <lb/>For the Father of beauty in love hath smiled <lb/>On the sweet green bowers of the woodland wild <lb/>The woodlan wild !–long, long ago, <lb/>I have buried myself its leaves below, <lb/>And dreamed of its beauteous tenants all,– <lb/>'Tis the linnet's home and fairies' hall! <lb/>'Tis the spot where the wondrous monk of old, <lb/>His hermitage reared in the pleasant wold; <lb/>By its door a crystal springlet boiled, <lb/>For the pilgrim to drink, in the woodlan wild! <lb/>The woodland wild !–what pleasant stories <lb/>Make sunlight over its olden glories,– <lb/>Of Robin Hood and his bowmen bold, <lb/>The raids they made, and the tales they told ! <lb/>In winter, in spring, and in summer time, <lb/>The glorious forests are aye in prime ; <lb/>For glad thoughts forever are round them piled, <lb/>Those grassy glades in the woodland wild! <lb/>The woodland wild!–make haste.–make haste! <lb/>Away with me, and its gladness taste; <lb/>We will wander beside each gushing stream, <lb/>Where flowers in the water reflected gleam; <lb/>We will follow its paths and pluck its flowers, <lb/>And lie on its grass in the evening hours, <lb/>Till the dying sunlight, soft and mild, <lb/>Warns us away from the woodland wild ! <lb/>
+               <hi rend="italic">Tail's Magazine</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Song of the Emigrants to New Zealand </hi>
+               <lb/>
+               <hi rend="smallcaps">Steer</hi>, helmsman, till you steer our way <lb/>By stars beyond the line– <lb/>We go to found a realm–one day– <lb/>Like England's self to shine. <lb/>
+               <hi rend="italic">Chorus. </hi>
+               <lb/>Cheer up ! Cheer up! our course we'll keep <lb/>With dauntless heart and hand, <lb/>And when we've ploughed the stormy deep <lb/>We'll plough a smiling land. <lb/>A land whose beauties importune <lb/>The Briton to its bowers, <lb/>To sow but plenty's seeds and prune <lb/>Luxuriant fruits and flowers, <lb/>
+               <hi rend="italic">Chorus</hi> –Cheer up ! cheer up ! <lb/>There tracts uncheered[?] by human words, <lb/>Seclusion's wildest holds, <lb/>Shall hear the lowing of our herds, <lb/>The tinkling of our folds, <lb/>
+               <hi rend="italic">Chorus</hi> –Cheer up ! cheer up ! <lb/>Like rubies set in gold shall blush <lb/>Our vineyards girt with corn, <lb/>And wine, and oil, and gladness gush <lb/>From Amalthea's horn. <lb/>
+               <hi rend="italic">Chorus</hi> –Cheer up ! cheer up ! <lb/>Britannia's pride is in our hearts, <lb/>Her blood is in our veins, <lb/>We'll girdle earth with British arts, <lb/>Like Ariel's magic chains, <lb/>
+               <hi rend="italic">Chorus. </hi>
+               <lb/>Cheer up ! cheer up ! our course we'll keep <lb/>With dauntless heart and hand, <lb/>And when we've ploughed the stormy deep <lb/>We'll plough a smiling land. <lb/>
+               <hi rend="smallcaps">T. Campbell </hi>
+               <lb/>London, 16th August, 1839.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>287</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-09-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>shipping news</item>
+                            <item>emigration</item>
+                            <item>accidents</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Leith</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">Thursday</hi>  afternoon the splendid ship Indus, <lb/>which has been some time in the docks, sailed with a <lb/>full cargo and about sixty settlers, for Port Adelaide <lb/>and Philip, South Australia. The Indus has been <lb/>fitted up in that style of elegance and comfort, for <lb/>which the agents, Messrs Broadfoot and Son, are so <lb/>celebrated. The passengers consist of a number of <lb/>respectable individuals of various professions, the <lb/>greater bulk of whom are agricultural labourers, sent <lb/>out by Messrs Adamson and Co., agents for her Ma<lb break="no"/>jesty's Commissioners in South Australia.</p>
+                <p>On Wednesday forenoon a man fell from the deck <lb/>of the Royal William steam-ship, and had his thigh<lb break="no"/>bone broken, and was otherwise seriously bruised. <lb/>He was carried to the Dispensary Rooms, but upon <lb/>examining the nature of his injuries, the medical at<lb break="no"/>tendants recommended his removal to the Edinburgh <lb/>Royal Infirmary.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>288</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-11-23"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Church in New South Wales.</hi> –Dr Gordon, as <lb/>Convener of the committee to whom the dissensions <lb/>that at present existed among the Presbyterian churches <lb/>in Australia had been remitted by last Commission, stat<lb break="no"/>ed that the Committee had prepared a report ; but <lb/>that since it was made up, several important documents <lb/>had come to hand, which, in justice to Dr Lang, ought <lb/>to be considered. He therefore asked leave to delay <lb/>the report, and to have the matter, with these docu<lb break="no"/>ments, recomitted to the committee.–This motion <lb/>was agreed to, on the understanding that the question <lb/>would be again taken up at the meeting of the Commis<lb break="no"/>sion on the 11th December.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>289</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-11-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>charity</item>
+                            <item>economic migration</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Afflicting Case of Destitution.</hi> –Some <lb/>time ago a vessel was advertised to sail from this port <lb/>for Australia, and to take out Government settlers free <lb/>of expense. A family in Shetland, consisting of the <lb/>husband, wife, and six of a young family, sold off their <lb/>effects and came to Leith for the purpose of availing <lb/>themselves of this opportunity to settle in the above <lb/>colony. On applying to the agent, however, they were <lb/>informed that they did not come under the description <lb/>of persons wanted. Since, therefore, they have <lb/>lived in Leith till their little all has been exhausted, <lb/>and the husband, from the combined effects of disap<lb break="no"/>pointment and want, has been thrown upon a sick-bed, <lb/>and the whole family are literally in a state of starvation. <lb/>Several private individuals, with a benevolence that <lb/>does them the highest credit, have temporarily sup<lb break="no"/>plied their wants ; but the hands of private charity is <lb/>soon crippled, and unless something else be immedi<lb break="no"/>ately done, we may have soon to report one or more of <lb/>their deaths from the actual want of the necessaries of <lb/>life. The object of the present notice therefore is to <lb/>draw forth the sympathies of the charitable, to relive a <lb/>family thus suddenly involved in want and misery, who, <lb/>from their industrious habits and every way excellent <lb/>characters, left their native home with the good wishes <lb/>of all their friends. Any donations, either in money <lb/>or clothes, will be thankfully received by Mr Andrew <lb/>Spence, of the firm of Messrs Cunninham &amp; Spence, <lb/>No. 62, Tolbooth-wynd, Leith.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

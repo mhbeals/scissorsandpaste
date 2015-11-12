@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>99</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-02-10"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="3"/> The whole expenditure of the American States <lb/>on all establishments, civil and military, did not a<lb break="no"/>mount, in the last year, to 180,000l.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>100</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-02-14"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>transportation</item>
+                            <item>female emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>At four o'clock yesterday morning Mess. Muir, <lb/>Skirving, and Margarot, were taken from their <lb/>beds, without any previous notice, <hi rend="italic">hand-cuffed</hi>, and <lb/>put into a post-chaise, to be conveyed to Woolwich, <lb/>where a vessel waits to sail with them immediately <lb/>for Botany Bay.</p>
+                <p>Mr. Palmer has, we understood, been sent from <lb/>on board the hulks, in the same manner, to take <lb/>his passage on board the same vessel.</p>
+                <p>Between 10 and 11 o'clock, about sixty female <lb/>convicts were put on board a vessel at Blackfriars <lb/>bridge, destined to the same voyage. These latter <lb/>behaved in a most turbulent manner and even <lb/>fought in the hold of the boat. There were among <lb/>them one or two well dressed women ; and what <lb/>was more lamentable in the eyes of the spectator, <lb/>some of had infants with them.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>101</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-02-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>theatre</item>
+                            <item>religion</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The Quakers of America have addressed an <lb/>humble Representation to the Legislative Body of <lb/>that country, praying that exhibitions, Preludes, <lb/>Interludes, yea, all <hi rend="italic">lewds</hi>  and stage-plays may be <lb/>discountenanced, pointing out their pernicious ten<lb break="no"/>dency in corrupting the morals of the People.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>97</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on 20130608 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141105 by
+ <persName role="transcription">
+                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                        </persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-09-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                            <item>crime</item>
+                            <item>abolition</item>
+                            <item>slavery</item>
+                            <item>colonial government</item>
+                            <item>Freemasons</item>
+                            <item>religion</item>
+                            <item>military</item>
+                            <item>currency</item>
+                            <item>navy</item>
+                            <item>wages</item>
+                            <item>census</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="1"/> The laws of the State of Pennsylvania, and that of <lb/>Massachusetts, by which the punishment of death is abo<lb break="no"/>lished, in all cases except for wilful murder, are about <lb/>to be adopted by the respective Legislatures of all the <lb/>other States. The system of the great and merciful<supplied reason="copy blur">???</supplied>
+               <lb break="no"/>caria, has taken place of the sanguinary Penal laws of <lb/>England.</p>
+                <p>The abolition ofNegro slavery, which has taken shape <lb/>in the five New England States of New Hampshire, <lb/>Massachusets, Rhode island, Connecticut, and Vermont; <lb/>in the Midland States of New York, New Jersey, Penn<lb break="no"/>sylvania, and Delawar; and in the Western State of <lb/>Kentucky, for several years past is now extended, by act <lb/>of Congress to the Southern States of Virginia, North <lb/>Carolina, South Carolina, Georgia, and Maryland; and <lb/>the emancipation of the remainder of that unfortunate <lb/>race of men is to take place on or before the fifth of No<lb break="no"/>vember, 1795.</p>
+                <p>The Legislature of the State of Massachusetts has g<supplied reason="copy blur">???</supplied>
+               <lb break="no"/>ed a part of the public lands to the emancipated Negroes <lb/>of that State, in proportion to the numbers of the re<lb break="no"/>spective families, where the liberal and philanthropic <lb/>mind is gratified, by seeing them erect villages cultivate <lb/>farms, and form communities of civilized Societies.</p>
+                <p>Before the Gentleman, who has favoured us with this <lb/>Intelligence, left America, they had established a Lodge <lb/>of Masonry; and he had the satisfaction of seeing them <lb/>on a grand day, parade to Church in all the magnifi<lb break="no"/>cence of the Order, where a sermon was preached, on <lb/>the occasion, by one of their own colour. They have <lb/>also endowed public schools, employed<supplied reason="copy blur">???</supplied> and <lb/>erected places of Public Worship.</p>
+                <p>The Officers, Non-commissioned Officers, and Soldiers, <lb/>who served in the Continental army and established the <lb/>Liberty of their Country, have at last received a reward, <lb/>infinitely beyond their expectations, but every way cor<lb break="no"/>responding with the liberty of a great and rising Republic.</p>
+                <p>Five hundred acres of land have been voted by Con<lb break="no"/>gress, this last Session, to each individual, who served <lb/>throughout the war; and to the defendants of those <lb/>who fell in contending for the Rights of Nature, and e<lb break="no"/>equal proportion to those who served for a shorter period; <lb/>and to prevent its being sold at a price under its real <lb/>value, to the injury of the Patriotic Veteran, as has <lb/>been the case of former grants, he is allowed his option <lb/>of taking its value in sterling money, at the present <lb/>market price, from the Treasure of the States; or any <lb/>part in land, and the rest in money,a s may be most <lb/>agreeable to the receiver.</p>
+                <p>The Mint of the United States, which was establish<lb break="no"/>ed two years since, has begun to issue its hold and silver <lb/>coin: the copper has been delivered some time. The <lb/>gold coins are eagles, half eagles, and quarter eagles.</p>
+                <p>The first is exactly five and forty shillings, English <lb/>money, or ten American coin.</p>
+                <p>The dollars are coined in the same divisions of half, <lb/>and quater, which makes the courie of exchange simple, <lb/>and suits the reckoning to a very capacity–as our Read<lb break="no"/>ers will perceive, that ten quarter dollars make the quar<lb break="no"/>ter eagle; ten half dollars the half eagle; and ten dol<lb break="no"/>lars the eagle.</p>
+                <p>There is, besides, one more silver coin, which is cal<lb break="no"/>led a Dime, and is the tenth part of a dollar.</p>
+                <p>The copper coin is called a Cent, and is the tenth <lb/>part of a Dime.</p>
+                <p>Six of the ships of war, which were voted by Con<lb break="no"/>gress in November last, are completed and put in com<lb break="no"/>mission: the remaining twenty four will be ready by <lb/>Midsummer next, and will complete a fleet of
+<supplied reason="copy blur">???</supplied> 
+               <lb/>hundred guns.</p>
+                <p>The city of Washington, which in five years more <lb/>will be the Capital of the United States, will in every <lb/>respect be the first in the world: the Capitol or Con<lb break="no"/>gress House is situated upon a beautiful eminence, and <lb/>c<supplied reason="copy blur">???</supplied> a full and complete view of every part of <lb/>the city, as well as a considerable extent of the country <lb/>around. The President's house likewise stands upon a <lb/>rising ground near the banks of the Potamac, possessing <lb/>a delightful water prospect, together with a commanding <lb/>view of the Capitol and some other material parts of the <lb/>city.</p>
+                <p>From the President's house to the Capitol, run two <lb/>great pleasure parks or malls, which intersect and ter<lb break="no"/>minate upon the banks of the Potomac, and are orna<lb break="no"/>mented at the sides by elegant buildings for Foreign Mi<lb break="no"/>nisters. The four fronts of the Capitol, as well as those <lb/>of the President's house, are of the finest marble. The <lb/>building of these superb edifices has been much retarded <lb/>by the want of stone cutters, masons, bricklayers, car<lb break="no"/>penters, and blacksmiths, who at this time actually re<lb break="no"/>ceive the enormous wages of ten shillings American <lb/>currency per day.</p>
+                <p>The district of Country at the back of North Caro<lb break="no"/>lina, reaching to the Mississippi, and covering a country <lb/>six hundred miles long by three hundred broad, is next <lb/>winter to be formed into a Sixteenth State; and the <lb/>Province of Maine, extending from the borders of New <lb/>Hampshire to the river St. Croix, is expected to form a <lb/>Seventeenth.</p>
+                <p>The new cities build in America since her indepen<lb break="no"/>dence are Grenville, in the State of Georgia; Marten<lb break="no"/>berg, the Capitol of North Carolina; Columbia, the <lb/>Capital of South Carolina; Noxville and Nashville, in <lb/>the Tenesee Settlements; Danville, Fairfield, and Lex<lb break="no"/> 
+               <lb/>ington, in the State of Kentucky; Washington, the <lb/>Capital of the United States; Sunbury, in the State of <lb/>Pennsylvania; Hudson, upon Husdon's River, and Coo<lb break="no"/>per's Town, in the State of New York; Bennington, in <lb/>the State of Vermont; and Paterson, in the State of <lb/>New Jersey. All the towns burnt by the English in the <lb/>was, have been rebuilt, and the old cities of Charlestown, <lb/>Baltimore, Philadelphia, New York, and Boston, have <lb/>been extended to more than double the extent they had <lb/>before the peace.</p>
+                <p>The population of the United States, by the last Cen<lb break="no"/>sus in 1790, was more than double what it was in 1775, <lb/>by which it appears, that America doubles her number <lb/>of people every fifteen years. The emigrations from <lb/>the different nations in Europe to that country, are esi<lb break="no"/>mated at one hundred and sixty thousand annually. The <lb/>increase of farms and villages has been so great as to <lb/>people four new States, and to extend their Settlements <lb/>from the Atlantic to the Ohio in the South, and from <lb/>the Atlantic to the Lakes on the River St. Lawrence in <lb/>the North.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>366</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-08">20130608
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2014-12-15"/> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="http://news.google.com/newspapers?id=ikpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6341%2C555484"> Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-01-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head n="London, England, United Kingdom"/>
+                <p>
+               <pb n="5"/>Letters from Quebec, dated Nov. 17, say, that <lb/>every thing was quiet in that province.</p>
+                <p>Some letters from Quebec were on Saturday re<lb break="no"/>ceived at the General Post Office, which state that <lb/>the American army under the command of General <lb/>Wayne had been routed by the Otoway Indians; an advanced party of 200 men had been entirely <lb/>cut off: his army consisted of 400 regulars and <lb/>2,000 volunteers.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>368</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-08">20130608
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-01-10">20150110</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="http://news.google.com/newspapers?id=q0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6300%2C5152642">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-07-25"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="advertise"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>land speculation</item>
+                            <item>settlement description</item>
+                            <item>newspapers</item>
+                            <item>agriculture</item>
+                            <item>taxation</item>
+                            <item>education</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head n="Glasgow, Scotland, United Kingdom">Glasgow.</head>
+                <p>
+               <pb n="8"/>
+               <hi rend="center">LANDS in AMERICA for SALE.</hi>
+            </p>
+                <p> THESE two adjoining TRACKS of LAND in the <lb/>County of FAYETTE and State of KENTUCKY. <lb/>The one track consists of 7000 acres, and is divided into <lb/>15 plantations of 500 acres each; eight of these plantations, <lb/>are still unsold, and are now offered at the low price of <lb/>137l. being only 5s. 6d. per acre. The other track coun<lb break="no"/>sists of 3086 acres, and is to be sold in one lot, at 5s. 6d. <lb/>per acre. There is a fine stream of water running through <lb/>these two tracks of land, which communicates with the <lb/>great river Ohio, so that Mills may be erect.</p>
+                <p> In Fayette County is Lexington, where the Courts of the <lb/>State of Kentucky are held, and where all public business <lb/>is transacted Lexington is in the neighbourhood of these <lb/>lands, and Fayette county is the nearest and most convenient <lb/>for Philadelphia, Baltimore, City of Washington, &amp;c. The <lb/>soil of Kentucky is deep and black, and lies upon a bed of <lb/>lime-stone and coal. THe natural grown of the country <lb/>are large walnuts, honey, poplar and sugar trees. The <lb/>surface is covered with blue grass, clover, and wild rye, <lb/>grape vines running to the tops of the trees. Shrubs and <lb/>plants grow spontaneously, and afford a beautiful blossom <lb/>of a rich and exquisite fragrance. Cotton and sugar are <lb/>manufactured to advantage. wheat ,barley, oats, flax, <lb/>and hemp, yield abundantly; indeed, it is assumed that <lb/>there have been raised 100 bushels upon one acre, but the <lb/>common produce is from 40 to 60 bushels an acre.</p>
+                <p> Owing to the peculiar richness of the soil, and fine cli<lb break="no"/>mate of the country, no part of America has been to re<lb break="no"/>pidly settled. The returns made to Congress, upon 1st May <lb/>1792 state them at 76 000. In March 1793, there were upwards of 100,000. And, from their astonishing increase <lb/>since, they may be estimated at 200,000. Eleven years <lb/>ago, Kentucky lay in a forest, but now she exhibits an <lb/>extensive settlement, divided into seven populous counties, in <lb/>which are a great number of flourishing towns, and con<lb break="no"/>tains more inhabitants than are in Georgia, Delaware, and <lb/>Rhode Island States. There are about 70 churches in Ken<lb break="no"/>tucky and mostly PResbyterians. There is a College; and <lb/>Schools are established in every town. There is a Print<lb break="no"/>ing-office; a Weekly Gazette published. There are Pa<lb break="no"/>per Mills, O<supplied reason="copy blur">???</supplied> Mills,<supplied reason="copy blur">???</supplied>ing Mills, Saw Mills, and a great <lb/>number of Grist Mills. Considerable quantities of Sugar, <lb/>are made from the Sugar Trees. Salt-works are in every <lb/>part of the country, and the inhabitants are supplied at a <lb/>low price.</p>
+                <p> The taxes upon land are very low. Any person who <lb/>goes from Europe becomes an American Citizen on his ar<lb break="no"/>rival in this new State, and is entitled to be elected to any <lb/>office in the Commonwealth.</p>
+                <p> For farther particulars apply to MR. John Granger, wri<lb break="no"/>ter to the signet; David Niven, writer, Glasgow; or to <lb/>Mr. John Finlayson, writer, Cupar Fife;</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>372</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-08"> 20130608</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-02-27">20150227</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="http://news.google.com/newspapers?id=hkpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=2575%2C102604"/>Glasgow News Archive
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-01-06"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="unknown"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="3"/> The following new cities, independent of innu<lb break="no"/>merable small towns, have been lately begun to be <lb/>built in America. The city of Washington, which, in the year 1800, is to be the capital of <lb/>the United States; the city of Paterson, in the State of New Jersey; the city of Hudson, upon <lb/>the North River, in the state of New York; the <lb/>city of Columbia, which is now the capital of the State of South Carolina; the city of Martenberg, <lb/>now the capital of North Carolina; the city of <lb/>Knoxcille, in teh new district of Franklyn; the <lb/>city of Nuskville, in the new district of Cumber<lb break="no"/>land; the city of Lexington, and the city of <lb/>Donxville, in the new State of Kentucky; and <lb/>the city of Bennington, in the new state of Ver<lb break="no"/>mont. The ground is also marked out, and the <lb/>lots are upon sale, for building one more new city, <lb/>to be called Newport, on the river Potowmac, <lb/>and another called Athens, on the banks of the <lb/>Mississippi.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>373</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="20130608"> 20130608</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-02-27">20150227</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="http://news.google.com/newspapers?id=i0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=2491%2C610959"/>Google News Archive
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-01-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="fact"/>
+                    <interaction type="none" active="singular" passive="group"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>speeches</item>
+                            <item>trade</item>
+                            <item>Native Americans</item>
+                            <item>Anglo-American relations</item>
+                            <item>foreign relations</item>
+                            <item>embargoes</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head>AMERICAN STATES</head>
+                <p>
+               <pb n="1"/>
+               <hi rend="center">FEDERAL LEGISLATURE.</hi>
+            </p>
+                <p>
+               <hi rend="center">
+                  <hi rend="smallcaps">House </hi>
+                  <hi rend="italic">of </hi>
+                  <hi rend="smallcaps">Representatives</hi>. <hi rend="italic">Dec</hi>. 3.</hi>
+            </p>
+                <p> THE Secretary of the Senate announced, that <lb/>the Members of the Senate were ready to ad<lb break="no"/>mit the Members of the House of Representatives <lb/>in the Senate Chamber, in order to receive the Pre<lb break="no"/>sident's communication.</p>
+                <p>
+               <hi rend="center">FELLOW-CITIZENS OF THE SENATE AND OF  <lb/>THE HOUSE OF REPRESENTATIVES,</hi>
+            </p>
+                <p> Since the commencement of the term for which I have <lb/>been again called into office, no fit occasion has arisen for <lb/>expressing to me fellow citizens at large, the deep and <lb/>respectful sense which I feel of the renewed testimony <lb/>of public approbation. While on the one hand it awaken<lb break="no"/>ed my gratitude for all those instances of affectionate par<lb break="no"/>tiality with which I have been honoured by my country; <lb/>on the other, it could not prevent an earnest wish for that <lb/>retirement, from which no private consideration should <lb/>ever have torn me. But influenced by the belief, that <lb/>my conduct would be estimated according to its real mo<lb break="no"/>tives; and that the people, and the authorities derived <lb/>from them, would support exertions having nothing per<lb break="no"/>sonal for their object, I have obeyed the suffrage which <lb/>commanded me to resume the executive power; and I <lb/>humbly implore that Being, on whose will the fate of <lb/>nations depends, to crown with success our mutual endea<lb break="no"/>vors for the general happiness.</p>
+                <p> As soon as the war in Europe had embraced those powers <lb/>with whom the United States have the most extensive re<lb break="no"/>lations there was reason to apprehend that our intercourse <lb/>with them might be interrupted, and our disposition for <lb/>peace drawn into question, by the suspicions too often <lb/>entertained by belligerent nations. It seemed therefore <lb/>to be my duty to admonish our citizens of the consequen<lb break="no"/>ces of a contraband trade, and of hostile acts to any of <lb/>the parties; and to obtain by a declaration of the exist<lb break="no"/>ing legal state of things, an easier admission of our right <lb/>to the immunities belonging to our situation. Under <lb/>these impressions, the proclamation, which will be laid before you, was issued.</p>
+                <p>In this posture of affairs, both new and delicate, I res<lb break="no"/>olved to adopt general rules which should conform to <lb/>the treaties and assert the privileges of the United <lb/>States. These were reduced into a system which will be <lb/>communicated to you. Although I have not thought <lb/>myself at liberty to forbid the sale of the prizes, permit<lb break="no"/>ted by our treaty of commerce with France, to be brought <lb/>into our ports; I have not refused to cause them to be <lb/>restored, when they were taken within the protection of <lb/>our territory, or by vessels commissioned, or equipped in <lb/>a warlike form within the limits of the United States.</p>
+                <p>It rests with the wisdom of Congress to correct, im<lb break="no"/>prove, or enforce this plan of procedure; and it will pro<lb break="no"/>bably be found expedient to extend the legal code, and <lb/>the jurisdiction of the Courts of the United States to ma<lb break="no"/>ny cases which, though dependent on principles already <lb/>recognized, demand some further provisions.</p>
+                <p> Where individuals shall, within the United States, ar<lb break="no"/>ray themselves in hostility against any of the powers at war, <lb/>or enter upon military expeditions or enterprizes within <lb/>the jurisdiction of the United States; or where the pe<lb break="no"/>nalties on violations of the law of nations may have been <lb/>indistinctly marked, or are inadequate; those offenses <lb/>cannot receive too early and close an attention, and require prompt and decisive remedies.</p>
+                <cb/>
+                <p>Whatsoever those remedies may be, they will be well <lb/>administered by the judiciary, who possess a long-esta<lb break="no"/>blished course of investigation, effectual process, and offi<lb break="no"/>cers in the habit of executing it.</p>
+                <p>In like manner, as several of the courts have doubted, <lb/>under particular circumstances, their power to liberate the <lb/>vessels of a nation at peace, and even of a citizen of the <lb/>United States, although seized under a false colour of be<lb break="no"/>ing hostile property; and have denied their power to liber<lb break="no"/>ate certain captures within the protection of our territo<lb break="no"/>ry; it would seem proper to regulate their jurisdiction in <lb/>these points. But if the executive is to be the resort in <lb/>either of the two last mentioned cases it is hoped that he will <lb/>be authorized by law to have facts ascertained by the courts, when, for his own information, he shall request it.</p>
+                <p>I can not recommend to your notice measures for the <lb/>fulfillment of our duties to the rest of the world, without a<lb break="no"/>gain pressing upon you the necessity of placing ourselves <lb/>in a condition of complete defense, and of exacting from <lb/>
+               <hi rend="italic">them</hi>  the fulfillment of <hi rend="italic">their</hi>  duties toward <hi rend="italic">us</hi>. The U<lb break="no"/>nited States ought not to indulge a persuasion, that, con<lb break="no"/>trary to the order of human events, they will for ever <lb/>keep at a distance those painful appeals to arms, with <lb/>which the history of every other nation abounds. There <lb/>is a rank due to the United States among nations, which <lb/>will be withheld, if not absolutely lost, by the reputation of weakness. If we desire to avoid insult, we must be <lb/>able to repel it; If we desire to secure peace, one of the <lb/>most powerful instruments of our rising prosperity, it <lb/>must be known that we are at all times ready for war. <lb/>The documents which will be presented to you will shew <lb/>the amount, and kinds of arms and military stores now <lb/>in our magazines and arsenals; and yet an addition even <lb/>to these supplies cannot with prudence be neglected, as it <lb/>would leave nothing to the uncertainty of procuring a <lb/>warlike apparatus in the moment of public danger.</p>
+                <p>Nor can such arrangements, with such objects, be ex<lb break="no"/>posed to the censure or jealousy of the warmest friends of <lb/>Republican Government. They are incapable of abuse <lb/>in the hands of the militia, who ought to possess a pride <lb/>in being the depository of the force of the Republic, and <lb/>may be trained to a degree of energy equal to every mi<lb break="no"/>litary exigency of the United States. But it is an en<lb break="no"/>quiry which cannot be too solemnly pursued, whether <lb/>the act, "more effectually to provide for the national <lb/>defense by establishing an uniform militia throughout <lb/>the United States," has organized them so as to produce <lb/>their full effect; whether your own experience in the se<lb break="no"/>veral States has not detected some imperfections in the <lb/>scheme; and whether a material feature in an improve<lb break="no"/>ment of it ought not to be to afford an opportunity for <lb/>the study of those branches of the military art which can <lb/>scarcely ever be attained by practice alone.</p>
+                <p>The connection of the United States with Europe has <lb/>become extremely interesting. The occurrences which <lb/>relate to it ,and have passed under the knowledge of the <lb/>Executive, will be exhibited to Congress in a subsequent <lb/>communication.</p>
+                <p>When we contemplate the war on our frontiers, it <lb/>may be truly affirmed that every reasonable effort has <lb/>been made to adjust the causes of dissension with the In<lb break="no"/>dians north of the Ohio. The instructions given to the <lb/>Commissioners evince a moderation and equity; proceed<lb break="no"/>ing from a sincere love of peace, and a liberality, having <lb/>no restriction but the essential interests and dignity of the <lb/>United States. The attempt, however, of an amicable <lb/>negotiation having been frustrated, the troops have <lb/>marched to act offensively. Although the proposed <lb/>treaty did not arrest the progress of military preparation, <lb/>it is doubtful how far the advance of the season, before <lb/>good faith justified active movements, may retard them, <lb/>during the remainder of the year. From the papers <lb/>and intelligence, which relate to this important subject, <cb/> you will determine whether the deficiency in the number <lb/>of troops granted by law shall be compensated by suc<lb break="no"/>cors of militia, or additional encouragements shall be proposed to recruits.</p>
+                <p>An anxiety has been also demonstrated by the Execu<lb break="no"/>tive for peace with the Creeks and the Cherokees. The for<lb break="no"/>mer have been relieved with corn and with clothing, and <lb/>offensive measures against them prohibited <lb/>during the recess of Congress. To satisfy the complaints of the <lb/>latter, prosecutions have been instituted for the violences <lb/>committed upon them. But the papers which will be <lb/>delivered to you, disclose the critical footing on which <lb/>we stand in regard to both those tribes; and it is with Congress to pronounce what shall be done.</p>
+                <p> After they shall have provided for the present emer<lb break="no"/>gency, it will merit their most serious labours to render <lb/>tranquillity with the savages permanent, by creating ties <lb/>of interest. Next to a rigorous execution of justice <lb/>on the violators of peace, the establishment of commerce <lb/>with the Indian nations in behalf of the United States, <lb/>is most likely to conciliate their attachment. But it <lb/>ought to be conducted without fraud, without extortion; with constant and plentiful supplies; with a ready mar<lb break="no"/>ket for the commodities of the Indians, and a stated price <lb/>for what they give in payment and receive in exchange. <lb/>Individuals will not pursue such a traffic, unless they be <lb/>allured by the hope of profit; but it will be enough for <lb/>the United States to be reimbursed only. Should this recommendation accord with the opinion of Congress, <lb/>they will recollect that it can not be accomplished by any <lb/>means yet in the hands of the Executive.</p>
+                <p>
+               <hi rend="center">GENTLEMEN OF THE HOUSE OF  <lb/>REPRESENTATIVES,</hi>
+            </p>
+                <p> The commissioners charged with the settlement of the <lb/>accounts between the United and Individual States con<lb break="no"/>cluded their important function within the limited time <lb/>by law; and the balances struck in their report, which <lb/>will be laid before congress, have been placed on the books <lb/>of the Treasury.</p>
+                <p>On the 1st day of June last, an installment of on mil<lb break="no"/>lion of florins became payable on the loans of the United <lb/>States in Holland. This was adjusted by a prolongation <lb/>of the period of reimbursement, in nature of a new loan, <lb/>at an interest of five per cent. for the term of ten years; <lb/>and the expenses of this operation were a commission of <lb/>three per cent.</p>
+                <p>The first installment of the loan of two millions of <lb/>dollars from the Bank of the United States, has been paid, <lb/>as was directed by law. For the second it is necessary <lb/>that provision be made.</p>
+                <p>No pecuniary consideration is more urgent, than the <lb/>redemption and discharge of the public debt: On none <lb/>can delay be more injurious, or an economy of time <lb/>more valuable.</p>
+                <p>The productiveness of the public revenues hitherto, <lb/>has continued to equal the anticipations which were form<lb break="no"/>ed of it; but it is not expected to prove <lb/>commensurate with all the objects which have been suggested. Some <lb/>auxiliary provisions will therefore, it is presumed, be re<lb break="no"/>quisite: and it is hoped that these may be made consis<lb break="no"/>tently with a due regard to the convenience of ourcitizens <lb/>who can not but be sensible of the true wisdom of encoun<lb break="no"/>tering a small present addition to their contributions to <lb/>obviate a future accumulation of burdens.</p>
+                <p>But here I can not forbear to recommend a repeal of <lb/>the tax on the transportation of public prints. There <lb/>is no resource so firm for the government of the United States as the affections of the People guided by an enligh<lb break="no"/>tened policy; and to this primary good, nothing can <lb/>conduce more than a faithful representation of public <lb/>proceedings, diffused, without restraint, throughout the United States. An estimate of the appropriations necessary for the <pb n="2"/> current service of the ensuing year and a statement of a <lb/>purchase of arms and military stores, made during the re<lb break="no"/>cess will be presented to Congress.</p>
+                <p>GENTLEMEN OF THE SENATE AND OF THE <lb/>HOUSE OF REPRESENTATIVES,</p>
+                <p> The several subjects, to which I have now referred, o<lb break="no"/>pen a wide range to your deliberations and involve <lb/>some of the choicest interests of our common country. Permit <lb/>me to bring to your remembrance the magnitude of your <lb/>task:–Without an unprejudiced coolness, the welfare of <lb/>the government may be hazarded; without harmony, as <lb/>far as consists with freedom of sentiment, its dignity may <lb/>be lost.–But as the legislative proceedings of the United <lb/>States will never, I trust, be reproached for the want of <lb/>temper or of candour, so shall not the public happiness lan<lb break="no"/>guish from the want of my strenuous and warmest cooperation.</p>
+                <p>
+               <hi rend="right">GEORGE WASHINGTON.</hi>
+            </p>
+                <p>
+               <hi rend="italc">Philadelphia, Dec</hi>. 3, 1793</p>
+                <p>The President having withdrawn, the Members <lb/>of the House of Representatives returned to their <lb/>Chamber, where the President's Address was read, <lb/>and referred to a Committee to report the draft of an answer.</p>
+                <p>A Committee was then appointed to report the unfinished business of the last House.–Adjourned.</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Thursday, Dec</hi>. 5.</hi>
+            </p>
+                <p>The Journal of the Commissioners for treating <lb/>with the Indians was read. It is minute and leng<lb break="no"/>thy. The definitive answer of the Indians contains <lb/>their reasons for rejecting the proposals of the <lb/>Commissioners, drawn up in a masterly manner, it <lb/>bears all the appearance of EUropean logic, faintly <lb/>clad in an Indian dress. All the documents relative <lb/>to this business were referred to a Committee of <lb/>the whole on the state of the Union.</p>
+                <p>A message was received from the President, com<lb break="no"/>munication sundry papers relative to our European <lb/>relations, and also the result of the proceedings of <lb/>the Commissioners appointed to settle the accounts <lb/>of the United States with the Individual States.</p>
+                <p>The first set of papers is introduced by a message, <lb/>of which the following is a copy:</p>
+                <p>
+               <hi rend="center">
+                  <hi rend="smallcaps">United States</hi>, <hi rend="italic">Dec</hi>. 5, 1793  <lb/>GENTLEMEN OF THE SENATE AND OF THE  <lb/>HOUSE OF REPRESENTATIVES,</hi>
+            </p>
+                <p>As the present situations of the several nations of <lb/>Europe, and especially of those with whom the United <lb/>States have important relations, cannot but render the <lb/>state of things between them and us; matter of interest <lb/>ing enquiry to the Legislature, and may indeed give rise <lb/>to deliberations to which they alone are competent, I <lb/>have thought it my duty to communicate them certain <lb/>correspondencies which have taken place.</p>
+                <p>The Representatives and Executive Bodies of France <lb/>have manifested generally a friendly attachment to this <lb/>country; have given advantages to our commerce and <lb/>navigation, and have made overtures for placing these <lb/>advantages on permanent ground; a decree however of <lb/>the National Assembly, subjecting vessels laden with pro<lb break="no"/>visions to be carried into their ports and making enemy <lb/>goods lawful prize in the vessel of a friend, contrary to <lb/>our treaty, though revoked at one time, as to the United <lb/>States, has been since extended to their vessels also, as has <lb/>been recently stated to us. Representations on this sub<lb break="no"/>ject will be immediately given in charge to our Minister <lb/>there, and the result shall be communicated to the Legi<lb break="no"/>slature.</p>
+                <p>It is with extreme concern I have to inform you, that <lb/>the proceedings of the person whom they have unfortunately appointed their Minister Plenipotentiary here have <lb/>breathed nothing of the friendly spirit of that nation <lb/>which sent him; their tendency on the contrary has been <lb/>to involve us in a war abroad; and discord and anarchy <lb/>at home. So far as his acts or those of his agents, have <lb/>threatened our immediate commitment in the war, or <lb/>flagrant insult to the authority of the laws, their effect <lb/>has been counteracted by the ordinary cognizance of the <lb/>laws, and by an exertions of the powers confided to me. <lb/>Where their danger was not imminent, they have been <lb/>born with, from sentiments of regard to his nation, from <lb/>a sense of their friendship towards us, from a conviction <lb/>that they would not suffer us to remain long exposed to <cb/> the action of a person who has so little respectedour mu <lb/>tual dispositions, and, I will add, from a reliance on the <lb/>firmness of my fellow citizens in their principles of peace <lb/>and order. In the mean time, I have respected and pur<lb break="no"/>sued the stipulations of our treaties, according to what I <lb/>judge the true sense; and have withheld no act of <lb/>friendship which their affairs have called for from us, and <lb/>which justice to others let us free to perform. I have gone <lb/>further;–rather than employ force for the restitution of <lb/>certain vessels which I deemed the United States bound to <lb/>restore, I thought it more advisable to satisfy the parties, <lb/>by avowing it to be my opinion, that if restitution were <lb/>not made, it would be incumbent on the United States <lb/>to make compensation. The papers now communicated <lb/>will more particularly apprize you of these transactions.</p>
+                <p>The vexations and spolitation understood to have been <lb/>committed on our vessels and commerce by the cruizers <lb/>and officers of some of the belligerent powers, appeared to <lb/>require attention. The proofs of these however not hav<lb break="no"/>ing been brought forward, the description of citizens sup<lb break="no"/>posed to have suffered were notified, that on furnishing <lb/>them to the Executive Power, due measures would be <lb/>taken to obtain redress of the past, and more effectual provisions against the future. Should such documents <lb/>be furnished ,proper representations will be made thereon, <lb/>with a just resistance on a redress proportioned to eh ex<lb break="no"/>igency of the case.</p>
+                <p>The BRitish Government having undertaken by orders <lb/>to the commanders of their armed vessels to restrain ge<lb break="no"/>nerally our commerce in corn and other provisions to their <lb/>own ports and those of their friends, the instructions now <lb/>communicated were immediately forwarded to our Mi<lb break="no"/>nister at that court. In the mean time, some discussions<lb break="no"/>on the subject took place between him and them; these <lb/>are also laid before you; and I may expect to learn the <lb/>result of his special instructions in time to make it known <lb/>to the legislature during their present sessions.</p>
+                <p>Very early after the arrival of a British Minister here, <lb/>mutual explanation on the execution of the Treaty of <lb/>Peace were entered into with that Minister; these are <lb/>now laid before you for your information.</p>
+                <p>On the subjects of mutual interest between this coun<lb break="no"/>try and Spain, negociations and conferences are now de<lb break="no"/>pending. The public requiring that the present state of those should be made known to the legislature in con<lb break="no"/>fidence only, they shall be the subject of a separate and <lb/>subsequent communication.</p>
+                <p>
+               <hi rend="right">G. WASHINGTON</hi>
+            </p>
+                <p>Mr. Madison reported the draft of an Answer <lb/>to the Address of the President.</p>
+                <p>The remainder of this sitting was employed in <lb/>beginning the reading of the papers received from <lb/>the President, which are voluminous.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>374</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-08">20130608
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-04-04">20150404</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="https://news.google.com/newspapers?id=qUpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=4318%2C4958627">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-07-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>crime</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="5"/>
+               <hi rend="center">
+                  <hi rend="smallcaps">Winchester</hi>, <hi rend="italic">May</hi>  19.</hi>
+            </p>
+                <p>Two men named Timmons, brothers, as also <lb/>one Nimrod Higgins, were killed in the wilderness <cb/> between Yellow Creek, and Cumberland Mountain, <lb/>about the 20th ult. by Indians.</p>
+                <p>Three persons were also lately killed by Indians <lb/>in Harrison county, near the mouth of the Little <lb/>Kennaway.</p>
+                <p>By a letter from the territory south of the Ohio, <lb/>dated April 25, we learn, that on the 22d of that <lb/>month, a large party of Indians killed sever person <lb/>within seven miles of Knoxville, and stole 60 horses <lb/>from Knox County; that parties of them are daily <lb/>committing ravages in the territory, and that there <lb/>is no prospect of putting a stop to their enormities <lb/>while the Whites are restricted from pursuing them <lb/>across the Tenessee.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>375</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-08">20130608
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-04-04">20150404</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="https://news.google.com/newspapers?id=qkpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=2454%2C5006255">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-07-21"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="plural" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>Anglo-American relations</item>
+                            <item>privateering</item>
+                            <item>border dispute</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head>AMERICA.</head>
+                <p>
+               <pb n="1"/>
+               <hi rend="right">
+                  <hi rend="smallcaps">United States</hi>, <hi rend="italic">June</hi>  4, 1794.</hi>
+            </p>
+                <p>
+               <hi rend="italic">Gentlemen of the Senate, and of the  <lb/>House of Representatives,</hi>
+            </p>
+                <p>Lay before Congress the copy of a letter, with its en<lb break="no"/>closure, from the Secretary of State to the Minister <lb/>Plenipotentiary of his Britannic Majesty; it being an <lb/>answer to a letter from the Mnister to him; bearing <lb/>date the 22 ult. and already communicated.</p>
+                <p>
+               <hi rend="right">GEO. WASHINGTON.</hi>
+            </p>
+                <p>
+               <hi rend="center">
+                  <hi rend="smallcaps">Philadelphia</hi>, <hi rend="italic">June</hi>  2, 1794.</hi>
+            </p>
+                <p>
+               <hi rend="smallcaps">SIR</hi>.</p>
+                <p>
+               <hi rend="smallcaps">If</hi>, the letter with which you honoured me on the 22d <lb/>ult. had not entered into a train of recrimination a<lb break="no"/>gainst the United States, I should not now trouble you <lb/>with a return to its unpleasant topics. Among the rea<lb break="no"/>sons, which would have induced me to add nothing to <lb/>my letter the 1st of lat month, its would have been <lb/>of some weight that by silence I should avoid the repeti<lb break="no"/>tion of a style and manner, which seem to have produced <lb/>a personal excitement.</p>
+                <p> As you are willing to admit the authenticity of Lord <lb/>Dorcester's speech, we will, with your approbation, re<lb break="no"/>serve for a future discussion, on what occasion, and to <lb/>what degree, an explanation may be required by the go<lb break="no"/>vernment of the United States from a foreign minister.</p>
+                <p>I selected only one passage of that speech, because in <lb/>it was concentrated the real object of the whole; which <lb/>was to declare an expectation, that Great Britain would <lb/>be at War with the united States in the course of the pre<lb break="no"/>sent year. and, if she were, to cause the warriors to draw <lb/>a line. this is the undisguised sense of the governor-ge<lb break="no"/>neral, unaffected by the preliminary words, which you <lb/>have thought proper to quote. It is your own interpre<lb break="no"/>tation. For so far are you from contradicting my asser<lb break="no"/>tion, that Lord Dorchester fostered and encouraged in <lb/>the Indians, hostile dispositions towards us, that you con<lb break="no"/>tinue the greater part of your remaining observations to <lb/>vindicate his persuasion and your own, that the principal <lb/>aggression, leading to hostility, proceeded from the United <lb/>States and to suggest many others of the same tendency, <lb/>upon which you would not dilate.</p>
+                <p> I shall not shrink, Sir, from your charges.</p>
+                <p>1st Notwithstanding the territory, upon which certain <lb/>inhabitants of Vermont are presented in your letter of the 5th of July, 1792, to have trespassed, belong to the <lb/>United States; yet on the 9th of the same month did <lb/>my predecessor give you, as is admitted, positive assur<lb break="no"/>ances of the determination to discourage and repress the <lb/>subject of your complaint. The necessary instructions <lb/>were accordingly forwarded to that state. On examining <lb/>your correspondence with my department, it does not ap<lb break="no"/>pear that from the 9th of July, 1792, to the 10th of <lb/>March, 1794 upwards of nineteen months, our govern<lb break="no"/>ment ever unrdestood from yourself, or any authority of<lb break="no"/>his Britannic Majesty, that the original dissatisfaction con<lb break="no"/>tinued. Nor was any discontent heard from that quar<lb break="no"/>ter through other channels, except what related to out<lb break="no"/>rages upon our own citizens by British subjects. Then, <lb/>indeed, thirty days after the hostile tribes of Indians had <lb/>been assembled by Lord Dorchester, at Quebec, you renew<lb break="no"/>your remonstrance. Although it cannot be by any means <lb/>believed, that this was written, in order to ausher in the intelligence, which soon after arrived on his speech; ye tit <lb/>is difficult to account for so long an interval under the <lb/>circumstances supposed. Nor ought my answer, although <lb/>delayed for fifty days, until the 19th of April, 1794, to be constured into an assent to any charge, since at the end <lb/>of that period, having been disappointed, as my letter shews, in one opportunity of information, and no other <lb/>presenting itself, we were not in a capacity of contradict<lb break="no"/>ing your assertions. However, Sir, the instructions, issued <lb/>in consequence of your application, conveyed positive or<lb break="no"/>ders for the correction of what, upon examination, should <lb/>be found irregular.</p>
+                <p>2d, Among the points, to which you intimate that you <lb/>might have adverted, is enumerated the fitting out of two <lb/>privateers at Charleston, South Carolina. Whatever this <lb/>transaction might have been, it probably occurred at the <lb/>commencement of the war, and before the existence of <lb/>the war was communicated to our government, by any of <lb/>the powers engaged. Had such a transaction been known <lb/>to the President in time, you can well judge from his <lb/>actual conduct, what he would then have done. His pro
+                    <cb break="no"/>clamation on the 2nd of April, 1793, his call upon the <lb/>state governors on the 26th of the same months, to co-ope<lb break="no"/>rate with him in the work of impartiality and peace; the <lb/>system of rules which he established, and which were im<lb break="no"/>parted to you, are unerring indications of the spirit of <lb/>those measures, on which he had determined. He sup<lb break="no"/>pressed the consular courts, which attempted to pass sen<lb break="no"/>tences of condemnation on captures; he restored several <lb/>vessels to British owners; prosecutions have been institut<lb break="no"/>ed against the violaters of neutrality. In a word, Sir, <lb/>what has been required, under the sanction of the law of <lb/>nations, which had not been fulfilled? How many things<lb break="no"/>have been spontaneously done, to evince our impartiality? Let me request you to review my predecessor’s letters to you of April 22, May 15, June 5, August 7, 8, 25, Sep<lb break="no"/>tember 5 and 12, 1793: and to say if more could be well <lb/>expected from us? After such demonstrations, it might <lb/>have been hoped, that the equipment of these two priva<lb break="no"/>teers would not rise again in the shape of a charge. But <lb/>the letter of the 5th of June being conceived of itself to be <lb/>satisfactory, is here inserted.</p>
+                <p>"In the letter which I had the honour of writing you <lb/>on the 15th of May, in answer to your several memorials <lb/>of the 8th of that month, I mentioned that the President, <lb/>reserved for further consideration, a part of the one which <lb/>related to the equioment of two privateers in the port of <lb/>Charleston. The part alluded to was that wherein you <lb/>express your confidence that the executive government of <lb/>the United States would pursue measures for represeeing <lb/>such practices in the future, and for restoring to their rightful <lb/>owners any captures which such privateers might be bring <lb/>into the ports of the United States."</p>
+                <p>"The President,after a full investigation of this subject, <lb/>and the most mature consideration, has charged me to <lb/>communicate to you, that the first part of this application <lb/>is found to be jest, and that effectual measures are taken <lb/>for preventing repetitions of the act therin complained of; but that the latter part, desiring restitution of the prizes, <lb/>is understood to be inconsistent with the rules which go<lb break="no"/>vern such cafes, and would therefore be unjustifiable to<lb break="no"/>wards the other party</p>
+                <p>"The principal agents in this transaction were French <lb/>citizens. Being within the United States, at the moment <lb/>a war broke out between their own and another country, <lb/>they determine to go in its defence; they purchase, arm, <lb/>and equip a vessel, with their own money, man it them<lb break="no"/>selves, receive a regular commission from their nation, de<lb break="no"/>part out of the United states, and then commence hosti<lb break="no"/>lities by capturing a vessel If, under these circumstance,<lb break="no"/>the commission of the captors was valid, the property, ac<lb break="no"/>cording to the laws of war, was, by the capture, transfer<lb break="no"/>red to them; and it would be an aggression on their na<lb break="no"/>tion, for the United states to rescue it from them, whether <lb/>on the high seas, or on coming into their ports. If the <lb/>commission was not valid and consequently, the property <lb/>not transferred by the laws of war, to the capture, then <lb/>the case would have been cognizable in our courts of ad<lb break="no"/>miralty, and the owners might have gone thither for re<lb break="no"/>dress. So that on neither supposition, would the execu<lb break="no"/>tive be justifiable in interposing.</p>
+                <p>With respect to the United States, the transaction can <lb/>in no wise be imputed to them. It was in the first mo<lb break="no"/>ment of the war,ߝin one of the their most distant port.ߝbefore measures could be provided by the government to <lb/>meet all the cases, which such a state of things was to produce, impossible to have known, and therefore <lb/>impossible to have been prevented by that government.</p>
+                <p>"The moment it was known, the most energetic or<lb break="no"/>ders were sent to every state and port in the union to pre<lb break="no"/>vent a repetition of the accident. On a suggestion, that <lb/>citizens of the United States had taken part in the act, one <lb/>who was designated, was instantly committed to prison, <lb/>for prosecution; one or two others have been since named, <lb/>and committed in like manner; and should it appear, that <lb/>there were still others, no measures would be spared to <lb/>bring them to justice. The President had even gone far<lb break="no"/>ther; He has required, as a reparation of their breach of <lb/>respect to the United States, that the vessels so armed and <lb/>equipped, shall depart from our ports.</p>
+                <p>"You will see, Sir, in these proceedings of the Presi<lb break="no"/>dent, unequivocal proofs of the line of strict right, which <lb/>he means to pursue. The measures now mentioned, are <lb/>taken in justice to the one part; the ulterior measure of <lb/>seizing and restoring the prizes, is declined in justice to <lb/>the other; and the evil, thus early arrested, will be of <lb/>very limited effects; perhaps, indeed, soon disappear altogether."</p>
+                <p> As to the permission from the governor of South Caro<lb break="no"/>lina,
+<supplied reason="copy blur">??? ??? departures of ??? privateers ??? ???,</supplied> you <cb/> may assure yourself of a proper inquiry; and I take the <lb/>liberty of requesting any evidence which you may have <lb/>of it</p>
+                <p> 3. With so many direct proofs in your hands, of the <lb/>opinion constantly maintained by our government against <lb/>the legality of captures in general made by illegal priva<lb break="no"/>teers, it is not easily explained, why the validity of those <lb/>before the 5th of June, 1793, should be argued, from a <lb/>refusal to restore them. The above received letter of that <lb/>date, neither a<supplied reason="copy blur">ffi</supplied>rms nor disa<supplied reason="copy blur">ffirms</supplied> their validity; but de<lb break="no"/>clines the granting of restitutions being inconsistent with <lb/>the rules which govern such cases. Those ruled are <lb/>That if the commission be good, the capture is good; if <lb/>the commission be bad, the capture is bad; but whether <lb/>it be good or bad, is not decided; it being enough to <lb/>prove, that the transaction, for the reasons assigned, can in <lb/>no wise be imputed to the united States. But if captures <lb/>of this kind, prior to the 5th of June, 1792, do really a<lb break="no"/>mount (as is conceived by some) to no very considerable <lb/>value, this would of itself, lessen the importance of the in<lb break="no"/>sinuation.</p>
+                <p>4th. The secretary of war has undertaken to ascertain <lb/>the precise state of the privateers le Petit Democrate and <lb/>la Carmagnole, and the result will be communicated to you. <lb/>In the mean time, it is a matter of some surprise, that <lb/>vessels, whose single employment and profit, must consist <lb/>in cruizing on the ocean, should have remained in the port <lb/>of New-York during the whole winter, and probably up <lb/>to the date of your letter (May 22d, 1794) May it not <lb/>be presumed, that their activity has been checked by the <lb/>intervention of the government? But, sir, if they have <lb/>not been dismantled, your letter brings the first notice of <lb/>the omission.</p>
+                <p> 5th. It is true, that the sale of prizes made by French <lb/>cruizers, has not been prohibited in the United States, and <lb/>that our treaty with France has been so interpreted, as not <lb/>to contemplate a freedom to sell. The next resort was to <lb/>the law of nations; which was scrupulously searched by the <lb/>executive, with the pure desire of discovering truth and <lb/>justice to all. Upon this, as on many other occasions, the <lb/>civilians differ; Vattel declaring, That a privateer may car<lb break="no"/>ry his prize into a neutral port, and there freely sell it; <lb/>Martens affirming the same doctrine, if it has not been o<lb break="no"/>therwise regulated by treaty; and others opposing it. in <lb/>this sxhism among the writers,it was resolved by the Pre<lb break="no"/>sident of the United States, to impose no restraint upon <lb/>those sales; and to refer them; as affairs of legislation, to congress, at the earliest moment of their session. Thus <lb/>much has been observed, not as my final anser, but mere<lb break="no"/>ly to introduce an assurance, that I will follow you in the <lb/>main discussion, whensoever you shall bring it forward in <lb/>detail.</p>
+                <p>6th. Undoubtedly, sir, you have been misinformed, that <lb/>the vessels of France have been permitted to depart from <lb/>our ports, notwithstanding the embargo. As the history <lb/>of the executive proceedings is neither long, nor entangled, <lb/>it shall be frankly stated to you. As soon as the embar<lb break="no"/>go was laid, expresses and advice boats were dispatched, to <lb/>notify the officer of the customs and revenue cutters, and <lb/>all others concerned in its execution. The resolution im<lb break="no"/>posing it, involved all foreign nations; the instructions <lb/>from the United States, favoured no nation, directly or in<lb break="no"/>directly. A French snow, La Camille, which had descend<lb break="no"/>ed the river Delaware as low as New-Castle on her voy<lb break="no"/>age, was stopped by an officer of the United States; and <lb/>the President, adhering to perfect impartiality could not <lb/>think himself justified, to gratify the Minister of the French Republic with a passport. Passports being kept under the <lb/>special view of the President were issued only after his ex<lb break="no"/>aminatino of each case, and the total number of them does <lb/>not exceed twenty-six. Among them, was one to your<lb break="no"/>self; one to an agent who was sent to the West-Indies, <lb/>upon a business connected with the late captures and con<lb break="no"/>demnation in various British courts of admiralty; one to a <lb/>citizen whose vessel was under trial in Bermuda, and who <lb/>was anxious to forward the British instructions of the 8th <lb/>January, 1794, with a hope of rescuing her from confis<lb break="no"/>cation; one to the friends of Joshua Barney then in Jami<lb break="no"/>ca; twenty for the accomodation of several unfortunate in<lb break="no"/>habitants of St. Domingo, to some of whome our govern<lb break="no"/>ment was advancing money for their support, and who could <lb/>no longer endure their separation from home; one to some <lb/>other persons in peculiar circumstances, desirous of return<lb break="no"/>ing to the West-Indies; and in the last instance, one to the <lb/>Minister of the French Republic. If, therefore, by any o<lb break="no"/>ther passport, or permission; the embargo has been relaxed, <lb/>it was unauthorized by the President, and unlawful. The <lb/>distance of Hampton Road from this city, being more than <lb/>three hundred miles, the officers of government, resident <pb n="2"/> here, could not learn, at the moment, what was passing <lb/>there. No intelligence of an official nature of any real im<lb break="no"/>portance. No complaint from any other foreign minister, <lb/>or any othe rpseron, has since reached us. If, Sir, you <lb/>should happen to possess the information, I ask it as a favour, of you, to designate, who granted the permission, and <lb/>under what circumstances the French vessels left that <lb/>road? An investigation, however, has been, and shall be <lb/>pursued, on our part, without delay. If the law has been <lb/>violated, it shall be vindicated; but a violation of law, is <lb/>very remote from a permission of the government.</p>
+                <p> 7th. The uniformly unfriendly treatment which the Bri<lb break="no"/>tish officers are said to have experienced in the United <lb/>States, cannot be answered, until it shall be more explicitly <lb/>defined. Did this treatment break forth in words or ac<lb break="no"/>tions, not cognizable by law? If so, no complaint can be <lb/>offered to government. Or in words or action, which <lb/>were so cognizable? Our courts are free to foreigners a<lb break="no"/>gainst citizens, and independent of influence. To yourself <lb/>let me appeal, that on the representations, which you thought <lb/>proper to lay before the President, in relation to the Bri<lb break="no"/>tish consul at Baltimore, the British consul at Norfolk, and <lb/>the commander of the DȰdalus frigate, the necessary mea<lb break="no"/>sures were promptly adopted; the result has been trans<lb break="no"/>mitted to you, and no objection has been returned. Nor <lb/>was the government backward in its interference in the <lb/>late affair of Philadelphia. And these eing the only oc<lb break="no"/>currences of the kind within my knowledge, i trust, that <lb/>no example can be produced of government refusing to ex<lb break="no"/>tend its protection on every seasonable occasion.</p>
+                <p>8th. The events at Newport, in Rhode-Island are ac<lb break="no"/>curately detailed in the proceedings, which I have the ho<lb break="no"/>nour of enclosing to you. Within the limits of the pre<lb break="no"/>sent letter, I cannot do more; as it might be an useless talk <lb/>to detain you with remarks, when non of them might be <lb/>adapted to the animadversions which you mediate. It is <lb/>enough, therefore, for me to engage, that these animadver<lb break="no"/>sions, whenever they shall appear, shall receive particular <lb/>attention.</p>
+                <p>Although, Sir, your charges against the United States <lb/>are sketched only; the impression, which may have been <lb/>intended, cannot be counteracted too soon, by such general <lb/>elucidations, as at a future day may be more minutely un<lb break="no"/>folded. But let these facts be as they will; are they indi<lb break="no"/>cative of a hostile disposition in the United States, and <lb/>ought they ultimately to produce a state of war? This is <lb/>not the place for us to retort our complaints. But com<lb break="no"/>pare them with the whole of your catalogue; and say, what <lb/>may our feeling be? Yet we prefer peace.</p>
+                <p>9th. As Lord Dorchester's endeavour to stir up the In<lb break="no"/>dians against us, is without justification; so is the expedi<lb break="no"/>tion of Governor Simcoe without pretext.</p>
+                <p>That you have received no intelligence of such an event <lb/>having actually occurred, leaves room to conjecture, that <lb/>you may not be without intelligence of it having been de<lb break="no"/>signed; and that it has therefore probably taken place. <lb/>But you insist that much will depend on the place intend<lb break="no"/>ed for the fort. Let the point allotted for it on the Mia<lb break="no"/>mi, be unknown; the place is for our immediate purpose <lb/>adequatley market out by eing on the river. A single <lb/>glance of the eye over the map, proves that its source is <lb/>within the limits of the United States. In its whole length <lb/>it is flanked on each side by our territory. Its very mouth <lb/>is to the Southward of our line, as recognised by our trea<lb break="no"/>ty with his Britannic Majesty. On no part therefore of <lb/>the rapids can a fort be built, but within out country.</p>
+                <p>This being fixed, your argument is, that if the fort be <lb/>for the purpose of protecting subjects of his majesty, resid<lb break="no"/>ing in districts, dependent on the fort of Detroit, or of pre<lb break="no"/>venting that fortress from being straitened by the approach <lb/>of the American army; the principle of <hi rend="italic">statu quo</hi>, until the final arrangement of the point in discussion between the <lb/>two countries shall be concluded, will strictly apply.</p>
+                <p>To change by hostile movements the condition of a thing, <lb/>concerning which a treaty is opened, not being consonant <lb/>with the spirit of adjustment, the principle of <hi rend="italic">statu quo</hi>  has <lb/>been generally adopted. The nearest point of the rapids <lb/>to Detroit cannot be less than fifty miles. They have <lb/>never been considered, they never could be considered, as <lb/>appending to Detroit. But you proceed and say, tha tthe <lb/>proposed assumption of territory may depend on districts, <lb/>which depend on Detroit. It is too obvious to dwell up<lb break="no"/>on the remark, that if Detroit which lies within the Unit<lb break="no"/>ed States, becomes the first station from which a district may be generated, one encroachment may beget another <lb/>
+               <hi rend="italic">ad  <lb/>infinitum</hi>. It will, however, be very acceptable to un<lb break="no"/>derstand with accuracy, how much of our territory towards <lb/>the Miami was actually possessed by the military establish<lb break="no"/>ment of Detroit at the time of peace. I mention the mi<lb break="no"/>litary establishment; because if any subjects of his Britain<lb break="no"/>nic majesty reside beyond the line of actual possess, they <lb/>are, as being within our limits, under our jurisdiction.</p>
+                <p>To prevent the fortress of Detroit from being straitened <lb/>by the approach of the American army, is either a new <lb/>modification of the preceding idea, or founded upon a un<lb break="no"/>tenable suspicion. For the question must recur, are the <lb/>rapids an appendage to Detroit? Were they connected <lb/>with it at the peace? If convenience only were to be con<lb break="no"/>sulted, and a wide range of unsettled territory, by being <lb/>suitable to the momentary circumstances of one nation, is <lb/>to be transferred for that reason alone from another, <cb/> which is the true proprietor, we might even then contro<lb break="no"/>vert the conveniency of the rapids to Detroit. If right be <lb/>consulted, our right is complete. Is then our territory to <lb/>be thus seized? Nay, more sir, I am authorized to say to <lb/>you explicitly, that the American army has no instruc<lb break="no"/>tions to straiten or annoy that post; and that if the descent on the rapids was dictated by this consideration, it ought <lb/>to be discontinued without cause.</p>
+                <p>
+               <hi rend="center">I have the honour,  <lb/>Sir, to be with great respect,  <lb/>Your most obedient servant, </hi>
+               <hi rend="right">EDM. RANDOLPH.</hi>
+            </p>
+                <p>Mr. Hammond, Minister <lb/>Plenipotentiary of his <lb/>Britannic Majesty.</p>
+                <p>
+               <hi rend="smallcaps">True Copy. </hi>
+               <hi rend="flush-right">GEO. TAYLOR, jun.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>376</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-06-08">20130608</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-04-04">20150404</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="https://news.google.com/newspapers?id=p0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=5973%2C4774843">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-07-11"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="plurel" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Anglo-American relations</item>
+                            <item>border dispute</item>
+                            <item>embargoes</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head>AMERICA.</head>
+                <p>
+               <pb n="4"/>
+               <hi rend="center">
+                  <hi rend="italic">Message from </hi>
+                  <hi rend="smallcaps">General Washington </hi>
+                  <hi rend="italic">to Congress,  <lb/>May </hi>21.</hi>
+            </p>
+                <p>"Gentlemen of the Senate, and of the House <lb/>of Representatives,</p>
+                <p>"I lay before you certain information, where<lb break="no"/>by it would appear that some encroachment as <lb/>about to be made on our territory, by an Officer <lb/>and party of British troops. Proceeding upon a <lb/>supposition of the authenticity of this information, <lb/>although of a private nature, I have caused the <lb/>representation to be made to the British Mini<lb break="no"/>ster, a copy of which accompanies this Message.</p>
+                <p>"It cannot be necessary to comment upon the <lb/>very serious nature of such an encroachment, nor <lb/>to urge that this new state of things suggests the <lb/>propriety of placing the united States in a posture <lb/>of effectual preparation for an event, which, not<lb break="no"/>withstanding the endeavours making to avert it, <lb/>may, y circumstances beyond our controul, be for<lb break="no"/>ced upon us. <hi rend="flush-right">
+                  <hi rend="smallcaps">G. Washington</hi>."</hi>
+            </p>
+                <p>By a letter from Mr. Randolph, the American <lb/>Secretary of State, to Mr Hammond, the informa<lb break="no"/>tion alluded to we find to be, "That Governor <lb/>Simcoe had gone to the foot of the Rapids of teh <lb/>Miami, followed by three companies of a British <lb/>regiment, in order to build a fort there"ߝWhich <lb/>Mr. Hammond, in his answer, rather qualifies than <lb/>denies.</p>
+                <p> In the debate in Congress, on taking off the em<lb break="no"/>bargo, several members said they had voted for the <lb/>embargo, merely as a part of a general plan of re<lb break="no"/>taliation upon Great Britain; but that as the more <lb/>effential parts of that plan, particularly the prohi<lb break="no"/>biting of all commercial intercourse between Ame<lb break="no"/>rica and Great Britain had been over-ruled, the <lb/>embargo was injurious only to the subjects of teh <lb/>United States, and therefore ought to be taken off.</p>
+                <p>In Philadelphia and several other ports, the mas<lb break="no"/>ters and mates of American ships held meetings, <lb/>and published resolutions, declaring that they would <lb/>not put to sea, until they could be assured that their <lb/>flag would be respected, and their persons <lb/>protected from such indignities as many of them had lately experienced. This they did after the <lb/>embargo was at an end.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>377</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2103-06-08">20130608
+</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-04-04">20150404</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from
+ <ref target="https://news.google.com/newspapers?id=qUpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=1830%2C4957925">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-07-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Native Americans</item>
+                            <item>Anglo-American relations</item>
+                            <item>war</item>
+                            <item>shipping news</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head>AMERICA</head>
+                <p>
+               <pb n="5"/>
+               <hi rend="center">
+                  <hi rend="smallcaps">Philadelphia</hi>, <hi rend="italic">June</hi>  3.  <lb/>[ <hi rend="smallcaps">Authentic</hi>.]</hi>
+            </p>
+                <p>
+               <hi rend="center">
+                  <hi rend="italic">Copy of a letter from General Wilkins, to Col. C. Biddl,  <lb/>dated Pittsburgh, </hi>23 <hi rend="italic">d May</hi>, 1794.</hi>
+            </p>
+                <p>"I this moment received yours of the 17th inst. <lb/>I arrived about fifteen minutes ago from Le Boeuf, <lb/>and left the detachment there well covered, and in <lb/>good spirits. They have built, under my directi<lb break="no"/>ons, two small block-houses, picketed in, which I <lb/>think will render them sufficiently strong until the <lb/>reinforcement goes under Capt. Denny.</p>
+                <p>"The Indians I have conversed with still conti<lb break="no"/>nue of the opinion that the British will make an <lb/>opposition to the establishment at Presque Isle. <lb/>There arrived at Cuslawago, while I was there, an <lb/>Indian from Sandusky, where he had been left by <lb/>the Senecas last fall sick;ߝhe says the Lieutenant <lb/>Governor of Upper Canada, M'Kee, and Elliot the <lb/>Indian agent, (the two last refugees from this coun<lb break="no"/>try) were visiting all the Indian towns in that quar<lb break="no"/>ter, and exciting them to continue their op<lb break="no"/>position to the Americans, and assuring them of <lb/>support from their father the British monarch. He <lb/>further adds that they were ready for fighting Gen. <lb/>Wayne the moment he moved; and that the Bri<lb break="no"/>tish were erecting garrisons at the Miami river. He<lb break="no"/>confirms the accounts of the other Indians, that <lb/>they were determined to oppose the establishment <lb/>at Presque Isle."</p>
+                <p>There were in the Port of Philadelphia on the <lb/>25th of May.</p>
+                <p>
+               <hi rend="center">62 Ships,  <lb/>73 Brigs,  <lb/>7 Snows,  <lb/>60 Schooners,  <lb/>42 Sloops.  <lb/>244</hi>
+            </p>
+                <p>
+               <hi rend="right">
+                  <hi rend="italic">In the House of Representatives of the United  <lb/>States, Thursday June </hi>5, 1794.</hi>
+            </p>
+                <p>The House, according to the order of the day, resolv<lb break="no"/>ed itself into a committee of the whole House, on the re<lb break="no"/>port of the Committee, to whom was referred the remon<lb break="no"/>strance of the People west of the Alleghany Mountains, re<lb break="no"/>lative to the navigation of the river Mississippi, and after <lb/>some time spent therein, Mr. Speaker resumed the chair, <lb/>and Mr. Trumbull reported, that the Committee, accord<lb break="no"/>ing to order, had the same report under consideration, and <lb/>come to a resolution thereupon, which he delivered in at <lb/>the Clerk's table, where the same was twice read, and a<lb break="no"/>greed to by the House, as follows:</p>
+                <p>Resolved, That as it appear, from the communications <lb/>of the Executive, that the right of the United States to the <lb/>free navigation of the Mississippi, is now the subject of ne<lb break="no"/>gotiation with the Court of Spain; and as it is the interest <lb/>of the United States, and every part thereof, to come to an <lb/>amicable adjustment of the right in that mode, rather than <lb/>resort to any means constitutionally belonging to the Legi<lb break="no"/>slature, no farther proceeding should be had on the said re<lb break="no"/>monstrance, during the present session of Congress.</p>
+                <p>
+               <hi rend="center">Extract from the Journal.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>378</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-08-06"/> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-09-23"/> by
+ <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from the <ref target="https://news.google.com/newspapers?id=wkpEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6606%2C7943380">Google News Archive</ref>
+                            </authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1794-11-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                            <item>war</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head>AMERICA.</head>
+                <p>
+               <pb n="1"/>American papers are received, dated October, 4. <lb/> 1794. They contain two letters from General <lb/> Wayne to the American Secretary at War, giving <lb/> an account of a severe action he had with the Indi<lb break="no"/> ans, who were assisted by the volunteers and militia <lb/> of Detroit on the 20th August, on the banks of <lb/> the Miamis, in the vicinity of the British post and <lb/> garrison at the foot of the Rapids.–The action <lb/> was bloody, and he says, "our army was left in <lb/> full and quiet possession of the field of battle, which <lb/> terminated under the influence of the guns of the <lb/> British garrison, as you will observe by the inclosed <lb/> 
+               <cb/> correspondence which passed between Major Camp<lb break="no"/> bell Commandant and myself upon the occasion." <lb/> He adds℃"We remained three days and nights <lb/> on the banks of the Miamis, in front of the field <lb/> of battle; during which time all the houses and <lb/> corn fields were consumed and destroyed for a con<lb break="no"/> siderable distance both above and below Fork Mia<lb break="no"/> mis, as well as within pistol shot of that garrison, <lb/> who were compelled to remain tacit spectators to <lb/> this general devastation and conflagration, among <lb/> which were the stores and houses of Colonel Mac<lb break="no"/> kee, the British Indian agent and principal stimu<lb break="no"/> lator of the war now exiting between the United <lb/> States and the Savages.</p>
+                <p> The American paper from which this account <lb/> is taken, does not give the correspondence above <lb/> alluded to, but concludes the article thus: <lb/>
+            </p>
+                <p>"Besides the very important papers which we <lb/> have been able to offer to our readers this day, the <lb/> Executive, we understand, has received copies of a <lb/> correspondence between the British Major Camp<lb break="no"/> bell, and General Wayne. The Major begins it <lb/> by inquiring of the General by what authority he <lb/> came there. The General answers by requiring <lb/> to know who gave Campbell authority to establish <lb/> a fort at that place, it being within our side of the <lb/> treaty boundary, and no such establishment there <lb/> when that instrument was signed. We hope ere <lb/> long our gallant General will give a good account <lb/> of this Mr. Campbell."</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

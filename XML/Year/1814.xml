@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>111</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1814-03-19"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="plural" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+                    <head>
+                  <hi rend="smallcaps">Destruction of a Moravian Settlement  <lb/>in Canada </hi>
+                    </head>
+            </p>
+                <p>The following letter received in town, gives a de<lb break="no"/>scription of the wanton and barbarous conduct of the <lb/>American army, in destroying a settlement of the <lb/>Moravian missionaries, in their late irruption into <lb/>province:–</p>
+                <p>"Yesterday I received a very afflicting account from North <lb/>America, by a letter from New York, dated Dec. 27 1813, <lb/>concerning a report of the total destruction of our settlement, <lb/>
+               <supplied reason="copy blur">??? ???</supplied> on the 6th of October, by the American <lb/>army under General Harrison. It was the consequence of the <lb/>invasion of that province, after the capture of the little fleet <lb/>on Lake Erie, and the defeat of the s[?]al British force under the <lb/>[?] of occupying the Chapel and some other houses for <lb/>our sick British soldiers, and considering the danger the Chris<lb break="no"/>tian Indians were in from the malice of the Americans, it was <lb/>his advice, that the Missionaries and the Indian Congregation <lb/>should retreat farther into the country. When the Americans <lb/>were successful in the latter, it became necessary to take steps <lb/>of effect it. The British behaved very kindly to the brethren, <lb/>and offered to purchase the houses and cottages, but their de<lb break="no"/>feat prevented it. On entering the place, the Americans first <lb/>pretended to be friendly, and sorry that the Indians had fled, <lb/>who had gone with Mr and Mrs Denke (one of the Mission<lb break="no"/>aries) up the river. Mr and Mrs Schnall, and the aged Mis<lb break="no"/>sionary, Michael Young, remained.</p>
+                <p>"During the first night the Americans already changed <lb/>their tone, or rather showed their real character. They began <lb/>to abuse the Missionaries with curses, and all manner of insults, <lb/>plundering the houses ; and General Harrison, to whom we ap<lb break="no"/>pealed, would grant no redress. They took every thing that <lb/>was<supplied reason="copy blur">???</supplied> away ; and, under a pretence that King's stores <lb/>and English goods were lodged in the houses, ransacked every <lb/>place, and every trunk and chest belonging to individuals. Com<lb break="no"/>modore Perry, who had defeated the Mosquito fleet on the <lb/>lake, was there, and behaved rather better than the rest, ad<lb break="no"/>vicing the Missionaries to get away as fast as they could. <lb/>They did so with difficulty, and shortly after the Americans <lb/>set the place on fire, and burnt down the whole, even every <lb/>outhouse[?]. The poor Missionaries had a very tedious journey, <lb/>and reached Silitiz, a settlement of the Brethren in Pennsyl<lb break="no"/>vania, December 11. Whither the Christian Indians have fled <lb/>is not known ; they had proposed to go to the Grand River, <lb/>about 100 miles off.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>112</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1814-05-26"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>settlement description</item>
+                            <item>crime</item>
+                            <item>colonial government</item>
+                            <item>trade</item>
+                            <item>Maori</item>
+                            <item>Pacific Islanders</item>
+                            <item>transportation</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+                    <head>
+                  <hi rend="smallcaps">New South Wales Intelligence</hi>
+                    </head>
+            </p>
+                <p>A proclamation, issued by Governor Macquarrie, appears <lb/>in the Sidney Gazette of 14th May, stating that Peter Mills <lb/>Acting Deputy Surveyor of Lands at Port Dalrymple, Van <lb/>Dieman's Land, and George Williams, Acting Deputy Com<lb break="no"/>missary of Stores and provisions at the said settlement, had <lb/>absconded from their habitations, and fled to the woods ; that <lb/>their object was to live by rapine and violence ; to effect which <lb/>they had armed themselves, and taken the command of a gang <lb/>of 26 desperadoes, with whose aid they had committed nume<lb break="no"/>rous robberies–entering the lands of settlers, driving away <lb/>their cattle, and plundering their houses. The proclamation <lb/>declares that those who shall return to their houses and occu<lb break="no"/>pations before 1st December next, shall be pardoned and <lb/>saved harmless from all offences, except the crime of wilful <lb/>murder ; and denounces those who shall disregard this offer, <lb/>as outlaws.</p>
+                <p>Sydney, New South Wales, Jan. 4. <lb/>The Argo has arrived with a most extensive supply of tea, <lb/>viz, 167 chests of souchong, 200 ditto bobea, 200 hyson skin, <lb/>and young hyson 50 ; in all 617 chests. The consequences has <lb/>been a reduction in the price of souching from 30s to 5s per <lb/>lb currency. Shortly prior to the Argo's departure from the <lb/>Island of Mauritius, the Hope American ship, laden with tea <lb/>and sundies, valued at L80,000, was captured by his Maje<lb break="no"/>sty's sloop Harpy, Captain Allen.</p>
+                <p>In consequences of the oppressive conduct of several masters <lb/>of colonial and British ships, and of their crews towards the <lb/>natives of New Zealand, of Otaheite, and of the other islands <lb/>in the South Pacific Ocean, which have led to the destruction <lb/>of several vessels, with their crews, by the natives, and dis<lb break="no"/>turbed all trade and intercourse with those islands, both by <lb/>British shipping and that ofthe allied powers–his Excellency <lb/>has forbidden any vessel to clear out from any place in New <lb/>South Wales, without a bond given by the master or owner to <lb/>the naval officer for the time being at the port, for L.1000 <lb/>sterling, binding him and his crew not to commit any act of <lb/>hostility, or to be guilty of any trespass, or forment any animo<lb break="no"/>sities between the natives, or take any part in any war that <lb/>may prevail ; nor forcibly carry away any male or female in<lb break="no"/>habitants of the islands under penalty of forfeiting the sum <lb/>specified in the bond.</p>
+                <p>A small party, who a short time ago undertook[?] a land pas<lb break="no"/>sage in a direction towards Broken Bay, for the purpose of as<lb break="no"/>certaining the nature and fertility of the country, have disco<lb break="no"/>vered an excellent grazing track of 8000acres. In consequence <lb/>of which one gentlemen, Mr Robert Campbell, has already <lb/>sent thither an extensive herd of cattle, and this example is <lb/>likely to be followed by others.</p>
+                <p>Thomas West, who came to this colony a convict for life, <lb/>in the ship Earl Cornwall's[?], in 1801, has received from his <lb/>Excellency a conditional pardon, in consideration of his general <lb/>good conduct and character for sobriety and industry, and also <lb/>in consideration of his having lately erected a water mill for <lb/>the grinding of grain at Barcorn Glen, within two miles of <lb/>Sydney, being the first water mill ever erected in the vicinty <lb/>of this town.</p>
+                <p>Sydney, New South Wales, May 21. <lb/>The good understanding between the natives and our <lb/>settlers, which had been maintained for the last six years, <lb/>has given place to frequent outrages attended with fatal con<lb break="no"/>sequences. On Saturday, a body of 60 natives commenced <lb/>plundering the fields of a settler, when three privates of the <lb/>veteran battalion fired upon them and killed a boy. The na<lb break="no"/>rushed upon them before they could load again, and <lb/>killed on private, Isaac Eustace, and compelled the other <lb/>two to fly. They then plundered the ground of Messrs <lb/>Milehouse and Butcher. Next day a party of 14 soldiers <lb/>falling in with them, shot a woman and two children–the <lb/>savages attacked William Baker, a stock-keeper of Mr Mac<lb break="no"/>Arthur, killed the man and two women, named Sullivan and <lb/>Herburg.</p>
+                <p>Sydney, New South Wales, Feb. 12. <lb/>On Monday last arrived the ship General Hewett, Cap<lb break="no"/>tain Earle, from England, having a detachment of the 46th <lb/>regiment, commanded by Major Oglivie ; and yesterday ar<lb break="no"/>rived the Windham, Captain Bligh, also from England, <lb/>having on board the head-quarters of the 46th regiment, <lb/>commanded by Lieutenant-Colonel Molle, who succeeded <lb/>Lieutenant-Colonel O'Connell, as Lieutenant-Governor of <lb/>the territory, and is accompanied by Mrs Molle and family ; <lb/>also Lieutenant Walters, of the navy, agent for transports– <lb/>Of the 300 convicts which the General Hewett received on <lb/>board, 35 died on the passage.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>113</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1814-09-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="singular" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>trade</item>
+                            <item>military</item>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+                    <head>
+                  <hi rend="smallcaps">Canada</hi>
+                    </head>
+            </p>
+                <p>[Extracts of Letters from Quebec and Montreal.]</p>
+                <p>Quebec, July 15. <lb/>The commercial world is flourishing here, but in <lb/>political matters, I am sorry to say, we are sadly in <lb/>the back ground. The old defensive system is still <lb/>adhered to, and, I fear much, with all our reinforce<lb break="no"/>ments, we shall do little good till we have another <lb/>commander in chief. There is now a great body of <lb/>regular troops in this country, and a handful of brave <lb/>fellows have recently been almost sacrificed <hi rend="italic">par la </hi>
+               <lb/>
+               <hi rend="italic">petite guerre</hi>  at Chippawa, whilst, in the lower pro<lb break="no"/>vince, there are at least 10,000 regulars doing no<lb break="no"/>thing.</p>
+                <p>Some of the officers of the regiments lately arriv<lb break="no"/>ed from France do not conceal their sentiments– <lb/>On inspecting one of the regiments the other day, <lb/>our chief took occasion, as usual, to make some re<lb break="no"/>marks on the cut of the men's clothes, when the Co<lb break="no"/>lonel commanding stepped forward and told him <lb/>plainly, that such systems were now completely ex<lb break="no"/>ploded–that he had had the honour of ser<lb break="no"/>ving very lately under a much more celebrated</p>
+                <p>
+               <pb/>General that it was probable he would ever serve <lb/>under again–that his men had been accustomed to <lb/>fight, not to dance ; and if such was the plan he was <lb/>called on to follow, he should certainly retire from <lb/>the service. Such language you may suppose was <lb/>not very pleasing to our Governor ; but I am happy <lb/>to find that we now have military men amongst us, <lb/>who are not afraid to speak out ; as it appears the <lb/>numberless representations of civilians are not much <lb/>attended to.</p>
+                <p>Montreal, July 14. <lb/>I consider this country now as perfectly secure <lb/>against any attempts that the Americans may make, <lb/>not withstanding the system of our chief does not <lb/>seem to be changed. He has received a great many <lb/>more troops this year than he had any idea of, and <lb/>does not seem pleased at having so large a force un<lb break="no"/>his command, as the country will now look to <lb/>him for some offensive operation against the enemy. <lb/>He has done nothing the whole summer but pa<lb break="no"/>rade about 6000 men at Chambly, where he makes <lb/>them march past him twice a-week, bowing and <lb/>scraping, instead of employing them where they <lb/>ought to be.</p>
+                <p>You will have heard of an American army of <lb/>about 6000, under General Jacob Brown, having <lb/>crossed the river at Fort Erie, when General Rial, <lb/>with a force of 1500 only, gallantly assailed them <lb/>but was overpowered by numbers, and sustained con<lb break="no"/>siderable loss. I inclose a general order published <lb/>yesterday about this unfortunate business, whereby <lb/>you will find that our loss has been great.</p>
+                <p>Upon this frontier the Americans have hardly <lb/>any force, and it appears very singular indeed, that <lb/>so great a body of men, as are now on the other side <lb/>of the river, from Sorel to Isle Aux Noix, at <lb/>least 10,000 men, should be left for the purpose of <lb/>parade, when they are so much wanted in the upper <lb/>province.</p>
+                <p>I sincerely hope that some investigation will take <lb/>place into this business, as it is really disgraceful to <lb/>think that such an enemy should be able to make an <lb/>attack upon us with impunity.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>114</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1814-10-15"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="single" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>military</item>
+                            <item>navy</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+                    <head>
+                  <hi rend="smallcaps">Private Correspondence</hi>
+                    </head>
+            </p>
+                <p>Quebec, Sept. 10. <lb/>The Americans, to the number of 900 men, landed and at<lb break="no"/> 
+               <lb/>tacked Fort Michillimackinac, in Lake Huron, on the 4th <lb/>August. They were repulsed by the British garrison.</p>
+                <p>The American fort la Prairie du Chiens has been taken <lb/>by the British. This place was considered as of great impor<lb break="no"/>tance to the enemy.</p>
+                <p>Major General Conran, of the Royal, has had the misfor<lb break="no"/>tune to break his leg, by a fall from his horse. This officer <lb/>had just arrived to join the army on the Niagara frontier, <lb/>when he met with this accident.</p>
+                <p>On the 31st August, the British troops broke their en<lb break="no"/>campment at Odell Town, near Lake Champlain, and pro<lb break="no"/>ceeded immediately to take possession of the position which <lb/>the American army had just abandoned at the village of <lb/>Champlain. This army was commanded by General Izard, <lb/>and are said to have proceeded partly to Plattsburgh, and part<lb break="no"/>ly to Sackett's Harbour, on Lake Ontario. The British <lb/>troops now at Champlain are commanded by Major Gene<lb break="no"/> 
+               <lb/>rals Brisbane, Power, and Robinson, and consist of the <lb/>13th, 49, 88th, Meuron's regiment, Canadian chasseurs, <lb/>&amp;c. &amp;c.</p>
+                <p>The 79th[?] or [?] Glasgow Lowland regiment are now quarter<lb break="no"/>ed at Cornwall, in Upper Canada.</p>
+                <p>The 4th[?] battalion of the 1st, or Royal Scots, are station<lb break="no"/>ed at Quebec.</p>
+                <p>The 3rd[?], 104th flank[?] companies, 103d, 8th, or King's, <lb/>100th, regiment de Watteville, [?] battalion of 1st, or <lb/>Royal Scots, and 41st flank[?] companies are with the army <lb/>under Lieutenant General Drummon, on the Niagara fron<lb break="no"/>tier, Upper Canada.</p>
+                <p>The 37th and 57th regiments are at Montreal.</p>
+                <p>On the 15th of August, the British troops under Lieute<lb break="no"/>nant General Drummond assaulted Fort Erie. The attack <lb/>was made in three columns, under Colonel Scott of the 103d <lb/>regiment, Lieutenant Colonel Drummond 104th regiment, and <lb/>Lieutenant Colonel Fischer of de Watteville's. The two <lb/>former were directed to scale the fort, and the latter to get <lb/>possession of a small hill, named Snake-Hill, which the Ame<lb break="no"/>ricans had fortified, and being situated only about eight hun<lb break="no"/>dred yards from Fort Erie, was of consequence to us. This <lb/>latter column failed in their object ; but the two columns des<lb break="no"/>tined for the fort carried the same in a most gallant manner, <lb/>and obliged the enemy to retire into two stone block-houses <lb/>inside the fort, when their own guns were turned against <lb/>them. At this time a most unfortunate explosion took place, <lb/>which blew up the magazine and battery, and with them a <lb/>number of our brave soldiers ; and the consternation caused <lb/>by this was so great, and we were obliged to abandon our <lb/>conquest, and retreat to our original position, with great loss <lb/>of both officers and men.</p>
+                <p>The large ship-building by the British at Kingston, on Lake <lb/>Ontario is to be launched the second week in September– <lb/>also will carry about 100 guns.</p>
+                <p>The battalion of royal marines, commanded by Lieutenant<lb break="no"/>Colonel Williams, and which has been stationed lately at Isle <lb/>au Noix, and parts adjacent, have been broken up and distri<lb break="no"/>buted among the fleets on the Lakes. The Staff of the batta<lb break="no"/>lion proceed immediately to Halifax from Quebec, in the Cey<lb break="no"/>long armed-en [?] ship.</p>
+                <p>The Junon frigate, Captain Upton, has arrived from Hali<lb break="no"/>fax at Quebec, with money for Government. The crew of <lb/>this vessel is to be employed on the Lakes.</p>
+                <p>A brig, which sailed from Cork, under convoy of the An<lb break="no"/>telope, of 50 guns, has arrived at Quebec.–The Antelope, <lb/>and the ships under convoy, are hourly expected. It is <lb/>said that there are on board the ships of the latter about <lb/>4000 troops, chiefly detachments and reinforcements for the <lb/>regimentsin Canada.</p>
+                <p>Captain Dowale, of the royal navy, now commands the <lb/>fleet on Lake Champlain.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>115</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1814-10-15"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Canada Papers</hi>
+            </p>
+                <p>Quebec, Sept. 3. <lb/>The army from this province has entered the United States <lb/>by the Champlain frontier. On the 1st inst. the advance was <lb/>at Chazy.</p>
+                <p>Quebec, Sept. 8. <lb/>From the north-western frontier of Upper Canada, Messrs <lb/>M'Gillivray and M'Leod, who arrived here on Thursday last, <lb/>have brought dispatches from Lieutenant Colonel M'Donal, <lb/>at Michillimackinac, written since the repulse of the Ameri<lb break="no"/>can forces sent there to recapture it. The following are <lb/>the particulars of that expedition :–</p>
+                <p>"On the forenoon of the 5th of August, the Americans <lb/>landed 900 men, or thereabouts, at the back of the island <lb/>(Dowsman's farm). There is a considerable space of ground <lb/>cleared, and a gentle slope, which enabled their vessels, at <lb/>anchor close to the beach, to keep clear, by a constant fire of <lb/>grape, &amp;c. and which by the situation of the ground, passed <lb/>directly over the men's heads, as they formed and advanced <lb/>towards the woods.</p>
+                <p>"Lieutenant-Colonel M'Doual[?] formed his small garrison <lb/>(150 at most) at the extremity of the woods, and the Indians <lb/>were stationed on each flank, to keep the enemy from out<lb break="no"/>flanking the troops. By a false account of the enemy's inten<lb break="no"/>tion to land on another part of the island, a certain number of <lb/>Indians were sent to watch their motions ; but more Indians <lb/>absenting themselves, exposed one flank of Lieutenant-Colon<lb break="no"/>nel M'Doual's party entirely ; and an apprehension was enter<lb break="no"/>tained that the enemy would outflank and cut off the garrison <lb/>from the forts ; it was therefore deemed expedient to fall back <lb/>between the two forts, and there await the advance of the <lb/>enemy.</p>
+                <p>"A party of between 40 and 50 Indians, placed on the left <lb/>flank, and ignorant of the movements in the centre and right <lb/>flank, fired on the Americans, and threw them into confusion, <lb/>which the Indians soon perceived, and encouraging each other <lb/>by whoops and yells, totally broke the little order still observed <lb/>by the enemy, who took instant flight, and were all out of <lb/>reach before Lieutenant-Colonel M'Doual was apprised of <lb/>their retreat.</p>
+                <p>"Thus was a body of at least from six to nine hundred <lb/>men defeated and put to instant flight by 40 or 50 Indians, <lb/>with a loss of 17 men and a Major (Holmes) killed and found <lb/>on the spot!–The Indians lost but one man."</p>
+                <p>Previous to and combined with this, the measures taken by <lb/>the enemy were these:</p>
+                <p>"On the [?] of July, a detachment of the expedition sent <lb/>against Michillimackinac by the enemy, proceeded to St Ma<lb break="no"/>ry's, where they met with no resistance, there being neither <lb/>troops nor Indians, and every person occupied about their <lb/>usual concerns ; such as bay making, fishing &amp;c. Major <lb/>Holmes commanded the party, who gave up to indiscriminate <lb/>plunder, and destroyed the whole of the property belonging <lb/>to the North West Company ; burning their houses, stores, <lb/>and vessels, killing their cattle, and taking off their engagees <lb/>prisoners ; tearing down the fences, destroying the gardens, <lb/>fields, &amp;c. Many wanton acts of cruelty might be detailed. <lb/>Let two suffice for the present.</p>
+                <p>"Mr Johnstone's property was plundered, even his furni<lb break="no"/>ture ; the very clothing of his wife and children was seized <lb/>upon by these ruthless plunderers, and carried away. Major <lb/>Holmes sent to the south side of the strait for Mr Johnstone's <lb/>son George, and, after threatening and reviling him with the <lb/>most oppobrious language, flourished his sword over his head, <lb/>and said he had a great mind to cut his head off, now he was <lb/>his slave, When they were in the act of burning the houses <lb/>and stores, Mr G. Johnstone was ordered to stand in a cer<lb break="no"/>tain spot, under pain of being shot ; but had he remained, suf<lb break="no"/>foration[?] must have been his fate, being so near the buildings <lb/>in flames : he therefore risked being shot, and came off, and <lb/>thereby effected a timely escape.</p>
+                <p>"Another instance of more than savage cruelty was exer<lb break="no"/>cised on a poor horse, which they made us of all day in cart<lb break="no"/>ing their plunder, and in the evening, whilst still tackled to <lb/>the cart, tied him to the end of the dwelling-house then in <lb/>flames, and amused themselves in looking at the poor animal <lb/>making vain efforts to get loose ; but there he was burnt, and <lb/>his bones seen there by the writer of this."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>116</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1814-12-08"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>war</item>
+                            <item>Anglo-American relations</item>
+                            <item>Native Americans</item>
+                            <item>military</item>
+                            <item>privateering</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Canada Papers</hi>
+            </p>
+                <p>Montreal, Oct. 29 <lb/>The express from Upper Canada, which arrived <lb/>yesterday morning, confirmed the highly satisfactory <lb/>reports of the preceding day, that the enemy had <lb/>precipitately retreated on the 19th instant, from be<lb break="no"/>fore Chippawa, after destroying a quantity of provi<lb break="no"/>sions and heavy baggage ; and that, on the 21st, they <lb/>had passed over to Buffaloe a great part of their <lb/>force, and were blowing up the works at Fort Erie.</p>
+                <p>Further accounts from Kingston have been receiv<lb break="no"/>ed this morning to the 26th instant, when the official <lb/>report of the enemy's retreat from Fort Erie, after the <lb/>destruction of the works, had not reached that place, <lb/>but there was no doubt of the fact.</p>
+                <p>Major-Genera de Watteville commanded the corps <lb/>pressing on the enemy ; the master of a mail which <lb/>arrived at Kingston on the 25th, in twenty-four hours <lb/>from Fort George, further confirms the previous <lb/>intelligence, and reports that several hundred prisoners <lb/>were taken, before the Americans effected their <lb/>escape across the river.</p>
+                <p>On the 18th the British came up with his rear <lb/>guard, and in a sharp action thirty of the Americans <lb/>were left on the field wihtout a casualty happening <lb/>on our side. This was at Chippawa Creek.– <lb/>The enemy then fled with the utmost precipitation <lb/>to Fort Erie, and began the destruction of his for<lb break="no"/>tifications.</p>
+                <p>A military courier from Kingston arrived this <lb/>morning, brings no additional news of importance.– <lb/>Sir James Yeo had returned to Kingston with the <lb/>sick of the army of Niagara on board. We again <lb/>sailed for the head of the Lake.</p>
+                <p>A private letter from Niagara of the 10th instant, <lb/>says that a severe action took place the day before <lb/>near Chippawa ; our loss is stated at 10 killed and <lb/>wounded. That of the enemy is supposed to be <lb/>very considerable ; a field piece made to bear upon <lb/>one of his columns did great execution. Another <lb/>letter denies any loss in killed but makes the wound<lb break="no"/>ed 25 or 30.</p>
+                <p>Montreal, Nov. 5. <lb/>From Upper Canada we have received nothing of <lb/>importance. The report of the whole American <lb/>armies have crossed the Niagara was a mistake as <lb/>the last accounts from that quarter mention that Ge<lb break="no"/>neral Brown was still in possession of Fort Erie.</p>
+                <p>Quebec, Nov. 3. <lb/>We are in expectation of some further details of <lb/>the operations on the Niagara frontier by this day's <lb/>Montreal post ; but they had no arrived at one <lb/>o'clock.</p>
+                <p>The evacuation by the enemy of our territory on <lb/>that frontier is a striking illustration of the impor<lb break="no"/>tance of the command of the lake. The enemy did <lb/>cross over to our side till the moment his fleet <lb/>was ready to assume the superiority. The re-appear<lb break="no"/>ance of our fleet effected what could not be done by <lb/>the expence of so much blood and treasure.</p>
+                <p>(From the Quebec Gazette) <lb/>The American Government has published the pa<lb break="no"/> 
+               <lb/>pers relating to the late negotations at Ghent. We <lb/>confess that we have seen these papers with feelings <lb/>of some satisfaction and much regret ; satisfaction <lb/>that we can now say that the honour of the British <lb/>Government is pledged to do something for Bri<lb break="no"/>tish interests in North American, and regret that that <lb/>something is so little.</p>
+                <p>The Indians are to be made independent of both <lb/>nations. This is perfectly just, and would, under <lb/>certain cirumstances greatly add to the security of <lb/>these provinces. The Lakes are to be exclusively <lb/>British. On these subjects we must be permitted to <lb/>ask how long they would be permitted to remain <lb/>so, how long the Indians would retain their inde<lb break="no"/>pendence in the event of another war, if the commu<lb break="no"/>nication with them should be in the power of the <lb/>enemy ? The sole communication for military pur<lb break="no"/>poses, with the Indians and the Lakes, is by the river <lb/>St Lawrence, from Montreal to Kingston, and from <lb/>Niagara to Fort Erie ; and the Americans are to be <lb/>permitted to remain in possession of one of its banks ! <lb/>The enemy has hitherto been prevented from inter<lb break="no"/>rupting this communication by the thinness of the <lb/>settlements of their side, the consequent badness of <lb/>the roads, and difficulty of supplying a large force. <lb/>The possession of th southern bank of the St Law<lb break="no"/>rence between Montreal and Kingson, and the power <lb/>of supplying themselves, and operating on that fron<lb break="no"/>tier, by the roads now existing, and from Lake <lb/>Champlain, has been worth a large force to them, <lb/>during the whole of the war ; it has caused us to <lb/>parcel our force to support the line of communication <lb/>between Lake St Francis and Kingston, and keep a <lb/>great proportion of it to protect the base of that line <lb/>in the vicinity of Montreal.</p>
+                <p>The position of Canada, relative to the United <lb/>States, with its present boundaries, is an extraordi<lb break="no"/>nary one ; so much so, that intelligent military men <lb/>have pronounced it incapable of defence much beyond <lb/>Quebec. The miserable state of the enemy's prepa<lb break="no"/>rations, the superiority which we then had on the <lb/>Lakes, the good disposition of the inhabitants, and <lb/>the prudent conduct of the commander of the forces, <lb/>alone saved it. The waste of means in protecting <lb/>and conveying supplies by a communication of five</p>
+                <p>
+               <pb/>hundred miles, adjoining the whole way to the ene<lb break="no"/>my's frontie, is conceivable only to those whom ex<lb break="no"/>perience has made acquainted with the fact, or who <lb/>are habituated to reflection ; and whenever the com<lb break="no"/>munication of the Lakes becomes interrupted, the <lb/>supply of any force further advanced on the line be<lb break="no"/>comes utterly impracticable. The enemy derives <lb/>his supplies either by the Lakes, upon which an army <lb/>can effect nothing, or from a settled country, a long <lb/>way in his rear, protected by his army, a country co<lb break="no"/>vered with woods, and a militia more effective than <lb/>the best troops in such a country, always ready for <lb/>the protection of their property and their houses– <lb/>Under such circumstances, the weakness of an army <lb/>beyond a certain point is to be counted by its num<lb break="no"/>bers.</p>
+                <p>We scruple not to say, that, whenever that part <lb/>of the State of New York extending to the St Law<lb break="no"/>rence, between Lake Ontario and Lake Champlain, <lb/>shall be fully settled, the whole of Upper Canada <lb/>must fall to the United States, the Lower Canada <lb/>will not be defensible but at an expence of means <lb/>far beyond its value. We had much rather see the <lb/>Americans confirmed in the possession of Sackett's <lb/>Harbour, Presqu-ile, Detroit and Michilimackinac, <lb/>than in the possession of the tract of country just <lb/>mentioned. Great Britain will always have the <lb/>means of establishing a superiority on the Lakes, <lb/>whenever she chuses to exert them, but she never <lb/>will be able to drive the Americans out of that fron<lb break="no"/>tier, when once fully settled, supported as they will <lb/>be by the immense population of the back parts of <lb/>the State of New York and adjoining States.</p>
+                <p>
+               <hi rend="smallcaps">From the United States Papers </hi>
+               <lb/>Urbanna, Sept. 25. <lb/>An express has arrived from Detroit, to General <lb/>M'Arthur, in six days, in which Governor Cass <lb/>says–" A state of things has arrived, in which <lb/>your presence, with the force at your disposal, is <lb/>essential to the security and preservation of the coun<lb break="no"/>try. The Indians have recommenced hostilities on <lb/>every side of us ; they are murdering the people, and <lb/>breaking up the settlements. There is now a large <lb/>force of them in the immediate vicinity of this place, <lb/>most probably within a mile of it, with the avowed <lb/>purpose of attacking the town. We have no force <lb/>adequate to the defence of the country, and none of <lb/>description proper for the pursuit of the Indians– <lb/>My opinion is, that you should hasten on with the <lb/>mounted men with all possible expedition."</p>
+                <p>The express came by water, the land communia<lb break="no"/>tion being entirely cut off.</p>
+                <p>Albany, Oct. 25. <lb/>The Legislature of this State adjourned yesterday, <lb/>after a session of four weeks. The principal laws <lb/>passed are:</p>
+                <p>An act to authorise the raising of troops for the defence of <lb/>this State. <lb/>An act to encourage privateering. <lb/>An act to authorise the raising of a corps of sea fencibles. <lb/>An act to provide for the repayment of certain sums of <lb/>money advanced by the Corporation of the city of New <lb/>York, for the defence of the State, and for other purposes. <lb/>An act to prevent the apprehension of British deserters. <lb/>An act to authorise the raising of two regiments of men of <lb/>colour. <lb/>An act authorising additional pay to be made to the volun<lb break="no"/>teers, and for paying the militia called into service by the <lb/>State authority. <lb/>An act to aid in the apprehension of deserters from the ar<lb break="no"/>my and navy of the United States.</p>
+                <p>The first act authorises the Governor to call into <lb/>actual service 12,000 men, for the term of two years, <lb/>provided the Government of the United States shall <lb/>have declared their intention to pay, clothe and sub<lb break="no"/>sist them at their expence.</p>
+                <p>The privateer bill authorises associations to incor<lb break="no"/>porate themselves for the purpose of fitting out pri<lb break="no"/>vateers.</p>
+                <p>The following resolution, introduced by Mr Mo<lb break="no"/>nell, passed both Houses of our Legislature unani<lb break="no"/>mously on Saturday:–</p>
+                <p>Resolved unanimously–That the House of Assembly of <lb/>the State of New York view, with mingled emotions of sur<lb break="no"/>prise and indignation, the extravagant and disgraceful terms <lb/>proposed by the British Commissioners at Ghent–that, how<lb break="no"/>ever ardently they may desire the restoration of peace to their <lb/>country, they can never consent to receive it at the sacrifice <lb/>of national honour and dignity–that they therefore strongly <lb/>recommend to the National Legislature the adoption of the <lb/>vigorous and efficacious measures in the prosecution of <lb/>the war, as the best means of the bringing the contest to an ho<lb break="no"/>nourable termination, and of transmitting unimpaired to their <lb/>posterity their rights, liberty, and independence.</p>
+                <p>The following is a private letter which was brought <lb/>by the Liffey :</p>
+                <p>Montreal, Nov. 5. 1814. <lb/>"Sir George Prevost reached Kingston on the <lb/>10th October, where his presence has been of the ut<lb break="no"/>most importance. Chauncey resigned his blockade <lb/>of that place on the 8th, and retired with his squad<lb break="no"/>ron to Sackett's Harbour. Our fleet which was <lb/>ready for the Lake in a few days after Sir George's <lb/>arrival, sailed for Niagara on the 16th, with 500 of <lb/>the 90th, and a supply of provisions and stores for <lb/>the right division, and arrived off Fort George on the <lb/>evening of the 18th. Having landed this reinforce<lb break="no"/> 
+               <lb/>ment, Sir James returned to Kingston on the 24th.</p>
+                <p>"The enemy at Fort Erie having been joined by <lb/>General Izard's army, making a force of 7 or 8000 <lb/>men, advanced upon General Drummond, and at<lb break="no"/>tacked our positions upon the Chippawa on the 15th <lb/>instant ; but having met with an opposition unexpect<lb break="no"/>ed by them, and making no impression, retired on <lb/>the 16th and 17th to Black Creek, from whence they <lb/>advanced one of Izard's brigades, 1500 men, on the <lb/>19th, with a view of our turning our right, and attempt<lb break="no"/>ed to cross the Chippawa, about six miles from its <lb/>mouth, where they were met with by a corps of about <lb/>1000 troops, under Colonel Meyers, who faced them <lb/>most manfully ; they skirmished the whole day, in <lb/>which the Glengarries supported their high charac<lb break="no"/>ter, and, in the evening, <hi rend="italic">Jonathan</hi>  finding himself <lb/>foiled, and unable to bring up his artillery from the <lb/>horrid state of the roads, retired again to the main <lb/>body at Black Creek.</p>
+                <p>"Our casualties on this occasion were triflin– <lb/>those of the enemy were said to have been considerable, <lb/>though he refrained from exposing himself to our <lb/>fire in the open ground. We had two field-pieces <lb/>there, and whenever the enemy showed a column <lb/>out of the wood, a well-directed discharge soon o<lb break="no"/>bliged them to return to their shelter. By this time <lb/>our fleet being announced, gave alarm to the enemy, <lb/>and they commenced a precipitate retreat to Fort <lb/>Erie.</p>
+                <p>"They were purused on the 20th and 21st by <lb/>our advance, under Major-General Watteville, close <lb/>to Fort Erie, where he found them occupying the <lb/>high ground, which General Drummond had not <lb/>left many weeks before, and could push no further. <lb/>At the date of the last accounts from General Drum<lb break="no"/>mond, Jonathan still maintained his post, from which <lb/>it will require a few columns of fresh troops to dis<lb break="no"/>lodge him, but as they are now on their way to join <lb/>the right dividion, I trust I shall in a short time have <lb/>the pleasure to acquaint you of the complete expul<lb break="no"/>sion of the enemy from the Niagara frontier. It is <lb/>said, that for want of sufficient shelter, a part of Ge<lb break="no"/>neral Izard's force had crossed to Buffalo, and that <lb/>they had passed over some heavy artillery and stores, <lb/>leaving at the fort such a force as they conceived ca<lb break="no"/>pable of defending it.</p>
+                <p>"Sir James brough down with him the skeleton <lb/>of the 1st battalion of the King's regiment, and the</p>
+                <p>
+               <pb/>remains of the two flank companies of the 10th. He <lb/>sailed again on the 1st inst. taking with him about 1200 <lb/>men, comprising the 37th, a brigade of artillery, a 9<lb break="no"/>pounder, and detachments from the 6th and 82d re<lb break="no"/>giments, and a large supply of provisions and stores. <lb/>The five hundred of the 9th regiment who marched to <lb/>York would be crossed to Niagara in the brigs ; the 9th, <lb/>850 strong, were to have been embarked in the fleet, <lb/>but Sir James could not take them. The Royals, 41st, <lb/>89th, and 100th, exhausted corps, return to Kingston by <lb/>this trip of the fleet, which I fear was scarcely able to <lb/>make another this season. The St Lawrence has proved <lb/>a noble ship, and one and all seem delighted with her. <lb/>The frigate in frame arrived at Kingston, where she <lb/>has been laid down and lengthened to make her the <lb/>size of the Prince Regent. The keel of a 74 is also laid <lb/>down there. The Americans are said to have com<lb break="no"/>menced upon two more ships of the class of the Su<lb break="no"/>perior. Letters from Michilimacinack to the 19th <lb/>October state, that the capture of the two schooners <lb/>will be attended with the most important benefits in <lb/>the security of that post, and the territory dependent <lb/>upon it. Captain Rocheblave, with the detachment <lb/>of the 81st under Capt. Wardrop, and artillery, ar<lb break="no"/>rived there on the 14th October, without any cas<lb break="no"/>ualty among the troops ; and Mr M'Kenzie, with his <lb/>brigade, would arrive about the 21st. The two <lb/>schooners had made a trip to Nottawasage for provi<lb break="no"/>sions and supplies, and would attempt another before <lb/>the navigation closed. A reinforcement had been <lb/>sent under Capt Bulgar to Praire du Chain.</p>
+                <p>"The arrangements necessary for reinforcing and <lb/>supplying General Drummond's army being com<lb break="no"/>pleted, and the attack upon Sackett's Harbour being <lb/>deemed impracticable this season, Sir George return<lb break="no"/>ed last evening to this place ; his journey to King<lb break="no"/>ston has certainly had the effect of inducing Ge<lb break="no"/>neral Brown, with a considerable part of his force, <lb/>to move to Sackett's Harbour, and has thus left <lb/>General Izard so much weakened at Fort Erie, that <lb/>I have little doubt of the result of an attack upon <lb/>him.</p>
+                <p>"I am sorry to see that the malice of a certain party <lb/>here has been at work at your side of the water ; it <lb/>has increased tenfold since the expression of the <lb/>public sentiment in favour of his Excellency, by the <lb/>addresses which are now preparing, and which I <lb/>can assure you is the real and unsolicited voice <lb/>of the people. I am happy to find that General <lb/>Kempt is going to England, as he will afford true <lb/>information upon the state of the country, and be <lb/>able to exposethe falsehoods which have been circu<lb break="no"/>lated respecting recent events."</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

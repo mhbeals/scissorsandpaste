@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>158</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-01-13"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration to Canada</hi>.</p>
+                <p>About ten days ago an emigrant arrived from <lb/>Canada, to Paisley, and brings very favourable <lb/>intelligence from that country. He is a native <lb/>of Scotland ; was some time in the army ; and <lb/>is going home again, as he calls it, early in the <lb/>spring. This person gives the most satisfactory <lb/>and cheering account of the place, and says his <lb/>chief complaint was the want of society to share <lb/>in his felicities, to be companion of his joys, and <lb/>to exult in his abundance. He adds that one of <lb/>his principal reasons for coming here at present <lb/>was hearing of our distressed condition, and <lb/>that he might be able to persuade others to follow his ex<lb break="no"/>ample ; anxious to be surrounded by happy, in<lb break="no"/>telligent, and social neighbours. His arrival and <lb/>narrations, combined with other circumstances, <lb/>have been the subject of considerable discussion <lb/>the whole of last week. A strong desire <lb/>for emigration has been manifested, and about <lb/>300 have already subscribed their names, as a <lb/>testimony of their ardour to go away. A peti<lb break="no"/>tion is immediately to be forwarded to his Ma<lb break="no"/>jesty's Ministers, imploring their assistance by <lb/>way of loan or donation, to enable them to carry <lb/>their wishes into execution. This petition, it is <lb/>said, is to be supported by the principal gentle<lb break="no"/>men of the county, and the utmost anxiety <lb/>will doubtless prevail concerning its success. – <lb/>Let us hope that Government will see the neces<lb break="no"/>sity of attending to the supplications of these <lb/>people. The Sheriff Depute has been memoriali<lb break="no"/>zed upon the subject, to give his counsel and sup<lb break="no"/>port in behalf of the measure, and it is much to <lb/>his honour that he has evinced a great disposition <lb/>to favour the object in view. His office has <lb/>been appointed for the reception of signatures, <lb/>where the persons experience the greatest kind<lb break="no"/>ness in every possible way. It is proper, at the <lb/>same time, to mention, that a number who were <lb/>wishing to subscribe as desirous to emigrate, have <lb/>been rejected ; as their circumstances were not <lb/>of that despairing nature as to warrant an inter<lb break="no"/>position of this kind in their favour. It cannot <lb/>be expected that those who enjoy a considerable <lb/>degree of comfort at home, or who have sufficient <lb/>means of their own to emigrate without public <lb/>aid, ought to be included among that number des<lb break="no"/>tined to participate in this salutary and benevo<lb break="no"/>lent proposition. Some of the fiercer radicals, with <lb/>their accustomed zeal and spleen, are busily em<lb break="no"/>ployed in jeering and deprecating the idea of <lb/>emigration and telling the " people to stay and <lb/>help" in the recovery of their rights. They de<lb break="no"/>clare the whole scheme to be a mere farce, in<lb break="no"/>tended to be played against them, in order to <lb/>destroy the unanimity which they say exists in <lb/>the nation concerning their grand object. These <lb/>querulous politicians complain of the climate of <lb/>Canada, and it must be granted that it resembles <lb/>Italy more than Scotland, being hotter in sum<lb break="no"/>mer and coller in winter than our own island <lb/>but the country is healthy, the soil is fruitful <lb/>and strong constitutions and longevity are as <lb/>common there as in any other part of the globe. <lb/>The same manners, language, and regulations <lb/>prevail in Upper Canada as in Scotland, and <lb/>when people have plenty of provisions, fuel and <lb/>warm clothing to resist the effects of heavy snows <lb/>and intense frosts, the objection of cold is less <lb/>worthy of consideration. – <hi rend="italic">Glasgow Chronicle</hi>.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>159</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-01-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Dutch Colonial Law, and Negro  <lb/>Fortitude.</hi>
+            </p>
+                <p>(From Lavaysse's Account of Venezuela, Trinidad, Mar<lb break="no"/>garitta, and Tobago, just published.)</p>
+                <p>Stedman, after having given a picture of the cruelties <lb/>practised on the negroes at Surinam, relates that on his <lb/>arrival in that colony, a white man was flagged by a black <lb/>executioner, for having stolen some money from the town<lb break="no"/>house ; and he remarked that this negro inflicted the pu<lb break="no"/>nishment with great signs of commiseration. A negro <lb/>was broken on the wheel for the same crime, and he bore <lb/>that horrible punishment without a sigh. A moment af<lb break="no"/>terwards, they prepared to hang another, and whilst the <lb/>hangman was tying the cord round his neck to launch him <lb/>into eternity, he looked steadfastly, with a smile of con<lb break="no"/>tempt, at his judges, who were among the spectators of the <lb/>execution. " Having expressed to the persons who were <lb/>near me, (says Captain Stedman) how much I was shock<lb break="no"/>ed with the injustice and cruelty of those executions, <lb/>and surprised at the intrepidity of the negroes during the <lb/>punishment, a very decent looking man thus addressed <lb/>me ; Sir, you are newly arrived from Europe ; but if you <lb/>were better acquainted with negro slaves, what you now <lb/>see would neither excite your surprise nor your pity. It <lb/>is not long since I saw a negro suspended from that very <lb/>gibbet by the ribs. The following is the manner in which <lb/>it was done : two incisions were made in his side, in which <lb/>was passed an iron hook attached to a chain. He lived <lb/>three days suspended in that manner, his head and feet <lb/>hanging down, licking from his bleeding breast the drops <lb/>of water that fell on it, for it rained at the time. The <lb/>sufferer did not, however, utter a groan, and never once <lb/>complained. On the third day, another negro was flogged <lb/>under the gallows, and having cried from pain, the former <lb/>reproached him for his want of courage: " Are you a <lb/>man?" said he to him, " you behave like a child!" – <lb/>A moment afterwards the soldier who was sentry <lb/>on the spot taking pity on him, dashed out his brains <lb/>with the butt end of his musquet. " I saw another <lb/>negro quartered," the narrator: " After his <lb/>arms and legs were tied to four very strong horses, an <lb/>iron nail was driven under each nail of his hands and feet <lb/>He suffered that without complaining, requested a glass of <lb/>ru,, and ordered the executioners to let loose the horses. <lb/>But that which amused us most," continued this monster, <lb/>"was the humour of the fellow, who, when the hangman <lb/>presented the glass of rum to him that he had asked for, <lb/>told him to drink first, as he was very much afraid of be<lb break="no"/>poisoned, and desired him to take care that his horses <lb/>should not kick him. As for old negroes being broken on <lb/>the wheel, and young women burnt alive, nothing is more <lb/>common in this colony!"</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>160</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-01-29"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Mr Birkbeck's Settlement</hi>
+            </p>
+                <p>A small pamphlet has lately been published, consisting of letters <lb/>and extracts of letters from Mr Birkbeck, of which we have been procured <lb/>a copy. The author's object appears chiefly to have been to counter<lb break="no"/>act the misrepresentations circulated on the subject of the settlement <lb/>by Cobbett. We read Cobbett's remarks when they were first trans<lb break="no"/>mitted to this country, and certainly did not think them worthy of the <lb/>notice here bestowed upon them. His objections to the new settle<lb break="no"/>ment, helped out as they were misquotation and misconstruction, <lb/>were of very little weight, except in so far as they applied to all emi<lb break="no"/>gration whatever ; and they had really nothing to render them worth <lb/>reading, but the sarcasm and caustic humour which accompanied <lb/>them. We should, therefore, have been better pleased had Mr Birk<lb break="no"/>beck allowed this restless controversist to wallow in the mire of his own <lb/>endless contradiction, and rather given us some more details regard<lb break="no"/>ing the settlement. The Americans are every year pushing forward <lb/>into the wilderness ; but it is a new thing for a body of our country<lb break="no"/>men, when withdrawing from a society richly provided with all the <lb/>accomodations which wants of civilized life render necessary <lb/>to pass through the settled and cultivated parts of the New World <lb/>and to retire to the untrodden waste a thousand miles from the sea <lb/>Though the activity of commerce carries many of the convenienes <lb/>and even luxuries of life to this remote place, still the settlers must <lb/>find such a difference in their situation as must subject them to go ma<lb break="no"/>ny privations ; and some details, shewing how the colonists got over <lb/>their difficulties, how their various wants were supplied, and how the <lb/>feelings and habits of civilized life accommodated themselves to the <lb/>woods and the wilderness, would have been much more interesting <lb/>than a reply to Cobbett's captious objections. One of the most try<lb break="no"/>ing privations of the colony seems to be a want of wives, an evil <lb/>which happily does not affect the mother country, amidst all her other <lb/>sufferings. The evil has probably been aggravated by some of the co<lb break="no"/>lonists forgetting to take their wives with them. If matters don't <lb/>get better in this particular, we may expect to hear of some of the <lb/>adjoining American towns suffering a Sabine spoliation. A cargo <lb/>of young ladies would evidently be one of the best mercantile specu<lb break="no"/>lations ; and as our own city had surplus of ten or twelve thousand <lb/>females at the last census, we have no doubt that some of our enter<lb break="no"/>prising export traders will take the hint, and, by scouring the board<lb break="no"/>ing-schools, complete a choice assortment, adapted to the Illinois <lb/>market.</p>
+                <p>The following extracts the only parts that appear to have any <lb/>general interest.</p>
+                <p>" <hi rend="italic">English Prairie, July</hi>  13. 1819. <lb/>"My Friends and Countrymen,–For your service I exhibited, in <lb/>two publications, an outline of the process of emigration, from its <lb/>commencement up to the final settlement.</p>
+                <p>"My first opinion of this, the spot of our choice, and the reasoning <lb/>on which that choice was grounded, are before you ; and sufficient <lb/>time has elapsed to try those opinnions by the test of experience, by <lb/>which they are confirmed in every important particular. I showed <lb/>you my own tract through the gloomy forest into a delightful coun<lb break="no"/>try, better prepared for an abode by the hand of nature than the heavy <lb/>woods by half a century of labour. I built me a cabin, and "belayed <lb/>a road to it;" for it was my ambition to be surrounded by my old <lb/>friends and neighbours. In this, too, I am gratified ; and we are con<lb break="no"/>tented with out allotment, both as to our present state and future <lb/>prospects.</p>
+                <p>"This small district, which two years ago was nearly without inha<lb break="no"/>bitants, contains a thriving population of from six to seven hundred <lb/>persons. We have been blessed with health most unusual for a new <lb/>settlement, or for any settlement of equal numbers in any country ; <lb/>and no doubt is entertained by us, or by any judicious observer, of its <lb/>salubrity. We have several wells of excellent water, and many more <lb/>are in progress. Our soil is fertile beyond my own expectation ; but <lb/>our exertions have hitherto been chiefly directed to the permanent <lb/>objects of building and fencing, of which much has already been <lb/>done. We have, however, collected a stock of hogs and cattle ; and <lb/>I think acres of corn are now growing than there are indivi<lb break="no"/> 
+               <cb/>duals in the settlement."</p>
+                <p>"With regard to pecuniary success, the capitalist is commencing <lb/>his operations, or looking around him undecided as to the course he <lb/>shall pursue ; but the labourer has <hi rend="italic">made</hi>  an <hi rend="italic">establishment</hi>. It is not <lb/>with him as with the capitalist, a state of hope merely, from good <lb/>prospects, but of enjoyment, from good possessions. Numbers of <lb/>this class, and of mechanics, have already realized their little free<lb break="no"/>holds, and are building cabins for themselves. The fruits of their <lb/>labour are not squandered in dissipation and excess, because they <lb/>have highr objects ; and, considering their former depressed condi<lb break="no"/>tion, it is astonishing to me, as it is honourable to them, that they be<lb break="no"/>try no arrogance in their to independence."</p>
+                <p>"In the statements I have published, I see little to correct, as far <lb/>as my observation and experience have now proceeded, excepting that, <lb/>in my view of the profits of cultivation to early settlers, I have not <lb/>made sufficient allowance in time for the innumerable delays and dis<lb break="no"/>appointments inseparable from new undertakings in a new country. <lb/>A year of preparatory and unproductive exertion should be added to <lb/>the debtor-side of the account at the outset."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>161</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-01-08"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Proceedings of the Court</hi>
+            </p>
+                <p>Lord Provost <hi rend="smallcaps">Manderston</hi>  having been called to the Chair, the <lb/>Clerk, Mr A. Boswell, read a very distinct report of the results and <lb/>general features of the transactions at the Infirmary and Queensber<lb break="no"/>ry House Hospital for the last year. The Lord Provost then named <lb/>a Committee to examine the Treasurer's accounts, &amp;c., and report to <lb/>the adjourned meeting to be held in February next.</p>
+                <p>
+               <hi rend="smallcaps">Mr John Witham</hi>  junior then rose, and requested leave to submit <lb/>a few observations to the consideration of the Court. He stated in <lb/>substance that, though aware of its not being usual to vote thanks to <lb/>the Managers until their accounts have been examined, he was yet <lb/>anxious to embrace the first opportunity of expressing his conviction <lb/>that the exertions of the Managers had, at last, placed this valuable <lb/>Institution on a most desirable footing. Although he had not visited <lb/>the Hospital for the last twelve months, he had not ceased to take an <lb/>interest in its welfare ; and it was with great pleasure that he now <lb/>stated, that whether his inquiries were made of the medical attendants, <lb/>or of <hi rend="italic">recent patients,</hi>  the answers were uniformly satisfactory. The <lb/>Hospital was favoured with a good Matron, between whom and the <cb/>medical gentlemen the best understanding existed ; and the various <lb/>salutary regulations of the Managers have led to such a prosperous <lb/>state of things, as justly to entitle them to the gratitude of this Court <lb/>and the public. Still, however, he must say, that although the Hospi<lb break="no"/>tal was in a good state, yet, in his mind, Visitors could not fall to afford <lb/>that assistance to the Managers here, and that security against internal <lb/>abuses, which they had done in so many other similar institutions. It <lb/>was difficult to account for the prejudices which existed against this spe<lb break="no"/>cies of assistance in Edinburgh. At Leeds, in addition, to visitors of <lb/>our sex, there was a committee of ladies, who visisted the female wards, <lb/>and from the joint labours of both classes of visitors many and great <lb/>advantages had resulted. But in this city we had hospitals for fe<lb break="no"/>males, which are governed by men only, without seeking any help <lb/>from visitors of that sex, who are much better qualified to discharge <lb/>most of the duties. This view of these matters, he trusted, would yet <lb/>be attended to.–He must also crave the attention of the meet<lb break="no"/>ing to another matter, that of the L.11,700, for which the city of E<lb break="no"/>dinburgh pays only 4 1/2 per cent. He assured the Court, and its Ho<lb break="no"/>noured Chairman, that this subject was not introduced with the view <lb/>of touching upon, or insinuating any thing respecting the city's af<lb break="no"/>fairs. The money, he understood, was secured on the ale duty ; but <lb/>why should the Hospital lose one-half per cent, of interest? He had <lb/>once made a calculation, according to which the loss, from the be<lb break="no"/>ginning, had amounted to about L.10,000. It had been stated that <lb/>the Magistrates of Edinburgh had always been friendly to the Hos<lb break="no"/>pital ; but that was surely no reason for withholding L.59 of interest <lb/>that whatever former Magistrates had thought on the subject the <lb/>present would not submit to the idea of depriving the Hospital of any <lb/>part of its lawful interest. If the ground on which the Hospital was <lb/>built was alluded to, it was plain that town had already got more, <lb/>by the reduced interest than its original value. The town of Edin<lb break="no"/>burgh had also got L.8273 ; 17 ; 3 of invalid money from Govern<lb break="no"/>ment, on condition of paying <hi rend="italic">the interest</hi>  to the Infirmary, <hi rend="italic">which inte- </hi>
+               <lb/>
+               <hi rend="italic">rest</hi>, if paid at two terms in the years, should be restricted to 3 1/2 per <lb/>cent. And as the property tax–which the Town did not retain from <lb/>the Hospital, whether they did or did not pay it to Government,–is <lb/>now at an end, he could see no reason for withholding the usual rate <lb/>of interest. He concluded by suggesting the names of several gentle<lb break="no"/>men as a Committee, to lend out the sum of L.11,700 on interest at <lb/>5 per cent, if the Magistrates of Edinburgh should decline to pay that <lb/>rate of interest.</p>
+                <p>
+               <hi rend="smallcaps">Mr Alex. Cruishank</hi>  seconded the motion</p>
+                <p>Col. <hi rend="smallcaps">Crichton</hi>  regretted that the respectable gentlemen should have <lb/>introduced such a motion. He seldom visisted the Infirmary, but <lb/>when he sent patients to it ; but he could state, that when his servants <lb/>or workmen have been there from fever, the attention they received <lb/>was in every respect equal to what he, and he hoped he was a respec<lb break="no"/>table citizen, could command in his own house. But he could men<lb break="no"/>tion the testimony of one whose authority was much higher than his <lb/>own – that of a medical gentlemen of some eminence in his profes<lb break="no"/>sion, who lives abroad, and who was recently in this country. That <lb/>professional gentleman spoke the very highest terms both of the <lb/>medical treatment and the economy of the House. It was matter <lb/>of pride, he said, to every Scotsman, to hear the manner in which the <lb/>Infirmary of Edinburgh was spoke of in all the quarters of the globe. <lb/>It was the pattern of all that was excellent in such institutions, and a <lb/>nursery of the most skilfull practitioners ; for go where we will, the <lb/>answer to almost every question put with respect to improved hospi<lb break="no"/> 
+               <lb/>tal treatment is, that it was learned in the Infirmary of Edinburgh. <lb/>Whether, indeed, we thought of these things ; whether we looked at <lb/>the sublime inscriptions on the outside of the Hospital, and the Chris<lb break="no"/>tain doctrines and principles there inculcated or the treatement and <lb/>management within we could not fail to be struck with admiration <lb/>and without imputing any motives, which he was not entitled to do <lb/>he must say, it would be much more creditable to the respectable gen<lb break="no"/>tlemen if they should confine themselves to expressing their high o<lb break="no"/>pinion of the institution and tanking the Managers instead of oc<lb break="no"/>cupying the valuable time of this Honourable Court with quibbling <lb/>about trifles, which were every way contemptible. After a pause, <lb/>Col. Crichton made a counter motion, to get rid of Mr Wigham's.</p>
+                <p>Lord <hi rend="smallcaps">Meadowbank</hi>  reminded the Court, that this matter of inte<lb break="no"/>rest had already been under the consideration of a Committee, and <lb/>decided on by the Court.</p>
+                <p>
+               <hi rend="smallcaps">Henry Jardine</hi>, Esq. begged to mention a fact that the Town of <lb/>Edinburgh had contributed L.50 to the Infirmary for the last year.</p>
+                <p>Mr <hi rend="smallcaps">Ritchie</hi>  rose and said, that though perfectly aware of what the <lb/>result would be, he could not allow the matter to be settled without <lb/>giving Mr Wigham's motion his support. It gave him much pleasure <lb/>to find it was no longer unfashionable to allude to Christian doc<lb break="no"/>trines in such meetings as this,–a change from which he anticipated <lb/>much good. He concurred in what had been said on this subject by <lb/>the gentleman at the foot of the Table ; but he begged to remind him <lb/>that it was a great principle of Christianity, that nothing was too tri<lb break="no"/>fling to be attended to it it promised good; and the additional interest of <lb/>the money in question would obviously extend the means of <hi rend="italic">healing </hi>
+               <lb/>
+               <hi rend="italic">the sick</hi>, the great object of the Institution. Nothing, indeed, which <lb/>had fallen from that gentleman, or the Learned Lord on the other <lb/>side, could meet or touch the simple proposition, that <hi rend="italic">five per cent</hi>  is <lb/>the legal rate of interest, and that the Town of Edinburgh ought not <lb/>to pay less.</p>
+                <p>There was another subject alluded to by Mr Wigham, on which, if <lb/>Mr W. did not, he would submit a motion, namely, <hi rend="italic">Visitori</hi>  'And <lb/>this he conceived was the fittest time for appointing them. All sides <lb/>of the house were, now agreed that the Hospital was admirably con<lb break="no"/>ducted. It was impossible, therefore, to suppose that the measure <lb/>was proposed from any distrust of the Managers. If the management <lb/>was perfect now, it was too much to expect it could continue so ; and <lb/>this was the proper time for providing against the future. In other <lb/>places the highest characters in the land had acted with visitors ; and <lb/>much benefit had been derived from them in England, and even at <lb/>Glasgow. If human nature, therefore, was not different in Edin<lb break="no"/>burgh from wht it is on the other side of the Tweed, and in the west <lb/>of Scotland, it must be admitted that Visitors would be beneficial <lb/>here also. Besides, as the Managers were aware of their strength, <lb/>and that no measure could be carried here without their consent, the <lb/>granting of Visitors would be a <hi rend="italic">boon</hi>  from themselves. He moved, <lb/>that this Court do annually name 24 or more Visitors to act month<lb break="no"/>ly by rotation, and minute such observations as shall occur to them <lb/>for the consideration of the Managers.</p>
+                <p>Mr <hi rend="smallcaps">Wigham</hi>  seconded the motion ; but as the Court seemed averse <lb/>to entertain it, it was withdrawn.</p>
+                <p>Mr <hi rend="smallcaps">Ritchie</hi>  then said, that as his last motion was intended chiefly <lb/>as a caveat to the Committee named by the Lord Provost, he would <lb/>also, with the same view, state the nature of a motion which he wish<lb break="no"/>ed to submit, but the merits of which he was not then fully prepared <lb/>to state. it was one, however, of which he was sure it would not be <lb/>said, that it was introduced for the purpose of giving trouble, or un<lb break="no"/>necessarily occupying the time of the Court. Its object was the pro<lb break="no"/>motion of medical science, and its nature would be understood by <lb/>his reading a single paragraph from the able Clinical Reports of Dr <lb/>Duncan junior. " Almost all hospitals (it is there stated,) publish <lb/>annual Reports; but in many cases they are intended only to fur<lb break="no"/>nish information as to the expenditure of the funds, and the names of <lb/>the office-bearers, and as a public acknowledgement of the support of <lb/>the subscribers. Such reports, however, are of no use in marking the <lb/>progress of disease, and, except for purposes mentioned above, do po<lb break="no"/>sitive harm, by causing hospital reports in general to be neglected as <lb/>utterly without value. This, however, is not the case ; and the re<lb break="no"/>ports we have of late years received from the Fever Hospitals of <lb/>Dublin and Cork are worthy of being imitated by hospitals of every <lb/>kind and in every place. Indeed, the public have a right to expect this <lb/>information in return for their liberality in supporting them. We have <cb/>only to add, that the most valuable reports often proceed entirely from <lb/>the zeal of the reporters, and are only occasional. This leads <lb/>us to suggest, that the governors of hospitals should enjoin their regu<lb break="no"/>lar as a duty upon their medical officers ; and we will <lb/>venture to say, that where it has not yet been practised, its good ef<lb break="no"/>fects upon the institution in an economical as well as professional <lb/>points of view, will soon be apparent."–His motion went to carry this <lb/>suggestion into effect ; and without farther preface he should now <lb/>read it. The substance of it was, that in addition to the Journal kept <lb/>at present, Digest of the whole should be kept in a <hi rend="italic">tabular form</hi>  but <lb/>especially of the date of admission, age, sex, and place of residence <lb/>of the patients ; date of commencement, crisis, termination and as<lb break="no"/>signed causes of their diseases ; with a diary of the temperatures and <lb/>moisture of the atmosphere, state of winds, prices of staple pro<lb break="no"/>visions &amp;c. ; with an annual medical report, taking notice of the in<lb break="no"/>crease or decrease of population, and of the employment, diet and ha<lb break="no"/>bits of the labouring classes, as far as practicable. Some of the mem<lb break="no"/>bers, he observed, seemed to be amused with this enumeration ; but <lb/>the medical gentlemen would be aware of what he pointed at. With <lb/>their peculiar and proper duties, he had no wish to interfere. They <lb/>knew them well, and discharged them faithfully and honourably. In <lb/>their practise they attended to every thing that was necessary ; but <lb/>their knowledge often died with him ; and his object was to preserve <lb/>the results of their skill and experience.</p>
+                <p>The <hi rend="smallcaps">Lord President</hi>  said he hoped the gentlemen who had made <lb/>this motion, would see, on reflection, from the labour and time requi<lb break="no"/>site to carry it into effect, how very impracticable it would be in an <lb/>hospital like that of the Royal Infirmary, where the Managers had no <lb/>compulsory authority over the medical gentlemen, whose time was <lb/>so occupied with their own private avocations.</p>
+                <p>The Proposer of the motion said, that instead answering what had <lb/>fallen from the Right Honourable Judge in his own language, he <lb/>would beg leave to read another passage from Dr Duncan's volu<lb break="no"/>ble publication, and which, he hoped, would obviate some of the diffi<lb break="no"/>culties adverted to. " The trouble (says Dr Duncan,) of keeping <lb/>such tabular records, is not so great as might be supposed. It requires <lb/>only system and regularity; and when we see how easily it is done in <lb/>the military hospital, <hi rend="italic">we cannot help regretting that it is not also in- </hi>
+               <lb/>
+               <hi rend="italic">troduced general into civil hospitals.</hi>  If the practitioner himself has <lb/>not time to fill up the columns of the prescribed table, it would be <lb/>very little additional trouble to his clerk ; or if the time of that assis<lb break="no"/>tant would not easily permit him, <hi rend="italic">the duty would be very gladly taken </hi>
+               <lb/>
+               <hi rend="italic">by another of the Hospital pupils.</hi>
+            </p>
+                <p>Dr <hi rend="smallcaps">Hope</hi>, in a neat and eloquent speech, opposed the motion. The <lb/>Managers, he said, were willing to give due consideration to every <lb/>proposal from whatever quarter it might come. The present, how<lb break="no"/>ever, he considered as impractiable. To prepare tabular records of <lb/>the nature suggested, required great experience, much comprehens<lb break="no"/>ion and many talents. It was a task which every one was not qua<lb break="no"/>lified to discharge in a mnner could be beneficial to the public, <lb/>and one which gentlemen, who lived by their profession, could not be <lb/>expected to undertake. The case was different in military hospitals, <lb/>where the medical getlmen could devote the whole of their time to <lb/>their hospital duties. But it should be know, that the materials for <lb/>making up such tables are all recorded in the infirmary Journals ; and <lb/>that these Journals are open to <hi rend="italic">all the medical attendants;</hi>  so that <lb/>whoever finds that he has time and talents for the performance of <lb/>such tasks, has the fullest opportunity for undertaking and complet<lb break="no"/>ing them. Accordingly we had had the very able reports of Dr <lb/>Duncan, and the useful work of Dr Welsh. The Institution has now <lb/>the benefit of Dr Duncan's services ; and he considered it better to <lb/>leave the completion of such works and reports to the zeal and talents <lb/>of individuals.</p>
+                <p>The <hi rend="italic">Mover</hi>  then stated that he was perfectly aware of Dr. Welsh's <lb/>judicious publication as well as Dr Duncan's and he certainly would <lb/>never have introduced such a measure, had it not been suggested and <lb/>recommended by a much abler mind than his own. He had not un<lb break="no"/>dertaken the task from any idea that he was able to do it justice, or <lb/>that he could do it better, or even so well as many other members of <lb/>the Court ; but from the conviction, that if he had not introduced the <lb/>subject, it would be introduced at all. He had no wish, however <lb/>to give unnecessary trouble, and should, therefore, for the present, beg <lb/>leave to withdraw his motion.</p>
+                <p>
+               <hi rend="smallcaps">Form of Process in the Justiciary </hi>
+               <lb/>
+               <hi rend="smallcaps">Court.</hi>
+            </p>
+                <p>Our readers will learn with pleasure, that the Lord Advocate, <lb/>with a laudable anxiety for the honour of our criminal jurispru<lb break="no"/>dence, has announced officially, that the Clerk of Court "strikes the <lb/>Jury, by taking <hi rend="italic">45</hi>  after <hi rend="italic">45, until they served in rotation.</hi> " They <lb/>consist of a " list of Jurymen furnished by the High Constables" <lb/>for Edinburgh and those "regularly required from the counties of <lb/>Linlithgow and Haddington," which names " were <hi rend="italic">then</hi>  put up<lb break="no"/>on a roll, which was put into the bands of the Clerk of Court;"– <lb/>the Jurors thus struck being cited, not by a Sheriff officer, but by <lb/>a Macer of the Justiciary ourt. We are not aware of any law <lb/>which requires the Clerk of Court to take the Jurors by rotation ; <lb/>but it reflects great credit on his judgement that he resorts to this <lb/>unequivocal mode of displaying his impartiality. This is a virtue <lb/>which the law requires in all its officers ; and it is fortunate when <lb/>such rules are devised and adhered to as make the virtue incon<lb break="no"/>trovertibly visible. At such an advanced stage of society, honour <lb/>and public opinion will secure impartial justice ; but still, when <lb/>the possibility of some retrograde movement is adverted to, it <lb/>would be a wise measure to convert what all functionaries do at <lb/>present from principle, into specific rules for directing the conduct <lb/>of their successors. The Lord Advocate, it has been reported, is <lb/>about to introduce into Parliament a Bill or Bills respecting the <lb/>Judicatories of Scotland ; and his Lordship, it is obvious, might <lb/>obtain a well-merited popularity by throwing in some clauses to <lb/>fix the qualifications of a Juror in the different counties of Scot<lb break="no"/>land, and to regulate the times and the manner in which lists of <lb/>Jurors are to be made up, reduced into a penl of 45, and then to <lb/>a jury of 15. Ther is, if we mistake not, a cerain discretion on <lb/>more than one of these points left with functionaries, who, we <lb/>doubt not, would most readily part with it. To them it would be <lb/>a relief ; and though the arraigned might sometimes have less im<lb break="no"/>partial juries than at present, yet, if the ballot were introduced <lb/>here, as it has recently been in civil cases, the impartiality would <lb/>be more coguisable, and placed beyond the reach of doubt and <lb/>misrepresentation. It would be no disgrace to Scotland to bor<lb break="no"/>row in this respect from her sister kingdom, but an honour which <lb/>France seems willing to do herself at present, and which we very <lb/>lately did ourselves in modelling our Jury Court.</p>
+                <p>Mr Bywater has construced a small model of a ship in such <lb/>a manner as to exhibity, by actual experiment, the principal <lb/>magnetic phenomena mentioned by Captain Flinders, in his <lb/>voyage to New Holland. From a minute attention to the sub<lb break="no"/>ject, Mr B. has devised a plan, which, in all probability, will <lb/>remedy, by very simple means, the defect arising from the lo<lb break="no"/>cal attraction pointed out by Captain Flinders, and thus be of <lb/>real advantage to the science of navigation. A drawing of <lb/>this plan (as it will be important to ships of war) has been sent <lb/>to the Admiralty.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>162</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-04-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Upper Canada</hi>
+            </p>
+                <p>Extract from " A Visit to the Province of Upper Canada, <lb/>in 1819," By <hi rend="smallcaps">James Strachan.</hi>
+            </p>
+                <p>[?] the Stream of Emigration now chiefly to the <lb/>United States, and not to Canada.</p>
+                <p>The greater number are decieved; they know no<lb break="no"/>[?] of this country. Many leave Great Britain from <lb/>[?] discontents; and such the province is better. <lb/>[?]. Lately the notes of Mr. Birkbeck have ex<lb break="no"/>[?] much consideration; and all his assertions have <lb/>[?] believed, without investigation. Though I <lb/>[?] [?] a bad man (I know him only from his <lb/>[?] yet he is much to be pitied, for his choice is <lb/>[?]; and by this time he begins to feel it. <lb/>[?] Birkbeck, accustomed to all the comforts, and, <lb/>[?], much of the elegance of life, plunges, <lb/>[?[ family, into a forest, where they have fre<lb break="no"/>[?] to sleep under the canopy of heaven with a <lb/>[?]. He is forced to take the axe in his hand, <lb/>[?] in felling the pines of which he is to make <lb/>[?], which he builds at a great distance <lb/>[?] neighbour–opening to a wet plain, in <lb/>[?] and an impenetrable forest in the rear. This <lb/>[?] covered with bark–it has no floor but <lb/>[?] as the surrounding country is flat, there <lb/>[?], and no boards to be had. Mr Birk<lb break="no"/>[?] date not leave home, for any distance, with<lb break="no"/>[?] guide; and his children cannot go twenty <lb/>[?] from the house, without being lost. He gets <lb/>[?] pressing of his wants supplied at an enor<lb break="no"/>mous[?] expense. And now, that he is on his land. <lb/>[?] shall he do; it is covered with trees, or it is <lb/>[?] unhealthy; and if he hire people to work, <lb/>[?] of the farm will never pay them: but <lb/>[?] bae servants, and he is obliged to sit down <lb/>[?] them, and to become their companion. Mr. <lb/>Birkbeck[?], who was accustomed to go from one field <lb/>to another, admiring his crops and his cattle, and <lb/>thing to do but to give the servants their orders <lb/>the day, and saw all his works proceeding as ra<lb break="no"/>[?] as he wished, now finds himself an insulated <lb/>[?], surrounded by a few miserable fiels, taken <lb/>[?] the bog, and full of musquetoes; his children <lb/>[?] sick from this unhealthy situation; and, in <lb/>[?] severe disease, beyond the reach of medical <lb/>assistance. It is possible to believe that, under such <lb/>circumstances, he does not regret the country he has <lb/>[?]. And let me not be told that the prospect of <lb/>[?]] his children a rich inheritance will turn the <lb/>[?] into sweet–he is not that sort of man; nor do <lb/>[?] any law of nature which urges a parent to <lb/>[?] his own happiness, in order to confer a doubt<lb break="no"/>[?] upon his children. We allow that, after a <lb/>[?], he will be surrounded with neighbours; <lb/>[?] their society is not very agreeable; it is indeed <lb/>[?], as Mr Birkbeck himself admits. After <lb/>[?] his connexions, his country, all his early <lb/>[?] and pleasing recollections, his ease and <lb/>[?] what does he gain? Some landed property, <lb/>[?] he dies in improving, in an unhealthy situa<lb break="no"/>tion[?]. He may not be able to leave a farm to each of his <lb/>children[?]; but of what use will they be if not culti<lb break="no"/>vated[?]? And he will discover in the bitterness of <lb/>[?], that this legacy is not equal to the placing <lb/>[?] upon a farm, though taken at a rack-rent. <lb/>[?] different the situation of a loyal farer, pos<lb break="no"/>[?] of Mr. Birkbeck's substance, if he should <lb/>[?] this province[?]![?] He need not go ten miles from <lb/>[?] settlement, even if he went at once up<lb break="no"/>[?] lands granted him by the crown. But, if he <lb/>[?] an improved farm, his privations will be <lb/>[?] compared to those which he must suffer in <lb/>[?] to the back settlements of the United States, as <lb/>[?] still more fully appear.</p>
+                <p>It should not, however, be forgotten, that, with <lb/>[?] possible advantage of soil, neighbourhood, <lb/>[?] climate, emigration to America, a country so <lb/>[?] from Great Britain, is a matter of deep and <lb/>[?] consideration. The persons emigrating <lb/>[?] civil in their property, break up all commerce, <lb/>[?], and connexions in the country they are leav<lb break="no"/>[?] and if they find their expectations disappoint<lb break="no"/>[?] the country of their choice, they are ashamed, <lb/>perhaps unable, to return. Emigrants often fail, <lb/>[?] they have never examined their subjects pro<lb break="no"/>[?] and find, on trial, that they do not possess <lb/>qualities to insure success.–The habits, <lb/>knowledge, and accomodation of manners, <lb/>[?] this new life requires, are not, perhaps, na<lb break="no"/>[?] to them–they have not the strength, the <lb/>[?] and perseverance, which their new situation <lb/>[?]. The emigrant is not prepared to meet the <lb/>difficulties[?] which the climate, new manner of living, <lb/>[?] or vermin, may bring upon him; and which, <lb/>[?] of all his exertions, may frequently destroy <lb/>[?]. It is, therefore, the greatest cruelty to <lb/>[?] the matter partially; and, while the advantages <lb/>[?] from the old to the new world are drawn <lb/>[?] most fascinating colours, to conceal the priva<lb break="no"/>[?] and sacrifices which must be made, and the <lb/>[?] of failure which may be opposed to <lb/>of success.</p>
+                <p>We[?] shall have occasion to prove, by the most un<lb break="no"/>[?] the evidence, that Upper Canada offers to emi<lb break="no"/>[?] advantages, vastly superior to any portion of <lb/>[?] United States; but we would still admonish <lb/>[?] thinking to leave their native country, <lb/>[?] the matter with severe minuteness, not <lb/>[?] away by golden dreams; and to prepare <lb/>[?] should they decide upon going, to meet <lb/>[?] [?] from sickness, from different <lb/>[?], [?] labour, and privations of various <lb/>[?] Yet though no step can be so important as <lb/>[?] leaving one native's country for ever, it is to <lb/>[?] that such a step is taken without due con<lb break="no"/>[?]. The fancy is deluded with goldren dreams; <lb/>farmers[?] in America are owners of the soil on <lb/>[?] they live; they have no rents to pay, no tax<lb break="no"/>[?] their doors; possessing a noble indepen<lb break="no"/>[?] they acknowledge no superiority but genius <lb/>[?]. These are high sounding things, but <lb/>[?] than solid. Before a man allows him<lb break="no"/>[?] deluded by them, he should remember, <lb/>[?] no great hardship to pay rent, if his pro<lb break="no"/>[?] three times the price in England that it <lb/>[?] America; that the difficulty of bringing <lb/>[?] to maret, a tax, not perhaps inferior <lb/>[?] he had paid at home, and attended with <lb/>difficulties[?] which he never experience; that <lb/>[?] of intercourse by good roads and canals, <lb/>[?] time, and the tear and wear of his car<lb break="no"/>[?] amd cattle are worth a very considerable sum; <lb/>in removing from his native country, he is <lb/>[?] the improvements of a thousand years, to en<lb break="no"/>[?] all the rudeness of nature; that he is risking <lb/>[?] happiness, and that of his children, by a <lb/>[?] [?] be retraced, and plunging into <lb/>[?] whose manner and habits are differ<lb break="no"/> 
+               <cb/>ent from his own; and that he will have every thing <lb/>to learn in the midst of strangers.</p>
+                <p>When a man has, after mature deliberation, de<lb break="no"/>termined to emigrate, which various considerations <lb/>may, in particular cases, render prudent, his next <lb/>question is, Where shall he go–to the United States <lb/>or to Canada? We shall suppose the persons emi<lb break="no"/>grating to be friends to the British constitution; for <lb/>if they are not, there is no question; because level<lb break="no"/>lers and democrats will find themselves in a bad <lb/>situation in coming to Canada, as they will find no <lb/>kindred spirits there. But though we can willing<lb break="no"/>ly spare such as these, to lose good subjects is a <lb/>serious evil to the empire; and to lose them through <lb/>ignorance, and the want of that information which <lb/>it is in our power to give, is a folly, as well as <lb/>all evil.</p>
+                <p>I am persuaded, that all emigrants, of the descrip<lb break="no"/>tion we mention, would rather prefer to remain un<lb break="no"/>due their own government, than to live under and <lb/>swear allegiances to another, provided no greater <lb/>sacrifices were required in going to the one than to <lb/>the other. I am indeed quite certain, that many <lb/>would consent willing to a considerable sacrifice <lb/>for this advantage, so agreeable to their feelings and <lb/>habits; but we shall shew that no such sacrifice is <lb/>required, and that their interest, as well as inclina<lb break="no"/>tion, when duly considerd, will lead them to Upper <lb/>Canada.</p>
+                <p>In going to the United States, we have Mr. Birk<lb break="no"/>beck's authority, that 'no good settlement can be <lb/>made cast of the Alleghany mountains, or in the <lb/>Atlantic States.' The lands are now so dear, as to <lb/>be in general, far beyond the reach of common <lb/>emigrants, who have seldom much left after landing <lb/>in America.</p>
+                <p>Suppose two families to land in America–one at <lb/>New York, or Philadelphia, on the way to Mr Birk<lb break="no"/>beck's settlement; and one at Quebec, on the way to <lb/>Upper Canada.</p>
+                <p>
+               <hi rend="italic">Miles </hi>
+               <lb/>From Philadelphia to Pittsburgh 320 <lb/>From Pittsburgh down the Ohio, to Shawanoe <lb/>Town, 1200 <lb/>From Shawanoe Town to Mr Birkbeck's settle<lb break="no"/>ment, 50 <lb/>1570</p>
+                <p>Expense of a family travelling this route, suppos<lb break="no"/>ing the family to consist of ten persons, and to carry <lb/>with them two tons of goods:</p>
+                <p>
+               <hi rend="italic">Dollars. </hi>
+               <lb/>From Philadelphia to Pittsburgh, at eight dollars <lb/>per cwt. 320 <lb/>The expense of the family, who accompany the <lb/>waggon, at one dollar each per day 100 <lb/>From Pittsburgh to Shawanoe, by water, down <lb/>the Ohio, 1200 miles. An ark, or large scow, <lb/>must be purchased, hands hired to go down, <lb/>and they must be paid to return, as much from <lb/>Philadelphia to Pittsburgh, 420 <lb/>From Shawanoe Town to Mr Birkbeck, for bag<lb break="no"/>gage and person, 100 <lb/>940 <lb/>To purchase two hundred acres of land, at two <lb/>dollars per acre 400 <lb/>Total expenses 1310</p>
+                <p>The same family, landed at Quebec, <lb/>Pays, to Montreal, 200 miles, two dollars each, 20 <lb/>For the good[?] 12 <lb/>From Montreal to Kingston, 220 miles, up the <lb/>river St. Lawrence, goods and persons, for the <lb/>batteau can take all, 100 <lb/>If the family proceed to York, which is seldom <lb/>necessary as Kingston 150 miles within the <lb/>province, and lands in its neighbourhoods to be <lb/>sold or granted, there will be an additiona ex<lb break="no"/>pense of 80 <lb/>To such a family, possessed of property, govern<lb break="no"/>ment might grant 200 acres, on paying fees, <lb/>about 70 <lb/>Or it may be purchased at two dollars per acres, 130 <lb/>Total expenses, 412</p>
+                <p>From this calculation it is seen, that the settler, <lb/>with his large family, by coming to Upper Canada, <lb/>instead of joining Mr. Birkbeck, even if he purchases <lb/>his lands at the same price, saves 928 dollars, which <lb/>will enable him to clear a large portion of his farm, <lb/>stock it, and build a comfortable house; and if he <lb/>be granted the land, instead of purchasing it, there <lb/>is a further saving of 130 dollars.</p>
+                <p>Let us now see what the product at Mr. Birkbeck's <lb/>settlement in the Illinois, and in Upper Canada, will <lb/>command in the market; for, notwithstanding the <lb/>greatness of the first saving in coming to Upper <lb/>Canada, if the markets be inferior it might soon be <lb/>balanced.</p>
+                <p>Illinois Upper Canada <lb/>Wheat, per bushel t0 3 9 Wheat, per bushel t0 5 0 <lb/>India corn, 0 1 1 India corn, 0 4 0 <lb/>Oats, 0 1 6 Oats, 0 2 6 <lb/>Hay, per ton 1 19 0 Hay, per ton 2 10 0 <lb/>Butter, per lb. 0 0 7 Butter, per lb. 0 1 3 <lb/>Cheese 0 1 3 Cheese 0 0 10 <lb/>Fowls, per couple, 0 1 7 Fowls, per couple, 0 1 6 <lb/>t2 8 9 t3 5 1 <lb/>N.B. These prices, taken from Mr. Birkbeck's book, are <lb/>t50 per cent, above the truth.</p>
+                <p>From this table it is manifest, that the produce <lb/>raised in Upper Canada sells at an advance of up<lb break="no"/>wards of 30 per cent on what the same can be sold <lb/>in the Illinois territory, supposing Mr. Birkbeck's <lb/>prices correct, which they are not, being much too <lb/>high. The vast advantage, therefore, in coming to <lb/>Upper Canada, must appear manifest.</p>
+                <p>It may by some be said, that the families are too <lb/>numerous, as there are few that consist of ten per<lb break="no"/>sons; but the results will be proportionally the same, <lb/>whatever the number be; and if we suppose them <lb/>to consist of persons in comfortable circumstances in <lb/>their own country, they will commonly bring ser<lb break="no"/>vants with them, by which the average will be still <lb/>greater. But this is of no moment; the difference <lb/>of expense in travelling 500 miles, or 1570, is suf<lb break="no"/> 
+               <lb/>ficiently clear.</p>
+                <p>We must add, to the disadvantage of Mr. Birk<lb break="no"/>beck's farmer, the dearness of all those articles which <lb/>he has to purchase; for his distance from the sea<lb break="no"/>coast and market operates in two ways to his disad<lb break="no"/>vantage. 'His produce is low, and the goods from <lb/>are dear: the shopkeeper, who is at a great <lb/>distance from the place where the articles he deals <lb/>in are procured, will add to the price, when he dis<lb break="no"/>poses of the, the additional expense of bringing, <lb/>and the time lost in procuring them. To him who <lb/>is obliged to take a journey of 1600 miles to procure <lb/>his articles of merchandize, the cost and trouble must <lb/>be very great; and all this he makes the consumer <lb/>pay. The journey which Mr. Birkbeck's merchant <lb/>is obliged to take is a very serious one, compared to <lb/>that of the merchant of York or Niagara. The lat<lb break="no"/>ter, in consequence of this situation, can trade with <lb/>a smaller capital than the former; because he can <lb/>at any time procure a fresh supply in a few days, <lb/>while the former can lay in a stock of goods only <lb/>once a-year. Now, all these difficulties are to be <lb/>paid for by the farmers and mechanics, who con<lb break="no"/>sume the articles imported; the difference to them, <lb/>in the course of a twelvemonth, by receiving less for <cb/>the articles they sell, and paying more for those they <lb/>purchase will be found to be very great.</p>
+                <p>'It is not merely the quantum he shall raise, but <lb/>the sun he shall get for it, which constitutes the <lb/>farmer's advantage. It is not simply to get enough <lb/>to eat and drink that is to bound the desires of the <lb/>farmer; it is to procure the means of converting his <lb/>log-cabin into a handsome and convenient house– <lb/>to erect a large barn for his grain, and suitable build<lb break="no"/>ings for his cattle–to educate his children–and, <lb/>as he grows old, to enjoy the satisfaction of finding <lb/>that his industry has supplied the comforts of life, <lb/>and enabled him to satisfy the wants of society– <lb/>wants to which we are indebted for amelioration <lb/>of mankind.'</p>
+                <p>In the selection of a place to residence in a new <lb/>country, it is very important to take into view the <lb/>ultimate market for the farmer's produce. While <lb/>the country is settling, there will be no difficulty; <lb/>for the increasing population will demand all the <lb/>supplies that can be raised. But the prudent set<lb break="no"/>tler will look beyond that period, and consider what <lb/>he shall do when every one raises more grain than <lb/>he will be able to consume. In that case, vicinity <lb/>to market, and facility of transportation, are all im<lb break="no"/>portant. Now, the produce of Upper Canada can <lb/>be sent to Montreal, one of the best markets in A<lb break="no"/>merica in five or six days, at a trifling expense, <lb/>which is yearly diminishing as the waters are im<lb break="no"/>proved. Very different is the case with the farmer <lb/>in the western division of the United States: the im<lb break="no"/>mense distance which grain has to be sent, occasions <lb/>the expense to be so great, as frequently to equal, and <lb/>sometimes exceed, the price offered when it reaches <lb/>the market. The more that this statement is exa<lb break="no"/>mined, the more correct it will be found, and the <lb/>superior advantages of Canada will appear in a strong<lb break="no"/>er light; but, having been a landholder, it is time <lb/>to instruct the emigrant how he is to make his living <lb/>out of it.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>163</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-04-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration</hi>
+            </p>
+                <p>Among the emigrants proceeding to seek ano<lb break="no"/>ther country on the shores of Southern Africa, <lb/>four vessels, containing above 600 souls, have <lb/>sailed from Liverpool, bound to the Cape of <lb/>Good Hope; three of them under the command <lb/>and direction of a naval officer, and one under <lb/>private superintendance. The public agent was <lb/>instructed to provide every accomodation which <lb/>could minister to the health or comfort of the fa<lb break="no"/>milies who were to embark</p>
+                <p>Thursday afternoon, the brig Alexander <lb/>sailed from Greenock with emigrants for Prince <lb/>Edward's island. This vessel had 85 pas<lb break="no"/>sengers on board, of which 17 were children.</p>
+                <p>On Friday the ship Alexander, Young, sailed <lb/>from Greenock for Quebec with 96 passengers.</p>
+                <p>Extract of a letter, dated in Perth, Upper <lb/>Canada, 18th January – "Liberty and Equality <lb/>are the predominant principles here. A common <lb/>labourer from Scotland is entitled to a lot of <lb/>land. Whenever he finds he can subsist upon <lb/>his farm, he becomes as high as the best in the <lb/>township. Every settler, though ever so poor, <lb/>has a vote for the member for the township, <lb/>and has full liberty to speak at every meeting. <lb/>– It is nothing uncommon to see a poor Glasgow <lb/>weaver, who came among us with scarce a stitch <lb/>to cover his nakedness, strutting between the <lb/>stumps of his trees as pompous as an Ediburgh <lb/>Magistrate."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>164</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-05-20"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="persuade"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Necessity of Legislative Measures for  <lb/>Relieving the Distress of the Labour<lb break="no"/>ing Classes.</hi>
+            </p>
+                <p>Salus populi suprema lex.</p>
+                <p>
+               <hi rend="enlarged-capital">T </hi>
+               <hi rend="smallcaps">here</hi>  wasa time when it was held pure factiousness to <lb/>doubt whether the prosperity we enjoyed during the first ten <lb/>or twelve years of the late war, was perfectly sound and na<lb break="no"/>tural, and whether it would not ultimately entail upon us a <lb/>corresponding share of future calamity. But the most gloomy <lb/>anticipations of those who were most inclined to view the pic<lb break="no"/>ture on the dark side have certainly come infinitely short of <lb/>the full measure of distress and misery which have at length <lb/>fallen upon the country. It would be unjust to charge the <lb/>Government with any more of these evils than might have <lb/>been foreseen ; but now that they force themselves on the at<lb break="no"/>tention on all sides, it is perfectly fair to hold the Govern<lb break="no"/>ment accountable for all that it can remove or prevent, and <lb/>yet suffers to exist. This is the first time, we believe, in mo<lb break="no"/>dern history, when the evil of an excess, of population has come <lb/>so distinctly under the notice of a Government as to call for <lb/>a legislative remedy. The case is therefore new, and the <lb/>course to be pursued is the less obvious ; but the war was a <lb/>season of bold experiments, in which we surmounted many <lb/>difficulties once deemed insuperable : and if timidity tie up our <lb/>hands now, when humanity calls upon us to move, the world <lb/>may well say, that the boasted energy of the Government has <lb/>been entirely reserved for the supply of its own wants out of <lb/>the pockets of the people, but that, when a period of public <lb/>calamity requiress exertions of a more painful kind, it is start<lb break="no"/>led by the smallest difficulty, and will not even make such <lb/>a slight effort as might evince its sympathy with the sufferers.</p>
+                <p>During the late war, the industry of the country was stimu<lb break="no"/>lated into a state of unprecedented activity, by the monopoly <lb/>we obtained of the commerce of the world–by thirty or forty <lb/>millions of the capital of the country being annually melted <lb/>down and consumed–and by the continual rise of prices pro<lb break="no"/>duced by the depreciation of the currency. The great de<lb break="no"/>mand for labour, arising out of this state of things, with the <lb/>consequent increase of wages, caused a rapid augmentation in <lb/>the numbers of the people. In the ten years ending 1811, the <lb/>rate of increase in Britain was such as would have doubled the <lb/>population in fifty-two years; and in the great manufacturing <lb/>districts it probably equalled what takes place in a new colony. <lb/>When the peace came, and was followed by the destruction of <lb/>our commercial monopoly, the cessation of the annual loans, <lb/>and the diminuition of the paper issues, the sources of our fic<lb break="no"/>titious prosperity were dried up at once : a vast reduction took <lb/>place in the demand for labour ; profits and wages fell with <lb/>prices ; while the pressure of the taxes were doubled, and one<lb break="no"/>third added to their real amount by the rise in the value of <lb/>money. The laws, however, which regulate the multiplication <lb/>of human beings, cannot instantly bend to circumstances : a <lb/>long period necessarily elapses before the population accom<lb break="no"/>modates itself to the diminished demand for labour, and dur<lb break="no"/>ing this period the labouring classes must suffe extreme mi<lb break="no"/>sery. In this state we are at present, and time, from which <lb/>we hoped relief, has only aggravated the evil. There are but <lb/>three remedies upon which any dependence can be placed <lb/>– a reduction of taxation – a change in our commercial <lb/>system – and emigration. We have little hopes as to the first, <lb/>since this would require a sacrifice on the part of the Govern<lb break="no"/>ment of its own interest, real or supposed, which we see no <lb/>disposition to make. A relaxation in our restrictive commer<lb break="no"/>cial system has not the same obstacles to encounter, and we <lb/>have repeated shewn that it would be highly beneficial. The <lb/>reluctance of Ministers to attempt a change that may prejudice <lb/>the interest of some particular classes, might be considered as <lb/>a prudent caution, were it not observed, that when, instead of <cb/>relieving the distress of the people, the object is to suppy the <lb/>necessities of the Treasury, none of this caution appears, but <lb/>the complaints of the sufferers are disregarded as vulgar cla<lb break="no"/>mour. But the crisis is now such, that tenderness to the in<lb break="no"/>terests of a few individuals may be cruelty to the public at <lb/>large. Though we shall preach free trade to other nations ra<lb break="no"/>ther with a bad grace, when we can no longer hold our mono<lb break="no"/>poly, it is so far well that our misfortunes are at last likely to <lb/>open our eyes to truths whch were familiar to philosophers <lb/>half a century ago. In our present circumstances, we may <lb/>perhaps almost be thankful, that a systematic error, which has <lb/>impeded our career, has kept this one resource open to us.</p>
+                <p>Emigration suggests itself so naturally as a remedy for a re<lb break="no"/>dundant population, that we are rather surprised there should <lb/>be much reluctance to have recourse to it. We need not <lb/>be afraid that the practise will continue longer than the ne<lb break="no"/>cessity which produces it. " The <hi rend="italic">vis intertiae</hi>  of people in ge<lb break="no"/>neral, says <hi rend="smallcaps">Malthus</hi>, and their attachment to their homes, <lb/>are qualities so strong and general, that we may rest assured <lb/>they will not emigrate, unless, from political discontents or ex<lb break="no"/>treme poverty, they are in such a state, <hi rend="italic">as will make it as much </hi>
+               <lb/>
+               <hi rend="italic">for the advantages of their country as of themselves that they </hi>
+               <lb/>
+               <hi rend="italic">should go out of it.</hi> " We by no means underrate the difficul<lb break="no"/>ties that attend emigration upon a large scale, but these are <lb/>partly occasioned by the absurd practise of directing it exclu<lb break="no"/>sively to our own colonies. We have vast multitudes, whom <lb/>we can neither feed nor employ ; and surely the first and most <lb/>pressing object is to send them where they will find the means <lb/>of subsistence. There are many parts of the world besides our <lb/>own colonies open to receive them. And whether they go to <lb/>the United States, Brazil, Buenos Ayres, or to Canada, New <lb/>Holland, or the Cape of Good Hope, the advantage to this <lb/>country will be nearly the same. Among so many countries <lb/>of such extent, it would not be very difficult to dispose of half <lb/>a million of persons (young and old) within the course perhaps <lb/>of two years. But upon whatever scale emigration is conduct<lb break="no"/>ed it must be gradual; and this renders it the more important <lb/>to fix upon a plan early. Ministers have lately announced <lb/>that Canada cannot receive more emigrants at present with<lb break="no"/>out inconvenience. But had the intention of sending great <lb/>numbers to that colony been made public two years ago, corn <lb/>would have been raised for them, and men of some capital, <lb/>assured of finding abundance of labourers, would have gone <lb/>out and settled, and provided employment for those who have <lb/>not the means to establish themselves as farmers. The alarm <lb/>we feel of seeing manufactures raised up in other countries by <lb/>the skill of our expatriated artisans is very ill founded. Many <lb/>other advantges must be combined with the possession of <lb/>mechanical skill to make manufactures flourish ; and when the <lb/>former are found, able workmen will not be long wanting. Our <lb/>capital, our improved means of internal communication, our <lb/>coal fields, our laws for the protection of industry and proper<lb break="no"/>ty, the free, enlightened and active spirit of our people, with the <lb/>powers of combination resulting from the union of so many <lb/>advantages within so small a space, are better securities for <lb/>our superiority in manufactures, than attempts, which must be <lb/>nugatory, to retain a monopoly of operative skill and talent. <lb/>But the opinion which exists in foreign countries, as to the su<lb break="no"/>periority of our people in every branch of industry, will have <lb/>this good effect, that it will secure out emigrants a favourable <lb/>reception. Though the emigration, to afford any sensible re<lb break="no"/>lief to the whole country, would require to be upon an exten<lb break="no"/>sive scale, it is yet obvious, that even upon the smallest scale <lb/>it is beneficial. If six labourers are withdrawn from a small <lb/>village, or fifty from a country town, the situation of either <lb/>will be improved. The plan hitherto acted on by Government <lb/>of givingassistance to those only who could raise ten on fif<lb break="no"/>teen pounds, is chiefly objectionable, because it must restrict <lb/>the emigration within very narrow limits. If by sending away <lb/>men who are still able to subsist by their labour, others now <lb/>living on charity get employment, we are in effect relieved of <lb/>so many paupers. But the former are less disposed to leave <cb/>the country ; and with regard to those who are or must soon <lb/>become paupers, it will certainly be found more economical to <lb/>pay ten or fiften pounds each to send them abroad, than to <lb/>maintain them permanently home. It is in vain, however, <lb/>to look to private charity for the funds necessary for such an <lb/>undertaking. These must be raised by the country at large ; <lb/>and whether a tax be imposed for the special purpose, or mo<lb break="no"/>ney destined for other objects be applied to this, the country, <lb/>we have no doubt, is ready to make the sacrifice. Suppose that <lb/>even so great a sum as five millions were required, this is but <lb/>the half of what England alone pays every year for poor rates ; <lb/>and what is such a sum, if it were to afford certain relief on <lb/>an emergency lke the present? If the French and Dutch should <lb/>again disagree about the navigation of the Scheldt, or if we should <lb/>quarrel with the French or Americans about the traffic in a few <lb/>hundred wild cat-skins on the other side of the globe, how <lb/>easily would a sum ten times as large be found? Nothing <lb/>more is requisite than to take on half of the sum for two <lb/>years, which Mr <hi rend="smallcaps">Vansittart</hi>  allots for paying off the nation<lb break="no"/>al debt. We not only conceive that it would be wise and <lb/>creditable to divert a part, or the whole of the actual Sinking <lb/>Fund to this purpose ; but we go so far as to think, that it is lit<lb break="no"/>tle less than disgraceful to pay off any debt at all at this crisis <lb/>with funds wrung from the earnings of a starving population. <lb/>Whatever is done, it is of vast importance to understand, that <lb/>the most pressing evil, though not absolutely permanent in its <lb/>nature, cannot be expected to subside of itself for many years. <lb/>We have not only an excess of population to dispose of, but <lb/>we have to check the principle of increase, which is rapidly <lb/>aggravating the evil. In the five years ending 1810, the po<lb break="no"/>pulation of England added one-seventieth part to its numbers <lb/>annually ; and if we suppose the ratio to have been the same <lb/>for the whole empire, each year must have had 250,000 indi<lb break="no"/>viduals more to provide for than the preceding. Till the <lb/>whole of this vast annual inrease is got rid of, the present <lb/>excess of numbers will not diminish but augment. And how <lb/>is it to be got rid of? Either the annual births must diminish <lb/>more than one-third, or famine and disease must destroy a <lb/>quarter of a million of human beings annually beyond the u<lb break="no"/>sual rate of mortality, or these two causes must operate toge<lb break="no"/>ther. Notwithstanding, therefore, the misery of the labouring <lb/>classes at this moment, we doubt whether the population is <lb/>not still on the increase, and whether still more afflicting <lb/>scenes are not awaiting us. Indeed, unless measures are taken <lb/>to do away the factitious stimulus which the English poor<lb break="no"/>laws give to the increase of population, the most abundant e<lb break="no"/> 
+               <lb/>migration will prove but a feeble palliative. These are rather <lb/>discouraging circumstances ; but the evil must be dealt with in <lb/>some way, or it will ultimately overwhelm us. It has now be<lb break="no"/>come rather a question of humanitiy than of policy. One or <lb/>two millions of human beings have been suddenly deprived of <lb/>their means of subsistence by events over which they had no <lb/>control. With such a mass of individuals goaded to despera<lb break="no"/>tion by want–a deficient crop,–a sudden revulsion in trade– <lb/>a more general exclusion of our manufactures by the Ameri<lb break="no"/>cans,–any of those numerous casualties, in short to which e<lb break="no"/>very nation is exposed, would place us in a situation frightful <lb/>to contemplate. Plots and insurrections will keep up a con<lb break="no"/>tinual alarm. Neither persons nor property will be safe, and <lb/>capital will gradually leave the country. If theory were silent, <lb/>experience must now convince us, that time alone will produce <lb/>no material amelioration in our circumstances ; and the relief <lb/>which is may ultimately bring, will be obtained only through <lb/>the destruction of vast multitudes by famine and disease. In <lb/>the fifth year of peace, it is now time to look the evil in the <lb/>face, and either to make some great sacrifices for its removal, <lb/>or to brace our minds to bear the dreadful alternative. It is <lb/>in vain to disguise the matter to our own consciences. Those <lb/>who propose to leave things to what they call the course of <lb/>nature, are in substance recommending that thousands of their <lb/>fellow-creatures should be suffered to rot away from the effect <lb/>of absolute want. That such a thing should take place in the</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>165</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Glasgow Herald</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Glasgow</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-05-22"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>disease</item>
+                            <item>shipping news</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="4"/> Extract of a letter received from Calcutta, dated <lb/>22d November, 1819:--"An afflicting circumstance <lb/>has recently taken place. The Captain of the Bengal, <lb/>a Liverpool trader, very lately gave a ball on board <lb/>his ship, which was about to sail for England. The <lb/>party was very small, and more than half were taken <lb/>ill with a violent fever immediately afterwards. I <lb/>buried the Captain and the Surgeon a few days after <lb/>it; not less than ten of the part died within as many <lb/>days, all younger persons. Only one officer survives <lb/>of those who left England in the ship, and he is just <lb/>recovering in the Hospital. All sorts of conjectures <lb/>were made, but it turns out that there were 17,000 <lb/>undressed buffalo horns in the hold, in a complete <lb/>state of putrefaction. This vessel has sailed for Eng<lb break="no"/>land in this state without a Surgeon. I question <lb/>whether it will ever arrive; it ought not to be ad<lb break="no"/>mitted among other shipping if it does;–the opening <lb/>of the hold will be death to him who does it, and per<lb break="no"/>haps to many more."--In consequence of this disas<lb break="no"/>trous information, Ministers have issued an order for <lb/>the vessel, on her arrival at Liverpool, or any other <lb/>part, to undergo quarantine.– <hi rend="italic">London Paper.</hi>
+            </p>
+                <p>All apprehension on the above subject is complete<lb break="no"/>ly done away by the following letter from Liverpool, <lb/>May 14:–</p>
+                <p>"I noticed a paragraph in the London papers, <lb/>respecting the Bengal, of this port, at Calcutta, stat<lb break="no"/>ing that a number of deaths had taken place, sup<lb break="no"/>posed in consequence of the Infectious vapours arising <lb/>from some buffalo horns.–The Bengal arrived here <lb/>April 5, and has been discharged without any of <lb/>those dreadful consequences which the medical gen<lb break="no"/>tlemen of Calcutta prognosticated.–I should rather <lb/>suppose that the fatal consequences which ensued <lb/>to those individuals who attended the ball given on <lb/>board this vessel at Calcutta, would be none justly <lb/>attributed to the exposure to night air."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>166</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-06-17"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Canada</hi>
+            </p>
+                <p>The following is an extract of a private letter <lb/>dated</p>
+                <p>"Halifax, May 22 <lb/>"At two o'clock this day the Earl of Dal<lb break="no"/>housie, Captain-General and Governor-in-Chief <lb/>of British North America, attended by the Ad<lb break="no"/>miral, his Majesty's Council, the staff, naval and <lb/>military officers, and the principal people of the <lb/>place, attended to lay the first stone of a new <lb/>college, to be erected at the north end of the <lb/>grand parade. The whole of the freemasons of <lb/>Halifax went in grand procession. They formed <lb/>in lodges at their hall, and, preceded by a military <lb/>band, and followed by another, they marched to <lb/>the places prepared for them on the building.</p>
+                <p>"His Lordship came on the scaffolding at <lb/>two o'clock, the grenadiers of the 62d regiment <lb/>being his guard of honour. Detachments from <lb/>each regiment kept the ground.</p>
+                <p>"After a prayer by the Rev. Mr Twining, <lb/>Grand Chaplain, Lord Dalhousie addressed the <lb/>assembly in a speech, of which I have not time <lb/>to give an outline ; but in it his Lordship men<lb break="no"/>tioned, that the building was intendeed as a college <lb/>upon the plan of that of Edinburgh, where all <lb/>students who professed the Christian religion <lb/>were eligible for admittance. Strangers residing <lb/>here for a short time might also enjoy the bene<lb break="no"/>fit of the institution, and gentlemen in the army, <lb/>the navy, and the military establishments. His <lb/>Lordship concluded a most eloquent and ani<lb break="no"/>mated address with his fervent wishes for the <lb/>welfare and prosperity of the undertaking.</p>
+                <p>"A bottle with coins, and a tin case with <lb/>parchments, &amp;c. were then severally deposited in <lb/>the recess made for them, and the stone was <lb/>lowered into its place with all the requisite and <lb/>due forms, under a royal salute from fort Char<lb break="no"/>lotte ; after which the Rev. the Grand Chaplain <lb/>closed the proceedings with a prayer, and the <lb/>whole assembled multitude gave nine cheers.– <lb/>The military and masonic processions then re<lb break="no"/>turned in the same order, in which they came.</p>
+                <p>The day was beautiful, and a greater as<lb break="no"/>semblage of people was never witnessed in Hali<lb break="no"/>fax.</p>
+                <p>"The Countess of Dalhousie and her two sons, <lb/>Mrs Admiral Griffith and the Misses Wilson, and <lb/>most of the fashionable ladies here witnessed the <lb/>ceremony from a convenient scaffolding prepa<lb break="no"/>red for them.</p>
+                <p>"Lord Dalhousie purposes to leave Halifax <lb/>for Quebec in his Majesty's ship Newcastle, on <lb/>the 1st of June, without waiting for Sir James <lb/>Kempt."</p>
+                <p>
+               <hi rend="smallcaps">Court of Chancery</hi> –June 10.</p>
+                <p>
+               <hi rend="smallcaps">Will of the Late Duke of Queensberry </hi>
+               <lb/>Mr Head stated, that he had to present a petition from <lb/>the annuitants and legates of the late Duke of Queens<lb break="no"/>berry, praying that a fourth more of their claims might be <lb/>paid, there now being sufficient funds in the hands of the <lb/>Accountant-General for that purposes. The Learned Coun<lb break="no"/>sel said, that there was no less a sum than L.1,400,000 <lb/>accumulated and vested in the name of this officer, in <lb/>Bank stock, for the benefit of the claimants, and he un<lb break="no"/>derstood it was not intended to oppose the application, al<lb break="no"/>though the executors did not say they would give their <lb/>consent to it. Some consultation had been had on the <lb/>subject out of doors ; he therefore prayed that the prayer <lb/>of the petition should be granted.</p>
+                <p>The Attorney-General said, he had not received any in<lb break="no"/>structions, nor had he been consulted.</p>
+                <p>The several King's counsel in Court spoke in behalf of <lb/>their respective clients.</p>
+                <p>Mr Wingfield appeared for the Earl of Yarmouth, and <lb/>said his Lordship was anxious that the business should be <lb/>put in a train of settlement.</p>
+                <p>The Lord Chancellor said, there was not a man existing <lb/>that had a heart in him but must wish the legacies and <lb/>annuities to be paid ; but, said his Lordship, the Marquis <lb/>of Queensberry has commenced an action for the recovery <lb/>of L.150,000 against the executor, and he certainly had a <lb/>right so to do it ; it was, therefore, proper that the Court <lb/>should see that no harm arose to the executors, before the <lb/>funds were allowed to go out of Court. With respect to <lb/>their not opposing the petition, that was very different to <lb/>consenting to it ; it merely said to the Court, " Mind you <lb/>do right."</p>
+                <p>Mr Heald said, if his Lordship thought that one-fourth <lb/>was too much, they would take an eight, or any part his <lb/>Lordship pleased.</p>
+                <p>The Lord Chancellor.–I will order it to stand first on <lb/>the paper for Tuesday next, and in the mean time I will <lb/>look over the petition.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>167</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Caledonian Mercury</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-07-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The New York Daily Advertiser says–"The <lb/>line of battle ship New York, now finishing at our <lb/>navy yard, at the Wallabut, is perhaps the most <lb/>superior vessel ever built. Her tonnage is near <lb/>3000[?]: she measures 203 feet keel, and is by 15 <lb/>feet the largest man of war ever laid down in <lb/>this country. She will no doubt be rated a 74, <lb/>but will be equal to a 100 gun-ship, and will car<lb break="no"/>ry 120 guns."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>168</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>India</p>
+                <p>We have great pleasure in publishing the following <lb/>interesting letter from India: –</p>
+                <p>"Madras, Feb. 4, 1820. <lb/>"I have, thank God, no very brilliant events to <lb/>communicate to you, but if the happiness of man is the <lb/>legitimate object of all Government, it is good to learn <lb/>that British India is at peace, and that a temperate <lb/>and radical reform is gradually going on under the <lb/>Marquess of Hastings' administration. The establish<lb break="no"/>ment of schools, and a free press, are the moving prin<lb break="no"/>ciples by which this great advancement in the state of <lb/>society will be accomplished, unless checked by im<lb break="no"/>pious powers.</p>
+                <p>"On the subject of these schools, it is not necessary <lb/>here to dilate. Suffice it to observe, that it is in the <lb/>power of any Government, abitrary or free, to educate <lb/>the great bulk of its subjects, and thereby to advance <lb/>them in knowledge, civilization, and happiness, in <hi rend="italic">the </hi>
+               <lb/>
+               <hi rend="italic">shortest</hi>  possible period.</p>
+                <p>"The establishment of a <hi rend="italic">free press in Asia</hi>  is, in my <lb/>estimation, as useful and magnanimous an art as ever <lb/>adorned the biography of any Statesman. What, say <lb/>its detractors, is setting loose a parcel of printer's devils <lb/>so great an act? No, but setting loose all the intel<lb break="no"/>ligence of the age to work upon the public mind and <lb/>conduct, is an act of unrivalled benevolence. Be it <lb/>asserted that a free press is only applicable to an ad<lb break="no"/>vanced state of society, I deny the position ; it is not <lb/>founded in reason or experience. I contend on the <lb/>other hand, that where least knowledge and msot evil <lb/>exist, there is the greatest scope for improvement ; and <lb/>I offer Scotland as a proof of the efficacy[?] of education <lb/>and a free press.</p>
+                <p>"The Marquess of Hastings, Governor General of <lb/>India, has, in the newspapers of Madras and Calcutta, <lb/>been accused of having sent two persons of the name of <lb/>Hastings, to <hi rend="italic">unhealthy</hi>  climates, the one to the East <lb/>and the other to the West Indies, where they <hi rend="italic">died ; </hi>
+               <lb/>and for the <hi rend="italic">base</hi>  purpose of securing to his family the <lb/>title of Huntingdon. This, you must be aware, was <lb/>touching his sensitive honour to the quick ; and it <lb/>would seem as if some one inimical to a free press, had <lb/>introduced the paragraph to irritate him. But this <lb/>virtuous man, who would not tread on an insect, al<lb break="no"/>lowed this shameful slander to pass unnoticed. It stood <lb/>refuted in every bosom, and his manly forbearance <lb/>tended but to give further proofs of his attachment to <lb/>our infant liberty. Attacks have likewise been made <lb/>on Sir E. East, our Chief Justice. He complained, <lb/>they say, of these alleged libels to the Chief Magistrate, <lb/>
+               <hi rend="italic">who desired him to have recourse to the law</hi>  Conceive <lb/>not, however, that I am the advocate for a licentious <lb/>press. My maxim is, that a great power, when mis<lb break="no"/>chievously applied, must be hurtful, and when well <lb/>applied, beneficial, in proportion to its strength.</p>
+                <p>"You will rejoice to learn that Mr Elphinstone, <lb/>Governor of Bombay, has done away with the Censor<lb break="no"/>ship of the Press. This wise Statesman, being a friend <lb/>to freedom, and having <hi rend="italic">experienced</hi>  the benefits which <lb/>had arisen in Bengal from the measure (for scarce a <lb/>day no passes that some abuse is not brought to light <lb/>by the press), adopted it the moment he came into <lb/>power, and thus proved himself a public benefactor.</p>
+                <p>"To conclude, it is my firm conviction, that the <lb/>diffusion of knowledge, through the medium of educa<lb break="no"/>tion and a free press, will more than any other mea<lb break="no"/>sure accelerate the improvement and heighten the pros<lb break="no"/>perity, not only of British India, but of the surround<lb break="no"/>ing world."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>169</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>. Keyword tagged by <persName role="metadata">Bill Peschel</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>emigration</item>
+                            <item>privateering</item>
+                            <item>shipping news</item>
+                            <item>shipwreck</item>
+                            <item>Ottoman Empire</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Maritime Intelligence</p>
+                <p>The Jane, Drummond, of Liverpool arrived at <lb/>Savannah, was plundered on the 22d April in [?], 34, <lb/>10. long. 41. 21. of all her specie, 20,500 dollars, <lb/>stores, provisions, &amp;c. by a Spanish ship, of 300 tons, <lb/>armed with 14 guns and two stern chasers, and full of <lb/>men. She was supposed to have been out two or three <lb/>months from Cuba. She had a yellow waist, woman <lb/>head, painted black, and was coppered to light water <lb/>mark.</p>
+                <p>Intelligence from Marseilles, dated 22d inst. states <lb/>–' An English Captain, who left Oran on the 13th <lb/>inst. and arrived yesterday in this port, has declared <lb/>that a squadron of five armed ships, which he was as<lb break="no"/>sured were destined for the North Seas, sailed from <lb/>Algiers at the beginning of the present month."</p>
+                <p>A vessel, the Prompt sailed on Tuesday evening <lb/>from Greenock for Quebec, having on board emigrants <lb/>from Anderston, Rutherglen, Lesmahogow, and La<lb break="no"/>nark, to the number of about 350 persons. The Rev. <lb/>Mr Easton, of Montreal, goes out with the Prompt.</p>
+                <p>The Hibernia, M'Eachren, from the Clyde to Bue<lb break="no"/>nos Ayres, was totally lost the 15th April, near Mal<lb break="no"/>donado. Crew saved.</p>
+                <p>
+               <hi rend="smallcaps">Discovery of a New Island off Cape Horn</hi>
+            </p>
+                <p>A new island has been discovered off Cape Horn, <lb/>in inst. 61 deg. long. 55 deg. by the ship William, on a <lb/>voyage from Monte Video for Valparaiso. The same <lb/>having been dispatched by Captain Sheriff, of the An<lb break="no"/>dromache frigate, to survey the coast, had explored it <lb/>for 200 miles. The captain went ashore found it <lb/>covered with snow, and uninhabited. Abundance <lb/>of seals an whales were found in its neighbourhood. <lb/>He has named the island New Shetland.</p>
+                <p>Accounts from Constantinople, dated May 26, an<lb break="no"/>nouce, that the armaments against Ali Pacha are upon <lb/>the most formidable scale, and are actively pursued.– <lb/>The latter has obtained hostages of his principal offi<lb break="no"/>cers, as pledges of their fidelity. On the 14th, two <lb/>new ships of the line were launched in the presence <lb/>of the Sultan and his Grand Dignitaries, at the hour <lb/>fixed by the chief astrologers. The navigation between <lb/>Bagdad[?] and Bassurah has been free since the defeat of <lb/>the Arabs by the English. The latter, it is stated, have <lb/>facilitated the intercourse between those two places by <lb/>the establishment of parket-boats.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>170</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-07-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonial Intelligence</p>
+                <p>
+               <hi rend="smallcaps">Proposed New Monarchy in  <lb/>South America</hi>
+            </p>
+                <p>Accounts have beenreceived from Buenos Ayres, <lb/>by the Blossom sloop of War, of a curious nature.– <lb/>They relate to a project said to have been in agitation for <lb/>placing a Prince of the House of Bourbon at the head <lb/>of an independent Sovereignty on the River Plate.– <lb/>The circumstance has been brought to light by the late <lb/>changes in the Government of Buenos Ayres. From <lb/>the documents now published, and received by the <lb/>Blossom, it appears that in June, 1819. Gomez the <lb/>Envoy from Buenos Ayres, at Paris, was invited to a <lb/>conference by M. De Cazes, then French Minister for <lb/>Foreign Affairs, the object of which was to communi<lb break="no"/>cate a project of the French Cabinet for the colonsolida<lb break="no"/>tion of the Independent Government of South Ame<lb break="no"/>rica.</p>
+                <p>This project, the French Minister observed, would <lb/>meet with the decided approbation of the Continental <lb/>Powers, especially Russia and Austria. Great Britain <lb/>might not like it, but yet would not find any good pre<lb break="no"/>tence for resisting it ; and his Catholic Majesty would <lb/>yield to the influence of all Europe with the better <lb/>grace, as his former dependencies would be only trans<lb break="no"/>ferred to a branch of his own family. The King of <lb/>France would furnish assistance of every king, and em<lb break="no"/>ploy every means, even to the supply of troops, for car<lb break="no"/>rying the affair into execution.</p>
+                <p>On the 26th of October last, when the statement of <lb/>his conference reached Buenos Ayres, Rondeau, then <lb/>Director <hi rend="italic">ad interim</hi>  made a secret communication to <lb/>the Congress, and transmitted to them the letter of the <lb/>Envoy, together with the French memorial ; on the <lb/>following day, and on the 3d of November, the matter <lb/>was discussed in secret meetings, and the result was an[?] <lb/>opinion, that the Constitution lately-sworn allowed <lb/>no alteration to be made in the form of Government <lb/>till after the meeting of the Chambers. That a branch <lb/>of the Bourbon family, so closely connected with the <lb/>reigning Monarch of Spain, was in itself an insuperable <lb/>objection, as also the consideration that the Prince <lb/>proposed and supported by the Powers of the Euro<lb break="no"/>pean Continent, would naturally more incline towards <lb/>the views of his protectors than towards those of South <lb/>America, which ought to avoid all connexion with Eu<lb break="no"/>ropean continental politics ; and that Great Britain was <lb/>the power from which South America had most to <lb/>fear, and most to expect.</p>
+                <p>It was at the same time suggested, that the Envoys in <lb/>Europe shoud put the communications from Paris in<lb break="no"/>to the hands of the British Minstry, whose good opi<lb break="no"/>nion and protection South America is most anxious to <lb/>conciliate.</p>
+                <p>Our Cabinet has always treated the South Ameri<lb break="no"/>cans with the greatest reserve, as if feating contamina<lb break="no"/>tion by simple contact–a delicacy towards Spanish in<lb break="no"/>terests and feelings which appears in itself commenda<lb break="no"/>ble, but, when measured by the standard of national <lb/>benefit, may not merit the same praise. As it is, it <lb/>would seem that the British interest is likely to gain <lb/>the ascendacy in the river Plate, rather through the <lb/>disposition of the inhabitants, than from any influence <lb/>exerted by our Ministers.</p>
+                <p>We shall only add, that thought the negotiation was <lb/>carried on by the Duke de Cazes, the project did not <lb/>originate with him, and did not at first apply to the <lb/>Prince de Lucca. It was intended as an opening for <lb/>one more nearly allied to the reigning family in <lb/>France.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>171</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-07-19"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration</hi>.</p>
+                <p>We extract the following statement from the <hi rend="italic">Montreal </hi>
+               <lb/>
+               <hi rend="italic">Herald</hi>  and an important one it is, to those who are <lb/>desirous of emigrating, as well as to those, who, from <lb/>patriotic motives, would wish to turn the tide of emi<lb break="no"/>gration into a channel which, while it relieve the mo<lb break="no"/>ther country now, may hereafter add to her strength <lb/>and resources :</p>
+                <p>
+               <hi rend="italic">Number of British subjects that emigrated to the United </hi>
+               <lb/>
+               <hi rend="italic">States, who received recommendations for grants of </hi>
+               <lb/>
+               <hi rend="italic">land, and removed to the province of Upper Canada, </hi>
+               <lb/>
+               <hi rend="italic">from James Buchanan, Esq. his Majesty's Consul at </hi>
+               <lb/>
+               <hi rend="italic">New York, in the year 1819</hi> : –</p>
+                <p>
+               <hi rend="italic">English</hi>  { Farmers..... 180 Women..... 118 Children..... 157 Mechanics..... 117 Women..... 57 Children..... 92 } 1021 <lb/>
+               <hi rend="italic">Scotch</hi>  { Farmers..... 50 Women..... 11 Children..... 15 Mechanics..... 30 Women..... 9 Children..... 36 } 131 <lb/>
+               <hi rend="italic">Irish</hi>  { Farmers..... 184 Women..... 94 Children..... 319 Mechanics..... 75 Women..... 42 Children..... 98 } 810 <lb/>Total.........1962</p>
+                <p>We cannot give publicity to the above return, with<lb break="no"/>out observing how eminently calculated such a docu<lb break="no"/>ment is, to open the eyes of our too credulous, yet in<lb break="no"/>dustrious and loyal countrymen ; many of whom are <lb/>still disposed to look to the United Statesm, as the abode <lb/>of independence and the source of affluence. Here we <lb/>see nearly 2000 British subjects, who, in one season, <lb/>through the agency alone of one of our Consuls(with<lb break="no"/>outany pecuniary aid), have removed from the United <lb/>States to Upper Canada. Their trieal and failure in <lb/>the former, as well as the trial and failure of the great <lb/>numbers who have returned to this country, are circum<lb break="no"/>stances well calculated to direct the attention of those <lb/>who have emigration in view, at once to Upper Cana<lb break="no"/>da. We have made enquiry about these hitherto un<lb break="no"/>known, but truly fertile regions ; and we are informed <lb/>from a most authentic and satisfactory source, that there <lb/>there are unlocated lands, fertile beyond the conception of <lb/>those who have not seen them, capable of receiving ten <lb/>millions of inhabitants ; that the winters are not so <lb/>cold, nor the summers so hot, as in the State of New <lb/>York ; that these regions have proved eminently healthy <lb/>to the vast numbers that have poured into them of late <lb/>years ; and that the administration of the laws, the <lb/>state of education and religious instruction, and above <lb/>all, the peace and quiet of the inhabitants have found there, <lb/>have exceed their most sanguine expectations.</p>
+                <p>It may be desirable to state, that grown persons can get <lb/>by water from Quebec to York, the capital of Upper <lb/>Canada, for about 28s ; children, half price ; that to <lb/>all persons properly recommended as to good conduct, <lb/>a grant of land is given according to their means of <lb/>cultivation ; that this grant becomes their own for ever, <lb/>and they may dispose of it as they please.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>172</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>. Keyword tagged by <persName role="metadata">John Levin</persName>
+               </authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Aberdeen Journal</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Aberdeen</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1820-08-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Colony at the Cape of Good Hope</hi>
+            </p>
+                <p>(Extract of a Letter, <hi rend="italic">dated off Madeira</hi> ) <lb/>
+               <hi rend="smallcaps">Aurora Transport Ship, Feb 19.</hi>
+            </p>
+                <p>"An opportunity having offered for transmitting <lb/>a hasty account of the Aurora and Brilliant transports, <lb/>proceeding with settlers to the Cape of Good Hope, I <lb/>feel happy in availing myself of that circumstance, <lb/>with a view as well to gratify our friends in England, <lb/>as to add another confirmation of the liberality of Go<lb break="no"/>vernment in our important undertaking. First, it will <lb/>be necessary to state, that the two ships sail in compa<lb break="no"/>ny, and are every day within hail of each other ; the <lb/>former commanded by Captain Pearson, and the latter <lb/>by Captain Bothwell, who is accompanied by Lieute<lb break="no"/>nant Pritchard, as agent to both vessels.</p>
+                <p>"We sailed from Gravesend on. Our <lb/>course down Channel was most favourable, and the <lb/>weather has hitherto been propitious. No death, <lb/>disease, or serious accident has occurred in either ship <lb/>and blooming health and vigour now rapidly succeed the <lb/>langour produced by a sudden transition to a new ele<lb break="no"/>ment. Provisions, consisting of flour, currants, suet[?] <lb/>oatmeal, peas, butter, cheese, tea, sugar, biscuit, salt <lb/>pork, and beef, of excellent quality, are liberally sup<lb break="no"/>plied, together with a proper allowance of rum, vine<lb break="no"/>gar, mustard and spices. The ships are fitted up in <lb/>every respect comfortably and commodiously, and the <lb/>most perfect harmony prevails, if we except bickerings <lb/>amongst the old women about fractured teapots and <lb/>mislaid culinary articles. The attention paid to the <lb/>comfort of the passengers, and more especially to that <lb/>of the women and children, by the Captains, and the <lb/>agent (Mr Pritchard), is highly creditable to the in<lb break="no"/>structions received from Government.</p>
+                <p>"Although I do not sail in the same ship Cap<lb break="no"/>tain Bothwell. I have had ample proofs of the kind<lb break="no"/>ness and humane liberality which he shews to the pas<lb break="no"/>sengers in the Brilliant. Captain Pearson is an active, <lb/>intelligent officer, who has been 23 years in the Tran<lb break="no"/>sport Service under Government : he has sailed to al<lb break="no"/>most every part of the world, and Algoa Bay, our <lb/>place of destination, is quite familiar to him.</p>
+                <p>"It may be egotism to speak of myself; but I trust <lb/>I may be excused in boasting, that of the crew and <lb/>240 passengers, not one is seriously indisposed at present, <lb/>and wishing, with heartfelt sincerity, to my friends in <lb/>England, happiness, peace, and tranquility, in as good <lb/>health as I now enjoy, long may they live, long live the <lb/>Constitution: and while on Fish River or Orange Ri<lb break="no"/>ver we encounter the difficulties incident to new colo<lb break="no"/>nists, may England and South Africa be ever united <lb/>by the ties of mutual friendship–the one affording her <lb/>parental arms, and the other mindful of her filial duty. <lb/>
+               <hi rend="smallcaps">P. Campbell</hi>., Surgeon.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

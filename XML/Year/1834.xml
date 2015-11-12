@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>237</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-04-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">Emigration to New South Wales and Van </hi>
+               <lb/>
+               <hi rend="smallcaps">Diemen's Land</hi>
+            </p>
+                <p>The following document has just been issued from the <lb/>Colonial Office:–</p>
+                <p>Downing street, April 6, 1834. <lb/>Numerous applicants have been received from per<lb break="no"/>sons desirous of emigrating to New South Wales or Van <lb/>Dieman's Land, who, after stating their inability to de<lb break="no"/>fray the whole charge of their conveyance, solicit aid <lb/>for that purpose, on condition of repaying the same out <lb/>of their earnings in the colony where they propose to <lb/>settle. His Majesty's government has sanctioned the <lb/>appropriate of a limited sum out of the colonial reve<lb break="no"/>nues of New South Wales and Van Diemen's Land, to <lb/>assist the private funds of such emigrants as may ap<lb break="no"/>pear likely to earn the means of repayig that aid, and <lb/>to become useful settlers. The following are the re<lb break="no"/>gulations under which this induglence will be dispens<lb break="no"/>ed:–</p>
+                <p>No advance will be made except to young and mar<lb break="no"/>ried agricultural labourers, who intend taking their <lb/>wives and families with them : and a strict inquiry will <lb/>be instituted into their character and habits of industry, <lb/>before the assistance they solicit will be granted to them.</p>
+                <p>No one family will be allowed an advance exceeding <lb/>t20; and it will be useful therefore for parties, who <lb/>may not possess the remainder of the sum requisite for <lb/>defraying the expense of their passage, to apply for as<lb break="no"/>sistance.</p>
+                <p>Every person desirous of receiving the proposed ad<lb break="no"/>vance must fill up, and send back to the Under Secre<lb break="no"/>tary of State for the Colonial Department, the return <lb/>hereto annexed. If the information contained in this <lb/>return, and the answers to the inquiries which may be <lb/>addressed to the parties who certify the correctness of <lb/>the return, shall be considered satisfactory, the appli<lb break="no"/>cant will receive notice to that effect. He may then <lb/>proceed to make his agreement with the owners or <lb/>masters of ships proceeding to New South Wales or <lb/>Van Diemen's land, and as soon as any ship-owner <lb/>or master shall notify (in a form which will be provided <lb/>for that purpose) that the emigrant has taken the other <lb/>necessary steps for engaging his passage, and order will <lb/>be granted for the payment in the colony, of t20 to the <lb/>agent or master of the vessel in which this emigrant <lb/>may arrive. The emigrant will of course be able to[?] ob-[?] <lb/>tain a corresponding deduction from the amount[?] [?] <lb/>paid by himself in this country.</p>
+                <p>The order for payment will be entrusted [?] <lb/>ter of the vessel in which the emigrants to pro[?] <lb/>and will consist of a sealed dispatch to the governor, <lb/>containing the name and description of the party on <lb/>whose account the money is to be paid, and encolosing a <lb/>promissory note, which he will be required to sign in <lb/>acknowledgement of his debt ; which note must be wit<lb break="no"/>nessed by the captain and chief mate of the vessel. But <lb/>arrangements will be made, by which the payment of <lb/>this order will not take place in the colony until the <lb/>captain shall have produced the parties, on whose ac<lb break="no"/>count it is to be made, before the officer appointed for <lb/>that purpose, and they shall have entered into a fresh <lb/>obligation for the repayment of the advance made to <lb/>them. For it is the intention of his Majesty's Govern<lb break="no"/>ment, and cannot be too clearly understoof by all per<lb break="no"/>sons who may accept this loan, that repayments of the <lb/>debt (in such proportions and at such intervals as may <lb/>not be unsuitable to the circumstances of each emi<lb break="no"/>grant) shall be strictly enforced, by means of the ample <lb/>powers which the laws of the colony render available <lb/>for that purpose.</p>
+                <p>Government agents for emigration have been appoint<lb break="no"/>ed at Liverpool, Bristol, Dublin, Cork, Limerick, Bel<lb break="no"/>fast, and Greenock, who have been instructed to afford <lb/>gratuitous information to all persons applying to them <lb/>as to the best means of carrying their schemes of emi<lb break="no"/>gration into effect. Parties, therefore, who may reside <lb/>in the neighbourhood of these agents are requested to <lb/>apply to them either personally (or if by letter post <lb/>paid) for information on this subject.</p>
+                <p>All application for the assistance of government must <lb/>be made by letter only, addressed to R. W. Hay, Esq. <lb/>Under Secretary of State, London ; and should the <lb/>number of applications be greater than the funds at <lb/>their disposal will enable them to comply with, priority <lb/>of date will form the rule of selection among applications <lb/>in which there shall appear no other groun of distinc<lb break="no"/>tion. <hi rend="smallcaps">W. R. Hay.</hi>
+            </p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>238</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-06-18"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>shipping news</item>
+                            <item>trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The ship, Numa, Captain Day, sailed from Leith <lb/>road, yesterday forenoon with a full cargo of goods, <lb/>and 37 passengers, for Van Diemen's Land and New <lb/>South Wales.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>239</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-06-28"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>We understand, from good authority, that Govern<lb break="no"/>ment has decided upon sanctioning the foundation of <lb/>a new colony on the coast of South Australia. The <lb/>plan on which this undertaking is to be conducted is <lb/>explained in a work entitled "England and America." <lb/>This first act of Mr Stanley's successor is an earnest <lb/>of his becoming a most valuable Minister for the co<lb break="no"/>lonies of this country.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>240</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-07-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>A highly respectable and very numerous meeting <lb/>is holding this Exeter-hall, on the subject of the <lb/>new Colony in Australia, the establishment of which <lb/>has recently received the sanction of the Govern<lb break="no"/>ment.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>241</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-07-23"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                            <item>emigration</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Australian Emigration Bill.</hi> –Mr W. Whitmore brough <lb/>in a bill for establishing a colony in Southern Australia. <lb/>The bill was read a first time, and ordered to be read a second <lb/>time on Wednesday next.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>242</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-07-05"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">South Australian Emigration </hi>
+               <lb/>
+               <hi rend="smallcaps">Association.</hi>
+            </p>
+                <p>A meeting of the members of the South Australian Asso<lb break="no"/>ciation was held on Monday, at Exeter Hall, "for the pur<lb break="no"/>pose of explaining the principles, objects, plan, and prospects <lb/>of a new colony," proposed to be founded in South Australia. <lb/>Mr W. Whitmore in the chair.</p>
+                <p>Upon taking the chair, Mr Whitmore stated, that the first <lb/>question which the meeting would have to consider would be <lb/>this–whether there existed or not at present any necessity <lb/>for a more extended system of colonization. It appeared to <lb/>him that there was a great defect in our present system of <lb/>colonication, and that it would be greatly to our advantage if <lb/>we established it upon a new principle, well and seriously <lb/>considered. That which struck him as the greatest defect <lb/>was, that we did not provided that colonization which in<lb break="no"/>cluded within it members of all classes of society. Large <lb/>numbers of emigrants went out with capital, but not carry<lb break="no"/>ing with them that number of the lower class which was <lb/>necessary to employ their capital to advantage. In other <lb/>cases, perhaps almost as numerous, the labourer went out <lb/>without capital which was necessry to enable him to employ <lb/>his labour to advantage. This was a striking defect. Now <lb/>the question which they were then called upon to consider, <lb/>regarded the best means of remedying that defect. Those <lb/>means, it appeared to him, were quite practicable, and might <lb/>be accomplished in this manner, vz. by establishing as a sys<lb break="no"/>tem that all the waste lands which they were about to colo<lb break="no"/>nize should be sold at a given price, such as the market would <lb/>command, and that the proceeds of such sales should be <lb/>employed in sending out to the colonies a sufficient number <lb/>of labourers to cultivate the lands so sold. If this system <lb/>could be carried into effect, he apprehended that all the evils <lb/>of our present system of colonization would be removed, and <lb/>that we should be enabled to transplant a portion of the com<lb break="no"/>munity of the mother country with all its various grades into <lb/>the new country which they now proposed to coloniz. He <lb/>believed that if we proceeded upon this principle, we should <lb/>lay the foundation of the greatest colony which England had <lb/>ever settled.</p>
+                <p>Mr Grote, M.P., moved the first resolution,–"That the <lb/>wealth and prosperity of this country have been greatly pro<lb break="no"/>moted by the establishment of British colonies in various <lb/>parts of the world, and that colonization, when conducted <lb/>systematically and upon sound principles, offers the means of <lb/>extending indefinitely the commercial empire of the united <lb/>kingdom, and the field of employment for British capital and <lb/>labour." He would not enter into the recommendations <lb/>which this undertaking offered to all classes of the communi<lb break="no"/>ty ; but he would venture to state, that to any gentleman <lb/>who considered the prospectus which had been put out by the <lb/>association, and who recollected that it was a matter of cer<lb break="no"/>tainty that the land in the colony was to be used as the means <lb/>of raising a fund to carry over thither the labour, which was <lb/>superabundant here, it must be evident that from this impor<lb break="no"/>tant innovation on our colonial system great benefit must be <lb/>derived[?] both to the new colony and to the mother country.</p>
+                <p>Mr Clay, M.P., in seocnding the resolution, entered at <lb/>great length into the difficulty of finding employment, which <lb/>now prevails in all parts of the community, and then, after <lb/>condemning the corn laws, continued thus–Colonization, if <lb/>carried on to a considerable extent, would as effectually add <lb/>millions of fertile acres to our shores as if the Irish sea were <lb/>filled up with fertile land. If that miracle took place is it <lb/>not clear that all distress would immediately cease, and that <lb/>the emplyment which the addition of so many fertile acres <lb/>would afford must give a new stimulus to the prosperity of <lb/>the country ? Is it not clear that the miserable compotation[?] <lb/>for potato-gardens in Ireland would cease, and that the diffi<lb break="no"/>culties flowing from an unemployed population would cease ? <lb/>Does any man doubt that it would be well worth the while of <lb/>our capitalists to take such land at from 10s to 20s an acre. <lb/>(Hear.) Yet this plan is in effect the same as if the land were <lb/>added to our own island, because, if this plan of colonization <lb/>be adopted, a transplantation of a sufficiency of labourers, <lb/>now wanting employment, from this country, for its culture, <lb/>will take place, which is equivalent to the transportation of <lb/>the land to the labourer. In point of fact, the ocean joins <lb/>these distant lands, instead of separating them. (Hear.)– <lb/>There can be no doubt but that a wider comercial code, and <lb/>the removal of restrictions on labour, would greatly facilitate, <lb/>extend, and increase the commercial intercourse between the <lb/>old nation of the world ; but in no case would the increase <lb/>be in proportion to that which might be calculated on, as the <lb/>consequence of a connection with newly-formed countries in <lb/>other climates. As regards the establishment of colonies, it <lb/>is virtually an extension of the mother country.</p>
+                <p>Colonel Torrens, M.P., proposed the second resolution– <lb/>"That in establishing colonies, great care ought to be taken <lb/>to combine labour and capital with land, in such propor<lb break="no"/>tions as are best calculated to insure the prosperity of all <lb/>classes of society, and that, in establishing modern colonies, <lb/>this important consideration has been so generally overlook<lb break="no"/>ed." It was, he said, almost unnecessary for him to state that <lb/>in all systems of colonization, land, labour, and capital, ought <lb/>to be combinedin just proportions ; and yet this simple prin<lb break="no"/> 
+               <lb/>ciple had been hitherto greatly neglected by those who had <lb/>led new colonies from the mother country. In the first place, <lb/>the whole of the land of this colony was to be public land. <lb/>No individual was to obtain a single acre by gift. There was <lb/>to be no patronage, no job–all were to be on a footing of <lb/>equality, and nobody was to have a single inch of land for <lb/>nothing. There would also be another advantage in this sys<lb break="no"/>tem, which would arise in the following :–In other co<lb break="no"/>lonies, the labourer who had gone out and found that he could <lb/>get land for nothing, had often fallen into the mistake that <lb/>land was wealth, instead of it being merely the means of <lb/>producing wealth. That fatal mistake had often led him to <lb/>refuse the work of the master with whom he had gone out, <lb/>and set up for himself as an independent landowner. He had <lb/>in consequence set up, where he was far away from the mar<lb break="no"/>ket of the colony, where he had no roads over which to convey <lb/>his produce, and where he had perished miserably. But in <lb/>this colony the labourers would be compelled for some time <lb/>to work for hire.</p>
+                <p>Mr Guest, M.P. seconded the resolution.</p>
+                <p>Mr Hutt, M.P. moved the third resolution to the following <lb/>effect:–"That in order to promote the greatest prosperity of <lb/>a new colony, it is expedient that all waste land, without any <lb/>exception, shall be declared public land, and be disposed of to <lb/>individuals by sale only, and according to an uniform, impar<lb break="no"/>tial, and permanent system."</p>
+                <p>Captain Gowan seconded the resolution, and spoke in the <lb/>highest terms of the salubrity of the climate of Australia. <lb/>Many of his fellow soldiers in India had gone there for the <lb/>recovery of their health, and had found something so tem<lb break="no"/>perate and soothing in the country, that they had retired <lb/>there altogeher, preferring its mild and gentle breeze to the <lb/>chills of their native country, England.</p>
+                <p>Mr P. Scrope, M.P. moved "That it is also desirable that <lb/>the whole of the purchase money of public land, without any <lb/>deduction, should be employed in providing a free passage <lb/>from the mother country to the colony, of young adult per<lb break="no"/>sons of the labouring class, who may be willing to emigrate, <lb/>and in equal proportion of both sexes." As the want of <lb/>labour was the great difficulty in all infant colonies, the <lb/>more labour they imported, the greater labour did they give <lb/>their land ; the more they got for the sale of it, the greater <lb/>was their power of importing fresh labour. This resolution, <lb/>therefore, acted in a reciprocal manner upon itself, and when <lb/>it was once fairly put into operation they would proceed on<lb break="no"/>wards on the road to prosperity with accelerated velocity, <lb/>meeting with no other obstacle than the unwillingness of <lb/>England to part with her inhabitants.</p>
+                <p>Mr Wilks, M.P. seconded the resolution.</p>
+                <p>Mr Handson moved –"That amongst the unoccupied por<lb break="no"/>tions of the earth which form part of the British dominions, <lb/>the south coast of Australia appears to be a sport peculiarly <lb/>suitable for founding a colony upon the principles embodied <lb/>in the preceding resolutions." The place where this colony <lb/>was to be founded was one distinguished from every other <lb/>part of Australia, from its possessing a facility of internal <lb/>communications prior even to the formation of roads, and <lb/>the soil would amply repay the labour expended on its culti<lb break="no"/>vation.</p>
+                <p>Mr Robert Owen (not of Lanark) said that the coasts of <lb/>this colony abounded with whales, and that its whale fishe<lb break="no"/>ries might become valuable.</p>
+                <p>Mr M. D. Hill rose to propose the resolution embodying the <lb/>mode of carrying the principles of this association into effect. <lb/>No colony could go on without some law. He did not care <lb/>how little they had of it, provided they made up in quality <lb/>what was deficient in quantity. The hon. member entered <lb/>into an elaborate description of the laws intended to be enact<lb break="no"/>ed for the colony, and concluded by moving–"That the <lb/>provisions for the peace, order, and good government of the <lb/>British Province of South Australia, as contained in the bill <lb/>now before Parliament, are highly satisfactory."</p>
+                <p>Mr D. Wakefield seconded the resolution.</p>
+                <p>Sir W. Molesworth, M.P. proposed, and Mr Childers, M.P., <lb/>seconded the following resolution :–"That it is the opinion <lb/>of this meeting that the thanks of the country are due to Mr <lb/>Spring Rice for his prompt and enlightened conduct in pro<lb break="no"/>moting the beneficial public object of the South Australian <lb/>Association."</p>
+                <p>The resolutions were carried unanimously. Thanks were <lb/>given to the Chairman, and the meeting, at which many <lb/>ladies were present, broke up. The proceedings lasted from <lb/>twelve o'clock to a quarter before five.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>243</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-08-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="smallcaps">House of Commons.–July 28 </hi>
+               <lb/>
+               <hi rend="italic">(Continued from our last.)</hi>
+            </p>
+                <p>A message from the Lords announced that their Lordships <lb/>had agreed to the Amendments to the Ministers Appointment <lb/>(Scotland) bill ; to the Newspaper Postage bill ; and to the <lb/>Orkney Statute Labour bill.</p>
+                <p>
+               <hi rend="smallcaps">Affairs of Oude</hi>
+            </p>
+                <p>On the order of the day for the third reading of the Univer<lb break="no"/>sities' Admission bill being moved–</p>
+                <p>Mr <hi rend="smallcaps">Herriks[?]</hi>  took the occasion of calling on Government to <lb/>explain the circumstances which had occurred in certain <lb/>transactions between the Board of Controul and the East India <lb/>directors. These transactions, the hon. gentleman stated, to <lb/>be the repeated peremptory commands of the Board of Con<lb break="no"/>troul to the Directors of the East India Company to prepare <lb/>a despatch for the purpose of directing the Indian Govern<lb break="no"/>ment to compel the King of Oude, to pay certain claims made <lb/>on him on behalf of Calcutta bankers, which commands the <lb/>Court of Directors refused to obey, on the ground that the in<lb break="no"/>terference which the Board of Controul required them to ex<lb break="no"/>ercise with the King of Oude, was inconsistent with the re<lb break="no"/>lations subsisting between the British Government and the <lb/>King of Oude, and would be most mischievous in effect. On <lb/>the 31st of January the right jon. gentleman had appliedfor, <lb/>and obtained a rule to show cause why, under the act of Par<lb break="no"/>liament, a <hi rend="italic">mandamus</hi>  should not issue to compel the Court <lb/>of Directors to comply with the desire ofthe Board of Con<lb break="no"/>troul. On the 31st of January, 1834, the Court of King's <lb/>bench was prepared to give its decision upon the application <lb/>for the <hi rend="italic">mandamus</hi>, when, without any reason being assigned, <lb/>the right hon. President of the Board of Controul withdrew <lb/>his application.</p>
+                <p>Mr <hi rend="smallcaps">C. Grant</hi>  said that in the regret which had been express<lb break="no"/>ed respecting the possible collision between the two authorities, <lb/>he fully concurred; bu, entertaining such a sentiment, he <lb/>confessed it surprised him not a little to find his Right Hon. <lb/>Friend endeavouring to open a dispute already composed. <lb/>The right honourable gentleman then proceeded to give <lb/>a brief outline of the case, and referred to the various high <lb/>authorities connected with India, who had declared in favour <lb/>of the demand. With regard to his having withdrawn the ap<lb break="no"/>plication for the <hi rend="italic">mandamus</hi>  without explanation, he had to <lb/>say that he fully explain his opinions to the Directors, <lb/>he had re-stated them verbally to the chairman, and he did <lb/>not think himself required, under the circumstances, to re<lb break="no"/>enter into a long discussion upon the point. The effect of the <lb/>recommendation to the King of Oude was merely to urge the <lb/>claim upon his attention.</p>
+                <p>Sir <hi rend="smallcaps">R. Peel</hi>  said it was a perfectly novel doctrine, and in the <lb/>present state of the world most inconvenient, that the non<lb break="no"/>payment of debts due to his subjects should give the King of <lb/>England a right forcibly to intervene with foreign states, ex<lb break="no"/>cept where sanctioned by positive treaty.</p>
+                <p>Mr <hi rend="smallcaps">Hume</hi>  contended, that on the whole, the debt was a just <lb/>one, and ought to be paid.</p>
+                <p>The subject here dropped.</p>
+                <p>
+               <hi rend="smallcaps">Admission of Dissenters to the Universities.</hi>
+            </p>
+                <p>On the question that this bill be read a third time,</p>
+                <p>Mr T. <hi rend="smallcaps">Gladstone</hi>  rose to oppose it. It would, he said, be <lb/>useless to pass the bill, for it would of necessity be inopera<lb break="no"/>tive. If he were asked why he opposed a bill which, if pass<lb break="no"/>ed, would be inoperative, his answer was that he objected <lb/>to its principle, the admission of which was equally destruc<lb break="no"/>tive, whether it effected the object of its promoters or not. <lb/>Further, they were bound to respect corporate rights as long <lb/>as the intentions of their founders were fulfilled ; and no one <lb/>could deny that the Universities did fulfilthe intentions of <lb/>their founders." (Hear, hear.)</p>
+                <p>Mr V. <hi rend="smallcaps">Smith</hi>  supported the bill, as one calculated to take <lb/>away a reproach from the Establishment, and be felt as a <lb/>compliment by the Dissenters, whose only desire was to exer<lb break="no"/>cise their vigorous intellects in the promotion of science <lb/>and literature.</p>
+                <p>Mr <hi rend="smallcaps">Baines</hi>  said, that the original statutes showed that there <lb/>were then no tests, nor did any exist at Oxford, in either the <lb/>time of the Lollards or of Wickliff. The term University had <lb/>in it an argument for thegeneral use of these seats of learn<lb break="no"/>ing, which were meant to be universal, both as to the sub<lb break="no"/>jects taught, and the persons to whom they were communi<lb break="no"/>cated. In this sense, the term was understood and applied in <lb/>other countries, and it was an extraordinary fact, deserving <lb/>of attention, that the Universities of Oxford and of Cambridge <lb/>were the only universities that were closed to a large pro<lb break="no"/>portion of the upper classes of the people in any country in <lb/>Europe. This the Dissenters of England felt as a grievous <lb/>indignity, and they thought it unjust that Englishmen should <lb/>attempt to degrade Englishmen by excluding them from the <lb/>best seats of literature and science.</p>
+                <p>Mr H. <hi rend="smallcaps">Hughes</hi>  could not accede to the measure, and there<lb break="no"/>fore moved that it be read that day six months.</p>
+                <p>Mr <hi rend="smallcaps">Goulburn</hi>  contended that the introduction of the Dis<lb break="no"/>senters, as proposed under the present bill, would be nothing <lb/>short of the destruction of the present system of education at <lb/>the Universities. It was indisputable that at a University, re<lb break="no"/>ligion could only be taught according to some set form : <lb/>abandon that mode of tuition, and you abandon the religion <lb/>itself. (Cries of "No, no.") If they let in Dissenters, it was <lb/>perfectly obvious the intentions of the founders of those es<lb break="no"/>tablishments would be completely defeated : he therefore de<lb break="no"/>precated the measures as injurious to religon and opposed to <lb/>the best interest of the country.</p>
+                <p>Lord <hi rend="smallcaps">Palmerstone</hi>, Sir R. <hi rend="smallcaps">Inglis</hi>, and Mr G. <hi rend="smallcaps">Wood</hi>  then <lb/>addressed the house, but amidst such discordant noises as <lb/>prevented what they said being heard. The laughing, jeer<lb break="no"/>ing, shouting, were such as has seldom been heard. In par<lb break="no"/>ticular two hon. members who entered from the smoking <lb/>room into the opposite gallery during the address of Mr <lb/>Wood, and who stretched themselves at full length on the <lb/>seats secure from the observation of the Speaker, kept up a <lb/>row of the most discreditable character. The Speaker, with <lb/>much indignation in his tone and manner, called the parties <lb/>to order.</p>
+                <p>The motion for the third reading was carried, on a division, <lb/>by 164 to 25. <cb/>The Trading Companies Bill, the Arms Importation (Ire<lb break="no"/>land) Bill, and the Court of Chancery (Ireland) Bill, went <lb/>through committees.</p>
+                <p>The Four Courts (Dublin) Bill, the Weights and Measures <lb/>Bill, and the Turnpike Acts Amendment Bill, were read a <lb/>third time and passed.</p>
+                <p>The Almanack Stamps Repeal Bill, the Assessed Taxes <lb/>Repeal Bill, and the Militia Ballot Suspension Bill, were <lb/>brought in, and read a first time.</p>
+                <p>The house was counted out at three o'clock in the morning.</p>
+                <p>
+               <hi rend="italic">Tuesday, July 29.</hi>
+            </p>
+                <p>Sir <hi rend="smallcaps">John Cam Hobhouse</hi>  and General Sir <hi rend="smallcaps">Edward Barnes</hi>, <lb/>took the oaths and their seats ; the former for Nottingham, in <lb/>the room of Lord Duncannon, raised to the Peerage ; the <lb/>latter for Sudbury, in the room of M. A. Taylor, Esq. deceased.</p>
+                <p>On the motion of Mr Alderman <hi rend="smallcaps">Thompson</hi>  the Durham and <lb/>Sunderland Railway bill was read a third time and passed.</p>
+                <p>
+               <hi rend="smallcaps">Southern Australia</hi>
+            </p>
+                <p>Mr S. <hi rend="smallcaps">Rice</hi>  moved the order of the day for the house <lb/>to resolve into Committee upon the Bill for the Colonization <lb/>of Southern Australia,</p>
+                <p>Mr A. <hi rend="smallcaps">Baring</hi>  rose and stated various objections to the pro<lb break="no"/>ject. The hon. member contended that at this period of the <lb/>year there was not time to deliberate upon such an important <lb/>subject, and, independent of this preliminary objection, he <lb/>said he did not conceive that government ought to sanction <lb/>any such experiment without a full conviction that there was <lb/>a reasonable probability of its success. In his opinion the <lb/>experiment was founded upon bases more mistaken than any <lb/>similar one which had ever been tried. In fact, according to <lb/>the plan which had been laid down, the colony would be tied <lb/>up by mortgages in such a way, that it would not again re<lb break="no"/>vert to the Crown, so that the territory would be lost. The <lb/>result would be, that if the gentlemen who set the project on <lb/>foot were mistaken–as he was sure they had been–we would <lb/>be prevented from touching this large portion of Australia, <lb/>unless we could pay off the debt which had been contracted. <lb/>While he stated these objections to the plan, he was anxious <lb/>not to be understood to be inimical to colonization, for <lb/>he was very favourable to it. Every new opening to co<lb break="no"/>lonization he was convinced was a substantial benefit to the <lb/>poorer classes, (Hear, hear, hear.) It was not, therefore, <lb/>to the principle of colonization that he was opposed, <lb/>but he objected to this bill becaue the plan was a most <lb/>mistaken one, and would eventually shut up this large <lb/>portion of the world. One of his main objections was to the <lb/>extent to which it was proposed to carry the experiment. Let <lb/>the gentlemen take, if they like, 100 square miles, but let <lb/>them not risk the whole of a great continent. People, like <lb/>fuel, he said, could not well be carried too far ; they might <lb/>get a few thousands to go out, but they would never get the <lb/>tens of thousands to go which were required for the success of <lb/>the project. The hon. member then objected to two of the <lb/>principles which were laid down by the projectors, that land <lb/>should not be sold lower than 12s. per acre, and that no credit <lb/>should be given. He was convinced that any man acquainted <lb/>with the practical workings of the system in other colonies, <lb/>would blow up the whole plan in a moment. No man who <lb/>went out to Australia would think of taking less than two <lb/>hundred acres. Now that would cost him t120; it would <lb/>cost him t120 more to get himself and his family over; which, <lb/>with stock and other expenses, would amount to t500 or t600. <lb/>He would, therefore, ask any gentlemen in that house, whe<lb break="no"/>ther they thought any man who had t500 or t600 in this <lb/>country, would go out and set himself down on two hundred <lb/>acres in Australia. (Hear, hear.) He therefore suggested to <lb/>his right hon. friend to consent that the committee be post<lb break="no"/>poned until another session, and then have it referred to a <lb/>select committee. He concluded by moving, as an amend<lb break="no"/>ment, that the bill be committed on that day six months.</p>
+                <p>Mr W. <hi rend="smallcaps">Whitmore</hi>  was thakful for the very candid manner <lb/>in which the hon. member had stated his objections to the bill. <lb/>With respect to the large extent of territory, he (Mr W.) <lb/>thought that was necessary, as it was intended to introduce a <lb/>completely new system of colonization–one very different from <lb/>any thing ever before attempted. The extent of land it was <lb/>intended to take under this act was from 500,000 to 600,000 <lb/>square miles, and it was the leading principle of the bill that <lb/>all the money arising from the sale of lands should be applied <lb/>to the purpose of sending out labourers free of expense.– <lb/>(Hear, hear, hear.) If this plan succeeded, there would be a <lb/>constant stream of emigrants going out. The land sold by the <lb/>Canada Company had been at a higher price. He had san<lb break="no"/>guine hopes that all the money it would be necessary to <lb/>borrow would be easily repaid. He most conscientously con<lb break="no"/>sidered that this bill would prove a very great benefit to the <lb/>country. It would tend exceedingly towards facilitating and <lb/>amending the conditions of the people of England and Ireland, <lb/>and therefore he hoped it would pass.</p>
+                <p>Mr <hi rend="smallcaps">O'Dwyer</hi>  contended that, before the house thought of <lb/>agreeing to such a bill as this, they ought to do something <lb/>towards the ameloriation of the condition of the people of <lb/>Ireland. The various reports which committees of that house <lb/>had made, showed that one-fourth of the land of that country <lb/>was untilled, but was at the same time what was called re<lb break="no"/>claimable land, and well calculated for the cultivation and <lb/>produce of grain. Let this country advance some of the sur<lb break="no"/>plus capital talked of by the hon. member towards the culti<lb break="no"/>vation of this bog land, and discontent would flee[?] from Ire<lb break="no"/>land entirely. The Irish people wanted employment, give <lb/>them that and the house would hear no more about murders, <lb/>fires, and other outrages.</p>
+                <p>Mr S. <hi rend="smallcaps">Rice</hi>  in reference to the allusion made by the hon. <lb/>and learned member, begged to say that, although much of <lb/>the bog land in question belonged to private individuals, yet a <lb/>portion of it was the property of the Government, who had <lb/>been, and still were, making experiments, with a view to as<lb break="no"/>certain if the views of the Commissioners could be carried into <lb/>effect. With respect to the manner in which the hon. mem<lb break="no"/>ber for Essex had opened this question, he must confess that <lb/>he had brought with him much of usefulness and of experi<lb break="no"/>ence, and of such a character, too, as could not fail to carry <lb/>weight. The right hon. gentleman then proceeded to speak <lb/>in favour of the proposed colonization of South Australia</p>
+                <p>After some farther discussion, strangers were ordered to <lb/>withdraw, and the house divided, when there appeared–For <lb/>going into committee, 72; against it 7–Majority, 65.</p>
+                <p>The bill went through the committee. The report was re<lb break="no"/>ceived, and ordered to be taken into further consideration on <lb/>Thursday next.</p>
+                <p>Several petitions were presented, and, at three o'clock, the <lb/>Speaker left the chair.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>244</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-09-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>weather</item>
+                            <item>timber trade</item>
+                            <item>shipping news</item>
+                            <item>fire</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>The <hi rend="italic">St Nicholas</hi>, Morgan, which has arrived off <lb/>Aberdeen from Bathurst, New South Wales, reports <lb/>that timber was very scarce ; that the woods between <lb/>that town and Miramichi were on fire ; that 250 tons <lb/>of cut timber had been burnt, and the people in the <lb/>woods had been obliged to abandon their camps and <lb/>fly to save their lives. The thermometer at Bathurst <lb/>was from 85 to 90.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>245</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-11-11"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>Colonel C. J. Napier has been appointed Governor <lb/>of the embryo colony in South Australia, and we be<lb break="no"/>lieve that a fitter appointment could not have been <lb/>made. We only regret that Colonel Napier has not <lb/>been sent to superintend a colony founded on some<lb break="no"/>thing like sane principles. But if this Austra<lb break="no"/>lian project end, as we have little doubt it will do, <lb/>in the ruin of those who are weak and silly enough to <lb/>embark in it, no one will ascribe any part of the fail<lb break="no"/>ure to the incapacity or unfitness of the Governor. <lb/>The whole blame will fall on the contrivers of the <lb/>scheme.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>246</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title>Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement>Edinburgh</settlement>
+                                    <region>Scotland</region>
+                                    <country>United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-11-08"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb/>
+               <hi rend="italic">Emigration.</hi> –According to a general return of emi<lb break="no"/>grants who have left Liverpool for the British colonies <lb/>and the United States of America, it appears that from <lb/>the 7th of May 1833, to the 30th September 1834, <lb/>3,121 persons left there for the colonies, and 27,486 <lb/>for the United States, making a grand total of 30,607 <lb/>persons. The ships employed were 455 ; the tonnage <lb/>196,058, and the crews, 8,9956. The chief of the emi<lb break="no"/>grants to the United States, disembarked at New <lb/>York, 24,311 having landed there. Of the emigrants <lb/>to the colonies, 1,289 went to Australia, and 1,227 <lb/>to Quebec. The emigration to the West Indies dur<lb break="no"/>ing the above period, only amounted to 12 to the <lb/>smaller islands, 3 to Antigua, 32 to Jamaica, and 26 <lb/>to Demerara. The emigrants to Van Diemen's Land <lb/>were 135.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
