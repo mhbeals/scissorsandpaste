@@ -22,9 +22,7 @@
                     <country>
                         <xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/pubPlace/address/country"/>
                     </country>
-                    <date>
-                        <xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/date/@when"/>
-                    </date>
+                    <date when="{teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/date/@when}">
                     <year>
                         <xsl:value-of select="substring(teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/date/@when, 1, 4)"/>
                     </year>
@@ -34,6 +32,7 @@
                     <day>
                         <xsl:value-of select="substring(teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/date/@when, 9, 2)"/>
                     </day>
+                    </date>
                     <keywords>
                         <xsl:for-each select="teiHeader/profileDesc/textClass/keywords/list/item">
                             <keyword>
@@ -45,8 +44,8 @@
                         <xsl:value-of select="text/body/head"/>
                     </headline>
                     <text>
-                    <xsl:for-each select="text/p">
-                    <p><xsl:value-of select="."/></p>    
+                    <xsl:for-each select="text/body/p">
+                        <p><xsl:value-of select="."/></p>    
                     </xsl:for-each>
                     </text>
                 </record>
