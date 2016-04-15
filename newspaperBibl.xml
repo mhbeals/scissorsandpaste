@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newspaperBibl>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_cm">Caledonian Mercury</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2650225">Edinburgh</settlement>
+                    <region n="2638360">Scotland</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_ga">Glasgow Advertiser</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2648579">Glasgow</settlement>
+                    <region n="2638360">Scotland</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_aj">Aberdeen Journal</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2657832">Aberdeen</settlement>
+                    <region n="2638360">Scotland</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_sm">Scotsman</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2650225">Edinburgh</settlement>
+                    <region n="2638360">Scotland</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_gh">Glasgow Herald</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2648579">Glasgow</settlement>
+                    <region n="2638360">Scotland</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_sg">Sydney Gazette</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2147714">Sydney</settlement>
+                    <region n="2155400">New South Wales</region>
+                    <country n="2077456">Australia</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_mc">Morning Chronicle</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2643743">London</settlement>
+                    <region n="6269131">England</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_lt">London Times</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2643743">London</settlement>
+                    <region n="6269131">England</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_ls">London Star</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2643743">London</settlement>
+                    <region n="6269131">England</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_lc">London Courier</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2643743">London</settlement>
+                    <region n="6269131">England</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_lj">London St James Chronicle and Evening Post</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2643743">London</settlement>
+                    <region n="6269131">England</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_fp">Trewman's Exeter Flying Post</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2649808">Exeter</settlement>
+                    <region n="6269131">England</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+    <biblFull>
+        <titleStmt>
+            <title n="newspaper_er">Examiner</title>
+        </titleStmt>
+        <publicationStmt>
+            <pubPlace>
+                <address>
+                    <settlement n="2643743">London</settlement>
+                    <region n="6269131">England</region>
+                    <country n="2635167">United Kingdom</country>
+                </address>
+            </pubPlace>
+        </publicationStmt>
+    </biblFull>
+</newspaperBibl>
