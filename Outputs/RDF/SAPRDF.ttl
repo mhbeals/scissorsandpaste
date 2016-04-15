@@ -2540,7 +2540,7 @@ sapcorpus:image_1
 	fabio:isRepresentationOf sap:article_1 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/1.xml>
+<http://www.scissorsandpaste.net/sapcorpus/1.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:1		
 	sap:transcribedBy sap:mtemplar ;
@@ -2577,7 +2577,7 @@ sapcorpus:image_2
 	fabio:isRepresentationOf sap:article_2 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/2.xml>
+<http://www.scissorsandpaste.net/sapcorpus/2.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:2		
 	sap:transcribedBy sap:mtemplar ;
@@ -2600,7 +2600,7 @@ sapcorpus:article_3
 	fabio:partOf sapcorpus:newspaper_ga_1789-01-05 ;
 	
 	
-<http://www.scissorsandpaste.net/3.xml>
+<http://www.scissorsandpaste.net/sapcorpus/3.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2616,7 +2616,7 @@ sapcorpus:article_4
 	fabio:partOf sapcorpus:newspaper_ga_1789-07-13 ;
 	
 	
-<http://www.scissorsandpaste.net/4.xml>
+<http://www.scissorsandpaste.net/sapcorpus/4.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2633,7 +2633,7 @@ sapcorpus:article_5
 	fabio:partOf sapcorpus:newspaper_ga_1789-07-20 ;
 	
 	
-<http://www.scissorsandpaste.net/5.xml>
+<http://www.scissorsandpaste.net/sapcorpus/5.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2650,7 +2650,7 @@ sapcorpus:article_6
 	fabio:partOf sapcorpus:newspaper_ga_1789-07-20 ;
 	
 	
-<http://www.scissorsandpaste.net/6.xml>
+<http://www.scissorsandpaste.net/sapcorpus/6.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2666,7 +2666,7 @@ sapcorpus:article_7
 	fabio:partOf sapcorpus:newspaper_ga_1789-07-20 ;
 	
 	
-<http://www.scissorsandpaste.net/7.xml>
+<http://www.scissorsandpaste.net/sapcorpus/7.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2683,7 +2683,7 @@ sapcorpus:article_8
 	fabio:partOf sapcorpus:newspaper_ga_1789-07-06 ;
 	
 	
-<http://www.scissorsandpaste.net/8.xml>
+<http://www.scissorsandpaste.net/sapcorpus/8.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2700,7 +2700,7 @@ sapcorpus:article_9
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-21 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/9.xml>
+<http://www.scissorsandpaste.net/sapcorpus/9.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2717,7 +2717,7 @@ sapcorpus:article_10
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-21 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/10.xml>
+<http://www.scissorsandpaste.net/sapcorpus/10.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2733,7 +2733,7 @@ sapcorpus:article_11
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-24 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/11.xml>
+<http://www.scissorsandpaste.net/sapcorpus/11.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2749,7 +2749,7 @@ sapcorpus:article_12
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-24 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/12.xml>
+<http://www.scissorsandpaste.net/sapcorpus/12.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2765,7 +2765,7 @@ sapcorpus:article_13
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-28 ;
 	prism:startingPage "7" ;
 	
-<http://www.scissorsandpaste.net/13.xml>
+<http://www.scissorsandpaste.net/sapcorpus/13.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2781,7 +2781,7 @@ sapcorpus:article_14
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-28 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/14.xml>
+<http://www.scissorsandpaste.net/sapcorpus/14.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2797,7 +2797,7 @@ sapcorpus:article_15
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-03 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/15.xml>
+<http://www.scissorsandpaste.net/sapcorpus/15.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2814,7 +2814,7 @@ sapcorpus:article_16
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-31 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/16.xml>
+<http://www.scissorsandpaste.net/sapcorpus/16.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2830,7 +2830,7 @@ sapcorpus:article_17
 	fabio:partOf sapcorpus:newspaper_ga_1789-08-07 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/17.xml>
+<http://www.scissorsandpaste.net/sapcorpus/17.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2847,7 +2847,7 @@ sapcorpus:article_18
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-21 ;
 	
 	
-<http://www.scissorsandpaste.net/18.xml>
+<http://www.scissorsandpaste.net/sapcorpus/18.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2864,7 +2864,7 @@ sapcorpus:article_19
 	fabio:partOf sapcorpus:newspaper_ga_1789-10-02 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/19.xml>
+<http://www.scissorsandpaste.net/sapcorpus/19.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2880,7 +2880,7 @@ sapcorpus:article_20
 	fabio:partOf sapcorpus:newspaper_ga_1789-10-09 ;
 	
 	
-<http://www.scissorsandpaste.net/20.xml>
+<http://www.scissorsandpaste.net/sapcorpus/20.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2897,7 +2897,7 @@ sapcorpus:article_21
 	fabio:partOf sapcorpus:newspaper_ga_1789-10-09 ;
 	
 	
-<http://www.scissorsandpaste.net/21.xml>
+<http://www.scissorsandpaste.net/sapcorpus/21.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2914,7 +2914,7 @@ sapcorpus:article_22
 	fabio:partOf sapcorpus:newspaper_ga_1789-10-09 ;
 	
 	
-<http://www.scissorsandpaste.net/22.xml>
+<http://www.scissorsandpaste.net/sapcorpus/22.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2930,7 +2930,7 @@ sapcorpus:article_23
 	fabio:partOf sapcorpus:newspaper_ga_1789-10-09 ;
 	
 	
-<http://www.scissorsandpaste.net/23.xml>
+<http://www.scissorsandpaste.net/sapcorpus/23.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2946,7 +2946,7 @@ sapcorpus:article_24
 	fabio:partOf sapcorpus:newspaper_ga_1789-10-09 ;
 	
 	
-<http://www.scissorsandpaste.net/24.xml>
+<http://www.scissorsandpaste.net/sapcorpus/24.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2962,7 +2962,7 @@ sapcorpus:article_25
 	fabio:partOf sapcorpus:newspaper_ga_1789-11-20 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/25.xml>
+<http://www.scissorsandpaste.net/sapcorpus/25.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2978,7 +2978,7 @@ sapcorpus:article_26
 	fabio:partOf sapcorpus:newspaper_ga_1789-11-23 ;
 	
 	
-<http://www.scissorsandpaste.net/26.xml>
+<http://www.scissorsandpaste.net/sapcorpus/26.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -2995,7 +2995,7 @@ sapcorpus:article_28
 	fabio:partOf sapcorpus:newspaper_ga_1789-11-23 ;
 	
 	
-<http://www.scissorsandpaste.net/28.xml>
+<http://www.scissorsandpaste.net/sapcorpus/28.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3011,7 +3011,7 @@ sapcorpus:article_29
 	fabio:partOf sapcorpus:newspaper_ga_1789-11-23 ;
 	
 	
-<http://www.scissorsandpaste.net/29.xml>
+<http://www.scissorsandpaste.net/sapcorpus/29.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3027,7 +3027,7 @@ sapcorpus:article_31
 	fabio:partOf sapcorpus:newspaper_ga_1789-11-27 ;
 	
 	
-<http://www.scissorsandpaste.net/31.xml>
+<http://www.scissorsandpaste.net/sapcorpus/31.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3043,7 +3043,7 @@ sapcorpus:article_32
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-11 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/32.xml>
+<http://www.scissorsandpaste.net/sapcorpus/32.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3059,7 +3059,7 @@ sapcorpus:article_33
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-11 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/33.xml>
+<http://www.scissorsandpaste.net/sapcorpus/33.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3076,7 +3076,7 @@ sapcorpus:article_34
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-11 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/34.xml>
+<http://www.scissorsandpaste.net/sapcorpus/34.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3093,7 +3093,7 @@ sapcorpus:article_35
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-14 ;
 	prism:startingPage "7" ;
 	
-<http://www.scissorsandpaste.net/35.xml>
+<http://www.scissorsandpaste.net/sapcorpus/35.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3110,7 +3110,7 @@ sapcorpus:article_36
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-14 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/36.xml>
+<http://www.scissorsandpaste.net/sapcorpus/36.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3127,7 +3127,7 @@ sapcorpus:article_37
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-14 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/37.xml>
+<http://www.scissorsandpaste.net/sapcorpus/37.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3144,7 +3144,7 @@ sapcorpus:article_38
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-14 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/38.xml>
+<http://www.scissorsandpaste.net/sapcorpus/38.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3160,7 +3160,7 @@ sapcorpus:article_40
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-14 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/40.xml>
+<http://www.scissorsandpaste.net/sapcorpus/40.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3177,7 +3177,7 @@ sapcorpus:article_41
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-14 ;
 	
 	
-<http://www.scissorsandpaste.net/41.xml>
+<http://www.scissorsandpaste.net/sapcorpus/41.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3193,7 +3193,7 @@ sapcorpus:article_42
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-14 ;
 	
 	
-<http://www.scissorsandpaste.net/42.xml>
+<http://www.scissorsandpaste.net/sapcorpus/42.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3210,7 +3210,7 @@ sapcorpus:article_43
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-18 ;
 	
 	
-<http://www.scissorsandpaste.net/43.xml>
+<http://www.scissorsandpaste.net/sapcorpus/43.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3226,7 +3226,7 @@ sapcorpus:article_44
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-18 ;
 	
 	
-<http://www.scissorsandpaste.net/44.xml>
+<http://www.scissorsandpaste.net/sapcorpus/44.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3243,7 +3243,7 @@ sapcorpus:article_45
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-18 ;
 	
 	
-<http://www.scissorsandpaste.net/45.xml>
+<http://www.scissorsandpaste.net/sapcorpus/45.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3259,7 +3259,7 @@ sapcorpus:article_46
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-18 ;
 	
 	
-<http://www.scissorsandpaste.net/46.xml>
+<http://www.scissorsandpaste.net/sapcorpus/46.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3275,7 +3275,7 @@ sapcorpus:article_47
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-18 ;
 	
 	
-<http://www.scissorsandpaste.net/47.xml>
+<http://www.scissorsandpaste.net/sapcorpus/47.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3291,7 +3291,7 @@ sapcorpus:article_48
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-18 ;
 	
 	
-<http://www.scissorsandpaste.net/48.xml>
+<http://www.scissorsandpaste.net/sapcorpus/48.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3308,7 +3308,7 @@ sapcorpus:article_49
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-21 ;
 	
 	
-<http://www.scissorsandpaste.net/49.xml>
+<http://www.scissorsandpaste.net/sapcorpus/49.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3324,7 +3324,7 @@ sapcorpus:article_50
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-21 ;
 	
 	
-<http://www.scissorsandpaste.net/50.xml>
+<http://www.scissorsandpaste.net/sapcorpus/50.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3340,7 +3340,7 @@ sapcorpus:article_51
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-25 ;
 	
 	
-<http://www.scissorsandpaste.net/51.xml>
+<http://www.scissorsandpaste.net/sapcorpus/51.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3357,7 +3357,7 @@ sapcorpus:article_52
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-25 ;
 	
 	
-<http://www.scissorsandpaste.net/52.xml>
+<http://www.scissorsandpaste.net/sapcorpus/52.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3374,7 +3374,7 @@ sapcorpus:article_53
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-04 ;
 	
 	
-<http://www.scissorsandpaste.net/53.xml>
+<http://www.scissorsandpaste.net/sapcorpus/53.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3390,7 +3390,7 @@ sapcorpus:article_54
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-04 ;
 	
 	
-<http://www.scissorsandpaste.net/54.xml>
+<http://www.scissorsandpaste.net/sapcorpus/54.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3406,7 +3406,7 @@ sapcorpus:article_55
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-07 ;
 	
 	
-<http://www.scissorsandpaste.net/55.xml>
+<http://www.scissorsandpaste.net/sapcorpus/55.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3423,7 +3423,7 @@ sapcorpus:article_56
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-07 ;
 	
 	
-<http://www.scissorsandpaste.net/56.xml>
+<http://www.scissorsandpaste.net/sapcorpus/56.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3439,7 +3439,7 @@ sapcorpus:article_57
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-07 ;
 	
 	
-<http://www.scissorsandpaste.net/57.xml>
+<http://www.scissorsandpaste.net/sapcorpus/57.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3455,7 +3455,7 @@ sapcorpus:article_58
 	fabio:partOf sapcorpus:newspaper_ga_1789-12-07 ;
 	
 	
-<http://www.scissorsandpaste.net/58.xml>
+<http://www.scissorsandpaste.net/sapcorpus/58.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3471,7 +3471,7 @@ sapcorpus:article_59
 	fabio:partOf sapcorpus:newspaper_ga_1790-01-01 ;
 	
 	
-<http://www.scissorsandpaste.net/59.xml>
+<http://www.scissorsandpaste.net/sapcorpus/59.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3487,7 +3487,7 @@ sapcorpus:article_60
 	fabio:partOf sapcorpus:newspaper_ga_1790-01-04 ;
 	
 	
-<http://www.scissorsandpaste.net/60.xml>
+<http://www.scissorsandpaste.net/sapcorpus/60.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3505,7 +3505,7 @@ sapcorpus:article_61
 	fabio:partOf sapcorpus:newspaper_ga_1790-01-04 ;
 	
 	
-<http://www.scissorsandpaste.net/61.xml>
+<http://www.scissorsandpaste.net/sapcorpus/61.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3523,7 +3523,7 @@ sapcorpus:article_62
 	fabio:partOf sapcorpus:newspaper_ga_1790-01-04 ;
 	
 	
-<http://www.scissorsandpaste.net/62.xml>
+<http://www.scissorsandpaste.net/sapcorpus/62.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3541,7 +3541,7 @@ sapcorpus:article_63
 	fabio:partOf sapcorpus:newspaper_ga_1790-01-04 ;
 	
 	
-<http://www.scissorsandpaste.net/63.xml>
+<http://www.scissorsandpaste.net/sapcorpus/63.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3559,7 +3559,7 @@ sapcorpus:article_64
 	fabio:partOf sapcorpus:newspaper_ga_1790-04-16 ;
 	
 	
-<http://www.scissorsandpaste.net/64.xml>
+<http://www.scissorsandpaste.net/sapcorpus/64.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3575,7 +3575,7 @@ sapcorpus:article_65
 	fabio:partOf sapcorpus:newspaper_ga_1790-07-12 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/65.xml>
+<http://www.scissorsandpaste.net/sapcorpus/65.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3592,7 +3592,7 @@ sapcorpus:article_67
 	fabio:partOf sapcorpus:newspaper_ga_1790-07-12 ;
 	
 	
-<http://www.scissorsandpaste.net/67.xml>
+<http://www.scissorsandpaste.net/sapcorpus/67.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3608,7 +3608,7 @@ sapcorpus:article_68
 	fabio:partOf sapcorpus:newspaper_ga_1790-07-09 ;
 	prism:startingPage "7" ;
 	
-<http://www.scissorsandpaste.net/68.xml>
+<http://www.scissorsandpaste.net/sapcorpus/68.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3626,7 +3626,7 @@ sapcorpus:article_69
 	fabio:partOf sapcorpus:newspaper_ga_1790-08-16 ;
 	
 	
-<http://www.scissorsandpaste.net/69.xml>
+<http://www.scissorsandpaste.net/sapcorpus/69.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3643,7 +3643,7 @@ sapcorpus:article_70
 	fabio:partOf sapcorpus:newspaper_ga_1790-09-17 ;
 	prism:startingPage "1" ;
 	
-<http://www.scissorsandpaste.net/70.xml>
+<http://www.scissorsandpaste.net/sapcorpus/70.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3660,7 +3660,7 @@ sapcorpus:article_71
 	fabio:partOf sapcorpus:newspaper_ga_1790-10-04 ;
 	
 	
-<http://www.scissorsandpaste.net/71.xml>
+<http://www.scissorsandpaste.net/sapcorpus/71.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3679,7 +3679,7 @@ sapcorpus:article_72
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-15 ;
 	
 	
-<http://www.scissorsandpaste.net/72.xml>
+<http://www.scissorsandpaste.net/sapcorpus/72.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3695,7 +3695,7 @@ sapcorpus:article_73
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-19 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/73.xml>
+<http://www.scissorsandpaste.net/sapcorpus/73.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3712,7 +3712,7 @@ sapcorpus:article_74
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-19 ;
 	
 	
-<http://www.scissorsandpaste.net/74.xml>
+<http://www.scissorsandpaste.net/sapcorpus/74.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3728,7 +3728,7 @@ sapcorpus:article_76
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-22 ;
 	
 	
-<http://www.scissorsandpaste.net/76.xml>
+<http://www.scissorsandpaste.net/sapcorpus/76.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3744,7 +3744,7 @@ sapcorpus:article_78
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-26 ;
 	
 	
-<http://www.scissorsandpaste.net/78.xml>
+<http://www.scissorsandpaste.net/sapcorpus/78.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3761,7 +3761,7 @@ sapcorpus:article_80
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-26 ;
 	
 	
-<http://www.scissorsandpaste.net/80.xml>
+<http://www.scissorsandpaste.net/sapcorpus/80.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3777,7 +3777,7 @@ sapcorpus:article_81
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-29 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/81.xml>
+<http://www.scissorsandpaste.net/sapcorpus/81.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3793,7 +3793,7 @@ sapcorpus:article_82
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-29 ;
 	
 	
-<http://www.scissorsandpaste.net/82.xml>
+<http://www.scissorsandpaste.net/sapcorpus/82.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3809,7 +3809,7 @@ sapcorpus:article_84
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-08 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/84.xml>
+<http://www.scissorsandpaste.net/sapcorpus/84.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3826,7 +3826,7 @@ sapcorpus:article_85
 	fabio:partOf sapcorpus:newspaper_ga_1790-12-13 ;
 	
 	
-<http://www.scissorsandpaste.net/85.xml>
+<http://www.scissorsandpaste.net/sapcorpus/85.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3845,7 +3845,7 @@ sapcorpus:article_86
 	fabio:partOf sapcorpus:newspaper_ga_1790-02-01 ;
 	
 	
-<http://www.scissorsandpaste.net/86.xml>
+<http://www.scissorsandpaste.net/sapcorpus/86.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3863,7 +3863,7 @@ sapcorpus:article_87
 	fabio:partOf sapcorpus:newspaper_ga_1791-05-23 ;
 	
 	
-<http://www.scissorsandpaste.net/87.xml>
+<http://www.scissorsandpaste.net/sapcorpus/87.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3881,7 +3881,7 @@ sapcorpus:article_89
 	fabio:partOf sapcorpus:newspaper_ga_1792-04-23 ;
 	
 	
-<http://www.scissorsandpaste.net/89.xml>
+<http://www.scissorsandpaste.net/sapcorpus/89.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3897,7 +3897,7 @@ sapcorpus:article_90
 	fabio:partOf sapcorpus:newspaper_ga_1792-04-23 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/90.xml>
+<http://www.scissorsandpaste.net/sapcorpus/90.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3913,7 +3913,7 @@ sapcorpus:article_91
 	fabio:partOf sapcorpus:newspaper_ga_1792-08-06 ;
 	
 	
-<http://www.scissorsandpaste.net/91.xml>
+<http://www.scissorsandpaste.net/sapcorpus/91.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3929,7 +3929,7 @@ sapcorpus:article_92
 	fabio:partOf sapcorpus:newspaper_ga_1793-01-14 ;
 	
 	
-<http://www.scissorsandpaste.net/92.xml>
+<http://www.scissorsandpaste.net/sapcorpus/92.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3947,7 +3947,7 @@ sapcorpus:article_93
 	fabio:partOf sapcorpus:newspaper_ga_1793-07-22 ;
 	
 	
-<http://www.scissorsandpaste.net/93.xml>
+<http://www.scissorsandpaste.net/sapcorpus/93.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3965,7 +3965,7 @@ sapcorpus:article_94
 	fabio:partOf sapcorpus:newspaper_ga_1793-07-22 ;
 	
 	
-<http://www.scissorsandpaste.net/94.xml>
+<http://www.scissorsandpaste.net/sapcorpus/94.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -3983,7 +3983,7 @@ sapcorpus:article_95
 	fabio:partOf sapcorpus:newspaper_ga_1793-07-29 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/95.xml>
+<http://www.scissorsandpaste.net/sapcorpus/95.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4001,7 +4001,7 @@ sapcorpus:article_96
 	fabio:partOf sapcorpus:newspaper_ga_1793-10-07 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/96.xml>
+<http://www.scissorsandpaste.net/sapcorpus/96.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4019,7 +4019,7 @@ sapcorpus:article_99
 	fabio:partOf sapcorpus:newspaper_ga_1794-02-10 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/99.xml>
+<http://www.scissorsandpaste.net/sapcorpus/99.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4035,7 +4035,7 @@ sapcorpus:article_100
 	fabio:partOf sapcorpus:newspaper_ga_1794-02-14 ;
 	
 	
-<http://www.scissorsandpaste.net/100.xml>
+<http://www.scissorsandpaste.net/sapcorpus/100.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4051,7 +4051,7 @@ sapcorpus:article_101
 	fabio:partOf sapcorpus:newspaper_ga_1794-02-07 ;
 	
 	
-<http://www.scissorsandpaste.net/101.xml>
+<http://www.scissorsandpaste.net/sapcorpus/101.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4067,7 +4067,7 @@ sapcorpus:article_102
 	fabio:partOf sapcorpus:newspaper_cm_1802-07-01 ;
 	
 	
-<http://www.scissorsandpaste.net/102.xml>
+<http://www.scissorsandpaste.net/sapcorpus/102.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4084,7 +4084,7 @@ sapcorpus:article_103
 	fabio:partOf sapcorpus:newspaper_cm_1810-06-09 ;
 	
 	
-<http://www.scissorsandpaste.net/103.xml>
+<http://www.scissorsandpaste.net/sapcorpus/103.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4100,7 +4100,7 @@ sapcorpus:article_104
 	fabio:partOf sapcorpus:newspaper_cm_1812-08-29 ;
 	
 	
-<http://www.scissorsandpaste.net/104.xml>
+<http://www.scissorsandpaste.net/sapcorpus/104.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4117,7 +4117,7 @@ sapcorpus:article_105
 	fabio:partOf sapcorpus:newspaper_cm_1812-10-03 ;
 	
 	
-<http://www.scissorsandpaste.net/105.xml>
+<http://www.scissorsandpaste.net/sapcorpus/105.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4133,7 +4133,7 @@ sapcorpus:article_106
 	fabio:partOf sapcorpus:newspaper_cm_1812-10-03 ;
 	
 	
-<http://www.scissorsandpaste.net/106.xml>
+<http://www.scissorsandpaste.net/sapcorpus/106.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4149,7 +4149,7 @@ sapcorpus:article_107
 	fabio:partOf sapcorpus:newspaper_cm_1812-11-09 ;
 	
 	
-<http://www.scissorsandpaste.net/107.xml>
+<http://www.scissorsandpaste.net/sapcorpus/107.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4166,7 +4166,7 @@ sapcorpus:article_108
 	fabio:partOf sapcorpus:newspaper_cm_1813-10-16 ;
 	
 	
-<http://www.scissorsandpaste.net/108.xml>
+<http://www.scissorsandpaste.net/sapcorpus/108.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4183,7 +4183,7 @@ sapcorpus:article_109
 	fabio:partOf sapcorpus:newspaper_cm_1813-10-07 ;
 	
 	
-<http://www.scissorsandpaste.net/109.xml>
+<http://www.scissorsandpaste.net/sapcorpus/109.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4200,7 +4200,7 @@ sapcorpus:article_110
 	fabio:partOf sapcorpus:newspaper_cm_1813-12-30 ;
 	
 	
-<http://www.scissorsandpaste.net/110.xml>
+<http://www.scissorsandpaste.net/sapcorpus/110.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4217,7 +4217,7 @@ sapcorpus:article_111
 	fabio:partOf sapcorpus:newspaper_cm_1814-03-19 ;
 	
 	
-<http://www.scissorsandpaste.net/111.xml>
+<http://www.scissorsandpaste.net/sapcorpus/111.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4234,7 +4234,7 @@ sapcorpus:article_112
 	fabio:partOf sapcorpus:newspaper_cm_1814-05-26 ;
 	
 	
-<http://www.scissorsandpaste.net/112.xml>
+<http://www.scissorsandpaste.net/sapcorpus/112.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4252,7 +4252,7 @@ sapcorpus:article_113
 	fabio:partOf sapcorpus:newspaper_cm_1814-09-12 ;
 	
 	
-<http://www.scissorsandpaste.net/113.xml>
+<http://www.scissorsandpaste.net/sapcorpus/113.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4270,7 +4270,7 @@ sapcorpus:article_114
 	fabio:partOf sapcorpus:newspaper_cm_1814-10-15 ;
 	
 	
-<http://www.scissorsandpaste.net/114.xml>
+<http://www.scissorsandpaste.net/sapcorpus/114.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4287,7 +4287,7 @@ sapcorpus:article_115
 	fabio:partOf sapcorpus:newspaper_cm_1814-10-15 ;
 	
 	
-<http://www.scissorsandpaste.net/115.xml>
+<http://www.scissorsandpaste.net/sapcorpus/115.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4303,7 +4303,7 @@ sapcorpus:article_116
 	fabio:partOf sapcorpus:newspaper_cm_1814-12-08 ;
 	
 	
-<http://www.scissorsandpaste.net/116.xml>
+<http://www.scissorsandpaste.net/sapcorpus/116.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4319,7 +4319,7 @@ sapcorpus:article_117
 	fabio:partOf sapcorpus:newspaper_cm_1816-01-15 ;
 	
 	
-<http://www.scissorsandpaste.net/117.xml>
+<http://www.scissorsandpaste.net/sapcorpus/117.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4335,7 +4335,7 @@ sapcorpus:article_118
 	fabio:partOf sapcorpus:newspaper_cm_1816-07-08 ;
 	
 	
-<http://www.scissorsandpaste.net/118.xml>
+<http://www.scissorsandpaste.net/sapcorpus/118.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4351,7 +4351,7 @@ sapcorpus:article_119
 	fabio:partOf sapcorpus:newspaper_cm_1816-11-21 ;
 	
 	
-<http://www.scissorsandpaste.net/119.xml>
+<http://www.scissorsandpaste.net/sapcorpus/119.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4367,7 +4367,7 @@ sapcorpus:article_120
 	fabio:partOf sapcorpus:newspaper_aj_1816-12-16 ;
 	
 	
-<http://www.scissorsandpaste.net/120.xml>
+<http://www.scissorsandpaste.net/sapcorpus/120.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4383,7 +4383,7 @@ sapcorpus:article_121
 	fabio:partOf sapcorpus:newspaper_cm_1817-07-21 ;
 	
 	
-<http://www.scissorsandpaste.net/121.xml>
+<http://www.scissorsandpaste.net/sapcorpus/121.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4399,7 +4399,7 @@ sapcorpus:article_122
 	fabio:partOf sapcorpus:newspaper_cm_1818-01-01 ;
 	
 	
-<http://www.scissorsandpaste.net/122.xml>
+<http://www.scissorsandpaste.net/sapcorpus/122.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4415,7 +4415,7 @@ sapcorpus:article_123
 	fabio:partOf sapcorpus:newspaper_cm_1818-01-19 ;
 	
 	
-<http://www.scissorsandpaste.net/123.xml>
+<http://www.scissorsandpaste.net/sapcorpus/123.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4433,7 +4433,7 @@ sapcorpus:article_124
 	fabio:partOf sapcorpus:newspaper_cm_1818-01-19 ;
 	
 	
-<http://www.scissorsandpaste.net/124.xml>
+<http://www.scissorsandpaste.net/sapcorpus/124.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4449,7 +4449,7 @@ sapcorpus:article_125
 	fabio:partOf sapcorpus:newspaper_cm_1818-01-19 ;
 	
 	
-<http://www.scissorsandpaste.net/125.xml>
+<http://www.scissorsandpaste.net/sapcorpus/125.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4465,7 +4465,7 @@ sapcorpus:article_126
 	fabio:partOf sapcorpus:newspaper_aj_1818-01-28 ;
 	
 	
-<http://www.scissorsandpaste.net/126.xml>
+<http://www.scissorsandpaste.net/sapcorpus/126.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4482,7 +4482,7 @@ sapcorpus:article_127
 	fabio:partOf sapcorpus:newspaper_cm_1818-07-16 ;
 	
 	
-<http://www.scissorsandpaste.net/127.xml>
+<http://www.scissorsandpaste.net/sapcorpus/127.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4498,7 +4498,7 @@ sapcorpus:article_128
 	fabio:partOf sapcorpus:newspaper_cm_1818-07-04 ;
 	
 	
-<http://www.scissorsandpaste.net/128.xml>
+<http://www.scissorsandpaste.net/sapcorpus/128.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4514,7 +4514,7 @@ sapcorpus:article_129
 	fabio:partOf sapcorpus:newspaper_cm_1818-09-05 ;
 	
 	
-<http://www.scissorsandpaste.net/129.xml>
+<http://www.scissorsandpaste.net/sapcorpus/129.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4530,7 +4530,7 @@ sapcorpus:article_130
 	fabio:partOf sapcorpus:newspaper_cm_1818-12-28 ;
 	
 	
-<http://www.scissorsandpaste.net/130.xml>
+<http://www.scissorsandpaste.net/sapcorpus/130.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4547,7 +4547,7 @@ sapcorpus:article_131
 	fabio:partOf sapcorpus:newspaper_cm_1818-02-26 ;
 	
 	
-<http://www.scissorsandpaste.net/131.xml>
+<http://www.scissorsandpaste.net/sapcorpus/131.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4564,7 +4564,7 @@ sapcorpus:article_132
 	fabio:partOf sapcorpus:newspaper_sm_1818-02-28 ;
 	
 	
-<http://www.scissorsandpaste.net/132.xml>
+<http://www.scissorsandpaste.net/sapcorpus/132.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4580,7 +4580,7 @@ sapcorpus:article_133
 	fabio:partOf sapcorpus:newspaper_aj_1819-10-13 ;
 	
 	
-<http://www.scissorsandpaste.net/133.xml>
+<http://www.scissorsandpaste.net/sapcorpus/133.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4596,7 +4596,7 @@ sapcorpus:article_134
 	fabio:partOf sapcorpus:newspaper_cm_1819-01-02 ;
 	
 	
-<http://www.scissorsandpaste.net/134.xml>
+<http://www.scissorsandpaste.net/sapcorpus/134.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4613,7 +4613,7 @@ sapcorpus:article_135
 	fabio:partOf sapcorpus:newspaper_aj_1819-01-20 ;
 	
 	
-<http://www.scissorsandpaste.net/135.xml>
+<http://www.scissorsandpaste.net/sapcorpus/135.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4629,7 +4629,7 @@ sapcorpus:article_136
 	fabio:partOf sapcorpus:newspaper_cm_1819-01-04 ;
 	
 	
-<http://www.scissorsandpaste.net/136.xml>
+<http://www.scissorsandpaste.net/sapcorpus/136.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4645,7 +4645,7 @@ sapcorpus:article_137
 	fabio:partOf sapcorpus:newspaper_cm_1819-03-29 ;
 	
 	
-<http://www.scissorsandpaste.net/137.xml>
+<http://www.scissorsandpaste.net/sapcorpus/137.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4661,7 +4661,7 @@ sapcorpus:article_138
 	fabio:partOf sapcorpus:newspaper_aj_1819-04-28 ;
 	
 	
-<http://www.scissorsandpaste.net/138.xml>
+<http://www.scissorsandpaste.net/sapcorpus/138.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4677,7 +4677,7 @@ sapcorpus:article_139
 	fabio:partOf sapcorpus:newspaper_sm_1819-05-01 ;
 	
 	
-<http://www.scissorsandpaste.net/139.xml>
+<http://www.scissorsandpaste.net/sapcorpus/139.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4694,7 +4694,7 @@ sapcorpus:article_140
 	fabio:partOf sapcorpus:newspaper_aj_1819-05-26 ;
 	
 	
-<http://www.scissorsandpaste.net/140.xml>
+<http://www.scissorsandpaste.net/sapcorpus/140.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4710,7 +4710,7 @@ sapcorpus:article_141
 	fabio:partOf sapcorpus:newspaper_cm_1819-05-27 ;
 	
 	
-<http://www.scissorsandpaste.net/141.xml>
+<http://www.scissorsandpaste.net/sapcorpus/141.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4726,7 +4726,7 @@ sapcorpus:article_142
 	fabio:partOf sapcorpus:newspaper_cm_1819-05-27 ;
 	
 	
-<http://www.scissorsandpaste.net/142.xml>
+<http://www.scissorsandpaste.net/sapcorpus/142.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4742,7 +4742,7 @@ sapcorpus:article_143
 	fabio:partOf sapcorpus:newspaper_cm_1819-05-07 ;
 	
 	
-<http://www.scissorsandpaste.net/143.xml>
+<http://www.scissorsandpaste.net/sapcorpus/143.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4758,7 +4758,7 @@ sapcorpus:article_144
 	fabio:partOf sapcorpus:newspaper_aj_1819-06-02 ;
 	
 	
-<http://www.scissorsandpaste.net/144.xml>
+<http://www.scissorsandpaste.net/sapcorpus/144.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4774,7 +4774,7 @@ sapcorpus:article_145
 	fabio:partOf sapcorpus:newspaper_cm_1819-06-28 ;
 	
 	
-<http://www.scissorsandpaste.net/145.xml>
+<http://www.scissorsandpaste.net/sapcorpus/145.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4790,7 +4790,7 @@ sapcorpus:article_146
 	fabio:partOf sapcorpus:newspaper_cm_1819-06-28 ;
 	
 	
-<http://www.scissorsandpaste.net/146.xml>
+<http://www.scissorsandpaste.net/sapcorpus/146.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4806,7 +4806,7 @@ sapcorpus:article_147
 	fabio:partOf sapcorpus:newspaper_cm_1819-07-22 ;
 	
 	
-<http://www.scissorsandpaste.net/147.xml>
+<http://www.scissorsandpaste.net/sapcorpus/147.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4822,7 +4822,7 @@ sapcorpus:article_148
 	fabio:partOf sapcorpus:newspaper_aj_1819-07-28 ;
 	
 	
-<http://www.scissorsandpaste.net/148.xml>
+<http://www.scissorsandpaste.net/sapcorpus/148.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4838,7 +4838,7 @@ sapcorpus:article_149
 	fabio:partOf sapcorpus:newspaper_aj_1819-07-28 ;
 	
 	
-<http://www.scissorsandpaste.net/149.xml>
+<http://www.scissorsandpaste.net/sapcorpus/149.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4854,7 +4854,7 @@ sapcorpus:article_150
 	fabio:partOf sapcorpus:newspaper_aj_1819-07-07 ;
 	
 	
-<http://www.scissorsandpaste.net/150.xml>
+<http://www.scissorsandpaste.net/sapcorpus/150.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4870,7 +4870,7 @@ sapcorpus:article_151
 	fabio:partOf sapcorpus:newspaper_cm_1819-08-16 ;
 	
 	
-<http://www.scissorsandpaste.net/151.xml>
+<http://www.scissorsandpaste.net/sapcorpus/151.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4886,7 +4886,7 @@ sapcorpus:article_152
 	fabio:partOf sapcorpus:newspaper_aj_1819-08-25 ;
 	
 	
-<http://www.scissorsandpaste.net/152.xml>
+<http://www.scissorsandpaste.net/sapcorpus/152.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4902,7 +4902,7 @@ sapcorpus:article_153
 	fabio:partOf sapcorpus:newspaper_aj_1819-09-22 ;
 	
 	
-<http://www.scissorsandpaste.net/153.xml>
+<http://www.scissorsandpaste.net/sapcorpus/153.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4918,7 +4918,7 @@ sapcorpus:article_154
 	fabio:partOf sapcorpus:newspaper_cm_1819-10-11 ;
 	
 	
-<http://www.scissorsandpaste.net/154.xml>
+<http://www.scissorsandpaste.net/sapcorpus/154.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4934,7 +4934,7 @@ sapcorpus:article_155
 	fabio:partOf sapcorpus:newspaper_aj_1819-10-27 ;
 	
 	
-<http://www.scissorsandpaste.net/155.xml>
+<http://www.scissorsandpaste.net/sapcorpus/155.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4950,7 +4950,7 @@ sapcorpus:article_156
 	fabio:partOf sapcorpus:newspaper_aj_1819-11-10 ;
 	
 	
-<http://www.scissorsandpaste.net/156.xml>
+<http://www.scissorsandpaste.net/sapcorpus/156.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4966,7 +4966,7 @@ sapcorpus:article_157
 	fabio:partOf sapcorpus:newspaper_cm_1819-02-15 ;
 	
 	
-<http://www.scissorsandpaste.net/157.xml>
+<http://www.scissorsandpaste.net/sapcorpus/157.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4982,7 +4982,7 @@ sapcorpus:article_158
 	fabio:partOf sapcorpus:newspaper_cm_1820-01-13 ;
 	
 	
-<http://www.scissorsandpaste.net/158.xml>
+<http://www.scissorsandpaste.net/sapcorpus/158.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -4998,7 +4998,7 @@ sapcorpus:article_159
 	fabio:partOf sapcorpus:newspaper_cm_1820-01-24 ;
 	
 	
-<http://www.scissorsandpaste.net/159.xml>
+<http://www.scissorsandpaste.net/sapcorpus/159.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5014,7 +5014,7 @@ sapcorpus:article_160
 	fabio:partOf sapcorpus:newspaper_sm_1820-01-29 ;
 	
 	
-<http://www.scissorsandpaste.net/160.xml>
+<http://www.scissorsandpaste.net/sapcorpus/160.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5030,7 +5030,7 @@ sapcorpus:article_161
 	fabio:partOf sapcorpus:newspaper_sm_1820-01-08 ;
 	
 	
-<http://www.scissorsandpaste.net/161.xml>
+<http://www.scissorsandpaste.net/sapcorpus/161.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5046,7 +5046,7 @@ sapcorpus:article_162
 	fabio:partOf sapcorpus:newspaper_gh_1820-04-24 ;
 	
 	
-<http://www.scissorsandpaste.net/162.xml>
+<http://www.scissorsandpaste.net/sapcorpus/162.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5062,7 +5062,7 @@ sapcorpus:article_163
 	fabio:partOf sapcorpus:newspaper_cm_1820-04-24 ;
 	
 	
-<http://www.scissorsandpaste.net/163.xml>
+<http://www.scissorsandpaste.net/sapcorpus/163.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5078,7 +5078,7 @@ sapcorpus:article_164
 	fabio:partOf sapcorpus:newspaper_sm_1820-05-20 ;
 	
 	
-<http://www.scissorsandpaste.net/164.xml>
+<http://www.scissorsandpaste.net/sapcorpus/164.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5094,7 +5094,7 @@ sapcorpus:article_165
 	fabio:partOf sapcorpus:newspaper_gh_1820-05-22 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/165.xml>
+<http://www.scissorsandpaste.net/sapcorpus/165.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5110,7 +5110,7 @@ sapcorpus:article_166
 	fabio:partOf sapcorpus:newspaper_cm_1820-06-17 ;
 	
 	
-<http://www.scissorsandpaste.net/166.xml>
+<http://www.scissorsandpaste.net/sapcorpus/166.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5126,7 +5126,7 @@ sapcorpus:article_167
 	fabio:partOf sapcorpus:newspaper_cm_1820-07-01 ;
 	
 	
-<http://www.scissorsandpaste.net/167.xml>
+<http://www.scissorsandpaste.net/sapcorpus/167.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5142,7 +5142,7 @@ sapcorpus:article_168
 	fabio:partOf sapcorpus:newspaper_aj_1820-07-12 ;
 	
 	
-<http://www.scissorsandpaste.net/168.xml>
+<http://www.scissorsandpaste.net/sapcorpus/168.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5158,7 +5158,7 @@ sapcorpus:article_169
 	fabio:partOf sapcorpus:newspaper_aj_1820-07-12 ;
 	
 	
-<http://www.scissorsandpaste.net/169.xml>
+<http://www.scissorsandpaste.net/sapcorpus/169.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5175,7 +5175,7 @@ sapcorpus:article_170
 	fabio:partOf sapcorpus:newspaper_aj_1820-07-12 ;
 	
 	
-<http://www.scissorsandpaste.net/170.xml>
+<http://www.scissorsandpaste.net/sapcorpus/170.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5191,7 +5191,7 @@ sapcorpus:article_171
 	fabio:partOf sapcorpus:newspaper_aj_1820-07-19 ;
 	
 	
-<http://www.scissorsandpaste.net/171.xml>
+<http://www.scissorsandpaste.net/sapcorpus/171.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5207,7 +5207,7 @@ sapcorpus:article_172
 	fabio:partOf sapcorpus:newspaper_aj_1820-08-02 ;
 	
 	
-<http://www.scissorsandpaste.net/172.xml>
+<http://www.scissorsandpaste.net/sapcorpus/172.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5223,7 +5223,7 @@ sapcorpus:article_173
 	fabio:partOf sapcorpus:newspaper_aj_1821-01-17 ;
 	
 	
-<http://www.scissorsandpaste.net/173.xml>
+<http://www.scissorsandpaste.net/sapcorpus/173.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5239,7 +5239,7 @@ sapcorpus:article_174
 	fabio:partOf sapcorpus:newspaper_sm_1821-01-26 ;
 	
 	
-<http://www.scissorsandpaste.net/174.xml>
+<http://www.scissorsandpaste.net/sapcorpus/174.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5255,7 +5255,7 @@ sapcorpus:article_175
 	fabio:partOf sapcorpus:newspaper_aj_1821-01-31 ;
 	
 	
-<http://www.scissorsandpaste.net/175.xml>
+<http://www.scissorsandpaste.net/sapcorpus/175.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5271,7 +5271,7 @@ sapcorpus:article_176
 	fabio:partOf sapcorpus:newspaper_aj_1821-03-14 ;
 	
 	
-<http://www.scissorsandpaste.net/176.xml>
+<http://www.scissorsandpaste.net/sapcorpus/176.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5287,7 +5287,7 @@ sapcorpus:article_177
 	fabio:partOf sapcorpus:newspaper_gh_1821-03-30 ;
 	
 	
-<http://www.scissorsandpaste.net/177.xml>
+<http://www.scissorsandpaste.net/sapcorpus/177.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5303,7 +5303,7 @@ sapcorpus:article_178
 	fabio:partOf sapcorpus:newspaper_cm_1821-05-03 ;
 	
 	
-<http://www.scissorsandpaste.net/178.xml>
+<http://www.scissorsandpaste.net/sapcorpus/178.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5319,7 +5319,7 @@ sapcorpus:article_179
 	fabio:partOf sapcorpus:newspaper_sm_1821-06-02 ;
 	
 	
-<http://www.scissorsandpaste.net/179.xml>
+<http://www.scissorsandpaste.net/sapcorpus/179.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5335,7 +5335,7 @@ sapcorpus:article_180
 	fabio:partOf sapcorpus:newspaper_aj_1821-06-27 ;
 	
 	
-<http://www.scissorsandpaste.net/180.xml>
+<http://www.scissorsandpaste.net/sapcorpus/180.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5351,7 +5351,7 @@ sapcorpus:article_181
 	fabio:partOf sapcorpus:newspaper_cm_1821-06-09 ;
 	
 	
-<http://www.scissorsandpaste.net/181.xml>
+<http://www.scissorsandpaste.net/sapcorpus/181.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5367,7 +5367,7 @@ sapcorpus:article_182
 	fabio:partOf sapcorpus:newspaper_cm_1821-07-16 ;
 	
 	
-<http://www.scissorsandpaste.net/182.xml>
+<http://www.scissorsandpaste.net/sapcorpus/182.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5383,7 +5383,7 @@ sapcorpus:article_183
 	fabio:partOf sapcorpus:newspaper_aj_1821-08-15 ;
 	
 	
-<http://www.scissorsandpaste.net/183.xml>
+<http://www.scissorsandpaste.net/sapcorpus/183.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5399,7 +5399,7 @@ sapcorpus:article_184
 	fabio:partOf sapcorpus:newspaper_aj_1821-10-17 ;
 	
 	
-<http://www.scissorsandpaste.net/184.xml>
+<http://www.scissorsandpaste.net/sapcorpus/184.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5415,7 +5415,7 @@ sapcorpus:article_185
 	fabio:partOf sapcorpus:newspaper_aj_1821-11-07 ;
 	
 	
-<http://www.scissorsandpaste.net/185.xml>
+<http://www.scissorsandpaste.net/sapcorpus/185.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5431,7 +5431,7 @@ sapcorpus:article_186
 	fabio:partOf sapcorpus:newspaper_gh_1821-02-05 ;
 	
 	
-<http://www.scissorsandpaste.net/186.xml>
+<http://www.scissorsandpaste.net/sapcorpus/186.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5447,7 +5447,7 @@ sapcorpus:article_187
 	fabio:partOf sapcorpus:newspaper_gh_1822-01-28 ;
 	prism:startingPage "1" ;
 	
-<http://www.scissorsandpaste.net/187.xml>
+<http://www.scissorsandpaste.net/sapcorpus/187.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5463,7 +5463,7 @@ sapcorpus:article_188
 	fabio:partOf sapcorpus:newspaper_sm_1822-10-19 ;
 	
 	
-<http://www.scissorsandpaste.net/188.xml>
+<http://www.scissorsandpaste.net/sapcorpus/188.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5480,7 +5480,7 @@ sapcorpus:article_189
 	fabio:partOf sapcorpus:newspaper_sm_1822-10-19 ;
 	
 	
-<http://www.scissorsandpaste.net/189.xml>
+<http://www.scissorsandpaste.net/sapcorpus/189.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5496,7 +5496,7 @@ sapcorpus:article_190
 	fabio:partOf sapcorpus:newspaper_sm_1823-06-14 ;
 	
 	
-<http://www.scissorsandpaste.net/190.xml>
+<http://www.scissorsandpaste.net/sapcorpus/190.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5512,7 +5512,7 @@ sapcorpus:article_191
 	fabio:partOf sapcorpus:newspaper_sm_1823-09-10 ;
 	
 	
-<http://www.scissorsandpaste.net/191.xml>
+<http://www.scissorsandpaste.net/sapcorpus/191.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5528,7 +5528,7 @@ sapcorpus:article_192
 	fabio:partOf sapcorpus:newspaper_sm_1823-09-03 ;
 	
 	
-<http://www.scissorsandpaste.net/192.xml>
+<http://www.scissorsandpaste.net/sapcorpus/192.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5544,7 +5544,7 @@ sapcorpus:article_193
 	fabio:partOf sapcorpus:newspaper_sm_1824-05-05 ;
 	
 	
-<http://www.scissorsandpaste.net/193.xml>
+<http://www.scissorsandpaste.net/sapcorpus/193.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5560,7 +5560,7 @@ sapcorpus:article_194
 	fabio:partOf sapcorpus:newspaper_sm_1824-01-21 ;
 	
 	
-<http://www.scissorsandpaste.net/194.xml>
+<http://www.scissorsandpaste.net/sapcorpus/194.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5576,7 +5576,7 @@ sapcorpus:article_195
 	fabio:partOf sapcorpus:newspaper_sm_1824-01-31 ;
 	
 	
-<http://www.scissorsandpaste.net/195.xml>
+<http://www.scissorsandpaste.net/sapcorpus/195.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5592,7 +5592,7 @@ sapcorpus:article_196
 	fabio:partOf sapcorpus:newspaper_sm_1824-03-27 ;
 	
 	
-<http://www.scissorsandpaste.net/196.xml>
+<http://www.scissorsandpaste.net/sapcorpus/196.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5608,7 +5608,7 @@ sapcorpus:article_197
 	fabio:partOf sapcorpus:newspaper_sm_1824-03-06 ;
 	
 	
-<http://www.scissorsandpaste.net/197.xml>
+<http://www.scissorsandpaste.net/sapcorpus/197.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5624,7 +5624,7 @@ sapcorpus:article_198
 	fabio:partOf sapcorpus:newspaper_sm_1824-04-03 ;
 	
 	
-<http://www.scissorsandpaste.net/198.xml>
+<http://www.scissorsandpaste.net/sapcorpus/198.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5640,7 +5640,7 @@ sapcorpus:article_199
 	fabio:partOf sapcorpus:newspaper_sm_1824-05-12 ;
 	
 	
-<http://www.scissorsandpaste.net/199.xml>
+<http://www.scissorsandpaste.net/sapcorpus/199.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5656,7 +5656,7 @@ sapcorpus:article_200
 	fabio:partOf sapcorpus:newspaper_sm_1824-06-09 ;
 	
 	
-<http://www.scissorsandpaste.net/200.xml>
+<http://www.scissorsandpaste.net/sapcorpus/200.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5672,7 +5672,7 @@ sapcorpus:article_201
 	fabio:partOf sapcorpus:newspaper_sm_1824-08-25 ;
 	
 	
-<http://www.scissorsandpaste.net/201.xml>
+<http://www.scissorsandpaste.net/sapcorpus/201.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5688,7 +5688,7 @@ sapcorpus:article_202
 	fabio:partOf sapcorpus:newspaper_sm_1824-02-11 ;
 	
 	
-<http://www.scissorsandpaste.net/202.xml>
+<http://www.scissorsandpaste.net/sapcorpus/202.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5704,7 +5704,7 @@ sapcorpus:article_203
 	fabio:partOf sapcorpus:newspaper_sm_1824-02-28 ;
 	
 	
-<http://www.scissorsandpaste.net/203.xml>
+<http://www.scissorsandpaste.net/sapcorpus/203.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5720,7 +5720,7 @@ sapcorpus:article_204
 	fabio:partOf sapcorpus:newspaper_sm_1825-10-19 ;
 	
 	
-<http://www.scissorsandpaste.net/204.xml>
+<http://www.scissorsandpaste.net/sapcorpus/204.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5736,7 +5736,7 @@ sapcorpus:article_205
 	fabio:partOf sapcorpus:newspaper_sm_1827-03-03 ;
 	
 	
-<http://www.scissorsandpaste.net/205.xml>
+<http://www.scissorsandpaste.net/sapcorpus/205.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5752,7 +5752,7 @@ sapcorpus:article_206
 	fabio:partOf sapcorpus:newspaper_sm_1828-04-02 ;
 	
 	
-<http://www.scissorsandpaste.net/206.xml>
+<http://www.scissorsandpaste.net/sapcorpus/206.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5768,7 +5768,7 @@ sapcorpus:article_207
 	fabio:partOf sapcorpus:newspaper_sm_1828-05-07 ;
 	
 	
-<http://www.scissorsandpaste.net/207.xml>
+<http://www.scissorsandpaste.net/sapcorpus/207.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5784,7 +5784,7 @@ sapcorpus:article_208
 	fabio:partOf sapcorpus:newspaper_sm_1828-06-25 ;
 	
 	
-<http://www.scissorsandpaste.net/208.xml>
+<http://www.scissorsandpaste.net/sapcorpus/208.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5800,7 +5800,7 @@ sapcorpus:article_209
 	fabio:partOf sapcorpus:newspaper_sm_1828-08-09 ;
 	
 	
-<http://www.scissorsandpaste.net/209.xml>
+<http://www.scissorsandpaste.net/sapcorpus/209.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5816,7 +5816,7 @@ sapcorpus:article_210
 	fabio:partOf sapcorpus:newspaper_sm_1828-12-24 ;
 	
 	
-<http://www.scissorsandpaste.net/210.xml>
+<http://www.scissorsandpaste.net/sapcorpus/210.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5832,7 +5832,7 @@ sapcorpus:article_211
 	fabio:partOf sapcorpus:newspaper_sm_1829-05-20 ;
 	
 	
-<http://www.scissorsandpaste.net/211.xml>
+<http://www.scissorsandpaste.net/sapcorpus/211.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5848,7 +5848,7 @@ sapcorpus:article_212
 	fabio:partOf sapcorpus:newspaper_sm_1829-06-10 ;
 	
 	
-<http://www.scissorsandpaste.net/212.xml>
+<http://www.scissorsandpaste.net/sapcorpus/212.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5864,7 +5864,7 @@ sapcorpus:article_213
 	fabio:partOf sapcorpus:newspaper_sm_1829-07-25 ;
 	
 	
-<http://www.scissorsandpaste.net/213.xml>
+<http://www.scissorsandpaste.net/sapcorpus/213.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5881,7 +5881,7 @@ sapcorpus:article_214
 	fabio:partOf sapcorpus:newspaper_sm_1829-08-19 ;
 	
 	
-<http://www.scissorsandpaste.net/214.xml>
+<http://www.scissorsandpaste.net/sapcorpus/214.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5897,7 +5897,7 @@ sapcorpus:article_215
 	fabio:partOf sapcorpus:newspaper_sm_1829-11-04 ;
 	
 	
-<http://www.scissorsandpaste.net/215.xml>
+<http://www.scissorsandpaste.net/sapcorpus/215.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5913,7 +5913,7 @@ sapcorpus:article_216
 	fabio:partOf sapcorpus:newspaper_sm_1830-04-24 ;
 	
 	
-<http://www.scissorsandpaste.net/216.xml>
+<http://www.scissorsandpaste.net/sapcorpus/216.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5929,7 +5929,7 @@ sapcorpus:article_217
 	fabio:partOf sapcorpus:newspaper_sm_1830-10-09 ;
 	
 	
-<http://www.scissorsandpaste.net/217.xml>
+<http://www.scissorsandpaste.net/sapcorpus/217.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5945,7 +5945,7 @@ sapcorpus:article_218
 	fabio:partOf sapcorpus:newspaper_sm_1830-11-10 ;
 	
 	
-<http://www.scissorsandpaste.net/218.xml>
+<http://www.scissorsandpaste.net/sapcorpus/218.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5962,7 +5962,7 @@ sapcorpus:article_219
 	fabio:partOf sapcorpus:newspaper_sm_1831-06-29 ;
 	
 	
-<http://www.scissorsandpaste.net/219.xml>
+<http://www.scissorsandpaste.net/sapcorpus/219.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5979,7 +5979,7 @@ sapcorpus:article_220
 	fabio:partOf sapcorpus:newspaper_sm_1831-06-04 ;
 	
 	
-<http://www.scissorsandpaste.net/220.xml>
+<http://www.scissorsandpaste.net/sapcorpus/220.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -5995,7 +5995,7 @@ sapcorpus:article_221
 	fabio:partOf sapcorpus:newspaper_sm_1831-07-27 ;
 	
 	
-<http://www.scissorsandpaste.net/221.xml>
+<http://www.scissorsandpaste.net/sapcorpus/221.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6011,7 +6011,7 @@ sapcorpus:article_222
 	fabio:partOf sapcorpus:newspaper_sm_1831-12-17 ;
 	
 	
-<http://www.scissorsandpaste.net/222.xml>
+<http://www.scissorsandpaste.net/sapcorpus/222.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6027,7 +6027,7 @@ sapcorpus:article_223
 	fabio:partOf sapcorpus:newspaper_sm_1831-02-05 ;
 	
 	
-<http://www.scissorsandpaste.net/223.xml>
+<http://www.scissorsandpaste.net/sapcorpus/223.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6043,7 +6043,7 @@ sapcorpus:article_224
 	fabio:partOf sapcorpus:newspaper_sm_1832-03-03 ;
 	
 	
-<http://www.scissorsandpaste.net/224.xml>
+<http://www.scissorsandpaste.net/sapcorpus/224.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6060,7 +6060,7 @@ sapcorpus:article_225
 	fabio:partOf sapcorpus:newspaper_sm_1832-04-07 ;
 	
 	
-<http://www.scissorsandpaste.net/225.xml>
+<http://www.scissorsandpaste.net/sapcorpus/225.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6076,7 +6076,7 @@ sapcorpus:article_226
 	fabio:partOf sapcorpus:newspaper_sm_1832-10-13 ;
 	
 	
-<http://www.scissorsandpaste.net/226.xml>
+<http://www.scissorsandpaste.net/sapcorpus/226.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6092,7 +6092,7 @@ sapcorpus:article_227
 	fabio:partOf sapcorpus:newspaper_sm_1833-05-29 ;
 	
 	
-<http://www.scissorsandpaste.net/227.xml>
+<http://www.scissorsandpaste.net/sapcorpus/227.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6109,7 +6109,7 @@ sapcorpus:article_228
 	fabio:partOf sapcorpus:newspaper_sm_1833-06-29 ;
 	
 	
-<http://www.scissorsandpaste.net/228.xml>
+<http://www.scissorsandpaste.net/sapcorpus/228.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6125,7 +6125,7 @@ sapcorpus:article_229
 	fabio:partOf sapcorpus:newspaper_sm_1833-07-10 ;
 	
 	
-<http://www.scissorsandpaste.net/229.xml>
+<http://www.scissorsandpaste.net/sapcorpus/229.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6141,7 +6141,7 @@ sapcorpus:article_230
 	fabio:partOf sapcorpus:newspaper_sm_1833-08-03 ;
 	
 	
-<http://www.scissorsandpaste.net/230.xml>
+<http://www.scissorsandpaste.net/sapcorpus/230.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6157,7 +6157,7 @@ sapcorpus:article_231
 	fabio:partOf sapcorpus:newspaper_sm_1833-08-07 ;
 	
 	
-<http://www.scissorsandpaste.net/231.xml>
+<http://www.scissorsandpaste.net/sapcorpus/231.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6173,7 +6173,7 @@ sapcorpus:article_232
 	fabio:partOf sapcorpus:newspaper_sm_1833-09-25 ;
 	
 	
-<http://www.scissorsandpaste.net/232.xml>
+<http://www.scissorsandpaste.net/sapcorpus/232.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6190,7 +6190,7 @@ sapcorpus:article_233
 	fabio:partOf sapcorpus:newspaper_sm_1833-10-05 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/233.xml>
+<http://www.scissorsandpaste.net/sapcorpus/233.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6206,7 +6206,7 @@ sapcorpus:article_234
 	fabio:partOf sapcorpus:newspaper_sm_1833-12-07 ;
 	
 	
-<http://www.scissorsandpaste.net/234.xml>
+<http://www.scissorsandpaste.net/sapcorpus/234.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6222,7 +6222,7 @@ sapcorpus:article_235
 	fabio:partOf sapcorpus:newspaper_sm_1833-02-02 ;
 	
 	
-<http://www.scissorsandpaste.net/235.xml>
+<http://www.scissorsandpaste.net/sapcorpus/235.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6238,7 +6238,7 @@ sapcorpus:article_236
 	fabio:partOf sapcorpus:newspaper_sm_1833-02-02 ;
 	
 	
-<http://www.scissorsandpaste.net/236.xml>
+<http://www.scissorsandpaste.net/sapcorpus/236.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6254,7 +6254,7 @@ sapcorpus:article_237
 	fabio:partOf sapcorpus:newspaper_sm_1834-04-16 ;
 	
 	
-<http://www.scissorsandpaste.net/237.xml>
+<http://www.scissorsandpaste.net/sapcorpus/237.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6270,7 +6270,7 @@ sapcorpus:article_238
 	fabio:partOf sapcorpus:newspaper_sm_1834-06-18 ;
 	
 	
-<http://www.scissorsandpaste.net/238.xml>
+<http://www.scissorsandpaste.net/sapcorpus/238.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6287,7 +6287,7 @@ sapcorpus:article_239
 	fabio:partOf sapcorpus:newspaper_sm_1834-06-28 ;
 	
 	
-<http://www.scissorsandpaste.net/239.xml>
+<http://www.scissorsandpaste.net/sapcorpus/239.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6303,7 +6303,7 @@ sapcorpus:article_240
 	fabio:partOf sapcorpus:newspaper_sm_1834-07-02 ;
 	
 	
-<http://www.scissorsandpaste.net/240.xml>
+<http://www.scissorsandpaste.net/sapcorpus/240.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6319,7 +6319,7 @@ sapcorpus:article_241
 	fabio:partOf sapcorpus:newspaper_sm_1834-07-23 ;
 	
 	
-<http://www.scissorsandpaste.net/241.xml>
+<http://www.scissorsandpaste.net/sapcorpus/241.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6335,7 +6335,7 @@ sapcorpus:article_242
 	fabio:partOf sapcorpus:newspaper_sm_1834-07-05 ;
 	
 	
-<http://www.scissorsandpaste.net/242.xml>
+<http://www.scissorsandpaste.net/sapcorpus/242.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6351,7 +6351,7 @@ sapcorpus:article_243
 	fabio:partOf sapcorpus:newspaper_sm_1834-08-02 ;
 	
 	
-<http://www.scissorsandpaste.net/243.xml>
+<http://www.scissorsandpaste.net/sapcorpus/243.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6367,7 +6367,7 @@ sapcorpus:article_244
 	fabio:partOf sapcorpus:newspaper_sm_1834-09-24 ;
 	
 	
-<http://www.scissorsandpaste.net/244.xml>
+<http://www.scissorsandpaste.net/sapcorpus/244.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6383,7 +6383,7 @@ sapcorpus:article_245
 	fabio:partOf sapcorpus:newspaper_sm_1834-11-11 ;
 	
 	
-<http://www.scissorsandpaste.net/245.xml>
+<http://www.scissorsandpaste.net/sapcorpus/245.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6399,7 +6399,7 @@ sapcorpus:article_246
 	fabio:partOf sapcorpus:newspaper_sm_1834-11-08 ;
 	
 	
-<http://www.scissorsandpaste.net/246.xml>
+<http://www.scissorsandpaste.net/sapcorpus/246.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6415,7 +6415,7 @@ sapcorpus:article_247
 	fabio:partOf sapcorpus:newspaper_sm_1835-05-13 ;
 	
 	
-<http://www.scissorsandpaste.net/247.xml>
+<http://www.scissorsandpaste.net/sapcorpus/247.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6431,7 +6431,7 @@ sapcorpus:article_248
 	fabio:partOf sapcorpus:newspaper_sm_1835-07-08 ;
 	
 	
-<http://www.scissorsandpaste.net/248.xml>
+<http://www.scissorsandpaste.net/sapcorpus/248.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6447,7 +6447,7 @@ sapcorpus:article_249
 	fabio:partOf sapcorpus:newspaper_sm_1835-08-05 ;
 	
 	
-<http://www.scissorsandpaste.net/249.xml>
+<http://www.scissorsandpaste.net/sapcorpus/249.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6463,7 +6463,7 @@ sapcorpus:article_250
 	fabio:partOf sapcorpus:newspaper_sm_1835-08-05 ;
 	
 	
-<http://www.scissorsandpaste.net/250.xml>
+<http://www.scissorsandpaste.net/sapcorpus/250.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6479,7 +6479,7 @@ sapcorpus:article_251
 	fabio:partOf sapcorpus:newspaper_sm_1835-09-16 ;
 	
 	
-<http://www.scissorsandpaste.net/251.xml>
+<http://www.scissorsandpaste.net/sapcorpus/251.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6495,7 +6495,7 @@ sapcorpus:article_252
 	fabio:partOf sapcorpus:newspaper_sm_1835-11-21 ;
 	
 	
-<http://www.scissorsandpaste.net/252.xml>
+<http://www.scissorsandpaste.net/sapcorpus/252.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6511,7 +6511,7 @@ sapcorpus:article_253
 	fabio:partOf sapcorpus:newspaper_sm_1836-03-12 ;
 	
 	
-<http://www.scissorsandpaste.net/253.xml>
+<http://www.scissorsandpaste.net/sapcorpus/253.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6527,7 +6527,7 @@ sapcorpus:article_254
 	fabio:partOf sapcorpus:newspaper_sm_1836-03-12 ;
 	prism:startingPage "1" ;
 	
-<http://www.scissorsandpaste.net/254.xml>
+<http://www.scissorsandpaste.net/sapcorpus/254.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6543,7 +6543,7 @@ sapcorpus:article_255
 	fabio:partOf sapcorpus:newspaper_sm_1836-03-26 ;
 	
 	
-<http://www.scissorsandpaste.net/255.xml>
+<http://www.scissorsandpaste.net/sapcorpus/255.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6559,7 +6559,7 @@ sapcorpus:article_256
 	fabio:partOf sapcorpus:newspaper_sm_1836-04-16 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/256.xml>
+<http://www.scissorsandpaste.net/sapcorpus/256.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6575,7 +6575,7 @@ sapcorpus:article_257
 	fabio:partOf sapcorpus:newspaper_sm_1836-04-09 ;
 	
 	
-<http://www.scissorsandpaste.net/257.xml>
+<http://www.scissorsandpaste.net/sapcorpus/257.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6591,7 +6591,7 @@ sapcorpus:article_258
 	fabio:partOf sapcorpus:newspaper_sm_1836-05-18 ;
 	
 	
-<http://www.scissorsandpaste.net/258.xml>
+<http://www.scissorsandpaste.net/sapcorpus/258.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6607,7 +6607,7 @@ sapcorpus:article_259
 	fabio:partOf sapcorpus:newspaper_sm_1836-07-16 ;
 	
 	
-<http://www.scissorsandpaste.net/259.xml>
+<http://www.scissorsandpaste.net/sapcorpus/259.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6623,7 +6623,7 @@ sapcorpus:article_260
 	fabio:partOf sapcorpus:newspaper_sm_1836-07-16 ;
 	
 	
-<http://www.scissorsandpaste.net/260.xml>
+<http://www.scissorsandpaste.net/sapcorpus/260.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6639,7 +6639,7 @@ sapcorpus:article_261
 	fabio:partOf sapcorpus:newspaper_sm_1836-07-06 ;
 	
 	
-<http://www.scissorsandpaste.net/261.xml>
+<http://www.scissorsandpaste.net/sapcorpus/261.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6655,7 +6655,7 @@ sapcorpus:article_262
 	fabio:partOf sapcorpus:newspaper_sm_1836-08-10 ;
 	
 	
-<http://www.scissorsandpaste.net/262.xml>
+<http://www.scissorsandpaste.net/sapcorpus/262.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6671,7 +6671,7 @@ sapcorpus:article_263
 	fabio:partOf sapcorpus:newspaper_sm_1836-08-10 ;
 	
 	
-<http://www.scissorsandpaste.net/263.xml>
+<http://www.scissorsandpaste.net/sapcorpus/263.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6687,7 +6687,7 @@ sapcorpus:article_264
 	fabio:partOf sapcorpus:newspaper_sm_1836-10-26 ;
 	
 	
-<http://www.scissorsandpaste.net/264.xml>
+<http://www.scissorsandpaste.net/sapcorpus/264.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6703,7 +6703,7 @@ sapcorpus:article_265
 	fabio:partOf sapcorpus:newspaper_sm_1836-12-07 ;
 	
 	
-<http://www.scissorsandpaste.net/265.xml>
+<http://www.scissorsandpaste.net/sapcorpus/265.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6719,7 +6719,7 @@ sapcorpus:article_266
 	fabio:partOf sapcorpus:newspaper_sm_1837-05-10 ;
 	
 	
-<http://www.scissorsandpaste.net/266.xml>
+<http://www.scissorsandpaste.net/sapcorpus/266.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6735,7 +6735,7 @@ sapcorpus:article_267
 	fabio:partOf sapcorpus:newspaper_sm_1837-06-07 ;
 	
 	
-<http://www.scissorsandpaste.net/267.xml>
+<http://www.scissorsandpaste.net/sapcorpus/267.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6751,7 +6751,7 @@ sapcorpus:article_268
 	fabio:partOf sapcorpus:newspaper_sm_1837-07-01 ;
 	
 	
-<http://www.scissorsandpaste.net/268.xml>
+<http://www.scissorsandpaste.net/sapcorpus/268.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6767,7 +6767,7 @@ sapcorpus:article_269
 	fabio:partOf sapcorpus:newspaper_sm_1837-07-09 ;
 	
 	
-<http://www.scissorsandpaste.net/269.xml>
+<http://www.scissorsandpaste.net/sapcorpus/269.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6783,7 +6783,7 @@ sapcorpus:article_270
 	fabio:partOf sapcorpus:newspaper_sm_1837-11-22 ;
 	
 	
-<http://www.scissorsandpaste.net/270.xml>
+<http://www.scissorsandpaste.net/sapcorpus/270.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6799,7 +6799,7 @@ sapcorpus:article_271
 	fabio:partOf sapcorpus:newspaper_sm_1838-06-09 ;
 	
 	
-<http://www.scissorsandpaste.net/271.xml>
+<http://www.scissorsandpaste.net/sapcorpus/271.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6815,7 +6815,7 @@ sapcorpus:article_272
 	fabio:partOf sapcorpus:newspaper_sm_1838-09-22 ;
 	
 	
-<http://www.scissorsandpaste.net/272.xml>
+<http://www.scissorsandpaste.net/sapcorpus/272.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6831,7 +6831,7 @@ sapcorpus:article_273
 	fabio:partOf sapcorpus:newspaper_sm_1838-09-22 ;
 	
 	
-<http://www.scissorsandpaste.net/273.xml>
+<http://www.scissorsandpaste.net/sapcorpus/273.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6847,7 +6847,7 @@ sapcorpus:article_274
 	fabio:partOf sapcorpus:newspaper_sm_1838-11-24 ;
 	
 	
-<http://www.scissorsandpaste.net/274.xml>
+<http://www.scissorsandpaste.net/sapcorpus/274.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6863,7 +6863,7 @@ sapcorpus:article_275
 	fabio:partOf sapcorpus:newspaper_sm_1839-04-10 ;
 	
 	
-<http://www.scissorsandpaste.net/275.xml>
+<http://www.scissorsandpaste.net/sapcorpus/275.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6879,7 +6879,7 @@ sapcorpus:article_276
 	fabio:partOf sapcorpus:newspaper_sm_1839-04-03 ;
 	
 	
-<http://www.scissorsandpaste.net/276.xml>
+<http://www.scissorsandpaste.net/sapcorpus/276.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6895,7 +6895,7 @@ sapcorpus:article_277
 	fabio:partOf sapcorpus:newspaper_sm_1839-05-11 ;
 	
 	
-<http://www.scissorsandpaste.net/277.xml>
+<http://www.scissorsandpaste.net/sapcorpus/277.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6911,7 +6911,7 @@ sapcorpus:article_278
 	fabio:partOf sapcorpus:newspaper_sm_1839-06-05 ;
 	
 	
-<http://www.scissorsandpaste.net/278.xml>
+<http://www.scissorsandpaste.net/sapcorpus/278.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6927,7 +6927,7 @@ sapcorpus:article_279
 	fabio:partOf sapcorpus:newspaper_sm_1839-07-10 ;
 	
 	
-<http://www.scissorsandpaste.net/279.xml>
+<http://www.scissorsandpaste.net/sapcorpus/279.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6943,7 +6943,7 @@ sapcorpus:article_280
 	fabio:partOf sapcorpus:newspaper_sm_1839-07-24 ;
 	
 	
-<http://www.scissorsandpaste.net/280.xml>
+<http://www.scissorsandpaste.net/sapcorpus/280.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6960,7 +6960,7 @@ sapcorpus:article_281
 	fabio:partOf sapcorpus:newspaper_sm_1839-07-25 ;
 	
 	
-<http://www.scissorsandpaste.net/281.xml>
+<http://www.scissorsandpaste.net/sapcorpus/281.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6976,7 +6976,7 @@ sapcorpus:article_282
 	fabio:partOf sapcorpus:newspaper_sm_1839-07-27 ;
 	
 	
-<http://www.scissorsandpaste.net/282.xml>
+<http://www.scissorsandpaste.net/sapcorpus/282.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -6992,7 +6992,7 @@ sapcorpus:article_283
 	fabio:partOf sapcorpus:newspaper_sm_1839-07-27 ;
 	
 	
-<http://www.scissorsandpaste.net/283.xml>
+<http://www.scissorsandpaste.net/sapcorpus/283.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7008,7 +7008,7 @@ sapcorpus:article_284
 	fabio:partOf sapcorpus:newspaper_sm_1839-07-06 ;
 	
 	
-<http://www.scissorsandpaste.net/284.xml>
+<http://www.scissorsandpaste.net/sapcorpus/284.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7024,7 +7024,7 @@ sapcorpus:article_285
 	fabio:partOf sapcorpus:newspaper_sm_1839-08-28 ;
 	
 	
-<http://www.scissorsandpaste.net/285.xml>
+<http://www.scissorsandpaste.net/sapcorpus/285.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7040,7 +7040,7 @@ sapcorpus:article_286
 	fabio:partOf sapcorpus:newspaper_sm_1839-09-11 ;
 	
 	
-<http://www.scissorsandpaste.net/286.xml>
+<http://www.scissorsandpaste.net/sapcorpus/286.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7056,7 +7056,7 @@ sapcorpus:article_287
 	fabio:partOf sapcorpus:newspaper_sm_1839-09-28 ;
 	
 	
-<http://www.scissorsandpaste.net/287.xml>
+<http://www.scissorsandpaste.net/sapcorpus/287.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7073,7 +7073,7 @@ sapcorpus:article_288
 	fabio:partOf sapcorpus:newspaper_sm_1839-11-23 ;
 	
 	
-<http://www.scissorsandpaste.net/288.xml>
+<http://www.scissorsandpaste.net/sapcorpus/288.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7089,7 +7089,7 @@ sapcorpus:article_289
 	fabio:partOf sapcorpus:newspaper_sm_1839-11-24 ;
 	
 	
-<http://www.scissorsandpaste.net/289.xml>
+<http://www.scissorsandpaste.net/sapcorpus/289.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7105,7 +7105,7 @@ sapcorpus:article_290
 	fabio:partOf sapcorpus:newspaper_sm_1840-04-18 ;
 	
 	
-<http://www.scissorsandpaste.net/290.xml>
+<http://www.scissorsandpaste.net/sapcorpus/290.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7121,7 +7121,7 @@ sapcorpus:article_291
 	fabio:partOf sapcorpus:newspaper_sm_1840-05-13 ;
 	
 	
-<http://www.scissorsandpaste.net/291.xml>
+<http://www.scissorsandpaste.net/sapcorpus/291.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7137,7 +7137,7 @@ sapcorpus:article_292
 	fabio:partOf sapcorpus:newspaper_sm_1840-07-29 ;
 	
 	
-<http://www.scissorsandpaste.net/292.xml>
+<http://www.scissorsandpaste.net/sapcorpus/292.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7153,7 +7153,7 @@ sapcorpus:article_293
 	fabio:partOf sapcorpus:newspaper_sm_1840-08-12 ;
 	
 	
-<http://www.scissorsandpaste.net/293.xml>
+<http://www.scissorsandpaste.net/sapcorpus/293.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7169,7 +7169,7 @@ sapcorpus:article_294
 	fabio:partOf sapcorpus:newspaper_sm_1840-08-15 ;
 	
 	
-<http://www.scissorsandpaste.net/294.xml>
+<http://www.scissorsandpaste.net/sapcorpus/294.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7185,7 +7185,7 @@ sapcorpus:article_295
 	fabio:partOf sapcorpus:newspaper_sm_1840-10-28 ;
 	
 	
-<http://www.scissorsandpaste.net/295.xml>
+<http://www.scissorsandpaste.net/sapcorpus/295.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7201,7 +7201,7 @@ sapcorpus:article_296
 	fabio:partOf sapcorpus:newspaper_sm_1840-12-05 ;
 	
 	
-<http://www.scissorsandpaste.net/296.xml>
+<http://www.scissorsandpaste.net/sapcorpus/296.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7217,7 +7217,7 @@ sapcorpus:article_297
 	fabio:partOf sapcorpus:newspaper_sm_1841-03-20 ;
 	
 	
-<http://www.scissorsandpaste.net/297.xml>
+<http://www.scissorsandpaste.net/sapcorpus/297.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7233,7 +7233,7 @@ sapcorpus:article_298
 	fabio:partOf sapcorpus:newspaper_sm_1841-03-31 ;
 	
 	
-<http://www.scissorsandpaste.net/298.xml>
+<http://www.scissorsandpaste.net/sapcorpus/298.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7249,7 +7249,7 @@ sapcorpus:article_299
 	fabio:partOf sapcorpus:newspaper_sm_1841-04-14 ;
 	
 	
-<http://www.scissorsandpaste.net/299.xml>
+<http://www.scissorsandpaste.net/sapcorpus/299.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7266,7 +7266,7 @@ sapcorpus:article_300
 	fabio:partOf sapcorpus:newspaper_sm_1841-04-07 ;
 	
 	
-<http://www.scissorsandpaste.net/300.xml>
+<http://www.scissorsandpaste.net/sapcorpus/300.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7282,7 +7282,7 @@ sapcorpus:article_301
 	fabio:partOf sapcorpus:newspaper_sm_1841-09-22 ;
 	
 	
-<http://www.scissorsandpaste.net/301.xml>
+<http://www.scissorsandpaste.net/sapcorpus/301.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7298,7 +7298,7 @@ sapcorpus:article_302
 	fabio:partOf sapcorpus:newspaper_sm_1841-10-09 ;
 	
 	
-<http://www.scissorsandpaste.net/302.xml>
+<http://www.scissorsandpaste.net/sapcorpus/302.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7314,7 +7314,7 @@ sapcorpus:article_304
 	fabio:partOf sapcorpus:newspaper_sm_1841-11-17 ;
 	
 	
-<http://www.scissorsandpaste.net/304.xml>
+<http://www.scissorsandpaste.net/sapcorpus/304.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7330,7 +7330,7 @@ sapcorpus:article_305
 	fabio:partOf sapcorpus:newspaper_sm_1841-11-24 ;
 	
 	
-<http://www.scissorsandpaste.net/305.xml>
+<http://www.scissorsandpaste.net/sapcorpus/305.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7346,7 +7346,7 @@ sapcorpus:article_306
 	fabio:partOf sapcorpus:newspaper_sm_1841-12-22 ;
 	
 	
-<http://www.scissorsandpaste.net/306.xml>
+<http://www.scissorsandpaste.net/sapcorpus/306.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7362,7 +7362,7 @@ sapcorpus:article_307
 	fabio:partOf sapcorpus:newspaper_sm_1841-12-25 ;
 	
 	
-<http://www.scissorsandpaste.net/307.xml>
+<http://www.scissorsandpaste.net/sapcorpus/307.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7378,7 +7378,7 @@ sapcorpus:article_308
 	fabio:partOf sapcorpus:newspaper_sm_1841-12-29 ;
 	
 	
-<http://www.scissorsandpaste.net/308.xml>
+<http://www.scissorsandpaste.net/sapcorpus/308.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7395,7 +7395,7 @@ sapcorpus:article_309
 	fabio:partOf sapcorpus:newspaper_sm_1841-12-29 ;
 	
 	
-<http://www.scissorsandpaste.net/309.xml>
+<http://www.scissorsandpaste.net/sapcorpus/309.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7411,7 +7411,7 @@ sapcorpus:article_310
 	fabio:partOf sapcorpus:newspaper_sm_1841-02-17 ;
 	
 	
-<http://www.scissorsandpaste.net/310.xml>
+<http://www.scissorsandpaste.net/sapcorpus/310.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7427,7 +7427,7 @@ sapcorpus:article_311
 	fabio:partOf sapcorpus:newspaper_sm_1842-03-19 ;
 	
 	
-<http://www.scissorsandpaste.net/311.xml>
+<http://www.scissorsandpaste.net/sapcorpus/311.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7443,7 +7443,7 @@ sapcorpus:article_312
 	fabio:partOf sapcorpus:newspaper_sm_1842-05-18 ;
 	
 	
-<http://www.scissorsandpaste.net/312.xml>
+<http://www.scissorsandpaste.net/sapcorpus/312.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7459,7 +7459,7 @@ sapcorpus:article_313
 	fabio:partOf sapcorpus:newspaper_sm_1842-02-05 ;
 	
 	
-<http://www.scissorsandpaste.net/313.xml>
+<http://www.scissorsandpaste.net/sapcorpus/313.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7475,7 +7475,7 @@ sapcorpus:article_314
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-01 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/314.xml>
+<http://www.scissorsandpaste.net/sapcorpus/314.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7495,7 +7495,7 @@ sapcorpus:article_315
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-01 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/315.xml>
+<http://www.scissorsandpaste.net/sapcorpus/315.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7514,7 +7514,7 @@ sapcorpus:article_316
 	fabio:partOf sapcorpus:newspaper_ga_1793-01-07 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/316.xml>
+<http://www.scissorsandpaste.net/sapcorpus/316.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7532,7 +7532,7 @@ sapcorpus:article_317
 	fabio:partOf sapcorpus:newspaper_ga_1792-04-27 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/317.xml>
+<http://www.scissorsandpaste.net/sapcorpus/317.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7552,7 +7552,7 @@ sapcorpus:article_318
 	fabio:partOf sapcorpus:newspaper_ga_1791-06-27 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/318.xml>
+<http://www.scissorsandpaste.net/sapcorpus/318.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7570,7 +7570,7 @@ sapcorpus:article_319
 	fabio:partOf sapcorpus:newspaper_ga_1791-05-02 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/319.xml>
+<http://www.scissorsandpaste.net/sapcorpus/319.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7588,7 +7588,7 @@ sapcorpus:article_320
 	fabio:partOf sapcorpus:newspaper_ga_1791-03-04 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/320.xml>
+<http://www.scissorsandpaste.net/sapcorpus/320.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7606,7 +7606,7 @@ sapcorpus:article_321
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-05 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/321.xml>
+<http://www.scissorsandpaste.net/sapcorpus/321.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7624,7 +7624,7 @@ sapcorpus:article_322
 	fabio:partOf sapcorpus:newspaper_ga_1790-11-08 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/322.xml>
+<http://www.scissorsandpaste.net/sapcorpus/322.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7642,7 +7642,7 @@ sapcorpus:article_323
 	fabio:partOf sapcorpus:newspaper_ga_1791-11-08 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/323.xml>
+<http://www.scissorsandpaste.net/sapcorpus/323.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7660,7 +7660,7 @@ sapcorpus:article_324
 	fabio:partOf sapcorpus:newspaper_ga_1791-01-21 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/324.xml>
+<http://www.scissorsandpaste.net/sapcorpus/324.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7678,7 +7678,7 @@ sapcorpus:article_326
 	fabio:partOf sapcorpus:newspaper_ga_1790-09-20 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/326.xml>
+<http://www.scissorsandpaste.net/sapcorpus/326.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7696,7 +7696,7 @@ sapcorpus:article_327
 	fabio:partOf sapcorpus:newspaper_ga_1791-02-07 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/327.xml>
+<http://www.scissorsandpaste.net/sapcorpus/327.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7717,7 +7717,7 @@ sapcorpus:article_328
 	fabio:partOf sapcorpus:newspaper_ga_1791-01-21 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/328.xml>
+<http://www.scissorsandpaste.net/sapcorpus/328.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7735,7 +7735,7 @@ sapcorpus:article_329
 	fabio:partOf sapcorpus:newspaper_ga_1791-01-31 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/329.xml>
+<http://www.scissorsandpaste.net/sapcorpus/329.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7754,7 +7754,7 @@ sapcorpus:article_330
 	fabio:partOf sapcorpus:newspaper_ga_1791-01-07 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/330.xml>
+<http://www.scissorsandpaste.net/sapcorpus/330.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7774,7 +7774,7 @@ sapcorpus:article_331
 	fabio:partOf sapcorpus:newspaper_ga_1791-07-18 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/331.xml>
+<http://www.scissorsandpaste.net/sapcorpus/331.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7793,7 +7793,7 @@ sapcorpus:article_332
 	fabio:partOf sapcorpus:newspaper_ga_1792-06-25 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/332.xml>
+<http://www.scissorsandpaste.net/sapcorpus/332.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7811,7 +7811,7 @@ sapcorpus:article_333
 	fabio:partOf sapcorpus:newspaper_ga_1791-06-24 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/333.xml>
+<http://www.scissorsandpaste.net/sapcorpus/333.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7829,7 +7829,7 @@ sapcorpus:article_334
 	fabio:partOf sapcorpus:newspaper_ga_1791-01-10 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/334.xml>
+<http://www.scissorsandpaste.net/sapcorpus/334.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7847,7 +7847,7 @@ sapcorpus:article_335
 	fabio:partOf sapcorpus:newspaper_ga_1791-05-09 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/335.xml>
+<http://www.scissorsandpaste.net/sapcorpus/335.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7866,7 +7866,7 @@ sapcorpus:article_336
 	fabio:partOf sapcorpus:newspaper_ga_1791-05-13 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/336.xml>
+<http://www.scissorsandpaste.net/sapcorpus/336.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7884,7 +7884,7 @@ sapcorpus:article_337
 	fabio:partOf sapcorpus:newspaper_ga_1792-04-20 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/337.xml>
+<http://www.scissorsandpaste.net/sapcorpus/337.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7902,7 +7902,7 @@ sapcorpus:article_338
 	fabio:partOf sapcorpus:newspaper_ga_1792-04-23 ;
 	prism:startingPage "7" ;
 	
-<http://www.scissorsandpaste.net/338.xml>
+<http://www.scissorsandpaste.net/sapcorpus/338.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7924,7 +7924,7 @@ sapcorpus:article_339
 	fabio:partOf sapcorpus:newspaper_ga_1792-04-16 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/339.xml>
+<http://www.scissorsandpaste.net/sapcorpus/339.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7942,7 +7942,7 @@ sapcorpus:article_340
 	fabio:partOf sapcorpus:newspaper_ga_1790-06-21 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/340.xml>
+<http://www.scissorsandpaste.net/sapcorpus/340.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7960,7 +7960,7 @@ sapcorpus:article_341
 	fabio:partOf sapcorpus:newspaper_ga_1790-02-22 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/341.xml>
+<http://www.scissorsandpaste.net/sapcorpus/341.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7979,7 +7979,7 @@ sapcorpus:article_97
 	fabio:partOf sapcorpus:newspaper_ga_1794-09-12 ;
 	prism:startingPage "1" ;
 	
-<http://www.scissorsandpaste.net/97.xml>
+<http://www.scissorsandpaste.net/sapcorpus/97.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -7998,7 +7998,7 @@ sapcorpus:article_342
 	fabio:partOf sapcorpus:newspaper_ga_1790-07-12 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/342.xml>
+<http://www.scissorsandpaste.net/sapcorpus/342.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8016,7 +8016,7 @@ sapcorpus:article_343
 	fabio:partOf sapcorpus:newspaper_ga_1790-06-18 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/343.xml>
+<http://www.scissorsandpaste.net/sapcorpus/343.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8036,7 +8036,7 @@ sapcorpus:article_344
 	fabio:partOf sapcorpus:newspaper_ga_1790-05-17 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/344.xml>
+<http://www.scissorsandpaste.net/sapcorpus/344.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8055,7 +8055,7 @@ sapcorpus:article_345
 	fabio:partOf sapcorpus:newspaper_ga_1790-05-24 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/345.xml>
+<http://www.scissorsandpaste.net/sapcorpus/345.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8078,7 +8078,7 @@ sapcorpus:article_346
 	fabio:partOf sapcorpus:newspaper_ga_1790-10-04 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/346.xml>
+<http://www.scissorsandpaste.net/sapcorpus/346.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8097,7 +8097,7 @@ sapcorpus:article_347
 	fabio:partOf sapcorpus:newspaper_ga_1791-02-21 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/347.xml>
+<http://www.scissorsandpaste.net/sapcorpus/347.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8115,7 +8115,7 @@ sapcorpus:article_348
 	fabio:partOf sapcorpus:newspaper_ga_1791-02-21 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/348.xml>
+<http://www.scissorsandpaste.net/sapcorpus/348.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8145,7 +8145,7 @@ sapcorpus:image_349
 	fabio:isRepresentationOf sap:article_349 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/349.xml>
+<http://www.scissorsandpaste.net/sapcorpus/349.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:349		
 	sap:transcribedBy sap: ;
@@ -8168,7 +8168,7 @@ sapcorpus:article_351
 	fabio:partOf sapcorpus:newspaper_ga_1792-08-17 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/351.xml>
+<http://www.scissorsandpaste.net/sapcorpus/351.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8187,7 +8187,7 @@ sapcorpus:article_352
 	fabio:partOf sapcorpus:newspaper_ga_1792-08-20 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/352.xml>
+<http://www.scissorsandpaste.net/sapcorpus/352.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8206,7 +8206,7 @@ sapcorpus:article_353
 	fabio:partOf sapcorpus:newspaper_ga_1792-12-14 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/353.xml>
+<http://www.scissorsandpaste.net/sapcorpus/353.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8224,7 +8224,7 @@ sapcorpus:article_354
 	fabio:partOf sapcorpus:newspaper_ga_1792-10-08 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/354.xml>
+<http://www.scissorsandpaste.net/sapcorpus/354.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8242,7 +8242,7 @@ sapcorpus:article_356
 	fabio:partOf sapcorpus:newspaper_ga_1793-08-30 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/356.xml>
+<http://www.scissorsandpaste.net/sapcorpus/356.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8260,7 +8260,7 @@ sapcorpus:article_357
 	fabio:partOf sapcorpus:newspaper_cm_1817-01-06 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/357.xml>
+<http://www.scissorsandpaste.net/sapcorpus/357.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8278,7 +8278,7 @@ sapcorpus:article_358
 	fabio:partOf sapcorpus:newspaper_aj_1817-01-08 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/358.xml>
+<http://www.scissorsandpaste.net/sapcorpus/358.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8296,7 +8296,7 @@ sapcorpus:article_359
 	fabio:partOf sapcorpus:newspaper_sg_1815-11-08 ;
 	prism:startingPage "1" ;
 	
-<http://www.scissorsandpaste.net/359.xml>
+<http://www.scissorsandpaste.net/sapcorpus/359.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8314,7 +8314,7 @@ sapcorpus:article_360
 	fabio:partOf sapcorpus:newspaper_mc_1817-01-03 ;
 	prism:startingPage "4" ;
 	
-<http://www.scissorsandpaste.net/360.xml>
+<http://www.scissorsandpaste.net/sapcorpus/360.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8332,7 +8332,7 @@ sapcorpus:article_361
 	fabio:partOf sapcorpus:newspaper_lt_1817-01-02 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/361.xml>
+<http://www.scissorsandpaste.net/sapcorpus/361.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8350,7 +8350,7 @@ sapcorpus:article_362
 	fabio:partOf sapcorpus:newspaper_ls_1817-01-01 ;
 	prism:startingPage "1" ;
 	
-<http://www.scissorsandpaste.net/362.xml>
+<http://www.scissorsandpaste.net/sapcorpus/362.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8368,7 +8368,7 @@ sapcorpus:article_363
 	fabio:partOf sapcorpus:newspaper_lc_1817-01-02 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/363.xml>
+<http://www.scissorsandpaste.net/sapcorpus/363.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8386,7 +8386,7 @@ sapcorpus:article_364
 	fabio:partOf sapcorpus:newspaper_lj_1817-01-02 ;
 	prism:startingPage "2" ;
 	
-<http://www.scissorsandpaste.net/364.xml>
+<http://www.scissorsandpaste.net/sapcorpus/364.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8417,7 +8417,7 @@ sapcorpus:image_365
 	fabio:isRepresentationOf sap:article_365 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/365.xml>
+<http://www.scissorsandpaste.net/sapcorpus/365.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:365		
 	sap:transcribedBy sap: ;
@@ -8448,7 +8448,7 @@ sapcorpus:image_366
 	fabio:isRepresentationOf sap:article_366 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/366.xml>
+<http://www.scissorsandpaste.net/sapcorpus/366.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:366		
 	sap:transcribedBy sap: ;
@@ -8478,7 +8478,7 @@ sapcorpus:image_367
 	fabio:isRepresentationOf sap:article_367 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/367.xml>
+<http://www.scissorsandpaste.net/sapcorpus/367.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:367		
 	sap:transcribedBy sap: ;
@@ -8510,7 +8510,7 @@ sapcorpus:image_368
 	fabio:isRepresentationOf sap:article_368 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/368.xml>
+<http://www.scissorsandpaste.net/sapcorpus/368.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:368		
 	sap:transcribedBy sap: ;
@@ -8541,7 +8541,7 @@ sapcorpus:image_369
 	fabio:isRepresentationOf sap:article_369 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/369.xml>
+<http://www.scissorsandpaste.net/sapcorpus/369.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:369		
 	sap:transcribedBy sap: ;
@@ -8576,7 +8576,7 @@ sapcorpus:image_370
 	fabio:isRepresentationOf sap:article_370 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/370.xml>
+<http://www.scissorsandpaste.net/sapcorpus/370.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:370		
 	sap:transcribedBy sap: ;
@@ -8609,7 +8609,7 @@ sapcorpus:image_371
 	fabio:isRepresentationOf sap:article_371 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/371.xml>
+<http://www.scissorsandpaste.net/sapcorpus/371.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:371		
 	sap:transcribedBy sap: ;
@@ -8641,7 +8641,7 @@ sapcorpus:image_372
 	fabio:isRepresentationOf sap:article_372 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/372.xml>
+<http://www.scissorsandpaste.net/sapcorpus/372.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:372		
 	sap:transcribedBy sap: ;
@@ -8671,7 +8671,7 @@ sapcorpus:image_373
 	fabio:isRepresentationOf sap:article_373 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/373.xml>
+<http://www.scissorsandpaste.net/sapcorpus/373.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:373		
 	sap:transcribedBy sap: ;
@@ -8703,7 +8703,7 @@ sapcorpus:image_374
 	fabio:isRepresentationOf sap:article_374 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/374.xml>
+<http://www.scissorsandpaste.net/sapcorpus/374.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:374		
 	sap:transcribedBy sap: ;
@@ -8733,7 +8733,7 @@ sapcorpus:image_375
 	fabio:isRepresentationOf sap:article_375 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/375.xml>
+<http://www.scissorsandpaste.net/sapcorpus/375.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:375		
 	sap:transcribedBy sap: ;
@@ -8766,7 +8766,7 @@ sapcorpus:image_376
 	fabio:isRepresentationOf sap:article_376 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/376.xml>
+<http://www.scissorsandpaste.net/sapcorpus/376.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:376		
 	sap:transcribedBy sap: ;
@@ -8797,7 +8797,7 @@ sapcorpus:image_377
 	fabio:isRepresentationOf sap:article_377 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/377.xml>
+<http://www.scissorsandpaste.net/sapcorpus/377.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:377		
 	sap:transcribedBy sap: ;
@@ -8828,7 +8828,7 @@ sapcorpus:image_378
 	fabio:isRepresentationOf sap:article_378 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/378.xml>
+<http://www.scissorsandpaste.net/sapcorpus/378.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:378		
 	sap:transcribedBy sap: ;
@@ -8848,7 +8848,7 @@ sapcorpus:article_379
 	prism:startingPage "2" ;
 	frbr:realizationOf sapmemes:381
 	
-<http://www.scissorsandpaste.net/379.xml>
+<http://www.scissorsandpaste.net/sapcorpus/379.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8865,7 +8865,7 @@ sapcorpus:article_380
 	prism:startingPage "15" ;
 	frbr:realizationOf sapmemes:381
 	
-<http://www.scissorsandpaste.net/380.xml>
+<http://www.scissorsandpaste.net/sapcorpus/380.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8882,7 +8882,7 @@ sapcorpus:article_381
 	fabio:partOf sapcorpus:newspaper_mc_1810-01-06 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/381.xml>
+<http://www.scissorsandpaste.net/sapcorpus/381.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -8910,7 +8910,7 @@ sapcorpus:image_382
 	fabio:isRepresentationOf sap:article_382 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/382.xml>
+<http://www.scissorsandpaste.net/sapcorpus/382.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:382		
 	sap:transcribedBy sap: ;
@@ -8941,7 +8941,7 @@ sapcorpus:image_383
 	fabio:isRepresentationOf sap:article_383 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/383.xml>
+<http://www.scissorsandpaste.net/sapcorpus/383.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:383		
 	sap:transcribedBy sap: ;
@@ -8971,7 +8971,7 @@ sapcorpus:image_384
 	fabio:isRepresentationOf sap:article_384 ;
 	fabio:isStoredOn fabio:HD ;
 	
-<http://www.scissorsandpaste.net/384.xml>
+<http://www.scissorsandpaste.net/sapcorpus/384.xml>
 	a foaf:Document ;
 	sap:transcribedFrom sapimages:384		
 	sap:transcribedBy sap: ;
@@ -8990,7 +8990,7 @@ sapcorpus:article_385
 	fabio:partOf sapcorpus:newspaper_ga_1789-11-27 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/385.xml>
+<http://www.scissorsandpaste.net/sapcorpus/385.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9006,7 +9006,7 @@ sapcorpus:article_386
 	fabio:partOf sapcorpus:newspaper_ga_1789-11-13 ;
 	prism:startingPage "7" ;
 	
-<http://www.scissorsandpaste.net/386.xml>
+<http://www.scissorsandpaste.net/sapcorpus/386.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9022,7 +9022,7 @@ sapcorpus:article_387
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-07 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/387.xml>
+<http://www.scissorsandpaste.net/sapcorpus/387.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9039,7 +9039,7 @@ sapcorpus:article_388
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-07 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/388.xml>
+<http://www.scissorsandpaste.net/sapcorpus/388.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9057,7 +9057,7 @@ sapcorpus:article_389
 	fabio:partOf sapcorpus:newspaper_ga_1789-01-01 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/389.xml>
+<http://www.scissorsandpaste.net/sapcorpus/389.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9075,7 +9075,7 @@ sapcorpus:article_390
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-02 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/390.xml>
+<http://www.scissorsandpaste.net/sapcorpus/390.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9093,7 +9093,7 @@ sapcorpus:article_391
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-23 ;
 	prism:startingPage "5" ;
 	
-<http://www.scissorsandpaste.net/391.xml>
+<http://www.scissorsandpaste.net/sapcorpus/391.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9111,7 +9111,7 @@ sapcorpus:article_392
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-25 ;
 	prism:startingPage "3" ;
 	
-<http://www.scissorsandpaste.net/392.xml>
+<http://www.scissorsandpaste.net/sapcorpus/392.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9128,7 +9128,7 @@ sapcorpus:article_393
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-25 ;
 	prism:startingPage "5 6" ;
 	
-<http://www.scissorsandpaste.net/393.xml>
+<http://www.scissorsandpaste.net/sapcorpus/393.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9145,7 +9145,7 @@ sapcorpus:article_394
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-25 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/394.xml>
+<http://www.scissorsandpaste.net/sapcorpus/394.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9161,7 +9161,7 @@ sapcorpus:article_395
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-21 ;
 	prism:startingPage "1" ;
 	
-<http://www.scissorsandpaste.net/395.xml>
+<http://www.scissorsandpaste.net/sapcorpus/395.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>
@@ -9177,7 +9177,7 @@ sapcorpus:article_396
 	fabio:partOf sapcorpus:newspaper_ga_1789-09-21 ;
 	prism:startingPage "6" ;
 	
-<http://www.scissorsandpaste.net/396.xml>
+<http://www.scissorsandpaste.net/sapcorpus/396.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode>

@@ -90,7 +90,7 @@ sapcorpus:image_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>
 	fabio:isRepresentationOf sap:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;
 	fabio:isStoredOn fabio:HD ;</xsl:if>
 	
-<!-- XML of Article -->&lt;http://www.scissorsandpaste.net/<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>.xml&gt;
+<!-- XML of Article -->&lt;http://www.scissorsandpaste.net/sapcorpus/<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>.xml&gt;
 	a foaf:Document ;<xsl:if test="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target!=''">
 	sap:transcribedFrom sapimages:<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/></xsl:if>		
 	sap:transcribedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[2]/@n"/> ;<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when=''">
