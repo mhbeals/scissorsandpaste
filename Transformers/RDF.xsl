@@ -131,7 +131,7 @@ sapcorpus:image_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>
 	dc:coverage &lt;http://www.geonames.org/<xsl:value-of select="@n"/>&gt; ;</xsl:for-each></xsl:if><xsl:if test="text/body/p/hi != ''"><xsl:for-each select="text/body/p/hi/country"> 
 	dc:coverage &lt;http://www.geonames.org/<xsl:value-of select="@n"/>&gt; ;</xsl:for-each></xsl:if><xsl:if test="text/body/head!=''">
 	sap:heading "<xsl:value-of select="text/body/head"/>" ;</xsl:if>
-			sap:body "<xsl:for-each select="text/body/p"><xsl:value-of select="replace(.,'&quot;',&apos;&apos;&apos;&apos;)"/><xsl:text>&#160;</xsl:text></xsl:for-each>" .
+	sap:body "<xsl:for-each select="text/body/p"><xsl:value-of select="replace(.,'&quot;',&apos;&apos;&apos;&apos;)"/><xsl:text>&#160;</xsl:text></xsl:for-each>" .
 	</xsl:for-each>
 	
 	</xsl:result-document>
