@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>104</title>
+                    <title n="104">104</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1812-08-29"/>
@@ -44,9 +43,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
-                            <item>military</item>
+                            <item n="military">military</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -54,12 +53,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-                    <head>
-               <hi rend="smallcaps">Canada</hi>
-                    </head>
-         </p>
+                <pb/><head><hi rend="smallcaps">Canada</hi></head>
                 <p>Montreal, July 4</p>
                 <p>This city has been for a few days past in a state of <lb/>agitation occasioned by an event which has taken <lb/>place at Pointe Claire ; and as this matter will be <lb/>clothed, no doubt, in all the dress of misrepresentata<lb break="no"/>tion by our neighbouring enemies, from the informa<lb break="no"/>tion they may receive of it, we consider it a duty, we <lb/>owe to the community at large in this country, to <lb/>state the circumstances as they occurred, in a fair, <lb/>open, and candid manner.</p>
                 <p>By the late militia law, 2000 young men are to be <lb/>drafted from the general militia of the province for <lb/>three months to be properly trained, and of course, <lb/>a certain proportion of this number is to be furnished <lb/>by each particular district. Some those drafted <lb/>from the Parish of Pointe Claire refused to march to <lb/>Lapraire, for the purpose of joining the division sta<lb break="no"/>tioned there ; in consequence of which, Major, Lep<lb break="no"/>rohon, belonging to this particular battalion, was sent <lb/>on Tuesday last, with 22 attendants, to apprehend <lb/>these refractory persons as deserters.</p>

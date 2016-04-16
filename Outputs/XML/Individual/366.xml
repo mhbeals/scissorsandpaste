@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>366</title>
+                    <title n="366">366</title>
                 </titleStmt>
                 <publicationStmt>
                     <authority>Collected from a digital image on <date when="2013-06-08">20130608
-</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2014-12-15"/> by <persName role="transcription">M. H. Beals</persName>.</authority>
+</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2014-12-15">2014-12-15</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitised image available from
@@ -23,9 +22,9 @@
                             </authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1794-01-24"/>
@@ -48,7 +47,7 @@
                     <keywords>
                         <list>
                             <item>Native Americans</item>
-                            <item>war</item>
+                            <item n="war">war</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -57,8 +56,7 @@
         <text>
             <body>
                 <head n="London, England, United Kingdom"/>
-                <p>
-            <pb n="5"/>Letters from Quebec, dated Nov. 17, say, that <lb/>every thing was quiet in that province.</p>
+                <p><pb n="5"/>Letters from Quebec, dated Nov. 17, say, that <lb/>every thing was quiet in that province.</p>
                 <p>Some letters from Quebec were on Saturday re<lb break="no"/>ceived at the General Post Office, which state that <lb/>the American army under the command of General <lb/>Wayne had been routed by the Otoway Indians; an advanced party of 200 men had been entirely <lb/>cut off: his army consisted of 400 regulars and <lb/>2,000 volunteers.</p>
             </body>
         </text>

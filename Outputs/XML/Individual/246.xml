@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>246</title>
+                    <title n="246">246</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1834-11-08"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,9 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="italic">Emigration.</hi> –According to a general return of emi<lb break="no"/>grants who have left Liverpool for the British colonies <lb/>and the United States of America, it appears that from <lb/>the 7th of May 1833, to the 30th September 1834, <lb/>3,121 persons left there for the colonies, and 27,486 <lb/>for the United States, making a grand total of 30,607 <lb/>persons. The ships employed were 455 ; the tonnage <lb/>196,058, and the crews, 8,9956. The chief of the emi<lb break="no"/>grants to the United States, disembarked at New <lb/>York, 24,311 having landed there. Of the emigrants <lb/>to the colonies, 1,289 went to Australia, and 1,227 <lb/>to Quebec. The emigration to the West Indies dur<lb break="no"/>ing the above period, only amounted to 12 to the <lb/>smaller islands, 3 to Antigua, 32 to Jamaica, and 26 <lb/>to Demerara. The emigrants to Van Diemen's Land <lb/>were 135.</p>
+                <p><pb/><hi rend="italic">Emigration.</hi> –According to a general return of emi<lb break="no"/>grants who have left Liverpool for the British colonies <lb/>and the United States of America, it appears that from <lb/>the 7th of May 1833, to the 30th September 1834, <lb/>3,121 persons left there for the colonies, and 27,486 <lb/>for the United States, making a grand total of 30,607 <lb/>persons. The ships employed were 455 ; the tonnage <lb/>196,058, and the crews, 8,9956. The chief of the emi<lb break="no"/>grants to the United States, disembarked at New <lb/>York, 24,311 having landed there. Of the emigrants <lb/>to the colonies, 1,289 went to Australia, and 1,227 <lb/>to Quebec. The emigration to the West Indies dur<lb break="no"/>ing the above period, only amounted to 12 to the <lb/>smaller islands, 3 to Antigua, 32 to Jamaica, and 26 <lb/>to Demerara. The emigrants to Van Diemen's Land <lb/>were 135.</p>
             </body>
         </text>
     </TEI>

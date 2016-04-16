@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>133</title>
+                    <title n="133">133</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1819-10-13"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,15 +51,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Colonial Intelligence</p>
-                <p>
-            <hi rend="italic">
-               <hi rend="smallcaps">Death</hi>  of The <hi rend="smallcaps">Duke</hi>  of <hi rend="smallcaps">Richmond.</hi>
-            </hi>
-         </p>
-                <p>By the Henry, arrived in the rive from Quebec, we <lb/>have advices from thence of the 4th September, three <lb/>days later than the last accounts. They confirm, we <lb/>regret to say, the intelligence received at Lloyd's on <lb/>Friday, of the death of the Duke of Richmond, at <lb/>Montreal, where he had arrived on his return from in<lb break="no"/>specting the new settlements in Upper Canada. His <lb/>body had been brought from Montreal to Quebec, <lb/>where it was lying in state at the time the Henry sail<lb break="no"/> 
-            <lb/>ed. His daughter Lady Mary Lennox, continued in <lb/>the most afflicting state, and great fears were entertain<lb break="no"/>ed for her recovery.</p>
+                <p><pb/>Colonial Intelligence</p>
+                <p><hi rend="italic"><hi rend="smallcaps">Death</hi>  of The <hi rend="smallcaps">Duke</hi>  of <hi rend="smallcaps">Richmond.</hi></hi></p>
+                <p>By the Henry, arrived in the rive from Quebec, we <lb/>have advices from thence of the 4th September, three <lb/>days later than the last accounts. They confirm, we <lb/>regret to say, the intelligence received at Lloyd's on <lb/>Friday, of the death of the Duke of Richmond, at <lb/>Montreal, where he had arrived on his return from in<lb break="no"/>specting the new settlements in Upper Canada. His <lb/>body had been brought from Montreal to Quebec, <lb/>where it was lying in state at the time the Henry sail<lb break="no"/> <lb/>ed. His daughter Lady Mary Lennox, continued in <lb/>the most afflicting state, and great fears were entertain<lb break="no"/>ed for her recovery.</p>
                 <p>Lady Sarah Lennoc, his Grace's second daughter, <lb/>is married to Major-General Sir Peregrine Maitland. <lb/>They accompanied his grace to North America, and <lb/>have remained there since he entered upon his Govern<lb break="no"/>ment. His Grace was the lineal descendant of the <lb/>first Duke of Richmond, natural son of King Charles <lb/>II. by a French Lady, who was created by his Majesty <lb/>Duchess of Portsmouth, and by Louis the Fourteenth, <lb/>Duchess of Aubigny, in France. His titles were, <lb/>Duke of Richmond, Early of March (English ho<lb break="no"/>nours) ; Duke of Aubigny, (French Honour) ; Duke <lb/>of Lennox, Early of Darnley, and Baron Methuen of <lb/>Torbulton (Scots Honours). The title of Aubigny was <lb/>confirmed in March 1816, by Louis XVIII by caus<lb break="no"/>ing the estate of Aubigny to be assigned to him, and <lb/>granting him the honours of the Louvre, as enjoyed by <lb/>his Grace's ancestors. He was a Lieutenant-General <lb/>in the army, Colonel of the 35th regiment of foot, Go<lb break="no"/>nervor of Plymouth, Governor of Upper and Lower <lb/>Canada and their dependencies, Lord Lieutenant of <lb/>the county of Sussex, and High Steward of Chichester. <lb/>–His Grace was born in 1764, succeeded his uncle, <lb/>Charles, the late Duke, in 1806, and married in 1783 <lb/>Charlotte, daughter of Duke of Gordon, by whom <lb/>he had issue seven sons and seven daughters, all of them <lb/>now living, except his third son, Henry Adam, R. N. <lb/>who fell overboard the Blake, as she was sailing into <lb/>Port Mahon, in 1812, and was drowned. His Grace <lb/>was distinguished early in life by a duel with His <lb/>Royal Highness the Duke of York. He was of an <lb/>open, candid, generous temper, and of plain and un<lb break="no"/>affected manners, qualities which were particularly con<lb break="no"/>spicuous in Ireland, when Viceroy of that country.</p>
                 <p>His Grace is succeeded in the Peerage his eldest <lb/>son Charles, Earl of March, now Duke of Richmond. <lb/>This young Nobleman in the army, has seen much active ser<lb break="no"/>vice under the personal auspices of the illustrious Wel<lb break="no"/>lington, being one of his Grace's Aides-de-camp, and <lb/>was one of the Representatives in Parliament for the <lb/>City of Chichester, which seat, of course, becomes va<lb break="no"/>cant. He was lately married to the eldest daughter of <lb/>the Marquis of Anglesea, and has issue, a Son, now <lb/>Earl of March.</p>
                 <p>The following is extracted from the Quebec papers:</p>

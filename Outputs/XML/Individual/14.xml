@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>14</title>
+                    <title n="14">14</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-08-28"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>transportation</item>
+                            <item n="transportation">transportation</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,8 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="3"/>Government are now engaging 1800 tons of <lb/>transports, on contract, to carry over the felons <lb/>under sentence of transportation to Botany Bay. <lb/>The victualling the convicts on the voyage is in<lb break="no"/>cluded in the contract.</p>
+                <p><pb n="3"/>Government are now engaging 1800 tons of <lb/>transports, on contract, to carry over the felons <lb/>under sentence of transportation to Botany Bay. <lb/>The victualling the convicts on the voyage is in<lb break="no"/>cluded in the contract.</p>
             </body>
         </text>
     </TEI>

@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>21</title>
+                    <title n="21">21</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-10-09"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
+                            <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,11 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="center">
-               <hi rend="italic">Boston, July</hi>  31.</hi>
-         </p>
+                <p><pb/><hi rend="center"><hi rend="italic">Boston, July</hi>  31.</hi></p>
                 <p>The building of an Indiaman goes on with ra<lb break="no"/>pidity, and, it is said, will be launched about the <lb/>20th of October, and is pronounced by judges to <lb/>be an excellent piece of workshmanship.</p>
             </body>
         </text>

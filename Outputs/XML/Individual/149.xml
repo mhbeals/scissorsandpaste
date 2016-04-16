@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>149</title>
+                    <title n="149">149</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1819-07-28"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Intended Colony at the Cape of  <lb/>Good Hope.</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Intended Colony at the Cape of  <lb/>Good Hope.</hi></p>
                 <p>The following letter explains, in detail, the degree <lb/>of co-operation which Government proposes to afford to <lb/>those persons who may wish to emigrate from this <lb/>country.</p>
                 <p>( <hi rend="smallcaps">Official Circular</hi>.)</p>
                 <p>"Downing-street. London, 1819. <lb/>"The sufferings to which many individuals have <lb/>been exposed, who have emigrated to his Majesty's <lb/>foreign possessions, unconnected, and unprovided with <lb/>any capital, or even the means of support, having been <lb/>very afflicting to themselves, and equally burdensome <lb/>to the colonies to which they have proceeded, the Go<lb break="no"/>vernment have determined to confine the application <lb/>of the money recently voted by Address in the House <lb/>of Commons, to those persons who, possessing the <lb/>means, will engage to carry out, at the least, ten able<lb break="no"/>bodied individuals above 18 years of age, with or with<lb break="no"/>out families, the Government always reserving to it<lb break="no"/>self the right of selecting, from the several offers made <lb/>to them, those which may prove, upon examination, to <lb/>be most eligible.</p>

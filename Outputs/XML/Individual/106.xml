@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>106</title>
+                    <title n="106">106</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1812-10-03"/>
@@ -44,8 +43,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>speeches</item>
-                            <item>military</item>
+                            <item n="speeches">speeches</item>
+                            <item n="military">military</item>
                             <item>colonial government</item>
                         </list>
                     </keywords>
@@ -54,14 +53,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Quebec Papers</hi>
-         </p>
-                <p>
-            <hi rend="smallcaps">Provincial Parliament of Lower Canada </hi>
-            <lb/>
-            <hi rend="smallcaps">Legislative Council</hi> –Aug 1.</p>
+                <p><pb/><hi rend="smallcaps">Quebec Papers</hi></p>
+                <p><hi rend="smallcaps">Provincial Parliament of Lower Canada </hi><lb/><hi rend="smallcaps">Legislative Council</hi> –Aug 1.</p>
                 <p>This day at two o'clock, his Excellency the <lb/>Governor in Chief went in the usual state to the <lb/>Legislative Council Chamber, and being seated on <lb/>the Throne, the Gentlemen Usher of the Black <lb/>Rod was sent to command the presence of the As<lb break="no"/>sembly, which being come up, the Honourable <lb/>Speaker of the Assembly said–</p>
                 <p>"May it please your Excellency,</p>
                 <p>"His Majesty's faithful subjects, the representatives of <lb/>the province of Lower Canada, have passed a bill, intituled, <lb/>"An Act of facilitate the Circulation of Army Bills." Their <lb/>loyalty, and the happiness of this province in being connected <lb/>with, and powerfully protected by the British nation, are the <lb/>basis of their constitution, and the just grounds which gave <lb/>rise to the formation of the militia, and the firm determina<lb break="no"/>tion to defend this country against the unexpected and unjust <lb/>war that the United States have lately declared ; they are, <lb/>therefore, under the greatest obligation to your Excellency <lb/>for having communicated to them your wise precautions, on <lb/>the means to ameliorate and insure for several years, the <lb/>punctual payment of the army, by circulating bills, the reim<lb break="no"/>bursement of which is guaranteed in England. To give them <lb/>greater credit, the bill limits the sums necessary, and, more<lb break="no"/>over, provides for the interest, the advantages accruing there<lb break="no"/>from, and even for the payment of the principal in specie in <lb/>this province, which has become expressly bound for the <lb/>same at a fixed period, to any person whatever, who, from <lb/>the state of his private affairs, would prefer such payment.</p>

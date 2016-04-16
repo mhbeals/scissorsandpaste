@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>148</title>
+                    <title n="148">148</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1819-07-28"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,8 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Colonial Intelligence</p>
+                <p><pb/>Colonial Intelligence</p>
                 <p>A letter from Corfu, dated the 10th ult. states that <lb/>the Governor of the Ionian Islands, General Mait<lb break="no"/>land, embarked on the 8th inst. for Rome, in order to <lb/>negotitate a Concordat relative to the Romish Clergy <lb/>of the United Islands, as it appeared that Lord Guild<lb break="no"/>ford, who had been charged with the affair by the <lb/>Prince Regent, had failed in his negotiation to that <lb/>effect.</p>
                 <p>Previously to the departure of the Governor, a de<lb break="no"/>putation from the Parguinotes emigrants waited upon <lb/>him, to claim the sum to be paid by Ali Pacha, for <lb/>property left in Parga, agreeably to stipulation. Ge<lb break="no"/>neral Maitland assured them he would not depart with<lb break="no"/>out adopting measures in their favour, and immediate<lb break="no"/>ly issued a proclamation, appointing a commission of <lb/>payment. Sir Frederick Adam fills the office of High <lb/>Commissioner, <hi rend="italic">ad interim</hi>, during the absence of the <lb/>Governor.</p>
                 <p>Advices from Demerara are received to the 3d ult. <lb/>The following is from the Guiana Chronicle of the <lb/>24th May:–" We observe by St Vincent: papers, <lb/>which we have just received, that the Royal York Ran<lb break="no"/>gers, under the command of Colonel Smelt, had em<lb break="no"/>barked on board the Diadem and Elizabeth transports <lb/>for Canada, where the regiment is intended to be dis<lb break="no"/>banded. It is stated that each of the men will have a <lb/>certain portion of land allotted them in that province <lb/>for cultivation and their future support.</p>

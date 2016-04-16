@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>165</title>
+                    <title n="165">165</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Herald</title>
+                            <title n="newspaper_gh">Glasgow Herald</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-05-22"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>disease</item>
+                            <item n="disease">disease</item>
                             <item>shipping news</item>
                         </list>
                     </keywords>
@@ -53,9 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="4"/> Extract of a letter received from Calcutta, dated <lb/>22d November, 1819:--"An afflicting circumstance <lb/>has recently taken place. The Captain of the Bengal, <lb/>a Liverpool trader, very lately gave a ball on board <lb/>his ship, which was about to sail for England. The <lb/>party was very small, and more than half were taken <lb/>ill with a violent fever immediately afterwards. I <lb/>buried the Captain and the Surgeon a few days after <lb/>it; not less than ten of the part died within as many <lb/>days, all younger persons. Only one officer survives <lb/>of those who left England in the ship, and he is just <lb/>recovering in the Hospital. All sorts of conjectures <lb/>were made, but it turns out that there were 17,000 <lb/>undressed buffalo horns in the hold, in a complete <lb/>state of putrefaction. This vessel has sailed for Eng<lb break="no"/>land in this state without a Surgeon. I question <lb/>whether it will ever arrive; it ought not to be ad<lb break="no"/>mitted among other shipping if it does;–the opening <lb/>of the hold will be death to him who does it, and per<lb break="no"/>haps to many more."--In consequence of this disas<lb break="no"/>trous information, Ministers have issued an order for <lb/>the vessel, on her arrival at Liverpool, or any other <lb/>part, to undergo quarantine.– <hi rend="italic">London Paper.</hi>
-         </p>
+                <p><pb n="4"/> Extract of a letter received from Calcutta, dated <lb/>22d November, 1819:--"An afflicting circumstance <lb/>has recently taken place. The Captain of the Bengal, <lb/>a Liverpool trader, very lately gave a ball on board <lb/>his ship, which was about to sail for England. The <lb/>party was very small, and more than half were taken <lb/>ill with a violent fever immediately afterwards. I <lb/>buried the Captain and the Surgeon a few days after <lb/>it; not less than ten of the part died within as many <lb/>days, all younger persons. Only one officer survives <lb/>of those who left England in the ship, and he is just <lb/>recovering in the Hospital. All sorts of conjectures <lb/>were made, but it turns out that there were 17,000 <lb/>undressed buffalo horns in the hold, in a complete <lb/>state of putrefaction. This vessel has sailed for Eng<lb break="no"/>land in this state without a Surgeon. I question <lb/>whether it will ever arrive; it ought not to be ad<lb break="no"/>mitted among other shipping if it does;–the opening <lb/>of the hold will be death to him who does it, and per<lb break="no"/>haps to many more."--In consequence of this disas<lb break="no"/>trous information, Ministers have issued an order for <lb/>the vessel, on her arrival at Liverpool, or any other <lb/>part, to undergo quarantine.– <hi rend="italic">London Paper.</hi></p>
                 <p>All apprehension on the above subject is complete<lb break="no"/>ly done away by the following letter from Liverpool, <lb/>May 14:–</p>
                 <p>"I noticed a paragraph in the London papers, <lb/>respecting the Bengal, of this port, at Calcutta, stat<lb break="no"/>ing that a number of deaths had taken place, sup<lb break="no"/>posed in consequence of the Infectious vapours arising <lb/>from some buffalo horns.–The Bengal arrived here <lb/>April 5, and has been discharged without any of <lb/>those dreadful consequences which the medical gen<lb break="no"/>tlemen of Calcutta prognosticated.–I should rather <lb/>suppose that the fatal consequences which ensued <lb/>to those individuals who attended the ball given on <lb/>board this vessel at Calcutta, would be none justly <lb/>attributed to the exposure to night air."</p>
             </body>

@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>50</title>
+                    <title n="50">50</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-21"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>weather</item>
+                            <item n="weather">weather</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,9 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>The following philosophical facts lead us to <lb/>presume that the winter now setting in, will prove <lb/>a mild one : It has been constantly remarked, that <lb/>when this season commences early, and with se<lb break="no"/>verity, in Newfoundland, and the more northern <lb/>part of North America, it becomes extremely ri<lb break="no"/>gorous, and of a proportionate continuance there. <lb/>When, in the above climate, the winters have <lb/>been severe, they have invariably been mild with <lb/>us, and <hi rend="italic">vice versa</hi>. Now, the ships which sailed <lb/>from Newfoundland the beginning of October <lb/>
-            <hi rend="italic">last</hi>, saw the hills already covered with snow. <lb/>There is still another argument in favour of a mild <lb/>winter with us. Previously to the setting in of a <lb/>severe one, nature, in her bounty, has been always <lb/>observed to have provided an uncommon store of <lb/>wild briar fruits, as a nourishment to the smaller <lb/>birds, who would otherwise perish, a vast carpet <lb/>of snow spreading itself over the ground, so as to <lb/>prevent their coming at the worms, &amp;c. on which <lb/>they are accustomed to feed. The present sea<lb break="no"/>son, the store of these wild fruits is extremely mo<lb break="no"/>derate.</p>
+                <p><pb/>The following philosophical facts lead us to <lb/>presume that the winter now setting in, will prove <lb/>a mild one : It has been constantly remarked, that <lb/>when this season commences early, and with se<lb break="no"/>verity, in Newfoundland, and the more northern <lb/>part of North America, it becomes extremely ri<lb break="no"/>gorous, and of a proportionate continuance there. <lb/>When, in the above climate, the winters have <lb/>been severe, they have invariably been mild with <lb/>us, and <hi rend="italic">vice versa</hi>. Now, the ships which sailed <lb/>from Newfoundland the beginning of October <lb/><hi rend="italic">last</hi>, saw the hills already covered with snow. <lb/>There is still another argument in favour of a mild <lb/>winter with us. Previously to the setting in of a <lb/>severe one, nature, in her bounty, has been always <lb/>observed to have provided an uncommon store of <lb/>wild briar fruits, as a nourishment to the smaller <lb/>birds, who would otherwise perish, a vast carpet <lb/>of snow spreading itself over the ground, so as to <lb/>prevent their coming at the worms, &amp;c. on which <lb/>they are accustomed to feed. The present sea<lb break="no"/>son, the store of these wild fruits is extremely mo<lb break="no"/>derate.</p>
             </body>
         </text>
     </TEI>

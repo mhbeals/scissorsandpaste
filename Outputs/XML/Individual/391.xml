@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="391">391</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-02-25">20130225</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-11-20">20151120</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-09-23"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="single" passive="unknown"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="agriculture">agriculture</item>
+                            <item n="sh87004890">international trade</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+              <head><hi rend="italic"><supplied reason="copy missing">Extract</supplied> of a letter form Dublin, Sept</hi>. 15.</head>
+                <p><pb n="5"/><supplied reason="copy missing">???</supplied>annah, of New York, arrived here on Thursday, with a cargo of staves, <lb/><supplied reason="copy missing">???</supplied>e of six weeks.</p>
+                <p><supplied reason="copy missing">???</supplied>re received here from New York, per <lb/><supplied reason="copy missing">???</supplied>atest crops this year of corn and flax <lb/>[rem]embered for years past; that there <lb/><supplied reason="copy missing">???</supplied> demand at the American market for <lb/><supplied reason="copy missing">???</supplied> and that trade in general was very <lb/><supplied reason="copy missing">???</supplied>ishing."</p>
+            </body>
+        </text>
+    </TEI>

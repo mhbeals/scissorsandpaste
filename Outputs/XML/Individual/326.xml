@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>326</title>
+                    <title n="326">326</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1790-09-20"/>
@@ -47,10 +43,10 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>weather</item>
+                            <item n="weather">weather</item>
                             <item>shipping news</item>
-                            <item>accidents</item>
-                            <item>earthquake</item>
+                            <item n="accidents">accidents</item>
+                            <item n="earthquake">earthquake</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -58,46 +54,19 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="3"/>
-            <hi rend="center">
-               <hi rend="italic">New York, August</hi>  4.</hi>
-         </p>
+                <p><pb n="3"/><hi rend="center"><hi rend="italic">New York, August</hi>  4.</hi></p>
                 <p>On Monday the 12th ult. there was a violent <lb/>tempest at Leominster, Massachusetts, attended <lb/>with hail which was of such a size, and fell with <lb/>such velocity, that the stoutest Indian corn was <lb/>beaten into shreds–vast quantities of apples were <lb/>beaten from the trees–not only the fruit but the <lb/>trees received great injury, the bark being brok<lb break="no"/>en from their limbs; the windows broken in the <lb/>house, and the fences renewed such impressions, <lb/>as to be discovered at 90 yards distance. Many <lb/>of the hailstones were as large as hens eggs–the <lb/>common size was a little more than an inch in di<lb break="no"/>ameter. Twenty-give hours after it fell, banks <lb/>of it were measured at the foot of a hill, and <lb/>found to be 20 inches deep.</p>
-                <p>The Saturday following great damage was <lb/>
-            <supplied reason="copy blur">???</supplied> by hail at Shrewsbury, country of Worces<lb break="no"/>ster.</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">August</hi>  15. </hi>
-            <lb/>On Sunday the 25th July, a violent hail storm <lb/>commenced a few miles to the westward of Wil<lb break="no"/>mington, Delaware, which did great damage to <lb/>many fields of grain, and blew down, in many <lb/>places, an immense quantity of timber. The <lb/>hail in this storm was of an extraordinary appear<lb break="no"/>ance; part of it being about two inches long, <lb/>and of a very considerable circumference.</p>
+                <p>The Saturday following great damage was <lb/><supplied reason="copy blur">???</supplied> by hail at Shrewsbury, country of Worces<lb break="no"/>ster.</p>
+                <p><hi rend="center"><hi rend="italic">August</hi>  15. </hi><lb/>On Sunday the 25th July, a violent hail storm <lb/>commenced a few miles to the westward of Wil<lb break="no"/>mington, Delaware, which did great damage to <lb/>many fields of grain, and blew down, in many <lb/>places, an immense quantity of timber. The <lb/>hail in this storm was of an extraordinary appear<lb break="no"/>ance; part of it being about two inches long, <lb/>and of a very considerable circumference.</p>
                 <p>On Saturday, the 1st inst. arrived at Wilming<lb break="no"/>ton, Delaware, the brig Maria, Capt. fort, from <lb/>Londonderry, with 200 passengers.</p>
                 <p>On the 4th inst. arrived at Philadelphia, the <lb/>Happy Return, Capt. Ewing, in 8 weeks <lb/>from Londonderry, brought 340 passengers in <lb/>good health: Capt. Ewing parted, near the <lb/>Capes of Delaware, with the ship Sally, Capt. <lb/>Miller, with passengers from Londonderry for <lb/>that port also.</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">Pennsylvania, July</hi>  21. </hi>
-            <lb/>Last Sunday evening Mr. John Garrison, son <lb/>of William Garrison, of Newbury township, in <lb/>this county, was killed by lightning in his own <lb/>house. The lightning struck in at the gable and <lb/>just at the instant that Mr. Garrison was in the <lb/>centre of the floor, walking towards the window; <lb/>his brother was standing within two yards of him <lb/>when he fell, but providentially received not the <lb/>smallest hurt.</p>
+                <p><hi rend="center"><hi rend="italic">Pennsylvania, July</hi>  21. </hi><lb/>Last Sunday evening Mr. John Garrison, son <lb/>of William Garrison, of Newbury township, in <lb/>this county, was killed by lightning in his own <lb/>house. The lightning struck in at the gable and <lb/>just at the instant that Mr. Garrison was in the <lb/>centre of the floor, walking towards the window; <lb/>his brother was standing within two yards of him <lb/>when he fell, but providentially received not the <lb/>smallest hurt.</p>
                 <p>We also learn, that Patrick M'Sherry, of Lit<lb break="no"/>tle's-town, in this county, had two cows killed <lb/>by lightning, the same evening.</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">New London, July</hi>  30. </hi>
-            <lb/>A slight shock of an earthquake was fel tin this <lb/>and the neighhbouring towns, on Sunday morning <lb/>last, about thirty minutes past five o'clock.</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">Middletown, July</hi>  25. </hi>
-            <lb/>About five o'clock this morning, a noise was <lb/>heard that seemed to pass over this city, which is <lb/>thought to have come from a north-westerly direc<lb break="no"/>tion and proceeded to a south-easterly one. The <lb/>noise was equal to loud heavy thunder, and the <lb/>commotion occasioned by it very sensible in the <lb/>shaking of houses, but no damage was done.– <lb/>The Tuesday preceding, about six or seven miles <lb/>to the southward of this place, a similar but hea<lb break="no"/>vier noise was heard, attended with the like com<lb break="no"/>motion.</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Dartmouth, (Connecticut)</hi>
-            </hi> 
-            <lb/>
-            <hi rend="center">
-               <hi rend="italic">July</hi>  26.</hi>
-         </p>
-                <p>"Some days ago a house near the college, <lb/>was struck by lightning, and a child therein kill<lb break="no"/>ed. Since that a woman was killed by the same <lb/>means in Cornish, a town adjoining Dartmouth, <lb/>as she sat in her house at work. Later still at <lb/>Hampton, in New York state, a yoke of oxen <lb/>were killed, both by one flash of lightning.–From <lb/>what reason we cannot tell, but the lightning has <lb/>been peculiarly destructive in many of our settle<lb break="no"/>
-            <pb n="4"/> 
-            <lb/>ments during the present summer. It would ap<lb break="no"/>however, that nature is willing to repair <lb/>those losses; accounts having just come to hand, <lb/>that on last Monday morning a woman in FPlain<lb break="no"/>field was safely delivered of four girls at a<supplied reason="copy blur">???</supplied>; <lb/>one of whom died the night following, the rest <lb/>likely to do well."</p>
-                <p>Saturday, at a tavern near the market, the <lb/>following specimen of gormandising was<supplied reason="copy blur">???</supplied> 
-            <lb/>ed :–A person, not for any bet, or without <lb/>any other inducement, than the craving of the <lb/>stomach,eat, at one meal, a shoulder of roast lamb, <lb/>3 slices of bacon, three quarters of a pound of <lb/>cheese, 15 large cucumbers, one half of an 8d <lb/>wheat loaf, a plate of cold potatoes, and drank <lb/>a quarter of cider.</p>
+                <p><hi rend="center"><hi rend="italic">New London, July</hi>  30. </hi><lb/>A slight shock of an earthquake was fel tin this <lb/>and the neighhbouring towns, on Sunday morning <lb/>last, about thirty minutes past five o'clock.</p>
+                <p><hi rend="center"><hi rend="italic">Middletown, July</hi>  25. </hi><lb/>About five o'clock this morning, a noise was <lb/>heard that seemed to pass over this city, which is <lb/>thought to have come from a north-westerly direc<lb break="no"/>tion and proceeded to a south-easterly one. The <lb/>noise was equal to loud heavy thunder, and the <lb/>commotion occasioned by it very sensible in the <lb/>shaking of houses, but no damage was done.– <lb/>The Tuesday preceding, about six or seven miles <lb/>to the southward of this place, a similar but hea<lb break="no"/>vier noise was heard, attended with the like com<lb break="no"/>motion.</p>
+                <p><hi rend="center"><hi rend="italic">Extract of a letter from Dartmouth, (Connecticut)</hi></hi> <lb/><hi rend="center"><hi rend="italic">July</hi>  26.</hi></p>
+                <p>"Some days ago a house near the college, <lb/>was struck by lightning, and a child therein kill<lb break="no"/>ed. Since that a woman was killed by the same <lb/>means in Cornish, a town adjoining Dartmouth, <lb/>as she sat in her house at work. Later still at <lb/>Hampton, in New York state, a yoke of oxen <lb/>were killed, both by one flash of lightning.–From <lb/>what reason we cannot tell, but the lightning has <lb/>been peculiarly destructive in many of our settle<lb break="no"/><pb n="4"/> <lb/>ments during the present summer. It would ap<lb break="no"/>however, that nature is willing to repair <lb/>those losses; accounts having just come to hand, <lb/>that on last Monday morning a woman in FPlain<lb break="no"/>field was safely delivered of four girls at a<supplied reason="copy blur">???</supplied>; <lb/>one of whom died the night following, the rest <lb/>likely to do well."</p>
+                <p>Saturday, at a tavern near the market, the <lb/>following specimen of gormandising was<supplied reason="copy blur">???</supplied> <lb/>ed :–A person, not for any bet, or without <lb/>any other inducement, than the craving of the <lb/>stomach,eat, at one meal, a shoulder of roast lamb, <lb/>3 slices of bacon, three quarters of a pound of <lb/>cheese, 15 large cucumbers, one half of an 8d <lb/>wheat loaf, a plate of cold potatoes, and drank <lb/>a quarter of cider.</p>
             </body>
         </text>
     </TEI>

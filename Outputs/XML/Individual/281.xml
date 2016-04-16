@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>281</title>
+                    <title n="281">281</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1839-07-25"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,12 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration to South Australia,</hi> –On Satur<lb break="no"/>day last, about twenty-five persons, male and female, <lb/>left this town and neighbourhood, under the direction <lb/>of Mr G. Rae, agent for her Majesty's Colonisation <lb/>Commissioners for South Australia, and sailed that <lb/>afternoon from Leith to London, to be there embarked <lb/>on board the Lloyds, and were to sail for their adopted <lb/>land on Thursday last. Their passage was paid by <lb/>the Commissioner from Leith to London.– <hi rend="italic">Stirling </hi>
-            <lb/>
-            <hi rend="italic">Observer.</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Emigration to South Australia,</hi> –On Satur<lb break="no"/>day last, about twenty-five persons, male and female, <lb/>left this town and neighbourhood, under the direction <lb/>of Mr G. Rae, agent for her Majesty's Colonisation <lb/>Commissioners for South Australia, and sailed that <lb/>afternoon from Leith to London, to be there embarked <lb/>on board the Lloyds, and were to sail for their adopted <lb/>land on Thursday last. Their passage was paid by <lb/>the Commissioner from Leith to London.– <hi rend="italic">Stirling </hi><lb/><hi rend="italic">Observer.</hi></p>
             </body>
         </text>
     </TEI>

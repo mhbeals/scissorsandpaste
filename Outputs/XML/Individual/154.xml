@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>154</title>
+                    <title n="154">154</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1819-10-11"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration to the Cape of Good Hope. </hi>
-            <lb/>( <hi rend="smallcaps">Official Circular</hi>.)</p>
+                <p><pb/><hi rend="smallcaps">Emigration to the Cape of Good Hope. </hi><lb/>( <hi rend="smallcaps">Official Circular</hi>.)</p>
                 <p>The following circular has been addressed to <lb/>the parties whose lists of the individuals engaged <lb/>to proceed with them as settlers to the Cape of <lb/>Good Hope have been approved of by the Co<lb break="no"/>lonial Department: –</p>
                 <p>Downing Street, London, 30th Sept. 1819.</p>
                 <p>Sir – I am directed by Earl Batburst to acquaint you, that <lb/>he has under consideration your letter of, and <lb/>that he accepts the proposal which you have mde, to take a <lb/>party of able bodied settlers, with their families, to the Cape <lb/>of Good Hope, where a grant of land will accordingly be as<lb break="no"/>signed to you on your arrival, in conformity with the regula<lb break="no"/>tions laid down by his Majesty's Government.</p>

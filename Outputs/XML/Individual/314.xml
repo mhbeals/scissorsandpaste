@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>314</title>
+                    <title n="314">314</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140928 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140928 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1790-11-01"/>
@@ -47,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>weather</item>
+                            <item n="weather">weather</item>
                             <item>Native Americans</item>
                         </list>
                     </keywords>
@@ -56,17 +52,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="3"/>
-            <hi rend="center">
-               <hi rend="italic">Kentucky, May,</hi>  19.<supplied reason="copy folded">17</supplied>90.</hi>
-         </p>
-                <p>We arrived safe at this place<supplied reason="copy folded">???</supplied> beginning of <lb/>April from Pittsburgh, and a<supplied reason="copy folded">dre</supplied>adful passage <lb/>we had of it. The waters of<supplied reason="copy folded">???</supplied> river Ohio, <lb/>which had risen rapidly since M<supplied reason="copy folded">arc</supplied>h, now pour<lb break="no"/>ed down in a perfect torrent;<supplied reason="copy folded">???</supplied> we were in as <lb/>much danger of foundering at<supplied reason="copy folded">???</supplied> rapids, as we <lb/>would have been in the middle<supplied reason="copy folded">t</supplied>he Atlantic in <lb/>a severe gale. We were frequen<supplied reason="copy folded">tl</supplied>y too, in the <lb/>most imminent danger of our li<supplied reason="copy folded">fe</supplied> from the limbs <lb/>of trees hanging just above the<supplied reason="copy folded">???</supplied>; and through <lb/>which we were often hurried<supplied reason="copy folded">???</supplied> rate of seven <lb/>miles an hour, but the impetuo<supplied reason="copy folded">???</supplied> of the stream. <lb/>If any of the canoes had been tangled among <lb/>these branches (which in many
-<supplied reason="copy folded">pl</supplied>aces hang very <lb/>thick over the river), they<supplied reason="copy blur">???</supplied> inevitably have <lb/>been overturned, and<supplied reason="copy blur">???</supplied>
-            <supplied reason="copy folded">???</supplied> buried in the <lb/>
-            <supplied reason="copy blur">???</supplied> of the Ohio; fortunately<supplied reason="copy blur">???</supplied> accident <lb/>happened to us.</p>
-                <p>Our apprehensions of drowning were equalled <lb/>by those of an attack from the
-<supplied reason="copy folded">In</supplied>dians, who in<lb break="no"/>fest the river, and who inhabit<supplied reason="copy folded">???</supplied> banks: Some <lb/>time ago they killed a Mr. W<supplied reason="copy folded">???</supplied> Browne, and a <lb/>Mr. Allison, who were return<supplied reason="copy folded">ing</supplied> to Lexington <lb/>from Miami. The barbaritie<supplied reason="copy folded">s th</supplied>ey commit are <lb/>wanton and inhuman to the l<supplied reason="copy folded">???</supplied> degree. On the <lb/>3d ult. they attacked a boat<supplied reason="copy folded">???</supplied> few miles from <lb/>Limestone, and killed three<supplied reason="copy folded">???</supplied>sons, two men <lb/>and a woman; a few days af<supplied reason="copy folded">ter</supplied> this they killed <lb/>two men on Licking river, a<supplied reason="copy folded">nd</supplied> took a boy pri<lb break="no"/>soner, and on their return at<supplied reason="copy folded">???</supplied>ed a boat below <lb/>the Scioto, as it came to sh<supplied reason="copy folded">???</supplied> and killed four <lb/>men, and took one man and t<supplied reason="copy folded">wo</supplied> women prisoners. <lb/>About three weeks ago they<supplied reason="copy folded">???</supplied>ed on a boat and <lb/>a canoe, above the Scioto,<supplied reason="copy folded">???</supplied> both sides of the <lb/>river at the same time, by<supplied reason="copy folded">wh</supplied>ich means they <lb/>killed two men; and in sho<supplied reason="copy folded">???</supplied> to such a degree <lb/>have they carried these inh<supplied reason="copy folded">???</supplied> practices, that <lb/>it is dangerous to stir from<supplied reason="copy folded">ho</supplied>me, but in large <lb/>parties, and properly prepar<supplied reason="copy folded">???</supplied> to receive them.</p>
+                <p><pb n="3"/><hi rend="center"><hi rend="italic">Kentucky, May,</hi>  19.<supplied reason="copy folded">17</supplied>90.</hi></p>
+                <p>We arrived safe at this place<supplied reason="copy folded">???</supplied> beginning of <lb/>April from Pittsburgh, and a<supplied reason="copy folded">dre</supplied>adful passage <lb/>we had of it. The waters of<supplied reason="copy folded">???</supplied> river Ohio, <lb/>which had risen rapidly since M<supplied reason="copy folded">arc</supplied>h, now pour<lb break="no"/>ed down in a perfect torrent;<supplied reason="copy folded">???</supplied> we were in as <lb/>much danger of foundering at<supplied reason="copy folded">???</supplied> rapids, as we <lb/>would have been in the middle<supplied reason="copy folded">t</supplied>he Atlantic in <lb/>a severe gale. We were frequen<supplied reason="copy folded">tl</supplied>y too, in the <lb/>most imminent danger of our li<supplied reason="copy folded">fe</supplied> from the limbs <lb/>of trees hanging just above the<supplied reason="copy folded">???</supplied>; and through <lb/>which we were often hurried<supplied reason="copy folded">???</supplied> rate of seven <lb/>miles an hour, but the impetuo<supplied reason="copy folded">???</supplied> of the stream. <lb/>If any of the canoes had been tangled among <lb/>these branches (which in many<supplied reason="copy folded">pl</supplied>aces hang very <lb/>thick over the river), they<supplied reason="copy blur">???</supplied> inevitably have <lb/>been overturned, and<supplied reason="copy blur">???</supplied><supplied reason="copy folded">???</supplied> buried in the <lb/><supplied reason="copy blur">???</supplied> of the Ohio; fortunately<supplied reason="copy blur">???</supplied> accident <lb/>happened to us.</p>
+                <p>Our apprehensions of drowning were equalled <lb/>by those of an attack from the<supplied reason="copy folded">In</supplied>dians, who in<lb break="no"/>fest the river, and who inhabit<supplied reason="copy folded">???</supplied> banks: Some <lb/>time ago they killed a Mr. W<supplied reason="copy folded">???</supplied> Browne, and a <lb/>Mr. Allison, who were return<supplied reason="copy folded">ing</supplied> to Lexington <lb/>from Miami. The barbaritie<supplied reason="copy folded">s th</supplied>ey commit are <lb/>wanton and inhuman to the l<supplied reason="copy folded">???</supplied> degree. On the <lb/>3d ult. they attacked a boat<supplied reason="copy folded">???</supplied> few miles from <lb/>Limestone, and killed three<supplied reason="copy folded">???</supplied>sons, two men <lb/>and a woman; a few days af<supplied reason="copy folded">ter</supplied> this they killed <lb/>two men on Licking river, a<supplied reason="copy folded">nd</supplied> took a boy pri<lb break="no"/>soner, and on their return at<supplied reason="copy folded">???</supplied>ed a boat below <lb/>the Scioto, as it came to sh<supplied reason="copy folded">???</supplied> and killed four <lb/>men, and took one man and t<supplied reason="copy folded">wo</supplied> women prisoners. <lb/>About three weeks ago they<supplied reason="copy folded">???</supplied>ed on a boat and <lb/>a canoe, above the Scioto,<supplied reason="copy folded">???</supplied> both sides of the <lb/>river at the same time, by<supplied reason="copy folded">wh</supplied>ich means they <lb/>killed two men; and in sho<supplied reason="copy folded">???</supplied> to such a degree <lb/>have they carried these inh<supplied reason="copy folded">???</supplied> practices, that <lb/>it is dangerous to stir from<supplied reason="copy folded">ho</supplied>me, but in large <lb/>parties, and properly prepar<supplied reason="copy folded">???</supplied> to receive them.</p>
             </body>
         </text>
     </TEI>

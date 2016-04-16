@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>309</title>
+                    <title n="309">309</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-12-29"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,12 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Another New Field for Emi </hi>
-            <lb/>
-            <hi rend="smallcaps">gration</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Another New Field for Emi </hi><lb/><hi rend="smallcaps">gration</hi></p>
                 <p>The <hi rend="italic">Falkland Islands</hi>  have been nominally a <lb/>British colony for some years; but, in conse<lb break="no"/>quence of representations made to Government by <lb/>various persons interested in the trade to the South <lb/>Seas, a plan has at least been drawn up for esta<lb break="no"/>blishing a body of settlers in these islands. It <lb/>was submitted to the late Ministers, who referred <lb/>it to the Commissioners of Emigration and the <lb/>Lords of the Admiralty, by both of whom it was <lb/>approved. Rules were prepared by the Com<lb break="no"/>missioners of Emigration ; a vote of t3750 was <lb/>put into the estimates for the first year's ex<lb break="no"/>pense, and, we suppose, passed. If steps have <lb/>not been taken already to send out emigrants, we <lb/>presume they will be taken about the beginning <lb/>of next winter, which is their summer.</p>
                 <p>These islands are about 300 miles from the <lb/>south extremity of the American continent, in a <lb/>latitude corresponding with that of London. <lb/>Their climate, however, very closely resembles <lb/>that of Shetland. They have cold summers and <lb/>mild winters. Snow seldom lies in them; but <lb/>owing to their humidity and want of sunshine, <lb/>and the stormy winds which blow almost con<lb break="no"/>stantly, wheat of barley could not be raised in <lb/>them, and even oats might turn out to be a pre<lb break="no"/>carious crop. It is doubted also if wood will <lb/>grow, and at present there is not a single tree in <lb/>the islands. Turnips and potatoes succeed well, <lb/>and there is an abundance of good grass, upon which <lb/>some thousands of black cattle, horses, and hogs, <lb/>thrive in the wild state, and sheep have been in<lb break="no"/>troduced and found to do well. Extensive peat<lb break="no"/>bogs exist, which will afford a sufficient supply of <lb/>fuel. The present population consists of twenty<lb break="no"/>five persons, young and old–one-half of them <lb/>British, the other Gauchos, South American In<lb break="no"/>dians of a semi-civilised description. They are <lb/>all stationed at Port-Louis, a fine natural har<lb break="no"/>bour, where a British officer resides.</p>
                 <p>The islands are numerous, but all very small <lb/>except two, whose area is estimated at 13,000 <lb/>square miles, or nearly half the extent of Scot<lb break="no"/>land. They are deeply perforated by arms of the <lb/>sea, and probably afford a greater number of fine <lb/>natural harbours than any country of equal ex<lb break="no"/>tent in the world. Their shores afford excellent <lb/>fish of many kinds, and seals are exceedingly <lb/>numerous.</p>

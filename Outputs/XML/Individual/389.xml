@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="389">389</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on <date when="2013-02-25">20130225</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-11-20">20151119</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-01-01"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh87004890">international trade</item>
+                            <item>colonial government</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+              <head><hi rend="center"><hi rend="italic">Sketch of business before the American Congress</hi>.</hi></head>
+                <p><pb n="6"/>Regulating the time and manner of adminis<lb break="no"/>tering oaths to the United States.</p>
+                <p>Import on goods and merchandizes imported <lb/>into the American States, from July 1789 to  <lb/>July 1798.</p>
+                <p><hi rend="italic">(Rhode Island Assembly have agreed to apply <lb/>the same duties, but to be under their own manage<lb break="no"/>ment.)</hi></p>
+                <p>Salaries of the President, Vice-president, Mem<lb break="no"/>bers of the Senate, and House of Representa<lb break="no"/>tives.</p>
+                <p>The Committee of the House of Representa<lb break="no"/>tives have proposed for the Resident 20,000 dol<lb break="no"/>lars annually, exclusive of the salaries of his Se<lb break="no"/>cretaries and aids, his household furniture, car<lb break="no"/>riages, horses, which is to be furnished by the <lb/>United States, with an annual sum for their sup<lb break="no"/>port and repair: The Vice-president 5,000 dol<lb break="no"/>lars. The Members of both Houses six dollars <lb/>per diem while sitting, and six dollars for every <lb/>20 miles going to and returning from the seat of <lb/>government.</p>
+                <p><hi rend="center"><hi rend="italic">Amending the new Constitution</hi></hi></p>
+                <p>The legislature of Virginia and New York re<lb break="no"/>quest the calling a Convention for revising and <lb/>amending the Constitution.</p>
+                <p>The making certain ports *ports of entry*, others <lb/><hi rend="italic">ports of discharge</hi>, and others <hi rend="italic">ports of</hi> both <hi rend="italic">entry </hi><lb/>and <hi rend="italic">discharge</hi>.</p>
+                <p>The granting encouragement to building of <lb/>vessels in the United States.</p>
+                <p><hi rend="center"><hi rend="italic">Oeconomy of the United States</hi>.</hi></p>
+                <p>The President is determined to pursue this sys<lb break="no"/>tem of œonomy and regularity in his household <lb/>which has always marked his public and private <lb/>life. As a proof of this the steward is obliged, <lb/>by his articles of agreement, to exhibit weekly un<lb break="no"/> <lb/>fair statement of the receipts and expenditure of <lb/>monies by him for and on account of the Presi<lb break="no"/><lb break="no"/>dent's household to such person as the President <lb/>may appoint to inspect the same, together with <lb/>the several bills and receipts for those articles pur<lb break="no"/><lb break="no"/>chased where receipts can be had. And it is <lb/>likewise strongly inculcated upon the Steward to <lb/>guard against any waste or extravagance that <lb/>might be committed by the servants of the fa<lb break="no"/>mily.</p>
+                <p>The Steward has put the following advertise<lb break="no"/>ment in the pbulic papers. "Whereas all ser<lb break="no"/>vants, and others, employed to procure provisions <lb/>or necessaries for the household of the President <lb/>of the United States will be furnished with mo<pb n="7" break="no"/>nies for these] purposes. Notice is therefore given, <lb/><supplied reason="copy missing">???</supplied> accounts, for which the public might be <lb/><supplied reason="copy missing">???</supplied> as responsible, are to be opened with <lb/><supplied reason="copy missing">???</supplied>m."</p>
+                <p><hi rend="center"><hi rend="italic">Piety of President Washington</hi></hi></p>
+                <p><supplied reason="copy missing">???</supplied> intimation, that a Great Personage <lb/><supplied reason="copy missing">???</supplied>pect visits on Sundays–has received <lb/><supplied reason="copy missing">???</supplied>e of all orders of citizens;–of the se<lb break="no"/><supplied reason="copy missing">???</supplied> their respect to a divine injunction; of <lb/><supplied reason="copy missing">???</supplied>nctioning a wife and political insti<lb break="no"/><supplied reason="copy missing">???</supplied></p>
+              </body>
+        </text>
+    </TEI>

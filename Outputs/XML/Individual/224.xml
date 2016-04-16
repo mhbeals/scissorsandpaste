@@ -1,29 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>224</title>
+                    <title n="224">224</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max
-Templer</persName>. Keyword tagged by <persName role="metadata">Bill Peschel</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription">MaxTempler</persName>. Keyword tagged by <persName role="metadata">Bill Peschel</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1832-03-03"/>
@@ -45,7 +43,7 @@ Templer</persName>. Keyword tagged by <persName role="metadata">Bill Peschel</pe
                 <textClass>
                     <keywords>
                         <list>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                             <item>shipping news</item>
                         </list>
                     </keywords>
@@ -54,10 +52,7 @@ Templer</persName>. Keyword tagged by <persName role="metadata">Bill Peschel</pe
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Leith</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Leith</hi></p>
                 <p>Extensive preparations are already begun amongst <lb/>e[?] shipping, for the various Spring voyages to distant <lb/>ports[?]. Six vessels are advertised for America, one for <lb/>Van Dieman's Land and New South Wales, and the <lb/>whalers[?] are unfurling their canvass, and will sail for the <lb/>[?] regions on Monday or Tuesday first. The depar<lb break="no"/>ture of these ships will give the docks a naked appea<lb break="no"/>rance, the more apparent from the few foreign vessels <lb/>present here.</p>
             </body>
         </text>

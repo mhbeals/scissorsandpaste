@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>293</title>
+                    <title n="293">293</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1840-08-12"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,16 +51,12 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Literature</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Literature</hi></p>
                 <p>Narrative of a Whaling Voyage Round <lb/>The Globe &amp;c. &amp;c By Frederick Debell <lb/>Bennett, Esq., F.R.G.S. 2 vols. London: <lb/>Richard Bentley.</p>
                 <p>We have been somewhat disappointed in these <lb/>volumes. We expected to have found them, like <lb/>Scoresby's, full of interesting details regarding <lb/>whale fishing, whereas, there is hardly a word on <lb/>the subject throughout the whole of the first vo<lb break="no"/>lume, and very little in the second ; in fact, what <lb/>there is, is confined to a sort of supplementary ap<lb break="no"/>pendix. This is the more strange, that one of the <lb/>chief purposes of the author, as he himself informs <lb/>us, in undertaking this voyage, was to investigate <lb/>the anatomy and habits of southern whales, and <lb/>the mode of conducting the sperm whale fishery, <lb/>subjects which, he remarks, were then untouched <lb/>by the literature of any country. Yet, in the <lb/>work itself, this chief purpose dwindles into one <lb/>of very secondary prominence. This, the readers <lb/>of the work, at least most of them, will the more <lb/>regret, on finding how very curious and interest<lb break="no"/>ing are the two or three chapters which the author <lb/>has given on the subject of South Sea whaling. <lb/>There are full of entertaining details of both a <lb/>popular and scientific character, and cannot be <lb/>read without exciting a wish that larger portion <lb/>of the work had been composed of such material.</p>
                 <p>In making these remarks, however, we are far <lb/>from intending to depreciate the sort of informa<lb break="no"/>tion, in the shape chiefly of sketches of the South <lb/>Sea Islands, to which the greater part of the vo<lb break="no"/>lumes are devoted ; we mean merely to say, that <lb/>it is not what we expected from the title of the <lb/>work, nor, we may add, what, for our own reading, <lb/>we should have preferred. Yet are these sketches <lb/>very amusing reading–full of graphic descriptions <lb/>and curious details of native character, which is <lb/>still found in the South Sea Islands in a state of <lb/>very primitive simplicity. "We have frequently <lb/>seen," says Mr Bennett, " amongst the congrega<lb break="no"/>gation assembled at Church (in Raiatea), a native <lb/>clothed in nothing but a shirt ; another with a <lb/>beaver hat surmounting a person naked except <lb/>the scanty maro ; and a third, whose whole attire <lb/>was a black coat, white neckerchief, and a shirt!"</p>
                 <p>We observe a rather odd circumstance noted <lb/>by Mr Bennett. He says that the " temperate <lb/>ships" of America are the principal purveyors of <lb/>ardent spirits to the natives of the South Sea <lb/>Islands, carrying large quantities of rum thither <lb/>for the purposes of traffic! This is placing the <lb/>temperance principle in a somewhat curious pre<lb break="no"/>dicament.</p>
-                <p>Another remark of the author's not less strik<lb break="no"/>ing–mark it well and take comfort from it ye <lb/>
-            <hi rend="italic">bon vivants[?]</hi>  of the civilzed world–is, that disease <lb/>is as abundant amongst the native islanders as <lb/>amongst the most refined of their species, and from <lb/>this concludes, that man in his savage state is as <lb/>liable to the " ills that flesh is heir to," as in his <lb/>civilised condition. Dr Johnson made a similar <lb/>remark regarding the Highlanders of Scotland ; <lb/>alleging that the London alderman lived as long <lb/>over his turtle feast, as the Highlander over his <lb/>paten cake. What degree of fellow-feeling with <lb/>civic dignitary and his good living, or whether <lb/>any, dictated this remark of the learned doctor, <lb/>we cannot say.</p>
+                <p>Another remark of the author's not less strik<lb break="no"/>ing–mark it well and take comfort from it ye <lb/><hi rend="italic">bon vivants[?]</hi>  of the civilzed world–is, that disease <lb/>is as abundant amongst the native islanders as <lb/>amongst the most refined of their species, and from <lb/>this concludes, that man in his savage state is as <lb/>liable to the " ills that flesh is heir to," as in his <lb/>civilised condition. Dr Johnson made a similar <lb/>remark regarding the Highlanders of Scotland ; <lb/>alleging that the London alderman lived as long <lb/>over his turtle feast, as the Highlander over his <lb/>paten cake. What degree of fellow-feeling with <lb/>civic dignitary and his good living, or whether <lb/>any, dictated this remark of the learned doctor, <lb/>we cannot say.</p>
                 <p>Mr Bennett's work is written with great ability, <lb/>and in style whose only fault is exhibited in a <lb/>tendency, occasionally, to the use of rather learned <lb/>phraseology.</p>
                 <p>We conclude with an extract from that portion <lb/>of the work which, from its great interest, we <lb/>regretted was not larger, but which, limited <lb/>as it is, is so full of curious information, and so <lb/>crowded with remarkable incident, as to render <lb/>the selection by no means an easy task.</p>
                 <p>"Some sperm whales appear reluctant to employ <lb/>their tail when attacked, but prove active and danger<lb break="no"/>ous with their jaws. Such individuals often rather seek <lb/>than avoid the attacking boats, and, rushing upon them <lb/>with open mouth, employ every possible art to crush <lb/>them with their teeth, and, if successful, will sometimes <lb/>continue in their neighbourhood, biting the wreck and <lb/>oars into small fragments. When thus threatening a <lb/>boat, the whale usually turns and swings upon its back, <lb/>and will sometimes act in a very sluggish and unac<lb break="no"/>countable manner, keeping its formidable lower jaw <lb/>suspended for some moments over the boat, in a threat<lb break="no"/>ening attitude, but ultimately rolling to one side, and <lb/>closing its mouth harmlessly ; nor is it rare to observe <lb/>this whale, when pursued and attacked, retain[?] its mouth <lb/>in an expanded state for some minutes together. Such <lb/>threatening demonstrations of the jaw, as well as some <lb/>others with the flukes, occasionally compel a boat's <lb/>crew to leap into the water, and support themselves <lb/>by swimming or clinging to oars until the danger has <lb/>passed.</p>

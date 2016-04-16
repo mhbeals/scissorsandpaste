@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>163</title>
+                    <title n="163">163</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-04-24"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Emigration</hi></p>
                 <p>Among the emigrants proceeding to seek ano<lb break="no"/>ther country on the shores of Southern Africa, <lb/>four vessels, containing above 600 souls, have <lb/>sailed from Liverpool, bound to the Cape of <lb/>Good Hope; three of them under the command <lb/>and direction of a naval officer, and one under <lb/>private superintendance. The public agent was <lb/>instructed to provide every accomodation which <lb/>could minister to the health or comfort of the fa<lb break="no"/>milies who were to embark</p>
                 <p>Thursday afternoon, the brig Alexander <lb/>sailed from Greenock with emigrants for Prince <lb/>Edward's island. This vessel had 85 pas<lb break="no"/>sengers on board, of which 17 were children.</p>
                 <p>On Friday the ship Alexander, Young, sailed <lb/>from Greenock for Quebec with 96 passengers.</p>

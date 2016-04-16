@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>158</title>
+                    <title n="158">158</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-01-13"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,9 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration to Canada</hi>.</p>
+                <p><pb/><hi rend="smallcaps">Emigration to Canada</hi>.</p>
                 <p>About ten days ago an emigrant arrived from <lb/>Canada, to Paisley, and brings very favourable <lb/>intelligence from that country. He is a native <lb/>of Scotland ; was some time in the army ; and <lb/>is going home again, as he calls it, early in the <lb/>spring. This person gives the most satisfactory <lb/>and cheering account of the place, and says his <lb/>chief complaint was the want of society to share <lb/>in his felicities, to be companion of his joys, and <lb/>to exult in his abundance. He adds that one of <lb/>his principal reasons for coming here at present <lb/>was hearing of our distressed condition, and <lb/>that he might be able to persuade others to follow his ex<lb break="no"/>ample ; anxious to be surrounded by happy, in<lb break="no"/>telligent, and social neighbours. His arrival and <lb/>narrations, combined with other circumstances, <lb/>have been the subject of considerable discussion <lb/>the whole of last week. A strong desire <lb/>for emigration has been manifested, and about <lb/>300 have already subscribed their names, as a <lb/>testimony of their ardour to go away. A peti<lb break="no"/>tion is immediately to be forwarded to his Ma<lb break="no"/>jesty's Ministers, imploring their assistance by <lb/>way of loan or donation, to enable them to carry <lb/>their wishes into execution. This petition, it is <lb/>said, is to be supported by the principal gentle<lb break="no"/>men of the county, and the utmost anxiety <lb/>will doubtless prevail concerning its success. – <lb/>Let us hope that Government will see the neces<lb break="no"/>sity of attending to the supplications of these <lb/>people. The Sheriff Depute has been memoriali<lb break="no"/>zed upon the subject, to give his counsel and sup<lb break="no"/>port in behalf of the measure, and it is much to <lb/>his honour that he has evinced a great disposition <lb/>to favour the object in view. His office has <lb/>been appointed for the reception of signatures, <lb/>where the persons experience the greatest kind<lb break="no"/>ness in every possible way. It is proper, at the <lb/>same time, to mention, that a number who were <lb/>wishing to subscribe as desirous to emigrate, have <lb/>been rejected ; as their circumstances were not <lb/>of that despairing nature as to warrant an inter<lb break="no"/>position of this kind in their favour. It cannot <lb/>be expected that those who enjoy a considerable <lb/>degree of comfort at home, or who have sufficient <lb/>means of their own to emigrate without public <lb/>aid, ought to be included among that number des<lb break="no"/>tined to participate in this salutary and benevo<lb break="no"/>lent proposition. Some of the fiercer radicals, with <lb/>their accustomed zeal and spleen, are busily em<lb break="no"/>ployed in jeering and deprecating the idea of <lb/>emigration and telling the " people to stay and <lb/>help" in the recovery of their rights. They de<lb break="no"/>clare the whole scheme to be a mere farce, in<lb break="no"/>tended to be played against them, in order to <lb/>destroy the unanimity which they say exists in <lb/>the nation concerning their grand object. These <lb/>querulous politicians complain of the climate of <lb/>Canada, and it must be granted that it resembles <lb/>Italy more than Scotland, being hotter in sum<lb break="no"/>mer and coller in winter than our own island <lb/>but the country is healthy, the soil is fruitful <lb/>and strong constitutions and longevity are as <lb/>common there as in any other part of the globe. <lb/>The same manners, language, and regulations <lb/>prevail in Upper Canada as in Scotland, and <lb/>when people have plenty of provisions, fuel and <lb/>warm clothing to resist the effects of heavy snows <lb/>and intense frosts, the objection of cold is less <lb/>worthy of consideration. – <hi rend="italic">Glasgow Chronicle</hi>.</p>
             </body>
         </text>

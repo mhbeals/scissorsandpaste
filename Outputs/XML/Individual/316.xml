@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>316</title>
+                    <title n="316">316</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 201300601 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141002 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 201300601 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141002 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1793-01-07"/>
@@ -48,7 +44,7 @@
                     <keywords>
                         <list>
                             <item>Native Americans</item>
-                            <item>war</item>
+                            <item n="war">war</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -56,13 +52,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="5"/>
-            <hi rend="center">
-               <hi rend="italic">MONDAY</hi>, J <hi rend="smallcaps">AN</hi>. 7. </hi>
-            <lb/>By the Fanny, Capt. Bryen, arrived in twenty <lb/>four days from New York, we have American <lb/>papers, of which we give the following important <lb/>intelligence:–</p>
-                <p>It is an undoubted truth, (Strange as it may <lb/>appear) that the Baron D'Carondolet, Governor <lb/>of Louisiana, and Governor O'Neal, of Pensaco<lb break="no"/> 
-            <lb/>la, have opened the shores of the King of Spain, <lb/>in West-Florida, to the Creeks and Cherokees, <lb/>and delivered them arms and ammunition in abun<lb break="no"/>dance, advising and stimulating them to go to <lb/>war against the frontier inhabitants of the United <lb/>States, and that quickly, that now or never was <lb/>the time, while the United States were engaged <lb/>with the northern tribes.</p>
+                <p><pb n="5"/><hi rend="center"><hi rend="italic">MONDAY</hi>, J <hi rend="smallcaps">AN</hi>. 7. </hi><lb/>By the Fanny, Capt. Bryen, arrived in twenty <lb/>four days from New York, we have American <lb/>papers, of which we give the following important <lb/>intelligence:–</p>
+                <p>It is an undoubted truth, (Strange as it may <lb/>appear) that the Baron D'Carondolet, Governor <lb/>of Louisiana, and Governor O'Neal, of Pensaco<lb break="no"/> <lb/>la, have opened the shores of the King of Spain, <lb/>in West-Florida, to the Creeks and Cherokees, <lb/>and delivered them arms and ammunition in abun<lb break="no"/>dance, advising and stimulating them to go to <lb/>war against the frontier inhabitants of the United <lb/>States, and that quickly, that now or never was <lb/>the time, while the United States were engaged <lb/>with the northern tribes.</p>
                 <p>On the 30th of September, about midnight <lb/>John Buchanan's station, four miles south of Nash<lb break="no"/>ville,) at which sundry families had collected, and <lb/>fifteen gunmen) was attacked by a part of <lb/>Creeks and Lower Cherokees, supposed to con<lb break="no"/>sist of three of our hundred. Their approach <lb/>was suspected by the running of cattle, that had <lb/>taken fright at them, and upon examination, they <lb/>were found rapidly advancing within ten yards of <lb/>the gate, and from the place and distance they <lb/>received the first fire from the man who discover<lb break="no"/>ed them John M'Rocy. They immediately re<lb break="no"/>turned the fire, and continued a very heavy and <lb/>constant firing upon the station, blockhouses sur<lb break="no"/>rounded with a stockade for an hour, and were re<lb break="no"/>pulsed with considerable loss, without injuring <lb/>man, woman, or child, in the station.</p>
                 <p>During the whole time of the attack, the In<lb break="no"/>dians were never more distant than ten yards from <lb/>the Block House, and often in large numbers <lb/>close round the lower walls, attempting to put <lb/>fire to it. One ascended the roof with a torch, <lb/>where he was shot, and falling to the ground, re<lb break="no"/>newed his attempts to fire the bottom logs, and <lb/>was killed. The Indians fired 30 balls through <lb/>a port hole of the over<supplied reason="copy blur">???</supplied>ing, which lodged in <lb/>the roof in the circumference of the bat, and those <lb/>sticking in the walls on the outside are innume<lb break="no"/>rable.</p>
                 <p>Undoubted advices have been received that as <lb/>early at the 18th of September, as many as 500 <lb/>Creeks passed the Tennessee, and the lower Chero<lb break="no"/>kee towns, and below, as on their way they de<lb break="no"/>cared to make war on Cumberland–and that they <lb/>were joined by about 100 Cherokees of those <lb/>towns.–This must have been the party that attack<lb break="no"/>ed Buchanan's station. Dreadful havoc was ex<lb break="no"/>pected, but it is now hoped, that the check they <lb/>have received will induce them to return without <lb/>making further attempts upon that settlement.</p>

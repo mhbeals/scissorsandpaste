@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="388">388</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on <date when="2013-06-22">20130622</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-11-20">20151119</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-09-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="composite"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="single" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh87004890">international trade</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="slavery">slavery</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+              <head><hi rend="italic">Extract of a letter from Philadelphia, July</hi> 10.</head>
+                <p><pb n="6"/>"From some late communications it is evident, <lb/>that as much sugar may be made on the new lands <lb/>in the States of New-York and Pennsylvania as <lb/>will supply the whole United States, and perhaps <lb/>in a little time furnish an article of exportation. <lb/>The profits of the manufactory of sugar, when <lb/>made by private families, will be greater than <lb/>when made by large works. A boiler, which will <lb/>cost only 16s. will be the whole expence that will <lb/>be necessary to carry on this business, and the <lb/>sugar may be made at a season of the year when <lb/>no work can be done upon a farm. The price of <lb/>it, when sent to Philadelphia, will be twice as high <lb/>as the same quantity of wheat.  The sugar trees <lb/>may be made to yield their juice without being <lb/>injured, and when they decay, fresh ones may easily <lb/>be cultivated in the soil upon which they now <lb/>grow. When we consider the value of sugar, its <lb/>general and wholesome use in diet, and above all, <lb/>that it has hitherto been obtained at the price of <lb/>the lives and liberty of our African brethren, we <lb/>cannot help congratulating our fellow citizens <lb/>upon the prospect of manufactories of that article <lb/>being established among us, whereby immense sums <lb/>of money will be saved to our country, and, what <lb/>is more, our country freed from the guilt of en<lb break="no"/>couraging the detestable traffic in human crea<lb break="no"/>tures.</p>
+                <p>"Several hundred sugar-kettles, we hear, are <lb/>now making in New Jersey, for the use of the <lb/>the New England settlers of the Susquehannahand Delaware."</p>
+            </body>
+        </text>
+    </TEI>

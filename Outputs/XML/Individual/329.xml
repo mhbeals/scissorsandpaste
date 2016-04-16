@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>329</title>
+                    <title n="329">329</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-01-31"/>
@@ -47,9 +43,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
+                            <item n="sh87004890">international trade</item>
                             <item>Native Americans</item>
-                            <item>crime</item>
+                            <item n="crime">crime</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -57,19 +53,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="4"/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Boston, New England</hi>, </hi>
-            <lb/>
-            <hi rend="center">
-               <hi rend="italic">Dec</hi>. 11.</hi>
-         </p>
+                <p><pb n="4"/><hi rend="center"><hi rend="italic">Extract of a letter from Boston, New England</hi>, </hi><lb/><hi rend="center"><hi rend="italic">Dec</hi>. 11.</hi></p>
                 <p>"The demands for the produce of America <lb/>are most rapidly increasing: one single house has <lb/>actuallyexported and sold, within a very short <lb/>time, 2000 barrels of pot and pear ashes, 2000 <lb/>barrels of beef, 500 ditto of pork, 70,000lb. <lb/>weight of butter, and 1500 bushels of bean and <lb/>peas.</p>
                 <p>"Our news from New York is very disagree<lb break="no"/>able indeed. Gen. Scott, Major Fountain, Ma<lb break="no"/>jor Willis, Capt. M'Murtry, and Lieut. Forting<lb break="no"/>ham, have all fallen sacrifices to the Indians, af<lb break="no"/>ter a terrible conflict on the banks of a river; <pb n="5"/> there were such numbers of the Indians killed,and <lb/>thrown into the river, that their dead bodies ac<lb break="no"/>tually stopped the current of it.</p>
-                <p>
-            <hi rend="center">"The frost is very intense at New York"</hi>
-         </p>
+                <p><hi rend="center">"The frost is very intense at New York"</hi></p>
                 <p>During the late gales of wind, the smugglers <lb/>have been uncommonly active on all the coasts of <lb/>the kingdom. The risk of their lives secured their <lb/>property–for the Custon-house boats were afraid <lb/>to follow them.</p>
                 <p>From many parts of the country we have re<lb break="no"/>ceived accounts of the land being entirely flooded <lb/>by the late heavy rains.</p>
                 <p>A prisoner who was tried last week <lb/>try town sessions, for stealing iron, being acquitted <lb/>by the Jury, addressed them in the following <lb/>words: "Gentlemen, I most sincerely thank you <lb/>for your lenity, and promise never to be <hi rend="italic">guilty</hi>  of <lb/>the like offence <hi rend="italic">again</hi>."</p>

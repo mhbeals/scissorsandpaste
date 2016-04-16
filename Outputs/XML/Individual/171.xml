@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>171</title>
+                    <title n="171">171</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-07-19"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,26 +51,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration</hi>.</p>
-                <p>We extract the following statement from the <hi rend="italic">Montreal </hi>
-            <lb/>
-            <hi rend="italic">Herald</hi>  and an important one it is, to those who are <lb/>desirous of emigrating, as well as to those, who, from <lb/>patriotic motives, would wish to turn the tide of emi<lb break="no"/>gration into a channel which, while it relieve the mo<lb break="no"/>ther country now, may hereafter add to her strength <lb/>and resources :</p>
-                <p>
-            <hi rend="italic">Number of British subjects that emigrated to the United </hi>
-            <lb/>
-            <hi rend="italic">States, who received recommendations for grants of </hi>
-            <lb/>
-            <hi rend="italic">land, and removed to the province of Upper Canada, </hi>
-            <lb/>
-            <hi rend="italic">from James Buchanan, Esq. his Majesty's Consul at </hi>
-            <lb/>
-            <hi rend="italic">New York, in the year 1819</hi> : –</p>
-                <p>
-            <hi rend="italic">English</hi>  { Farmers..... 180 Women..... 118 Children..... 157 Mechanics..... 117 Women..... 57 Children..... 92 } 1021 <lb/>
-            <hi rend="italic">Scotch</hi>  { Farmers..... 50 Women..... 11 Children..... 15 Mechanics..... 30 Women..... 9 Children..... 36 } 131 <lb/>
-            <hi rend="italic">Irish</hi>  { Farmers..... 184 Women..... 94 Children..... 319 Mechanics..... 75 Women..... 42 Children..... 98 } 810 <lb/>Total.........1962</p>
+                <p><pb/><hi rend="smallcaps">Emigration</hi>.</p>
+                <p>We extract the following statement from the <hi rend="italic">Montreal </hi><lb/><hi rend="italic">Herald</hi>  and an important one it is, to those who are <lb/>desirous of emigrating, as well as to those, who, from <lb/>patriotic motives, would wish to turn the tide of emi<lb break="no"/>gration into a channel which, while it relieve the mo<lb break="no"/>ther country now, may hereafter add to her strength <lb/>and resources :</p>
+                <p><hi rend="italic">Number of British subjects that emigrated to the United </hi><lb/><hi rend="italic">States, who received recommendations for grants of </hi><lb/><hi rend="italic">land, and removed to the province of Upper Canada, </hi><lb/><hi rend="italic">from James Buchanan, Esq. his Majesty's Consul at </hi><lb/><hi rend="italic">New York, in the year 1819</hi> : –</p>
+                <p><hi rend="italic">English</hi>  { Farmers..... 180 Women..... 118 Children..... 157 Mechanics..... 117 Women..... 57 Children..... 92 } 1021 <lb/><hi rend="italic">Scotch</hi>  { Farmers..... 50 Women..... 11 Children..... 15 Mechanics..... 30 Women..... 9 Children..... 36 } 131 <lb/><hi rend="italic">Irish</hi>  { Farmers..... 184 Women..... 94 Children..... 319 Mechanics..... 75 Women..... 42 Children..... 98 } 810 <lb/>Total.........1962</p>
                 <p>We cannot give publicity to the above return, with<lb break="no"/>out observing how eminently calculated such a docu<lb break="no"/>ment is, to open the eyes of our too credulous, yet in<lb break="no"/>dustrious and loyal countrymen ; many of whom are <lb/>still disposed to look to the United Statesm, as the abode <lb/>of independence and the source of affluence. Here we <lb/>see nearly 2000 British subjects, who, in one season, <lb/>through the agency alone of one of our Consuls(with<lb break="no"/>outany pecuniary aid), have removed from the United <lb/>States to Upper Canada. Their trieal and failure in <lb/>the former, as well as the trial and failure of the great <lb/>numbers who have returned to this country, are circum<lb break="no"/>stances well calculated to direct the attention of those <lb/>who have emigration in view, at once to Upper Cana<lb break="no"/>da. We have made enquiry about these hitherto un<lb break="no"/>known, but truly fertile regions ; and we are informed <lb/>from a most authentic and satisfactory source, that there <lb/>there are unlocated lands, fertile beyond the conception of <lb/>those who have not seen them, capable of receiving ten <lb/>millions of inhabitants ; that the winters are not so <lb/>cold, nor the summers so hot, as in the State of New <lb/>York ; that these regions have proved eminently healthy <lb/>to the vast numbers that have poured into them of late <lb/>years ; and that the administration of the laws, the <lb/>state of education and religious instruction, and above <lb/>all, the peace and quiet of the inhabitants have found there, <lb/>have exceed their most sanguine expectations.</p>
                 <p>It may be desirable to state, that grown persons can get <lb/>by water from Quebec to York, the capital of Upper <lb/>Canada, for about 28s ; children, half price ; that to <lb/>all persons properly recommended as to good conduct, <lb/>a grant of land is given according to their means of <lb/>cultivation ; that this grant becomes their own for ever, <lb/>and they may dispose of it as they please.</p>
             </body>

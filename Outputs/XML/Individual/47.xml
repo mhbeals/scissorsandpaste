@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>47</title>
+                    <title n="47">47</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-18"/>
@@ -53,8 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Governor Philips describes Port Jackson, which <lb/>is only about nine miles to the Northward of <lb/>Botany Bay in South Wales, on the Coast of <lb/>Holland, as one of the finest harbours in the <lb/>world, in which 1000 sail of the line might ride <lb/>in perfect security. Sydney cove, named so in <lb/>honour of Lord Sydney, the Governor chose in <lb/>preference, which is about hal a mile in length, <lb/>and a quarter of a mile across at the entrance. <lb/>Here was the finest spring water, and ships can <lb/>anchor so close in short, that at a very small expence <lb/>quays may be constructed, at which the largest <lb/>vessels may constantly unload. His meeting with <lb/>the natives here was friendly and uninterrupted. <lb/>The appearance of the place was picturesque and <lb/>pleasing, and it afforded an ample harvest for <lb/>botanical acquisitions.</p>
+                <p><pb/>Governor Philips describes Port Jackson, which <lb/>is only about nine miles to the Northward of <lb/>Botany Bay in South Wales, on the Coast of <lb/>Holland, as one of the finest harbours in the <lb/>world, in which 1000 sail of the line might ride <lb/>in perfect security. Sydney cove, named so in <lb/>honour of Lord Sydney, the Governor chose in <lb/>preference, which is about hal a mile in length, <lb/>and a quarter of a mile across at the entrance. <lb/>Here was the finest spring water, and ships can <lb/>anchor so close in short, that at a very small expence <lb/>quays may be constructed, at which the largest <lb/>vessels may constantly unload. His meeting with <lb/>the natives here was friendly and uninterrupted. <lb/>The appearance of the place was picturesque and <lb/>pleasing, and it afforded an ample harvest for <lb/>botanical acquisitions.</p>
             </body>
         </text>
     </TEI>

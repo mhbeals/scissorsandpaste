@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>215</title>
+                    <title n="215">215</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1829-11-04"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,9 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="italic">Swan River.</hi> –The ship Warrior, Stone, command<lb break="no"/>er, bound to Swan River, Sydney, and the East Indies, <lb/>sailed for her destination on Friday, from Portsmouth, <lb/>with prospects of favourable weather in her progress <lb/>down the Channel. The Warrior is a fine vessel of <lb/>about 700 tons burden, and carried out upwards of 250 <lb/>passengers to the new settlement. Several of the pas<lb break="no"/>sengers are persons of independent fortune, who have <lb/>embarked considerable property in the speculation ; and <lb/>and two ofthem, named Byrne and Molloy, paid the <lb/>enormous sum of L1,000 for the best accommodation <lb/>the vessel could afford their families and suite. Six <lb/>pianos are on board the Warrior, and a proportionate <lb/>number of fair and accomplished vocalists and musicians <lb/>of course accompany the instruments to their destina<lb break="no"/>tion. The Warrior has also on board fifty dogs of the <lb/>choicest breed, several pens of sheep, considerable <lb/>number of swine, two milch cows, and three valuable <lb/>horses ; but, as tempestuous weather may be antici<lb break="no"/>pated on the vessel reaching the Bay of Biscay, appre<lb break="no"/>hensions are entertained that a portion of the live cargo <lb/>must be consigned to the ocean before the termination <lb/>of the voyage. It is calculated that, from the advan<lb break="no"/>tageous arrangements entered into by the commander <lb/>and a gentleman named Semple, who has chartered the <lb/>Warrior, and gone out in her, they will clear the enor<lb break="no"/>mous sum of L10,000 by the voyage.</p>
+                <p><pb/><hi rend="italic">Swan River.</hi> –The ship Warrior, Stone, command<lb break="no"/>er, bound to Swan River, Sydney, and the East Indies, <lb/>sailed for her destination on Friday, from Portsmouth, <lb/>with prospects of favourable weather in her progress <lb/>down the Channel. The Warrior is a fine vessel of <lb/>about 700 tons burden, and carried out upwards of 250 <lb/>passengers to the new settlement. Several of the pas<lb break="no"/>sengers are persons of independent fortune, who have <lb/>embarked considerable property in the speculation ; and <lb/>and two ofthem, named Byrne and Molloy, paid the <lb/>enormous sum of L1,000 for the best accommodation <lb/>the vessel could afford their families and suite. Six <lb/>pianos are on board the Warrior, and a proportionate <lb/>number of fair and accomplished vocalists and musicians <lb/>of course accompany the instruments to their destina<lb break="no"/>tion. The Warrior has also on board fifty dogs of the <lb/>choicest breed, several pens of sheep, considerable <lb/>number of swine, two milch cows, and three valuable <lb/>horses ; but, as tempestuous weather may be antici<lb break="no"/>pated on the vessel reaching the Bay of Biscay, appre<lb break="no"/>hensions are entertained that a portion of the live cargo <lb/>must be consigned to the ocean before the termination <lb/>of the voyage. It is calculated that, from the advan<lb break="no"/>tageous arrangements entered into by the commander <lb/>and a gentleman named Semple, who has chartered the <lb/>Warrior, and gone out in her, they will clear the enor<lb break="no"/>mous sum of L10,000 by the voyage.</p>
             </body>
         </text>
     </TEI>

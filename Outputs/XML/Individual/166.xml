@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>166</title>
+                    <title n="166">166</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-06-17"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Canada</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Canada</hi></p>
                 <p>The following is an extract of a private letter <lb/>dated</p>
                 <p>"Halifax, May 22 <lb/>"At two o'clock this day the Earl of Dal<lb break="no"/>housie, Captain-General and Governor-in-Chief <lb/>of British North America, attended by the Ad<lb break="no"/>miral, his Majesty's Council, the staff, naval and <lb/>military officers, and the principal people of the <lb/>place, attended to lay the first stone of a new <lb/>college, to be erected at the north end of the <lb/>grand parade. The whole of the freemasons of <lb/>Halifax went in grand procession. They formed <lb/>in lodges at their hall, and, preceded by a military <lb/>band, and followed by another, they marched to <lb/>the places prepared for them on the building.</p>
                 <p>"His Lordship came on the scaffolding at <lb/>two o'clock, the grenadiers of the 62d regiment <lb/>being his guard of honour. Detachments from <lb/>each regiment kept the ground.</p>
@@ -64,11 +60,8 @@
                 <p>The day was beautiful, and a greater as<lb break="no"/>semblage of people was never witnessed in Hali<lb break="no"/>fax.</p>
                 <p>"The Countess of Dalhousie and her two sons, <lb/>Mrs Admiral Griffith and the Misses Wilson, and <lb/>most of the fashionable ladies here witnessed the <lb/>ceremony from a convenient scaffolding prepa<lb break="no"/>red for them.</p>
                 <p>"Lord Dalhousie purposes to leave Halifax <lb/>for Quebec in his Majesty's ship Newcastle, on <lb/>the 1st of June, without waiting for Sir James <lb/>Kempt."</p>
-                <p>
-            <hi rend="smallcaps">Court of Chancery</hi> –June 10.</p>
-                <p>
-            <hi rend="smallcaps">Will of the Late Duke of Queensberry </hi>
-            <lb/>Mr Head stated, that he had to present a petition from <lb/>the annuitants and legates of the late Duke of Queens<lb break="no"/>berry, praying that a fourth more of their claims might be <lb/>paid, there now being sufficient funds in the hands of the <lb/>Accountant-General for that purposes. The Learned Coun<lb break="no"/>sel said, that there was no less a sum than L.1,400,000 <lb/>accumulated and vested in the name of this officer, in <lb/>Bank stock, for the benefit of the claimants, and he un<lb break="no"/>derstood it was not intended to oppose the application, al<lb break="no"/>though the executors did not say they would give their <lb/>consent to it. Some consultation had been had on the <lb/>subject out of doors ; he therefore prayed that the prayer <lb/>of the petition should be granted.</p>
+                <p><hi rend="smallcaps">Court of Chancery</hi> –June 10.</p>
+                <p><hi rend="smallcaps">Will of the Late Duke of Queensberry </hi><lb/>Mr Head stated, that he had to present a petition from <lb/>the annuitants and legates of the late Duke of Queens<lb break="no"/>berry, praying that a fourth more of their claims might be <lb/>paid, there now being sufficient funds in the hands of the <lb/>Accountant-General for that purposes. The Learned Coun<lb break="no"/>sel said, that there was no less a sum than L.1,400,000 <lb/>accumulated and vested in the name of this officer, in <lb/>Bank stock, for the benefit of the claimants, and he un<lb break="no"/>derstood it was not intended to oppose the application, al<lb break="no"/>though the executors did not say they would give their <lb/>consent to it. Some consultation had been had on the <lb/>subject out of doors ; he therefore prayed that the prayer <lb/>of the petition should be granted.</p>
                 <p>The Attorney-General said, he had not received any in<lb break="no"/>structions, nor had he been consulted.</p>
                 <p>The several King's counsel in Court spoke in behalf of <lb/>their respective clients.</p>
                 <p>Mr Wingfield appeared for the Earl of Yarmouth, and <lb/>said his Lordship was anxious that the business should be <lb/>put in a train of settlement.</p>

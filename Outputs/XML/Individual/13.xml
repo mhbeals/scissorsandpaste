@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>13</title>
+                    <title n="13">13</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-08-28"/>
@@ -46,7 +45,7 @@
                         <list>
                             <item>national characteristics</item>
                             <item>settlement description</item>
-                            <item>wages</item>
+                            <item n="wages">wages</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -54,12 +53,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="7"/>
-            <hi rend="italic">Extract of a letter form Philadelphia, dated 25th  <lb/>May, 1789.</hi>
-         </p>
+                <p><pb n="7"/><hi rend="italic">Extract of a letter form Philadelphia, dated 25th  <lb/>May, 1789.</hi></p>
                 <p>"I have travelled through several of the States <lb/>and see no appearance of the poverty which you <lb/>hear so much boast of in Britain–every where I <lb/>meet rather with extravagance. Indeed they <lb/>procure too easily to be frugal in their out-givings. <lb/>All the manufactured goods imported from Eu<lb break="no"/>rope are from Britain, and they cannot have goods <lb/>equal in quality and price from any other place.</p>
-                <p>"I think I never say so many children as are in <lb/>this country, every town, village, and farm-house, <lb/>are full of them.–The people of this country in<lb break="no"/>crease like rabbits: It is supposed they double <lb/>their numbers every fifteen years; but I should <lb/>think they do it in a shorter period.–What a <lb/>grand prospect for the sale of British goods, for <lb/>when so many hundreds of millions of acres of <lb/>land lye [sic] idle to be granted or purchased at a <lb/>small price, the people of this country never will <lb/>manufacture ; At present wages are high, and <lb/>1000 acres of land in the back settlements may <lb/>be purchased for as many [pence?]."</p>
+                <p>"I think I never say so many children as are in <lb/>this country, every town, village, and farm-house, <lb/>are full of them.–The people of this country in<lb break="no"/>crease like rabbits: It is supposed they double <lb/>their numbers every fifteen years; but I should <lb/>think they do it in a shorter period.–What a <lb/>grand prospect for the sale of British goods, for <lb/>when so many hundreds of millions of acres of <lb/>land lye idle to be granted or purchased at a <lb/>small price, the people of this country never will <lb/>manufacture ; At present wages are high, and <lb/>1000 acres of land in the back settlements may <lb/>be purchased for as many <supplied reason="copy blur">pence</supplied>?."</p>
             </body>
         </text>
     </TEI>

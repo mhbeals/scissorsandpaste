@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>132</title>
+                    <title n="132">132</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-02-28"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,21 +51,11 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Convicts destined for Botany Bay.</hi> –It is now seven <lb/>weeks since the ten Derby convicts were sent off with several <lb/>others, whose destination for the rest of their lives is Botany <lb/>Bay. They were, upon landing at Sheerness from the Retri<lb break="no"/>bution, put on board the Tottenham, which was engaged to <lb/>land them at their place of punishment. The number on <lb/>board that ship, on leaving Sheerness, was between 2 to 300, <lb/>many of whom were diseased and infirm. Their condition has <lb/>been rendered most intolerable from an unaccountable delay <lb/>that has taken place. The ship Tottenham had not proceed<lb break="no"/>ed farther than the Downs when she lost her rudder, by some <lb/>accident or other. She returned to Sheerness, where she now <lb/>lies, and where she is likely to lie for some time, upon the pre<lb break="no"/>tence that the loss she has sustained is a justification for delay, <lb/>however protracted. The unfortunate inmates have been led <lb/>to expect that some important mitigation of their sentence has <lb/>taken place ;–so that between the suspense, and the terrible <lb/>species of confinement to which they are subject, their suffer<lb break="no"/> 
-            <lb/>ings are hardto be described.– <hi rend="italic">Observer.</hi>
-         </p>
-                <p>
-            <hi rend="smallcaps">The Hon. Lieut.-Colonel Erskine.</hi> –It is with the great<lb break="no"/>est concern we have to mentioned the death of Lieut.-Colonel <lb/>
-            <hi rend="smallcaps">Erskine,</hi>  Lord <hi rend="smallcaps">Erskine's</hi>  youngest son, on his passage to <lb/>Ceylon. He served throughout the campaigns in Spain as <lb/>a Captain of Light Infantry in the 51st regiment, and be<lb break="no"/>haved with great gallantry in the battle of the Pyrenees, <lb/>where being shot in the thigh he was sent home by the Medi<lb break="no"/>cal Board, and on his recovery was placed by the Duke of <lb/>
-            <hi rend="smallcaps">York</hi>  on the Staff of the Army in the Adjutant-General's <lb/>Department when the Duke of <hi rend="smallcaps">Wellington</hi>  took the com<lb break="no"/>mand in Flanders. He was in the battle of the 16th of June, <lb/>and afterwards on the 18th at the battle of Waterloo, where <lb/>his station placed him in the dangerous position of being at<lb break="no"/>tendant on the Duke, around whom almost every officer was <lb/>either killed or wounded. Amongst the rest this brave young <lb/>man had his left arm carried off by a cannon-ball, which pass<lb break="no"/>ing along the other laid bare the whole of it, by which he lost <lb/>the use of two of his fingers, but that arm was saved. When <lb/>the cannon-shot had thrown him from his horse, and as he lay <lb/>bleeding upon the groun in this mangled condition, the Prus<lb break="no"/>sian musketry and trumpets being heard at a distance, he sei<lb break="no"/>zed his hat with his remaining shattered arm. and waving it <lb/>round him cheered his companions in the midst of the dying <lb/>and the dead, the Duke of <hi rend="smallcaps">Wellington</hi>  being then close by <lb/>him who desired he might carried to his tent.</p>
+                <p><pb/><hi rend="smallcaps">Convicts destined for Botany Bay.</hi> –It is now seven <lb/>weeks since the ten Derby convicts were sent off with several <lb/>others, whose destination for the rest of their lives is Botany <lb/>Bay. They were, upon landing at Sheerness from the Retri<lb break="no"/>bution, put on board the Tottenham, which was engaged to <lb/>land them at their place of punishment. The number on <lb/>board that ship, on leaving Sheerness, was between 2 to 300, <lb/>many of whom were diseased and infirm. Their condition has <lb/>been rendered most intolerable from an unaccountable delay <lb/>that has taken place. The ship Tottenham had not proceed<lb break="no"/>ed farther than the Downs when she lost her rudder, by some <lb/>accident or other. She returned to Sheerness, where she now <lb/>lies, and where she is likely to lie for some time, upon the pre<lb break="no"/>tence that the loss she has sustained is a justification for delay, <lb/>however protracted. The unfortunate inmates have been led <lb/>to expect that some important mitigation of their sentence has <lb/>taken place ;–so that between the suspense, and the terrible <lb/>species of confinement to which they are subject, their suffer<lb break="no"/> <lb/>ings are hardto be described.– <hi rend="italic">Observer.</hi></p>
+                <p><hi rend="smallcaps">The Hon. Lieut.-Colonel Erskine.</hi> –It is with the great<lb break="no"/>est concern we have to mentioned the death of Lieut.-Colonel <lb/><hi rend="smallcaps">Erskine,</hi>  Lord <hi rend="smallcaps">Erskine's</hi>  youngest son, on his passage to <lb/>Ceylon. He served throughout the campaigns in Spain as <lb/>a Captain of Light Infantry in the 51st regiment, and be<lb break="no"/>haved with great gallantry in the battle of the Pyrenees, <lb/>where being shot in the thigh he was sent home by the Medi<lb break="no"/>cal Board, and on his recovery was placed by the Duke of <lb/><hi rend="smallcaps">York</hi>  on the Staff of the Army in the Adjutant-General's <lb/>Department when the Duke of <hi rend="smallcaps">Wellington</hi>  took the com<lb break="no"/>mand in Flanders. He was in the battle of the 16th of June, <lb/>and afterwards on the 18th at the battle of Waterloo, where <lb/>his station placed him in the dangerous position of being at<lb break="no"/>tendant on the Duke, around whom almost every officer was <lb/>either killed or wounded. Amongst the rest this brave young <lb/>man had his left arm carried off by a cannon-ball, which pass<lb break="no"/>ing along the other laid bare the whole of it, by which he lost <lb/>the use of two of his fingers, but that arm was saved. When <lb/>the cannon-shot had thrown him from his horse, and as he lay <lb/>bleeding upon the groun in this mangled condition, the Prus<lb break="no"/>sian musketry and trumpets being heard at a distance, he sei<lb break="no"/>zed his hat with his remaining shattered arm. and waving it <lb/>round him cheered his companions in the midst of the dying <lb/>and the dead, the Duke of <hi rend="smallcaps">Wellington</hi>  being then close by <lb/>him who desired he might carried to his tent.</p>
                 <p>It must be some consolation to his afflicted family, that he <lb/>must have distinguished himself in the opinion of his great <lb/>Commander, as he was immediately recommended by him for <lb/>the rank of Major, though a very young officer, and in a year <lb/>afterwards to the rank of Lieutenant-Colonel, with the ap<lb break="no"/>pointment of Adjutant-General in Ceylon, and if he had then <lb/>fortunately sailed for India his life might probably have been <lb/>saved ; but his disposition being as affectionate as it was ani<lb break="no"/>mated, he could not be persuaded to leave Mrs <hi rend="smallcaps">Erskine</hi>, who <lb/>was pregnant, and remaining here during the winter, the <lb/>cough, with consumptive symptoms, arising from his wound, <lb/>laid too deep a hold on him to derive benefit from the voyage, <lb/>and he died on his passage to India.</p>
                 <p>Colonel <hi rend="smallcaps">Erskine</hi>  was only 25 years of age, and has left three <lb/>sons and a daughter, and an infant a few months old.</p>
-                <p>The marriage of the Duke of <hi rend="smallcaps">Clarence</hi>  with the rich heir<lb break="no"/>ess Miss <hi rend="smallcaps">Wykeham</hi>  is said to be finally arranged ; and from <lb/>what we observe, it is not likely to suffer any delay from the <lb/>late domestic calamity. it is said that the <hi rend="smallcaps">Prince Regent </hi>
-            <lb/>has given his own personal assent ; but whether it has passed <lb/>through the constitutional forms, and that the <hi rend="italic">Royal Assent in </hi>
-            <lb/>
-            <hi rend="italic">Council</hi>  has been given we do not pretend to know. It must <lb/>have that sanction to secure the Lady the right, for herself <lb/>and heirs, of succeeding to the Throne. On this interesting <lb/>subject it cannot be forgotten, that <hi rend="smallcaps">King</hi>  in Council re<lb break="no"/>fused his assent in three former instances.</p>
+                <p>The marriage of the Duke of <hi rend="smallcaps">Clarence</hi>  with the rich heir<lb break="no"/>ess Miss <hi rend="smallcaps">Wykeham</hi>  is said to be finally arranged ; and from <lb/>what we observe, it is not likely to suffer any delay from the <lb/>late domestic calamity. it is said that the <hi rend="smallcaps">Prince Regent </hi><lb/>has given his own personal assent ; but whether it has passed <lb/>through the constitutional forms, and that the <hi rend="italic">Royal Assent in </hi><lb/><hi rend="italic">Council</hi>  has been given we do not pretend to know. It must <lb/>have that sanction to secure the Lady the right, for herself <lb/>and heirs, of succeeding to the Throne. On this interesting <lb/>subject it cannot be forgotten, that <hi rend="smallcaps">King</hi>  in Council re<lb break="no"/>fused his assent in three former instances.</p>
                 <p>The refusal of the Princess Royal of <hi rend="smallcaps">Denmark</hi>  arrived in <lb/>town on Monday or Tuesday last week. On Wednesday it <lb/>was communicated to his Royal Highness the Duke of <hi rend="smallcaps">Cla<lb break="no"/>rence</hi>, and on Thursday he set off to Brighton, offered his <lb/>hand to Miss <hi rend="smallcaps">Wykeham</hi>, and " was a thriving wooer."</p>
                 <p>Colonel <hi rend="smallcaps">Henry Fitzclarence</hi>, the son of the Duke of <hi rend="smallcaps">Cla<lb break="no"/>rence</hi>, lately deceased, was a young man of uncommon ener<lb break="no"/>gy of character, and of talents and acquirements. In the af<lb break="no"/>fair of the 10th Light Dragoons, he displayed a spirit of inde<lb break="no"/>pendence and manliness the most honourable. He was an ad<lb break="no"/>mirable linguist, and, as we understand, was about to return <lb/>to England, with the view of being employed in the Diploma<lb break="no"/>cy, for which he was peculiarly qualified.</p>
             </body>

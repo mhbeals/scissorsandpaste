@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>261</title>
+                    <title n="261">261</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1836-07-06"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,31 +51,19 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">State of Trade.</hi>
-         </p>
-                <p>
-            <hi rend="italic">The Wool Trade, London, Thursday Evening.</hi> –The follow<lb break="no"/>ing are more accurate averages of the sales of Colonial Wools <lb/>which have recently taken place than we were enabled to ob<lb break="no"/>tain during their progress.</p>
+                <p><pb/><hi rend="smallcaps">State of Trade.</hi></p>
+                <p><hi rend="italic">The Wool Trade, London, Thursday Evening.</hi> –The follow<lb break="no"/>ing are more accurate averages of the sales of Colonial Wools <lb/>which have recently taken place than we were enabled to ob<lb break="no"/>tain during their progress.</p>
                 <p>The Colonial Wools offered consisted of 2041 bays. The <lb/>Wools have become much improved in growth, in length of <lb/>staple, in management, and in washing. The market being <lb/>very bare in combining wool, this description realized a propor<lb break="no"/>tionate advance. Several flocks attracted great attention, <lb/>particularly those market T A in a square, I X and Y, <lb/>which show that great pains have been paid by the growers <lb/>upon them. The correct averages obtained are as follows :–</p>
-                <p>
-            <hi rend="smallcaps">Van Diemen's Land.</hi>
-         </p>
+                <p><hi rend="smallcaps">Van Diemen's Land.</hi></p>
                 <p>s. d. s. d. <lb/>Choice flocks T A in a square 2 9 to 3 1 per lb. <lb/>Do. I X 2 0 1/2 2 9 <lb/>Do. Y 1 8 2 9 <lb/>Good flocks 2 2 3/4 2 9 1/2 <lb/>Ordinary and fair quality 1 4 1/2 2 2 1/2 <lb/>Inferior and in the great 1 2 1 4</p>
-                <p>
-            <hi rend="smallcaps">Australian</hi>
-         </p>
+                <p><hi rend="smallcaps">Australian</hi></p>
                 <p>Good flocks 2 6 2 9 <lb/>Fair 2 3 1/2 2 5 <lb/>Inferior 1 11 2 2 <lb/>and in the grease 1 3</p>
                 <p>The frist class of Van Diemen's Land Wool realised a consi<lb break="no"/>derable rise upon last year's sales, the produce of the same <lb/>flocks then selling only at 2s 2d to 2s 5d per lb.</p>
                 <p>The Wool Trade is very brisk. The arrivals this week have <lb/>been 2300 bales, of which about 340 are German, 1000 Spa<lb break="no"/>nish, 300 New South Wales, 20 Cape of Good Hope, 50 Tur<lb break="no"/>key, and 500 bales of South American Woo's.</p>
-                <p>
-            <hi rend="italic">Huddersfield, Tuesday</hi>.–There has been no visible change <lb/>in the state of this market for the last three or four weeks. <lb/>Business in general is pretty good.</p>
-                <p>
-            <hi rend="italic">Bradford, June</hi>  30.–The activity we have so often had to <lb/>report in the piece market continues unabated, and in six <lb/>quarters, especially low and middle sorts, trade to-day is par<lb break="no"/>ticularly brisk. Whatever alteration there may be in the <lb/>yarn market, as compared with recent reports, is for the bet<lb break="no"/>ter. Stocks continue low in the staplers' hands, with very <lb/>little disposition to increase them. Prices remain very steady, <lb/>although the demand for wool is extremely limited. Farmers <lb/>are rather firmer. The Liverpool sales of New South Wales <lb/>Wool went off 1d to 2d per lb. above the recent London sales.</p>
-                <p>
-            <hi rend="italic">Rochdale, June</hi>  27.–The market this week was very well <lb/>attended, but not so brisk as the last.–Low goods were much <lb/>in demand, and sold well. The trade in Rochdale is generally <lb/>good at present, and building is going on to a very considerale <lb/>extent.</p>
-                <p>
-            <hi rend="italic">York Wool Market, June</hi>  30.–The quantity of wool brought <lb/>to this day's market, was not so large as that supplied last <lb/>week, nor was the attendance of buyers so numerous, yet a <lb/>considerable portion of business was done, and last week's <lb/>quotations were fully supported :–good, bred hog 18 1/2d ; half <lb/>hog and ewe, 16 1/2d to 17d ; all ewe, 15d to 15 1/2d ; locks without <lb/>cots 10 1/2 to 11 1/2d ; ditto with cots 11d to 12 1/2d per lb.</p>
+                <p><hi rend="italic">Huddersfield, Tuesday</hi>.–There has been no visible change <lb/>in the state of this market for the last three or four weeks. <lb/>Business in general is pretty good.</p>
+                <p><hi rend="italic">Bradford, June</hi>  30.–The activity we have so often had to <lb/>report in the piece market continues unabated, and in six <lb/>quarters, especially low and middle sorts, trade to-day is par<lb break="no"/>ticularly brisk. Whatever alteration there may be in the <lb/>yarn market, as compared with recent reports, is for the bet<lb break="no"/>ter. Stocks continue low in the staplers' hands, with very <lb/>little disposition to increase them. Prices remain very steady, <lb/>although the demand for wool is extremely limited. Farmers <lb/>are rather firmer. The Liverpool sales of New South Wales <lb/>Wool went off 1d to 2d per lb. above the recent London sales.</p>
+                <p><hi rend="italic">Rochdale, June</hi>  27.–The market this week was very well <lb/>attended, but not so brisk as the last.–Low goods were much <lb/>in demand, and sold well. The trade in Rochdale is generally <lb/>good at present, and building is going on to a very considerale <lb/>extent.</p>
+                <p><hi rend="italic">York Wool Market, June</hi>  30.–The quantity of wool brought <lb/>to this day's market, was not so large as that supplied last <lb/>week, nor was the attendance of buyers so numerous, yet a <lb/>considerable portion of business was done, and last week's <lb/>quotations were fully supported :–good, bred hog 18 1/2d ; half <lb/>hog and ewe, 16 1/2d to 17d ; all ewe, 15d to 15 1/2d ; locks without <lb/>cots 10 1/2 to 11 1/2d ; ditto with cots 11d to 12 1/2d per lb.</p>
             </body>
         </text>
     </TEI>

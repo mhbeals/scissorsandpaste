@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>168</title>
+                    <title n="168">168</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-07-12"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,17 +51,12 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>India</p>
+                <p><pb/>India</p>
                 <p>We have great pleasure in publishing the following <lb/>interesting letter from India: –</p>
                 <p>"Madras, Feb. 4, 1820. <lb/>"I have, thank God, no very brilliant events to <lb/>communicate to you, but if the happiness of man is the <lb/>legitimate object of all Government, it is good to learn <lb/>that British India is at peace, and that a temperate <lb/>and radical reform is gradually going on under the <lb/>Marquess of Hastings' administration. The establish<lb break="no"/>ment of schools, and a free press, are the moving prin<lb break="no"/>ciples by which this great advancement in the state of <lb/>society will be accomplished, unless checked by im<lb break="no"/>pious powers.</p>
-                <p>"On the subject of these schools, it is not necessary <lb/>here to dilate. Suffice it to observe, that it is in the <lb/>power of any Government, abitrary or free, to educate <lb/>the great bulk of its subjects, and thereby to advance <lb/>them in knowledge, civilization, and happiness, in <hi rend="italic">the </hi>
-            <lb/>
-            <hi rend="italic">shortest</hi>  possible period.</p>
+                <p>"On the subject of these schools, it is not necessary <lb/>here to dilate. Suffice it to observe, that it is in the <lb/>power of any Government, abitrary or free, to educate <lb/>the great bulk of its subjects, and thereby to advance <lb/>them in knowledge, civilization, and happiness, in <hi rend="italic">the </hi><lb/><hi rend="italic">shortest</hi>  possible period.</p>
                 <p>"The establishment of a <hi rend="italic">free press in Asia</hi>  is, in my <lb/>estimation, as useful and magnanimous an art as ever <lb/>adorned the biography of any Statesman. What, say <lb/>its detractors, is setting loose a parcel of printer's devils <lb/>so great an act? No, but setting loose all the intel<lb break="no"/>ligence of the age to work upon the public mind and <lb/>conduct, is an act of unrivalled benevolence. Be it <lb/>asserted that a free press is only applicable to an ad<lb break="no"/>vanced state of society, I deny the position ; it is not <lb/>founded in reason or experience. I contend on the <lb/>other hand, that where least knowledge and msot evil <lb/>exist, there is the greatest scope for improvement ; and <lb/>I offer Scotland as a proof of the efficacy[?] of education <lb/>and a free press.</p>
-                <p>"The Marquess of Hastings, Governor General of <lb/>India, has, in the newspapers of Madras and Calcutta, <lb/>been accused of having sent two persons of the name of <lb/>Hastings, to <hi rend="italic">unhealthy</hi>  climates, the one to the East <lb/>and the other to the West Indies, where they <hi rend="italic">died ; </hi>
-            <lb/>and for the <hi rend="italic">base</hi>  purpose of securing to his family the <lb/>title of Huntingdon. This, you must be aware, was <lb/>touching his sensitive honour to the quick ; and it <lb/>would seem as if some one inimical to a free press, had <lb/>introduced the paragraph to irritate him. But this <lb/>virtuous man, who would not tread on an insect, al<lb break="no"/>lowed this shameful slander to pass unnoticed. It stood <lb/>refuted in every bosom, and his manly forbearance <lb/>tended but to give further proofs of his attachment to <lb/>our infant liberty. Attacks have likewise been made <lb/>on Sir E. East, our Chief Justice. He complained, <lb/>they say, of these alleged libels to the Chief Magistrate, <lb/>
-            <hi rend="italic">who desired him to have recourse to the law</hi>  Conceive <lb/>not, however, that I am the advocate for a licentious <lb/>press. My maxim is, that a great power, when mis<lb break="no"/>chievously applied, must be hurtful, and when well <lb/>applied, beneficial, in proportion to its strength.</p>
+                <p>"The Marquess of Hastings, Governor General of <lb/>India, has, in the newspapers of Madras and Calcutta, <lb/>been accused of having sent two persons of the name of <lb/>Hastings, to <hi rend="italic">unhealthy</hi>  climates, the one to the East <lb/>and the other to the West Indies, where they <hi rend="italic">died ; </hi><lb/>and for the <hi rend="italic">base</hi>  purpose of securing to his family the <lb/>title of Huntingdon. This, you must be aware, was <lb/>touching his sensitive honour to the quick ; and it <lb/>would seem as if some one inimical to a free press, had <lb/>introduced the paragraph to irritate him. But this <lb/>virtuous man, who would not tread on an insect, al<lb break="no"/>lowed this shameful slander to pass unnoticed. It stood <lb/>refuted in every bosom, and his manly forbearance <lb/>tended but to give further proofs of his attachment to <lb/>our infant liberty. Attacks have likewise been made <lb/>on Sir E. East, our Chief Justice. He complained, <lb/>they say, of these alleged libels to the Chief Magistrate, <lb/><hi rend="italic">who desired him to have recourse to the law</hi>  Conceive <lb/>not, however, that I am the advocate for a licentious <lb/>press. My maxim is, that a great power, when mis<lb break="no"/>chievously applied, must be hurtful, and when well <lb/>applied, beneficial, in proportion to its strength.</p>
                 <p>"You will rejoice to learn that Mr Elphinstone, <lb/>Governor of Bombay, has done away with the Censor<lb break="no"/>ship of the Press. This wise Statesman, being a friend <lb/>to freedom, and having <hi rend="italic">experienced</hi>  the benefits which <lb/>had arisen in Bengal from the measure (for scarce a <lb/>day no passes that some abuse is not brought to light <lb/>by the press), adopted it the moment he came into <lb/>power, and thus proved himself a public benefactor.</p>
                 <p>"To conclude, it is my firm conviction, that the <lb/>diffusion of knowledge, through the medium of educa<lb break="no"/>tion and a free press, will more than any other mea<lb break="no"/>sure accelerate the improvement and heighten the pros<lb break="no"/>perity, not only of British India, but of the surround<lb break="no"/>ing world."</p>
             </body>

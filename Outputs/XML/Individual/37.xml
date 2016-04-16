@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>37</title>
+                    <title n="37">37</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-14"/>
@@ -45,7 +44,7 @@
                     <keywords>
                         <list>
                             <item>slave rebellion</item>
-                            <item>trade</item>
+                            <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -53,8 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="6"/> The West India merchants, who were in the <lb/>utmost anxiety for the arrival of the packet from <lb/>the West Indies, have been most agreebly relie<lb break="no"/>ed from their apprehensions. The account of the <lb/>insurrections in Martinique, which we received <lb/>through France, and which has been since con<lb break="no"/>firmed in the National Assembly, naturally alarm<lb break="no"/>ed them for the British islands. We are happy <lb/>to inform our readers, that the packet brings no <lb/>intelligence whatever of tumult of insurrections. <lb/>We have not heard even that the letters bring <lb/>any account of the conspiracy in Martinique ; a <lb/>circumstance which can only be accounted for by <lb/>the little communication which exists between the <lb/>islands at this season of the year."</p>
+                <p><pb n="6"/> The West India merchants, who were in the <lb/>utmost anxiety for the arrival of the packet from <lb/>the West Indies, have been most agreebly relie<lb break="no"/>ed from their apprehensions. The account of the <lb/>insurrections in Martinique, which we received <lb/>through France, and which has been since con<lb break="no"/>firmed in the National Assembly, naturally alarm<lb break="no"/>ed them for the British islands. We are happy <lb/>to inform our readers, that the packet brings no <lb/>intelligence whatever of tumult of insurrections. <lb/>We have not heard even that the letters bring <lb/>any account of the conspiracy in Martinique ; a <lb/>circumstance which can only be accounted for by <lb/>the little communication which exists between the <lb/>islands at this season of the year."</p>
             </body>
         </text>
     </TEI>

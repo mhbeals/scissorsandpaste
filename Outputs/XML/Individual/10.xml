@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>10</title>
+                    <title n="10">10</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-08-21"/>
@@ -45,7 +44,7 @@
                     <keywords>
                         <list>
                             <item>national characteristics</item>
-                            <item>fire</item>
+                            <item n="fire">fire</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -53,12 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="4"/>
-            <hi rend="italic">Extract of a letter from India, by the Dublin East </hi>
-            <lb/>
-            <hi rend="italic">Indiaman, to Mr. William Jones</hi>
-         </p>
+                <p><pb n="4"/><hi rend="italic">Extract of a letter from India, by the Dublin East </hi><lb/><hi rend="italic">Indiaman, to Mr. William Jones</hi></p>
                 <p>We left Patia Dec. 15, 1789, and went to <lb/>Decca, and arrived there after a passage of 16 <lb/>days. Just as we arrived there was a famine, <lb/>and it was really a shocking sight to behold; <lb/>you could not move out of your house but the <lb/>corpses lay in your way, and the wild dogs and <lb/>jackalls were eating them at noon-day. The <lb/>Hindoos never bury their dead, but burn them <lb/>to ashes, if they can afford it; if not, throw <lb/>them into the river. I have lately seen a man <lb/>brought to the river side, and laid down at low<lb break="no"/>water mark before he was dead ; and when the <lb/>the tide flowed, it carried him off. If a man, wo<lb break="no"/>man, or child, dies at night, the corpse is eaten <lb/>by the morning. This I have been an eye wit<lb break="no"/>ness of ; for as I always rode out on horseback <lb/>every morning, I had an opportunity of seeing <lb/>more than those that did not. In the course of <lb/>six months I became so much used to it, that I <lb/>took no notice of it.</p>
                 <p>"I was there when a dreadful conflagration <lb/>took place, and burnt upwards of seven miles with<lb break="no"/>out intermission, and many souls perished. Now <lb/>consider, first, an inundation; second, a famine; <lb/>and third, a conflagration. How much the place <lb/>must be distressed, I leave you to think. I left <lb/>Decca the 1st of December last, and arrived at <lb/>Calcutta, after a passage through the Sunderburns <lb/>(in 17 days), hearty and well, thank God."</p>
             </body>

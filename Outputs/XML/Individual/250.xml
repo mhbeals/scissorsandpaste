@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>250</title>
+                    <title n="250">250</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1835-08-05"/>
@@ -45,7 +44,7 @@
                     <keywords>
                         <list>
                             <item>female emigration</item>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -53,13 +52,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Free Emigration of Females</hi>
-         </p>
-                <p>
-            <hi rend="enlarged-capital">T </hi>
-            <hi rend="smallcaps">he Emigration Committee</hi>  (acting <lb/>under the authority of the Secretary of State for <lb/>the Colonies), HEREBY GIVES NOTICE, That <lb/>the "BOADICEA," a fine new ship of 500 Tons, <lb/>fitted expressly for the conveyance of Females, will <lb/>sail from GRAVESEND on T <hi rend="smallcaps">hursday</hi>  the 1st day <lb/>of O <hi rend="smallcaps">ctober</hi>  for HOBART TOWN.</p>
+                <p><pb/><hi rend="smallcaps">Free Emigration of Females</hi></p>
+                <p><hi rend="enlarged-capital">T </hi><hi rend="smallcaps">he Emigration Committee</hi>  (acting <lb/>under the authority of the Secretary of State for <lb/>the Colonies), HEREBY GIVES NOTICE, That <lb/>the "BOADICEA," a fine new ship of 500 Tons, <lb/>fitted expressly for the conveyance of Females, will <lb/>sail from GRAVESEND on T <hi rend="smallcaps">hursday</hi>  the 1st day <lb/>of O <hi rend="smallcaps">ctober</hi>  for HOBART TOWN.</p>
                 <p>Single Females, of good character, between 15 and <lb/>30 years of age, will be admitted to a <hi rend="italic">Free</hi>  Passage, <lb/>by making application, accompanied with certificates, <lb/>to Lieut. F <hi rend="smallcaps">orrest</hi>, R.N., his Majesty's Agent for <lb/>Emigration, Custom-house, Leith, from whom par<lb break="no"/>ticulars may be obtained.</p>
                 <p>A limited number of MARRIED AGRICUL<lb break="no"/>TURAL LABOURERS and MECHANICS, and <lb/>their Failies, will be sent by this Vessel on liberal <lb/>terms ; but none need apply without certificates of <lb/>moral character.</p>
             </body>

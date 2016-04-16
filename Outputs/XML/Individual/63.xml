@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>63</title>
+                    <title n="63">63</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140910 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140910 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1790-01-04"/>
@@ -47,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>society</item>
+                            <item n="society">society</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -55,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <hi rend="italic">November</hi>  12. On Thursday last the Viscount de <lb/>Ponteves gave a surperb entertainment and ball to <lb/>a number of respectable ladies of gentleman of <lb/>this town on board l'Illustre, of seventy-four guns. <lb/>The boats of the fleet, the state yacht and barge, <lb/>received the company at Foster's wharf, before <lb/>12 o'clock–and on the appearance of the first <lb/>boat having ladies on board, a signal gun was fir<lb break="no"/>ed from l'Illustre, and in an instant the squadron <lb/>was beautifully arrayed with the flags of all na<lb break="no"/>tions. On arriving at the ship, the company <lb/>were very politely received by the Viscount, and <lb/>conducted to the state room–the marines saluting <lb/>as the company passed them. At one o'clock <lb/>the whole sat down to a table liberally spread with <lb/>a profusion of luxuries and delicacies, in a hall e<lb break="no"/>rected for the occasion, which was very fancifully <lb/>decorated. At the head of the table was a castle <lb/>of pastry, having thirteen metal guns, by which <lb/>from tubes that communicated through the table, <lb/>and the company were saluted with a f–deral dis<lb break="no"/> 
-            <lb/>charge. On the top of the castle waved a small <lb/>white ensign–the device, <hi rend="italic">two hearts</hi> –the motto, <lb/>" <hi rend="italic">The United hearts of America and France</hi>." <lb/>The head of the hall was ornamented with a <hi rend="italic">heart </hi>
-            <lb/>pieced with arrows–and in the motton, " <hi rend="italic">Ho<lb break="no"/>mage to the fair daughters of America</hi>," a fine com<lb break="no"/>pliment made by the noble Viscount to his fe<lb break="no"/>male guests. After dinner, the ball began, and <lb/>closed before nine o'clock, and on departure, his <lb/>Excellency was saluted with thirteen rockets let <lb/>off from a boat moored at some distance from the <lb/>ship.</p>
+                <p><hi rend="italic">November</hi>  12. On Thursday last the Viscount de <lb/>Ponteves gave a surperb entertainment and ball to <lb/>a number of respectable ladies of gentleman of <lb/>this town on board l'Illustre, of seventy-four guns. <lb/>The boats of the fleet, the state yacht and barge, <lb/>received the company at Foster's wharf, before <lb/>12 o'clock–and on the appearance of the first <lb/>boat having ladies on board, a signal gun was fir<lb break="no"/>ed from l'Illustre, and in an instant the squadron <lb/>was beautifully arrayed with the flags of all na<lb break="no"/>tions. On arriving at the ship, the company <lb/>were very politely received by the Viscount, and <lb/>conducted to the state room–the marines saluting <lb/>as the company passed them. At one o'clock <lb/>the whole sat down to a table liberally spread with <lb/>a profusion of luxuries and delicacies, in a hall e<lb break="no"/>rected for the occasion, which was very fancifully <lb/>decorated. At the head of the table was a castle <lb/>of pastry, having thirteen metal guns, by which <lb/>from tubes that communicated through the table, <lb/>and the company were saluted with a f–deral dis<lb break="no"/> <lb/>charge. On the top of the castle waved a small <lb/>white ensign–the device, <hi rend="italic">two hearts</hi> –the motto, <lb/>" <hi rend="italic">The United hearts of America and France</hi>." <lb/>The head of the hall was ornamented with a <hi rend="italic">heart </hi><lb/>pieced with arrows–and in the motton, " <hi rend="italic">Ho<lb break="no"/>mage to the fair daughters of America</hi>," a fine com<lb break="no"/>pliment made by the noble Viscount to his fe<lb break="no"/>male guests. After dinner, the ball began, and <lb/>closed before nine o'clock, and on departure, his <lb/>Excellency was saluted with thirteen rockets let <lb/>off from a boat moored at some distance from the <lb/>ship.</p>
                 <p>Rhode Island and North Carolina yet remain a<lb break="no"/>verse to the new government; they refuse alle<lb break="no"/>giance to all acts of the States, and, of course, do <lb/>not participate in any privilee; they are treated <lb/>in respect to port entries, &amp;c. as foreign States.</p>
             </body>
         </text>

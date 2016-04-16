@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>33</title>
+                    <title n="33">33</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-11"/>
@@ -44,9 +43,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>agriculture</item>
-                            <item>trade</item>
-                            <item>currency</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="currency">currency</item>
                             <item>shipping news</item>
                         </list>
                     </keywords>
@@ -55,11 +54,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="6"/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from a gentleman in America to  <lb/>his friend in Greenock </hi>.</hi>
-         </p>
+                <p><pb n="6"/><hi rend="center"><hi rend="italic">Extract of a letter from a gentleman in America to  <lb/>his friend in Greenock </hi>.</hi></p>
                 <p>"No doubt, Sir, you have been expecting this <lb/>some time a remittance in money for your goods; <lb/>but as part of them is still on hand, I could not <lb/>properly answer you in cash or bills ; however, if <lb/>you will accept of wheat in return, it shall be im<lb break="no"/>mediately sent you ; for our wheat crop has been <lb/>so plentiful that we can supply you with many <lb/>thousand bolls of an eceeding fine quality ; and <lb/>to my knowledge there are several ships loading <lb/>for your market at present."</p>
             </body>
         </text>

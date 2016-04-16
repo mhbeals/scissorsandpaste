@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>313</title>
+                    <title n="313">313</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1842-02-05"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,22 +51,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="enlarged-capital">A </hi>
-            <hi rend="smallcaps">ustralian Trust Company, </hi>
-            <lb/>
-            <hi rend="italic">Incorporated by Royal Charter, </hi>
-            <lb/>No. 48 <hi rend="smallcaps">Moorgate Street, London.</hi>
-         </p>
+                <p><pb/><hi rend="enlarged-capital">A </hi><hi rend="smallcaps">ustralian Trust Company, </hi><lb/><hi rend="italic">Incorporated by Royal Charter, </hi><lb/>No. 48 <hi rend="smallcaps">Moorgate Street, London.</hi></p>
                 <p>Capital t1,000,00, <lb/>in 10,000 shares of t100 each, with power to increase <lb/>the capital to t2,000,000.</p>
-                <p>
-            <hi rend="smallcaps">Directors. </hi>
-            <lb/>Chairman– <hi rend="smallcaps">John Abel Smith,</hi>  Esq., M.P. <lb/>Levi Ames, Esq. . Robert How, Esq. <lb/>Henry Bainbridge, . Esq. John Innes, Esq. <lb/>Thomas Byron, jun., Esq. . Francis Mowatt, Esq. <lb/>Benjamin Green, Esq. . Charles John Pearse, Esq. <lb/>William Hart, Esq. . Hastings Elwin, Esq., <lb/>Langford Hovell Hodge, . now in Australia <lb/>Esq. <lb/>
-            <hi rend="smallcaps">Auditors. </hi>
-            <lb/>Right Hon. The Lord . Sir Edward Parry, R.N. <lb/>Mayor. . Nassau William Senior, <lb/>Abel Lewis Gower, Esq. . Esq. <lb/>Bankers–Messrs Smith, Payne, &amp; Smiths. <lb/>Solicitors–Messrs James, Charles, &amp; H. Freshfield. <lb/>
-            <hi rend="smallcaps">Colonial Board in Sydney. </hi>
-            <lb/>Chairman– <hi rend="smallcaps">Hastings Elwin,</hi>  Esq. who was Deputy <lb/>Chairman of the Court of Directors. <lb/>Alexander Macleay, Esq. . Richard Jones, Esq. <lb/>Thomas Barker, Esq. . John Lamb, Esq. <lb/>To be joined by Thomas Icely, Esq. who was a <lb/>Director here, and who is on his way to Sydney. <lb/>Solicitor–James Norton, Esq.</p>
+                <p><hi rend="smallcaps">Directors. </hi><lb/>Chairman– <hi rend="smallcaps">John Abel Smith,</hi>  Esq., M.P. <lb/>Levi Ames, Esq. . Robert How, Esq. <lb/>Henry Bainbridge, . Esq. John Innes, Esq. <lb/>Thomas Byron, jun., Esq. . Francis Mowatt, Esq. <lb/>Benjamin Green, Esq. . Charles John Pearse, Esq. <lb/>William Hart, Esq. . Hastings Elwin, Esq., <lb/>Langford Hovell Hodge, . now in Australia <lb/>Esq. <lb/><hi rend="smallcaps">Auditors. </hi><lb/>Right Hon. The Lord . Sir Edward Parry, R.N. <lb/>Mayor. . Nassau William Senior, <lb/>Abel Lewis Gower, Esq. . Esq. <lb/>Bankers–Messrs Smith, Payne, &amp; Smiths. <lb/>Solicitors–Messrs James, Charles, &amp; H. Freshfield. <lb/><hi rend="smallcaps">Colonial Board in Sydney. </hi><lb/>Chairman– <hi rend="smallcaps">Hastings Elwin,</hi>  Esq. who was Deputy <lb/>Chairman of the Court of Directors. <lb/>Alexander Macleay, Esq. . Richard Jones, Esq. <lb/>Thomas Barker, Esq. . John Lamb, Esq. <lb/>To be joined by Thomas Icely, Esq. who was a <lb/>Director here, and who is on his way to Sydney. <lb/>Solicitor–James Norton, Esq.</p>
                 <p>The Company was established and incorporated <lb/>(and is now in full operation) to carry out in Aus<lb break="no"/>tralia a principle which has been acted on with great <lb/>success elsewhere, namely, that of taking up money <lb/>in this country, at a moderate rate of interest, on <lb/>the credit of a large invested capital, and laying it <lb/>out on undoubted freehold security, at a higher rate.</p>
                 <p>The Company is now prepared to grant transferable <lb/>notes, under the Corporation seal, to persons desirous <lb/>of advancing Money to the Company on loan. The <lb/>notes will be for t100 each, or any larger sum desired <lb/>by the lender, and will be made payable at any period <lb/>which may be agreed upon, not being shorter than <lb/>two years. The notes will bear interest at the rate <lb/>of five per cent, per annum, payable half-yearly (on <lb/>the 15th January and 15th July), on the production <lb/>of the half-yearly vouchers, which will be annexed <lb/>to each note: these vouchers, or coupons, will render <lb/>it unnecessary for the holder of a note to present the <lb/>note itself until the principal becomes due. The <lb/>form of note has been preferred to that of bond, as <lb/>admitting of transfer without expense or trouble, <lb/>whilst it affords equal security to the holder.</p>
                 <p>The Colonial Board has been established in Syd<lb break="no"/>ney, and the operation of the Company are at pre<lb break="no"/>sent confined to New South Wales.</p>
@@ -82,8 +68,7 @@
                 <p>That every mortgage shall be registered–the re<lb break="no"/>gister to contain such particulars as the Governor <lb/>of the colony may deem necessary.</p>
                 <p>That a copy of the register of the mortgages <lb/>shall be kept at the office of the Company, in Lon<lb break="no"/>don, for the information of the share-holders and <lb/>lenders.</p>
                 <p>That an annual report be made to the Lords of the <lb/>Treasury of all sums borrowed by the Company, and <lb/>of the appropriation of them.</p>
-                <p>
-            <hi rend="smallcaps">John Innes,</hi>  Managing Director. <lb/>No. 48 Moorgate Street. <lb/>London, 1st January 1842</p>
+                <p><hi rend="smallcaps">John Innes,</hi>  Managing Director. <lb/>No. 48 Moorgate Street. <lb/>London, 1st January 1842</p>
             </body>
         </text>
     </TEI>

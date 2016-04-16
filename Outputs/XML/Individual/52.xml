@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>52</title>
+                    <title n="52">52</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-25"/>
@@ -44,8 +43,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
-                            <item>agriculture</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="agriculture">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -53,8 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>The Americans have refused every kind of sup<lb break="no"/>ply of grain to the French, without the ready <lb/>money. M. de Mirabeau's scheme of receiving <lb/>the debt of the United States due to France, <lb/>proves an abortion.</p>
+                <p><pb/>The Americans have refused every kind of sup<lb break="no"/>ply of grain to the French, without the ready <lb/>money. M. de Mirabeau's scheme of receiving <lb/>the debt of the United States due to France, <lb/>proves an abortion.</p>
             </body>
         </text>
     </TEI>

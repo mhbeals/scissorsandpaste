@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>358</title>
+                    <title n="358">358</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20130528 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20130528 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from British Library Newspapers Online</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-08"/>
@@ -47,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -56,14 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="2"/>
-            <hi rend="center">DREADFUL MASSACRE BY THE NATIVES OF THE MARQUESAS </hi>
-            <lb/>
-            <hi rend="center">ISLANDS. </hi>
-            <lb/>
-            <hi rend="center">[ <hi rend="italic">From the Sydney Gazette, Nov</hi>. 8. 1815.]</hi>
-         </p>
+                <p><pb n="2"/><hi rend="center">DREADFUL MASSACRE BY THE NATIVES OF THE MARQUESAS </hi><lb/><hi rend="center">ISLANDS. </hi><lb/><hi rend="center">[ <hi rend="italic">From the Sydney Gazette, Nov</hi>. 8. 1815.]</hi></p>
                 <p>By the Governor Macquarrie are arrived Captain Fowler, and <lb/>part of the crew of the India brig Matilda, which sailed from <lb/>this Colony in August 1813, bound on a voyage to the Derwent <lb/>and Eastern Islands, and from thence to China; but was cut off <lb/>and plundered on the night of the 10th of April last, while lying <lb/>at anchor in Duff's Bay, at the Island of Rooapoah, one of the <lb/>Marquessas, on a sandal-wood voyage. Five of the crew (Poo<lb break="no"/>mootoo men) had previously deserted, and joining with some of <lb/>the Rooapoah natives, took the opportunity of a dark night, and <lb/>the wind blowing fresh right on the land, to cut the vessel adrift; <lb/>by which means she drove ashore through a heavy surf, and was <lb/>soon bilged and filled with water. When the cannibal natives <lb/>saw that it was impracticable to get the vessel afloat, they con<lb break="no"/>curred universally in the design of putting the whole of her crew <lb/>to death; which appears to have been a constant practise among <lb/>the different natives towards one another, when their canoes hap<lb break="no"/>pen to fall upon a strange land, through stress of weather, or from <lb/>any other accident.</p>
                 <p>Captain Fowler had formed an intimacy with their Chief, or <lb/>King, Nooahetu, who presided at the horrible tribunal that had <lb/>devoted the unfortunate mariners to instant slaughter. He with<lb break="no"/>held his assent to the murder; but had no hesitation in permit<lb break="no"/>ting the plunder of the vessel. The crew were informed by such <lb/>expressions as they could understand, as well as by the gesticula<lb break="no"/>tions that accompanied their vehement debate on the occasion, <lb/>that their lives were dependent on the issue; the good Chief <lb/>was opposed by many other Chiefs, who, though somewhat in<lb break="no"/>ferior in rank, were very far superior in number, supported by <lb/>the common usages of the island, from which the exhibition of <lb/>clemency appeared an insufferable deviation. He was seated, <lb/>with his son by his side, on a mat in his own dwelling; he had <lb/>been called to the supremacy of the island by the general wish of <lb/>the people, as it was not a hereditary right, but an elective dig<lb break="no"/>nity. His people pressed their solicitations earnestly , and at <lb/>length peremptorily demanded his assent to the sacrifice; which he <lb/>for a length of time opposed by the force of words, which not <lb/>seeming likely to prevail, he adopted a method which silenced <lb/>the whole in an instant, and saved the lives of Captain Fowler <lb/>and his crew. Finding that all his expostulations were defeated, <lb/>on the principle of undeviating custom, he deliberately took <lb/>up two ropes that were near him, and fixing one round the neck <lb/>of his son, and the other round his own, called to the Chief next <lb/>in command, who immediately approached him. His conference <lb/>was short and decisive–he first pointed to the cord that encircled <lb/>the neck of his son, and then to the other which he had entwined <lb/>round his own. "These strangers are doomed to death," said <lb/>he, "by my chiefs and my people: and it is not fit that I, who <lb/>am their King, should live to see so vile a deed perpetrated.– <lb/>Let my child and myself be strangled before it is performed; and <lb/>then it never will be said that we sanctioned, even with our eye<lb break="no"/>sight, the destruction of these unoffending people."</p>
                 <p>The magnanimity of such a conduct could not do less than <lb/>produce, even in the mind of the unenlightened savage, a paroxysm <lb/>of surprise, mingled with a sentiment of admiration, in which the <lb/>untaught man may possibly excel his fellow-creature, whose con<lb break="no"/>ceptions are moulded by tenets calculated to guard him from the <lb/>extremes of passion. For a moment the people looked wildly <lb/>upon their King, whose person they adored, because that his <lb/>principles were good, and his government just and mild. They <lb/>saw the obedient Chief, to whom the order of strangulation had <lb/>been imparted, staring with horror and amazement at the change <lb/>which a few moments had produced; the mandate, which had <lb/>proceeded from the King's own lips must be obeyed; and, com<lb break="no"/>manded to perform the dreadful office, he proceeded to obey– <lb/>when a sudden shout from the multitude awed him to forbear<lb break="no"/>ance. "The King! the King!" from every lip burst forth– <lb/>'What! kill the King! No, no, let all the strangers live–no <lb/>man shall kill the King!" Thus were their lives preserved, and <lb/>the vessel plundered of every thing on board her.</p>

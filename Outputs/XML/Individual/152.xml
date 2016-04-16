@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>152</title>
+                    <title n="152">152</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1819-08-25"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,16 +51,11 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Colonial Intelligence</p>
-                <p>
-            <hi rend="smallcaps">Fire at Newfoundland</hi>
-         </p>
+                <p><pb/>Colonial Intelligence</p>
+                <p><hi rend="smallcaps">Fire at Newfoundland</hi></p>
                 <p>We are sorry to state that another most distressing <lb/>and calamitous fire has taken place at St. John's New<lb break="no"/>foundland. Captain Critchelly, of the alliance, arriv-[?] <lb/>ed at Liverpool from Carbonear, in Newfoundland, [?] <lb/>which he left on the 22d ult. states that a fire broke <lb/>out in an uninhabited house in St. John's between one <lb/>and two o'clock in the morning of the 18th of June <lb/>and that from the inflammable nature of the house[?] <lb/>and more particularly of their roofs, it spread with such <lb/>rapidity, that in the short space of three hours 170 fa-[?] <lb/>milies were burnt out, besides an immense quantity <lb/>of produce consumed in various stores and ware<lb break="no"/>houses.</p>
                 <p>We learn from another account, that the fire destroy<lb break="no"/>ed the whole of the old part of the town. It broke out <lb/>near Conder and Tracy's store, and burnt all between <lb/>that and Messrs Baine, Johnson and Co.'s.</p>
-                <p>
-            <hi rend="smallcaps">Cape of Good Hope</hi>
-         </p>
+                <p><hi rend="smallcaps">Cape of Good Hope</hi></p>
                 <p>At the present moment, under the prospect of emi<lb break="no"/>gration, all intelligence coming from this quarter is of <lb/>peculiar interest. The letters which reached town [?] <lb/>Tuesday, mention that the Caffres had commenced [?] <lb/>tilities anew, and that their numbers were very consi<lb break="no"/>derable.</p>
                 <p>Cape Town, May 5. <lb/>The Caffres have broken out, and a very serious war <lb/>is carried on at present on the borders. It is said <lb/>that the savages are to the amount of 50,000, and a de<lb break="no"/>tachment of 6000 attacked Graham's Town on Satur<lb break="no"/>day week, about 12 o'clock in the day, but were re<lb break="no"/>pulsed, and 150 left dead on the fiel. They carried <lb/>off 500 wounded. Orders have been issued in every <lb/>district of the colony for the young boors to inrol them<lb break="no"/>selves to oppose the enemy.</p>
                 <p>Cape Town, May 16. <lb/>The 13th regiment, commanded by Colonel Wil<lb break="no"/>shire have come up with the main body of Caf<lb break="no"/>fres, near Graham's Town and have defeated them with <lb/>great loss. Since then they have withdrawn from the <lb/>British territory. The 54th regiment arrived at [?] <lb/>place a few days ago from England and have since[?] <lb/>marched off for the frontiers. A large number of in<lb break="no"/>fantry have been mounted on horseback to [?] <lb/>them to pursue more effectually the savages. They are <lb/>all in excellent spirits. It is reported that our present <lb/>Governor is going home, and that another has been ap<lb break="no"/>pointed.</p>

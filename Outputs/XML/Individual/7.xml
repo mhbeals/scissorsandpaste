@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>7</title>
+                    <title n="7">7</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-07-20"/>
@@ -44,8 +43,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>agriculture</item>
-                            <item>trade</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -53,16 +52,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from a Gentleman in Bermuda to</hi>
-            </hi> 
-            <lb/>
-            <hi rend="center">
-               <hi rend="italic">his friend in Norfolk, Virginia, dated April</hi>  2.</hi>
-         </p>
-                <p>"By Captain Gilbert, the bearer of this <lb/>you will learn our distress for want of provi - <lb/>sions: There has not been in the whole island <lb/>one bushel of corn for sale for 16 days past. <lb/>Capt. George, from Baltimore, brought in [?] <lb/>days ago two bushels of corn, which sold immed<lb break="no"/>diately at 6s. 8d. per bushel; he also brought in <lb/>360 barrels of flour, common and superfine, which <lb/>sold at eight and nine dollars per barrel. No ves<lb break="no"/>sel has arrived here with provisions since Capt. <lb/>George; and no vessel belonging to the island is <lb/>expected to relieve us. A great number of poor <lb/>people have been for ten days past obliged to live <lb/>on the greens of the field. Governor Hamilton, <lb/>by advice of his counsel, has opened the port of <lb/>Bermuda to all foreign vessels whatever, for thirty <lb/>days, to be computed from the 30th day of March, <lb/>laden with bread, corn; or flour. He also allows, <lb/>for three months, the importation of salted pro<lb break="no"/>visions from any foreign port whatever, in vessels <lb/>belonging to these islands. IT is said, what if any <lb/>foreign vessel should come here after the time per<lb break="no"/>mited by proclamation, they will be allowed to <lb/>dispose of their cargo, if they can prove they set <lb/>out with an intent to come here. If any vessels <lb/>be ready to sail from Norfolk, with provisions, ad<lb break="no"/>vise them to call at Bermuda."</p>
+                <p><pb/><hi rend="center"><hi rend="italic">Extract of a letter from a Gentleman in Bermuda to</hi></hi> <lb/><hi rend="center"><hi rend="italic">his friend in Norfolk, Virginia, dated April</hi>  2.</hi></p>
+                <p>"By Captain Gilbert, the bearer of this <lb/>you will learn our distress for want of provi - <lb/>sions: There has not been in the whole island <lb/>one bushel of corn for sale for 16 days past. <lb/>Capt. George, from Baltimore, brought in <supplied reason="copy missing">???</supplied><lb/>days ago two bushels of corn, which sold immed<lb break="no"/>diately at 6s. 8d. per bushel; he also brought in <lb/>360 barrels of flour, common and superfine, which <lb/>sold at eight and nine dollars per barrel. No ves<lb break="no"/>sel has arrived here with provisions since Capt. <lb/>George; and no vessel belonging to the island is <lb/>expected to relieve us. A great number of poor <lb/>people have been for ten days past obliged to live <lb/>on the greens of the field. Governor Hamilton, <lb/>by advice of his counsel, has opened the port of <lb/>Bermuda to all foreign vessels whatever, for thirty <lb/>days, to be computed from the 30th day of March, <lb/>laden with bread, corn; or flour. He also allows, <lb/>for three months, the importation of salted pro<lb break="no"/>visions from any foreign port whatever, in vessels <lb/>belonging to these islands. IT is said, what if any <lb/>foreign vessel should come here after the time per<lb break="no"/>mited by proclamation, they will be allowed to <lb/>dispose of their cargo, if they can prove they set <lb/>out with an intent to come here. If any vessels <lb/>be ready to sail from Norfolk, with provisions, ad<lb break="no"/>vise them to call at Bermuda."</p>
             </body>
         </text>
     </TEI>

@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>284</title>
+                    <title n="284">284</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1839-07-06"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">A Man Shot.</hi> –On Tuesday evening a deliverate <lb/>attempt at murder by shooting took palce at Greenock. <lb/>A young man from Edinburgh, an intended emigrant <lb/>for New South Wales, by the Palmyra, drew from his <lb/>pocked a pistol, and shot in the head a person who had <lb/>been appointed by his friends to see him on board, and <lb/>to look to his affairs before the sailing of the vessel. <lb/>The wounded man was taken to the Infirmary in a <lb/>very dangerous state, and the assailant to the jail. <lb/>It appears that the young man has for some time past <lb/>been behaving in a manner which made his friends <lb/>chary of intrusting him with money in this country, <lb/>and that they had employed the individual referred to, <lb/>to see him on board for Australia, before leaving any <lb/>under his charge. This indignity is supposed to have <lb/>lain heavy on his mind, and led to the commission of <lb/>the act above recorded.– <hi rend="italic">Ibid.</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">A Man Shot.</hi> –On Tuesday evening a deliverate <lb/>attempt at murder by shooting took palce at Greenock. <lb/>A young man from Edinburgh, an intended emigrant <lb/>for New South Wales, by the Palmyra, drew from his <lb/>pocked a pistol, and shot in the head a person who had <lb/>been appointed by his friends to see him on board, and <lb/>to look to his affairs before the sailing of the vessel. <lb/>The wounded man was taken to the Infirmary in a <lb/>very dangerous state, and the assailant to the jail. <lb/>It appears that the young man has for some time past <lb/>been behaving in a manner which made his friends <lb/>chary of intrusting him with money in this country, <lb/>and that they had employed the individual referred to, <lb/>to see him on board for Australia, before leaving any <lb/>under his charge. This indignity is supposed to have <lb/>lain heavy on his mind, and led to the commission of <lb/>the act above recorded.– <hi rend="italic">Ibid.</hi></p>
             </body>
         </text>
     </TEI>

@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>186</title>
+                    <title n="186">186</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Herald</title>
+                            <title n="newspaper_gh">Glasgow Herald</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1821-02-05"/>
@@ -44,12 +43,12 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>agriculture</item>
+                            <item n="agriculture">agriculture</item>
                             <item>colonial economy</item>
                             <item>colonial government</item>
                             <item>land speculation</item>
-                            <item>prices</item>
-                            <item>taxation</item>
+                            <item n="prices">prices</item>
+                            <item n="taxation">taxation</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -57,9 +56,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration</hi>.</p>
+                <p><pb/><hi rend="smallcaps">Emigration</hi>.</p>
                 <p>The following is an extract of a letter dated <lb/>Louisville, August 12th, 1820, from a Scotchman <lb/>who has been long settled in America, to his friend, <lb/>a Scotch Farmer, who rents 500 acres of land in the <lb/>County of Middlesex.</p>
                 <p>"The circumstances in which this country is <lb/>placed at present are truly melancholy, when com<lb break="no"/>pared to what they have been ; yet still it is a better <lb/>country to live in than Britain. It is not easy to <lb/>make money by farming, at present, in the United <lb/>States, for the want of a market; and I am of opi<lb break="no"/>nion that things will not mend, in this respect, for <lb/>some years, for all are sellers and none buyers. All <lb/>kinds of produce are selling, or rather offered for <lb/>sale, at one-third of what prices were two years ago. <lb/>Land, of course, has fallen in the same ratio. The <lb/>best of cleared land, within from 5 to 10 miles of <lb/>this town, is offered for them from 10 to 20 dollars an <lb/>acre. You will thence conclude that this is a fa<lb break="no"/>vourable time to purchase – and that for a man <lb/>who has a little money, and a large family able and <lb/>willing to labour with their hands, this is a most <lb/>excellent country, as he can easily raise on this cheap <lb/>land all the necessaries, and many of the luxuries, of <lb/>life. He will find it difficult to get gold or silver, <lb/>or even our own bad bank notes; but a man cannot <lb/>be badly off with more beef, mutton, pork and <lb/>grain, than he can dispose of. He has no rent to <lb/>make up by term day: his taxes are next to no<lb break="no"/>thing, and although he may grumble to have to turn <lb/>his pigs into his corn field to save the expense of reap<lb break="no"/>ing it, or to see his apples rotting under his trees by <lb/>barn-fulls because he has not room or use for them, <lb/>yet still these are beatable distresses compared to those <lb/>of the poor farmers in our native land, and as I sup<lb break="no"/>pose in England. To the wealthier farmer the change <lb/>is not beneficial or desirable. It is true that if he <lb/>stays long in Britain he will soon become less weal<lb break="no"/>thy; yet still he would for some time regret the change. <lb/>He would miss many things made necessary by habit; <lb/>he would find his servants more lazy, and less obe<lb break="no"/>dient ; and he would even experience pain because the <lb/>modes of farming he is accustomed to will not do <lb/>here; but when he gets over these things, he <lb/>will find the advantage of the change. To say no<lb break="no"/>thing of the difference of the Government, and the sat<lb break="no"/>isfaction of chusing one's own rulers, there are many <lb/>desirable things here. I estimate, as the greatest, <lb/>the ease of providing for one's family. A man may, <lb/>with very little exertion, leave to all his children <lb/>land enough to make them independent. Hence that <lb/>sickening anxiety about the future fate of a family <lb/>is little known here."</p>
             </body>

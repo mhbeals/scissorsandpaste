@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>352</title>
+                    <title n="352">352</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141108 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141108 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1792-08-20"/>
@@ -47,9 +43,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
                         </list>
                     </keywords>
@@ -58,14 +54,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="6"/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from New York,
-                            <supplied reason="copy blur">???</supplied> 
-               </hi>
-            </hi>
-         </p>
+                <p><pb n="6"/><hi rend="center"><hi rend="italic">Extract of a letter from New York,<supplied reason="copy blur">???</supplied> </hi></hi></p>
                 <p>A complete overthrow has lately been given to <lb/>a numerous body of Indians, commanded by one <lb/>of their greatest Warriors, who was left dead on <lb/>the field, amongst many hundreds of his followers.</p>
                 <p>The attack was commenced on the morning of <lb/>the 28th of June, by a company of Regulars un<lb break="no"/>der the command of Lieutenant Morton of New <lb/>York, aided by a number of the neighbouring in<lb break="no"/>habitants; and after a contest of three hours, put <lb/>them totally to the rout. The carnage was ge<lb break="no"/>neral amongst the Indians, and no quarter given, <lb/>as it might operate as a terror in future to those <lb/>savage Freebooters, whose depredations on the <lb/>property of every description of individuals and <lb/>oftentimes<supplied reason="copy blur">???</supplied> with personal cruelty to those <lb/>in their power, has exasperated the Com<lb break="no"/>munities to the highest pitch of vengeance and <lb/>retaliation when an opportunity offered.</p>
             </body>

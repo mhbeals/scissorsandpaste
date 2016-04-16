@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>184</title>
+                    <title n="184">184</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1821-10-17"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,12 +51,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Colonial Intelligence</p>
-                <p>
-            <hi rend="smallcaps">Alarming Fires in the Woods of Main and </hi>
-            <lb/>
-            <hi rend="smallcaps">New Brunswick</hi>.–A gentleman, who arrived here on <lb/>Thursday, in the schooner Active, from Eastport, in<lb break="no"/>forms, that the drought in the neighbourhood of St. <lb/>Croix river, the present season, has been unusually <lb/>severe, and that the fires in the woods have raged to a <lb/>more alarming extent than ever before known. Se<lb break="no"/>veral buildings have been burnt at the parish of St. <lb/>Stephen's on the British side of the river, others were <lb/>saved with a great difficulty. From Calais to Eastport, <lb/>about a fortnight since, the vessel in which our infor<lb break="no"/>mant took passage was entirely enveloped in smoke.– <lb/>In various places, the fires have been burning for six <lb/>weeks ; there had been no rain for eight weeks to wet <lb/>the ground.– <hi rend="italic">Boston Paper</hi>.</p>
+                <p><pb/>Colonial Intelligence</p>
+                <p><hi rend="smallcaps">Alarming Fires in the Woods of Main and </hi><lb/><hi rend="smallcaps">New Brunswick</hi>.–A gentleman, who arrived here on <lb/>Thursday, in the schooner Active, from Eastport, in<lb break="no"/>forms, that the drought in the neighbourhood of St. <lb/>Croix river, the present season, has been unusually <lb/>severe, and that the fires in the woods have raged to a <lb/>more alarming extent than ever before known. Se<lb break="no"/>veral buildings have been burnt at the parish of St. <lb/>Stephen's on the British side of the river, others were <lb/>saved with a great difficulty. From Calais to Eastport, <lb/>about a fortnight since, the vessel in which our infor<lb break="no"/>mant took passage was entirely enveloped in smoke.– <lb/>In various places, the fires have been burning for six <lb/>weeks ; there had been no rain for eight weeks to wet <lb/>the ground.– <hi rend="italic">Boston Paper</hi>.</p>
                 <p>Extract of a letter to a Lady in the vicinity of <lb/>Chelmsford, dated New Essex, Graham's Town, on <lb/>the frontiers of Africa, June 21, 1821:–</p>
                 <p>"I am seven hundred miles from the Cape <lb/>of Good Hope, and should not receive intelligence of <lb/>an arrival there for at least three weeks ; but my cor<lb break="no"/>respondent at Cape Town will procure comfortable <lb/>lodgings, &amp;c. until a ship sails for Algoa Bay, which <lb/>is distant from me one hundred and thirty miles.– <lb/>Few ships from England proceed farther than the <lb/>Cape. Good ploughmen are wanted, and good foot<lb break="no"/>ploughs, with spare wrought-iron shares and coulters, <lb/>which are very expensive here ; iron-work nothing <lb/>under 1s. per lb. Ransome's ploughs sell for 14l. <lb/>each. Ploughmen will find plenty of employers, at <lb/>from 2l. to 8l. per month and their board. Meat <lb/>sells at 2d. per lb ; wheat 12s. bushel ; and bar<lb break="no"/>ley 6s. Other articles of housekeeping are about the <lb/>same price as in England ; but, on the other hand, we <lb/>are in one of the healthiest climates in the world, and <lb/>free from rent, tithes, and taxes of every descrip<lb break="no"/>tion. Any one may live here as well with 500l. as in <lb/>his native land with 5000l. The farming work is still[?] <lb/>done with oxen, which are very fine, and bought at <lb/>3l. each ; cows are 30s. ; and sheep, 6s. a-head (hav<lb break="no"/>ing tails that weight 8lb., a complete lump of fat) ; <lb/>clothes, linen, and all English goods, very dear.– <lb/>Good mechanics, of any description, have very high <lb/>wages. A cargo of Ladies would make a good specu<lb break="no"/>lation, in proceeding to the New Settlement ; for all <lb/>that came out with the settlers have got husbands."</p>
                 <p>By letters received from the Cape of Good Hope, <lb/>we understand that the Royal African corps was dis<lb break="no"/>banded there on the 26th of June last.</p>

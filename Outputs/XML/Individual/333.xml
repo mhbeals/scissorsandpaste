@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>333</title>
+                    <title n="333">333</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-06-24"/>
@@ -48,7 +44,7 @@
                     <keywords>
                         <list>
                             <item>Native Americans</item>
-                            <item>war</item>
+                            <item n="war">war</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -56,8 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="5"/> The Indians, on the borders of Kentucky, <lb/>continue to commit the most horrible acts of cruel<lb break="no"/>ty upon such unfortunate Americans as fall in <lb/>their power. The burning of the Miami villages, <lb/>and the destruction of their corn and vegetables, <lb/>instead of intimidating those ferocious savage, <lb/>have made them more and more vindictive and <lb/>restless; and being acquainted with all the passes <lb/>in the country, they bid defiance to their pursuers, <lb/>whom they frequently surprise and cut off.</p>
+                <p><pb n="5"/> The Indians, on the borders of Kentucky, <lb/>continue to commit the most horrible acts of cruel<lb break="no"/>ty upon such unfortunate Americans as fall in <lb/>their power. The burning of the Miami villages, <lb/>and the destruction of their corn and vegetables, <lb/>instead of intimidating those ferocious savage, <lb/>have made them more and more vindictive and <lb/>restless; and being acquainted with all the passes <lb/>in the country, they bid defiance to their pursuers, <lb/>whom they frequently surprise and cut off.</p>
             </body>
         </text>
     </TEI>

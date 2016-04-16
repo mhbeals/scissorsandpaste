@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>48</title>
+                    <title n="48">48</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-18"/>
@@ -44,9 +43,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
+                            <item n="sh87004890">international trade</item>
                             <item>Anglo-American relations</item>
-                            <item>religion</item>
+                            <item n="religion">religion</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -54,8 +53,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>The Minister is now said to be employed in <lb/>drawing up two plans, which will give rise to <lb/>very warm debates in Parliament : one is for set<lb break="no"/>tling a commercial arrangement between Great <lb/>Britain and Ireland ; the other for giving a con<lb break="no"/>stitution to Canada. In feeling the former, the <lb/>Minister will have to contend with strong com<lb break="no"/>mercial prejudices; in the latter, he will have to <lb/>encounter religious principles. The British <lb/>settlers in Canada are comparatively few in num<lb break="no"/>ber. The great bulk of the Canadians are the <lb/>descendants of French, and are Roman Catho<lb break="no"/>lics. The former are Protestants.</p>
+                <p><pb/>The Minister is now said to be employed in <lb/>drawing up two plans, which will give rise to <lb/>very warm debates in Parliament : one is for set<lb break="no"/>tling a commercial arrangement between Great <lb/>Britain and Ireland ; the other for giving a con<lb break="no"/>stitution to Canada. In feeling the former, the <lb/>Minister will have to contend with strong com<lb break="no"/>mercial prejudices; in the latter, he will have to <lb/>encounter religious principles. The British <lb/>settlers in Canada are comparatively few in num<lb break="no"/>ber. The great bulk of the Canadians are the <lb/>descendants of French, and are Roman Catho<lb break="no"/>lics. The former are Protestants.</p>
                 <p>Fleaury in france, and Walpole in England, <lb/>were not fonder of peace than Mr. Pitt. Con<lb break="no"/>quests may be made by war, but consequence and <lb/>wealth can only be obtained by a pacific system, <lb/>if the first commercial nation in the world.</p>
                 <p>Besides these considerations, the grand secret <lb/>has been discovered since the present Minister <lb/>came into power, that the best riddance England <lb/>ever had, was of her American Colonies ; because <lb/>by this means, she becomes thoroughly collected <lb/>at home, to oppose every foreign power, without <lb/>the expence and blood of supporting the Ameri<lb break="no"/>cans, at the same time that they cannot do with<lb break="no"/>out BRitish manufactures in one line or another.</p>
                 <p>Thus, they are under the necessity of protect<lb break="no"/>ing themselves, at the same time, that, like the <lb/>rest of Europe, they are obliged to resort to our <lb/>superior mercantile market.</p>

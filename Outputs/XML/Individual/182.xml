@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>182</title>
+                    <title n="182">182</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1821-07-16"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">American Papers.</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">American Papers.</hi></p>
                 <p>New York, May 8. <lb/>The sloop Hero, Capt. Palmer, arrived at <lb/>Stonington, last Tuesday, in seventy-three days <lb/>from New South Iceland, with a cargo of oil. <lb/>ON the 28th of March, in lat. 21. S. long. 35. W. <lb/>spokethe Brig Wilner, of London, from Buenos <lb/>Ayres, bound to Falmouth, England ; the Cap<lb break="no"/>tain of which informed Capt. P. that the Chilian <lb/>army, near Peru, had fought two battles with the <lb/>Royal army, in both of which the Chilian army <lb/>was victorious ; and it was supposed would cause <lb/>the surrender of Peru soon to the Chilians.</p>
                 <p>May 15. <lb/>The gigantic projects that occupy the atten<lb break="no"/>tion of our countrymen are truly surprising. A <lb/>plan is now forming, for example, to establish a <lb/>settlement at the mouth of the river Columbia, <lb/>for the purpose of importing teas direct from the <lb/>East Indies. It is then proposed to transport <lb/>this article of merchandize up the Columbia, un<lb break="no"/>til it reaches the rocky mountains, and then to <lb/>proceed by land to the navigable branch of the <lb/>Missouri. This embraces a space of three <lb/>hundred and forty miles in extent. Of this dis<lb break="no"/>tance 200 miles are represented by travellers as <lb/>constituting an excellent road ; the remaining <lb/>one hundred and forty comprehend the moun<lb break="no"/>tain barrier, which must be passed by the intre<lb break="no"/>pidity and labour of man. The merchandize <lb/>will then, by the aid of the Missouri and its <lb/>subsidiary streams, supply the whole western <lb/>continent with the refreshing beverage. This <lb/>shows the varied changes of commerse ; the <lb/>Atlantic States have heretofore been the medium <lb/>of supplying our western States with the pro<lb break="no"/>ductions of China ; but if this plan should be <lb/>carried into effect, we may receive our supply <lb/>from that country through the western States.</p>
                 <p>May 16. <lb/>It is worthy of remark, that among the nu<lb break="no"/>merous arrivals at this port yesterday, were three <lb/>British brigs from Dundee. This makes good <lb/>the remark of a late Scotch gazette, that <lb/>Dundee was becoming a place of considerable <lb/>trade.</p>

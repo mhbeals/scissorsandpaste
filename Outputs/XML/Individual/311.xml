@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>311</title>
+                    <title n="311">311</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1842-03-19"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>obituary</item>
+                            <item n="obituary">obituary</item>
                             <item>colonial politics</item>
                         </list>
                     </keywords>
@@ -53,12 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Monument to the late Earl of Dur<lb break="no"/>
-            </hi> 
-            <lb/>
-            <hi rend="smallcaps">hum.</hi> –The New Zealand Company have voted <lb/>t105, towards the erection of the monument to <lb/>the Earl of Durham–the noble earl having been <lb/>the first governor of this important company.</p>
+                <p><pb/><hi rend="smallcaps">Monument to the late Earl of Dur<lb break="no"/></hi> <lb/><hi rend="smallcaps">hum.</hi> –The New Zealand Company have voted <lb/>t105, towards the erection of the monument to <lb/>the Earl of Durham–the noble earl having been <lb/>the first governor of this important company.</p>
             </body>
         </text>
     </TEI>

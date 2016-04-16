@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>112</title>
+                    <title n="112">112</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1814-05-26"/>
@@ -45,12 +44,12 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item>crime</item>
+                            <item n="crime">crime</item>
                             <item>colonial government</item>
-                            <item>trade</item>
-                            <item>Maori</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="Maori">Maori</item>
                             <item>Pacific Islanders</item>
-                            <item>transportation</item>
+                            <item n="transportation">transportation</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -58,12 +57,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-                    <head>
-               <hi rend="smallcaps">New South Wales Intelligence</hi>
-                    </head>
-         </p>
+                <pb/><head><hi rend="smallcaps">New South Wales Intelligence</hi></head>
                 <p>A proclamation, issued by Governor Macquarrie, appears <lb/>in the Sidney Gazette of 14th May, stating that Peter Mills <lb/>Acting Deputy Surveyor of Lands at Port Dalrymple, Van <lb/>Dieman's Land, and George Williams, Acting Deputy Com<lb break="no"/>missary of Stores and provisions at the said settlement, had <lb/>absconded from their habitations, and fled to the woods ; that <lb/>their object was to live by rapine and violence ; to effect which <lb/>they had armed themselves, and taken the command of a gang <lb/>of 26 desperadoes, with whose aid they had committed nume<lb break="no"/>rous robberies–entering the lands of settlers, driving away <lb/>their cattle, and plundering their houses. The proclamation <lb/>declares that those who shall return to their houses and occu<lb break="no"/>pations before 1st December next, shall be pardoned and <lb/>saved harmless from all offences, except the crime of wilful <lb/>murder ; and denounces those who shall disregard this offer, <lb/>as outlaws.</p>
                 <p>Sydney, New South Wales, Jan. 4. <lb/>The Argo has arrived with a most extensive supply of tea, <lb/>viz, 167 chests of souchong, 200 ditto bobea, 200 hyson skin, <lb/>and young hyson 50 ; in all 617 chests. The consequences has <lb/>been a reduction in the price of souching from 30s to 5s per <lb/>lb currency. Shortly prior to the Argo's departure from the <lb/>Island of Mauritius, the Hope American ship, laden with tea <lb/>and sundies, valued at L80,000, was captured by his Maje<lb break="no"/>sty's sloop Harpy, Captain Allen.</p>
                 <p>In consequences of the oppressive conduct of several masters <lb/>of colonial and British ships, and of their crews towards the <lb/>natives of New Zealand, of Otaheite, and of the other islands <lb/>in the South Pacific Ocean, which have led to the destruction <lb/>of several vessels, with their crews, by the natives, and dis<lb break="no"/>turbed all trade and intercourse with those islands, both by <lb/>British shipping and that ofthe allied powers–his Excellency <lb/>has forbidden any vessel to clear out from any place in New <lb/>South Wales, without a bond given by the master or owner to <lb/>the naval officer for the time being at the port, for L.1000 <lb/>sterling, binding him and his crew not to commit any act of <lb/>hostility, or to be guilty of any trespass, or forment any animo<lb break="no"/>sities between the natives, or take any part in any war that <lb/>may prevail ; nor forcibly carry away any male or female in<lb break="no"/>habitants of the islands under penalty of forfeiting the sum <lb/>specified in the bond.</p>

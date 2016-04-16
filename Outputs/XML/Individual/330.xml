@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>330</title>
+                    <title n="330">330</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by <persName role="transcription"><ref target="http://www.mhbeals.com/about">M. H. Beals</ref></persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-01-07"/>
@@ -47,17 +43,17 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>census</item>
-                            <item>reprinting</item>
-                            <item>slavery</item>
+                            <item n="census">census</item>
+                            <item n="reprinting">reprinting</item>
+                            <item n="slavery">slavery</item>
                             <item>shipping news</item>
-                            <item>emigration</item>
-                            <item>war</item>
+                            <item n="emigration">emigration</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
-                            <item>slavery</item>
-                            <item>mining</item>
+                            <item n="slavery">slavery</item>
+                            <item n="mining">mining</item>
                             <item>shipping news</item>
-                            <item>trade</item>
+                            <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -65,74 +61,20 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="4"/>
-            <hi rend="center">
-               <hi rend="smallcaps">New-York</hi>
-            </hi> 
-            <lb/>
-            <hi rend="italic">Oct</hi>. 11. We are informed that the census of <lb/>Philadelphia is completed, and that the city is <lb/>found to contain fifty three thousand inhabitants.</p>
-                <p>A Petersburgh (Virginia) paper of the 30th <lb/>ult. informs the public of that state, that a serious <lb/>petition is now drawing up, to be presented to <lb/>the next congress, stating arguments in favour of <lb/>
-            <hi rend="italic">polygamy</hi>, from the plain principles of reason; and <lb/>praying that a man may legally marry two wives. <lb/>This, it is thought, will be the most effectual means <lb/>to extirpate the numerous race of <hi rend="italic">old maids</hi>, and <lb/>increase the population of the United States. <lb/>The petition is to be presented by a gentleman re<lb break="no"/>siding at Cabin Point.</p>
-                <p>
-            <hi rend="italic">Oct</hi>  12. In one of the Charleston papers of the <lb/>16th ult. appears the epistle from the yearly <lb/>meeting of the Quakers in London, to the friends <lb/>in Great Britain, Ireland and America. It is <lb/>remarkable that in the re-publication of this epis<lb break="no"/>stle in the Carolina paper, the whole paragraph <lb/>relative to theslave trade and negro slavery is o<lb break="no"/>mitted.</p>
-                <p>
-            <hi rend="italic">Oct</hi>. 13. The ship Betsy, Rook, arrived on <lb/>the 6th instant, at Wilmington, Delaware,, from <lb/>Londonderry, in Ireland. This vessel brought <lb/>in a large number of Irish emigrants, some of <lb/>them people of property; who, weary of the pa<lb break="no"/>tronage of their old tutelar saint, St. Patrick, have <lb/>come to settle themselves and their posterity in <lb/>America, under the more liberal auspices of St. <lb/>Tammany.</p>
-                <p>The following letter was written from a young <lb/>heir to the Probate Judge–Sir–My father de<lb break="no"/>parted this life not long <hi rend="italic">
-               <supplied reason="copy blur">hence</supplied>
-            </hi>, and has left a wi<lb break="no"/>dow and five <hi rend="italic">scorpions</hi>. I understand he died <hi rend="italic">de<lb break="no"/>etested</hi>  and made me <hi rend="italic">executioner</hi>, but as the estate <lb/>is like to prove <hi rend="italic">insolent</hi>, I was told that as you <lb/>was Judge of <hi rend="italic">reprobates</hi>, you must send me a let<lb break="no"/>ter of condemnation. <lb/>
-            <hi rend="center">And as in duty bound </hi>
-            <lb/>
-            <hi rend="center">
-               <supplied reason="copy blur">??? ???</supplied> pray, &amp;c.</hi>
-         </p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from a gentleman, in the county</hi>
-            </hi> 
-            <lb/>
-            <hi rend="center">
-               <hi rend="italic">of Lincoln, Massachusets, dated Sept</hi>. 14.</hi>
-         </p>
+                <p><pb n="4"/><hi rend="center"><hi rend="smallcaps">New-York</hi></hi> <lb/><hi rend="italic">Oct</hi>. 11. We are informed that the census of <lb/>Philadelphia is completed, and that the city is <lb/>found to contain fifty three thousand inhabitants.</p>
+                <p>A Petersburgh (Virginia) paper of the 30th <lb/>ult. informs the public of that state, that a serious <lb/>petition is now drawing up, to be presented to <lb/>the next congress, stating arguments in favour of <lb/><hi rend="italic">polygamy</hi>, from the plain principles of reason; and <lb/>praying that a man may legally marry two wives. <lb/>This, it is thought, will be the most effectual means <lb/>to extirpate the numerous race of <hi rend="italic">old maids</hi>, and <lb/>increase the population of the United States. <lb/>The petition is to be presented by a gentleman re<lb break="no"/>siding at Cabin Point.</p>
+                <p><hi rend="italic">Oct</hi>  12. In one of the Charleston papers of the <lb/>16th ult. appears the epistle from the yearly <lb/>meeting of the Quakers in London, to the friends <lb/>in Great Britain, Ireland and America. It is <lb/>remarkable that in the re-publication of this epis<lb break="no"/>stle in the Carolina paper, the whole paragraph <lb/>relative to theslave trade and negro slavery is o<lb break="no"/>mitted.</p>
+                <p><hi rend="italic">Oct</hi>. 13. The ship Betsy, Rook, arrived on <lb/>the 6th instant, at Wilmington, Delaware,, from <lb/>Londonderry, in Ireland. This vessel brought <lb/>in a large number of Irish emigrants, some of <lb/>them people of property; who, weary of the pa<lb break="no"/>tronage of their old tutelar saint, St. Patrick, have <lb/>come to settle themselves and their posterity in <lb/>America, under the more liberal auspices of St. <lb/>Tammany.</p>
+                <p>The following letter was written from a young <lb/>heir to the Probate Judge–Sir–My father de<lb break="no"/>parted this life not long <hi rend="italic"><supplied reason="copy blur">hence</supplied></hi>, and has left a wi<lb break="no"/>dow and five <hi rend="italic">scorpions</hi>. I understand he died <hi rend="italic">de<lb break="no"/>etested</hi>  and made me <hi rend="italic">executioner</hi>, but as the estate <lb/>is like to prove <hi rend="italic">insolent</hi>, I was told that as you <lb/>was Judge of <hi rend="italic">reprobates</hi>, you must send me a let<lb break="no"/>ter of condemnation. <lb/><hi rend="center">And as in duty bound </hi><lb/><hi rend="center"><supplied reason="copy blur">??? ???</supplied> pray, &amp;c.</hi></p>
+                <p><hi rend="center"><hi rend="italic">Extract of a letter from a gentleman, in the county</hi></hi> <lb/><hi rend="center"><hi rend="italic">of Lincoln, Massachusets, dated Sept</hi>. 14.</hi></p>
                 <p>"We have had a very wet season here since <lb/>you went from us, and the grass hoppers are in<lb break="no"/>numerable; they have eat up all the gardens, and <lb/>all the grass; of course, as the natural consequen<lb break="no"/>ces, we have no milk, neither shall we have any <lb/>beef or butter this season; the corn has also suffer<lb break="no"/>ed very much from those insects"</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Banbury (Georgia)</hi>
-            </hi> 
-            <lb/>
-            <hi rend="center">
-               <hi rend="italic">Sept</hi>. 20</hi>
-         </p>
-                <p>"A firm peace being now, to all appearance, <lb/>secured between the United States and the Creek <lb/>Indians, we may reasonable expect that the state <lb/>of Georgia will soon begin to feel the good effects. <lb/>The immediate beneficial consequences are alrea<lb break="no"/>dy at this moment taking place. The vast tracts <lb/>of fertile lands on both sides of the Altamahaw <lb/>river are rapidly rising in value, and nothing is <lb/>wanting here (to compensate for the scarcity of <lb/>slaves) but a hardy and industrious race of men, <lb/>who instead of being mere lookers on, in quality <lb/>of overseers and drivers, would condescend to put <lb/>their own hand to the axe or grubbing hoe, and <lb/>make this extensive territory one of the most desir<lb break="no"/>able in the habitable world. The country round <lb/>Sapola Sound and the mouth of Altamahaw, is <lb/>one of the most beautiful you can imagine,abound<lb break="no"/>ing with everything that can make life comfort<lb break="no"/>able, besides an excellent navigation and easy bar <lb/>at the north end of Sapola, with rather more wa<lb break="no"/>ter than that of Charleston. Several vessels are <lb/>hourly looked for from France, (one in particu<lb break="no"/>lar of 800 tons from Bourdeaux) to load with live <lb/>oak ship timber and
-<supplied reason="copy blur">???</supplied> in the river of St. Ma<lb break="no"/>ry's."</p>
-                <p> 
-            <cb/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Hampton (Virginia)</hi>
-            </hi> 
-            <lb/>
-            <hi rend="center">
-               <hi rend="italic">Sept</hi>. 25. </hi>
-            <lb/>"There are two articles produced in the great<lb break="no"/>est abundance on different parts adjoining James <lb/>river, the exportations of which, in the opinion of <lb/>rational men, ought to be considered as of the <lb/>greatest importance to this state. These articles <lb/>are coals, and clays for the several colours of paint, <lb/>which may be had in any quantity, and may be <lb/>afforded at moderate prices. The mines of coal, <lb/>from every discovery we have been able to make, <lb/>are inexhaustible; all the samples, however, that <lb/>you have yet seen are mere pickings up on the sur<lb break="no"/>face, and there is reason to believe that the deeper <lb/>we shall descend the better will be the quality of <lb/>the coal. When once a company can be est<lb break="no"/>blished with funds sufficient to take this matter in <lb/>hand, there is no doubt but that we can supply <lb/>the different capital of the United States with <lb/>coal equally good with that from Europe, and <lb/>at a much a more moderate price than that fre<lb break="no"/>quently brought. As to our paints, there are <lb/>none better in the world, and in quantity, when <lb/>manufactured. Several gentlemen in the country <lb/>up the river, of property and enterprize, are be<lb break="no"/>ginning to turn their attention to these branches; <lb/>and with all submissions to our legislature, it is <lb/>thought that these two articles are by no means <lb/>objects beneath their attention."</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Charleston, Sept</hi>. 27.</hi>
-         </p>
-                <p>"On Sunday last weas launched at Mr. Pri<supplied reason="copy blur">?</supplied>
-            <lb break="no"/>chard's ship yard, Hubcaw, a fine new brig, cal<lb break="no"/>culated to carry 700 barrels of rice, the property <lb/>of Mr. Hary Grant, and is to be called the Prin<lb break="no"/>gle. A number of spectators collected from the <lb/>city to view the pleasing sight, with which they <lb/>were no less delighted, than with the liberal en<lb break="no"/> 
-            <lb/>tertainment and polite attention of Mr. O<supplied reason="copy blur">???</supplied>."</p>
-                <p>
-            <hi rend="italic">Boston, Sept</hi>. 28. Yesterday sailed from this <lb/>port, the ship <hi rend="italic">Columbia</hi>, Capt. Robert Gray, on <lb/>a circum navigation voyage to the North-West <lb/>coast of America.–This is the second voyage <lb/>the Columbia has made to our coast–too much <lb/>praise cannot be given to the gentlemen, owners <lb/>of the ship, for their exertion in extending the <lb/>commerce of America. The native of<supplied reason="copy blur">???</supplied> 
-            <lb/>has returned to the place of its nativity.</p>
-                <p>
-            <hi rend="center">
-               <hi rend="italic">Dr. FRANKLIN</hi>
-            </hi> 
-            <lb/>
-            <hi rend="italic">Never declare yourself the author of a<supplied reason="copy blur">???</supplied>, </hi>
-            <lb/>
-            <hi rend="italic">without being, beyond doubt, certain of<supplied reason="copy blur">???</supplied>
-            </hi>, was <lb/>the Doctor's advice. He generally enforced his <lb/>percepts by giving an example.</p>
+                <p><hi rend="center"><hi rend="italic">Extract of a letter from Banbury (Georgia)</hi></hi> <lb/><hi rend="center"><hi rend="italic">Sept</hi>. 20</hi></p>
+                <p>"A firm peace being now, to all appearance, <lb/>secured between the United States and the Creek <lb/>Indians, we may reasonable expect that the state <lb/>of Georgia will soon begin to feel the good effects. <lb/>The immediate beneficial consequences are alrea<lb break="no"/>dy at this moment taking place. The vast tracts <lb/>of fertile lands on both sides of the Altamahaw <lb/>river are rapidly rising in value, and nothing is <lb/>wanting here (to compensate for the scarcity of <lb/>slaves) but a hardy and industrious race of men, <lb/>who instead of being mere lookers on, in quality <lb/>of overseers and drivers, would condescend to put <lb/>their own hand to the axe or grubbing hoe, and <lb/>make this extensive territory one of the most desir<lb break="no"/>able in the habitable world. The country round <lb/>Sapola Sound and the mouth of Altamahaw, is <lb/>one of the most beautiful you can imagine,abound<lb break="no"/>ing with everything that can make life comfort<lb break="no"/>able, besides an excellent navigation and easy bar <lb/>at the north end of Sapola, with rather more wa<lb break="no"/>ter than that of Charleston. Several vessels are <lb/>hourly looked for from France, (one in particu<lb break="no"/>lar of 800 tons from Bourdeaux) to load with live <lb/>oak ship timber and<supplied reason="copy blur">???</supplied> in the river of St. Ma<lb break="no"/>ry's."</p>
+                <p> <cb/><hi rend="center"><hi rend="italic">Extract of a letter from Hampton (Virginia)</hi></hi> <lb/><hi rend="center"><hi rend="italic">Sept</hi>. 25. </hi><lb/>"There are two articles produced in the great<lb break="no"/>est abundance on different parts adjoining James <lb/>river, the exportations of which, in the opinion of <lb/>rational men, ought to be considered as of the <lb/>greatest importance to this state. These articles <lb/>are coals, and clays for the several colours of paint, <lb/>which may be had in any quantity, and may be <lb/>afforded at moderate prices. The mines of coal, <lb/>from every discovery we have been able to make, <lb/>are inexhaustible; all the samples, however, that <lb/>you have yet seen are mere pickings up on the sur<lb break="no"/>face, and there is reason to believe that the deeper <lb/>we shall descend the better will be the quality of <lb/>the coal. When once a company can be est<lb break="no"/>blished with funds sufficient to take this matter in <lb/>hand, there is no doubt but that we can supply <lb/>the different capital of the United States with <lb/>coal equally good with that from Europe, and <lb/>at a much a more moderate price than that fre<lb break="no"/>quently brought. As to our paints, there are <lb/>none better in the world, and in quantity, when <lb/>manufactured. Several gentlemen in the country <lb/>up the river, of property and enterprize, are be<lb break="no"/>ginning to turn their attention to these branches; <lb/>and with all submissions to our legislature, it is <lb/>thought that these two articles are by no means <lb/>objects beneath their attention."</p>
+                <p><hi rend="center"><hi rend="italic">Extract of a letter from Charleston, Sept</hi>. 27.</hi></p>
+                <p>"On Sunday last weas launched at Mr. Pri<supplied reason="copy blur">?</supplied><lb break="no"/>chard's ship yard, Hubcaw, a fine new brig, cal<lb break="no"/>culated to carry 700 barrels of rice, the property <lb/>of Mr. Hary Grant, and is to be called the Prin<lb break="no"/>gle. A number of spectators collected from the <lb/>city to view the pleasing sight, with which they <lb/>were no less delighted, than with the liberal en<lb break="no"/> <lb/>tertainment and polite attention of Mr. O<supplied reason="copy blur">???</supplied>."</p>
+                <p><hi rend="italic">Boston, Sept</hi>. 28. Yesterday sailed from this <lb/>port, the ship <hi rend="italic">Columbia</hi>, Capt. Robert Gray, on <lb/>a circum navigation voyage to the North-West <lb/>coast of America.–This is the second voyage <lb/>the Columbia has made to our coast–too much <lb/>praise cannot be given to the gentlemen, owners <lb/>of the ship, for their exertion in extending the <lb/>commerce of America. The native of<supplied reason="copy blur">???</supplied> <lb/>has returned to the place of its nativity.</p>
+                <p><hi rend="center"><hi rend="italic">Dr. FRANKLIN</hi></hi> <lb/><hi rend="italic">Never declare yourself the author of a<supplied reason="copy blur">???</supplied>, </hi><lb/><hi rend="italic">without being, beyond doubt, certain of<supplied reason="copy blur">???</supplied></hi>, was <lb/>the Doctor's advice. He generally enforced his <lb/>percepts by giving an example.</p>
                 <p>I had been with a number of my acquaintance <lb/>taking the diversion of a dance at an inn. The <lb/>fiddler stepped out to get some refreshment. the <lb/>tavern keeper came in and advised us in a very <lb/>warm manner to make a collection for the fid<lb break="no"/>dler who had been scraping his cat gut several <lb/>hours in our service; we apparently agreed, and <lb/>he well pleased with the success of his persuasion, <lb/>went for his hat to collect what we were willing <lb/>to give. We took up an old newspaper, tore it <lb/>into small pieces, which we carefully folded and <lb/>put into our pockets. The tavern keeper goes <lb/>round the room, and we, very gravely, drop our <lb/>paper in his hat. The fiddler returns, and the <lb/>landlord with a cheerful face and an air of self ap<lb break="no"/>probation, boasts of what he had been doing for <lb/>him; "It was <hi rend="italic">I</hi>  persuaded them to make the <lb/>collection, <hi rend="italic">I</hi>  made them give, <hi rend="italic">I</hi>  went round to <lb/>every one, and see what <hi rend="italic">I</hi>  have got. If it had not <lb/>been for me"–the fiddler examines his prize, <lb/>and discovers the cheat–he vents all his anger up<lb break="no"/>on the poor landlord's shoulders, who thus suffer<lb break="no"/>ed for proclaiming himself the author of a pro<lb break="no"/>ject before its success was fully ascertained.</p>
             </body>
         </text>

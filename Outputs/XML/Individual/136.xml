@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>136</title>
+                    <title n="136">136</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1819-01-04"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,15 +51,11 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Reform in Upper Canada</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Reform in Upper Canada</hi></p>
                 <p>It has been already mentioned that Governor <lb/>Maitland, on opening the session of the Legis<lb break="no"/>lature of Upper Canada, recommended that mea<lb break="no"/>sures should be taken to prevent the meeting <lb/>of delegates for obtaining reform in Upper Cana<lb break="no"/>da. Accounts from Quebec and Montreal, da<lb break="no"/>ted the end of November, state, that in pursu<lb break="no"/>ance of this recommendation, the Legislature, <lb/>on one of the first days of its meeting, appoint<lb break="no"/>ed a Committee to inquire into the subject, who <lb/>almost instantly came to the following resolu<lb break="no"/>tion</p>
                 <p>Resolved, That it is the opinion of this Committee that <lb/>some such legislative provision should be enacted as the wis<lb break="no"/>dom of the Imperial Parliament has found it proper to pro<lb break="no"/>vide to meet similar occasions, to put it out of the power of <lb/>any designing persons to organize discontent.</p>
                 <p>The proceeding appears to have raised the in<lb break="no"/>dignation of the Gourlay or reforming party in <lb/>Upper Canada, as will be seen by the following <lb/>extract :–</p>
-                <p>Montreal, November 21. <lb/>This legislative provision, it will be immediate<lb break="no"/> 
-            <lb/>ly perceived, is the suspension of the Habeas <lb/>Corpus act, for that was the course pursued in <lb/>England. We do not believe that there is the <lb/>most remote necessity for such a measure. We <lb/>do not hesitate to say, that the members have <lb/>not spoken the sentiments of heir constituents, <lb/>in their echo of Sir P. Maitland's speech, with <lb/>the most humiliating servility ; and we feel con<lb break="no"/>vinced that it will not be borne with by the <lb/>people, while they have the control in any way <lb/>of their representatives. The sentiment therein <lb/>attempted to be disseminated is an <pb/>libel on the truly loyal people of Upper Canada. <lb/>It would sound in our ears like the knell of their <lb/>liberty, if we were not persuaded, that its adop<lb break="no"/>tion would provoke a spirit of resistance, not <lb/>corporal, but mental ; not secret and illegal, but <lb/>open and legitimate, which (if the Administra<lb break="no"/>tion do not take the decision of the question <lb/>from the people by force, and we believe they <lb/>cannot nor dare not) will serve to purge the con<lb break="no"/>stitution of the united province from the injury <lb/>which it has received by mal-administration.</p>
+                <p>Montreal, November 21. <lb/>This legislative provision, it will be immediate<lb break="no"/> <lb/>ly perceived, is the suspension of the Habeas <lb/>Corpus act, for that was the course pursued in <lb/>England. We do not believe that there is the <lb/>most remote necessity for such a measure. We <lb/>do not hesitate to say, that the members have <lb/>not spoken the sentiments of heir constituents, <lb/>in their echo of Sir P. Maitland's speech, with <lb/>the most humiliating servility ; and we feel con<lb break="no"/>vinced that it will not be borne with by the <lb/>people, while they have the control in any way <lb/>of their representatives. The sentiment therein <lb/>attempted to be disseminated is an <pb/>libel on the truly loyal people of Upper Canada. <lb/>It would sound in our ears like the knell of their <lb/>liberty, if we were not persuaded, that its adop<lb break="no"/>tion would provoke a spirit of resistance, not <lb/>corporal, but mental ; not secret and illegal, but <lb/>open and legitimate, which (if the Administra<lb break="no"/>tion do not take the decision of the question <lb/>from the people by force, and we believe they <lb/>cannot nor dare not) will serve to purge the con<lb break="no"/>stitution of the united province from the injury <lb/>which it has received by mal-administration.</p>
             </body>
         </text>
     </TEI>

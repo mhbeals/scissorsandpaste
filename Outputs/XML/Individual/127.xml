@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>127</title>
+                    <title n="127">127</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-07-16"/>
@@ -44,9 +43,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
-                            <item>military</item>
+                            <item n="military">military</item>
                             <item>colonial government</item>
                         </list>
                     </keywords>
@@ -55,15 +54,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Canada</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Canada</hi></p>
                 <p>Papers from Upper Canada contain the draft <lb/>of a petition to the Prince Regent, founded on <lb/>the resolutions adopted in the province of Nia<lb break="no"/>gara, where some discontent has been manifested. <lb/>The first part is as follows:–</p>
                 <p>"To his Royal Highness George Prince of Wales, Regent <lb/>of the United Kingdom of Great Britain and Ireland, <lb/>&amp;c. the humble Address of the Inhabitants of Upper <lb/>Canada</p>
-                <p>
-            <hi rend="italic">May it please your Royal Highness,</hi>
-         </p>
+                <p><hi rend="italic">May it please your Royal Highness,</hi></p>
                 <p>"The subjects of your Royal Father, dwelling in Upper <lb/>Canada, should need no words to give assurance of their <lb/>loyalty, if the whole truth had reached the throne of their <lb/>Sovereign. His subjects have reason to believe that the truth <lb/>has not been told.</p>
                 <p>During three years of war, Upper Canada was exposed <lb/>to the ravages of a powerful and inveterate foe. The Go<lb break="no"/>vernment of the United States had been long concerting the <lb/>invasion of this province. Hostile preparations against it had <lb/>been long masked under other designs ; and at last the ac<lb break="no"/>cumulated torrent of violence burst on the defencless chil<lb break="no"/>dren of the British empire. Nor were they assailed by the <lb/>weapons of war alone ; an invidious proclamation preceded <lb/>those host of the enemy, forgetful of honour, regardless of hu<lb break="no"/>manity, and daring to seduce the subjects of Britain from <lb/>their true allegiance. The subjects of Britain remained <lb/>dauntless and firm. It was not for their property that they <lb/>rose against their invaders ; the invader would have spared to <lb/>them their property. They flew to arms in defence of the <lb/>rights and sovereignty of Britain. Twice has the American <lb/>standard been planted in Upper Canada, while yet but a hand<lb break="no"/>ful of British troops aided the native battalions wave the laurel of <lb/>victory over the protrate intruders on their soil. The se<lb break="no"/>cond year of war saw Canada contending with yet little as<lb break="no"/>sistance from the parent state. The second year of the war <lb/>saw her sons confirmed in their virtue, and still more deter<lb break="no"/>mined to resist. Wives and children had fled from their <lb/>homes ; the face of the country was laid waste, and the fire of <lb/>revenge was sent forth to consummate distress and misery ; <lb/>still was the spirit of the people unextinguished, still did it <lb/>burn with patriotism and loyalty.</p>
                 <p>"By the third year every risk of conquest was at an end, for <lb/>now the British aid poured into the provinces, and peace <lb/>was proclaimed when war was no longer to be feared.</p>
@@ -75,8 +69,7 @@
                 <p>"The young men of this province, who were armed in <lb/>its defence had, for their spirited conduct, the promise of <lb/>their commanders, that land would be granted them as a <lb/>reward for their services, as soon as war was terminated ; <lb/>and after this promise was universaly confided in the Parlia<lb break="no"/>ment of Upper Canada passed an extraordinary law, in the face <lb/>of established British principles, that militia should pass <lb/>beyond the frontier. With these promises, and in obedience <lb/>to this law, the militia passed beyond the frontier with <lb/>alacrity ; yet since the peace, the greater part of them had <lb/>been denied the pledge of their extraordinary services, and <lb/>the land is unjudtly withheld."</p>
                 <p>The petition further states that such ingratitude, <lb/>such dishonour, such errors in policy, could not <lb/>exist without extraordinary influences, and it <lb/>recommends most important changes equally for <lb/>the glory of the throne, and benefit of the <lb/>subject. It says that the scandalous abuses came <lb/>some years ago to such a pitch of monstrous in<lb break="no"/>gratitude, the the home Ministers wisely im<lb break="no"/>posed restriction on the Land Council of Upper <lb/>Canada. It seems, however, that all this was <lb/>insufficient, and that confusion on confusion has <lb/>grown out of this unhappy system. Upper Ca<lb break="no"/>nada, it is now said, pines in comparative de<lb break="no"/>cay, and that discontent and poverty are expe<lb break="no"/>rienced in a land supremely blessed with the <lb/>gifts of nature.</p>
                 <p>It is insisted that the immediate interfe<lb break="no"/>rence of his Royal Highness might do <lb/>much to remove the evils which spring from the <lb/>system of patronage and favouritism, and it as<lb break="no"/>serts that the interposition of the British Par<lb break="no"/>liament is more imperiously required. It con<lb break="no"/>cludes as follows:–" Deeply penetrated with <lb/>these sentiments, and most seriously inclined to <lb/>have changes speedily effected, the loyal <lb/>subjects of Great Britain dwelling in Upper <lb/>Canada now take the extraordinary step of send<lb break="no"/>ing home Commissioners to bear this to the <lb/>throne, and humbly intreat your Royal High<lb break="no"/>ness to give ear to the details which it will be in <lb/>their power to relate: above all, that your Royal <lb/>Highness would immediately send out to this <lb/>province a commission, consisting of discreet</p>
-                <p>
-            <pb/>and wise men, men of business and talent, who <lb/>shall be above every influence here, and who <lb/>may be instructed to make inquiry into all the <lb/>sources of evil.</p>
+                <p><pb/>and wise men, men of business and talent, who <lb/>shall be above every influence here, and who <lb/>may be instructed to make inquiry into all the <lb/>sources of evil.</p>
             </body>
         </text>
     </TEI>

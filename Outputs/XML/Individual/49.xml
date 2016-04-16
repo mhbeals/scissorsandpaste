@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>49</title>
+                    <title n="49">49</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-21"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>revolution</item>
+                            <item n="revolution">revolution</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,8 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Letters from Jamaica say, that by vessels arri<lb break="no"/>ved there from Hispaniola, there are advices that <lb/>the French inhabitants of that island feel, with <lb/>unabating energy, the glorious cause in which <lb/>their patriotic countrymen in Old France are em<lb break="no"/>barked. Men of every class and description wear <lb/>the national cockade of blue and white. Their <lb/>accounts from France, similar in date and sub<lb break="no"/>stance to ours, have filled them with the most <lb/>lively hopes, and animated them with a spirit of <lb/>resistance to the measures of their Government, <lb/>as forcible as it was unexpected by those entrust<lb break="no"/>ed with the executive power. At Port au Prince <lb/>both the Governor and Intendant have rendered <lb/>themselves completely odious, by vain attempts <lb/>to counteract an impulse that is irresistible. The <lb/>effigy of Mons. Marbois, the latter, has been <lb/>hung and burnt; the people loudly insist that <lb/>both shall immediately quit the colony, and their <lb/>departure is hourly expected. The press, hither<lb break="no"/>to under the severest restraint, triumphs in its free<lb break="no"/>dom; and their weekly publications give an ac<lb break="no"/>count of the proceedings of the States General <lb/>without the smallest reserve.</p>
+                <p><pb/>Letters from Jamaica say, that by vessels arri<lb break="no"/>ved there from Hispaniola, there are advices that <lb/>the French inhabitants of that island feel, with <lb/>unabating energy, the glorious cause in which <lb/>their patriotic countrymen in Old France are em<lb break="no"/>barked. Men of every class and description wear <lb/>the national cockade of blue and white. Their <lb/>accounts from France, similar in date and sub<lb break="no"/>stance to ours, have filled them with the most <lb/>lively hopes, and animated them with a spirit of <lb/>resistance to the measures of their Government, <lb/>as forcible as it was unexpected by those entrust<lb break="no"/>ed with the executive power. At Port au Prince <lb/>both the Governor and Intendant have rendered <lb/>themselves completely odious, by vain attempts <lb/>to counteract an impulse that is irresistible. The <lb/>effigy of Mons. Marbois, the latter, has been <lb/>hung and burnt; the people loudly insist that <lb/>both shall immediately quit the colony, and their <lb/>departure is hourly expected. The press, hither<lb break="no"/>to under the severest restraint, triumphs in its free<lb break="no"/>dom; and their weekly publications give an ac<lb break="no"/>count of the proceedings of the States General <lb/>without the smallest reserve.</p>
             </body>
         </text>
     </TEI>

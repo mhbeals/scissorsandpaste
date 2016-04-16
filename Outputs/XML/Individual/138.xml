@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>138</title>
+                    <title n="138">138</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1819-04-28"/>
@@ -44,9 +43,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>meeting</item>
-                            <item>obituary</item>
-                            <item>banking</item>
+                            <item n="meeting">meeting</item>
+                            <item n="obituary">obituary</item>
+                            <item n="banking">banking</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -54,20 +53,13 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Colonial Intelligence. <lb/>Halifax, March 13.</p>
+                <p><pb/>Colonial Intelligence. <lb/>Halifax, March 13.</p>
                 <p>A very numerous and respectable meeting of the in<lb break="no"/>habitants of this town was held at the Exchange Coffee<lb break="no"/>house, on Saturday last, George Grassie. Esq. to the <lb/>Chair. It was resolved unaminously–That the Legis<lb break="no"/>lature be petitioned to authorise the establishment of a <lb/>bank in Halifax.–That 50,000l be the capital, to be <lb/>invested in the British funds.–That notes to the a<lb break="no"/>mount of 150,000l be issued by the Bank.–That the <lb/>shares be 100l each, and every five shares, according <lb/>to a classification, entitled to a vote.–That the Bank <lb/>be authorised to pay notes presented, either in specie, <lb/>provincial paper, or bills of exchange on London at <lb/>the current rate – A Committee was then appointed to <lb/>prepare the Petition, and cause it to be presetned to <lb/>the Legislature. The gentlemen present immediately <lb/>afterwards unanimously agreed to give to the doubloun <lb/>the value of 4l and to the sovereigh the value 1l, 2s. <lb/>6d. currency. The meeting then adjourned.</p>
-                <p>
-            <hi rend="smallcaps">York, Upper Canada, Feb. 6. </hi>
-            <lb/>
-            <hi rend="smallcaps">Tex v. The Earl of Selkirk and others</hi>
-         </p>
+                <p><hi rend="smallcaps">York, Upper Canada, Feb. 6. </hi><lb/><hi rend="smallcaps">Tex v. The Earl of Selkirk and others</hi></p>
                 <p>A bill of indictment, for a conspiracy to ruin the <lb/>trade of the North West Company, and impoverish the <lb/>partnes thereof, was found by the Grand Jury, against <lb/>Thomas Douglas, Early of Selkirk ; J. B. Chevalier de <lb/>Lorimer, Captain in his Majesty's Indian Department ; <lb/>Captain Pratais D'Orsonnens, late of the De Meuron <lb/>Regiment ; Captain Frederick Matthey, ditto ; Lieu<lb break="no"/>tenant G. A. Fauche, ditto ; Lieutenant Frederick <lb/>Graffenrad, ditto ; Serjeant Jacob Vichie, ditto ; Cap<lb break="no"/>tain Miles Macdonnel, late of the Canadian Fecibles ; <lb/>Lieutenant Alexander Bridport Beecher, late of the <lb/>Royal Navy ; Doctor John Allen, John Spencer, Do<lb break="no"/>nald Macpherson, James Chatelain, John M'Nab, Ar<lb break="no"/>chibald Macdonald, and John P. Bourke.</p>
                 <p>The indictment contains three counts ; and amongst <lb/>the numerous overt acts therein set forth, support<lb break="no"/>ed by documentary and oral evidence, the following <lb/>were particularly prominent :– The engaging and ar<lb break="no"/>mind a number of disbanded soldiers (foreigners) ; the <lb/>entry of them, by force of arms, into Fort William, <lb/>in August, 1816 ; retaining possession of the fort till <lb/>May 1817 ; sending off as prisoners the partners of <lb/>the North West Company found there ; getting rid of <lb/>the clerks, by subpoenas to appear at York at a period <lb/>when no courts are held there, without ever inquiring <lb/>whether they know anything of the matters to which <lb/>the subpoenas related, and without ever bringing them <lb/>forward afterwards ; stopping of the outfits from going <lb/>into the interior, and the returns from coming into <lb/>Montreal ; possessing themselves of all the books and <lb/>papers of the concern ; sending away the principal <lb/>clerk under a charge of felony, without examination, <lb/>and without having ever followed up the charge ; the <lb/>pretended sale, by Daniel Mackenzie, of the North <lb/>West property, obtained by his Lordship by means of <lb/>continued duress ; tampering with, and debauching the <lb/>North West Company's servants, and commanding <lb/>them in the King's name ; writing circular letters to <lb/>the partners and clerks in the interior country, advis<lb break="no"/>ing them to abandon their trust, alleging that the <lb/>North West Company were ruined, and to carry the <lb/>furs to Hudson's Bay ; taking possession of Fort Lake <lb/>La Pluie, and the property there, and stopping the na<lb break="no"/>vigation, &amp;c, &amp;c.</p>
                 <p>Upon this being returned a true bill the Attorney<lb break="no"/>General moved the process of the Court against the <lb/>parties ; and Dr Allen being present, was to be ar<lb break="no"/>raigned the following day.</p>
-                <p>
-            <hi rend="smallcaps">Wm Smith v. The Earl of Selkirk</hi>
-         </p>
+                <p><hi rend="smallcaps">Wm Smith v. The Earl of Selkirk</hi></p>
                 <p>This was a civil action brough by Mr Wm Smith <lb/>against Lord Selkirk for false imprisonment.</p>
                 <p>It appeared in evidence that the plaintiff was under<lb break="no"/>sheriff of the Western District, and as such, the bear<lb break="no"/>er of a writ of restitution founded upon a verdict of a <lb/>special jury at Sandwich, in October 1816, and grant<lb break="no"/>ed by the Magistrate, ordering the restoration of Fort <lb/>William to the North West Company. He was also <lb/>the bearer of a warrant, for felony, issued against his <lb/>Lordship, Dr Allen, Captain Matthey, and others, u<lb break="no"/>pon an information upon oath before a justice of the <lb/>Peace. Mr Smith got to Fort William on the 19th of <lb/>March 1817, and produced his writ of restitution, <lb/>with which his Lordship refused to comply ; and when <lb/>the Earl and others were arrested by Mr Smith, upon <lb/>the warrant for felony, his Lordship laid hold of him <lb/>and pushed him out of doors ; and he was afterwards <lb/>kept in close custody in the fort under a military guard. <lb/>A circumstance which added much to the grievous na<lb break="no"/>ture of the offence, and which was particularly dwelt <lb/>upon by the Judge, in his charge to the Jury, was, that <lb/>whilst Mr Smith was kept in a rigorous confinement, <lb/>Charles de Reinhard, though under an accusation of <lb/>was at large and keeping a school, though no<lb break="no"/>minally under the surveillance of one or two of his for<lb break="no"/>mer comrades. The Chief Justice also remarked upon a<lb break="no"/>nother part of the evidence for the defence, by which <lb/>it appeared that the only option left to Mr Smith to ob<lb break="no"/>tain his liberty was that of abandoning his duty, and <lb/>breaking his oath of office, by a promise not to molest <lb/>Lord Selkirk. Mr Smith, however, notwithstanding <lb/>this proposal, persisted in doing his duty, and was not <lb/>liberated until the evacuation of Fort William by his <lb/>Lordship and his forces in May, 1818.</p>
                 <p>The Jury after some deliberation, returned a verdict <lb/>in favour of the plaintiff.– Damages L.500 Halifax <lb/>currency.</p>

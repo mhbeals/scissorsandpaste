@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>271</title>
+                    <title n="271">271</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1838-06-09"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,14 +51,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration</hi>
-         </p>
-                <p>
-            <hi rend="smallcaps">The</hi>  Annual Report on Emigration just issued <lb/>contains, besides the usual, correspondences and <lb/>documents connected with the plan which has been <lb/>some time in operation, of transferring labourers from <lb/>India to the Mauritius, and which it is now proposed <lb/>to extend to New South Wales. Leaving this sub<lb break="no"/>jest for the present, we shall state the general results[?] <lb/>of the emigration to Canada.</p>
-                <p>The Report shows, that the whole number of <lb/>emigrants who landed at Quebec or Montreal, in the <lb/>last nine years, was 259,788[?], averaging very nearly <lb/>29,000 per annum. The years of greatest emigration <lb/>were 1831 and 1832, the numbers for these years be<lb break="no"/>ing respectively 50,254 and 51,746. The proportions[?] [?] <lb/>furnished by the three kingdoms in the nine years <lb/>were as follows :–Among eight emigrants there were <lb/>five Irishmen, two Englishmen, and one Scotsman. <lb/>Scotland in proportion to its population has sent off <lb/>three times as many emigrants, and Ireland about <lb/>nine times as may as England; and it should be <lb/>added, that a certain part of the emigration from <lb/>England is artificial, consisting of paupers sent out at <lb/>the expense of their parishes. Emigrations offers the <lb/>most natural, practicable, and safe means of relieving a <lb/>country of its redundant or unemployed population ; <lb/>and it may be asked, why it is so much less resorted to <lb/>in England than in Scotland and Ireland? It cannot[?] <lb/>be the ignorance of the English, for this would lead <lb/>to the inference that the Irish, who emigrate in the <lb/>largest numbers, were the best informed of the three <lb/>nations. It is, we apprehend, nothing but the Poor <lb/>Laws, which hold out to the labourer the certainty of <lb/>a subsistence at home, however idle or improvident he <lb/>may be, and render him averse to live in the colo<lb break="no"/>nies, where he would have no such resource. This is <lb/>only one of the many evils which these laws have pro<lb break="no"/> 
-            <lb/>duced, not only to the country at large, but to the la<lb break="no"/>bouring classes themselves, whose average condition <lb/>was greatly deteriorated, while only a fraction of their <lb/>number shared the benefit of the allowance. We <lb/>speak of the Poor Laws as they existed before the Act <lb/>of 1834 was passed.</p>
+                <p><pb/><hi rend="smallcaps">Emigration</hi></p>
+                <p><hi rend="smallcaps">The</hi>  Annual Report on Emigration just issued <lb/>contains, besides the usual, correspondences and <lb/>documents connected with the plan which has been <lb/>some time in operation, of transferring labourers from <lb/>India to the Mauritius, and which it is now proposed <lb/>to extend to New South Wales. Leaving this sub<lb break="no"/>jest for the present, we shall state the general results[?] <lb/>of the emigration to Canada.</p>
+                <p>The Report shows, that the whole number of <lb/>emigrants who landed at Quebec or Montreal, in the <lb/>last nine years, was 259,788[?], averaging very nearly <lb/>29,000 per annum. The years of greatest emigration <lb/>were 1831 and 1832, the numbers for these years be<lb break="no"/>ing respectively 50,254 and 51,746. The proportions[?] [?] <lb/>furnished by the three kingdoms in the nine years <lb/>were as follows :–Among eight emigrants there were <lb/>five Irishmen, two Englishmen, and one Scotsman. <lb/>Scotland in proportion to its population has sent off <lb/>three times as many emigrants, and Ireland about <lb/>nine times as may as England; and it should be <lb/>added, that a certain part of the emigration from <lb/>England is artificial, consisting of paupers sent out at <lb/>the expense of their parishes. Emigrations offers the <lb/>most natural, practicable, and safe means of relieving a <lb/>country of its redundant or unemployed population ; <lb/>and it may be asked, why it is so much less resorted to <lb/>in England than in Scotland and Ireland? It cannot[?] <lb/>be the ignorance of the English, for this would lead <lb/>to the inference that the Irish, who emigrate in the <lb/>largest numbers, were the best informed of the three <lb/>nations. It is, we apprehend, nothing but the Poor <lb/>Laws, which hold out to the labourer the certainty of <lb/>a subsistence at home, however idle or improvident he <lb/>may be, and render him averse to live in the colo<lb break="no"/>nies, where he would have no such resource. This is <lb/>only one of the many evils which these laws have pro<lb break="no"/> <lb/>duced, not only to the country at large, but to the la<lb break="no"/>bouring classes themselves, whose average condition <lb/>was greatly deteriorated, while only a fraction of their <lb/>number shared the benefit of the allowance. We <lb/>speak of the Poor Laws as they existed before the Act <lb/>of 1834 was passed.</p>
                 <p>The number of emigrants who went to Canada <lb/>last year was 21,901, of whom 1399 went from <lb/>Scotland, 5580 from England, 14,538 from <lb/>Ireland, and 274 from Nova Scotia, Newfound<lb break="no"/>land, or the West Indies. In 1836 the number of <lb/>emigrants was 27,728. The ports in Scotland from <lb/>which the greatest numbers sail are Greenock, Leith, <lb/>Aberdeen, and Cromarty. Of the emigrants in 1837, <lb/>4000 settled in Lower Canada, 16,300 in Upper Cana<lb break="no"/>da, 1500 went to the United States, and ninety-two <lb/>died in the hospital or quarantine station.</p>
                 <p>In the same period of nine years, 236,288[?] British <lb/>emigrants have landed at new York, or fully 26,000 <lb/>per annum on average. There is a great fluctua-[?] <lb/>tion in the number. In 1833 and 1835 it was only <lb/>16,000 ; in 1837 it was 34,000 ; in 1836 no less than <lb/>59,075 ; and addingthe 27,728 who went to Canada, <lb/>no less than 86,800 persons must have landed at New <lb/>York and Quebec from the British Isles in [?]. <lb/>There is a discrepancy, however, between this account <lb/>and another in a different Return, also newly pub<lb break="no"/>lished. The Report of the "Agent-General for Emi<lb break="no"/>gration," makes the number who went to the United <lb/>States from Britain in 1836, only 37,774. The for<lb break="no"/>mer probably comprehends all British born subjects, <lb/>including persons from Nova Scotia, Canada, and the <lb/>West Indies, and probably all passengers, many of <lb/>whom returned.</p>
                 <p>The Agent-General gives the number of persons <lb/>who emigrated to the British Colonies and the United <lb/>States for every year since 1825. We present merely <lb/>the average for the last year seven years.</p>

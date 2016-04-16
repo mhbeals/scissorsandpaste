@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="387">387</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority> Collected from a digital image on <date when="2013-02-24">20130224</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-11-20">20151119</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from Google News Archive</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-09-07"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item>slave rebellion</item>
+                            <item n="slavery">slavery</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+              <head><hi rend="center"><hi rend="italic">Slaves in the West Indies.</hi></hi></head>
+                <p><pb n="6"/><hi rend="italic">Spes addita suscitat iras</hi>, Hope inflames resent<lb break="no"/>ment. Vengeance against the injuries we have <lb/>inflicted on the Negroes, when they are inflamed <lb/>with the hope of emancipation, will be livelier <lb/>than gratitude for freedom to which they are en<lb break="no"/>titled in justice. The insurrections among the <lb/>slaves in the French West India islands form a dis<lb break="no"/>mal presage of what we may expect in our own. <lb/>We have managed this business not like men of <lb/>sense, concerned in a general welfare of the Bri<lb break="no"/>tish empire, but with the pedantry and precipita<lb break="no"/>tion of school boys.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>170</title>
+                    <title n="170">170</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-07-12"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,11 +51,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>Colonial Intelligence</p>
-                <p>
-            <hi rend="smallcaps">Proposed New Monarchy in  <lb/>South America</hi>
-         </p>
+                <p><pb/>Colonial Intelligence</p>
+                <p><hi rend="smallcaps">Proposed New Monarchy in  <lb/>South America</hi></p>
                 <p>Accounts have beenreceived from Buenos Ayres, <lb/>by the Blossom sloop of War, of a curious nature.– <lb/>They relate to a project said to have been in agitation for <lb/>placing a Prince of the House of Bourbon at the head <lb/>of an independent Sovereignty on the River Plate.– <lb/>The circumstance has been brought to light by the late <lb/>changes in the Government of Buenos Ayres. From <lb/>the documents now published, and received by the <lb/>Blossom, it appears that in June, 1819. Gomez the <lb/>Envoy from Buenos Ayres, at Paris, was invited to a <lb/>conference by M. De Cazes, then French Minister for <lb/>Foreign Affairs, the object of which was to communi<lb break="no"/>cate a project of the French Cabinet for the colonsolida<lb break="no"/>tion of the Independent Government of South Ame<lb break="no"/>rica.</p>
                 <p>This project, the French Minister observed, would <lb/>meet with the decided approbation of the Continental <lb/>Powers, especially Russia and Austria. Great Britain <lb/>might not like it, but yet would not find any good pre<lb break="no"/>tence for resisting it ; and his Catholic Majesty would <lb/>yield to the influence of all Europe with the better <lb/>grace, as his former dependencies would be only trans<lb break="no"/>ferred to a branch of his own family. The King of <lb/>France would furnish assistance of every king, and em<lb break="no"/>ploy every means, even to the supply of troops, for car<lb break="no"/>rying the affair into execution.</p>
                 <p>On the 26th of October last, when the statement of <lb/>his conference reached Buenos Ayres, Rondeau, then <lb/>Director <hi rend="italic">ad interim</hi>  made a secret communication to <lb/>the Congress, and transmitted to them the letter of the <lb/>Envoy, together with the French memorial ; on the <lb/>following day, and on the 3d of November, the matter <lb/>was discussed in secret meetings, and the result was an[?] <lb/>opinion, that the Constitution lately-sworn allowed <lb/>no alteration to be made in the form of Government <lb/>till after the meeting of the Chambers. That a branch <lb/>of the Bourbon family, so closely connected with the <lb/>reigning Monarch of Spain, was in itself an insuperable <lb/>objection, as also the consideration that the Prince <lb/>proposed and supported by the Powers of the Euro<lb break="no"/>pean Continent, would naturally more incline towards <lb/>the views of his protectors than towards those of South <lb/>America, which ought to avoid all connexion with Eu<lb break="no"/>ropean continental politics ; and that Great Britain was <lb/>the power from which South America had most to <lb/>fear, and most to expect.</p>

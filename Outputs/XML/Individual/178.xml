@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>178</title>
+                    <title n="178">178</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1821-05-03"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,15 +51,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Canada</hi>
-         </p>
-                <p>
-            <hi rend="smallcaps">Provincial Parliament of Lower Canada </hi>
-            <lb/>
-            <hi rend="smallcaps">Quebec Legislative Council–March 17.</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Canada</hi></p>
+                <p><hi rend="smallcaps">Provincial Parliament of Lower Canada </hi><lb/><hi rend="smallcaps">Quebec Legislative Council–March 17.</hi></p>
                 <p>This day his Excellency the Governor in Chief made the <lb/>following[?] speech to both Houses:–</p>
                 <p>"Gentlemen of the Legislative Council and Gentlemen <lb/>of the House of Assembly,</p>
                 <p>"When the Parliament met for the dispatch of public <lb/>business[?], I did entertain a hope that the experience of the <lb/>[?] few years would have led you to a mature and serious <lb/>consideration[?] of the consequences that would inevitably <lb/>follow[?], if the then state of things should not be remedied ; <lb/>I[?] cannot therefore be surprised that I should now ex<lb break="no"/>press[?] not only my disappointment, but great concern that <lb/>[?] same question of constitutional principle should have <lb/>[?]ia disturbed the unanimity of your legislative proceed<lb break="no"/>ings[?].</p>

@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>296</title>
+                    <title n="296">296</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1840-12-05"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,12 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Emigration to New Zealand– </hi>
-            <lb/>
-            <hi rend="smallcaps">The Chartists Again.</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Emigration to New Zealand– </hi><lb/><hi rend="smallcaps">The Chartists Again.</hi></p>
                 <p>( <hi rend="italic">From the Glasgow Argus.</hi>.</p>
                 <p>On Monday night a public meeting, chiefly com<lb break="no"/>posed of the working classes, was held in the Justi<lb break="no"/>ciary Court Hall, Glasgow, for the purpose of memo<lb break="no"/>rializing Lord John Russell in favour of obtaining <lb/>the Lord Provost in the chair. The hall was crowded <lb/>to excess, and it was perfectly evident from the first that <lb/>the Chartists had mustered in great strength to carry <lb/>out their usual course of obstruction to the particular <lb/>business of the evening.–Mr T. Gillespie proposed a <lb/>resolution in favour of emigration to New Zealand <lb/>through the medium of funds raised by the sale of <lb/>lands in the colony, and addressed the meeting at <lb/>some length in support of the resolution.–Mr R. Malcolm, jun. <lb/>a young lad, and a Chartist spouter, after a long <lb/>speech, proposed an amendment; to the effect that <lb/>while the meeting was favourable to emigration to New <lb/>Zealand, or any other part of the world, by those so <lb/>disposed, they objected to any application being <lb/>made for a grant of public money for any such pur<lb break="no"/>pose–that they were opposed to the question of emi<lb break="no"/>gration being allowed to occupy public attention, &amp;c. <lb/>and concluded with the statement that emigration <lb/>would not afford even temporary relief to the oppressed <lb/>operatives, and that bad laws were the chief cause of <lb/>all their present sufferings, &amp;c. This amendment <lb/>which was supported by the most trifling arguments <lb/>we ever heard brought forward in public, was of <lb/>course loudly cheered by the Chartists. The Lord <lb/>Provost repeatedly explained that he had agreed to <lb/>take the chair on the understanding that the subject <lb/>of emigration to New Zealand was to occupy the atten<lb break="no"/>tion ; but here a matter, perfectly foreign to the busi<lb break="no"/>ness for which they were convened, was introduced by <lb/>way of amendment ; there was an attack made upon <lb/>the general policy of the country–and he had posi<lb break="no"/>tively to state that, if such an amendment was carried, <lb/>he would not remain in the chair. This was received <lb/>by cries for "a new chairman" and much confusion, <lb/>one party cheering, and the other hissing and yelling <lb/>alternately during the greater part of the evening. A <lb/>discussion followed, in which a boy named Jack took <lb/>a prominent part ; and it became perfectly evident that <lb/>the Chartist speakers were woefully ignorant of the <lb/>subject they had the impudence to discuss. It was <lb/>gravely and indignantly averred, that by going to New <lb/>Zealand, the working men would incur the risk of <lb/>being swallowed by cannibals! Till informed of the <lb/>contrary, the Chartists seemed to think that the means <lb/>of emigration were to be supplied from the public ex<lb break="no"/>chequer ; and when told that the funds were to be <lb/>raised by the sale of lands in New Zealand, one of <lb/>them sagely observed that it would be much more <lb/>humane and just to appropriate the proceeds of those <lb/>sales of land to employ it in sending out emigrants ! <lb/>Another favourite argument was, that every person <lb/>had a right to subsist in the land that gave him <lb/>birth, and that it was barbarous and cruel to send <lb/>a man, however wretched, out of his native <lb/>country ; also, that emigration would produce no <lb/>benefit to society at home, as the places of those <lb/>sent off would soon be filled by others. Of <lb/>course, if these arguments had always been held <lb/>good, and acted upon, the whole human family would, <lb/>to this day, have been crowded together in the cradle <lb/>of our race in the East, provided only the thing had <lb/>been possible; the extension of mankind to other parts <lb/>of the world must have been wicked, and cruel, and <lb/>useless–for "for every inhabitant of a country is entitled <lb/>to a subsistence in the land that gave him birth," and, <lb/>on his removal to another land, his place would just be <lb/>filled by others ! The above is a mere specimen of <lb/>the worse than childish arguments used by the Chartist <lb/>spouters, and which the men who are now " knocking <lb/>loudly at the door of the constitution for admission," <lb/>cheered as if they had been fraught with the choicest <lb/>wisdom !–Mr John Crawford, Secretary to the New <lb/>Zealand Land Company, endeavoured, by some sensible <lb/>remarks, to place the question of emigration to New <lb/>Zealand on its proper footing ; but in vain ; they were <lb/>determined to have the charter only–and till then <lb/>starving workmen, willing, but unable, to emigrate, <lb/>must starve on. On a division, the amendment pro<lb break="no"/>posed by Mr Malcolm was carried by a large majority, <lb/>and, after a vote of thanks had been given to the Lord <lb/>Provost, the meeting broke up. This was not done, <lb/>however, till the Chartists were called upon to be at <lb/>their posts at the meeting to be held to-day to address <lb/>the Queen–to render themselves, of course, a little <lb/>more odious by another stretch of their obstructive <lb/>power–if they can.</p>
             </body>

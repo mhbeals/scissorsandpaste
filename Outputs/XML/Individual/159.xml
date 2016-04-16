@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>159</title>
+                    <title n="159">159</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1820-01-24"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,10 +51,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Dutch Colonial Law, and Negro  <lb/>Fortitude.</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">Dutch Colonial Law, and Negro  <lb/>Fortitude.</hi></p>
                 <p>(From Lavaysse's Account of Venezuela, Trinidad, Mar<lb break="no"/>garitta, and Tobago, just published.)</p>
                 <p>Stedman, after having given a picture of the cruelties <lb/>practised on the negroes at Surinam, relates that on his <lb/>arrival in that colony, a white man was flagged by a black <lb/>executioner, for having stolen some money from the town<lb break="no"/>house ; and he remarked that this negro inflicted the pu<lb break="no"/>nishment with great signs of commiseration. A negro <lb/>was broken on the wheel for the same crime, and he bore <lb/>that horrible punishment without a sigh. A moment af<lb break="no"/>terwards, they prepared to hang another, and whilst the <lb/>hangman was tying the cord round his neck to launch him <lb/>into eternity, he looked steadfastly, with a smile of con<lb break="no"/>tempt, at his judges, who were among the spectators of the <lb/>execution. " Having expressed to the persons who were <lb/>near me, (says Captain Stedman) how much I was shock<lb break="no"/>ed with the injustice and cruelty of those executions, <lb/>and surprised at the intrepidity of the negroes during the <lb/>punishment, a very decent looking man thus addressed <lb/>me ; Sir, you are newly arrived from Europe ; but if you <lb/>were better acquainted with negro slaves, what you now <lb/>see would neither excite your surprise nor your pity. It <lb/>is not long since I saw a negro suspended from that very <lb/>gibbet by the ribs. The following is the manner in which <lb/>it was done : two incisions were made in his side, in which <lb/>was passed an iron hook attached to a chain. He lived <lb/>three days suspended in that manner, his head and feet <lb/>hanging down, licking from his bleeding breast the drops <lb/>of water that fell on it, for it rained at the time. The <lb/>sufferer did not, however, utter a groan, and never once <lb/>complained. On the third day, another negro was flogged <lb/>under the gallows, and having cried from pain, the former <lb/>reproached him for his want of courage: " Are you a <lb/>man?" said he to him, " you behave like a child!" – <lb/>A moment afterwards the soldier who was sentry <lb/>on the spot taking pity on him, dashed out his brains <lb/>with the butt end of his musquet. " I saw another <lb/>negro quartered," the narrator: " After his <lb/>arms and legs were tied to four very strong horses, an <lb/>iron nail was driven under each nail of his hands and feet <lb/>He suffered that without complaining, requested a glass of <lb/>ru,, and ordered the executioners to let loose the horses. <lb/>But that which amused us most," continued this monster, <lb/>"was the humour of the fellow, who, when the hangman <lb/>presented the glass of rum to him that he had asked for, <lb/>told him to drink first, as he was very much afraid of be<lb break="no"/>poisoned, and desired him to take care that his horses <lb/>should not kick him. As for old negroes being broken on <lb/>the wheel, and young women burnt alive, nothing is more <lb/>common in this colony!"</p>
             </body>

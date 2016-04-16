@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>117</title>
+                    <title n="117">117</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1816-01-15"/>
@@ -45,7 +44,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item>agriculture</item>
+                            <item n="agriculture">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -53,10 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">New South Wales</hi>
-         </p>
+                <p><pb/><hi rend="smallcaps">New South Wales</hi></p>
                 <p>A journey into the interior of New South Wales, across the <lb/>Blue Mountains, performed by his Excellency Colonel Mac <lb/>quarrie, Governor of the settlement. From the official ac<lb break="no"/>count, dated Sydney, June 10. 1815.</p>
                 <p>The Governor desires to communicate, for the <lb/>information of the public, the result of his late <lb/>tour over the Western or Blue Mountains, un<lb break="no"/>dertaken for the purpose of being enabled per<lb break="no"/>sonally to appreciate the importance of the track <lb/>of country lying westward of them, which had <lb/>been explored in the latter end of the year 1813, <lb/>and beginning of 1814, by Mr George William <lb/>Evans, Deputy Surveyor of Lands.</p>
                 <p>To those who know how very limited a track <lb/>of country has been hitherto occupied by the <lb/>colonists of New South Walves, extending along <lb/>the eastern coast to the north and south of Port <lb/>Jackson only 80 miles, and westward about 40 <lb/>miles, to the foot of that chain of mountains in <lb/>the interior which forms its western boundary, <lb/>it must be a subject of astonishment and regret, <lb/>that amongst so large a population no one ap<lb break="no"/>peared, within the first twenty-five years of the <lb/>establishment of this settlement, possessed of suf<lb break="no"/>ficient energy of mind to induce him fully to ex<lb break="no"/>plore a passage over these mountains ; but when <lb/>it is considered that for the greater part of that <lb/>time even this circumscribed portion of country <lb/>afforded sufficient produce for the wants of the <lb/>people, whilst on the other hand, the whole sur<lb break="no"/>face of the country beyond those limits was a <lb/>thick, and in many places, nearly an impene<lb break="no"/>trable forest, the surprise at the want of effort to <lb/>surmount such difficulties must abate very con<lb break="no"/>siderably.</p>

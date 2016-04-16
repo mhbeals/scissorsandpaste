@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>46</title>
+                    <title n="46">46</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-12-18"/>
@@ -53,14 +52,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="center">
-               <hi rend="italic">Extract of a letter from Philadelphia, Aug</hi>. 23.</hi>
-         </p>
+                <p><pb/><hi rend="center"><hi rend="italic">Extract of a letter from Philadelphia, Aug</hi>. 23.</hi></p>
                 <p>"Congress is still sitting at New York, and <lb/>from the multiplicity of business before them, <lb/>there is no likelihood of the session's soon closing. <lb/>We are curious to know what foreigners will say</p>
-                <p>
-            <pb/>of our new commercial arrangements. Among <lb/>ourselves there is but one opinion, and that is fa<lb break="no"/>avourable. o our own vessels, a preference is <lb/>undoubtedly due; and among foreign vessels and <lb/>merchandise, there is no discrimination in our <lb/>import and tonnage acts, every nation being on <lb/>the same footing. With respect to the duties <lb/>themselves, they could not be laid lower, consi<lb break="no"/>dering the demand of supplies, which the Com<lb break="no"/>mittee appointed to give in an estimate state at <lb/>upwards of eight millions of dollars.</p>
+                <p><pb/>of our new commercial arrangements. Among <lb/>ourselves there is but one opinion, and that is fa<lb break="no"/>avourable. o our own vessels, a preference is <lb/>undoubtedly due; and among foreign vessels and <lb/>merchandise, there is no discrimination in our <lb/>import and tonnage acts, every nation being on <lb/>the same footing. With respect to the duties <lb/>themselves, they could not be laid lower, consi<lb break="no"/>dering the demand of supplies, which the Com<lb break="no"/>mittee appointed to give in an estimate state at <lb/>upwards of eight millions of dollars.</p>
                 <p>"Accustomed to disappointment in hopes of <lb/>improvement in politics and commerce, we <lb/>feel a reluctance to entertaining very sanguine <lb/>wishes. Yet appearances encourage the expect<lb break="no"/>tion of the f–deral government's acting with the <lb/>energy and effect that will give it respectability. <lb/>The prejudices and animosities created by the <lb/>late contest are gradually dying away ; and to <lb/>the idleness and dissipation flowing from the same <lb/>source, industry has in a great degree succeeded. <lb/>A progress has also been made in manufactures <lb/>of various kinds that was not expected ; and the <lb/>persevering in them affords a strong presumption <lb/>of those concerned deriving advantage.</p>
                 <p>"Throughout the union, the public opinion <lb/>on matters of government has of late experien<lb break="no"/>ced rapid changes. Vice President Adams, in <lb/>his highly esteemed work, has fully demonstrated <lb/>the absurdity of democracy, and the superior ex<lb break="no"/>cellence of a mix form, such as that of Britain. <lb/>His deductions from premises admitted as just, <lb/>have abated much of the popular aversion to mo<lb break="no"/>narchy ; and as every thing matures quickly in <lb/>our transatlantic soil, it would not surprise many, <lb/>were United America to have a sovereign ear<lb break="no"/>in the next century.</p>
                 <p>"In no one instance has our new admnistra<lb break="no"/>tion given general satisfaction, more than in their <lb/>conduct towards the Indians. The interests of <lb/>those unfortunate people will be studiously attend<lb break="no"/>ed to ; and they will be effectually protected a<lb break="no"/>gainst the lawless violence of the individuals or <lb/>States, who wished to wrest their lands from them. <lb/>This determination is dictated by policy as well <lb/>humanity ; for it is now become the interest of <lb/>the States to check, by every means short of <lb/>violence, the erratic disposition of their citizens, <lb/>who, when removed to the wilds beyond the <lb/>mountains, cannot be regarded as of any value, <lb/>in a political view.</p>

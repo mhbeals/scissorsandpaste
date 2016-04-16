@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>19</title>
+                    <title n="19">19</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1789-10-02"/>
@@ -44,7 +43,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>transportation</item>
+                            <item n="transportation">transportation</item>
                             <item>female emigration</item>
                         </list>
                     </keywords>
@@ -53,9 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb n="2"/>There are no less than 130 women going out <lb/>in the transports to Botany Bay; among the fe<lb break="no"/>male convicts destined for this settlement, there <lb/>was one so beautiful, that it was thought a pity <lb/>to send her abroad, and she is therefore preferred <lb/>for <hi rend="italic">home cultivation.</hi>
-         </p>
+                <p><pb n="2"/>There are no less than 130 women going out <lb/>in the transports to Botany Bay; among the fe<lb break="no"/>male convicts destined for this settlement, there <lb/>was one so beautiful, that it was thought a pity <lb/>to send her abroad, and she is therefore preferred <lb/>for <hi rend="italic">home cultivation.</hi></p>
             </body>
         </text>
     </TEI>

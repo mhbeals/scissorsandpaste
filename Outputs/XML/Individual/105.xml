@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI>
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>105</title>
+                    <title n="105">105</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1812-10-03"/>
@@ -44,11 +43,11 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
-                            <item>military</item>
+                            <item n="military">military</item>
                             <item>colonial government</item>
-                            <item>speeches</item>
+                            <item n="speeches">speeches</item>
                             <item>Native Americans</item>
                         </list>
                     </keywords>
@@ -57,12 +56,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-            <pb/>
-            <hi rend="smallcaps">Upper Canada </hi>
-            <lb/>York, July, 28.</p>
-                <p>Yesterday, at an early hour, his Honour, Isaac <lb/>Brock, Esq. administering the Government of Up<lb break="no"/>per Canada, and Major-General, commanding his <lb/>Majesty's forces therein, arrived at this place from <lb/>Fort-George, and accompanied by a numerous suite <lb/>proceeded to the Government Building at four <hi rend="smallcaps">p.m. </hi>
-            <lb/>when he opened the present extra session of the Le<lb break="no"/>gislature, and delivered the following speech to both <lb/>houses :–</p>
+                <p><pb/><hi rend="smallcaps">Upper Canada </hi><lb/>York, July, 28.</p>
+                <p>Yesterday, at an early hour, his Honour, Isaac <lb/>Brock, Esq. administering the Government of Up<lb break="no"/>per Canada, and Major-General, commanding his <lb/>Majesty's forces therein, arrived at this place from <lb/>Fort-George, and accompanied by a numerous suite <lb/>proceeded to the Government Building at four <hi rend="smallcaps">p.m. </hi><lb/>when he opened the present extra session of the Le<lb break="no"/>gislature, and delivered the following speech to both <lb/>houses :–</p>
                 <p>"Honourable Gentlemen of the Legislature, Council <lb/>and Gentlemen of the House of Assembly,</p>
                 <p>"The urgency of the present crisis is the only considera<lb break="no"/>tion which would have induced me to call you together, at a <lb/>time when public as well as private duties elsewhere demand <lb/>your care and attention.</p>
                 <p>"But, Gentlemen, when invaded by an enemy whose <lb/>avowed object is the entire conquest of this province, the <lb/>voice of loyalty, as well as of interest, calls aloud to every <lb/>person, in the sphere in which he is placed, to defend his <lb/>country.</p>
@@ -72,14 +67,11 @@
                 <p>"From the history and experience of our mother country, <lb/>we learn, that in times of actual invasion or internal commo<lb break="no"/>tion the ordinary course of criminal laws has been found in <lb/>adequate to secure his Majesty's Government from private <lb/>treachery, as well as from open disaffection ; and that at such <lb/>times its Legislature has found it expedient to enact laws re<lb break="no"/>straining, for a limited period, the liberty of individuals, in <lb/>many cases where it would be dangerous to expose the parti<lb break="no"/>culars of the charge ; and although the actual invasion of the <lb/>province might justify me in the exercise of the full power re<lb break="no"/>posed in me on such an emergency, yet it will be more agree<lb break="no"/>able to me to receive the sanction of the Houses.</p>
                 <p>"A few traitors have already joined the enemy–have been <lb/>suffered to come into the country with impunity–and have <lb/>been harboured and concealed in the interior ; yet the general <lb/>spirit of loyalty which appears to pervade the inhabitants of <lb/>this province, is such as to authorise a just expectation that <lb/>their efforts to mislead and deceive will be unavailing– <lb/>The disaffected, I am convinced, are few–To protect and <lb/>defend the loyal inhabitants from the machinations, is an ob<lb break="no"/>ject worthy of your most serious deliberations."</p>
                 <p>The speech concludes with a call for supplies.</p>
-                <p>
-            <hi rend="smallcaps">Proclamation</hi>
-         </p>
+                <p><hi rend="smallcaps">Proclamation</hi></p>
                 <p>The unprovoked declaration of war by the United <lb/>States of America, against the united kingdom of <lb/>Great Britain and Ireland, and its dependencies, has <lb/>been followed by the actual invasion of this province <lb/>in a remote frontier of the western districts, by a <lb/>detachment of the United States. The officer com<lb break="no"/>manding that detachment has thought proper to in<lb break="no"/>vite his Majesty's subjects, not merely to a quiet and <lb/>unresisting submission, but insults them with a call <lb/>to seek voluntarily the protection of his Govern<lb break="no"/>ment.</p>
                 <p>Without condescending to repeat the illiberal <lb/>epithets bestowed in this appeal of the American <lb/>Commander to the people of Upper Canada, on the <lb/>administration of his Majesty, every inhabitant of <lb/>the province is desired to seek the confutation of <lb/>such indecent slander in the review of his own par<lb break="no"/>ticular cirumstances. Where is the Canadian sub<lb break="no"/>ject, who can truly affirm to himself that he has <lb/>been injured by the Government in his person, his <lb/>property, or his liberty? Where is to be found, in <lb/>any part of the world, a growth so paid in pros<lb break="no"/>perity and wealth as this colony exhibits? Settled <lb/>not thirty years by a band of veterans, exiled from <lb/>their former possessions on account of their loyalty, <lb/>not a descendant of these brave people it to be found, <lb/>who, under the fostering liberality of their Sovereign, <lb/>has not acquired a property and means of enjoyment, <lb/>superior to what were possessed by their ancestors. <lb/>This unequalled prosperity would not have been at<lb break="no"/>tained by the utmost liberality of the Government, <lb/>or the persevering industry of the people, had not <lb/>the maritime power of the mother country secured <lb/>to its colonists a safe access to every market where <lb/>the produce of their labour was in request. The <lb/>unavoidable and immediate consequence of a sepa<lb break="no"/>ration from Great Britain, must be the loss of this <lb/>inestimable advantage, and what is offered to you in <lb/>exchange? To become a territory of the United <lb/>States, and share with them that exclusion from the <lb/>ocean which the policy of their Government en<lb break="no"/>forces ; you are not even flattered with a participa<lb break="no"/>tion of their boasted independence ; and it is but <lb/>too obvious, that once exchanged from the power<lb break="no"/>ful protection of the United Kingdom, you must be <lb/>re-annexed to the dominion of France, from which <lb/>the provinces of Canada were wrested by the arms <lb/>of Great Britain at vast expence of blood and <lb/>treasure, from no other motive than to relieve her <lb/>ungrateful children from the oppression of a cruel <lb/>neighbour ; the restitution of Canada to the empire <lb/>of France, was the stipulated reward for the aid af<lb break="no"/>forded to the revolted colonies, now the United <lb/>States ; the debt is still due, and there can be no <lb/>doubt but the pledge has been renewed as a consi<lb break="no"/>deration for commercial advantages, or rather for an <lb/>expected relaxation in the tyranny of France over <lb/>the commercial world. Are you prepared, inhabit<lb break="no"/>ants of Canada, to become willing subjects, or <lb/>rather slaves to the despot who rules the nation of <lb/>Europe with a rod of iron? If not, arise in a body, <lb/>exert your energies, co-operate cordially with the <lb/>King's regular forces, to repel the invader, and do <lb/>not give cause to your children, when groaning <lb/>under the oppression of a foreign master, to reproach <lb/>you with having too easily parted with the richest in<lb break="no"/>heritance of this earth–a participation in the name, <lb/>character, and freedom of Britain.</p>
                 <p>[The proclamation concludes with a declaration, <lb/>that should the Americans refused quarter in conse<lb break="no"/>quence of Indians being found in Canadian ranks, <lb/>that a severe and rigorous retaliation will take <lb/>place.]</p>
-                <p>
-            <hi rend="smallcaps">Isaac Brock</hi>, Major-Gen. and President <lb/>Head-quarters, Fort George, July 22, 1812.</p>
+                <p><hi rend="smallcaps">Isaac Brock</hi>, Major-Gen. and President <lb/>Head-quarters, Fort George, July 22, 1812.</p>
             </body>
         </text>
     </TEI>
