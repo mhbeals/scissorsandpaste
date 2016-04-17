@@ -5,26 +5,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>227</title>
+                    <title n="227">227</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-05-29"/>
@@ -46,20 +46,13 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="price">price</item>
+                            <item n="agriculture">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
             </profileDesc>
-            <textClass>
-                <keywords>
-                    <list>
-                        <item>trade</item>
-                        <item>price</item>
-                        <item>agriculture</item>
-                    </list>
-                </keywords>
-            </textClass>
         </teiHeader>
         <text>
             <body>
@@ -84,26 +77,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>228</title>
+                    <title n="228">228</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-06-29"/>
@@ -125,7 +118,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -143,26 +136,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>229</title>
+                    <title n="229">229</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-07-10"/>
@@ -184,7 +177,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -202,26 +195,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>230</title>
+                    <title n="230">230</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-08-03"/>
@@ -243,19 +236,12 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="transportation">transportation</item>
+                            <item>shipping news</item>
                         </list>
                     </keywords>
                 </textClass>
             </profileDesc>
-            <textClass>
-                <keywords>
-                    <list>
-                        <item>transportation</item>
-                        <item>shipping news</item>
-                    </list>
-                </keywords>
-            </textClass>
         </teiHeader>
         <text>
             <body>
@@ -268,26 +254,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>231</title>
+                    <title n="231">231</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-08-07"/>
@@ -309,7 +295,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -326,26 +312,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>232</title>
+                    <title n="232">232</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-09-25"/>
@@ -367,9 +353,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>agriculture</item>
-                            <item>prices</item>
-                            <item>trade</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="prices">prices</item>
+                            <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -387,26 +373,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>233</title>
+                    <title n="233">233</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-10-05"/>
@@ -428,7 +414,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -453,26 +439,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>234</title>
+                    <title n="234">234</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-12-07"/>
@@ -494,7 +480,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -530,26 +516,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>235</title>
+                    <title n="235">235</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-02-02"/>
@@ -571,7 +557,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -590,26 +576,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>236</title>
+                    <title n="236">236</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1833-02-02"/>
@@ -632,7 +618,7 @@
                     <keywords>
                         <list>
                             <item>female emigration</item>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                             <item>emigration scheme</item>
                         </list>
                     </keywords>

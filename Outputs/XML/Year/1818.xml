@@ -5,26 +5,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>122</title>
+                    <title n="122">122</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-01-01"/>
@@ -46,9 +46,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>emigration</item>
-                            <item>agriculture</item>
-                            <item>newspapers</item>
+                            <item n="emigration">emigration</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="newspapers">newspapers</item>
                             <item>economic migration</item>
                         </list>
                     </keywords>
@@ -81,26 +81,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>123</title>
+                    <title n="123">123</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-01-19"/>
@@ -122,13 +122,13 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
-                            <item>meeting</item>
-                            <item>transportation</item>
-                            <item>shipwreck</item>
-                            <item>currency</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="meeting">meeting</item>
+                            <item n="transportation">transportation</item>
+                            <item n="sh85121666">shipwreck</item>
+                            <item n="currency">currency</item>
                             <item>colonial government</item>
-                            <item>fire</item>
+                            <item n="fire">fire</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -152,26 +152,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>124</title>
+                    <title n="124">124</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-01-19"/>
@@ -193,9 +193,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>military</item>
+                            <item n="military">military</item>
                             <item>colonial government</item>
-                            <item>crime</item>
+                            <item n="crime">crime</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -215,26 +215,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>125</title>
+                    <title n="125">125</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-01-19"/>
@@ -246,8 +246,8 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="composite"/>
-                    <derivation type="plagiarism"/>
-                    <domain type="public"/>
+                   <derivation type="plagiarism"/>
+                   <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
@@ -256,10 +256,10 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>meeting</item>
-                            <item>emigration</item>
+                            <item n="meeting">meeting</item>
+                            <item n="emigration">emigration</item>
                             <item>national characteristics</item>
-                            <item>charity</item>
+                            <item n="charity">charity</item>
                             <item>economic migration</item>
                         </list>
                     </keywords>
@@ -309,26 +309,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>126</title>
+                    <title n="126">126</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-01-28"/>
@@ -351,12 +351,12 @@
                     <keywords>
                         <list>
                             <item>timber trade</item>
-                            <item>trade</item>
-                            <item>manufacturing</item>
-                            <item>emigration</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="manufacturing">manufacturing</item>
+                            <item n="emigration">emigration</item>
                             <item>Anglo-American relations</item>
-                            <item>weather</item>
-                            <item>disease</item>
+                            <item n="weather">weather</item>
+                            <item n="disease">disease</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -387,26 +387,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>127</title>
+                    <title n="127">127</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-07-16"/>
@@ -428,9 +428,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
-                            <item>military</item>
+                            <item n="military">military</item>
                             <item>colonial government</item>
                         </list>
                     </keywords>
@@ -468,26 +468,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>128</title>
+                    <title n="128">128</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-07-04"/>
@@ -509,8 +509,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>crime</item>
-                            <item>filibustering</item>
+                            <item n="crime">crime</item>
+                            <item n="filibustering">filibustering</item>
                             <item>Anglo-American relations</item>
                         </list>
                     </keywords>
@@ -551,26 +551,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>129</title>
+                    <title n="129">129</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-09-05"/>
@@ -592,9 +592,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>meeting</item>
+                            <item n="meeting">meeting</item>
                             <item>colonial government</item>
-                            <item>crime</item>
+                            <item n="crime">crime</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -620,26 +620,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>130</title>
+                    <title n="130">130</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-12-28"/>
@@ -662,11 +662,11 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item>emigration</item>
-                            <item>wages</item>
-                            <item>disease</item>
+                            <item n="emigration">emigration</item>
+                            <item n="wages">wages</item>
+                            <item n="disease">disease</item>
                             <item>national characteristics</item>
-                            <item>slavery</item>
+                            <item n="slavery">slavery</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -674,12 +674,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-               <pb n="3"/>
-                    <head>
-                  <hi rend="smallcaps">Emigration to America</hi>
-                    </head>
-            </p>
+                <pb n="3"/>
+            <head>
+               <hi rend="smallcaps">Emigration to America</hi>
+            </head>
                 <p>Our paper of Thursday last contained a gene<lb break="no"/>ral view of some of the most popular publications <lb/>on the subject of emigration, and we shall now <lb/>endeavour briefly to make an estimate of the <lb/>good and evil which is likely to befall those who <lb/>embark in this hazardous adventure.</p>
                 <p>There is one important fact which we gather <lb/>from all the accounts of America, whether writ<lb break="no"/>ten for the purpose of praise or censure, namely, <lb/>that there is a great demand for labour, and that <lb/>wages are high, and this effect is necessarily <lb/>produced y the vast space of fertile and unoc<lb break="no"/>cupied territory which lies westward of the <lb/>United States towards the Pacific Ocean. It is <lb/>this vacant territory which is the true spring of <lb/>this American community. Here is the grand out<lb break="no"/>let for the superflouous population both of the east<lb break="no"/>ern states of America and of Europe. To cultivate <lb/>this waste there is a constant demand for new la<lb break="no"/>bourers ; wages are, of course, high – the labourer <lb/>lives in comfort, and, if he is industrious, he be<lb break="no"/>comes in his turn a purchaser of land from the sa<lb break="no"/>vings which he accumulates. If labour should be<lb break="no"/>come more plentiful, and wages should fall, this is <lb/>the signal for new emigrations ; and thus, this con<lb break="no"/>stant demand for labour in the western districts <lb/>regulates its general price throughout the United <lb/>States. In these circumstrances it is clear that <lb/>a labourer, provided he can reach this advan<lb break="no"/>tageous market for his labour, will unquestionably <lb/>improve his condition. But herein lies the dif<lb break="no"/>ficulty. A labourer has seldom the means of <lb/>of subsistence so far beforehand as to enable him to <lb/>undertake so long a journey ; and, if he enters <lb/>upon the enterprise with insufficient means, he <lb/>is liable to starve before he can transport him<lb break="no"/>self to his ultimate destination, or he is forced to <lb/>contract, for immediate subsistence, obligations <lb/>little short of servitude, under the weight of <lb/>which he is grievously oppressed. These, then <lb/>form strong objections to emigrations in the case <lb/>of those who are stinted to their means ; but <lb/>where these objections can be surmounted, those <lb/>who can transport their labour from the over<lb break="no"/>stocked market of Europe to the understocked <lb/>market of America, will unquestionably dispose <lb/>of it to better advantage ; but if they have not <lb/>the means, they may as furely fail in the at<lb break="no"/>tempt, and draw upon themselves aggravated mi<lb break="no"/>sery and want. As to the consequences of emi<lb break="no"/>gration to this country, we hold them rather to be <lb/>beneficial than otherwise, and we cannot easily ac<lb break="no"/>count for the very absurd alarm which has been <lb/>propagated on this subject. The evil in Europe is, <lb/>that every country is overcrowded with labourers, <lb/>who cannot find employment ; and is it not mani<lb break="no"/>fest, therefore, that the withdrawing of some of <lb/>these will make more room for the labourers that <lb/>remain – that the loss of those useless hands <lb/>will rather be a relief to the body politic, and <lb/>will diffuse greater soundness and vigour through <lb/>all its parts? That these effects will follow from <lb/>emigration in this or in any other country in <lb/>Europe we cannot doubt – and that the labourer, <lb/>if he can afford the expence of the journey, will re<lb break="no"/>ceive higher wages in America than in this coun<lb break="no"/>try, is equally clear.</p>
                 <p>There is another class of adventurers who <lb/>may possibly improve their circumstances by <lb/>emigration, although this is not so certain, name<lb break="no"/>ly, farmers with a moderate capital. An allot<lb break="no"/>ment of land may be purchased in the back parts <lb/>of America at the Government price of two dol<lb break="no"/>lars per acre, and an emigrant who can afford to <lb/>but and to cultivate 100 or 200 acres, and <lb/>acts with proper judgement and skill, may <lb/>undoubtedly, by a speculation of this sort, be sure <lb/>of a subsistence, while, by the continued emigra<lb break="no"/>tions from the eastern states, the country being <lb/>quickly settled all around him, his property is <lb/>daily improving in value. But a want of judgement <lb/>in the purchase, or a want of ability to cultivate the <lb/>land after it is purchased, may involve him in ir<lb break="no"/>recoverable distress and ruin ; and to avoid these <lb/>hazards no little discrimination and prudence is <lb/>necessary.</p>
@@ -695,26 +693,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>131</title>
+                    <title n="131">131</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-02-26"/>
@@ -736,7 +734,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                             <item>settlement description</item>
                         </list>
                     </keywords>
@@ -745,12 +743,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-               <pb/>
-                    <head>
-                  <hi rend="smallcaps">Interesting Communication from Canada</hi>
-                    </head>
-            </p>
+                <pb/>
+            <head>
+               <hi rend="smallcaps">Interesting Communication from Canada</hi>
+            </head>
                 <p>
                <hi rend="smallcaps">To the Editor of the Edinburgh Weekly Journal</hi>
             </p>
@@ -767,26 +763,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>132</title>
+                    <title n="132">132</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1818-02-28"/>
@@ -808,7 +804,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>

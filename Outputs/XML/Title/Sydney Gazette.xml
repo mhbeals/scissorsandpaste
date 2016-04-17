@@ -5,29 +5,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>359</title>
+                    <title n="359">359</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141128 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141128 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Sydney Gazette</title>
+                            <title n="newspaper_sg">Sydney Gazette</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Trove</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Sydney</settlement>
-                                    <region>New South Wales</region>
-                                    <country>Australia</country>
+                                    <settlement n="2147714">Sydney</settlement>
+                                    <region n="2155400">New South Wales</region>
+                                    <country n="2077456">Australia</country>
                                 </address>
                             </pubPlace>
                             <date when="1815-11-08"/>
@@ -49,7 +48,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>

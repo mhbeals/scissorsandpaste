@@ -1,0 +1,1 @@
+On Tuesday se'enight, arrived in the Bay of Aberdeen,the Mehitabel and Mary of Portsmouth, from New Hampshire, United States, [???]ate master, with an assorted cargo, [???]n gentleman in that place, and next [???] Leith, where she arrived on Mon[day. S]he is the first American vessel that [?? i]n this port, since the peace.

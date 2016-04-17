@@ -5,29 +5,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>87</title>
+                    <title n="87">87</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140923 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20140923 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-05-23"/>
@@ -68,29 +67,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>318</title>
+                    <title n="318">318</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141003 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141003 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-06-27"/>
@@ -129,28 +127,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>319</title>
+                    <title n="319">319</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-05-02"/>
@@ -172,7 +170,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>agriculture</item>
+                            <item n="agriculture">agriculture</item>
                             <item>Native Americans</item>
                         </list>
                     </keywords>
@@ -196,29 +194,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>320</title>
+                    <title n="320">320</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141003 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141003 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-03-04"/>
@@ -259,29 +256,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>323</title>
+                    <title n="323">323</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141005 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141005 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-11-08"/>
@@ -303,7 +299,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
                         </list>
                     </keywords>
@@ -326,29 +322,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>324</title>
+                    <title n="324">324</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141010 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-01-21"/>
@@ -370,11 +365,11 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
                             <item>colonial government</item>
-                            <item>agriculture</item>
-                            <item>filibustering</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="filibustering">filibustering</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -404,29 +399,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>327</title>
+                    <title n="327">327</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141012 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141012 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-02-07"/>
@@ -448,11 +442,11 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
-                            <item>taxation</item>
-                            <item>war</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="taxation">taxation</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
-                            <item>agriculture</item>
+                            <item n="agriculture">agriculture</item>
                             <item>colonial government</item>
                             <item>foreign relations</item>
                         </list>
@@ -477,8 +471,7 @@
                </hi> 
                <lb/>
                <hi rend="center">
-                  <hi rend="italic">President of the Congress, on
-                            <supplied reason="copy blur">??? the ???</supplied> 
+                  <hi rend="italic">President of the Congress, on<supplied reason="copy blur">??? the ???</supplied> 
                   </hi>
                </hi>
             </p>
@@ -490,8 +483,7 @@
                 <p>
                <hi rend="enlarged-capital">I</hi> N meeting you again, I feel much satisfac<lb break="no"/> 
                <lb/>tion on being able to repeat my congratulations <lb/>on the favourable prospects which continue to di<lb break="no"/>tinguish our public affairs. The abundant fruits <lb/>of another year have blessed our country with plen<lb break="no"/>ty, and with the means of flourishing commerce. <lb/>The progress of the public credit is witnessed by <lb/>a considerable rise of American stock abroad, as <lb/>well as at home; and the revenues allotted for <lb/>this and other national purposes, have been pro<lb break="no"/>ductive beyond the calculation by which they were <lb/>regulated. This latter circumstance is the more <lb/>pleasing, as it is not only a proof the fertility of <lb/>our resources, but as it assures us of a further in<lb break="no"/>crease of the national respectability and credit; <lb/>and let me add, as it bears an honourable testi<lb break="no"/>mony to the patriotism and integrity of the ma<lb break="no"/>rine part of our citizens. The punctuality of the <lb/>former in discharging their engagements has <lb/>been exemplary.</p>
-                <p>"In conforming to the power vested in me <lb/>by acts of the last session, a loan of 3,000,,000 of <lb/>florins, towards which some provisional measures <lb/>had previously taken place, has been completed <lb/>in Holland.–As well the
-<supplied reason="copy blur">exchange</supplied> with which it <lb/>has been filled, as the nature of the terms (consi<lb break="no"/>dering the more than ordinary demand for bor<lb break="no"/>rowing, created by the situation of Europe) give <lb/>a reasonable hope that the further execution of <lb/>those powers, may proceed with advantage and <lb/>success. The secretary of the treasure has my <lb/>direction to communicate such further particu<lb break="no"/>lars as may be requisite for more precise infor<lb break="no"/>mation.</p>
+                <p>"In conforming to the power vested in me <lb/>by acts of the last session, a loan of 3,000,,000 of <lb/>florins, towards which some provisional measures <lb/>had previously taken place, has been completed <lb/>in Holland.–As well the<supplied reason="copy blur">exchange</supplied> with which it <lb/>has been filled, as the nature of the terms (consi<lb break="no"/>dering the more than ordinary demand for bor<lb break="no"/>rowing, created by the situation of Europe) give <lb/>a reasonable hope that the further execution of <lb/>those powers, may proceed with advantage and <lb/>success. The secretary of the treasure has my <lb/>direction to communicate such further particu<lb break="no"/>lars as may be requisite for more precise infor<lb break="no"/>mation.</p>
                 <p>"Since your last sessions, I have received commu<lb break="no"/>nication, by which it appears, that the district <lb/>of Kentucke, at present a part of Virginia, has <lb/>concurred in certain propositions contained in a law of that state, in consequence of which the dis<lb break="no"/>trict is to become a distinct number of the Uni<lb break="no"/>on; in case the requisite sanction of Congress be <lb/>added. For this sanction application is now made. <lb/>I shall cause the papers on this very important <lb/>transaction to be laid before you. The liberality <lb/>and harmony with which it has been conducted, <lb/>will be found to do great honour to both the par<lb break="no"/> 
                <cb/>ties; and the sentiments of warm attachment of <lb/>the Union and its present Government, expres<lb break="no"/>sed by our fellow-citizens of Kentucke, cannot <lb/>fail to add an affectionate concern for their par<lb break="no"/>ticular welfare, to the great national impressions <lb/>under which you will declare on the case sub<lb break="no"/>mitted to you.</p>
                 <p>"It has been heretofore known to Congress <lb/>that frequent incursions have been made on our <lb/>frontier settlements by certain banditti of Indians <lb/>from the north west side of the Ohio. These, <lb/>with some of the tribes dwelling on and near the <lb/>Wabash, have of late been particularly active in <lb/>their depredations; and, being emboldened by <lb/>the impunity of their crimes, and aided by such <lb/>parts of the neighbouring tribes as could be se<lb break="no"/>duced to join in their hostilities, or afford them <lb/>a retreat for their prisoners, and plunder, they <lb/>have, instead of listening to the humane invitati<lb break="no"/>ons and overtures made on the part of the Unit<lb break="no"/>ed States, renewed their violence with fresh ala<lb break="no"/>crity and greater effect–The lives of a number of <lb/>valuable citizens have thus been sacrificed, and <lb/>some of them under circumstances peculiarly <lb/>shocking, whilst others have been carried into a <lb/>deplorable captivity.</p>
@@ -515,29 +507,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>328</title>
+                    <title n="328">328</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-01-21"/>
@@ -576,29 +567,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>329</title>
+                    <title n="329">329</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-01-31"/>
@@ -620,9 +610,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
+                            <item n="sh87004890">international trade</item>
                             <item>Native Americans</item>
-                            <item>crime</item>
+                            <item n="crime">crime</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -653,29 +643,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>330</title>
+                    <title n="330">330</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141013 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-01-07"/>
@@ -697,17 +686,17 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>census</item>
-                            <item>reprinting</item>
-                            <item>slavery</item>
+                            <item n="census">census</item>
+                            <item n="reprinting">reprinting</item>
+                            <item n="slavery">slavery</item>
                             <item>shipping news</item>
-                            <item>emigration</item>
-                            <item>war</item>
+                            <item n="emigration">emigration</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
-                            <item>slavery</item>
-                            <item>mining</item>
+                            <item n="slavery">slavery</item>
+                            <item n="mining">mining</item>
                             <item>shipping news</item>
-                            <item>trade</item>
+                            <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -753,8 +742,7 @@
                <hi rend="center">
                   <hi rend="italic">Sept</hi>. 20</hi>
             </p>
-                <p>"A firm peace being now, to all appearance, <lb/>secured between the United States and the Creek <lb/>Indians, we may reasonable expect that the state <lb/>of Georgia will soon begin to feel the good effects. <lb/>The immediate beneficial consequences are alrea<lb break="no"/>dy at this moment taking place. The vast tracts <lb/>of fertile lands on both sides of the Altamahaw <lb/>river are rapidly rising in value, and nothing is <lb/>wanting here (to compensate for the scarcity of <lb/>slaves) but a hardy and industrious race of men, <lb/>who instead of being mere lookers on, in quality <lb/>of overseers and drivers, would condescend to put <lb/>their own hand to the axe or grubbing hoe, and <lb/>make this extensive territory one of the most desir<lb break="no"/>able in the habitable world. The country round <lb/>Sapola Sound and the mouth of Altamahaw, is <lb/>one of the most beautiful you can imagine,abound<lb break="no"/>ing with everything that can make life comfort<lb break="no"/>able, besides an excellent navigation and easy bar <lb/>at the north end of Sapola, with rather more wa<lb break="no"/>ter than that of Charleston. Several vessels are <lb/>hourly looked for from France, (one in particu<lb break="no"/>lar of 800 tons from Bourdeaux) to load with live <lb/>oak ship timber and
-<supplied reason="copy blur">???</supplied> in the river of St. Ma<lb break="no"/>ry's."</p>
+                <p>"A firm peace being now, to all appearance, <lb/>secured between the United States and the Creek <lb/>Indians, we may reasonable expect that the state <lb/>of Georgia will soon begin to feel the good effects. <lb/>The immediate beneficial consequences are alrea<lb break="no"/>dy at this moment taking place. The vast tracts <lb/>of fertile lands on both sides of the Altamahaw <lb/>river are rapidly rising in value, and nothing is <lb/>wanting here (to compensate for the scarcity of <lb/>slaves) but a hardy and industrious race of men, <lb/>who instead of being mere lookers on, in quality <lb/>of overseers and drivers, would condescend to put <lb/>their own hand to the axe or grubbing hoe, and <lb/>make this extensive territory one of the most desir<lb break="no"/>able in the habitable world. The country round <lb/>Sapola Sound and the mouth of Altamahaw, is <lb/>one of the most beautiful you can imagine,abound<lb break="no"/>ing with everything that can make life comfort<lb break="no"/>able, besides an excellent navigation and easy bar <lb/>at the north end of Sapola, with rather more wa<lb break="no"/>ter than that of Charleston. Several vessels are <lb/>hourly looked for from France, (one in particu<lb break="no"/>lar of 800 tons from Bourdeaux) to load with live <lb/>oak ship timber and<supplied reason="copy blur">???</supplied> in the river of St. Ma<lb break="no"/>ry's."</p>
                 <p> 
                <cb/>
                <hi rend="center">
@@ -791,29 +779,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>331</title>
+                    <title n="331">331</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-07-18"/>
@@ -844,8 +831,7 @@
         <text>
             <body>
                 <p>
-               <pb n="5"/> A letter from Philadelphia<supplied reason="copy blur">???</supplied>, that the <lb/>most active preparations were making
-<supplied reason="copy blur">??? ???</supplied> of <lb/>the United States for recommencing the war with <lb/>the Miami Indians. Upwards of 1000 volunteers <lb/>had been raised in the States of Pennsylvania, <lb/>Jersey, and Delaware, in the course of six weeks, <lb/>and rendezvoused at Fort Pitt, from whence they <lb/>were to commence their warlike oeprations.</p>
+               <pb n="5"/> A letter from Philadelphia<supplied reason="copy blur">???</supplied>, that the <lb/>most active preparations were making <supplied reason="copy blur">??? ???</supplied> of <lb/>the United States for recommencing the war with <lb/>the Miami Indians. Upwards of 1000 volunteers <lb/>had been raised in the States of Pennsylvania, <lb/>Jersey, and Delaware, in the course of six weeks, <lb/>and rendezvoused at Fort Pitt, from whence they <lb/>were to commence their warlike oeprations.</p>
             </body>
         </text>
     </TEI>
@@ -853,29 +839,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>333</title>
+                    <title n="333">333</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141017 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-06-24"/>
@@ -898,7 +883,7 @@
                     <keywords>
                         <list>
                             <item>Native Americans</item>
-                            <item>war</item>
+                            <item n="war">war</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -915,29 +900,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>334</title>
+                    <title n="334">334</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141018 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141018 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-01-10"/>
@@ -961,11 +945,11 @@
                         <list>
                             <item>shipping news</item>
                             <item>Native Americans</item>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>colonial government</item>
                             <item>colonial politics</item>
-                            <item>weather</item>
-                            <item>crime</item>
+                            <item n="weather">weather</item>
+                            <item n="crime">crime</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1028,29 +1012,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>335</title>
+                    <title n="335">335</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141019 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141019 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-05-09"/>
@@ -1072,13 +1055,13 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>weather</item>
+                            <item n="weather">weather</item>
                             <item>Native Americans</item>
-                            <item>war</item>
-                            <item>trade</item>
-                            <item>census</item>
+                            <item n="war">war</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="census">census</item>
                             <item>colonial government</item>
-                            <item>religion</item>
+                            <item n="religion">religion</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1113,29 +1096,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>336</title>
+                    <title n="336">336</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141019 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130531 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141019 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-05-13"/>
@@ -1158,7 +1140,7 @@
                     <keywords>
                         <list>
                             <item>Native Americans</item>
-                            <item>war</item>
+                            <item n="war">war</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1176,29 +1158,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>347</title>
+                    <title n="347">347</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130523 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141107 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130523 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141107 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-02-21"/>
@@ -1247,29 +1228,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>348</title>
+                    <title n="348">348</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130523 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141108 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130523 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141108 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Google News Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-02-21"/>
@@ -1292,7 +1272,7 @@
                     <keywords>
                         <list>
                             <item>Native Americans</item>
-                            <item>crime</item>
+                            <item n="crime">crime</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1311,21 +1291,20 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>349</title>
+                    <title n="349">349</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20130528 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20131108 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20130528 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20131108 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Glasgow Advertiser</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from
@@ -1333,9 +1312,9 @@
                             </authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Glasgow</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1791-07-25"/>
@@ -1358,14 +1337,14 @@
                     <keywords>
                         <list>
                             <item>shipping news</item>
-                            <item>weather</item>
-                            <item>war</item>
+                            <item n="weather">weather</item>
+                            <item n="war">war</item>
                             <item>Native Americans</item>
-                            <item>textiles</item>
-                            <item>gambling</item>
-                            <item>longevity</item>
-                            <item>fire</item>
-                            <item>trade</item>
+                            <item n="textiles">textiles</item>
+                            <item n="gambling">gambling</item>
+                            <item n="longevity">longevity</item>
+                            <item n="fire">fire</item>
+                            <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1388,7 +1367,7 @@
                 <p>
                <hi rend="italic">Salem, May</hi>  31. His excellency our worthy <lb/>overnor perceiving, with his usual discernment, <lb/>that Lotteries have a tendency to withdraw the <lb/>people's attention from industry, the only certain <lb/>source of wealth and prosperity; and also that <cb/>they operate as a<supplied reason="copy blur">??? ??? ???, ??? ???</supplied> 
                <lb/>and embarrassed being<supplied reason="copy blur">??? the ??? a<lb break="no"/>
-                    </supplied> 
+               </supplied> 
                <lb/>venturers; suggests, in<supplied reason="copy blur">??? ???</supplied> the <lb/>Legislature, the propriety of discontinuing this <lb/>mode of raising money.</p>
                 <p>The states of Connecticut and New Hampshire <lb/>have passed laws, prohibiting the sale of lottery <lb/>tickets of other states, in their states.</p>
                 <p>

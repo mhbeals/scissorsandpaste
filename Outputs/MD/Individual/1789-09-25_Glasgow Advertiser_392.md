@@ -1,0 +1,1 @@
+A letter from New-York has the following paragraph: "It is reported here, and pretty generely credited, that a Commercial Treaty will early in the next year be proposed to Great Britain; it is all object on which the hopes of many are fixed."

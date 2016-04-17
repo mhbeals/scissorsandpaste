@@ -5,26 +5,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>103</title>
+                    <title n="103">103</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1810-06-09"/>
@@ -47,9 +47,9 @@
                     <keywords>
                         <list>
                             <item>colonial government</item>
-                            <item>newspapers</item>
-                            <item>crime</item>
-                            <item>accidents</item>
+                            <item n="newspapers">newspapers</item>
+                            <item n="crime">crime</item>
+                            <item n="accidents">accidents</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -79,27 +79,27 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>379</title>
+                    <title n="379">379</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Trewman's Exeter Flying Post</title>
+                            <title n="newspaper_fp">Trewman's Exeter Flying Post</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            <authority>Text within the public domain. Digitised image available from the 19th Century British Library Newspapers Database
                             </authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Exeter</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2649808">Exeter</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1810-01-11"/>
@@ -121,8 +121,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>crime</item>
-                            <item>obituary</item>
+                            <item n="crime">crime</item>
+                            <item n="obituary">obituary</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -150,27 +150,27 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>380</title>
+                    <title n="380">380</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Examiner</title>
+                            <title n="newspaper_er">Examiner</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            <authority>Text within the public domain. Digitised image available from the 19th Century British Library Newspapers Database
                             </authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1810-01-17"/>
@@ -192,8 +192,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>crime</item>
-                            <item>obituary</item>
+                            <item n="crime">crime</item>
+                            <item n="obituary">obituary</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -201,14 +201,6 @@
         </teiHeader>
         <text>
             <body>
-                <bibl corresp="381" type="original">
-                    <title key="Morning Chronicle"/>
-                    <date when="1810-01-06"/>
-                </bibl>
-                <bibl corresp="381" type="preceding">
-                    <title key="Morning Chronicle"/>
-                    <date when="1810-01-06"/>
-                </bibl>
                 <head>
                <hi rend="italic">AFFECTING INSTANCE OF SELF-MURDER</hi>
             </head>
@@ -218,6 +210,14 @@
                 <p>The history of this poor young creature is at once romantic <lb/>and interesting. She is the daughter of a Monsieur Paris, who <lb/>was well known in the commencement of the Revolution, and <lb/>in which he suffered.–Madame Paris, with her infant daugh<lb break="no"/>ter, took refuge in this country, and in the ruin of her fortune, <lb/>became a governess in a noble family in Scotland. After this, <lb/>she had a house in the New Road; and about two years ago <lb/>died of the rupture of a blood vessel. Her daughter had been <lb/>placed at an eminent boarding-school near one of the new <lb/>squares; and on the death of her mother was placed under the <lb/>guardianship of a Member of Parliament, who, with the most <lb/>liberal and benevolent attention to her destitute situation, re<lb break="no"/>solved to complete her education, and she had every master of <lb/>eminence in all the elegant arts. She spoke French and Ita<lb break="no"/>lian; touched the piano with great execution; sung with taste; <lb/>and had read beyond her years.–About six or eight months <lb/>ago, she was met in the square, when walking with the other <lb/>young ladies, by a young man in the dress of a Midshipman, <lb/>who followed her to the door, and who wrote to her under the <lb/>name of Jones. A correspondence took place; her imagina<lb break="no"/>tion was fired, and she eloped with him under a promise of <lb/>marriage. His address was found in her box, and they were <lb/>traced by her guardian, and separated. Jones declared that <lb/>she was virtuous, and his intentions were honourable, and as a <lb/>proof of it he was ready to marry her with her guardian's con<lb break="no"/>sent. In effect, they were married, and she was undone. In <lb/>about a fortnight or three weeks Jones threw off his disguise, <lb/>and fairly told her his real character,– that he was no sailor, <lb/>but lived by his shifts; that he had married her only for the <lb/>sum her protector had paid him, and that she must provide for <lb/>herself. She was abandoned; and the shock had such an <lb/>effect on her imagination, that she has ever since shewed signs <lb/>of A DISORDERED INTELLECT! With a heart that shrunk <lb/>from vice, she was flung on the world without a friend, or a <lb/>home; and in this deplorable state she became the victim of <lb/>necessity. About three weeks ago she saw an officer, who is <lb/>distinguished for his gallantries, and who by his address and <lb/>attentions so won upon her affections, that she could neither <lb/>speak nor think of any other object. This fatal attachment <lb/>absorbed her whole soul. They entered into engagements to <lb/>live and die only for one another; and in the frenzy of this <lb/>passion, or under the idea that she could not be his, and his <lb/>alone, she took the desperate resolution of dying for him. She <lb/>had prepared three phials of opium, who of which she swal<lb break="no"/>lowed; and she died with a spirit of heroism; for no per<lb break="no"/>suasion nor force could make her, when seized with the nausea <lb/>
                <pb n="16"/> of the poison, take any antidote to the draughts. She would <lb/>not suffer the medical men to approach her–and though after <lb/>stupefaction came on they administered every known medicine, <lb/>they all failed of effect. <lb/>
             </p>
+                <bibl corresp="381" type="original">
+                    <title key="Morning Chronicle"/>
+                    <date when="1810-01-06"/>
+                </bibl>
+                <bibl corresp="381" type="preceding">
+                    <title key="Morning Chronicle"/>
+                    <date when="1810-01-06"/>
+                </bibl>
             </body>
         </text>
     </TEI>
@@ -225,27 +225,27 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>381</title>
+                    <title n="381">381</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Morning Chronicle</title>
+                            <title n="newspaper_mc">Morning Chronicle</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            <authority>Text within the public domain. Digitised image available from the 19th Century British Library Newspapers Database
                             </authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1810-01-06"/>
@@ -267,8 +267,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>crime</item>
-                            <item>obituary</item>
+                            <item n="crime">crime</item>
+                            <item n="obituary">obituary</item>
                         </list>
                     </keywords>
                 </textClass>

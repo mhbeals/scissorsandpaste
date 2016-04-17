@@ -5,26 +5,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>297</title>
+                    <title n="297">297</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-03-20"/>
@@ -46,7 +46,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -63,26 +63,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>298</title>
+                    <title n="298">298</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-03-31"/>
@@ -104,7 +104,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -127,26 +127,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>299</title>
+                    <title n="299">299</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-04-14"/>
@@ -168,7 +168,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -176,17 +176,15 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-               <pb/>
-                    <head>
-                  <hi rend="smallcaps">Emigration To New South  <lb/>Wales. </hi>
-                    </head>
-            </p>
-                <p>We have received a copy of a Series of Resolu<lb break="no"/>tions passed, on the 23d of October 1840, by the <lb/>Legislative Cuncil of New South Wales, on the <lb/>subject of immigration into colony. The <lb/>object of these resolutions is to encourage emigra<lb break="no"/>tion from the mother country, by showing the <lb/>demand for labour in New South Wales, and the <lb/>advantages offered to the immigrant. We have <lb/>only room for a few of the more important resolu<lb break="no"/>tions :</p>
+                <pb/>
+            <head>
+               <hi rend="smallcaps">Emigration To New South  <lb/>Wales. </hi>
+            </head>
+                <p>We have received a copy of a Series of Resolu<lb break="no"/>tions passed, on the 23d of October 1840, by the <lb/>Legislative Council of New South Wales, on the <lb/>subject of immigration into colony. The <lb/>object of these resolutions is to encourage emigra<lb break="no"/>tion from the mother country, by showing the <lb/>demand for labour in New South Wales, and the <lb/>advantages offered to the immigrant. We have <lb/>only room for a few of the more important resolu<lb break="no"/>tions :</p>
                 <p>Resolved. That there exists throughout the colony <lb/>an urgent and increasing want of working hands, in <lb/>every branch of industry ; that there is ample employ<lb break="no"/>ment for emigrants, at highly renumerating wages <lb/>without the interruption, in this mild climate, experi<lb break="no"/>enced in colder countries during the winter months ; <lb/>and that, even during the worst period of the past <lb/>severe drought, no persons able and willing to work <lb/>found any difficult in procuring advantageous employ<lb break="no"/>ment.</p>
                 <p>Resolved. That, in the opinion of this Council, there <lb/>can be no more advantageous field for the employment <lb/>of industry than is presented in New South Wales– <lb/>experience proving, that able-bodied, sober, indus<lb break="no"/>trious and careful emigrants may, within a few years <lb/>after their arrival, rise form the condition of labourers <lb/>to be themselves employers of labour; by which pro<lb break="no"/>cess, and by the progressive increase of the flocks and <lb/>herds of the colony, a constant demand for additional <lb/>labourers is created, sufficient to remove all apprehen<lb break="no"/>sion of a dearth of employment for as many as may <lb/>arise.</p>
-                <p>Resolved. That this Council would particulary in<lb break="no"/>stance the large and increasing sums at the credit of <lb/>the working classes in the Savings Bank of New South <lb/>Wales, as affording gratifying evidence of their pros<lb break="no"/>perous condition, the deposits having increased from <lb/>t24,469, the amount on 31st December 1835, to t127,000 <lb/>on 31st August 1840.</p>
-                <p>Resolved. That great additiona advantage must <lb/>accrue to the mother country from the large consump<lb break="no"/>tion in this colony of British produce and manufac<lb break="no"/>tures, the declared value of which, from 1826 to 1839, <lb/>according to the official returns for that period, <lb/>amounted to more than eight millions sterling, having <lb/>progressively increased from t280,000, the amount in <lb/>1826, to t1,251,969 in 1839 ; whilst the exports from <lb/>the colony, including the produce of the fisheries, in<lb break="no"/>creased from t106,600 in the former year, to t948,776 <lb/>in the latter–the total amount being t6,187,530 for the <lb/>whole period.</p>
+                <p>Resolved. That this Council would particularly in<lb break="no"/>stance the large and increasing sums at the credit of <lb/>the working classes in the Savings Bank of New South <lb/>Wales, as affording gratifying evidence of their pros<lb break="no"/>perous condition, the deposits having increased from <lb/>t24,469, the amount on 31st December 1835, to t127,000 <lb/>on 31st August 1840.</p>
+                <p>Resolved. That great additional advantage must <lb/>accrue to the mother country from the large consump<lb break="no"/>tion in this colony of British produce and manufac<lb break="no"/>tures, the declared value of which, from 1826 to 1839, <lb/>according to the official returns for that period, <lb/>amounted to more than eight millions sterling, having <lb/>progressively increased from t280,000, the amount in <lb/>1826, to t1,251,969 in 1839 ; whilst the exports from <lb/>the colony, including the produce of the fisheries, in<lb break="no"/>creased from t106,600 in the former year, to t948,776 <lb/>in the latter–the total amount being t6,187,530 for the <lb/>whole period.</p>
                 <p>Resolved. That the trade between the mother coun<lb break="no"/>try and this colony, together with the whale fisheries <lb/>in the adjourning seas, also affords a valuable nursery <lb/>for seamen, important in this respect, in proportion to <lb/>the distance from Great Britain, and calculated to <lb/>strengthen and secure her maritime power ; and that <lb/>this field for the employment of British shipping must <lb/>increase with the growing prosperity of the colony– <lb/>considerations which appear to this Council to consti<lb break="no"/>tute a strong additional claim, on the part of the colony, <lb/>to the fostering care of the British Government.</p>
             </body>
         </text>
@@ -195,26 +193,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>300</title>
+                    <title n="300">300</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-04-07"/>
@@ -237,7 +235,7 @@
                     <keywords>
                         <list>
                             <item>economic migration</item>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -255,26 +253,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>301</title>
+                    <title n="301">301</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-09-22"/>
@@ -296,7 +294,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -317,26 +315,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>302</title>
+                    <title n="302">302</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-10-09"/>
@@ -358,7 +356,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -380,26 +378,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>304</title>
+                    <title n="304">304</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-11-17"/>
@@ -422,9 +420,9 @@
                     <keywords>
                         <list>
                             <item>shipping news</item>
-                            <item>society</item>
+                            <item n="society">society</item>
                             <item>settlement description</item>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -443,26 +441,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>305</title>
+                    <title n="305">305</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-11-24"/>
@@ -484,7 +482,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>emigration</item>
+                            <item n="emigration">emigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -503,26 +501,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>306</title>
+                    <title n="306">306</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-12-22"/>
@@ -544,7 +542,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -562,26 +560,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>307</title>
+                    <title n="307">307</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-12-25"/>
@@ -603,8 +601,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>emigration</item>
-                            <item>census</item>
+                            <item n="emigration">emigration</item>
+                            <item n="census">census</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -631,26 +629,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>308</title>
+                    <title n="308">308</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-12-29"/>
@@ -672,17 +670,17 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>crime</item>
-                            <item>agriculture</item>
-                            <item>bequests</item>
-                            <item>fire</item>
-                            <item>religion</item>
+                            <item n="crime">crime</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="bequests">bequests</item>
+                            <item n="fire">fire</item>
+                            <item n="religion">religion</item>
                             <item>settlement description</item>
-                            <item>society</item>
-                            <item>theatre</item>
-                            <item>trade</item>
-                            <item>weather</item>
-                            <item>monuments</item>
+                            <item n="society">society</item>
+                            <item n="theatre">theatre</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="weather">weather</item>
+                            <item n="monuments">monuments</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -803,26 +801,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>309</title>
+                    <title n="309">309</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-12-29"/>
@@ -844,7 +842,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -870,26 +868,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>310</title>
+                    <title n="310">310</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Scotsman</title>
+                            <title n="newspaper_sm">Scotsman</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1841-02-17"/>
@@ -911,7 +909,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>undefined</item>
+                            <item n="undefined">undefined</item>
                         </list>
                     </keywords>
                 </textClass>

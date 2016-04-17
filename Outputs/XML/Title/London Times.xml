@@ -5,29 +5,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>361</title>
+                    <title n="361">361</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>London Times</title>
+                            <title n="newspaper_lt">London Times</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Newspaper Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-02"/>
@@ -49,7 +48,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>

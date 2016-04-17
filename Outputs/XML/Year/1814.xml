@@ -5,26 +5,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>111</title>
+                    <title n="111">111</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1814-03-19"/>
@@ -46,7 +46,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
                             <item>Native Americans</item>
                         </list>
@@ -56,12 +56,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-               <pb/>
-                    <head>
-                  <hi rend="smallcaps">Destruction of a Moravian Settlement  <lb/>in Canada </hi>
-                    </head>
-            </p>
+                <pb/>
+            <head>
+               <hi rend="smallcaps">Destruction of a Moravian Settlement  <lb/>in Canada </hi>
+            </head>
                 <p>The following letter received in town, gives a de<lb break="no"/>scription of the wanton and barbarous conduct of the <lb/>American army, in destroying a settlement of the <lb/>Moravian missionaries, in their late irruption into <lb/>province:–</p>
                 <p>"Yesterday I received a very afflicting account from North <lb/>America, by a letter from New York, dated Dec. 27 1813, <lb/>concerning a report of the total destruction of our settlement, <lb/>
                <supplied reason="copy blur">??? ???</supplied> on the 6th of October, by the American <lb/>army under General Harrison. It was the consequence of the <lb/>invasion of that province, after the capture of the little fleet <lb/>on Lake Erie, and the defeat of the s[?]al British force under the <lb/>[?] of occupying the Chapel and some other houses for <lb/>our sick British soldiers, and considering the danger the Chris<lb break="no"/>tian Indians were in from the malice of the Americans, it was <lb/>his advice, that the Missionaries and the Indian Congregation <lb/>should retreat farther into the country. When the Americans <lb/>were successful in the latter, it became necessary to take steps <lb/>of effect it. The British behaved very kindly to the brethren, <lb/>and offered to purchase the houses and cottages, but their de<lb break="no"/>feat prevented it. On entering the place, the Americans first <lb/>pretended to be friendly, and sorry that the Indians had fled, <lb/>who had gone with Mr and Mrs Denke (one of the Mission<lb break="no"/>aries) up the river. Mr and Mrs Schnall, and the aged Mis<lb break="no"/>sionary, Michael Young, remained.</p>
@@ -73,26 +71,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>112</title>
+                    <title n="112">112</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1814-05-26"/>
@@ -115,12 +113,12 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item>crime</item>
+                            <item n="crime">crime</item>
                             <item>colonial government</item>
-                            <item>trade</item>
-                            <item>Maori</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="Maori">Maori</item>
                             <item>Pacific Islanders</item>
-                            <item>transportation</item>
+                            <item n="transportation">transportation</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -128,12 +126,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-               <pb/>
-                    <head>
-                  <hi rend="smallcaps">New South Wales Intelligence</hi>
-                    </head>
-            </p>
+                <pb/>
+            <head>
+               <hi rend="smallcaps">New South Wales Intelligence</hi>
+            </head>
                 <p>A proclamation, issued by Governor Macquarrie, appears <lb/>in the Sidney Gazette of 14th May, stating that Peter Mills <lb/>Acting Deputy Surveyor of Lands at Port Dalrymple, Van <lb/>Dieman's Land, and George Williams, Acting Deputy Com<lb break="no"/>missary of Stores and provisions at the said settlement, had <lb/>absconded from their habitations, and fled to the woods ; that <lb/>their object was to live by rapine and violence ; to effect which <lb/>they had armed themselves, and taken the command of a gang <lb/>of 26 desperadoes, with whose aid they had committed nume<lb break="no"/>rous robberies–entering the lands of settlers, driving away <lb/>their cattle, and plundering their houses. The proclamation <lb/>declares that those who shall return to their houses and occu<lb break="no"/>pations before 1st December next, shall be pardoned and <lb/>saved harmless from all offences, except the crime of wilful <lb/>murder ; and denounces those who shall disregard this offer, <lb/>as outlaws.</p>
                 <p>Sydney, New South Wales, Jan. 4. <lb/>The Argo has arrived with a most extensive supply of tea, <lb/>viz, 167 chests of souchong, 200 ditto bobea, 200 hyson skin, <lb/>and young hyson 50 ; in all 617 chests. The consequences has <lb/>been a reduction in the price of souching from 30s to 5s per <lb/>lb currency. Shortly prior to the Argo's departure from the <lb/>Island of Mauritius, the Hope American ship, laden with tea <lb/>and sundies, valued at L80,000, was captured by his Maje<lb break="no"/>sty's sloop Harpy, Captain Allen.</p>
                 <p>In consequences of the oppressive conduct of several masters <lb/>of colonial and British ships, and of their crews towards the <lb/>natives of New Zealand, of Otaheite, and of the other islands <lb/>in the South Pacific Ocean, which have led to the destruction <lb/>of several vessels, with their crews, by the natives, and dis<lb break="no"/>turbed all trade and intercourse with those islands, both by <lb/>British shipping and that ofthe allied powers–his Excellency <lb/>has forbidden any vessel to clear out from any place in New <lb/>South Wales, without a bond given by the master or owner to <lb/>the naval officer for the time being at the port, for L.1000 <lb/>sterling, binding him and his crew not to commit any act of <lb/>hostility, or to be guilty of any trespass, or forment any animo<lb break="no"/>sities between the natives, or take any part in any war that <lb/>may prevail ; nor forcibly carry away any male or female in<lb break="no"/>habitants of the islands under penalty of forfeiting the sum <lb/>specified in the bond.</p>
@@ -148,26 +144,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>113</title>
+                    <title n="113">113</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1814-09-12"/>
@@ -189,9 +185,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>trade</item>
-                            <item>military</item>
-                            <item>war</item>
+                            <item n="sh87004890">international trade</item>
+                            <item n="military">military</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
                         </list>
                     </keywords>
@@ -200,12 +196,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-               <pb/>
-                    <head>
-                  <hi rend="smallcaps">Canada</hi>
-                    </head>
-            </p>
+                <pb/>
+            <head>
+               <hi rend="smallcaps">Canada</hi>
+            </head>
                 <p>[Extracts of Letters from Quebec and Montreal.]</p>
                 <p>Quebec, July 15. <lb/>The commercial world is flourishing here, but in <lb/>political matters, I am sorry to say, we are sadly in <lb/>the back ground. The old defensive system is still <lb/>adhered to, and, I fear much, with all our reinforce<lb break="no"/>ments, we shall do little good till we have another <lb/>commander in chief. There is now a great body of <lb/>regular troops in this country, and a handful of brave <lb/>fellows have recently been almost sacrificed <hi rend="italic">par la </hi>
                <lb/>
@@ -224,26 +218,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>114</title>
+                    <title n="114">114</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1814-10-15"/>
@@ -265,10 +259,10 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
-                            <item>military</item>
-                            <item>navy</item>
+                            <item n="military">military</item>
+                            <item n="navy">navy</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -276,12 +270,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>
-               <pb/>
-                    <head>
-                  <hi rend="smallcaps">Private Correspondence</hi>
-                    </head>
-            </p>
+                <pb/>
+            <head>
+               <hi rend="smallcaps">Private Correspondence</hi>
+            </head>
                 <p>Quebec, Sept. 10. <lb/>The Americans, to the number of 900 men, landed and at<lb break="no"/> 
                <lb/>tacked Fort Michillimackinac, in Lake Huron, on the 4th <lb/>August. They were repulsed by the British garrison.</p>
                 <p>The American fort la Prairie du Chiens has been taken <lb/>by the British. This place was considered as of great impor<lb break="no"/>tance to the enemy.</p>
@@ -305,26 +297,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>115</title>
+                    <title n="115">115</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1814-10-15"/>
@@ -346,7 +338,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
                             <item>Native Americans</item>
                         </list>
@@ -377,26 +369,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>116</title>
+                    <title n="116">116</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1814-12-08"/>
@@ -418,11 +410,11 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>war</item>
+                            <item n="war">war</item>
                             <item>Anglo-American relations</item>
                             <item>Native Americans</item>
-                            <item>military</item>
-                            <item>privateering</item>
+                            <item n="military">military</item>
+                            <item n="privateering">privateering</item>
                         </list>
                     </keywords>
                 </textClass>

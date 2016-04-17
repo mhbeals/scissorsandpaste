@@ -5,29 +5,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>360</title>
+                    <title n="360">360</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Morning Chronicle</title>
+                            <title n="newspaper_mc">Morning Chronicle</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from British Library Newspapers Online</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-03"/>
@@ -49,7 +48,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -80,27 +79,27 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>381</title>
+                    <title n="381">381</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Morning Chronicle</title>
+                            <title n="newspaper_mc">Morning Chronicle</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            <authority>Text within the public domain. Digitised image available from the 19th Century British Library Newspapers Database
                             </authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1810-01-06"/>
@@ -122,8 +121,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>crime</item>
-                            <item>obituary</item>
+                            <item n="crime">crime</item>
+                            <item n="obituary">obituary</item>
                         </list>
                     </keywords>
                 </textClass>

@@ -5,27 +5,27 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>379</title>
+                    <title n="379">379</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2015-10-21">20151021</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-10-22">20151022</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Trewman's Exeter Flying Post</title>
+                            <title n="newspaper_fp">Trewman's Exeter Flying Post</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from <ref target="">the 19th Century British Library Newspapers Database</ref>
+                            <authority>Text within the public domain. Digitised image available from the 19th Century British Library Newspapers Database
                             </authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Exeter</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2649808">Exeter</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1810-01-11"/>
@@ -47,8 +47,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>crime</item>
-                            <item>obituary</item>
+                            <item n="crime">crime</item>
+                            <item n="obituary">obituary</item>
                         </list>
                     </keywords>
                 </textClass>

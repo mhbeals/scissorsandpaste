@@ -5,26 +5,26 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>121</title>
+                    <title n="121">121</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection">M. H. Beals</persName>. Transcribed by <persName role="transcription">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain.</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-07-21"/>
@@ -46,10 +46,10 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>emigration</item>
-                            <item>weather</item>
-                            <item>agriculture</item>
-                            <item>prices</item>
+                            <item n="emigration">emigration</item>
+                            <item n="weather">weather</item>
+                            <item n="agriculture">agriculture</item>
+                            <item n="prices">prices</item>
                             <item>economic migration</item>
                         </list>
                     </keywords>
@@ -74,29 +74,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>357</title>
+                    <title n="357">357</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20120309 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20120309 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Caledonian Mercury</title>
+                            <title n="newspaper_cm">Caledonian Mercury</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from British Library Newspapers Online</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Edinburgh</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-06"/>
@@ -118,7 +117,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -151,29 +150,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>358</title>
+                    <title n="358">358</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20130528 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20130528 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Aberdeen Journal</title>
+                            <title n="newspaper_aj">Aberdeen Journal</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from British Library Newspapers Online</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>Aberdeen</settlement>
-                                    <region>Scotland</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2657832">Aberdeen</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-08"/>
@@ -195,7 +193,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -223,29 +221,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>360</title>
+                    <title n="360">360</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20120309 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>Morning Chronicle</title>
+                            <title n="newspaper_mc">Morning Chronicle</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from British Library Newspapers Online</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-03"/>
@@ -267,7 +264,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -298,29 +295,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>361</title>
+                    <title n="361">361</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>London Times</title>
+                            <title n="newspaper_lt">London Times</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Newspaper Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-02"/>
@@ -342,7 +338,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -371,29 +367,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>362</title>
+                    <title n="362">362</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>London Star</title>
+                            <title n="newspaper_ls">London Star</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Newspaper Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-01"/>
@@ -415,7 +410,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -445,29 +440,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>363</title>
+                    <title n="363">363</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>London Courier</title>
+                            <title n="newspaper_lc">London Courier</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Newspaper Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-02"/>
@@ -489,7 +483,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -518,29 +512,28 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>364</title>
+                    <title n="364">364</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by
- <persName role="transcription">
-                            <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
-                        </persName>.</authority>
+                    <authority>Collected from a digital image on 20141201 by <persName role="collection">M. H. Beals.</persName> Transcribed on 20141201 by <persName role="transcription">
+                     <ref target="http://www.mhbeals.com/about">M. H. Beals</ref>
+                  </persName>.</authority>
                     <availability>
-                        <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title>London St James Chronicle and Evening Post</title>
+                            <title n="newspaper_lj">London St James Chronicle and Evening Post</title>
                         </titleStmt>
                         <publicationStmt>
                             <authority>Text within the public domain. Digitsed image available from Newspaper Archive</authority>
                             <pubPlace>
                                 <address>
-                                    <settlement>London</settlement>
-                                    <region>England</region>
-                                    <country>United Kingdom</country>
+                                    <settlement n="2643743">London</settlement>
+                                    <region n="6269131">England</region>
+                                    <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
                             <date when="1817-01-02"/>
@@ -562,7 +555,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>cannibalism</item>
+                            <item n="cannibalism">cannibalism</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -574,8 +567,7 @@
                 <p>
                <pb n="2"/>
                <hi rend="center">
-                  <hi rend="italic">British Vessel plundered by the Natives of the Mar
-                           <lb break="no"/>quesas Islands.  </hi>
+                  <hi rend="italic">British Vessel plundered by the Natives of the Mar<lb break="no"/>quesas Islands.  </hi>
                   <lb/>[ <hi rend="italic">From the Sydney Gazette, Nov</hi>. 8, 1815.]</hi>
             </p>
                 <p>By the Governor Macquarrie are arrived Captain Fow<lb break="no"/>ler, and part of the crew of the Indian brig Matilda, <lb/>which sailed from this colony in August 1813, bound <lb/>on a voyage to the Derwent and Eastern Islands, and from thence to China; but was cut off and plundered <lb/>on the night of the 10th of April last, while lying at <lb/>anchor in Duff's Bay, at the Island of Rooapoah, one <lb/>of the Marquesas, on a sandal-wood voyage. Five of <lb/>the crew (Poomootoo men) had previously deserted, <lb/>and joining with some of the Rooapoah natives, took the opportunity of a dark night, and the wind blowing <lb/>fresh right on the land, to cut the vessel adrift; by <lb/>which means she drove ashore through a heavy surf, <lb/>and was soon bilged and filled with water. When the <lb/>cannibal natives saw that it was impracticable to get <lb/>the vessel afloat, they concurred universally in the de<lb break="no"/>sign of putting the whole of her crew to death; which <lb/>appears to have been a constant practise among the dif<lb break="no"/>ferent natives towards one another, when their canoes <lb/>happen to fall upon a strange shore, through stress <lb/>of weather, or from any other accident.</p>
