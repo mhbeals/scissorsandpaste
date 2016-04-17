@@ -9975,8 +9975,8 @@ sapcorpus:article_396
 	
 sapcorpus:article_397
 	a fabio:NewspaperArticle ;
-	dc:date "1790-11-16"^^xsd:date ;
-	fabio:partOf sapcorpus:newspaper_ga_1790-11-16 ; 
+	dc:date "1790-11-19"^^xsd:date ;
+	fabio:partOf sapcorpus:newspaper_ga_1790-11-19 ; 
 	prism:startingPage "2"  ;
 	frbr:embodiment <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> .
 
@@ -10011,8 +10011,8 @@ sapcorpus:image_397
 	
 sapcorpus:article_398
 	a fabio:NewspaperArticle ;
-	dc:date "1790-11-19"^^xsd:date ;
-	fabio:partOf sapcorpus:newspaper_ga_1790-11-19 ; 
+	dc:date "1790-11-15"^^xsd:date ;
+	fabio:partOf sapcorpus:newspaper_ga_1790-11-15 ; 
 	prism:startingPage "6"  ;
 	frbr:embodiment <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> .
 
