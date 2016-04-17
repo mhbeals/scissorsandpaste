@@ -1,31 +1,27 @@
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:html="http://www.w3.org/1999/xhtml">
+<TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title n=""></title>
             </titleStmt>
             <publicationStmt>
-                <authority> Collected from a digital image on <date when=""
-                    ></date> by <persName role="collection"></persName>.
-                    Transcribed on <date when=""></date> by 
-                    <persName role="transcription"></persName>.</authority>
+                <authority>Collected from a digital image on <date when=""></date> by <persName role="collection" n=""></persName>. Transcribed on <date when=""></date> by <persName role="transcription" n=""></persName>.</authority>
                 <availability>
-                    <licence>This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <biblFull>
                     <titleStmt>
-                        <title></title>
+                        <title n="newspaper_"></title>
                     </titleStmt>
                     <publicationStmt>
-                        <authority>Text within the public domain. Digitised image available from <ref target=""></ref></authority>
+                        <authority>Text within the public domain. Digitised image available from <ref target=""></ref></authority>.
                         <pubPlace>
                             <address>
-                                <settlement></settlement>
-                                <region></region>
-                                <country></country>
+                                <settlement n=""></settlement>
+                                <region n=""></region>
+                                <country n=""></country>
                             </address>
                         </pubPlace>
                         <date when=""/>
@@ -37,17 +33,17 @@
             <textDesc>
                 <channel mode="w"/>
                 <constitution type="single"/>
-                <derivation type="original"/>
+                <derivation type="plagiarism"/>
                 <domain type="public"/>
                 <factuality type="mixed"/>
                 <interaction type="none" active="corporate" passive="world"/>
                 <preparedness type="revised"/>
-                <purpose type=""/>
+                <purpose type="inform"/>
             </textDesc>
             <textClass>
                 <keywords>
                     <list>
-                        <item></item>
+                        <item n=""></item>
                     </list>
                 </keywords>
             </textClass>
@@ -55,6 +51,7 @@
     </teiHeader>
     <text>
         <body>
+            <head></head>
             <p>
                 <pb n=""/>
             </p>

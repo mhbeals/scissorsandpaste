@@ -5,7 +5,7 @@
                     <title n="397">397</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n=""/>. Transcribed on <date when=""/> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2016-04-17">20160417</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
                     <availability>
                         <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
@@ -16,7 +16,7 @@
                             <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=znVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=2468%2C7669826">Google Newspaper Archive</ref></authority>.
+                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=zXVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=6437%2C7617560">Google Newspaper Archive</ref></authority>.
                             <pubPlace>
                                 <address>
                                     <settlement n="2648579">Glasgow</settlement>
@@ -24,7 +24,7 @@
                                     <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
-                            <date when="1790-11-19"/>
+                            <date when="1790-11-16"/>
                         </publicationStmt>
                     </biblFull>
                 </sourceDesc>
@@ -44,15 +44,15 @@
                     <keywords>
                         <list>
                             <item n="sh85050303">food poisoning</item>
-                            <item n="sh85081113">maritime accidents</item>"
+                            <item n="sh85081113">maritime accidents</item>
                         </list>
                     </keywords>
                 </textClass>
             </profileDesc>
         </teiHeader>
         <text>
-            <body>
-                <p><pb n="2"/>By an extract of a letter from <region n="3489940">Jamaica</region> we learn <lb/>the following singular fact;–The Captain and <lb/>crew of the brig Exuma, which arrived there <lb/>some days before from <region n="6354959">Newfoundland</region>, hav<lb break="no"/>ing in the course of their passage fallen in with a French schooner, Captain Alward asked the <lb/>Captain of the schooner to accommodate him <lb/>with some nails, which he politely did; at the <lb/>same time begging his acceptance of some barra<lb/>coutes caught that morning. Captain Aylward <lb/>and his crew having dined off them the same day, <lb/>they were immediately seized with violent sickness <lb/>convulsive fits, and other dangerous symptoms. <lb/>The Captain, judging that the fish they had ea<lb break="no"/>ten were of a poisonous nature, conceived that <lb/>salt water might be of service, he instantly made <lb/>the expedient on himself, which relieved him <lb/>greatly ; he applied the same remedy to his crew <lb/>and it was attended with good effects. When <lb/>this unfortunate accident happened, it was luc<lb break="no"/>kily a dead calm ; had the weather been tempes<lb break="no"/>tous, it is more than probable the ship and crew <lb/>would have been lost, as during their sickness, there was not a man able to stand by the helm.</p>
+            <body> 
+               <p><pb n="2"/>By an extract of a letter from <region n="3489940">Jamaica</region> we learn <lb/>the following singular fact;–The Captain and <lb/>crew of the brig Exuma, which arrived there <lb/>some days before from <region n="6354959">Newfoundland</region>, hav<lb break="no"/>ing in the course of their passage fallen in with a French schooner, Captain Alward asked the <lb/>Captain of the schooner to accommodate him <lb/>with some nails, which he politely did; at the <lb/>same time begging his acceptance of some barra<lb/>coutes caught that morning. Captain Aylward <lb/>and his crew having dined off them the same day, <lb/>they were immediately seized with violent sickness <lb/>convulsive fits, and other dangerous symptoms. <lb/>The Captain, judging that the fish they had ea<lb break="no"/>ten were of a poisonous nature, conceived that <lb/>salt water might be of service, he instantly made <lb/>the expedient on himself, which relieved him <lb/>greatly ; he applied the same remedy to his crew <lb/>and it was attended with good effects. When <lb/>this unfortunate accident happened, it was luc<lb break="no"/>kily a dead calm ; had the weather been tempes<lb break="no"/>tous, it is more than probable the ship and crew <lb/>would have been lost, as during their sickness, there was not a man able to stand by the helm.</p>
             </body>
         </text>
     </TEI>

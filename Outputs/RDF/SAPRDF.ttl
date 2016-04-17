@@ -9975,23 +9975,23 @@ sapcorpus:article_396
 	
 sapcorpus:article_397
 	a fabio:NewspaperArticle ;
-	dc:date "1790-11-19"^^xsd:date ;
-	fabio:partOf sapcorpus:newspaper_ga_1790-11-19 ; 
+	dc:date "1790-11-16"^^xsd:date ;
+	fabio:partOf sapcorpus:newspaper_ga_1790-11-16 ; 
 	prism:startingPage "2"  ;
-	frbr:embodiment <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> .
+	frbr:embodiment <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> .
 
 
 
-<https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> 
+<https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> 
 	a fabio:WebManifestation ;
 	frbr:embodimentOf sap:article_397.
 
 sapcorpus:image_397
 	a foaf:Document ;
-	pav:retrievedFrom <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
-	pav:retrievedBy sap: ;
-	pav:retrievedOn "2013-05-14"^^xsd:date ;
-	frbr:exemplarOf <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
+	pav:retrievedFrom <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> ;
+	pav:retrievedBy sap:mhbeals ;
+	
+	frbr:exemplarOf <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> ;
 	fabio:isRepresentationOf sap:article_397 ;
 	fabio:isStoredOn fabio:HD .
 	
@@ -10002,10 +10002,49 @@ sapcorpus:image_397
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
-	frbr:exemplarOf <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
+	frbr:exemplarOf <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> ;
 	fabio:isRepresentationOf sap:article_397 ;
 	fabio:isStoredOn fabio:internet ;
 	dc:coverage <http://id.loc.gov/authorities/subjects/sh85050303.html> ;
 	dc:coverage <http://id.loc.gov/authorities/subjects/sh85081113.html> ;
 	sap:body "By an extract of a letter from Jamaica we learn the following singular fact;–The Captain and crew of the brig Exuma, which arrived there some days before from Newfoundland, having in the course of their passage fallen in with a French schooner, Captain Alward asked the Captain of the schooner to accommodate him with some nails, which he politely did; at the same time begging his acceptance of some barracoutes caught that morning. Captain Aylward and his crew having dined off them the same day, they were immediately seized with violent sickness convulsive fits, and other dangerous symptoms. The Captain, judging that the fish they had eaten were of a poisonous nature, conceived that salt water might be of service, he instantly made the expedient on himself, which relieved him greatly ; he applied the same remedy to his crew and it was attended with good effects. When this unfortunate accident happened, it was luckily a dead calm ; had the weather been tempestous, it is more than probable the ship and crew would have been lost, as during their sickness, there was not a man able to stand by the helm. " .
+	
+sapcorpus:article_398
+	a fabio:NewspaperArticle ;
+	dc:date "1790-11-19"^^xsd:date ;
+	fabio:partOf sapcorpus:newspaper_ga_1790-11-19 ; 
+	prism:startingPage "6"  ;
+	frbr:embodiment <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> .
+
+
+
+<https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> 
+	a fabio:WebManifestation ;
+	frbr:embodimentOf sap:article_398.
+
+sapcorpus:image_398
+	a foaf:Document ;
+	pav:retrievedFrom <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
+	pav:retrievedBy sap: ;
+	
+	frbr:exemplarOf <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
+	fabio:isRepresentationOf sap:article_398 ;
+	fabio:isStoredOn fabio:HD .
+	
+<http://www.scissorsandpaste.net/sapcorpus/398.xml>
+	a foaf:Document ;
+	sap:transcribedFrom sapcorpus:image_398 ;		
+	sap:transcribedBy sap:mhbeals ;
+	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
+	cc:attributionName "M. H. Beals" ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	frbr:exemplarOf <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
+	fabio:isRepresentationOf sap:article_398 ;
+	fabio:isStoredOn fabio:internet ;
+	dc:coverage <http://id.loc.gov/authorities/subjects/sh85121666.html> ;
+	dc:coverage <http://id.loc.gov/authorities/subjects/sh85081113.html> ; 
+	dc:coverage <http://www.geonames.org/4776222> ; 
+	dc:coverage <http://www.geonames.org/4776222> ; 
+	dc:coverage <http://www.geonames.org/2643743> ;
+	sap:body "By letters received from Norfolk in Virginia, dated the 23rd of July, we learn that on the 10th of that month the ship Betsey of Greenock, Capt. James Young, had arrived there in 19 days from Jamaica, and brought the following melancholy relation which he received from the crew of the Prudence, whom she picked up on the 1st of Juin lat. 22. 40. long. 85. 32. That from the 7th to the 10th of June the weather had been very hazy, with little wind, so that Capt Addies could not get an observation, and a strong current setting to the Southward and Westward, drove them farther leeward than they imagined. On the 12th, about 3 o'clock in the morning, the watch discovered Cape Catuloh, but before intelligence could be given to the Captain, she struck.  For some time she made no water but about seven the water came in so fast, that by eleven o'clock, A. M. the water was six feet in the hold (the depth of the water in which she lay,) the people being sixteen in number, took to their long boat, and endeavoured to make Cape Antonie; but after four days fruitless labour they were obliged to return to the wreck, where they found two Spaniards plundering, who informed them that there were only four inhabitants on the island, and therefore they could receive no assistance from them; upon which, having taken a quantity of beef and biscuits aboard, they left the wreck a second time, and after having been absent fourteen days, were providentially picked up by the ship Betsey, and carried to Norfolk in Virginia. The Prudence was from Jamaica, bound to London, and had upwards of 500 hogsheads of sugar and rum on board. " .
 	

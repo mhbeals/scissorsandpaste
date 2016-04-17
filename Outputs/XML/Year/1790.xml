@@ -2501,7 +2501,67 @@
                     <title n="397">397</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n=""/>. Transcribed on <date when=""/> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2016-04-17">20160417</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=zXVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=6437%2C7617560">Google Newspaper Archive</ref>
+                     </authority>.
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-16"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh85050303">food poisoning</item>
+                            <item n="sh85081113">maritime accidents</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body> 
+               <p>
+               <pb n="2"/>By an extract of a letter from <region n="3489940">Jamaica</region> we learn <lb/>the following singular fact;–The Captain and <lb/>crew of the brig Exuma, which arrived there <lb/>some days before from <region n="6354959">Newfoundland</region>, hav<lb break="no"/>ing in the course of their passage fallen in with a French schooner, Captain Alward asked the <lb/>Captain of the schooner to accommodate him <lb/>with some nails, which he politely did; at the <lb/>same time begging his acceptance of some barra<lb/>coutes caught that morning. Captain Aylward <lb/>and his crew having dined off them the same day, <lb/>they were immediately seized with violent sickness <lb/>convulsive fits, and other dangerous symptoms. <lb/>The Captain, judging that the fish they had ea<lb break="no"/>ten were of a poisonous nature, conceived that <lb/>salt water might be of service, he instantly made <lb/>the expedient on himself, which relieved him <lb/>greatly ; he applied the same remedy to his crew <lb/>and it was attended with good effects. When <lb/>this unfortunate accident happened, it was luc<lb break="no"/>kily a dead calm ; had the weather been tempes<lb break="no"/>tous, it is more than probable the ship and crew <lb/>would have been lost, as during their sickness, there was not a man able to stand by the helm.</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="398">398</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n=""/>. Transcribed on <date when="2016-04-17">20160417</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
                     <availability>
                         <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
@@ -2535,13 +2595,13 @@
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
                     <preparedness type="revised"/>
-                    <purpose type="entertain"/>
+                    <purpose type="inform"/>
                 </textDesc>
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="sh85050303">food poisoning</item>
-                            <item n="sh85081113">maritime accidents</item>"
+                            <item n="sh85121666">shipwreck</item>
+                            <item n="sh85081113">maritime accidents</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2550,7 +2610,11 @@
         <text>
             <body>
                 <p>
-               <pb n="2"/>By an extract of a letter from <region n="3489940">Jamaica</region> we learn <lb/>the following singular fact;–The Captain and <lb/>crew of the brig Exuma, which arrived there <lb/>some days before from <region n="6354959">Newfoundland</region>, hav<lb break="no"/>ing in the course of their passage fallen in with a French schooner, Captain Alward asked the <lb/>Captain of the schooner to accommodate him <lb/>with some nails, which he politely did; at the <lb/>same time begging his acceptance of some barra<lb/>coutes caught that morning. Captain Aylward <lb/>and his crew having dined off them the same day, <lb/>they were immediately seized with violent sickness <lb/>convulsive fits, and other dangerous symptoms. <lb/>The Captain, judging that the fish they had ea<lb break="no"/>ten were of a poisonous nature, conceived that <lb/>salt water might be of service, he instantly made <lb/>the expedient on himself, which relieved him <lb/>greatly ; he applied the same remedy to his crew <lb/>and it was attended with good effects. When <lb/>this unfortunate accident happened, it was luc<lb break="no"/>kily a dead calm ; had the weather been tempes<lb break="no"/>tous, it is more than probable the ship and crew <lb/>would have been lost, as during their sickness, there was not a man able to stand by the helm.</p>
+               <pb n="6"/>By letters received from <settlement n="4776222">Norfolk</settlement> in <region n="6254928">Virginia</region>, <lb/>dated the 23rd of July, we learn that on the 10th <lb/>of that month the ship Betsey of Greenock, Capt. <lb/>James Young, had arrived there in 19 days from <lb/>
+               <region n="3489940">Jamaica</region>, and brought the following melancholy <lb/>relation which he received from the crew of the <lb/>Prudence, whom she picked up on the 1st of Ju<lb break="no"/>in lat. 22. 40. long. 85. 32. That from the <lb/>7th to the 10th of June the weather had been <lb/>very hazy, with little wind, so that Capt Addies <lb/>could not get an observation, and a strong cur<lb break="no"/>rent setting to the Southward and Westward, <lb/>drove them farther leeward than they imagined. <lb/>On the 12th, about 3 o'clock in the morning, the <lb/>watch discovered Cape Catuloh, but before intel<lb break="no"/>ligence could be given to the Captain, she struck. <lb/> For some time she made no water but about se<lb break="no"/>ven the water came in so fast, that by eleven <lb/>o'clock, A. M. the water was six feet in the <lb/>hold (the depth of the water in which she lay,) the people being sixteen in number, took to their <lb/>long boat, and endeavoured to make Cape Anto<lb break="no"/>nie; but after four days fruitless labour they <lb/>were obliged to return to the wreck, where they found two Spaniards plundering, who informed <lb/>them that there were only four inhabitants on the <lb/>island, and therefore they could receive no assist<lb break="no"/>ance from them; upon which, having taken a <lb break="no"/>quantity of beef and biscuits aboard, they left the <lb/>wreck a second time, and after having been ab<lb break="no"/>sent fourteen days, were providentially picked up <lb/>by the ship Betsey, and carried to <settlement n="4776222">Norfolk</settlement> in <lb/>
+               <region n="6254928">Virginia</region>.</p>
+                <p>The Prudence was from <region n="3489940">Jamaica</region>, bound to <lb/>
+               <settlement n="2643743">London</settlement>, and had upwards of 500 hogsheads of <lb/>sugar and rum on board.</p>
             </body>
         </text>
     </TEI>
