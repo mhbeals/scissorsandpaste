@@ -58,8 +58,6 @@ sap:mhbeals a foaf:person .
 
 sap:mtemplar a foaf:person .
 
-sap: a foaf:person .
-
 sapmemes:381 a fabio:NewsReport .
 
 sapcorpus:newspaper_cm 
@@ -2579,7 +2577,7 @@ sapcorpus:image_1
 	a foaf:Document ;
 	pav:retrievedFrom <http://www.britishnewspaperarchive.co.uk/viewer/bl/0000045/18110826/013/0004> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2011-05-01"^^xsd:date ;
 	frbr:exemplarOf <http://www.britishnewspaperarchive.co.uk/viewer/bl/0000045/18110826/013/0004> ;
 	fabio:isRepresentationOf sap:article_1 ;
 	fabio:isStoredOn fabio:HD .
@@ -2588,9 +2586,11 @@ sapcorpus:image_1
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_1 ;		
 	sap:transcribedBy sap:mtemplar ;
+	sap:transcribedOn "2013-05-01"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "Max Templer" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://www.britishnewspaperarchive.co.uk/viewer/bl/0000045/18110826/013/0004> ;
 	fabio:isRepresentationOf sap:article_1 ;
 	fabio:isStoredOn fabio:internet ;
@@ -2630,7 +2630,7 @@ sapcorpus:image_2
 	sap:transcribedBy sap:mtemplar ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "Max Templer" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=vJZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=2621%2C577735> ;
 	fabio:isRepresentationOf sap:article_2 ;
 	fabio:isStoredOn fabio:internet ;
@@ -8824,7 +8824,7 @@ sapcorpus:image_349
 	sap:transcribedBy sap: ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=Fl4-AAAAIBAJ&sjid=xEsMAAAAIBAJ&pg=4345%2C5105978> ;
 	fabio:isRepresentationOf sap:article_349 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9097,7 +9097,7 @@ sapcorpus:image_365
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=4213%2C5516159> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-06"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=4213%2C5516159> ;
 	fabio:isRepresentationOf sap:article_365 ;
 	fabio:isStoredOn fabio:HD .
@@ -9106,9 +9106,11 @@ sapcorpus:image_365
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_365 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2014-12-15"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=4213%2C5516159> ;
 	fabio:isRepresentationOf sap:article_365 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9132,7 +9134,7 @@ sapcorpus:image_366
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=ikpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6341%2C555484> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-08"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=ikpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6341%2C555484> ;
 	fabio:isRepresentationOf sap:article_366 ;
 	fabio:isStoredOn fabio:HD .
@@ -9141,9 +9143,11 @@ sapcorpus:image_366
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_366 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2014-12-15"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=ikpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6341%2C555484> ;
 	fabio:isRepresentationOf sap:article_366 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9166,7 +9170,7 @@ sapcorpus:image_367
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=UJREAAAAIBAJ&sjid=qrUMAAAAIBAJ&pg=5088%2C256889> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2012-05-11"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=UJREAAAAIBAJ&sjid=qrUMAAAAIBAJ&pg=5088%2C256889> ;
 	fabio:isRepresentationOf sap:article_367 ;
 	fabio:isStoredOn fabio:HD .
@@ -9175,9 +9179,11 @@ sapcorpus:image_367
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_367 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-01-05"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=UJREAAAAIBAJ&sjid=qrUMAAAAIBAJ&pg=5088%2C256889> ;
 	fabio:isRepresentationOf sap:article_367 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9202,7 +9208,7 @@ sapcorpus:image_368
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=q0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6300%2C5152642> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-08"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=q0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6300%2C5152642> ;
 	fabio:isRepresentationOf sap:article_368 ;
 	fabio:isStoredOn fabio:HD .
@@ -9211,9 +9217,11 @@ sapcorpus:image_368
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_368 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-01-10"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=q0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6300%2C5152642> ;
 	fabio:isRepresentationOf sap:article_368 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9237,7 +9245,7 @@ sapcorpus:image_369
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=A1k-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=2621%2C270642> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-01"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=A1k-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=2621%2C270642> ;
 	fabio:isRepresentationOf sap:article_369 ;
 	fabio:isStoredOn fabio:HD .
@@ -9246,9 +9254,11 @@ sapcorpus:image_369
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_369 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-01-14"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=A1k-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=2621%2C270642> ;
 	fabio:isRepresentationOf sap:article_369 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9272,7 +9282,7 @@ sapcorpus:image_370
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=eGZEAAAAIBAJ&sjid=LrIMAAAAIBAJ&pg=2412%2C5100455> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-05-31"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=eGZEAAAAIBAJ&sjid=LrIMAAAAIBAJ&pg=2412%2C5100455> ;
 	fabio:isRepresentationOf sap:article_370 ;
 	fabio:isStoredOn fabio:HD .
@@ -9281,9 +9291,11 @@ sapcorpus:image_370
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_370 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-02-08"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=eGZEAAAAIBAJ&sjid=LrIMAAAAIBAJ&pg=2412%2C5100455> ;
 	fabio:isRepresentationOf sap:article_370 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9307,7 +9319,7 @@ sapcorpus:image_371
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=OFk-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=2349%2C7966975> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-08"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=OFk-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=2349%2C7966975> ;
 	fabio:isRepresentationOf sap:article_371 ;
 	fabio:isStoredOn fabio:HD .
@@ -9316,9 +9328,11 @@ sapcorpus:image_371
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_371 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-02-11"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=OFk-AAAAIBAJ&sjid=YksMAAAAIBAJ&pg=2349%2C7966975> ;
 	fabio:isRepresentationOf sap:article_371 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9342,7 +9356,7 @@ sapcorpus:image_372
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=hkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2575%2C102604> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-08"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=hkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2575%2C102604> ;
 	fabio:isRepresentationOf sap:article_372 ;
 	fabio:isStoredOn fabio:HD .
@@ -9351,9 +9365,11 @@ sapcorpus:image_372
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_372 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-02-27"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=hkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2575%2C102604> ;
 	fabio:isRepresentationOf sap:article_372 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9376,7 +9392,7 @@ sapcorpus:image_373
 	a foaf:Document ;
 	pav:retrievedFrom <http://news.google.com/newspapers?id=i0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2491%2C610959> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "20130608"^^xsd:date ;
 	frbr:exemplarOf <http://news.google.com/newspapers?id=i0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2491%2C610959> ;
 	fabio:isRepresentationOf sap:article_373 ;
 	fabio:isStoredOn fabio:HD .
@@ -9385,9 +9401,11 @@ sapcorpus:image_373
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_373 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-02-27"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <http://news.google.com/newspapers?id=i0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2491%2C610959> ;
 	fabio:isRepresentationOf sap:article_373 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9412,7 +9430,7 @@ sapcorpus:image_374
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=qUpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=4318%2C4958627> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-08"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=qUpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=4318%2C4958627> ;
 	fabio:isRepresentationOf sap:article_374 ;
 	fabio:isStoredOn fabio:HD .
@@ -9421,9 +9439,11 @@ sapcorpus:image_374
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_374 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-04-04"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=qUpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=4318%2C4958627> ;
 	fabio:isRepresentationOf sap:article_374 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9446,7 +9466,7 @@ sapcorpus:image_375
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=qkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2454%2C5006255> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-08"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=qkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2454%2C5006255> ;
 	fabio:isRepresentationOf sap:article_375 ;
 	fabio:isStoredOn fabio:HD .
@@ -9455,9 +9475,11 @@ sapcorpus:image_375
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_375 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-04-04"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=qkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=2454%2C5006255> ;
 	fabio:isRepresentationOf sap:article_375 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9481,7 +9503,7 @@ sapcorpus:image_376
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=p0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=5973%2C4774843> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-06-08"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=p0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=5973%2C4774843> ;
 	fabio:isRepresentationOf sap:article_376 ;
 	fabio:isStoredOn fabio:HD .
@@ -9490,9 +9512,11 @@ sapcorpus:image_376
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_376 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-04-04"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=p0pEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=5973%2C4774843> ;
 	fabio:isRepresentationOf sap:article_376 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9516,7 +9540,7 @@ sapcorpus:image_377
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=qUpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=1830%2C4957925> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2103-06-08"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=qUpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=1830%2C4957925> ;
 	fabio:isRepresentationOf sap:article_377 ;
 	fabio:isStoredOn fabio:HD .
@@ -9525,9 +9549,11 @@ sapcorpus:image_377
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_377 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-04-04"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=qUpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=1830%2C4957925> ;
 	fabio:isRepresentationOf sap:article_377 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9551,7 +9577,7 @@ sapcorpus:image_378
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=wkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6606%2C7943380> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-08-06"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=wkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6606%2C7943380> ;
 	fabio:isRepresentationOf sap:article_378 ;
 	fabio:isStoredOn fabio:HD .
@@ -9560,9 +9586,11 @@ sapcorpus:image_378
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_378 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-09-23"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=wkpEAAAAIBAJ&sjid=zbEMAAAAIBAJ&pg=6606%2C7943380> ;
 	fabio:isRepresentationOf sap:article_378 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9582,6 +9610,8 @@ sapcorpus:article_379
 <http://www.scissorsandpaste.net/sapcorpus/379.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-10-22"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9602,6 +9632,8 @@ sapcorpus:article_380
 <http://www.scissorsandpaste.net/sapcorpus/380.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-10-22"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9622,6 +9654,8 @@ sapcorpus:article_381
 <http://www.scissorsandpaste.net/sapcorpus/381.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-10-22"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9646,7 +9680,7 @@ sapcorpus:image_382
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=2174%2C3136542> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-02-25"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=2174%2C3136542> ;
 	fabio:isRepresentationOf sap:article_382 ;
 	fabio:isStoredOn fabio:HD .
@@ -9655,9 +9689,11 @@ sapcorpus:image_382
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_382 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-11"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=2174%2C3136542> ;
 	fabio:isRepresentationOf sap:article_382 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9681,7 +9717,7 @@ sapcorpus:image_383
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=6094%2C3125776> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-02-25"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=6094%2C3125776> ;
 	fabio:isRepresentationOf sap:article_383 ;
 	fabio:isStoredOn fabio:HD .
@@ -9690,9 +9726,11 @@ sapcorpus:image_383
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_383 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-11"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=6094%2C3125776> ;
 	fabio:isRepresentationOf sap:article_383 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9715,7 +9753,7 @@ sapcorpus:image_384
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=3593%2C3124256> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-02-25"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=3593%2C3124256> ;
 	fabio:isRepresentationOf sap:article_384 ;
 	fabio:isStoredOn fabio:HD .
@@ -9724,9 +9762,11 @@ sapcorpus:image_384
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_384 ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-11"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zZZQAAAAIBAJ&sjid=SzQNAAAAIBAJ&pg=3593%2C3124256> ;
 	fabio:isRepresentationOf sap:article_384 ;
 	fabio:isStoredOn fabio:internet ;
@@ -9745,6 +9785,8 @@ sapcorpus:article_385
 <http://www.scissorsandpaste.net/sapcorpus/385.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-19"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9764,6 +9806,8 @@ sapcorpus:article_386
 <http://www.scissorsandpaste.net/sapcorpus/386.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-19"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9783,6 +9827,8 @@ sapcorpus:article_387
 <http://www.scissorsandpaste.net/sapcorpus/387.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9803,6 +9849,8 @@ sapcorpus:article_388
 <http://www.scissorsandpaste.net/sapcorpus/388.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9824,6 +9872,8 @@ sapcorpus:article_389
 <http://www.scissorsandpaste.net/sapcorpus/389.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9845,6 +9895,8 @@ sapcorpus:article_390
 <http://www.scissorsandpaste.net/sapcorpus/390.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9866,6 +9918,8 @@ sapcorpus:article_391
 <http://www.scissorsandpaste.net/sapcorpus/391.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9887,6 +9941,8 @@ sapcorpus:article_392
 <http://www.scissorsandpaste.net/sapcorpus/392.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9907,6 +9963,8 @@ sapcorpus:article_393
 <http://www.scissorsandpaste.net/sapcorpus/393.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9927,6 +9985,8 @@ sapcorpus:article_394
 <http://www.scissorsandpaste.net/sapcorpus/394.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9946,6 +10006,8 @@ sapcorpus:article_395
 <http://www.scissorsandpaste.net/sapcorpus/395.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9965,6 +10027,8 @@ sapcorpus:article_396
 <http://www.scissorsandpaste.net/sapcorpus/396.xml>
 	a foaf:Document ;		
 	sap:transcribedBy sap: ;
+	sap:transcribedOn "2015-11-20"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
 	cc:attributionURL <http://www.scissorsandpaste.net> ;
@@ -9990,7 +10054,7 @@ sapcorpus:image_397
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> ;
 	pav:retrievedBy sap:mhbeals ;
-	
+	pav:retrievedOn "2013-05-14"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> ;
 	fabio:isRepresentationOf sap:article_397 ;
 	fabio:isStoredOn fabio:HD .
@@ -9999,9 +10063,11 @@ sapcorpus:image_397
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_397 ;		
 	sap:transcribedBy sap:mhbeals ;
+	sap:transcribedOn "2016-04-17"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=zXVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=6437%2C7617560> ;
 	fabio:isRepresentationOf sap:article_397 ;
 	fabio:isStoredOn fabio:internet ;
@@ -10025,8 +10091,8 @@ sapcorpus:article_398
 sapcorpus:image_398
 	a foaf:Document ;
 	pav:retrievedFrom <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
-	pav:retrievedBy sap: ;
-	
+	pav:retrievedBy sap:mhbeals ;
+	pav:retrievedOn "2013-05-14"^^xsd:date ;
 	frbr:exemplarOf <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
 	fabio:isRepresentationOf sap:article_398 ;
 	fabio:isStoredOn fabio:HD .
@@ -10035,9 +10101,11 @@ sapcorpus:image_398
 	a foaf:Document ;
 	sap:transcribedFrom sapcorpus:image_398 ;		
 	sap:transcribedBy sap:mhbeals ;
+	sap:transcribedOn "2016-04-17"^^xsd:date ;			
+	sap:catagorisedOn ""^^xsd:date ;
 	cc:legalcode <https://creativecommons.org/licenses/by/4.0/legalcode> ;
 	cc:attributionName "M. H. Beals" ;
-	cc:attributionURL <http://www.scissorsandpaste.net> ; ;
+	cc:attributionURL <http://www.scissorsandpaste.net> ; 
 	frbr:exemplarOf <https://news.google.com/newspapers?id=znVEAAAAIBAJ&sjid=Z7IMAAAAIBAJ&pg=2468%2C7669826> ;
 	fabio:isRepresentationOf sap:article_398 ;
 	fabio:isStoredOn fabio:internet ;

@@ -100,7 +100,7 @@ sapcorpus:image_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>
 	a foaf:Document ;
 	pav:retrievedFrom &lt;<xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target"/>&gt; ;
 	pav:retrievedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[1]/@n"/> ;
-	<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/date[2]/@when=''">pav:retrievedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when"/>"^^xsd:date ;</xsl:if>
+	<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when!=''">pav:retrievedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when"/>"^^xsd:date ;</xsl:if>
 	frbr:exemplarOf &lt;<xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target"/>&gt; ;
 	fabio:isRepresentationOf sap:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;
 	fabio:isStoredOn fabio:HD .</xsl:if>
@@ -108,12 +108,12 @@ sapcorpus:image_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>
 <!-- XML of Article -->&lt;http://www.scissorsandpaste.net/sapcorpus/<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>.xml&gt;
 	a foaf:Document ;<xsl:if test="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target!=''">
 	sap:transcribedFrom sapcorpus:image_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;</xsl:if>		
-	sap:transcribedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[2]/@n"/> ;<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when=''">
-	sap:transcribedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when"/>"^^xsd:date ;			<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/persName[3] !=''">pav:catagorisedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[3]/@n"/> ;</xsl:if>
+	sap:transcribedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[2]/@n"/> ;<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/date[2]/@when!=''">
+	sap:transcribedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[2]/@when"/>"^^xsd:date ;			<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/persName[3] !=''">pav:catagorisedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[3]/@n"/> ;</xsl:if>
 	sap:catagorisedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[3]/@when"/>"^^xsd:date ;</xsl:if>
 	cc:legalcode &lt;<xsl:value-of select="teiHeader/fileDesc/publicationStmt/availability/licence/@n"/>&gt; ;
 	cc:attributionName "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[2]"/>" ;
-	cc:attributionURL &lt;http://www.scissorsandpaste.net&gt; ;<xsl:if test="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target!=''"> ;
+	cc:attributionURL &lt;http://www.scissorsandpaste.net&gt; ;<xsl:if test="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target!=''"> 
 	frbr:exemplarOf &lt;<xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target"/>&gt; ;</xsl:if>
 	fabio:isRepresentationOf sap:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;
 	fabio:isStoredOn fabio:internet ;<xsl:for-each select="teiHeader/profileDesc/textClass/keywords/list/item"><xsl:if test="contains(@n,'sh')">
