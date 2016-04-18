@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="401">401</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n=""/>. Transcribed on <date when="2016-04-18">20160418</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=zHVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=6643%2C7518365">Google Newspaper Archive</ref></authority>.
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="govt"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="single" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh85123318">slave insurrections</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head><hi rend="center"><hi rend="italic">Extract of a letter from <region n="3570311">Martinique</region>, Sept. </hi>12.</hi></head>
+                <p><pb n="4"/>" A singular revolution has taken place at <region n="3570311">Mar<lb break="no"/>tinique</region>. The Governor, Viscount Damas, with <lb/>the troops, had taken possession of <settlement n="3569907">St. Pierre's</settlement>; <lb/>having established peace, as they concluded, they <lb/>retired to <settlement n="3570821">Fort Bourbon</settlement>; the patriots again at <supplied reason="copy blur">??</supplied><lb break="no"/>ed, have suprised and taken the fort. The go<lb break="no"/>vernor has escaped with a company of grenadiers, <lb/>and it is reported he is since joined by about five <lb/>hundred people of colour."</p>
+            </body>
+        </text>
+    </TEI>

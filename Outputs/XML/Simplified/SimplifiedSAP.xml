@@ -534,7 +534,7 @@
       </date>
       <keywords>
          <keyword>slavery</keyword>
-         <keyword>slave rebellion</keyword>
+         <keyword>slave insurrections</keyword>
       </keywords>
       <headline/>
       <text>
@@ -743,7 +743,7 @@
          <day>14</day>
       </date>
       <keywords>
-         <keyword>slave rebellion</keyword>
+         <keyword>slave insurrections</keyword>
          <keyword>international trade</keyword>
       </keywords>
       <headline/>
@@ -784,7 +784,7 @@
       </date>
       <keywords>
          <keyword>slavery</keyword>
-         <keyword>slave rebellion</keyword>
+         <keyword>slave insurrections</keyword>
       </keywords>
       <headline/>
       <text>
@@ -1078,7 +1078,7 @@
          <day>04</day>
       </date>
       <keywords>
-         <keyword>slave rebellion</keyword>
+         <keyword>slave insurrections</keyword>
       </keywords>
       <headline/>
       <text>
@@ -1614,7 +1614,7 @@
          <day>29</day>
       </date>
       <keywords>
-         <keyword>slave rebellion</keyword>
+         <keyword>slave insurrections</keyword>
       </keywords>
       <headline/>
       <text>
@@ -8028,7 +8028,7 @@
          <day>22</day>
       </date>
       <keywords>
-         <keyword>slave rebellion</keyword>
+         <keyword>slave insurrections</keyword>
          <keyword>weather</keyword>
          <keyword>shipping news</keyword>
          <keyword>shipping news</keyword>
@@ -9360,7 +9360,7 @@
          <day>07</day>
       </date>
       <keywords>
-         <keyword>slave rebellion</keyword>
+         <keyword>slave insurrections</keyword>
          <keyword>slavery</keyword>
       </keywords>
       <headline>Slaves in the West Indies.</headline>
@@ -9611,6 +9611,65 @@
       <text>
          <p>By letters received from Norfolk in Virginia, dated the 23rd of July, we learn that on the 10th of that month the ship Betsey of Greenock, Capt. James Young, had arrived there in 19 days from Jamaica, and brought the following melancholy relation which he received from the crew of the Prudence, whom she picked up on the 1st of Juin lat. 22. 40. long. 85. 32. That from the 7th to the 10th of June the weather had been very hazy, with little wind, so that Capt Addies could not get an observation, and a strong current setting to the Southward and Westward, drove them farther leeward than they imagined. On the 12th, about 3 o'clock in the morning, the watch discovered Cape Catuloh, but before intelligence could be given to the Captain, she struck.  For some time she made no water but about seven the water came in so fast, that by eleven o'clock, A. M. the water was six feet in the hold (the depth of the water in which she lay,) the people being sixteen in number, took to their long boat, and endeavoured to make Cape Antonie; but after four days fruitless labour they were obliged to return to the wreck, where they found two Spaniards plundering, who informed them that there were only four inhabitants on the island, and therefore they could receive no assistance from them; upon which, having taken a quantity of beef and biscuits aboard, they left the wreck a second time, and after having been absent fourteen days, were providentially picked up by the ship Betsey, and carried to Norfolk in Virginia.</p>
          <p>The Prudence was from Jamaica, bound to London, and had upwards of 500 hogsheads of sugar and rum on board.</p>
+      </text>
+   </record>
+   <record>
+      <id>399</id>
+      <title>Glasgow Advertiser</title>
+      <city>Glasgow</city>
+      <province>Scotland</province>
+      <country>United Kingdom</country>
+      <date when="1792-08-13">
+         <year>1792</year>
+         <month>08</month>
+         <day>13</day>
+      </date>
+      <keywords>
+         <keyword>international trade</keyword>
+         <keyword>Canada--commerce</keyword>
+         <keyword>United States--commerce</keyword>
+      </keywords>
+      <headline/>
+      <text>
+         <p>Yesterday a large entry of goods for GeorgiaNew-York, New Providence, and New Brunswick, to the amount of upwards of one hundred and sixty thousand pounds, were entered at the Customhouse.</p>
+      </text>
+   </record>
+   <record>
+      <id>400</id>
+      <title>Glasgow Advertiser</title>
+      <city>Glasgow</city>
+      <province>Scotland</province>
+      <country>United Kingdom</country>
+      <date when="1790-11-15">
+         <year>1790</year>
+         <month>11</month>
+         <day>15</day>
+      </date>
+      <keywords>
+         <keyword>Native Americans</keyword>
+      </keywords>
+      <headline/>
+      <text>
+         <p>The Cherokee Chiefs are not to be presented at Court. After seeing every thing of notoriety in London, and other parts of the kingdom, they will again return to Americain the Spring.</p>
+      </text>
+   </record>
+   <record>
+      <id>401</id>
+      <title>Glasgow Advertiser</title>
+      <city>Glasgow</city>
+      <province>Scotland</province>
+      <country>United Kingdom</country>
+      <date when="1790-11-12">
+         <year>1790</year>
+         <month>11</month>
+         <day>12</day>
+      </date>
+      <keywords>
+         <keyword>slave insurrections</keyword>
+      </keywords>
+      <headline>Extract of a letter from Martinique, Sept. 12.</headline>
+      <text>
+         <p>" A singular revolution has taken place at Martinique. The Governor, Viscount Damas, with the troops, had taken possession of St. Pierre's; having established peace, as they concluded, they retired to Fort Bourbon; the patriots again at ??ed, have suprised and taken the fort. The governor has escaped with a company of grenadiers, and it is reported he is since joined by about five hundred people of colour."</p>
       </text>
    </record>
 </root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="400">400</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n=""/>. Transcribed on <date when="2016-04-18">20160418</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=zXVEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=2541%2C7619529">Google Newspaper Archive</ref></authority>.
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-15"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh85065184">Native Americans</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb n="6"/>The Cherokee Chiefs are not to be presented <lb/>at Court. After seeing every thing of notoriety <lb/>in <settlement n="2643743">London</settlement>, and other parts of the <country n="2635167">kingdom</country>, they <lb/>will again return to <country n="6252001">America</country>in the Spring.</p>
+            </body>
+        </text>
+    </TEI>
