@@ -1159,3 +1159,6 @@ The Cherokee Chiefs are not to be presented at Court. After seeing every thing o
 " A singular revolution has taken place at Martinique. The Governor, Viscount Damas, with the troops, had taken possession of St. Pierre's; having established peace, as they concluded, they retired to Fort Bourbon; the patriots again at ??ed, have suprised and taken the fort. The governor has escaped with a company of grenadiers, and it is reported he is since joined by about five hundred people of colour."
                       
 ---
+On Friday died, at his seat at Cromford, the celebrated Sir Richard Arkwright, who introduced the spinning of cotton on Jennies. This gentleman was once *a barber that shaved at a penny*, but, by this abilities, raised himself to the state of immense opulence, and established the cotton manufacture, for which this country owes him the greatest obligation. It is said, that the profits of his works, for several years past, have amounted to *forty thousand pounds * a year.
+                      
+---

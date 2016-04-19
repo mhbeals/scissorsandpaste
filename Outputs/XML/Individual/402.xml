@@ -2,10 +2,10 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title n="311">311</title>
+                    <title n="402">402</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2013-05-13">20130513</date> by <persName role="collection" n=""/>. Transcribed on <date when="2016-04-19">20160419</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
                     <availability>
                         <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
@@ -13,18 +13,18 @@
                 <sourceDesc>
                     <biblFull>
                         <titleStmt>
-                            <title n="newspaper_sm">Scotsman</title>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain.</authority>
+                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=qGQ-AAAAIBAJ&amp;sjid=o0sMAAAAIBAJ&amp;pg=4827%2C4350414">Google Newspaper Archive</ref></authority>.
                             <pubPlace>
                                 <address>
-                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <settlement n="2648579">Glasgow</settlement>
                                     <region n="2638360">Scotland</region>
                                     <country n="2635167">United Kingdom</country>
                                 </address>
                             </pubPlace>
-                            <date when="1842-03-19"/>
+                            <date when="1792-08-13"/>
                         </publicationStmt>
                     </biblFull>
                 </sourceDesc>
@@ -33,7 +33,7 @@
                 <textDesc>
                     <channel mode="w"/>
                     <constitution type="single"/>
-                    <derivation type="original"/>
+                    <derivation type="plagiarism"/>
                     <domain type="public"/>
                     <factuality type="mixed"/>
                     <interaction type="none" active="corporate" passive="world"/>
@@ -43,8 +43,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="sh85093651">obituary</item>
-                            <item>colonial politics</item>
+                            <item n="sh85033336">cotton manufacture</item>
+                            <item n="sh85093651">obituaries</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -52,7 +52,7 @@
         </teiHeader>
         <text>
             <body>
-                <p><pb/><hi rend="smallcaps">Monument to the late Earl of Dur<lb break="no"/></hi> <lb/><hi rend="smallcaps">hum.</hi> –The New Zealand Company have voted <lb/>t105, towards the erection of the monument to <lb/>the Earl of Durham–the noble earl having been <lb/>the first governor of this important company.</p>
+                <p><pb n="3"/>On Friday died, at his seat at <settlement n="2651927">Cromford</settlement>, the <lb/>celebrated Sir Richard Arkwright, who introdu<lb break="no"/>ced the spinning of cotton on Jennies. This <lb/>gentleman was once <hi rend="italic">a barber that shaved at a pen<lb break="no"/>ny</hi>, but, by this abilities, raised himself to the state <lb/>of immense opulence, and established the cotton <lb/>manufacture, for which this country owes him the <lb/>greatest obligation. It is said, that the profits <lb/>of his works, for several years past, have amount<lb break="no"/>ed to <hi rend="italic">forty thousand pounds </hi> a year.</p>
             </body>
         </text>
     </TEI>

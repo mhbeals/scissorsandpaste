@@ -7169,7 +7169,7 @@
                     <keywords>
                         <list>
                             <item n="sh85065184">Native Americans</item>
-                            <item n="obituary">obituary</item>
+                            <item n="sh85093651">obituary</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -9417,7 +9417,7 @@
                             <item n="sh85065184">Native Americans</item>
                             <item>Anglo-American relations</item>
                             <item n="disease">disease</item>
-                            <item n="obituary">obituary</item>
+                            <item n="sh85093651">obituary</item>
                             <item n="crime">crime</item>
                         </list>
                     </keywords>
@@ -11432,6 +11432,66 @@
                 <p>
                <pb n="4"/>" A singular revolution has taken place at <region n="3570311">Mar<lb break="no"/>tinique</region>. The Governor, Viscount Damas, with <lb/>the troops, had taken possession of <settlement n="3569907">St. Pierre's</settlement>; <lb/>having established peace, as they concluded, they <lb/>retired to <settlement n="3570821">Fort Bourbon</settlement>; the patriots again at <supplied reason="copy blur">??</supplied>
                <lb break="no"/>ed, have suprised and taken the fort. The go<lb break="no"/>vernor has escaped with a company of grenadiers, <lb/>and it is reported he is since joined by about five <lb/>hundred people of colour."</p>
+            </body>
+        </text>
+    </TEI>
+   <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="402">402</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-05-13">20130513</date> by <persName role="collection" n=""/>. Transcribed on <date when="2016-04-19">20160419</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=qGQ-AAAAIBAJ&amp;sjid=o0sMAAAAIBAJ&amp;pg=4827%2C4350414">Google Newspaper Archive</ref>
+                     </authority>.
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1792-08-13"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh85033336">cotton manufacture</item>
+                            <item n="sh85093651">obituaries</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+               <pb n="3"/>On Friday died, at his seat at <settlement n="2651927">Cromford</settlement>, the <lb/>celebrated Sir Richard Arkwright, who introdu<lb break="no"/>ced the spinning of cotton on Jennies. This <lb/>gentleman was once <hi rend="italic">a barber that shaved at a pen<lb break="no"/>ny</hi>, but, by this abilities, raised himself to the state <lb/>of immense opulence, and established the cotton <lb/>manufacture, for which this country owes him the <lb/>greatest obligation. It is said, that the profits <lb/>of his works, for several years past, have amount<lb break="no"/>ed to <hi rend="italic">forty thousand pounds </hi> a year.</p>
             </body>
         </text>
     </TEI>
