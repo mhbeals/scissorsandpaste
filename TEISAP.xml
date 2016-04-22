@@ -193,8 +193,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="post">post</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85105472">postal service</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -253,7 +253,7 @@
                         <list>
                             <item n="slavery">slavery</item>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -312,7 +312,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="prices">prices</item>
                             <item n="sh87004890">international trade</item>
                         </list>
@@ -435,7 +435,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -1027,7 +1027,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="weather">weather</item>
                         </list>
                     </keywords>
@@ -1087,7 +1087,7 @@
                         <list>
                             <item n="sh85065184">Native Americans</item>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item>settlement description</item>
                         </list>
                     </keywords>
@@ -1328,7 +1328,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1564,7 +1564,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1855,10 +1856,10 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                             <item n="currency">currency</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1916,7 +1917,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -2036,8 +2037,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
-                            <item>shipping news</item>
+                            <item n="sh85002415">agriculture</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2152,8 +2153,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
-                            <item n="post">post</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85105472">postal service</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2403,8 +2404,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
-                            <item n="post">post</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85105472">postal service</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2462,7 +2463,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2706,7 +2707,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="religion">religion</item>
                         </list>
                     </keywords>
@@ -2882,7 +2884,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -2942,7 +2944,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -3121,7 +3123,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -3178,7 +3180,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="post">post</item>
+                            <item n="sh85105472">postal service</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -3841,7 +3843,8 @@
                     <keywords>
                         <list>
                             <item n="sh85065184">Native Americans</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -4030,7 +4033,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -4331,7 +4334,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -4510,7 +4513,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="war">war</item>
                         </list>
                     </keywords>
@@ -5146,7 +5149,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -5266,7 +5270,6 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="sh85065184">Native Americans</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -5506,7 +5509,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -5641,7 +5644,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                         </list>
                     </keywords>
@@ -5708,7 +5712,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item>colonial government</item>
                             <item n="speeches">speeches</item>
@@ -5851,7 +5856,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -5914,7 +5920,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="navy">navy</item>
                         </list>
                     </keywords>
@@ -5978,7 +5985,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="navy">navy</item>
@@ -6060,7 +6068,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -6124,7 +6133,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -6258,7 +6268,8 @@
                             <item n="sh87004890">international trade</item>
                             <item n="military">military</item>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -6324,7 +6335,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item n="navy">navy</item>
                         </list>
@@ -6398,7 +6410,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -6467,7 +6480,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="military">military</item>
                             <item n="privateering">privateering</item>
@@ -6559,7 +6573,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -6847,7 +6861,7 @@
                         <list>
                             <item n="emigration">emigration</item>
                             <item n="weather">weather</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="prices">prices</item>
                             <item>economic migration</item>
                         </list>
@@ -6911,7 +6925,7 @@
                     <keywords>
                         <list>
                             <item n="emigration">emigration</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="newspapers">newspapers</item>
                             <item>economic migration</item>
                         </list>
@@ -7200,7 +7214,8 @@
                             <item n="sh87004890">international trade</item>
                             <item n="manufacturing">manufacturing</item>
                             <item n="emigration">emigration</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="weather">weather</item>
                             <item n="disease">disease</item>
                         </list>
@@ -7267,7 +7282,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item>colonial government</item>
                         </list>
@@ -7343,7 +7359,8 @@
                         <list>
                             <item n="crime">crime</item>
                             <item n="filibustering">filibustering</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -8102,7 +8119,7 @@
                             <item n="sh87004890">international trade</item>
                             <item n="transportation">transportation</item>
                             <item n="war">war</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -8420,9 +8437,9 @@
                             <item>colonial government</item>
                             <item n="law">law</item>
                             <item n="military">military</item>
-                            <item n="post">post</item>
+                            <item n="sh85105472">postal service</item>
                             <item n="rebellion">rebellion</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item>timber trade</item>
                             <item n="weather">weather</item>
                         </list>
@@ -9794,7 +9811,7 @@
                     <keywords>
                         <list>
                             <item n="disease">disease</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -10049,7 +10066,7 @@
                         <list>
                             <item n="emigration">emigration</item>
                             <item n="privateering">privateering</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh85121666">shipwreck</item>
                             <item>Ottoman Empire</item>
                         </list>
@@ -11102,7 +11119,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item>colonial economy</item>
                             <item>colonial government</item>
                             <item>land speculation</item>
@@ -11229,9 +11246,9 @@
                     <keywords>
                         <list>
                             <item n="emigration">emigration</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -11887,7 +11904,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -12651,7 +12668,7 @@
                     <keywords>
                         <list>
                             <item>colonial government</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -12797,7 +12814,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -13111,7 +13128,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="emigration">emigration</item>
                             <item>settlement description</item>
                         </list>
@@ -13170,7 +13187,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -13230,7 +13247,7 @@
                         <list>
                             <item n="emigration">emigration</item>
                             <item n="religion">religion</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -13459,7 +13476,7 @@
                     <keywords>
                         <list>
                             <item n="emigration">emigration</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -13635,7 +13652,7 @@
                         <list>
                             <item n="sh87004890">international trade</item>
                             <item n="price">price</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -13812,7 +13829,7 @@
                     <keywords>
                         <list>
                             <item n="transportation">transportation</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -13926,7 +13943,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="prices">prices</item>
                             <item n="sh87004890">international trade</item>
                         </list>
@@ -14299,7 +14316,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -14693,7 +14710,7 @@
                         <list>
                             <item n="weather">weather</item>
                             <item>timber trade</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="fire">fire</item>
                         </list>
                     </keywords>
@@ -16191,7 +16208,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item>land speculation</item>
                             <item n="emigration">emigration</item>
                         </list>
@@ -16684,7 +16701,7 @@
                     <keywords>
                         <list>
                             <item>land speculation</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -16804,7 +16821,7 @@
                     <keywords>
                         <list>
                             <item n="emigration">emigration</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -17266,7 +17283,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="emigration">emigration</item>
                             <item n="accidents">accidents</item>
                         </list>
@@ -17683,7 +17700,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="emigration">emigration</item>
                         </list>
                     </keywords>
@@ -18210,7 +18227,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="society">society</item>
                             <item>settlement description</item>
                             <item n="emigration">emigration</item>
@@ -18450,7 +18467,7 @@
                     <keywords>
                         <list>
                             <item n="crime">crime</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="bequests">bequests</item>
                             <item n="fire">fire</item>
                             <item n="religion">religion</item>
@@ -19189,7 +19206,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -19492,7 +19509,7 @@
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>
                             <item>colonial government</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="filibustering">filibustering</item>
                         </list>
                     </keywords>
@@ -19555,7 +19572,7 @@
                     <keywords>
                         <list>
                             <item n="weather">weather</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="accidents">accidents</item>
                             <item n="earthquake">earthquake</item>
                         </list>
@@ -19630,7 +19647,7 @@
                             <item n="taxation">taxation</item>
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item>colonial government</item>
                             <item>foreign relations</item>
                         </list>
@@ -19829,13 +19846,13 @@
                             <item n="census">census</item>
                             <item n="reprinting">reprinting</item>
                             <item n="slavery">slavery</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="emigration">emigration</item>
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="slavery">slavery</item>
                             <item n="mining">mining</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -20080,7 +20097,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="war">war</item>
                             <item>colonial government</item>
@@ -20528,8 +20545,8 @@
                         <list>
                             <item n="sh85123318">slave insurrections</item>
                             <item n="weather">weather</item>
-                            <item>shipping news</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="sh87004890">international trade</item>
                             <item>foreign relations</item>
@@ -20803,11 +20820,11 @@
                         <list>
                             <item n="disease">disease</item>
                             <item n="earthquake">earthquake</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="slavery">slavery</item>
                             <item n="mutiny">mutiny</item>
                             <item n="sh85065184">Native Americans</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="slavery">slavery</item>
                             <item n="rebellion">rebellion</item>
                             <item n="sh85121666">shipwreck</item>
@@ -21152,7 +21169,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="weather">weather</item>
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>
@@ -22053,7 +22070,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item>foreign relations</item>
                         </list>
                     </keywords>
@@ -22253,7 +22271,7 @@
                             <item>land speculation</item>
                             <item>settlement description</item>
                             <item n="newspapers">newspapers</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="taxation">taxation</item>
                             <item n="education">education</item>
                             <item n="emigration">emigration</item>
@@ -22500,7 +22518,8 @@
                     <keywords>
                         <list>
                             <item n="sh85065184">Native Americans</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="disease">disease</item>
                             <item n="sh85093651">obituary</item>
                             <item n="crime">crime</item>
@@ -22660,7 +22679,8 @@
                             <item n="speeches">speeches</item>
                             <item n="sh87004890">international trade</item>
                             <item n="sh85065184">Native Americans</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item>foreign relations</item>
                             <item n="embargoes">embargoes</item>
                         </list>
@@ -22829,7 +22849,8 @@
                     <keywords>
                         <list>
                             <item n="sh85065184">Native Americans</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="privateering">privateering</item>
                             <item>border dispute</item>
                         </list>
@@ -22923,7 +22944,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item>border dispute</item>
                             <item n="embargoes">embargoes</item>
                         </list>
@@ -22991,9 +23013,10 @@
                     <keywords>
                         <list>
                             <item n="sh85065184">Native Americans</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="war">war</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -23061,7 +23084,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="war">war</item>
                         </list>
@@ -23341,7 +23365,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item>colonial government</item>
                         </list>
                     </keywords>
@@ -23459,8 +23484,9 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>Anglo-American relations</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
+                            <item n="sh85002415">agriculture</item>
                             <item>timber trade</item>
                         </list>
                     </keywords>
@@ -23575,7 +23601,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="weather">weather</item>
                         </list>
                     </keywords>
@@ -23694,7 +23720,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="slavery">slavery</item>
                         </list>
                     </keywords>
@@ -23885,7 +23911,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -23946,7 +23972,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -24003,7 +24030,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -24061,7 +24088,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="post">post</item>
+                            <item n="sh85105472">postal service</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -24263,7 +24290,7 @@
                     <title n="398">398</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n=""></persName>. Transcribed on <date when="2016-04-17">20160417</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2016-04-17">20160417</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
                     <availability>
                         <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions"><xsl:output method="text" version="1.0" encoding="UTF-8" indent="yes"/><xsl:template match="teiCorpus"><xsl:result-document method="text" href="Outputs\RDF\SAPRDF.ttl">
 
-@prefix cc: &lt;http://web.resource.org/cc/&gt;
-@prefix dc: &lt;http://purl.org/dc/terms/&gt;
-@prefix fabio: &lt;http://purl.org/spar/fabio/&gt;
-@prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
-@prefix frbr: &lt;http://purl.org/spar/frbr/&gt;
-@prefix sap: &lt;http://www.scissorsandpaste.net/sapont#&gt;
-@prefix sapcorpus: &lt;http://www.scissorsandpaste.net/sapcorpus#&gt;
-@prefix sapmemes: &lt;http://www.scissorsandpaste.net/sapmemes#&gt;
-@prefix prism: &lt;http://prismstandard.org/namespaces/2.0/basic/&gt;
-@prefix pav: &lt;http://purl.org/pav/&gt;
-@prefix prov: &lt;http://www.w3.org/ns/prov#&gt;
-@prefix rdfs: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
-@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt;
+@prefix cc: &lt;http://web.resource.org/cc/&gt; .
+@prefix dc: &lt;http://purl.org/dc/terms/&gt; .
+@prefix fabio: &lt;http://purl.org/spar/fabio/&gt; .
+@prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt; .
+@prefix frbr: &lt;http://purl.org/spar/frbr/&gt; .
+@prefix sap: &lt;http://www.scissorsandpaste.net/sapont#&gt; .
+@prefix sapcorpus: &lt;http://www.scissorsandpaste.net/sapcorpus#&gt; .
+@prefix sapmemes: &lt;http://www.scissorsandpaste.net/sapmemes#&gt; .
+@prefix prism: &lt;http://prismstandard.org/namespaces/2.0/basic/&gt; .
+@prefix pav: &lt;http://purl.org/pav/&gt; .
+@prefix prov: &lt;http://www.w3.org/ns/prov#&gt; .
+@prefix rdfs: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; .
 
 <!-- Standard Definitions -->sap:heading
 	a prov:entity ; 
@@ -91,7 +91,7 @@ sapcorpus:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>
 <xsl:if test="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target!=''">
 &lt;<xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target"/>&gt; 
 	a fabio:WebManifestation ;
-	frbr:embodimentOf sap:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>.
+	frbr:embodimentOf sapcorpus:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>.
 </xsl:if>
 
 <!-- Digital Image of Article -->
@@ -102,20 +102,20 @@ sapcorpus:image_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>
 	pav:retrievedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[1]/@n"/> ;
 	<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when!=''">pav:retrievedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[1]/@when"/>"^^xsd:date ;</xsl:if>
 	frbr:exemplarOf &lt;<xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target"/>&gt; ;
-	fabio:isRepresentationOf sap:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;
+	fabio:isRepresentationOf sapcorpus:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;
 	fabio:isStoredOn fabio:HD .</xsl:if>
 	
 <!-- XML of Article -->&lt;http://www.scissorsandpaste.net/sapcorpus/<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/>.xml&gt;
 	a foaf:Document ;<xsl:if test="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target!=''">
 	sap:transcribedFrom sapcorpus:image_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;</xsl:if>		
-	sap:transcribedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[2]/@n"/> ;
-	sap:transcribedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[2]/@when"/>"^^xsd:date ;			<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/persName[3] !=''">pav:catagorisedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[3]/@n"/> ;
+	sap:transcribedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[2]/@n"/> ;<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/date[2]/@when!=''">
+	sap:transcribedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[2]/@when"/>"^^xsd:date ;			<xsl:if test="teiHeader/fileDesc/publicationStmt/authority/persName[3] !=''">pav:catagorisedBy sap:<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[3]/@n"/> ;</xsl:if>
 	sap:catagorisedOn "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/date[3]/@when"/>"^^xsd:date ;</xsl:if>
 	cc:legalcode &lt;<xsl:value-of select="teiHeader/fileDesc/publicationStmt/availability/licence/@n"/>&gt; ;
 	cc:attributionName "<xsl:value-of select="teiHeader/fileDesc/publicationStmt/authority/persName[2]"/>" ;
 	cc:attributionURL &lt;http://www.scissorsandpaste.net&gt; ;<xsl:if test="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target!=''"> 
 	frbr:exemplarOf &lt;<xsl:value-of select="teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/authority/ref/@target"/>&gt; ;</xsl:if>
-	fabio:isRepresentationOf sap:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;
+	fabio:isRepresentationOf sapcorpus:article_<xsl:value-of select="teiHeader/fileDesc/titleStmt/title/@n"/> ;
 	fabio:isStoredOn fabio:internet ;<xsl:for-each select="teiHeader/profileDesc/textClass/keywords/list/item"><xsl:if test="contains(@n,'sh')">
 	dc:coverage &lt;http://id.loc.gov/authorities/subjects/<xsl:value-of select="@n"/>.html&gt; ;</xsl:if></xsl:for-each><xsl:if test="text/body/head/settlement != ''"><xsl:for-each select="text/body/head/settlement">
 	dc:coverage &lt;http://www.geonames.org/<xsl:value-of select="@n"/>&gt; ;</xsl:for-each></xsl:if><xsl:if test="text/body/head/province != ''"><xsl:for-each select="text/body/head/province"> 
