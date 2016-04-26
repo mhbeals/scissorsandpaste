@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="403">403</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image on <date when="2013-05-14">20130514</date> by <persName role="collection" n="mhbeals"/>. Transcribed on <date when="2016-04-26">20160426</date> by <persName role="transcription" n="mhbeals">M. H. Beals</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain. Digitised image available from <ref target="https://news.google.com/newspapers?id=y3VEAAAAIBAJ&amp;sjid=Z7IMAAAAIBAJ&amp;pg=4146%2C7448679">Google Newspaper Archive</ref></authority>.
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-08"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="single" passive="single"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85147353">Women--Great Britain</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <head><hi rend="center"><hi rend="italic">Extract of a letter from a Gentleman in Edinburgh <lb/>to his friend here, Nov. </hi>6.</hi></head>
+                <p><pb n="6"/>" There have been an amazing number of re<lb break="no"/>cruiting parties here these 8 days by gone, and <lb/>I dare say they have got among them at least 200 <lb/>recruits this week. Only in two or three parti<lb break="no"/>cular instances have large sums been given–the <lb/>bounty is generally from 5 to 6 guineas.</p>
+                <p>" This place is at present full of people, many <lb/>of whom may be said to have no more than what <lb/>keeps soul and body together–I heartily wish <lb/>they would also take away our loose women–they <lb/>were never so numerous, nor so troublesome. If <lb/>it was not for the recruiting service, and the pros<lb break="no"/> of a Bridewell, which it is hoped our Magi<lb break="no"/>states will shortly set seriously about, we would have but dismal prospects before us the ensuing <lb/>winter.–I am informed, government propose <lb/>sending 2000 of our bad women–they would never be <lb/>missed out of this place."</p>
+            </body>
+        </text>
+    </TEI>

@@ -170,7 +170,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -368,7 +368,7 @@
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>
                             <item>colonial government</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="filibustering">filibustering</item>
                         </list>
                     </keywords>
@@ -446,7 +446,7 @@
                             <item n="taxation">taxation</item>
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item>colonial government</item>
                             <item>foreign relations</item>
                         </list>
@@ -689,13 +689,13 @@
                             <item n="census">census</item>
                             <item n="reprinting">reprinting</item>
                             <item n="slavery">slavery</item>
-                            <item>shipping news</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="slavery">slavery</item>
                             <item n="mining">mining</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -943,7 +943,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="war">war</item>
                             <item>colonial government</item>
@@ -1336,7 +1336,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="weather">weather</item>
                             <item n="war">war</item>
                             <item n="sh85065184">Native Americans</item>

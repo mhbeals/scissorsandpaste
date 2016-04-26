@@ -1,0 +1,1 @@
+Yesterday a large entry of goods for GeorgiaNew-York, New Providence, and New Brunswick, to the amount of upwards of one hundred and sixty thousand pounds, were entered at the Customhouse.

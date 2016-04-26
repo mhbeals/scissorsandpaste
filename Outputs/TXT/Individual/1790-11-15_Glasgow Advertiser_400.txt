@@ -1,0 +1,1 @@
+The Cherokee Chiefs are not to be presented at Court. After seeing every thing of notoriety in London, and other parts of the kingdom, they will again return to Americain the Spring.

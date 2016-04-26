@@ -1,0 +1,1 @@
+The next mail for Halifax will be the last  season to British America. It will be dispatched  on the 7th of next month from the Post office.

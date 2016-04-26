@@ -124,7 +124,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -269,7 +269,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                         </list>
                     </keywords>
@@ -339,7 +340,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item>colonial government</item>
                             <item n="speeches">speeches</item>
@@ -495,7 +497,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -563,7 +566,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="navy">navy</item>
                         </list>
                     </keywords>
@@ -632,7 +636,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="navy">navy</item>
@@ -726,7 +731,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -794,7 +800,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -935,7 +942,8 @@
                             <item n="sh87004890">international trade</item>
                             <item n="military">military</item>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1007,7 +1015,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item n="navy">navy</item>
                         </list>
@@ -1086,7 +1095,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                         </list>
                     </keywords>
@@ -1158,7 +1168,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="sh85065184">Native Americans</item>
                             <item n="military">military</item>
                             <item n="privateering">privateering</item>
@@ -1259,7 +1270,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1489,9 +1500,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="weather">weather</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="prices">prices</item>
                             <item>economic migration</item>
                         </list>
@@ -1558,8 +1569,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="newspapers">newspapers</item>
                             <item>economic migration</item>
                         </list>
@@ -1769,7 +1780,7 @@
                     <keywords>
                         <list>
                             <item n="meeting">meeting</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>national characteristics</item>
                             <item n="charity">charity</item>
                             <item>economic migration</item>
@@ -1863,7 +1874,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item>colonial government</item>
                         </list>
@@ -1945,7 +1957,8 @@
                         <list>
                             <item n="crime">crime</item>
                             <item n="filibustering">filibustering</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2096,7 +2109,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="wages">wages</item>
                             <item n="disease">disease</item>
                             <item>national characteristics</item>
@@ -2168,7 +2181,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>settlement description</item>
                         </list>
                     </keywords>
@@ -2238,7 +2251,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>settlement description</item>
                             <item>national characteristics</item>
                             <item n="newspapers">newspapers</item>
@@ -2383,7 +2396,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2459,7 +2472,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>settlement description</item>
                             <item>national characteristics</item>
                             <item n="slavery">slavery</item>
@@ -2770,7 +2783,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>

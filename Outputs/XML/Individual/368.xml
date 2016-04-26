@@ -5,8 +5,7 @@
                     <title n="368">368</title>
                 </titleStmt>
                 <publicationStmt>
-                    <authority>Collected from a digital image on <date when="2013-06-08">20130608
-</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-01-10">20150110</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
+                    <authority>Collected from a digital image on <date when="2013-06-08">20130608</date> by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed on <date when="2015-01-10">20150110</date> by <persName role="transcription">M. H. Beals</persName>.</authority>
                     <availability>
                         <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
                     </availability>
@@ -17,8 +16,7 @@
                             <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from
- <ref target="http://news.google.com/newspapers?id=q0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6300%2C5152642">Google News Archive</ref>
+                            <authority>Text within the public domain. Digitised image available from <ref target="http://news.google.com/newspapers?id=q0pEAAAAIBAJ&amp;sjid=zbEMAAAAIBAJ&amp;pg=6300%2C5152642">Google News Archive</ref>
                             </authority>
                             <pubPlace>
                                 <address>
@@ -49,10 +47,10 @@
                             <item>land speculation</item>
                             <item>settlement description</item>
                             <item n="newspapers">newspapers</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="taxation">taxation</item>
                             <item n="education">education</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>

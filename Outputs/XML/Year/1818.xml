@@ -46,8 +46,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="newspapers">newspapers</item>
                             <item>economic migration</item>
                         </list>
@@ -257,7 +257,7 @@
                     <keywords>
                         <list>
                             <item n="meeting">meeting</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>national characteristics</item>
                             <item n="charity">charity</item>
                             <item>economic migration</item>
@@ -353,8 +353,9 @@
                             <item>timber trade</item>
                             <item n="sh87004890">international trade</item>
                             <item n="manufacturing">manufacturing</item>
-                            <item n="emigration">emigration</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="weather">weather</item>
                             <item n="disease">disease</item>
                         </list>
@@ -429,7 +430,8 @@
                     <keywords>
                         <list>
                             <item n="war">war</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item n="military">military</item>
                             <item>colonial government</item>
                         </list>
@@ -511,7 +513,8 @@
                         <list>
                             <item n="crime">crime</item>
                             <item n="filibustering">filibustering</item>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -662,7 +665,7 @@
                     <keywords>
                         <list>
                             <item>settlement description</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="wages">wages</item>
                             <item n="disease">disease</item>
                             <item>national characteristics</item>
@@ -734,7 +737,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>settlement description</item>
                         </list>
                     </keywords>

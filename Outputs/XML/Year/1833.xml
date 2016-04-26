@@ -48,7 +48,7 @@
                         <list>
                             <item n="sh87004890">international trade</item>
                             <item n="price">price</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -237,7 +237,7 @@
                     <keywords>
                         <list>
                             <item n="transportation">transportation</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -353,7 +353,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="prices">prices</item>
                             <item n="sh87004890">international trade</item>
                         </list>
@@ -480,7 +480,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -617,8 +617,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>female emigration</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85147353">Women--Great Britain</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>emigration scheme</item>
                         </list>
                     </keywords>

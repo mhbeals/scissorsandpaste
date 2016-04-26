@@ -107,7 +107,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>land speculation</item>
                         </list>
                     </keywords>
@@ -168,7 +168,7 @@
                     <keywords>
                         <list>
                             <item>land speculation</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -294,8 +294,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
-                            <item>shipping news</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -354,7 +354,7 @@
                     <keywords>
                         <list>
                             <item n="accidents">accidents</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="sh85121666">shipwreck</item>
                         </list>
                     </keywords>
@@ -796,8 +796,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="accidents">accidents</item>
                         </list>
                     </keywords>
@@ -922,7 +922,7 @@
                         <list>
                             <item n="charity">charity</item>
                             <item>economic migration</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>

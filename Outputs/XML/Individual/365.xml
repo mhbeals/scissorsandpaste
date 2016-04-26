@@ -16,8 +16,7 @@
                             <title n="newspaper_ga">Glasgow Advertiser</title>
                         </titleStmt>
                         <publicationStmt>
-                            <authority>Text within the public domain. Digitised image available from
- <ref target="http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=4213%2C5516159"> Google News Archive</ref>
+                            <authority>Text within the public domain. Digitised image available from <ref target="http://news.google.com/newspapers?id=Jlk-AAAAIBAJ&amp;sjid=YksMAAAAIBAJ&amp;pg=4213%2C5516159"> Google News Archive</ref>
                             </authority>
                             <pubPlace>
                                 <address>
@@ -45,7 +44,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>Anglo-American relations</item>
+                            <item n="sh2007100111">United States--Relations--Great Britain</item>
+                            <item n="sh2007100247">Great Britain--Relations--United States</item>
                             <item>foreign relations</item>
                         </list>
                     </keywords>

@@ -126,7 +126,7 @@
                             <item n="sh87004890">international trade</item>
                             <item n="transportation">transportation</item>
                             <item n="war">war</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -443,7 +443,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -566,10 +566,10 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
-                            <item>shipping news</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh87004890">international trade</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -1276,7 +1276,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2050,7 +2050,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2109,7 +2109,7 @@
                     <keywords>
                         <list>
                             <item>colonial government</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2271,7 +2271,7 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2482,7 +2482,7 @@
                         <list>
                             <item>colonial government</item>
                             <item n="nationalism">nationalism</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="disease">disease</item>
                         </list>
                     </keywords>
@@ -2621,8 +2621,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>settlement description</item>
                         </list>
                     </keywords>
@@ -2681,7 +2681,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -2742,9 +2742,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="religion">religion</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -2979,8 +2979,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
-                            <item>shipping news</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -3164,7 +3164,7 @@
                         <list>
                             <item n="sh87004890">international trade</item>
                             <item n="price">price</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -3353,7 +3353,7 @@
                     <keywords>
                         <list>
                             <item n="transportation">transportation</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -3469,7 +3469,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="prices">prices</item>
                             <item n="sh87004890">international trade</item>
                         </list>
@@ -3596,7 +3596,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -3733,8 +3733,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>female emigration</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85147353">Women--Great Britain</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>emigration scheme</item>
                         </list>
                     </keywords>
@@ -3865,7 +3866,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="sh87004890">international trade</item>
                         </list>
                     </keywords>
@@ -4041,7 +4042,7 @@
                     <keywords>
                         <list>
                             <item>colonial government</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -4283,7 +4284,7 @@
                         <list>
                             <item n="weather">weather</item>
                             <item>timber trade</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="fire">fire</item>
                         </list>
                     </keywords>
@@ -4635,8 +4636,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>female emigration</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85147353">Women--Great Britain</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -5079,7 +5081,7 @@
                             <item n="theatre">theatre</item>
                             <item n="religion">religion</item>
                             <item n="sh85093651">obituary</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="disease">disease</item>
                         </list>
                     </keywords>
@@ -5247,8 +5249,9 @@
                     <keywords>
                         <list>
                             <item>colonial government</item>
-                            <item n="emigration">emigration</item>
-                            <item>female emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85147353">Women--Great Britain</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>emigration scheme</item>
                             <item n="corruption">corruption</item>
                         </list>
@@ -5891,9 +5894,9 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item>land speculation</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -6151,7 +6154,7 @@
                         <list>
                             <item n="religion">religion</item>
                             <item n="rebellion">rebellion</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -6355,7 +6358,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item>land speculation</item>
                         </list>
                     </keywords>
@@ -6416,7 +6419,7 @@
                     <keywords>
                         <list>
                             <item>land speculation</item>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item>Pacific Islanders</item>
                         </list>
                     </keywords>
@@ -6542,8 +6545,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
-                            <item>shipping news</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85121579">shipping</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -6602,7 +6605,7 @@
                     <keywords>
                         <list>
                             <item n="accidents">accidents</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="sh85121666">shipwreck</item>
                         </list>
                     </keywords>
@@ -7044,8 +7047,8 @@
                     <keywords>
                         <list>
                             <item n="sh87004890">international trade</item>
-                            <item>shipping news</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="accidents">accidents</item>
                         </list>
                     </keywords>
@@ -7170,7 +7173,7 @@
                         <list>
                             <item n="charity">charity</item>
                             <item>economic migration</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -7480,8 +7483,8 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85121579">shipping</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -7852,7 +7855,7 @@
                     <keywords>
                         <list>
                             <item>economic migration</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -8036,10 +8039,10 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item>shipping news</item>
+                            <item n="sh85121579">shipping</item>
                             <item n="society">society</item>
                             <item>settlement description</item>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -8099,7 +8102,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                         </list>
                     </keywords>
                 </textClass>
@@ -8218,7 +8221,7 @@
                 <textClass>
                     <keywords>
                         <list>
-                            <item n="emigration">emigration</item>
+                            <item n="sh85042782">emigration and immigration</item>
                             <item n="census">census</item>
                         </list>
                     </keywords>
@@ -8288,7 +8291,7 @@
                     <keywords>
                         <list>
                             <item n="crime">crime</item>
-                            <item n="agriculture">agriculture</item>
+                            <item n="sh85002415">agriculture</item>
                             <item n="bequests">bequests</item>
                             <item n="fire">fire</item>
                             <item n="religion">religion</item>
