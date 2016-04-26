@@ -1,1 +1,1 @@
-This morning some dispatches were received at the Secretary of State's Office from Halifax, which were brought over in the Friendship, Capt. Taylor, arrived at Liverpool.
+This morning some dispatches were received at the Secretary of State's Office from Halifax, which were brought over in the Friendship, Capt. Taylor, arrived at Liverpool.

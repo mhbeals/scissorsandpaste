@@ -7,7 +7,8 @@
         <xsl:for-each select="TEI">
             <xsl:result-document method="text"
                 href="Outputs\MD\Individual\{teiHeader/fileDesc/sourceDesc/biblFull/publicationStmt/date/@when}_{teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title}_{teiHeader/fileDesc/titleStmt/title}.md">
-<xsl:apply-templates select="text/body/p"/>
+                <xsl:value-of select="text/body/head"/><xsl:text>&#xd;&#xd;</xsl:text>
+            <xsl:apply-templates select="text/body/p"/>
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
