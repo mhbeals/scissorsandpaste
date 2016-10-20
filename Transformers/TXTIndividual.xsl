@@ -12,4 +12,5 @@
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="p"><xsl:apply-templates/><xsl:text>&#xd;&#xd;</xsl:text></xsl:template>
+    <xsl:template match="char[@rend='dash']">--</xsl:template>
 </xsl:stylesheet>
